@@ -1,25 +1,5 @@
 [
   {
-    "id": "p1-s2",
-    "title": "Abenaki Heritage",
-    "publisher": "abenakiheritage.org",
-    "url": "https://abenakiheritage.org/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Abenaki Heritage” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Abenaki",
-        "slug": "abenaki"
-      }
-    ]
-  },
-  {
     "id": "p245-s1",
     "title": "ABORIGINAL HISTORY-Plains Cree",
     "publisher": "aboriginalhistory.ca",
@@ -43,17 +23,59 @@
     ]
   },
   {
-    "id": "p3-s1",
-    "title": "Absentee Shawnee Tribe |",
-    "publisher": "absenteeshawneetribe-nsn.gov",
+    "id": "history",
+    "title": "Our Tribe",
+    "publisher": "Absentee Shawnee Tribal Health System",
+    "url": "https://www.asthealth.org/our-tribe",
+    "type": "Indigenous-led",
+    "topics": [
+      "History",
+      "Government",
+      "Homelands"
+    ],
+    "annotation": "Tribe-owned health system account of displacement, the Absentee name, Big Jim and White Turkey communities, landholding, and constitutional organization. Avoid treating undated population figures as current.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Absentee Shawnee",
+        "slug": "absentee-shawnee"
+      }
+    ]
+  },
+  {
+    "id": "newspaper",
+    "title": "Absentee Shawnee Tribal News — January 2026",
+    "publisher": "Absentee Shawnee Tribe of Indians of Oklahoma",
+    "url": "https://www.absenteeshawneetribe-nsn.gov/assets/newsletter/january_2026_ast_news.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Contemporary",
+      "History"
+    ],
+    "annotation": "Dated tribal newspaper with a report on Among the Shawnee and participation by language and historic-preservation staff.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Absentee Shawnee",
+        "slug": "absentee-shawnee"
+      }
+    ]
+  },
+  {
+    "id": "government",
+    "title": "Absentee Shawnee Tribe — official website",
+    "publisher": "Absentee Shawnee Tribe of Indians of Oklahoma",
     "url": "https://www.absenteeshawneetribe-nsn.gov/",
     "type": "Indigenous-led",
     "topics": [
+      "Government",
+      "Contemporary",
       "Identity",
       "History",
       "Contemporary life"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Absentee Shawnee Tribe |” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Direct access to the tribal government and its public communications; use dated documents for particular programs and officeholders.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -150,7 +172,47 @@
     ]
   },
   {
-    "id": "p6-s1",
+    "id": "community",
+    "title": "About the Adai Caddo Indian Nation",
+    "publisher": "Adai Caddo Indian Nation",
+    "url": "https://adaicaddo.com/about/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "History",
+      "Homelands"
+    ],
+    "annotation": "Community-published account emphasizing ancestral land, historical records, and continuity. Historical priority claims and legal-status statements require their underlying documentation.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Adai",
+        "slug": "adai"
+      }
+    ]
+  },
+  {
+    "id": "programs",
+    "title": "Programs & Services",
+    "publisher": "Adai Caddo Indian Nation",
+    "url": "https://adaicaddo.com/programs/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Contemporary",
+      "Culture"
+    ],
+    "annotation": "Public account of language reconstruction, education, field trips, and emergency management. Reconstruction and program plans are identified as the community’s reported work.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Adai",
+        "slug": "adai"
+      }
+    ]
+  },
+  {
+    "id": "p38-s2",
     "title": "History – Adai Caddo Indian Nation",
     "publisher": "adaicaddo.com",
     "url": "https://adaicaddo.com/about/history/",
@@ -163,32 +225,8 @@
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Adai",
-        "slug": "adai"
-      },
-      {
         "name": "Caddo",
         "slug": "caddo"
-      }
-    ]
-  },
-  {
-    "id": "p6-s2",
-    "title": "Programs & Services – Adai Caddo Indian Nation",
-    "publisher": "adaicaddo.com",
-    "url": "https://adaicaddo.com/programs/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Programs & Services – Adai Caddo Indian Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Adai",
-        "slug": "adai"
       }
     ]
   },
@@ -213,6 +251,26 @@
     ]
   },
   {
+    "id": "p25-s5",
+    "title": "ALMG impulsa idioma awakateko con distribución de documento en centros educativos",
+    "publisher": "Agencia Guatemalteca de Noticias",
+    "url": "https://agn.gt/almg-impulsa-idioma-awakateko-con-distribucion-de-documento-en-centros-educativos/",
+    "type": "Government",
+    "topics": [
+      "Education",
+      "Literature",
+      "Contemporary life"
+    ],
+    "annotation": "June 16, 2025 report documents a specific Awakateko-led school-material distribution, naming participating institutions and the publication. Provides a dated example of language work beyond endangerment summaries.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awakateko",
+        "slug": "awakateko"
+      }
+    ]
+  },
+  {
     "id": "p244-s2",
     "title": "Home",
     "publisher": "agriculture.navajo-nsn.gov",
@@ -232,17 +290,37 @@
     ]
   },
   {
-    "id": "p7-s1",
-    "title": "Ahtna History & Culture - An Alaska Native Regional Corporation",
-    "publisher": "ahtna.com",
+    "id": "commission",
+    "title": "About the Ahtna Intertribal Resource Commission",
+    "publisher": "Ahtna Intertribal Resource Commission",
+    "url": "https://www.ahtnatribal.org/about-us",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "Homelands",
+      "Contemporary"
+    ],
+    "annotation": "Explains the eight tribal members, two corporate landholders, 2011 formation, and stewardship mission; useful for distinguishing organizational roles.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ahtna",
+        "slug": "ahtna"
+      }
+    ]
+  },
+  {
+    "id": "culture",
+    "title": "Ahtna History & Culture",
+    "publisher": "Ahtna, Incorporated",
     "url": "https://www.ahtna.com/about/history-and-culture/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
       "History",
-      "Culture"
+      "Culture",
+      "Homelands"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Ahtna History & Culture - An Alaska Native Regional Corporation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Native corporation’s account of the name, seasonal life, and cultural resources. A corporation’s shareholder information is not a census of an entire people.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -252,60 +330,56 @@
     ]
   },
   {
-    "id": "p7-s2",
-    "title": "Ahtna, Incorporated: Our Land Sustains Us - An Alaska Native Regional Corporation",
-    "publisher": "ahtna.com",
-    "url": "https://www.ahtna.com/ahtna-incorporated-our-land-sustains-us/",
+    "id": "lands",
+    "title": "Lands FAQ",
+    "publisher": "Ahtna, Incorporated",
+    "url": "https://www.ahtna.com/lands/lands-faq/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
+      "Homelands"
+    ],
+    "annotation": "Distinguishes traditional-use territory and corporate holdings, including the separate Chitina Native Corporation. Consult current landholders directly for access information.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ahtna",
+        "slug": "ahtna"
+      }
+    ]
+  },
+  {
+    "id": "p9-s4",
+    "title": "About the Alabama Quassarte Tribal Town",
+    "publisher": "Alabama Quassarte Tribal Town",
+    "url": "https://aqtt.org/about",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
       "History",
       "Contemporary life"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Ahtna, Incorporated: Our Land Sustains Us - An Alaska Native Regional Corporation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Ahtna",
-        "slug": "ahtna"
-      }
-    ]
-  },
-  {
-    "id": "p9-s1",
-    "title": "Alabama-Coushatta Tribe History",
-    "url": "https://www.alabama-coushatta.com/about-us/our-history/",
-    "publisher": "alabama-coushatta.com",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Language"
-    ],
-    "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
+    "annotation": "The town's account of southeastern origins, forced removal, its 1939 constitution, and ongoing sovereignty and community services. Establishes the Oklahoma nation's distinct political perspective.",
     "accessed": "2026-10-19",
     "nations": [
       {
         "name": "Alabama",
         "slug": "alabama"
-      },
-      {
-        "name": "Coushatta",
-        "slug": "coushatta"
       }
     ]
   },
   {
     "id": "p9-s2",
-    "title": "Chief History | Alabama-Coushatta Tribe of Texas",
-    "publisher": "alabama-coushatta.com",
+    "title": "Chief History",
+    "publisher": "Alabama-Coushatta Tribe of Texas",
     "url": "https://www.alabama-coushatta.com/about-us/chief-history/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "History"
+      "History",
+      "Leadership",
+      "Homelands",
+      "Identity"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Chief History | Alabama-Coushatta Tribe of Texas” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Tribal historian Howard Martin's account, published in the 2014 inauguration program, links named chiefs with particular Alabama and Coushatta villages. Useful for following local histories within the broader migration narrative.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -315,6 +389,51 @@
       {
         "name": "Coushatta",
         "slug": "coushatta"
+      }
+    ]
+  },
+  {
+    "id": "p9-s1",
+    "title": "Our History",
+    "publisher": "Alabama-Coushatta Tribe of Texas",
+    "url": "https://www.alabama-coushatta.com/about-us/our-history/",
+    "type": "Indigenous-led",
+    "topics": [
+      "History",
+      "Government",
+      "Homelands",
+      "Identity"
+    ],
+    "annotation": "The Texas tribal government's concise account of migration, political relationships in Texas, present services, and federal restoration. Its scope is the Texas nation rather than every Alabama descendant community.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alabama",
+        "slug": "alabama"
+      },
+      {
+        "name": "Coushatta",
+        "slug": "coushatta"
+      }
+    ]
+  },
+  {
+    "id": "p9-s5",
+    "title": "About the Alabama Dictionary Online",
+    "publisher": "Alabama-Coushatta Tribe of Texas and WOLF Lab collaborative project",
+    "url": "https://alabamadictionary.github.io/about/",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Education",
+      "Community collaboration"
+    ],
+    "annotation": "Explains the dictionary's sources, speaker approval, tribal ownership of collected material, recordings, grammatical information, and lessons. Provides a direct route into Alabama learning resources.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alabama",
+        "slug": "alabama"
       }
     ]
   },
@@ -404,17 +523,35 @@
     ]
   },
   {
-    "id": "p10-s3",
-    "title": "NATIONAL MARINE",
-    "publisher": "aleut.com",
-    "url": "https://www.aleut.com/wp-content/uploads/2022/08/ACSPI_PRIME-Nomination_14April22.pdf",
+    "id": "language",
+    "title": "Ahtna",
+    "publisher": "Alaska Native Language Center · University of Alaska Fairbanks",
+    "url": "https://www.uaf.edu/anlc/languages-move/ahtna.php",
+    "type": "Academic / reference",
+    "topics": [
+      "Language"
+    ],
+    "annotation": "Language geography, publication history, and examples credited to named contributors. Undated population and speaker figures are not used as current counts.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ahtna",
+        "slug": "ahtna"
+      }
+    ]
+  },
+  {
+    "id": "p10-s7",
+    "title": "APIA Culture Camp",
+    "publisher": "Aleutian Pribilof Islands Association",
+    "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/culturecamp/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "History",
+      "Arts",
+      "Education",
       "Contemporary life"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “NATIONAL MARINE” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Community camp description links hands-on cultural learning, elders' teaching, and participation from the islands and diaspora. The page has inconsistent future date wording; use it for program content, not scheduling.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -424,17 +561,57 @@
     ]
   },
   {
-    "id": "p10-s2",
-    "title": "Aleut",
-    "publisher": "aleutcorp.com",
-    "url": "https://www.aleutcorp.com/index.php?Itemid=32&id=19&layout=blog&option=com_content&view=category",
+    "id": "p10-s5",
+    "title": "Tribes: The Aleutian/Pribilof Region",
+    "publisher": "Aleutian Pribilof Islands Association",
+    "url": "https://www.apiai.org/tribes/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
+      "Government",
+      "Communities",
+      "Homelands"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Aleut” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Directory separating APIA's member tribes and named communities, with individual geographic profiles. Useful for moving from a regional overview to specific tribal settings.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Aleut (Unangax̂)",
+        "slug": "aleut-unangax"
+      }
+    ]
+  },
+  {
+    "id": "p10-s6",
+    "title": "Unangam Tunuu Program",
+    "publisher": "Aleutian Pribilof Islands Association",
+    "url": "https://www.apiai.org/cultural-heritage-programs/unangam-tunuu-program/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Education",
+      "Community governance"
+    ],
+    "annotation": "Describes teacher training, language intensives, Eastern and Atka learning, and a tribally selected advisory committee. Some details are explicitly dated to the 2019 grant, while a photograph identifies a 2025 intensive.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Aleut (Unangax̂)",
+        "slug": "aleut-unangax"
+      }
+    ]
+  },
+  {
+    "id": "p10-s1",
+    "title": "History: Unangax̂, Coastal People of Far Southwestern Alaska",
+    "publisher": "Aleutian Pribilof Islands Association; Douglas W. Veltre",
+    "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+    "type": "Indigenous-led",
+    "topics": [
+      "History",
+      "Homelands",
+      "Colonialism"
+    ],
+    "annotation": "APIA's substantial synthesis by an archaeologist and long-term community collaborator covers ancient settlement, maritime life, Russian and American colonialism, Pribilof labor, and wartime displacement. Undated present-day statistics require separate verification.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -618,6 +795,156 @@
     ]
   },
   {
+    "id": "p12-s5",
+    "title": "20th Century Kodiak Alutiiq Villages",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/alutiiq-people/history/villages/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Communities",
+      "Homelands",
+      "History",
+      "Identity"
+    ],
+    "annotation": "Individual histories and photographs distinguish Kodiak villages, commercial fishing, disasters, relocation, and continuing place-based relationships. Includes Afognak/Port Lions, Karluk, Kaguyak, and other communities.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      },
+      {
+        "name": "Sugpiaq",
+        "slug": "sugpiaq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s2",
+    "title": "Alutiiq — What Is in a Name?",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/alutiiq-people/language/lessons/alutiiq-what-is-in-a-name/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Language",
+      "Self-designation"
+    ],
+    "annotation": "Explains Alutiiq, Sugpiaq, plural forms, and language names through community preferences and colonial naming history. Particularly useful for respecting variation without equating Alutiiq with Unangax̂.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s1",
+    "title": "Alutiiq/Sugpiaq People",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/alutiiq-people/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Homelands",
+      "Culture"
+    ],
+    "annotation": "Community-governed museum introduction maps the wider Alutiiq/Sugpiaq homeland and links an identity film, cultural resources, and language material. Its institutional base is Kodiak, within a broader regional people.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s4",
+    "title": "Awa’uq — Refuge Rock: Conquest of Kodiak",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/wp-content/uploads/2025/09/Refuge-Rock-25.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Colonialism",
+      "History",
+      "Awa’uq"
+    ],
+    "annotation": "One-page museum history of the 1784 assault, hostage-taking, forced labor, and colonial disruption. Links further scholarship by Gordon Pullar and Lydia Black; avoids requiring readers to treat uncertain casualty estimates as precise counts.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s6",
+    "title": "Language History: Alutiit’stun — Like an Alutiiq",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/alutiiq-people/language/language-history/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Education",
+      "Revitalization"
+    ],
+    "annotation": "Connects visual communication, early writing, multilingual colonial life, English-only schooling, and elder-led learning. Undated present-day speaker totals are not used in this profile.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s3",
+    "title": "Our Stories",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/alutiiq-people/history/our-stories/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Archaeology",
+      "History",
+      "Subsistence",
+      "Identity"
+    ],
+    "annotation": "Introduces Ocean Bay, Kachemak, and Koniag archaeological traditions and links museum films, an eBook, and focused historical lessons. The deep-history text provides the evidence summarized here; linked films were not transcribed.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      },
+      {
+        "name": "Sugpiaq",
+        "slug": "sugpiaq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s7",
+    "title": "Tribes and Corporations",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/wp-content/uploads/2025/09/Tribes-and-Corporations-25.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "Organizations",
+      "ANCSA"
+    ],
+    "annotation": "Explains different roles of sovereign tribes, ANCSA corporations, and nonprofits and lists Kodiak tribal governments. Shareholder statistics are dated September 2022 and are not presented as current figures here.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
     "id": "p362-s1",
     "title": "About Us – Alutiiq",
     "publisher": "alutiiq.com",
@@ -638,87 +965,68 @@
     ]
   },
   {
-    "id": "p12-s1",
-    "title": "Language History - Alutiiq Museum and Archaeological Repository",
-    "publisher": "alutiiqmuseum.org",
-    "url": "https://alutiiqmuseum.org/alutiiq-people/language/language-history/",
-    "type": "Museum / archive",
+    "id": "p24-s5",
+    "title": "Our History and Vision",
+    "publisher": "Amah Mutsun Land Trust",
+    "url": "https://amlt.org/our-vision",
+    "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "Language",
-      "History"
+      "Land stewardship",
+      "Institutions",
+      "Contemporary life"
     ],
-    "annotation": "A language reference linked for this entry. Read “Language History - Alutiiq Museum and Archaeological Repository” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
+    "annotation": "The Trust's own account dates its stewardship initiative and organizational development and explicitly includes Awaswas-speaking territories. Distinguishes conservation activity from claims about historical political boundaries.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Alutiiq",
-        "slug": "alutiiq"
+        "name": "Awaswas",
+        "slug": "awaswas"
       }
     ]
   },
   {
-    "id": "p12-s3",
-    "title": "Our Stories - Alutiiq Museum and Archaeological Repository",
-    "publisher": "alutiiqmuseum.org",
-    "url": "https://alutiiqmuseum.org/alutiiq-people/history/our-stories/",
-    "type": "Museum / archive",
-    "topics": [
-      "Identity",
-      "History"
-    ],
-    "annotation": "Historical context for this entry. Read “Our Stories - Alutiiq Museum and Archaeological Repository” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Alutiiq",
-        "slug": "alutiiq"
-      },
-      {
-        "name": "Sugpiaq",
-        "slug": "sugpiaq"
-      }
-    ]
-  },
-  {
-    "id": "p12-s2",
-    "title": "Villages - Alutiiq Museum and Archaeological Repository",
-    "publisher": "alutiiqmuseum.org",
-    "url": "https://alutiiqmuseum.org/alutiiq-people/history/villages/",
-    "type": "Museum / archive",
-    "topics": [
-      "Identity",
-      "History"
-    ],
-    "annotation": "Historical context for this entry. Read “Villages - Alutiiq Museum and Archaeological Repository” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Alutiiq",
-        "slug": "alutiiq"
-      },
-      {
-        "name": "Sugpiaq",
-        "slug": "sugpiaq"
-      }
-    ]
-  },
-  {
-    "id": "p234-s1",
-    "title": "Amah Mutsun |  History",
-    "publisher": "amahmutsun.org",
+    "id": "p24-s3",
+    "title": "History",
+    "publisher": "Amah Mutsun Tribal Band",
     "url": "https://amahmutsun.org/history",
     "type": "Indigenous-led",
     "topics": [
+      "Colonialism",
+      "Missions",
+      "Descendants",
       "Identity",
       "History"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Amah Mutsun |  History” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "The Band's extended account of mission coercion, suppressed practices and continuing family lineages. Contains some inconsistent dates and older recognition-process statements; those details are not adopted in this profile.",
     "accessed": "2026-10-19",
     "nations": [
       {
+        "name": "Awaswas",
+        "slug": "awaswas"
+      },
+      {
         "name": "Mutsun",
         "slug": "mutsun"
+      }
+    ]
+  },
+  {
+    "id": "p24-s2",
+    "title": "Land Trust: Our Mutsun Identity",
+    "publisher": "Amah Mutsun Tribal Band",
+    "url": "https://amahmutsun.org/land-trust",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Communities",
+      "Continuity"
+    ],
+    "annotation": "Tribal account explains the distinct territories and leadership of ancestral communities and the contemporary Band's shared identity. The page links onward to the Land Trust's newer website.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awaswas",
+        "slug": "awaswas"
       }
     ]
   },
@@ -804,16 +1112,37 @@
   },
   {
     "id": "p14-s1",
-    "title": "UNION OF ONTARIO INDIANS – Anishinaabe Chi-Naaknigewin",
-    "publisher": "anishinabek.ca",
-    "url": "https://anishinabek.ca/governance/anishinaabe-chi-naaknigewin/",
+    "title": "About Anishinabek Nation",
+    "publisher": "Anishinabek Nation",
+    "url": "https://anishinabek.ca/about-us/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
+      "Government",
       "History",
-      "Contemporary life"
+      "Identity"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “UNION OF ONTARIO INDIANS – Anishinaabe Chi-Naaknigewin” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "The Ontario organization explains its relationship to the Union of Ontario Indians, its member First Nations, and Three Fires political history. A specific institutional account rather than an exhaustive definition of all Anishinaabe peoples.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishinaabe",
+        "slug": "anishinaabe"
+      }
+    ]
+  },
+  {
+    "id": "p14-s3",
+    "title": "Anishinaabe Chi-Naaknigewin — Anishinabek Nation Constitution",
+    "publisher": "Anishinabek Nation",
+    "url": "https://www.anishinabek.ca/wp-content/uploads/2016/05/Anishinaabe-Chi-Naaknigewin-modified.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "Law",
+      "Language",
+      "Sovereignty"
+    ],
+    "annotation": "Primary constitutional text proclaimed June 6, 2012, defining participating First Nations, language, councils, clan governance, and relationships between laws. The text's institutional scope is essential to its interpretation.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -838,30 +1167,6 @@
       {
         "name": "Algonquin",
         "slug": "algonquin"
-      }
-    ]
-  },
-  {
-    "id": "p16-s1",
-    "title": "History – Apache Tribe of Oklahoma",
-    "publisher": "apachetribe.org",
-    "url": "https://apachetribe.org/history/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Culture"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History – Apache Tribe of Oklahoma” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Apache",
-        "slug": "apache"
-      },
-      {
-        "name": "Kiowa Apache",
-        "slug": "kiowa-apache"
       }
     ]
   },
@@ -925,26 +1230,6 @@
     ]
   },
   {
-    "id": "p19-s1",
-    "title": "Language & History - MHA Language Project - Arikara",
-    "publisher": "arikara.org",
-    "url": "https://arikara.org/index/about-arikara/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "Language",
-      "History"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Language & History - MHA Language Project - Arikara” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Arikara",
-        "slug": "arikara"
-      }
-    ]
-  },
-  {
     "id": "p408-s3",
     "title": "Western Mono & Tubatulabal - ASI Cal Poly",
     "publisher": "asi.calpoly.edu",
@@ -961,25 +1246,6 @@
       {
         "name": "Tübatulabal",
         "slug": "tubatulabal"
-      }
-    ]
-  },
-  {
-    "id": "p26-s1",
-    "title": "The ASJP Database - Wordlist Ayapaneco",
-    "publisher": "asjp.clld.org",
-    "url": "https://asjp.clld.org/languages/AYAPANECO",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “The ASJP Database - Wordlist Ayapaneco” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Ayapaneco",
-        "slug": "ayapaneco"
       }
     ]
   },
@@ -1155,22 +1421,42 @@
     ]
   },
   {
-    "id": "p3-s2",
-    "title": "Our Tribe | Absentee Shawnee Tribal Health System",
-    "publisher": "asthealth.org",
-    "url": "https://www.asthealth.org/our-tribe",
+    "id": "p21-s1",
+    "title": "Our Story",
+    "publisher": "Atakapa-Ishak Nation of SWLA",
+    "url": "https://echidna-heron-l6x3.squarespace.com/our-story",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
-      "History",
+      "Homelands",
       "Contemporary life"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Our Tribe | Absentee Shawnee Tribal Health System” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Community account explaining Ishak naming, Gulf Coast homelands, distinct organized groups and contemporary writing in Ishakkoy. Especially valuable for correcting disappearance narratives in older reference works.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Absentee Shawnee",
-        "slug": "absentee-shawnee"
+        "name": "Atakapa",
+        "slug": "atakapa"
+      }
+    ]
+  },
+  {
+    "id": "p22-s4",
+    "title": "Gouvernance",
+    "publisher": "Atikamekw Sipi – Conseil de la Nation Atikamekw",
+    "url": "https://www.atikamekwsipi.com/fr/conseil-de-la-nation/membres-de-lassemblee-generale",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "Institutions",
+      "Representation"
+    ],
+    "annotation": "The council's account of assembly membership, board composition, voting rules and administrative responsibilities. Search-indexed full text was inspectable although direct retrieval intermittently failed.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atikamekw",
+        "slug": "atikamekw"
       }
     ]
   },
@@ -2182,6 +2468,25 @@
     ]
   },
   {
+    "id": "p21-s5",
+    "title": "A Dictionary of the Atakapa Language: Accompanied by Text Material",
+    "publisher": "Bureau of American Ethnology; digitized by University of North Texas Libraries",
+    "url": "https://texashistory.unt.edu/ark:/67531/metapth20200/",
+    "type": "Museum / archive",
+    "topics": [
+      "Language",
+      "Historical documents"
+    ],
+    "annotation": "Full digitized 1932 Gatschet–Swanton dictionary, with page images and text navigation. A primary documentary resource, best read with the contemporary Living Dictionary and community interpretation.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atakapa",
+        "slug": "atakapa"
+      }
+    ]
+  },
+  {
     "id": "p188-s2",
     "url": "https://www.bia.gov/news/lumbee-tribe-added-official-list-federally-recognized-tribes",
     "title": "Lumbee Tribe added to official list of federally recognized tribes",
@@ -2300,6 +2605,84 @@
     ]
   },
   {
+    "id": "language",
+    "title": "Achumawi — language guide and bibliography",
+    "publisher": "California Language Archive · UC Berkeley",
+    "url": "https://cla.berkeley.edu/languages/achumawi.html",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Homelands"
+    ],
+    "annotation": "Language-area description, classifications, and bibliography including teaching resources. Speaker figures cite older publications and are not used as a current census.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Achumawi",
+        "slug": "achumawi"
+      }
+    ]
+  },
+  {
+    "id": "archive",
+    "title": "Achumawi materials — collection search",
+    "publisher": "California Language Archive · UC Berkeley",
+    "url": "https://cla.berkeley.edu/list/?langid=256%3DAchumawi",
+    "type": "Museum / archive",
+    "topics": [
+      "Language",
+      "History"
+    ],
+    "annotation": "Search entry point linked from the archive’s Achumawi guide. Item access and restrictions must be checked in individual catalogue records.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Achumawi",
+        "slug": "achumawi"
+      }
+    ]
+  },
+  {
+    "id": "p23-s2",
+    "title": "Atsugewi",
+    "publisher": "California Language Archive, University of California, Berkeley",
+    "url": "https://cla.berkeley.edu/languages/atsugewi.html",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Archives",
+      "Bibliography"
+    ],
+    "annotation": "Specialist guide to the language area, proposed relationships, archival collections, Olmsted's lexicon and Talmy's dissertation. Speaker-status wording cites Golla 2011 and should retain that temporal context.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atsugewi",
+        "slug": "atsugewi"
+      }
+    ]
+  },
+  {
+    "id": "p24-s4",
+    "title": "Awaswas",
+    "publisher": "California Language Archive, University of California, Berkeley",
+    "url": "https://cla.berkeley.edu/languages/awaswas.html",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Archives",
+      "Bibliography"
+    ],
+    "annotation": "Specialist overview identifies the language's area, Ohlone relationships and wordlist-based documentation. Provides specific Pinart, Henshaw and Shipley references rather than a generic language search.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awaswas",
+        "slug": "awaswas"
+      }
+    ]
+  },
+  {
     "id": "p181-s2",
     "url": "https://nahc.ca.gov/cp/p24lassik/",
     "title": "Lassik",
@@ -2356,6 +2739,26 @@
       {
         "name": "Kashaya Pomo",
         "slug": "kashaya-pomo"
+      }
+    ]
+  },
+  {
+    "id": "p24-s6",
+    "title": "Impacts of climate change on the Amah Mutsun Tribal Band",
+    "publisher": "California Office of Environmental Health Hazard Assessment",
+    "url": "https://oehha.ca.gov/climate-change/epic-2022/impacts-tribes/impacts-climate-change-amah-mutsun-tribal-band",
+    "type": "Government",
+    "topics": [
+      "Climate",
+      "Cultural resources",
+      "Stewardship"
+    ],
+    "annotation": "August 2023 summary links climate hazards, culturally important species, coastal sites and tribal stewardship. Its environmental discussion connects descendant community priorities with the broader Awaswas–Mutsun region.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awaswas",
+        "slug": "awaswas"
       }
     ]
   },
@@ -2426,22 +2829,22 @@
     ]
   },
   {
-    "id": "p1-s3",
-    "title": "ODANAK ABENAKI",
-    "publisher": "caodanak.com",
-    "url": "https://caodanak.com/wp-content/uploads/2022/10/PILASKW_Sept-2022_ENG.pdf",
+    "id": "p20-s4",
+    "title": "Owóknage: The Story of Carry The Kettle Nakoda First Nation",
+    "publisher": "Carry the Kettle First Nation / University of Regina Press",
+    "url": "https://utpdistribution.com/9780889778153/owoknage/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
+      "Community history",
+      "Land",
+      "Oral history"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “ODANAK ABENAKI” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Publisher-distributor description and detailed contents of a community-authored history arising from traditional land-use research. Provides a substantial reading route through Cypress Hills displacement, Elder testimony, harvesting and sacred places; full book access is separate.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Abenaki",
-        "slug": "abenaki"
+        "name": "Assiniboine",
+        "slug": "assiniboine"
       }
     ]
   },
@@ -2919,17 +3322,38 @@
     ]
   },
   {
+    "id": "p18-s4",
+    "title": "Government",
+    "publisher": "Cheyenne and Arapaho Tribes",
+    "url": "https://www.cheyenneandarapaho-nsn.gov/government",
+    "type": "Indigenous-led",
+    "topics": [
+      "Governance",
+      "Sovereignty"
+    ],
+    "annotation": "Explains the functions of executive, legislative, judicial and Tribal Council branches. A useful direct source for the structure of the contemporary Oklahoma government.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arapaho",
+        "slug": "arapaho"
+      }
+    ]
+  },
+  {
     "id": "p18-s1",
-    "title": "Language and Culture | Cheyenne and Arapaho Tribes",
-    "publisher": "cheyenneandarapaho-nsn.gov",
+    "title": "Language and Culture",
+    "publisher": "Cheyenne and Arapaho Tribes",
     "url": "https://www.cheyenneandarapaho-nsn.gov/language-culture",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
       "Language",
+      "History",
+      "Repatriation",
+      "Identity",
       "Culture"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Language and Culture | Cheyenne and Arapaho Tribes” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Tribal account of Arapaho identity and history, language classes, Elder involvement, cultural work and Sand Creek representatives. Distinguishes Arapaho and Cheyenne languages within their shared Oklahoma government.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -2943,7 +3367,7 @@
     ]
   },
   {
-    "id": "p18-s2",
+    "id": "p52-s3",
     "title": "Office of the Governor | Cheyenne and Arapaho Tribes",
     "publisher": "cheyenneandarapaho-nsn.gov",
     "url": "https://www.cheyenneandarapaho-nsn.gov/executive/office-of-the-governor",
@@ -2956,10 +3380,6 @@
     "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Office of the Governor | Cheyenne and Arapaho Tribes” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
     "accessed": "2026-10-19",
     "nations": [
-      {
-        "name": "Arapaho",
-        "slug": "arapaho"
-      },
       {
         "name": "Cheyenne",
         "slug": "cheyenne"
@@ -3234,6 +3654,26 @@
       {
         "name": "Seri (Comcaac)",
         "slug": "seri-comcaac"
+      }
+    ]
+  },
+  {
+    "id": "p14-s2",
+    "title": "Prophetic wisdom: The Seven Fires sets tribe on path to its future",
+    "publisher": "Citizen Potawatomi Nation",
+    "url": "https://www.potawatomi.org/blog/2018/03/08/prophetic-wisdom-the-first-of-11-new-exhibits-the-seven-fires-sets-tribe-on-path-to-its-future/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Oral history",
+      "Three Fires",
+      "Culture"
+    ],
+    "annotation": "2018 account of the nation's Seven Fires exhibit, featuring cultural staff explanations of oral tradition, migration, wild rice, colonial disruption, and renewal. Its specific Potawatomi perspective is identified rather than generalized to every community.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishinaabe",
+        "slug": "anishinaabe"
       }
     ]
   },
@@ -3711,25 +4151,6 @@
     ]
   },
   {
-    "id": "p18-s3",
-    "title": "Language | The Arapaho Project | University of Colorado Boulder",
-    "publisher": "colorado.edu",
-    "url": "https://www.colorado.edu/project/arapaho/language",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Language | The Arapaho Project | University of Colorado Boulder” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Arapaho",
-        "slug": "arapaho"
-      }
-    ]
-  },
-  {
     "id": "p82-s1",
     "title": "History & Archaeology — Colville Tribes",
     "publisher": "colvilletribes.com",
@@ -3827,6 +4248,46 @@
     ]
   },
   {
+    "id": "places",
+    "title": "Sb’i K’ultajb’al yet Qichmam Akateko: Toponimias Maya Akateka (2019)",
+    "publisher": "Comunidad Lingüística Akateka · Academia de Lenguas Mayas de Guatemala",
+    "url": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Homelands",
+      "History"
+    ],
+    "annotation": "Community-language institution’s place-name study of San Miguel Acatán and San Rafael La Independencia. Title pages and contents identify the 2019 publication and geographical scope.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "p25-s2",
+    "title": "Atlas Lingüístico Sonoro del Awakateko (ALISA)",
+    "publisher": "Comunidad Lingüística Awakateka / Academia de las Lenguas Mayas de Guatemala, with CIESAS and CIMSUR-UNAM",
+    "url": "https://alisa.aldelim.org/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Audio",
+      "Community research"
+    ],
+    "annotation": "Community-led interactive atlas with 400 entries, nine research locations, speaker recordings and transparent sampling methods. Explains local variation and provides a bibliography of community grammars and dictionaries.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awakateko",
+        "slug": "awakateko"
+      }
+    ]
+  },
+  {
     "id": "p364-s3",
     "title": "General 1 — The Conestoga-Susquehannock Tribe",
     "publisher": "conestogasusquehannocktribe.com",
@@ -3905,6 +4366,52 @@
     ]
   },
   {
+    "id": "p11-s3",
+    "title": "Introduction: Our Heritage",
+    "publisher": "Confederated Tribes of Siletz Indians",
+    "url": "https://ctsi.nsn.us/introduction/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "History",
+      "Communities",
+      "Contemporary life"
+    ],
+    "annotation": "The tribe identifies Alsea as a constituent ancestral people, explains village-level identity and linguistic diversity, and compares coastal and inland lifeways. Describes the whole confederation, not Alsea alone.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alsea",
+        "slug": "alsea"
+      },
+      {
+        "name": "Galice",
+        "slug": "galice"
+      }
+    ]
+  },
+  {
+    "id": "p11-s6",
+    "title": "Tribal History/Shared History Curriculum",
+    "publisher": "Confederated Tribes of Siletz Indians",
+    "url": "https://ctsi.nsn.us/sb-13-curriculum/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Education",
+      "Government",
+      "Restoration",
+      "Language"
+    ],
+    "annotation": "Tribal-created lessons cover termination, restoration, government, stewardship, and cultural continuity. It explicitly identifies Dee-ni language content, allowing readers to distinguish those lessons from Alsea-language materials.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alsea",
+        "slug": "alsea"
+      }
+    ]
+  },
+  {
     "id": "p437-s1",
     "title": "CONGRESO ATIENDE LA DEMANDA DEL PUEBLO XINCA",
     "publisher": "congreso.gob.gt",
@@ -3961,6 +4468,45 @@
       {
         "name": "Samish",
         "slug": "samish"
+      }
+    ]
+  },
+  {
+    "id": "pilaskw24",
+    "title": "Pilaskw — January 2024",
+    "publisher": "Conseil des Abénakis d’Odanak",
+    "url": "https://caodanak.com/wp-content/uploads/2024/02/PILASKW_Janvier-2024_ENG.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Contemporary"
+    ],
+    "annotation": "See the language application report around page 6 for a dated account of recordings, vocabulary, illustration, and community participation.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abenaki",
+        "slug": "abenaki"
+      }
+    ]
+  },
+  {
+    "id": "pilaskw22",
+    "title": "Pilaskw — May 2022 (posted June)",
+    "publisher": "Conseil des Abénakis d’Odanak",
+    "url": "https://caodanak.com/wp-content/uploads/2022/06/PILASKW_-Juin-2022_ENG.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "History",
+      "Homelands",
+      "Culture"
+    ],
+    "annotation": "Community newspaper reporting on historical research, basketry, travel, and Odanak perspectives. Statements about identity disputes are the council’s position, not neutral adjudications.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abenaki",
+        "slug": "abenaki"
       }
     ]
   },
@@ -4365,30 +4911,6 @@
     ]
   },
   {
-    "id": "p11-s3",
-    "title": "Introduction - Confederated Tribes of Siletz Indians",
-    "publisher": "ctsi.nsn.us",
-    "url": "https://ctsi.nsn.us/introduction/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Introduction - Confederated Tribes of Siletz Indians” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Alsea",
-        "slug": "alsea"
-      },
-      {
-        "name": "Galice",
-        "slug": "galice"
-      }
-    ]
-  },
-  {
     "id": "p416-s1",
     "title": "CTUIR - Brief History of CTUIR",
     "url": "https://ctuir.org/about/brief-history-of-ctuir/",
@@ -4508,6 +5030,26 @@
       {
         "name": "Miwok",
         "slug": "miwok"
+      }
+    ]
+  },
+  {
+    "id": "p26-s6",
+    "title": "Ayapan Echoes: Linguistic Persistence and Loss in Tabasco, Mexico",
+    "publisher": "Daniel F. Suslak / American Anthropologist",
+    "url": "https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01370.x",
+    "type": "Academic / reference",
+    "topics": [
+      "Media",
+      "Language endangerment",
+      "Research context"
+    ],
+    "annotation": "2011 study analyzes the circulation and consequences of the two-speakers story. The freely readable abstract and bibliography were inspected; full article access may require a subscription.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ayapaneco",
+        "slug": "ayapaneco"
       }
     ]
   },
@@ -4957,6 +5499,25 @@
       {
         "name": "Duwamish",
         "slug": "duwamish"
+      }
+    ]
+  },
+  {
+    "id": "eastern",
+    "title": "History",
+    "publisher": "Eastern Shawnee Tribe of Oklahoma",
+    "url": "https://www.estoo-nsn.gov/history",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "History"
+    ],
+    "annotation": "A related Shawnee government identifies the three distinct Shawnee tribes. Its own Lewistown and removal history must not be reassigned to the Absentee Shawnee.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Absentee Shawnee",
+        "slug": "absentee-shawnee"
       }
     ]
   },
@@ -5548,26 +6109,6 @@
     ]
   },
   {
-    "id": "p20-s3",
-    "title": "The Encyclopedia of Saskatchewan | Details",
-    "publisher": "esask.uregina.ca",
-    "url": "https://esask.uregina.ca/entry/nakota_assiniboine.html",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “The Encyclopedia of Saskatchewan | Details” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Assiniboine",
-        "slug": "assiniboine"
-      }
-    ]
-  },
-  {
     "id": "p100-s3",
     "title": "The Encyclopedia of Saskatchewan | Details",
     "publisher": "esask.uregina.ca",
@@ -5701,6 +6242,26 @@
       {
         "name": "Kalispel",
         "slug": "kalispel"
+      }
+    ]
+  },
+  {
+    "id": "p20-s3",
+    "title": "Carry the Kettle",
+    "publisher": "FHQ Developments",
+    "url": "https://fhqdev.com/economic-development/our-11-nations/carry-the-kettle/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Treaties",
+      "Cypress Hills",
+      "Homelands"
+    ],
+    "annotation": "First Nations economic organization’s community history of the 1877 Treaty 4 adhesion and Cypress Hills homeland. The page’s legal-case update is explicitly historical and is not used as a current litigation status.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Assiniboine",
+        "slug": "assiniboine"
       }
     ]
   },
@@ -5905,6 +6466,66 @@
     ]
   },
   {
+    "id": "p20-s1",
+    "title": "Fort Belknap History",
+    "publisher": "Fort Belknap Indian Community",
+    "url": "https://ftbelknap.org/history",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Homelands",
+      "Governance"
+    ],
+    "annotation": "Community account of Nakoda and Aaniiih, reservation history, bison lifeways and oral histories. Contains differing origin narratives and older linguistic simplifications; this profile preserves that distinction and uses a recent grammar for classification.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Assiniboine",
+        "slug": "assiniboine"
+      }
+    ]
+  },
+  {
+    "id": "p20-s5",
+    "title": "Fort Peck Tribes Departments: Language & Culture",
+    "publisher": "Fort Peck Tribes",
+    "url": "https://fortpecktribes.org/government/departments/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Education",
+      "Contemporary life"
+    ],
+    "annotation": "Official department page states the Nakona/Nakoda and Dakota program’s mission and vision for curriculum and immersion education. Distinguish its goals from confirmation that every envisioned facility is operational.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Assiniboine",
+        "slug": "assiniboine"
+      }
+    ]
+  },
+  {
+    "id": "p16-s4",
+    "title": "Fort Sill Apache History",
+    "publisher": "Fort Sill Apache Tribe",
+    "url": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Displacement",
+      "Governance",
+      "Land"
+    ],
+    "annotation": "Tribal history of Chiricahua imprisonment, relocation, the split between Mescalero and Oklahoma settlement, and later land and political recognition. Distinguishes this government from the neighboring Apache Tribe of Oklahoma.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apache",
+        "slug": "apache"
+      }
+    ]
+  },
+  {
     "id": "p224-s1",
     "title": "Fort Mojave Building Department – Official Tribal Website",
     "url": "https://www.fortmojaveindiantribe.com/tribal-departments/fort-mojave-building-department/",
@@ -5921,6 +6542,46 @@
       {
         "name": "Mojave",
         "slug": "mojave"
+      }
+    ]
+  },
+  {
+    "id": "p15-s4",
+    "title": "About FARHA",
+    "publisher": "Four Arrows Regional Health Authority",
+    "url": "https://fourarrowsrha.org/about-farha/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Governance",
+      "Health",
+      "Contemporary life"
+    ],
+    "annotation": "The regional health organization’s own history of its creation and governance by the four Island Lake First Nations. Useful for understanding practical cooperation between distinct community governments.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishininew",
+        "slug": "anishininew"
+      }
+    ]
+  },
+  {
+    "id": "p15-s5",
+    "title": "Kimeechiminan – Food Security",
+    "publisher": "Four Arrows Regional Health Authority",
+    "url": "https://fourarrowsrha.org/kimeechiminan-food-security/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Food sovereignty",
+      "Land",
+      "Language"
+    ],
+    "annotation": "Connects food security with Indigenous leadership, language, land and teaching. Includes examples of food sharing, gardening, harvesting and the Garden Hill Meechim project; project descriptions are not a dated inventory of current operations.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishininew",
+        "slug": "anishininew"
       }
     ]
   },
@@ -6036,6 +6697,26 @@
       {
         "name": "Poqomam",
         "slug": "poqomam"
+      }
+    ]
+  },
+  {
+    "id": "p15-s3",
+    "title": "About Garden Hill Anisininew Nation High School",
+    "publisher": "Garden Hill Anisininew Nation High School",
+    "url": "https://www.gardenhillhighschool.ca/about",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Education",
+      "Contemporary life"
+    ],
+    "annotation": "Explains how the school integrates Anisinimowin, cultural learning and Elder participation with secondary education. It identifies the four Island Lake communities while remaining specific to Garden Hill’s school.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishininew",
+        "slug": "anishininew"
       }
     ]
   },
@@ -6176,42 +6857,22 @@
     ]
   },
   {
-    "id": "p20-s2",
-    "title": "The Nakota/Nakoda Oyadebi (Assiniboine) | Gladue Rights Research Database",
-    "publisher": "gladue.drc.usask.ca",
+    "id": "p20-s7",
+    "title": "The Nakota/Nakoda Oyadebi (Assiniboine)",
+    "publisher": "Gladue Rights Research Database / University of Saskatchewan",
     "url": "https://gladue.drc.usask.ca/assiniboine",
     "type": "Academic / reference",
     "topics": [
-      "Identity",
+      "Colonialism",
       "History",
-      "Contemporary life"
+      "Canada"
     ],
-    "annotation": "Historical context for this entry. Read “The Nakota/Nakoda Oyadebi (Assiniboine) | Gladue Rights Research Database” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+    "annotation": "Historical synthesis of cross-border territory, trading alliances, epidemics and coercive reserve policies. Includes community and further-reading links; used for context rather than as a substitute for each nation’s own history.",
     "accessed": "2026-10-19",
     "nations": [
       {
         "name": "Assiniboine",
         "slug": "assiniboine"
-      }
-    ]
-  },
-  {
-    "id": "p24-s1",
-    "title": "Glottolog 5.3 - Awaswas",
-    "publisher": "glottolog.org",
-    "url": "https://glottolog.org/resource/languoid/id/sant1428",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Glottolog 5.3 - Awaswas” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Awaswas",
-        "slug": "awaswas"
       }
     ]
   },
@@ -6296,6 +6957,26 @@
     ]
   },
   {
+    "id": "p22-s3",
+    "title": "Atikamekw",
+    "publisher": "Gouvernement du Québec",
+    "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations/atikamekw",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Communities",
+      "Education"
+    ],
+    "annotation": "Provincial profile updated May 9, 2025, summarizing the three communities, industrial forestry, dam-related moves and Atikamekw Sipi's services. Its undated population estimate is not repeated here.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atikamekw",
+        "slug": "atikamekw"
+      }
+    ]
+  },
+  {
     "id": "p141-s1",
     "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations/innu",
     "title": "Innu",
@@ -6312,6 +6993,26 @@
       {
         "name": "Innu",
         "slug": "innu"
+      }
+    ]
+  },
+  {
+    "id": "quebec",
+    "title": "Profile of the Abenakis",
+    "publisher": "Gouvernement du Québec",
+    "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations/abenakis",
+    "type": "Government",
+    "topics": [
+      "Identity",
+      "Homelands",
+      "History"
+    ],
+    "annotation": "Provincial overview updated May 2025, useful for Odanak, Wôlinak, language family, and basketry history. Its geographical and administrative scope is limited to Québec.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abenaki",
+        "slug": "abenaki"
       }
     ]
   },
@@ -6374,26 +7075,6 @@
     ]
   },
   {
-    "id": "p5-s2",
-    "title": "Historical and cultural reference for Achumawi",
-    "publisher": "govinfo.gov",
-    "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60291/html/CHRG-119hhrg60291.htm",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "History",
-      "Culture"
-    ],
-    "annotation": "Historical context for this entry. Read “Historical and cultural reference for Achumawi” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Achumawi",
-        "slug": "achumawi"
-      }
-    ]
-  },
-  {
     "id": "p435-s2",
     "title": "Historical and cultural reference for Wounaan",
     "publisher": "govinfo.gov",
@@ -6450,6 +7131,46 @@
       {
         "name": "Colville",
         "slug": "colville"
+      }
+    ]
+  },
+  {
+    "id": "p14-s5",
+    "title": "Indigenous Knowledge",
+    "publisher": "Great Lakes Indian Fish and Wildlife Commission",
+    "url": "https://glifwc.org/language-culture/indigenous-knowledge",
+    "type": "Indigenous-led",
+    "topics": [
+      "Ecological knowledge",
+      "Climate",
+      "Culture"
+    ],
+    "annotation": "Explains locally grounded Anishinaabe knowledge and its integration with resource science and policy. Includes discussion of interviews, environmental observations, and the transmission of knowledge through language and cultural forms.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishinaabe",
+        "slug": "anishinaabe"
+      }
+    ]
+  },
+  {
+    "id": "p14-s4",
+    "title": "The Commission — Ojibwe Ceded Territories",
+    "publisher": "Great Lakes Indian Fish and Wildlife Commission",
+    "url": "https://glifwc.org/about-us/commission",
+    "type": "Indigenous-led",
+    "topics": [
+      "Treaties",
+      "Sovereignty",
+      "Homelands"
+    ],
+    "annotation": "Intertribal commission introduction identifies member-band websites, relevant treaties, and reserved harvesting and self-government relationships. A community institutional explanation, not advice about an individual's legal eligibility.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishinaabe",
+        "slug": "anishinaabe"
       }
     ]
   },
@@ -6589,6 +7310,26 @@
     ]
   },
   {
+    "id": "p9-s6",
+    "title": "Summer Research With the WOLF Lab — September 8, 2026",
+    "publisher": "Harvard University Department of Linguistics",
+    "url": "https://linguistics.fas.harvard.edu/news/2026/09/week-september-8",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Education",
+      "Contemporary life"
+    ],
+    "annotation": "Dated report of June 2026 work with tribal elders, community workshops, weekly instruction, and tribal support for employee participation. A specific snapshot rather than an undated claim about fluency.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alabama",
+        "slug": "alabama"
+      }
+    ]
+  },
+  {
     "id": "p138-s3",
     "title": "A HISTORY OF LANGUAGE AND REVIVAL IN THE WENDAT & WYANDOT(TE)",
     "publisher": "harvest.usask.ca",
@@ -6625,26 +7366,6 @@
       {
         "name": "Huron-Wendat",
         "slug": "huronwendat"
-      }
-    ]
-  },
-  {
-    "id": "p14-s2",
-    "title": "Anishinaabe Giikeedaasiwin – Indigenous Knowledge:",
-    "publisher": "harvest.usask.ca",
-    "url": "https://harvest.usask.ca/bitstreams/cab60c92-c8b3-4eb4-b776-7206c58f8e9d/download",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Anishinaabe Giikeedaasiwin – Indigenous Knowledge:” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Anishinaabe",
-        "slug": "anishinaabe"
       }
     ]
   },
@@ -6970,26 +7691,6 @@
     ]
   },
   {
-    "id": "p10-s1",
-    "title": "Unangax̂ History and Culture - Aleutian Islands World War II National Historic Area (U.S. National Park Service)",
-    "publisher": "home.nps.gov",
-    "url": "https://home.nps.gov/aleu/learn/historyculture/unangax-history-and-culture.htm",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "History",
-      "Culture"
-    ],
-    "annotation": "Historical context for this entry. Read “Unangax̂ History and Culture - Aleutian Islands World War II National Historic Area (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Aleut (Unangax̂)",
-        "slug": "aleut-unangax"
-      }
-    ]
-  },
-  {
     "id": "p131-s2",
     "title": "About Hopi — Hopi Education Endowment Fund",
     "publisher": "hopieducationfund.org",
@@ -7213,48 +7914,6 @@
       {
         "name": "Zapotec",
         "slug": "zapotec"
-      }
-    ]
-  },
-  {
-    "id": "p8-s2",
-    "title": "Catálogo de las Lenguas Indígenas Nacionales",
-    "publisher": "inali.gob.mx",
-    "url": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Catálogo de las Lenguas Indígenas Nacionales” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Akateko",
-        "slug": "akateko"
-      }
-    ]
-  },
-  {
-    "id": "p8-s3",
-    "title": "Catálogo de las Lenguas Indígenas Nacionales",
-    "publisher": "inali.gob.mx",
-    "url": "https://www.inali.gob.mx/sitios/clin-inali/html/l_awakateko.html",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Catálogo de las Lenguas Indígenas Nacionales” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Akateko",
-        "slug": "akateko"
-      },
-      {
-        "name": "Awakateko",
-        "slug": "awakateko"
       }
     ]
   },
@@ -8189,7 +8848,7 @@
     ]
   },
   {
-    "id": "p13-s2",
+    "id": "p218-s3",
     "title": "Diálogo con los pueblos amuzgo (ñomndaa) y mixteco (ñu’uu savi). Xochistlahuaca, Guerrero. – Diálogo con los Pueblos Indígenas | Gobierno de México",
     "publisher": "inpi.gob.mx",
     "url": "https://www.inpi.gob.mx/dialogos/dialogo-con-los-pueblos-amuzgo-nomndaa-y-mixteco-nuuu-savi/",
@@ -8201,10 +8860,6 @@
     "annotation": "Context and further reading linked for this entry. The publisher’s “Diálogo con los pueblos amuzgo (ñomndaa) y mixteco (ñu’uu savi). Xochistlahuaca, Guerrero. – Diálogo con los Pueblos Indígenas | Gobierno de México” is a starting point; verify the geographical and community scope before applying its account more broadly.",
     "accessed": "2026-10-19",
     "nations": [
-      {
-        "name": "Amuzgo",
-        "slug": "amuzgo"
-      },
       {
         "name": "Mixtec",
         "slug": "mixtec"
@@ -8373,6 +9028,166 @@
       {
         "name": "Gosiute",
         "slug": "gosiute"
+      }
+    ]
+  },
+  {
+    "id": "inali",
+    "title": "Akateko — Catálogo de las Lenguas Indígenas Nacionales",
+    "publisher": "Instituto Nacional de Lenguas Indígenas",
+    "url": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
+    "type": "Government",
+    "topics": [
+      "Language",
+      "Homelands"
+    ],
+    "annotation": "Records Kuti’ and locality references in Chiapas, Campeche, and Quintana Roo. A Mexican linguistic catalogue, not a comprehensive map or census of the entire people.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "p25-s4",
+    "title": "Atlas de las Lenguas Indígenas de México: Awakateko",
+    "publisher": "Instituto Nacional de Lenguas Indígenas",
+    "url": "https://atlas.inali.gob.mx/variantes/ficha/061901",
+    "type": "Government",
+    "topics": [
+      "Migration",
+      "Displacement",
+      "Language policy"
+    ],
+    "annotation": "Detailed migration discussion connects civil-war displacement, 1984–1985 relocations and later labor mobility. Other panels use older census data, so their present-tense wording should be dated carefully.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awakateko",
+        "slug": "awakateko"
+      }
+    ]
+  },
+  {
+    "id": "p25-s3",
+    "title": "Lengua Qa'yool (awakateko)",
+    "publisher": "Instituto Nacional de Lenguas Indígenas",
+    "url": "https://www.inali.gob.mx/detalle/lengua-qayool-awakateko",
+    "type": "Government",
+    "topics": [
+      "Language",
+      "Geography",
+      "Migration"
+    ],
+    "annotation": "Binational overview identifies Aguacatán and named Campeche settlements and describes the Awakateko–Ixil relationship. Its Mexican catalog classification is administrative in scope; demographic totals are not used here.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awakateko",
+        "slug": "awakateko"
+      }
+    ]
+  },
+  {
+    "id": "p26-s4",
+    "title": "Primer festival de la lengua ayapaneca: Shem yeh chotz numdi oode",
+    "publisher": "Instituto Nacional de Lenguas Indígenas",
+    "url": "https://www.inali.gob.mx/detalle/inali-encabezo-el-shem-yeh-chotz-numdi-oode-primer-festival-de-la-lengua-ayapaneca",
+    "type": "Government",
+    "topics": [
+      "Education",
+      "Festivals",
+      "Community participation"
+    ],
+    "annotation": "May 13, 2013 release records children's workshops, locally compiled publications and named speakers honored at the festival. The site's migrated title contains 2025, but the actual event and release are from 2013.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ayapaneco",
+        "slug": "ayapaneco"
+      }
+    ]
+  },
+  {
+    "id": "p13-s3",
+    "title": "Nomndaa — Prontuario de frases de cortesía",
+    "publisher": "Instituto Nacional de Lenguas Indígenas; text and voice by Yanneth Guerrero Valentín",
+    "url": "https://site.inali.gob.mx/Micrositios/Prontuarios/amuzgo.html",
+    "type": "Government",
+    "topics": [
+      "Language",
+      "Learning",
+      "Pronunciation"
+    ],
+    "annotation": "Text-and-voice courtesy phrases explicitly identified as northern Amuzgo from Xochistlahuaca and Tlacoachistlahuaca. The recorded variety is specified, and dated 2010 speaker figures are not generalized to the present.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Amuzgo",
+        "slug": "amuzgo"
+      }
+    ]
+  },
+  {
+    "id": "inpi",
+    "title": "Akatecos — Etnografía",
+    "publisher": "Instituto Nacional de los Pueblos Indígenas",
+    "url": "https://atlas.inpi.gob.mx/akatecos-etnografia/",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Identity",
+      "Homelands",
+      "Culture"
+    ],
+    "annotation": "Spanish-language overview centered on Mexico, including refuge from Guatemala, settlement, and cross-border community ties. Its scope and undated generalizations need to remain visible.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "p25-s1",
+    "title": "Awakatecos – Etnografía",
+    "publisher": "Instituto Nacional de los Pueblos Indígenas",
+    "url": "https://atlas.inpi.gob.mx/awakatecos-etnografia/",
+    "type": "Government",
+    "topics": [
+      "Identity",
+      "Livelihoods",
+      "Clothing"
+    ],
+    "annotation": "Ethnographic overview provides qatanum self-designation, work, dress and adaptation in Mexican settlements. Treat its generalized cultural descriptions as examples, rather than universal practices; full indexed text was inspected.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awakateko",
+        "slug": "awakateko"
+      }
+    ]
+  },
+  {
+    "id": "p26-s1",
+    "title": "Ayapanecos – Etnografía",
+    "publisher": "Instituto Nacional de los Pueblos Indígenas",
+    "url": "https://atlas.inpi.gob.mx/ayapanecos-etnografia/",
+    "type": "Government",
+    "topics": [
+      "Homelands",
+      "Livelihoods",
+      "Foodways"
+    ],
+    "annotation": "Detailed account of Ayapa's coastal setting, work, cacao drinks and patron-saint celebrations. Full indexed text was inspected; its speculative language-origin claim is excluded from this profile.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ayapaneco",
+        "slug": "ayapaneco"
       }
     ]
   },
@@ -8668,6 +9483,65 @@
     ]
   },
   {
+    "id": "p26-s2",
+    "title": "Challenges for Language Technologies in Ayapaneco",
+    "publisher": "Jhonnatan Rangel / Language Technologies for All",
+    "url": "https://lt4all.elra.info/media/papers/P3/10.pdf",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Technology",
+      "Documentation"
+    ],
+    "annotation": "Research poster identifies Mixe-Zoque affiliation and practical barriers involving annotation, equipment, connectivity and training. Its speaker estimates describe the research context and are not repeated as present-day totals.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ayapaneco",
+        "slug": "ayapaneco"
+      }
+    ]
+  },
+  {
+    "id": "p26-s5",
+    "title": "Ayapanet: creando una mediateca virtual comunitaria soberana, in Experiencias en educación popular y tecnologías libres",
+    "publisher": "Jhonnatan Rangel with Retoño de mis Raíces / Universidad Popular",
+    "url": "https://universidadpopular.red/wp-content/uploads/2025/03/Experiencias-en-educacion-popular-y-tecnologias-libres.pdf#page=50",
+    "type": "Indigenous-led",
+    "topics": [
+      "Community media",
+      "Education",
+      "Digital access"
+    ],
+    "annotation": "Pages 49–50 describe a community collective's local media-library project and its testing stage. Offers a collaborative first-hand account of documentation access and control, rather than an outsider rescue narrative.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ayapaneco",
+        "slug": "ayapaneco"
+      }
+    ]
+  },
+  {
+    "id": "swanton",
+    "title": "Early History of the Creek Indians and Their Neighbors (1922)",
+    "publisher": "John R. Swanton · Smithsonian Institution",
+    "url": "https://repository.si.edu/bitstream/handle/10088/15540/bulletin731922smit.pdf",
+    "type": "Academic / reference",
+    "topics": [
+      "History",
+      "Identity"
+    ],
+    "annotation": "Bureau of American Ethnology Bulletin 73, especially the Abihka section. An older synthesis with colonial records, dated terminology, and interpretations requiring comparison with Muscogee scholarship.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abihka",
+        "slug": "abihka"
+      }
+    ]
+  },
+  {
     "id": "p255-s2",
     "title": "Northern Paiute Texts: Introduction1 | International Journal of American Linguistics: Vol 86, No S1",
     "publisher": "journals.uchicago.edu",
@@ -8932,25 +9806,6 @@
     ]
   },
   {
-    "id": "p26-s2",
-    "title": "Catálogo de las Lenguas Indígenas Nacionales",
-    "publisher": "kiliwa.inali.gob.mx",
-    "url": "https://kiliwa.inali.gob.mx/clin-inali/html/v_ayapaneco.html",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Catálogo de las Lenguas Indígenas Nacionales” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Ayapaneco",
-        "slug": "ayapaneco"
-      }
-    ]
-  },
-  {
     "id": "p167-s1",
     "url": "https://www.kiowatribe.org/about-us",
     "title": "About Us — History of the Kiowa Tribe",
@@ -8991,6 +9846,26 @@
       {
         "name": "Kiowa",
         "slug": "kiowa"
+      }
+    ]
+  },
+  {
+    "id": "p15-s6",
+    "title": "KI History",
+    "publisher": "Kitchenuhmaykoosib Inninuwug",
+    "url": "https://ki-btl.ca/history",
+    "type": "Indigenous-led",
+    "topics": [
+      "History",
+      "Treaties",
+      "Governance"
+    ],
+    "annotation": "First Nation account of family territories, seasonal gatherings, the 1929 Treaty 9 adhesion and later political organization around Big Trout Lake. Its presentation of oral treaty understandings complements written Crown records.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishininew",
+        "slug": "anishininew"
       }
     ]
   },
@@ -9392,6 +10267,26 @@
     ]
   },
   {
+    "id": "p23-s1",
+    "title": "American Indian Heritage",
+    "publisher": "Lassen Volcanic National Park, National Park Service",
+    "url": "https://home.nps.gov/lavo/learn/tribes.htm",
+    "type": "Government",
+    "topics": [
+      "Homelands",
+      "Seasonal lifeways",
+      "Museums"
+    ],
+    "annotation": "Park overview describes Hat Creek seasonal travel, Atsuge and Apwaruge regional distinctions, and tribal collaboration on collections and interpretation. Relevant Atsugewi passages are separated from the page's other peoples.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atsugewi",
+        "slug": "atsugewi"
+      }
+    ]
+  },
+  {
     "id": "p27-s1",
     "title": "History & Culture - Lake Babine Nation Treaty Office",
     "publisher": "lbntreaty.com",
@@ -9632,22 +10527,48 @@
     ]
   },
   {
-    "id": "p185-s1",
-    "url": "https://www.lipanapachetribe.gov/LAT/aboutus.html",
-    "title": "About Us — Who We Are",
+    "id": "p16-s6",
+    "title": "Our Sacred History: Who We Are",
     "publisher": "Lipan Apache Tribe",
+    "url": "https://www.lipanapachetribe.gov/LAT/aboutus.html",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
+      "Texas",
+      "Mexico",
       "History",
       "Culture"
     ],
-    "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
+    "annotation": "The Lipan Apache Tribe’s own history of Texas homelands, cross-border refuge, surviving communities and present government. Useful alongside Mescalero history to avoid treating all Lipan descendants as one governmental membership.",
     "accessed": "2026-10-19",
     "nations": [
       {
+        "name": "Apache",
+        "slug": "apache"
+      },
+      {
         "name": "Lipan Apache",
         "slug": "lipan-apache"
+      }
+    ]
+  },
+  {
+    "id": "p21-s4",
+    "title": "Atakapa Ishākkoy Living Dictionary",
+    "publisher": "Living Tongues Institute for Endangered Languages / David V. Kaufman and Ishak collaborators",
+    "url": "https://livingdictionaries.app/atakapa-ishakkoy",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Revitalization",
+      "Digital resources"
+    ],
+    "annotation": "Searchable collaborative dictionary with a project history, grammar overview and examples. Explains the relationship between Kaufman's revised dictionary and the earlier Gatschet–Swanton documentation.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atakapa",
+        "slug": "atakapa"
       }
     ]
   },
@@ -9667,6 +10588,25 @@
       {
         "name": "Muckleshoot",
         "slug": "muckleshoot"
+      }
+    ]
+  },
+  {
+    "id": "parks",
+    "title": "Los Adaes State Historic Site",
+    "publisher": "Louisiana State Parks",
+    "url": "https://www.lastateparks.com/historic-sites/los-adaes-state-historic-site",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Homelands"
+    ],
+    "annotation": "Historical-site account of the Spanish presidio, capital, and French–Spanish trade. Covers the colonial site rather than the entire Adai history.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Adai",
+        "slug": "adai"
       }
     ]
   },
@@ -9809,40 +10749,41 @@
     ]
   },
   {
-    "id": "p22-s1",
-    "title": "Langue - Nation Atikamekw de Manawan",
-    "publisher": "manawan.org",
-    "url": "https://www.manawan.org/nomadisme/langue/",
+    "id": "p26-s3",
+    "title": "Las partes del cuerpo humano en ayapaneco",
+    "publisher": "Manuel Segovia and José Manuel Segovia / Instituto Nacional de Lenguas Indígenas",
+    "url": "https://site.inali.gob.mx/publicaciones/partes_del_cuerpo_ayapaneco.pdf",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "Language"
+      "Language",
+      "Community authors",
+      "Learning materials"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Langue - Nation Atikamekw de Manawan” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "2013 illustrated book by named community authors, crediting additional speakers. Includes sound and spelling guidance, body vocabulary and a trilingual glossary; explicitly states that its spelling was not standardized.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Atikamekw",
-        "slug": "atikamekw"
+        "name": "Ayapaneco",
+        "slug": "ayapaneco"
       }
     ]
   },
   {
-    "id": "p17-s1",
-    "title": "History of the Apalachee Tribe | Coastal and Marine Laboratory",
-    "publisher": "marinelab.fsu.edu",
-    "url": "https://marinelab.fsu.edu/marine-ops/apalachee/history-of-the-apalachee-tribe/",
+    "id": "handbook",
+    "title": "Adaes Indians",
+    "publisher": "Margery H. Krieger · Texas State Historical Association",
+    "url": "https://www.tshaonline.org/handbook/entries/adaes-indians",
     "type": "Academic / reference",
     "topics": [
-      "Identity",
-      "History"
+      "History",
+      "Identity"
     ],
-    "annotation": "Historical context for this entry. Read “History of the Apalachee Tribe | Coastal and Marine Laboratory” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+    "annotation": "Short historical entry originating in 1952 and revised in 1995. Useful names and mission dates; its dated cultural hierarchy and confident language classification require critical reading.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Apalachee",
-        "slug": "apalachee"
+        "name": "Adai",
+        "slug": "adai"
       }
     ]
   },
@@ -10031,19 +10972,23 @@
     ]
   },
   {
-    "id": "p209-s2",
-    "url": "https://mescaleroapachetribe.com/our-culture/",
+    "id": "p16-s5",
     "title": "Our Culture",
     "publisher": "Mescalero Apache Tribe",
+    "url": "https://mescaleroapachetribe.com/our-culture/",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
       "History",
       "Culture"
     ],
-    "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
+    "annotation": "Explains the tribe’s Mescalero, Lipan and Chiricahua composition, reservation formation and cultural teachings. Its public discussion of ceremony and respectful behavior is a Mescalero account, not permission to generalize across all Apache peoples.",
     "accessed": "2026-10-19",
     "nations": [
+      {
+        "name": "Apache",
+        "slug": "apache"
+      },
       {
         "name": "Mescalero Apache",
         "slug": "mescalero-apache"
@@ -10199,17 +11144,38 @@
   },
   {
     "id": "p19-s3",
-    "title": "MHA Nation | Mandan, Hidatsa, and Arikara Nation",
-    "publisher": "mhanation.com",
+    "title": "Language",
+    "publisher": "MHA Nation",
+    "url": "https://www.mhanation.com/language/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Education",
+      "Learning resources"
+    ],
+    "annotation": "Current Nation portal for the three languages, downloadable materials and Arikara class recordings. Recognizes specific community teaching projects and warns that older language websites and applications are being updated.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arikara",
+        "slug": "arikara"
+      }
+    ]
+  },
+  {
+    "id": "p19-s1",
+    "title": "Mandan, Hidatsa and Arikara Nation",
+    "publisher": "MHA Nation",
     "url": "https://www.mhanation.com/",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
-      "History",
+      "Governance",
       "Contemporary life",
+      "History",
       "Culture"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “MHA Nation | Mandan, Hidatsa, and Arikara Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Official government entry point explaining the Three Affiliated Tribes, Fort Berthold location, six segments, Tribal Business Council and services. Population figures and individual officeholders are intentionally omitted from the profile.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -10228,16 +11194,18 @@
   },
   {
     "id": "p19-s2",
-    "title": "MHA Nation History | Mandan, Hidatsa, and Arikara Nation",
-    "publisher": "mhanation.com",
+    "title": "MHA Nation History: Villages, Relocations and Land Loss",
+    "publisher": "MHA Nation",
     "url": "https://www.mhanation.com/history/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
       "History",
+      "Land",
+      "Displacement",
+      "Identity",
       "Culture"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “MHA Nation History | Mandan, Hidatsa, and Arikara Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Nation-published timeline of distinct village histories, the alliance at Like-a-Fishhook and Garrison Dam relocation. Especially valuable for the community account of losses that monetary compensation and new infrastructure did not repair. The page gives conflicting 1862/1863 dates for the Like-a-Fishhook move; the profile uses the early 1860s.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -10315,8 +11283,8 @@
     ]
   },
   {
-    "id": "p15-s1",
-    "title": "Historical and cultural reference for Anishininew",
+    "id": "p265-s3",
+    "title": "Historical and cultural reference for Ojibwe",
     "publisher": "michigan.gov",
     "url": "https://www.michigan.gov/mileap/-/media/Project/Websites/mileap/Documents/Executive/Tribal-Relations/Anishinaabe-Resource-Manual.pdf",
     "type": "Government",
@@ -10325,13 +11293,9 @@
       "History",
       "Culture"
     ],
-    "annotation": "Historical context for this entry. Read “Historical and cultural reference for Anishininew” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+    "annotation": "Historical context for this entry. Read “Historical and cultural reference for Ojibwe” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
     "accessed": "2026-10-19",
     "nations": [
-      {
-        "name": "Anishininew",
-        "slug": "anishininew"
-      },
       {
         "name": "Ojibwe",
         "slug": "ojibwe"
@@ -10407,6 +11371,106 @@
       {
         "name": "Ngäbe",
         "slug": "ngabe"
+      }
+    ]
+  },
+  {
+    "id": "p17-s6",
+    "title": "Archaeology",
+    "publisher": "Mission San Luis / Florida Department of State",
+    "url": "https://missionsanluis.org/learn/archaeology/",
+    "type": "Museum / archive",
+    "topics": [
+      "Archaeology",
+      "Foodways",
+      "Sources"
+    ],
+    "annotation": "Explains excavation evidence, Spanish archival records, gardens and pottery adaptation. Makes the evidentiary basis of the reconstructed mission visible rather than presenting the museum as an unchanged surviving village.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
+    "id": "p17-s4",
+    "title": "End of the Mission System",
+    "publisher": "Mission San Luis / Florida Department of State",
+    "url": "https://missionsanluis.org/learn/history/end-of-the-mission-system/",
+    "type": "Museum / archive",
+    "topics": [
+      "Displacement",
+      "Enslavement",
+      "History"
+    ],
+    "annotation": "Explains English attacks, enslavement, San Luis’s evacuation and multiple survivor routes. Its older language about people fading away is not adopted here; descendant continuity must be read alongside it.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
+    "id": "p17-s3",
+    "title": "Mission San Luis",
+    "publisher": "Mission San Luis / Florida Department of State",
+    "url": "https://missionsanluis.org/learn/history/mission-san-luis/",
+    "type": "Museum / archive",
+    "topics": [
+      "History",
+      "Colonialism",
+      "Labor"
+    ],
+    "annotation": "Details requests for friars, mission establishment, relocation and colonial labor demands. Particularly helpful for understanding both Indigenous diplomacy and unequal power within the Spanish alliance.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
+    "id": "p17-s2",
+    "title": "The Apalachee",
+    "publisher": "Mission San Luis / Florida Department of State",
+    "url": "https://missionsanluis.org/learn/history/the-apalachee/",
+    "type": "Museum / archive",
+    "topics": [
+      "Homelands",
+      "Governance",
+      "Culture"
+    ],
+    "annotation": "Museum interpretation of territory, agricultural communities, matrilineal clans and leadership. Used for specific Apalachee institutions; broad archaeological-era generalizations on the page should not replace community history.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
+    "id": "p17-s5",
+    "title": "Timeline",
+    "publisher": "Mission San Luis / Florida Department of State",
+    "url": "https://missionsanluis.org/learn/timeline/",
+    "type": "Museum / archive",
+    "topics": [
+      "Chronology",
+      "Migration",
+      "Public history"
+    ],
+    "annotation": "Provides dates for mission developments, the 1704 destruction, the 1763–1764 move toward Louisiana and later contact between descendants and museum researchers. Useful for separating successive migrations.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
       }
     ]
   },
@@ -10782,6 +11846,45 @@
       {
         "name": "Poqomchi'",
         "slug": "poqomchi"
+      }
+    ]
+  },
+  {
+    "id": "nation",
+    "title": "Muscogee (Creek) Nation — 2019 library grant proposal",
+    "publisher": "Muscogee (Creek) Nation / Institute of Museum and Library Services",
+    "url": "https://www.imls.gov/sites/default/files/project-proposals/ng-03-19-0228-19-proposal.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "History"
+    ],
+    "annotation": "A nation-authored proposal, hosted by IMLS, explaining tribal-town autonomy and confederacy history. Provides context rather than a detailed Abihka genealogy.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abihka",
+        "slug": "abihka"
+      }
+    ]
+  },
+  {
+    "id": "museum",
+    "title": "About the Musée des Abénakis",
+    "publisher": "Musée des Abénakis, Odanak",
+    "url": "https://museeabenakis.ca/en/about-the-museum/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Culture",
+      "History",
+      "Contemporary"
+    ],
+    "annotation": "The Odanak-based museum explains its founding, collections, educational mission, and responsibility for transmitting W8banaki culture.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abenaki",
+        "slug": "abenaki"
       }
     ]
   },
@@ -11165,6 +12268,46 @@
     ]
   },
   {
+    "id": "p22-s2",
+    "title": "Langue",
+    "publisher": "Nation Atikamekw de Manawan",
+    "url": "https://www.manawan.org/nomadisme/langue/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Identity",
+      "Knowledge"
+    ],
+    "annotation": "Community explanation connecting Nehirowisiw identity, language and environmental knowledge. Provides a first-person complement to external linguistic classifications.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atikamekw",
+        "slug": "atikamekw"
+      }
+    ]
+  },
+  {
+    "id": "p22-s1",
+    "title": "Territoire",
+    "publisher": "Nation Atikamekw de Manawan",
+    "url": "https://www.manawan.org/nomadisme/territoire/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Homelands",
+      "Land stewardship",
+      "Place names"
+    ],
+    "annotation": "Manawan's explanation of collective territorial belonging, intergenerational management responsibilities, travel routes and local place names. Its perspective is specifically grounded in Manawan.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atikamekw",
+        "slug": "atikamekw"
+      }
+    ]
+  },
+  {
     "id": "p201-s2",
     "url": "https://www.archives.gov/files/research/native-americans/communities/california-nevada-nativecommunities-guide.pdf",
     "title": "Native Communities — California-Nevada",
@@ -11325,6 +12468,26 @@
     ]
   },
   {
+    "id": "p10-s3",
+    "title": "Evacuation and Internment",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/articles/000/unangax-internment.htm",
+    "type": "Government",
+    "topics": [
+      "World War II",
+      "Displacement",
+      "Oral history"
+    ],
+    "annotation": "Entry point to documented relocation camps, photographs, and testimony about U.S. removal and internment during World War II. Distinguish these experiences from the captivity of Attu villagers in Japan.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Aleut (Unangax̂)",
+        "slug": "aleut-unangax"
+      }
+    ]
+  },
+  {
     "id": "p185-s2",
     "url": "https://www.nps.gov/foda/learn/historyculture/lipan-apache.htm",
     "title": "Lipan Apache",
@@ -11341,6 +12504,26 @@
       {
         "name": "Lipan Apache",
         "slug": "lipan-apache"
+      }
+    ]
+  },
+  {
+    "id": "p19-s6",
+    "title": "Mandan Hidatsa Arikara Tourism Earth Lodge Village",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/places/mandan-hidatsa-arikara-tourism-earth-lodge-village.htm",
+    "type": "Government",
+    "topics": [
+      "Architecture",
+      "Museums",
+      "Contemporary life"
+    ],
+    "annotation": "Identifies the reconstructed Earthlodge Village as managed by MHA Nation and describes its educational interpretation. It concerns all three peoples and should not be treated as an exclusively Arikara village.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arikara",
+        "slug": "arikara"
       }
     ]
   },
@@ -11414,6 +12597,171 @@
     ]
   },
   {
+    "id": "p23-s4",
+    "title": "Selena LaMarr",
+    "publisher": "National Park Service",
+    "url": "https://home.nps.gov/people/selena-lamarr.htm",
+    "type": "Government",
+    "topics": [
+      "Biography",
+      "Basketry",
+      "Cultural education"
+    ],
+    "annotation": "Biographical account details LaMarr's 1952–1972 interpretive work and the participation of Dessie Snooks, Laverna Jenkins and Lillian Snooks. Offers named cultural teachers alongside generalized ethnographic descriptions.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atsugewi",
+        "slug": "atsugewi"
+      }
+    ]
+  },
+  {
+    "id": "p18-s7",
+    "title": "Stories: Sand Creek Massacre",
+    "publisher": "National Park Service",
+    "url": "https://home.nps.gov/sand/learn/historyculture/stories.htm",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Oral history",
+      "Public memory"
+    ],
+    "annotation": "Describes the 1864 attack and descendant-led oral histories that helped locate the massacre site before its opening in 2007. Shows how family knowledge contributed to historical research.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arapaho",
+        "slug": "arapaho"
+      }
+    ]
+  },
+  {
+    "id": "p10-s2",
+    "title": "Unangax̂ History and Culture",
+    "publisher": "National Park Service",
+    "url": "https://home.nps.gov/aleu/learn/historyculture/unangax-history-and-culture.htm",
+    "type": "Government",
+    "topics": [
+      "Culture",
+      "Subsistence",
+      "Material culture"
+    ],
+    "annotation": "Illustrated introduction to houses, maritime harvesting, kayaks, clothing, and basketry. Its historical descriptions are most useful when paired with contemporary community teaching resources.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Aleut (Unangax̂)",
+        "slug": "aleut-unangax"
+      }
+    ]
+  },
+  {
+    "id": "p10-s4",
+    "title": "Unangax̂ Restitution",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/aleu/learn/historyculture/unangax-restitution.htm",
+    "type": "Government",
+    "topics": [
+      "Restitution",
+      "World War II",
+      "Community advocacy"
+    ],
+    "annotation": "Explains survivor advocacy and the 1988 restitution legislation, including recognized harms to people and community property. Includes linked survivor perspectives.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Aleut (Unangax̂)",
+        "slug": "aleut-unangax"
+      }
+    ]
+  },
+  {
+    "id": "nps",
+    "title": "The Muscogee Nation",
+    "publisher": "National Park Service · Ocmulgee Mounds",
+    "url": "https://www.nps.gov/ocmu/learn/historyculture/the-muscogee-nation.htm",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Government",
+      "Identity",
+      "Culture"
+    ],
+    "annotation": "Broad context for tribal-town organization, removal, and continuing community life. Does not by itself verify a specific contemporary Abihka government.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Abihka",
+        "slug": "abihka"
+      },
+      {
+        "name": "Muscogee (Creek)",
+        "slug": "muscogee-creek"
+      }
+    ]
+  },
+  {
+    "id": "study",
+    "title": "Ahtna and Wrangell–St. Elias: Ethnographic Overview and Assessment (2024)",
+    "publisher": "National Park Service / Ahtna Intertribal Resource Commission",
+    "url": "https://www.nps.gov/wrst/learn/historyculture/ahtna-and-wrangell-st-elias-national-park-and-preserve-an-ethnographic-overview-and-assessment.htm",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Homelands",
+      "Culture"
+    ],
+    "annotation": "Overview and link to the 2024 collaborative report by Simeone and Miller, with an annotated bibliography. Its focus is park-associated communities and historical life, not all present-day Ahtna experiences.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Ahtna",
+        "slug": "ahtna"
+      }
+    ]
+  },
+  {
+    "id": "p20-s2",
+    "title": "The Assiniboine",
+    "publisher": "National Park Service / Fort Union Trading Post National Historic Site",
+    "url": "https://www.nps.gov/fous/learn/historyculture/assiniboine.htm",
+    "type": "Government",
+    "topics": [
+      "Trade",
+      "Kinship",
+      "History"
+    ],
+    "annotation": "Specific account of Assiniboine authority and partnerships at Fort Union, intertribal exchange and the 1837 epidemic. Older broad origin claims and exact demographic estimates are not adopted here.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Assiniboine",
+        "slug": "assiniboine"
+      }
+    ]
+  },
+  {
+    "id": "p19-s5",
+    "title": "Arikara",
+    "publisher": "National Park Service / Gateway Arch National Park",
+    "url": "https://www.nps.gov/jeff/learn/historyculture/arikara.htm",
+    "type": "Government",
+    "topics": [
+      "Language",
+      "Trade",
+      "Historical records"
+    ],
+    "annotation": "Synthesis of Caddoan affiliation, farming villages and trade, followed by Lewis and Clark journal excerpts. The excerpts contain colonial prejudice; this profile uses the introduction rather than treating explorers’ judgments as neutral descriptions.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arikara",
+        "slug": "arikara"
+      }
+    ]
+  },
+  {
     "id": "p159-s1",
     "url": "https://narf.org/nill/constitutions/kashia_pomo/index.html",
     "title": "Kashia Band — Tribal Constitution",
@@ -11430,64 +12778,6 @@
       {
         "name": "Kashaya Pomo",
         "slug": "kashaya-pomo"
-      }
-    ]
-  },
-  {
-    "id": "p23-s3",
-    "title": "Native-Land.ca | Our home on native land",
-    "publisher": "native-land.ca",
-    "url": "https://native-land.ca/listings/languages/atsugewi-2",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Native-Land.ca | Our home on native land” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Atsugewi",
-        "slug": "atsugewi"
-      }
-    ]
-  },
-  {
-    "id": "p24-s2",
-    "title": "Native-Land.ca | Our home on native land",
-    "publisher": "native-land.ca",
-    "url": "https://native-land.ca/listings/languages/awaswas-2",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Native-Land.ca | Our home on native land” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Awaswas",
-        "slug": "awaswas"
-      }
-    ]
-  },
-  {
-    "id": "p24-s3",
-    "title": "Native-Land.ca | Our home on native land",
-    "publisher": "native-land.ca",
-    "url": "https://native-land.ca/listings/territories/awaswas",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Native-Land.ca | Our home on native land” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Awaswas",
-        "slug": "awaswas"
       }
     ]
   },
@@ -11548,82 +12838,6 @@
       {
         "name": "Clatskanie",
         "slug": "clatskanie"
-      }
-    ]
-  },
-  {
-    "id": "p6-s3",
-    "title": "Adai Language and the Adai Indian Tribe (Adahi, Adaes, Adees, Hadai)",
-    "publisher": "native-languages.org",
-    "url": "https://www.native-languages.org/adai.htm",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Adai Language and the Adai Indian Tribe (Adahi, Adaes, Adees, Hadai)” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Adai",
-        "slug": "adai"
-      }
-    ]
-  },
-  {
-    "id": "p13-s1",
-    "title": "Amuzgo Language and the Amuzgo Indian Tribe (Amusgo, Amuzgos, Ñomndaa)",
-    "publisher": "native-languages.org",
-    "url": "https://www.native-languages.org/amuzgo.htm",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Amuzgo Language and the Amuzgo Indian Tribe (Amusgo, Amuzgos, Ñomndaa)” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Amuzgo",
-        "slug": "amuzgo"
-      }
-    ]
-  },
-  {
-    "id": "p21-s3",
-    "title": "Atakapa Language and the Atakapa Ishak Tribe (Icak, Attakapas, Atakapan)",
-    "publisher": "native-languages.org",
-    "url": "https://www.native-languages.org/atakapa.htm",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Atakapa Language and the Atakapa Ishak Tribe (Icak, Attakapas, Atakapan)” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Atakapa",
-        "slug": "atakapa"
-      }
-    ]
-  },
-  {
-    "id": "p23-s1",
-    "title": "Atsugewi Language and the Atsugewi Indian Tribe (Hat Creek Indians, Atsuge)",
-    "publisher": "native-languages.org",
-    "url": "https://www.native-languages.org/atsugewi.htm",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Atsugewi Language and the Atsugewi Indian Tribe (Hat Creek Indians, Atsuge)” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Atsugewi",
-        "slug": "atsugewi"
       }
     ]
   },
@@ -12363,6 +13577,26 @@
     ]
   },
   {
+    "id": "p19-s4",
+    "title": "Section 1: Arikaras",
+    "publisher": "North Dakota Studies / State Historical Society of North Dakota",
+    "url": "https://www.ndstudies.gov/gr8/node/554",
+    "type": "Government",
+    "topics": [
+      "Identity",
+      "Foodways",
+      "History"
+    ],
+    "annotation": "Educational account of Sahnish naming, villages, agriculture, kinship and epidemics, illustrated with archival photographs. Exact Like-a-Fishhook arrival dates vary across and within the historical accounts; this profile uses the early 1860s.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arikara",
+        "slug": "arikara"
+      }
+    ]
+  },
+  {
     "id": "p139-s2",
     "url": "https://www.north-slope.org/departments/inupiat-history-language-culture/",
     "title": "Iñupiat History Language & Culture",
@@ -12379,6 +13613,46 @@
       {
         "name": "Iñupiat",
         "slug": "inupiat"
+      }
+    ]
+  },
+  {
+    "id": "p18-s3",
+    "title": "Department Listings",
+    "publisher": "Northern Arapaho Tribe",
+    "url": "https://northernarapaho.com/?page_id=94",
+    "type": "Indigenous-led",
+    "topics": [
+      "Education",
+      "Services",
+      "Contemporary life"
+    ],
+    "annotation": "Government directory naming practical services, including family support, water and sewer operations and immersion at Ethete. This is evidence of specific institutions, rather than a general cultural summary.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arapaho",
+        "slug": "arapaho"
+      }
+    ]
+  },
+  {
+    "id": "p18-s2",
+    "title": "Northern Arapaho Tribe",
+    "publisher": "Northern Arapaho Tribe",
+    "url": "https://northernarapaho.com/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Governance",
+      "Homelands",
+      "Contemporary life"
+    ],
+    "annotation": "Official northern government entry point with Wind River location, Business Council, tribal codes and departmental navigation. Use it to distinguish this government from the Cheyenne and Arapaho Tribes in Oklahoma.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Arapaho",
+        "slug": "arapaho"
       }
     ]
   },
@@ -12436,26 +13710,6 @@
       {
         "name": "Mono",
         "slug": "mono"
-      }
-    ]
-  },
-  {
-    "id": "p4-s3",
-    "title": "Acoma Pueblo: Ancient City in the Sky (U.S. National Park Service)",
-    "publisher": "nps.gov",
-    "url": "https://www.nps.gov/articles/000/acoma-pueblo-ancient-city-in-the-sky.htm",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Acoma Pueblo: Ancient City in the Sky (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Acoma Pueblo",
-        "slug": "acoma-pueblo"
       }
     ]
   },
@@ -12718,26 +13972,6 @@
     ]
   },
   {
-    "id": "p232-s2",
-    "title": "Muscogee Nation - Ocmulgee Mounds National Historical Park (U.S. National Park Service)",
-    "publisher": "nps.gov",
-    "url": "https://www.nps.gov/ocmu/learn/historyculture/the-muscogee-nation.htm",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "History",
-      "Culture"
-    ],
-    "annotation": "Historical context for this entry. Read “Muscogee Nation - Ocmulgee Mounds National Historical Park (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Muscogee (Creek)",
-        "slug": "muscogee-creek"
-      }
-    ]
-  },
-  {
     "id": "p242-s3",
     "title": "Natchitoches Parish Convention and Visitors Bureau (U.S. National Park Service)",
     "publisher": "nps.gov",
@@ -12873,26 +14107,6 @@
       {
         "name": "Southern Paiute",
         "slug": "southern-paiute"
-      }
-    ]
-  },
-  {
-    "id": "p20-s1",
-    "title": "The Assiniboine - Fort Union Trading Post National Historic Site (U.S. National Park Service)",
-    "publisher": "nps.gov",
-    "url": "https://www.nps.gov/fous/learn/historyculture/assiniboine.htm",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "History",
-      "Culture"
-    ],
-    "annotation": "Historical context for this entry. Read “The Assiniboine - Fort Union Trading Post National Historic Site (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Assiniboine",
-        "slug": "assiniboine"
       }
     ]
   },
@@ -13217,6 +14431,26 @@
     ]
   },
   {
+    "id": "p14-s6",
+    "title": "About the Ojibwe Language",
+    "publisher": "Ojibwe People's Dictionary; University of Minnesota collaborators",
+    "url": "https://ojibwe.lib.umn.edu/about-ojibwe-language",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Education",
+      "Regional variation"
+    ],
+    "annotation": "Specifies the dictionary's Central Southwestern Ojibwe focus, writing system, speaker voices, and regional marking. Supports meaningful language exploration while keeping its geographical scope clear; old speaker counts are not used here.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishinaabe",
+        "slug": "anishinaabe"
+      }
+    ]
+  },
+  {
     "id": "p52-s1",
     "title": "Cheyenne, Southern | Encyclopedia",
     "publisher": "okhistory.org",
@@ -13251,6 +14485,51 @@
       {
         "name": "Eufaula",
         "slug": "eufaula"
+      }
+    ]
+  },
+  {
+    "id": "p16-s1",
+    "title": "Apache Tribe of Oklahoma, by Dianna Everett",
+    "publisher": "Oklahoma Historical Society",
+    "url": "https://www.okhistory.org/publications/enc/entry?entry=AP002",
+    "type": "Museum / archive",
+    "topics": [
+      "Identity",
+      "History",
+      "Plains lifeways",
+      "Culture"
+    ],
+    "annotation": "Historical reference distinguishes the Apache Tribe of Oklahoma from other Apache communities and emphasizes its own linguistic and cultural identity. Its demographic figures and program descriptions are dated and are not used as current measurements.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apache",
+        "slug": "apache"
+      },
+      {
+        "name": "Kiowa Apache",
+        "slug": "kiowa-apache"
+      }
+    ]
+  },
+  {
+    "id": "p9-s3",
+    "title": "Alabama-Quassarte Tribal Town",
+    "publisher": "Oklahoma Historical Society; John H. Moore",
+    "url": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
+    "type": "Museum / archive",
+    "topics": [
+      "History",
+      "Removal",
+      "Identity"
+    ],
+    "annotation": "Historical reference explaining Alabama and Quassarte town relationships, Creek Confederacy membership, westward migrations, allotment, and separate federal organization. Pair its compressed chronology with the town's own account.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alabama",
+        "slug": "alabama"
       }
     ]
   },
@@ -13603,6 +14882,66 @@
       {
         "name": "Kalaallit",
         "slug": "kalaallit"
+      }
+    ]
+  },
+  {
+    "id": "p11-s1",
+    "title": "Selected English Place Names with Indigenous Origins in Western Oregon",
+    "publisher": "Oregon Department of Education; Tribal History/Shared History curriculum",
+    "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf",
+    "type": "Government",
+    "topics": [
+      "Homelands",
+      "Language",
+      "Place names"
+    ],
+    "annotation": "The opening pages discuss Alsea, Yaquina, Ya’xaik/Yachats, and reservation land seizures; later pages distinguish Dee-ni and other western Oregon languages. Useful for preventing language and place-name conflations.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alsea",
+        "slug": "alsea"
+      }
+    ]
+  },
+  {
+    "id": "p11-s4",
+    "title": "Alsea Subagency of Siletz Reservation",
+    "publisher": "Oregon Encyclopedia; David Lewis",
+    "url": "https://www.oregonencyclopedia.org/articles/alsea_subagency_of_siletz_reservation/",
+    "type": "Museum / archive",
+    "topics": [
+      "Reservation history",
+      "Dispossession",
+      "Federal administration"
+    ],
+    "annotation": "Indigenous historian David Lewis explains the subagency's multi-tribal administration, reservation reductions, and descendant communities. Its scope is all peoples administered by the subagency, which must be distinguished from Alsea identity.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alsea",
+        "slug": "alsea"
+      }
+    ]
+  },
+  {
+    "id": "p11-s2",
+    "title": "Alsea (Alcea)",
+    "publisher": "Oregon Encyclopedia; William G. Robbins",
+    "url": "https://www.oregonencyclopedia.org/articles/alsea_alcea_/",
+    "type": "Museum / archive",
+    "topics": [
+      "Homelands",
+      "Travel",
+      "Place names"
+    ],
+    "annotation": "Primarily an article about the modern town. Its opening historical passage specifically identifies Alsea estuary villages, trails, and seasonal upper-valley gathering; the later logging history describes the town rather than the Indigenous people.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Alsea",
+        "slug": "alsea"
       }
     ]
   },
@@ -13986,26 +15325,6 @@
     ]
   },
   {
-    "id": "p17-s3",
-    "title": "Apalachee Indians - Peach State Archaeological Society",
-    "publisher": "peachstatearchaeologicalsociety.org",
-    "url": "https://peachstatearchaeologicalsociety.org/cultural-histories/historic-european-contact-period/apalachee-indians/",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Culture"
-    ],
-    "annotation": "Historical context for this entry. Read “Apalachee Indians - Peach State Archaeological Society” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Apalachee",
-        "slug": "apalachee"
-      }
-    ]
-  },
-  {
     "id": "p261-s2",
     "title": "Oconee Indians - Peach State Archaeological Society",
     "publisher": "peachstatearchaeologicalsociety.org",
@@ -14283,16 +15602,56 @@
     ]
   },
   {
-    "id": "p5-s1",
-    "title": "Tribal History – Official Home of the Pit River Tribe",
-    "publisher": "pitrivertribe.gov",
+    "id": "constitution",
+    "title": "Constitution of the Pit River Tribe",
+    "publisher": "Pit River Tribe",
+    "url": "https://pitrivertribe.gov/constitution/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "Identity",
+      "Homelands"
+    ],
+    "annotation": "The Tribe’s published constitutional text defines its eleven autonomous bands, name, purposes, and territory. Consult this for political identity rather than deriving it from language classifications.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Achumawi",
+        "slug": "achumawi"
+      }
+    ]
+  },
+  {
+    "id": "p23-s3",
+    "title": "Official Home of the Pit River Tribe",
+    "publisher": "Pit River Tribe",
+    "url": "https://pitrivertribe.gov/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Government",
+      "Bands",
+      "Homelands"
+    ],
+    "annotation": "Tribal government's own identification of eleven autonomous bands and their regional homeland. The authoritative starting point for the contemporary political relationship; includes language-program announcements.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atsugewi",
+        "slug": "atsugewi"
+      }
+    ]
+  },
+  {
+    "id": "history",
+    "title": "Tribal History",
+    "publisher": "Pit River Tribe",
     "url": "https://pitrivertribe.gov/tribal-history/",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "History"
+      "History",
+      "Homelands"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tribal History – Official Home of the Pit River Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Includes a detailed Hewisedawi history within the broader Pit River homeland. Its band-specific scope is identified in the profile.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -14594,6 +15953,26 @@
     ]
   },
   {
+    "id": "p22-s5",
+    "title": "La nation Atikamekw-Nehirowisiw dépose une déclaration de souveraineté !",
+    "publisher": "Premières Nations / Pierre Gill",
+    "url": "https://premieresnations.ca/articles/la-nation-atikamekw-nehirowisiw-depose-une-declaration-de-souverainete",
+    "type": "Indigenous-led",
+    "topics": [
+      "Sovereignty",
+      "Homelands",
+      "Resource development"
+    ],
+    "annotation": "Indigenous publisher's August 14, 2015 account reproduces the leaders' September 8, 2014 declaration. Read the declaration as an Atikamekw assertion, separately from the article's broader legal commentary.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atikamekw",
+        "slug": "atikamekw"
+      }
+    ]
+  },
+  {
     "id": "p193-s2",
     "url": "https://presidencia.gobiernocarlosalvarado.cr/comunicados/2021/08/pueblo-maleku-se-integrara-a-gestion-del-refugio-de-cano-negro-y-del-parque-nacional-volcan-tenorio/",
     "title": "Pueblo Maleku se integrará a gestión de áreas protegidas",
@@ -14730,6 +16109,102 @@
     ]
   },
   {
+    "id": "identity",
+    "title": "About Acoma",
+    "publisher": "Pueblo of Acoma",
+    "url": "https://www.puebloofacoma.org/about-us/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Homelands",
+      "History"
+    ],
+    "annotation": "The Pueblo’s own account distinguishes Haak’u and oral history from archaeological dating; useful for understanding how the community frames its homeland.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Acoma Pueblo",
+        "slug": "acoma-pueblo"
+      }
+    ]
+  },
+  {
+    "id": "language",
+    "title": "H’aakume Dzeeni Language Program",
+    "publisher": "Pueblo of Acoma",
+    "url": "https://www.puebloofacoma.org/departments/department-of-education/language-program/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Contemporary"
+    ],
+    "annotation": "Program description of dictionary work, fluent-speaker editing, educational aims, and restrictions on culturally sensitive material. Project counts are not treated as a current census.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Acoma Pueblo",
+        "slug": "acoma-pueblo"
+      }
+    ]
+  },
+  {
+    "id": "rebuilding",
+    "title": "In the Aftermath: Rebuilding the Pueblo",
+    "publisher": "Pueblo of Acoma",
+    "url": "https://www.puebloofacoma.org/about-us/rebuilding-the-pueblo/",
+    "type": "Indigenous-led",
+    "topics": [
+      "History"
+    ],
+    "annotation": "Pueblo-published discussion of colonial administration, complaints about abuses, and renewed mission activity in the seventeenth century.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Acoma Pueblo",
+        "slug": "acoma-pueblo"
+      }
+    ]
+  },
+  {
+    "id": "modern",
+    "title": "Modern Acoma",
+    "publisher": "Pueblo of Acoma",
+    "url": "https://www.puebloofacoma.org/about-us/modern-acoma/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Culture",
+      "Contemporary"
+    ],
+    "annotation": "Explains the mission caretakers’ work and places preservation, language retention, and higher education within continuing Acoma life.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Acoma Pueblo",
+        "slug": "acoma-pueblo"
+      }
+    ]
+  },
+  {
+    "id": "preservation",
+    "title": "Tribal Historic Preservation Office",
+    "publisher": "Pueblo of Acoma",
+    "url": "https://www.puebloofacoma.org/departments/department-of-operations/acoma-department-of-natural-resources/tribal-historic-preservation-office/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Culture",
+      "History",
+      "Government"
+    ],
+    "annotation": "Primary institutional account of the office’s 1999 establishment, archives, consultation responsibilities, restoration, and building education.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Acoma Pueblo",
+        "slug": "acoma-pueblo"
+      }
+    ]
+  },
+  {
     "id": "p145-s1",
     "url": "https://www.isletapueblo.com/about-us/",
     "title": "About Us",
@@ -14791,45 +16266,6 @@
       {
         "name": "Towa",
         "slug": "towa"
-      }
-    ]
-  },
-  {
-    "id": "p4-s2",
-    "title": "Cultural Preservation Efforts of Acoma | Pueblo of Acoma",
-    "publisher": "puebloofacoma.org",
-    "url": "https://www.puebloofacoma.org/about-us/cultural-preservation/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "Culture"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Cultural Preservation Efforts of Acoma | Pueblo of Acoma” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Acoma Pueblo",
-        "slug": "acoma-pueblo"
-      }
-    ]
-  },
-  {
-    "id": "p4-s1",
-    "title": "Modern Acoma | Pueblo of Acoma",
-    "publisher": "puebloofacoma.org",
-    "url": "https://www.puebloofacoma.org/about-us/modern-acoma/",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Modern Acoma | Pueblo of Acoma” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Acoma Pueblo",
-        "slug": "acoma-pueblo"
       }
     ]
   },
@@ -14950,64 +16386,6 @@
       {
         "name": "Quapaw",
         "slug": "quapaw"
-      }
-    ]
-  },
-  {
-    "id": "p1-s1",
-    "title": "Abenaki | Gouvernement du Québec",
-    "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations/abenakis",
-    "publisher": "quebec.ca",
-    "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "History",
-      "Language"
-    ],
-    "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Abenaki",
-        "slug": "abenaki"
-      }
-    ]
-  },
-  {
-    "id": "p14-s3",
-    "title": "Algonquin (Anishinaabe) | Gouvernement du Québec",
-    "publisher": "quebec.ca",
-    "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations/algonquin",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Government"
-    ],
-    "annotation": "Context and further reading linked for this entry. The publisher’s “Algonquin (Anishinaabe) | Gouvernement du Québec” is a starting point; verify the geographical and community scope before applying its account more broadly.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Anishinaabe",
-        "slug": "anishinaabe"
-      }
-    ]
-  },
-  {
-    "id": "p22-s2",
-    "title": "Atikamekw | Gouvernement du Québec",
-    "publisher": "quebec.ca",
-    "url": "https://www.quebec.ca/en/government/quebec-at-a-glance/first-nations-and-inuit/profile-of-the-nations/atikamekw",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Government"
-    ],
-    "annotation": "Context and further reading linked for this entry. The publisher’s “Atikamekw | Gouvernement du Québec” is a starting point; verify the geographical and community scope before applying its account more broadly.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Atikamekw",
-        "slug": "atikamekw"
       }
     ]
   },
@@ -15252,6 +16630,26 @@
       {
         "name": "Quinault",
         "slug": "quinault"
+      }
+    ]
+  },
+  {
+    "id": "p13-s5",
+    "title": "¿Qué es Radio Ñomndaa? — La Palabra del Agua",
+    "publisher": "Radio Ñomndaa",
+    "url": "https://lapalabradelagua.wordpress.com/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Community media",
+      "Autonomy",
+      "Culture"
+    ],
+    "annotation": "The Suljaa’ community radio project's self-description articulates cultural, communication, and autonomy goals in its own voice. This historical website is used for the project's stated purposes, not verification of current stream availability or schedules.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Amuzgo",
+        "slug": "amuzgo"
       }
     ]
   },
@@ -15987,6 +17385,46 @@
     ]
   },
   {
+    "id": "p16-s7",
+    "title": "Apache Language Preservation",
+    "publisher": "San Carlos Apache Tribe",
+    "url": "https://www.scat-nsn.gov/apache-language-preservation/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Education",
+      "Land"
+    ],
+    "annotation": "Program description covering Elder interviews, teaching, place-name and ecological documentation, family outreach and resources. Its specific institutional activities provide a grounded account of language work.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apache",
+        "slug": "apache"
+      }
+    ]
+  },
+  {
+    "id": "p16-s3",
+    "title": "Our History",
+    "publisher": "San Carlos Apache Tribe",
+    "url": "https://www.scat-nsn.gov/our-history/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Land",
+      "Foodways",
+      "Colonialism"
+    ],
+    "annotation": "Community account of seasonal food production, settler encroachment, the Camp Grant Massacre, confinement and boarding schools. Read it for San Carlos and Western Apache perspectives, with attention to the communities named.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apache",
+        "slug": "apache"
+      }
+    ]
+  },
+  {
     "id": "p343-s2",
     "title": "Serrano Road | San Bernardino, CA",
     "publisher": "sanbernardino.gov",
@@ -16148,6 +17586,26 @@
       {
         "name": "Southern Paiute",
         "slug": "southern-paiute"
+      }
+    ]
+  },
+  {
+    "id": "p24-s1",
+    "title": "First Peoples of California",
+    "publisher": "Santa Cruz Museum of Natural History",
+    "url": "https://santacruzmuseum.org/exhibit/first-peoples-of-california/",
+    "type": "Museum / archive",
+    "topics": [
+      "Uypi",
+      "Lifeways",
+      "Collections"
+    ],
+    "annotation": "Local exhibit identifies Uypi homeland and Awaswas language, explains food processing and material practices, and states that displayed local materials involve Amah Mutsun consultation. Useful for geographically specific learning.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Awaswas",
+        "slug": "awaswas"
       }
     ]
   },
@@ -16458,6 +17916,66 @@
     ]
   },
   {
+    "id": "p13-s1",
+    "title": "Amuzgo — Lenguas indígenas",
+    "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+    "url": "https://sic.gob.mx/ficha.php?table=inali_li&table_id=2",
+    "type": "Government",
+    "topics": [
+      "Language",
+      "Identity",
+      "Homelands"
+    ],
+    "annotation": "Names four language varieties, gives local self-designations, and describes the Guerrero–Oaxaca borderland. Dated 2020 but incorporating older census geography; undated headline speaker counts are not used here.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Amuzgo",
+        "slug": "amuzgo"
+      }
+    ]
+  },
+  {
+    "id": "p13-s2",
+    "title": "Amuzgos — Pueblos indígenas",
+    "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+    "url": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=23",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Land",
+      "Oral history"
+    ],
+    "annotation": "Historical overview distinguishes oral origin traditions, colonial changes, Xochistlahuaca's role, and twentieth-century land restitution. Also introduces arts and local festivals; its summary is not a substitute for individual community histories.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Amuzgo",
+        "slug": "amuzgo"
+      }
+    ]
+  },
+  {
+    "id": "p13-s4",
+    "title": "Huipiles Amuzgos: tejido en telar de cintura y brocado con hilos de algodón",
+    "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+    "url": "https://sic.cultura.gob.mx/ficha.php?disciplina=&table=frpintangible&table_id=51",
+    "type": "Government",
+    "topics": [
+      "Textiles",
+      "Arts",
+      "Cultural knowledge"
+    ],
+    "annotation": "2012 heritage inventory describing cotton preparation, backstrap weaving, brocade, garment assembly, and huipiles' social significance across Guerrero and Oaxaca. Its older risk assessments are not reported as current conditions.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Amuzgo",
+        "slug": "amuzgo"
+      }
+    ]
+  },
+  {
     "id": "p337-s2",
     "title": "About the Secwépemc Archives | Secwépemc Museum",
     "publisher": "secwepemcmuseum.ca",
@@ -16604,6 +18122,25 @@
     ]
   },
   {
+    "id": "language",
+    "title": "Where We Speak Shawnee",
+    "publisher": "Shawnee Tribe",
+    "url": "https://shawnee-nsn.gov/news/where-we-speak-shawnee/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Language",
+      "Contemporary"
+    ],
+    "annotation": "2024 account of language learning involving Absentee Shawnee elder George Fife Blanchard; published by a different Shawnee government.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Absentee Shawnee",
+        "slug": "absentee-shawnee"
+      }
+    ]
+  },
+  {
     "id": "p345-s3",
     "title": "Language Immersion Program - Shawnee Tribe",
     "publisher": "shawnee-nsn.gov",
@@ -16742,26 +18279,6 @@
     ]
   },
   {
-    "id": "p2-s2",
-    "title": "Plan of Abihka Square Ground | Smithsonian Institution",
-    "publisher": "si.edu",
-    "url": "https://www.si.edu/object/archives/components/sova-naa-photolot-76-ref991",
-    "type": "Museum / archive",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Plan of Abihka Square Ground | Smithsonian Institution” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Abihka",
-        "slug": "abihka"
-      }
-    ]
-  },
-  {
     "id": "p86-s3",
     "title": "Seeking recognition : the termination and restoration of the Coos, Lower Umpqua, and Siuslaw Indians, 1855-1984 / David R.M. Beck | Smithsonian Institution",
     "publisher": "si.edu",
@@ -16842,26 +18359,6 @@
       {
         "name": "Yokuts",
         "slug": "yokuts"
-      }
-    ]
-  },
-  {
-    "id": "p13-s3",
-    "title": "Amuzgo : Lenguas indígenas México : Sistema de Información Cultural-Secretaría de Cultura",
-    "publisher": "sic.cultura.gob.mx",
-    "url": "https://sic.cultura.gob.mx/ficha.php?table=inali_li&table_id=2",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Language",
-      "Culture"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Amuzgo : Lenguas indígenas México : Sistema de Información Cultural-Secretaría de Cultura” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Amuzgo",
-        "slug": "amuzgo"
       }
     ]
   },
@@ -17064,25 +18561,6 @@
     ]
   },
   {
-    "id": "p8-s1",
-    "title": "KutiꞋ (akateko) : Inventario del patrimonio cultural inmaterial México : Sistema de Información Cultural-Secretaría de Cultura",
-    "publisher": "sic.cultura.gob.mx",
-    "url": "https://sic.cultura.gob.mx/ficha.php?table=frpintangible&table_id=735",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "Culture"
-    ],
-    "annotation": "Context and further reading linked for this entry. The publisher’s “KutiꞋ (akateko) : Inventario del patrimonio cultural inmaterial México : Sistema de Información Cultural-Secretaría de Cultura” is a starting point; verify the geographical and community scope before applying its account more broadly.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Akateko",
-        "slug": "akateko"
-      }
-    ]
-  },
-  {
     "id": "p314-s3",
     "title": "Q'eqchi' : Lenguas indígenas México : Sistema de Información Cultural-Secretaría de Cultura",
     "publisher": "sic.cultura.gob.mx",
@@ -17279,7 +18757,7 @@
     ]
   },
   {
-    "id": "p11-s2",
+    "id": "p111-s2",
     "title": "Na’-‘aa-le’ Video Project:",
     "publisher": "siletzlanguage.org",
     "url": "https://www.siletzlanguage.org/pdfs/Video_Project_Workbook_FinalDraft.pdf",
@@ -17292,17 +18770,13 @@
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Alsea",
-        "slug": "alsea"
-      },
-      {
         "name": "Galice",
         "slug": "galice"
       }
     ]
   },
   {
-    "id": "p11-s1",
+    "id": "p111-s1",
     "title": "Siletz Tribal Language Project",
     "publisher": "siletzlanguage.org",
     "url": "https://www.siletzlanguage.org/",
@@ -17314,10 +18788,6 @@
     "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Siletz Tribal Language Project” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
     "accessed": "2026-10-19",
     "nations": [
-      {
-        "name": "Alsea",
-        "slug": "alsea"
-      },
       {
         "name": "Galice",
         "slug": "galice"
@@ -17577,21 +19047,22 @@
     ]
   },
   {
-    "id": "p2-s1",
-    "title": "Smithsonian Bureau of American Ethnology Bulletin 123 (historical reference)",
-    "publisher": "Smithsonian Institution",
-    "url": "https://repository.si.edu/bitstream/handle/10088/15425/bulletin1231939smit.pdf",
+    "id": "p11-s5",
+    "title": "MS 2516 Alsea and Lower Umpqua texts and notes",
+    "publisher": "Smithsonian National Anthropological Archives",
+    "url": "https://sova.si.edu/record/naa.ms2516?i=8677&n=10&q=National+Institute&s=8670&t=C",
     "type": "Museum / archive",
     "topics": [
-      "History",
-      "Identity"
+      "Language",
+      "Archives",
+      "Documentation"
     ],
-    "annotation": "A historical ethnological source containing Abihka-related material. Its period terminology and outside authorship require critical reading alongside contemporary Muscogee sources.",
+    "annotation": "Checked finding aid describing Alsea texts, grammar, translations, and the authorship of notebooks, with digitized manuscripts linked. A guide to historical documentation rather than a contemporary statement of community beliefs.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Abihka",
-        "slug": "abihka"
+        "name": "Alsea",
+        "slug": "alsea"
       }
     ]
   },
@@ -18277,6 +19748,46 @@
     ]
   },
   {
+    "id": "p17-s7",
+    "title": "Apalachee Community Projects",
+    "publisher": "Talimali Band of the Apalachee Indians of Louisiana",
+    "url": "https://talimaliband.com/apalachee-community-projects",
+    "type": "Indigenous-led",
+    "topics": [
+      "Contemporary life",
+      "Museums",
+      "Community"
+    ],
+    "annotation": "Community descriptions of village expansion, museum planning and relief work. These are projects described by the Band, with some entries explicitly historical; they are not independent confirmation that every proposed project is completed.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
+    "id": "p17-s1",
+    "title": "Who Are the Apalachee Indians Today?",
+    "publisher": "Talimali Band of the Apalachee Indians of Louisiana",
+    "url": "https://talimaliband.com/apalachee-indians-today",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Contemporary life",
+      "Education"
+    ],
+    "annotation": "Descendant community’s account of its Louisiana roots, historical continuity, cultural preservation and educational programs. Its distinction between a recognition application and continuing community identity is useful alongside older histories.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
     "id": "p419-s2",
     "title": "Uspanteko Talking Dictionary",
     "publisher": "talkingdictionary.swarthmore.edu",
@@ -18559,6 +20070,25 @@
     ]
   },
   {
+    "id": "archaeology",
+    "title": "Los Adaes: Cultural Worlds",
+    "publisher": "Texas Beyond History · Texas Archeological Research Laboratory",
+    "url": "https://www.texasbeyondhistory.net/adaes/worlds.html",
+    "type": "Academic / reference",
+    "topics": [
+      "History",
+      "Homelands"
+    ],
+    "annotation": "Regional archaeological interpretation with explicit cautions about colonial records. Broad Caddo-area patterns are not automatically specific Adai practices.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Adai",
+        "slug": "adai"
+      }
+    ]
+  },
+  {
     "id": "p157-s2",
     "url": "https://thc.texas.gov/sites/default/files/2025-10/THC_Quarterly_HPD_Nov2025.pdf",
     "title": "History Programs quarterly report",
@@ -18599,6 +20129,26 @@
     ]
   },
   {
+    "id": "p21-s2",
+    "title": "Atakapa Indians",
+    "publisher": "Texas State Historical Association",
+    "url": "https://www.tshaonline.org/handbook/entries/atakapa-indians",
+    "type": "Academic / reference",
+    "topics": [
+      "History",
+      "Colonialism",
+      "Lifeways"
+    ],
+    "annotation": "Dorothy Couser's historical overview supplies coastal subsistence, trade and mission context. Its dated assertions about cannibalism and demographic disappearance should be assessed against living Ishak accounts.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atakapa",
+        "slug": "atakapa"
+      }
+    ]
+  },
+  {
     "id": "p157-s1",
     "url": "https://www.tshaonline.org/handbook/entries/karankawa-indians",
     "title": "Karankawa Indians",
@@ -18619,41 +20169,41 @@
     ]
   },
   {
-    "id": "p21-s1",
-    "title": "A Dictionary of the Atakapa Language: Accompanied by Text Material - Page 2 - The Portal to Texas History",
-    "publisher": "texashistory.unt.edu",
-    "url": "https://texashistory.unt.edu/ark%3A/67531/metapth20200/m1/6/",
+    "id": "p18-s5",
+    "title": "History of the Northern Arapaho Tribe",
+    "publisher": "The Arapaho Project / University of Colorado Boulder",
+    "url": "https://www.colorado.edu/project/arapaho/contemporary-life/history-northern-arapaho-tribe",
     "type": "Academic / reference",
     "topics": [
-      "Identity",
-      "Language",
-      "History"
+      "Homelands",
+      "History",
+      "Displacement"
     ],
-    "annotation": "A language reference linked for this entry. Read “A Dictionary of the Atakapa Language: Accompanied by Text Material - Page 2 - The Portal to Texas History” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
+    "annotation": "Historical synthesis covering Plains homelands, northern and southern trajectories, Wind River settlement and assimilation policies. Undated language-speaker estimates and older assessments of contemporary life are not treated as current measurements.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Atakapa",
-        "slug": "atakapa"
+        "name": "Arapaho",
+        "slug": "arapaho"
       }
     ]
   },
   {
-    "id": "p9-s3",
-    "title": "The History of the Alabama-Coushatta and Their Role in the Texas Revolution | Texas Historical Commission",
-    "publisher": "thc.texas.gov",
-    "url": "https://thc.texas.gov/blog/history-alabama-coushatta-and-their-role-texas-revolution",
-    "type": "Government",
+    "id": "p18-s6",
+    "title": "Language",
+    "publisher": "The Arapaho Project / University of Colorado Boulder",
+    "url": "https://www.colorado.edu/project/arapaho/language",
+    "type": "Academic / reference",
     "topics": [
-      "Identity",
-      "History"
+      "Language",
+      "Learning resources"
     ],
-    "annotation": "Historical context for this entry. Read “The History of the Alabama-Coushatta and Their Role in the Texas Revolution | Texas Historical Commission” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+    "annotation": "Introduces Algonquian affiliation and distinctive Arapaho linguistic development, with links to lessons, grammar, stories and dictionaries. Its undated speaker counts are not used as present-day statistics.",
     "accessed": "2026-10-19",
     "nations": [
       {
-        "name": "Alabama",
-        "slug": "alabama"
+        "name": "Arapaho",
+        "slug": "arapaho"
       }
     ]
   },
@@ -19070,26 +20620,6 @@
     ]
   },
   {
-    "id": "p21-s2",
-    "title": "Atakapa Indians",
-    "publisher": "tshaonline.org",
-    "url": "https://www.tshaonline.org/handbook/entries/atakapa-indians",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Atakapa Indians” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Atakapa",
-        "slug": "atakapa"
-      }
-    ]
-  },
-  {
     "id": "p56-s2",
     "title": "Language Revitalization Plan February 3, 2026 - Tŝilhqot’in National Government",
     "publisher": "tsilhqotin.ca",
@@ -19482,25 +21012,6 @@
     ]
   },
   {
-    "id": "p7-s3",
-    "title": "Languages - Ahtna | Alaska Native Language Center",
-    "publisher": "uaf.edu",
-    "url": "https://www.uaf.edu/anlc/languages-move/ahtna.php",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “Languages - Ahtna | Alaska Native Language Center” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Ahtna",
-        "slug": "ahtna"
-      }
-    ]
-  },
-  {
     "id": "p449-s1",
     "title": "Languages - Central Yup'ik | Alaska Native Language Center",
     "url": "https://www.uaf.edu/anlc/languages-move/centralakyupik.php",
@@ -19712,26 +21223,6 @@
       {
         "name": "Brörán",
         "slug": "broran"
-      }
-    ]
-  },
-  {
-    "id": "p17-s2",
-    "title": "Apalachee: The Land between the Rivers",
-    "publisher": "ufdcimages.uflib.ufl.edu",
-    "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/13/83/00001/AA00061383_00001.pdf",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
-    ],
-    "annotation": "Historical context for this entry. Read “Apalachee: The Land between the Rivers” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Apalachee",
-        "slug": "apalachee"
       }
     ]
   },
@@ -19948,6 +21439,46 @@
       {
         "name": "Maleku",
         "slug": "maleku"
+      }
+    ]
+  },
+  {
+    "id": "p20-s6",
+    "title": "A Grammar of Nakoda (Assiniboine), Linda A. Cumberland (2025)",
+    "publisher": "University of Nebraska Press / JSTOR",
+    "url": "https://www.jstor.org/stable/jj.29722263",
+    "type": "Academic / reference",
+    "topics": [
+      "Language",
+      "Kinship",
+      "Writing systems"
+    ],
+    "annotation": "Public description, contents and chapter introductions establish Siouan affiliation, critique older classification and describe grammatical and orthographic coverage. Full text requires library or other access; this profile uses publicly visible material.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Assiniboine",
+        "slug": "assiniboine"
+      }
+    ]
+  },
+  {
+    "id": "p21-s3",
+    "title": "Louisiana Creole Peoplehood: Afro-Indigeneity and Community",
+    "publisher": "University of Washington Press / Rain Prud'homme-Cranford, Darryl Barthé and Andrew J. Jolivétte, editors",
+    "url": "https://uwapress.uw.edu/book/9780295749495/louisiana-creole-peoplehood/",
+    "type": "Academic / reference",
+    "topics": [
+      "Afro-Indigeneity",
+      "Identity",
+      "Cultural continuity"
+    ],
+    "annotation": "Publisher's description of the 2022 community-and-scholar anthology provides broader Afro-Indigenous context. The book itself requires borrowing or purchase; its overview cannot establish individual tribal membership.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Atakapa",
+        "slug": "atakapa"
       }
     ]
   },
@@ -20225,25 +21756,6 @@
     ]
   },
   {
-    "id": "p23-s2",
-    "title": "WALS Online - Language Atsugewi",
-    "publisher": "wals.info",
-    "url": "https://wals.info/languoid/lect/wals_code_ats",
-    "type": "Academic / reference",
-    "topics": [
-      "Identity",
-      "Language"
-    ],
-    "annotation": "A language reference linked for this entry. Read “WALS Online - Language Atsugewi” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Atsugewi",
-        "slug": "atsugewi"
-      }
-    ]
-  },
-  {
     "id": "p290-s2",
     "title": "WALS Online - Language Pech",
     "publisher": "wals.info",
@@ -20321,6 +21833,47 @@
       {
         "name": "Warm Springs",
         "slug": "warm-springs"
+      }
+    ]
+  },
+  {
+    "id": "p15-s1",
+    "title": "Welcome to Wasagamack Anisininew Nation (2024 community guide)",
+    "publisher": "Wasagamack Anisininew Nation / Teach For Canada",
+    "url": "https://teachforcanada.ca/en/wp-content/uploads/2024/02/Wasagamack-Anisininew-Nation-2024_Pages-1.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Treaties",
+      "Language",
+      "Education"
+    ],
+    "annotation": "Community welcome signed by Chief and Council, with a timeline and Elder interviews. Pages 3–6 explain treaty history and preferred identity; its local naming guidance matters when encountering Oji-Cree in older sources.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishininew",
+        "slug": "anishininew"
+      }
+    ]
+  },
+  {
+    "id": "p15-s2",
+    "title": "Wasagamack First Nation School: community and school profile",
+    "publisher": "Wasagamack First Nation School",
+    "url": "https://george-knott-school.ca/GKSprofile.html",
+    "type": "Indigenous-led",
+    "topics": [
+      "Homelands",
+      "Education",
+      "Treaties"
+    ],
+    "annotation": "School account of Wasagamack’s location, Treaty 5 relationship, education authority and traditional teaching. It uses older language terminology; compare its naming with the nation’s 2024 guide.",
+    "accessed": "2026-10-19",
+    "nations": [
+      {
+        "name": "Anishininew",
+        "slug": "anishininew"
       }
     ]
   },
@@ -21051,17 +22604,18 @@
     ]
   },
   {
-    "id": "p16-s3",
-    "title": "Water Rights Settlement – Yavapai-Apache Nation",
-    "publisher": "yavapai-apache.org",
-    "url": "https://yavapai-apache.org/waterrightssettlement-2/",
+    "id": "p16-s2",
+    "title": "Yavapai-Apache Nation",
+    "publisher": "Yavapai-Apache Nation",
+    "url": "https://yavapai-apache.org/yavapai-apache-nation/",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
-      "History",
-      "Contemporary life"
+      "Governance",
+      "Contemporary life",
+      "History"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Water Rights Settlement – Yavapai-Apache Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Nation-published explanation of its two distinct peoples, their self-names, Verde Valley communities and governmental services. Population figures on the page are explicitly from 2019 and are not used here as current counts.",
     "accessed": "2026-10-19",
     "nations": [
       {
@@ -21079,23 +22633,19 @@
     ]
   },
   {
-    "id": "p16-s2",
-    "title": "Yavapai-Apache Nation – Yavapai-Apache Nation",
+    "id": "p442-s2",
+    "title": "Water Rights Settlement – Yavapai-Apache Nation",
     "publisher": "yavapai-apache.org",
-    "url": "https://yavapai-apache.org/yavapai-apache-nation/",
+    "url": "https://yavapai-apache.org/waterrightssettlement-2/",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
       "History",
       "Contemporary life"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Yavapai-Apache Nation – Yavapai-Apache Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Water Rights Settlement – Yavapai-Apache Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
     "accessed": "2026-10-19",
     "nations": [
-      {
-        "name": "Apache",
-        "slug": "apache"
-      },
       {
         "name": "Yavapai",
         "slug": "yavapai"
