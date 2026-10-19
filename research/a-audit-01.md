@@ -1,0 +1,25 @@
+# Independent Abenaki audit — 2026-10-19
+
+Audited `work/a-research-01.json` at its 12-source stage. No profile or main-data edits made. Verdict: no material factual error found and no passing-mention / generic-project padding comparable to the Abihka Yardeka problem. All 12 are distinct, directly relevant resources. The institutional museum and Ndakina pages are shorter than the reports but have substantive mission/history/mandate content actually used in the synthesis. Their reports supply different, dated evidence rather than duplicate copies of the same content. An additional archaeological booklet would strengthen the collection even though these 12 pass the count-fit audit.
+
+## Critical claims independently checked
+
+- **Laurent (1884):** actual Internet Archive OCR `https://archive.org/download/newfamiliaraben01laurgoog/newfamiliaraben01laurgoog_djvu.txt`, title, preface and opening alphabet/pronunciation. The preface explicitly prioritizes helping young Abenaki learn English and also preserving Abenaki against gradual changes through written explanations. The draft correctly includes both purposes. It does not claim the whole dictionary has been read.
+- **2025 archaeological protocol:** actual 68-page PDF at the cited public URL. Cover explicitly says **Version préliminaire**, with 2025 cover and April 2025 internal headings. The draft correctly uses summary aims and explicitly avoids treating public availability as adoption or implementation. Search/PDF metadata containing an older title is weaker than the actual cover.
+- **Wôlinak plan:** direct 2025 upload URL could not independently be fetched during this audit (web error / urllib403). The same seven-page council publication is indexed and readable at `https://cawolinak.com/wp-content/uploads/2022/08/Plan-Strategique-CAW.pdf`. Its actual cover says 2023–2028 while subsequent pages say February2022; mission, vision, values and analysis support the draft. No planned project is falsely presented as completed. I cannot certify byte identity of the two uploads.
+
+## Other material inspections
+
+- Nation historical page: actual complete HTML read. Naming, rivers, colonial pressures, post1763 hunting/fishing/guiding/forestry and access restrictions support the attributed synthesis. Draft avoids deriving a precise ancient ethnic identity or present census from the overview.
+- Québec profile: actual complete page read, updated May22,2025. Basketry seasonal production/travel, changing merchant sales, community geography and members elsewhere support the narrow use. Province-wide administrative scope retained. The draft sensibly prefers the museum itself for its1965 founding over the provincial page’s historical-society1960 wording.
+- May2022 Pilaskw: locally downloaded PDF text independently read, especially PDF/printed1–2. DanielG.Nolett’s family photographs and SuzieO’Bomsawin’s harvesting/making/sale-site research are present. Vermont recognition criticism remains attributed rather than adjudicated.
+- March31,2022 black-ash report: actual69-page PDF read at summary5–6 and consultation/method material. Combines community participation with field inventory and clearly dated listing concerns. Draft avoids turning those concerns into current law or current forest-health claims.
+- January/Winter2024 Pilaskw: locally downloaded text independently read at1 and6. Chief’s future governance/citizenship discussion and the app’s remastered ancestral recordings/common words/Wôlinak illustrator are accurately represented. No fluency outcome or current availability is claimed.
+- Museum About: actual full page read. History,1965,mission and three values are substantive direct institutional testimony.
+- Museum2024–2025 annual report: locally downloaded PDF text independently read at3–11. June21,2024 launch, contemporary collecting and other-nation collections are present and accurately scoped. Report period is correctly distinguished from the upload path.
+- Ndakina page: actual complete HTML read. Mandate paragraphs support Odanak/Wôlinak research, claims/consultation, environment/climate and member knowledge; guardians initiative is dated2021. This is a real published mandate, beyond the long bibliography/staff directory.
+- Foodways educator guide: actual14-page PDF read including credits, identity, territory, historical adaptation, agriculture and stewardship. Guide identifies W8banaki collaborators and distinct Wabanaki nations. Draft’s crops/storage, gardens, seed bank/sharing and public planting are present. The guide contains some broad historical comparisons; draft appropriately does not repeat every generalization.
+
+## Scope limitation
+
+The current profile remains intentionally centered on Odanak/Wôlinak and their institutions. Twelve sources is a numerical threshold, not a completed homeland-wide historical study; the existing gap statement says this clearly. The additional archaeological booklet should add a distinct evidence base. No edits requested from this audit.

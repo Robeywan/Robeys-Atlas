@@ -1,0 +1,51 @@
+{
+  "originalId": 4,
+  "reviewedAt": "2026-10-19",
+  "note": "Two optional additions, independently inspected after the twelve-source draft. These add community-linked building chronology and an Acoma educator’s first-person policy analysis. Main draft remains unchanged; adopt the sources only with appropriate section citations and scope limits.",
+  "sources": [
+    {
+      "id": "p4-tree-rings",
+      "title": "Tree-Ring Studies of the Pueblo de Acoma: A Preliminary Report",
+      "publisher": "Laboratory of Tree-Ring Research, University of Arizona",
+      "url": "https://ltrr.arizona.edu/sites/ltrr.arizona.edu/files/bibliodocs/Robinson_Tree-Ring%20Studies%20of%20the%20Pueblo%20de%20Acoma_1987.pdf",
+      "type": "Academic / reference",
+      "topics": ["History", "Architecture", "Community research", "Preservation"],
+      "annotation": "William J. Robinson, 1987. Read printed pp. 1–10 on meetings with Acoma homeowners and representatives, rehabilitation, methods, and results, plus p. 11’s dating-symbol key. Selected roof timbers support seventeenth-century construction and later repair; a beam date is not a founding date for Acoma. The study is preliminary and samples only parts of the village. Room-by-room owner and location details are not reproduced here.",
+      "author": "William J. Robinson",
+      "publicationDate": "1987",
+      "accessed": "2026-10-19",
+      "contentReviewedAt": "2026-10-19"
+    },
+    {
+      "id": "p4-sims-testimony",
+      "title": "Christine Pasqual Sims: Testimony on Maintaining and Revitalizing Native Languages for Future Generations",
+      "publisher": "Christine Pasqual Sims / U.S. Senate Committee on Indian Affairs",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-115shrg32539/pdf/CHRG-115shrg32539.pdf",
+      "type": "Indigenous-led",
+      "topics": ["Education", "Language", "Community voices", "Public policy"],
+      "annotation": "August 22, 2018 hearing, S. Hrg. 115–367. Read Sims’s oral remarks on printed pp. 25–26 and prepared statement pp. 27–31. The Acoma educator discusses teacher training, tribal decision-making, school policy, and early childhood language learning. Her examples include several distinct communities, especially Cochiti and Jemez; those schools and their outcomes must not be relabeled as Acoma programs. Other witnesses’ statements were not reviewed as part of this source check.",
+      "author": "Christine Pasqual Sims",
+      "publicationDate": "2018-08-22",
+      "accessed": "2026-10-19",
+      "contentReviewedAt": "2026-10-19"
+    }
+  ],
+  "suggestedSectionAdditions": [
+    {
+      "existingSectionTitle": "Haak’u and different ways of knowing historical time",
+      "text": "A different kind of evidence comes from a 1987 tree-ring study undertaken alongside housing rehabilitation, with meetings involving Acoma homeowners and representatives. Sampled timbers indicated seventeenth-century construction and later roof repairs. The study helps reconstruct the histories of particular buildings; its limited samples and distinctions between cutting dates and incomplete rings prevent it from becoming a simple date for the origin of Acoma itself.",
+      "sourceIds": ["p4-tree-rings"]
+    },
+    {
+      "existingSectionTitle": "Language learning and community authority over materials",
+      "text": "Acoma educator Christine Pasqual Sims adds a wider policy perspective in her 2018 Senate testimony. She explains how English-centered testing, teacher credentials, and limited resources can obstruct language efforts, and argues for training and early childhood programs shaped by tribal priorities. Her examples from several communities illuminate shared policy challenges; the Cochiti and Jemez initiatives she describes remain those communities’ programs.",
+      "sourceIds": ["p4-sims-testimony"]
+    }
+  ],
+  "integrationNotes": [
+    "Adding both sources would make fourteen inspected resources. Integrate their claims into existing sections or a revised narrative; do not attach uncited sources merely to increase the count.",
+    "The suggested paragraphs add about 140 words to the original 1,058-word narrative. Trim existing general explanation if retaining the target length near 1,200 words.",
+    "Do not reproduce the tree-ring report’s named-household room catalog or treat the original sample dates as a present condition assessment.",
+    "Sims is an Acoma scholar addressing policy across many tribal communities; this source adds her perspective, not evidence that all programs she describes are Acoma-run."
+  ]
+}
