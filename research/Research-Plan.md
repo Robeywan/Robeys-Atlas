@@ -1,4 +1,4 @@
-# Nations Atlas — continuing research plan
+# Robey’s Atlas of Indigenous North America — continuing research plan
 
 Updated October 19, 2026, from the project owner's instructions.
 
@@ -20,13 +20,13 @@ The original directory includes peoples, individual governments, umbrella terms,
 
 **Latest owner priority: finish the A entries first, one by one, before returning to B.** All 26 original A entries, Abenaki through Ayapaneco, plus supported added A entries such as Algonquin, need at least 12 excellent, substantive inspected resources each, and more where useful. Re-read and assess older sources rather than treating the Expanded profile label or an access date as evidence of completed review. Deepen the articles and source annotations as well as the collections. Sparse historical entries remain honestly unfinished while stronger evidence is sought.
 
-Save completed work incrementally and publish meaningful A batches. There are currently 30 expanded profiles among original entries 1–30. New community and specialist evidence supports a developed Abihka profile, with remaining town-history questions explicitly retained. The first A renewal batch now contains Abenaki (13 inspected resources), Abihka (12), Absentee Shawnee (14), and Acoma Pueblo (14). Continue with Achumawi, original entry 5, then the remaining A entries and Algonquin; revisit open gaps as stronger evidence appears. The previous B batch added Babine (13 inspected resources), Bannock (13), Beothuk (14), and Biloxi (13). Preserve those pages and unfinished Blackfoot, Kainai, Bokota, and Bribri research for later; further B research follows completion and review of the A collections. Keep an accurate coverage ledger separating source discovery, inspected sources, expanded synthesis, editorial review, and remaining gaps. A per-entry progress record is included with the site and downloadable deliverables.
+Save completed work incrementally and publish meaningful A batches. There are currently 30 expanded profiles among original entries 1–30. New community and specialist evidence supports a developed Abihka profile, with remaining town-history questions explicitly retained. The first A renewal batch now contains Abenaki (13 inspected resources), Abihka (12), Absentee Shawnee (14), and Acoma Pueblo (14). Achumawi now has 15 substantive inspected resources and eleven cited sections, with independent evidence review. Continue with Adai, original entry 6, then the remaining A entries and Algonquin; revisit open gaps as stronger evidence appears. The previous B batch added Babine (13 inspected resources), Bannock (13), Beothuk (14), and Biloxi (13). Preserve those pages and unfinished Blackfoot, Kainai, Bokota, and Bribri research for later; further B research follows completion and review of the A collections. Keep an accurate coverage ledger separating source discovery, inspected sources, expanded synthesis, editorial review, and remaining gaps. A per-entry progress record is included with the site and downloadable deliverables.
 
 Publish meaningful completed research batches to the existing private Nations Atlas site. Preserve its current audience. Refresh the downloadable research, website archive, and progress notes. Quality takes precedence over deadlines; the project may take weeks or months.
 
-## Later design phase
+## Design direction and later individual treatments
 
-Once research is mostly complete, undertake a broader design phase. Each tribe's section can have its own carefully considered visual treatment, grounded in that community's documented context and visual traditions. Research suitable imagery, attribution, usage rights, and any cultural access restrictions before selecting assets. Develop the design with the owner rather than assigning generic motifs to entire regions or peoples.
+The owner has now authorized an immediate overall visual update and the title Robey’s Atlas of Indigenous North America. Use real landscape photographs from the web with verified reuse terms and attribution; the owner specifically declined image generation. Keep research and source navigation readable. Once research is mostly complete, undertake a broader design phase for individual communities. Each tribe's section can have its own carefully considered visual treatment, grounded in that community's documented context and visual traditions. Research suitable imagery, attribution, usage rights, and any cultural access restrictions before selecting assets. Develop the design with the owner rather than assigning generic motifs to entire regions or peoples.
 
 Maintain readable text, accessible navigation, consistent citation controls, and clear source organization across all visual treatments. The current research phase takes priority over these future decorative changes.
 
@@ -35,3 +35,7 @@ Maintain readable text, accessible navigation, consistent citation controls, and
 An active follow-up in this chat checks every five hours and continues when usage permits. It preserves progress when limited, starts from the saved state, and reports meaningful published batches or problems requiring attention. It does not buy credits or use manual reset credits. The local computer and desktop app need to remain running for work requiring these local files.
 
 Automation: Continue Indigenous Nations research.
+
+## Supplied research studies
+
+The twelve DOCX studies supply 226 distinct public URLs. The owner explicitly requested their incorporation. They are linked as suggested reading on relevant profiles and in `/reading-leads/`, with review status separate from substantive inspected-source counts. Consult `Owner-Study-Research-Queue.md` and `Owner-Study-Source-URLs.json`; inspect each original before adopting claims. Preserve the full private attachments locally. Historical topic names must not be mistaken for separate peoples or uniform positions among allied communities.

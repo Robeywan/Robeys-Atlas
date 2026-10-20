@@ -1,0 +1,136 @@
+{
+  "project": "Robey's Atlas of Indigenous North America",
+  "preparedAt": "2026-10-19",
+  "scope": "Two real photographs: Canyon de Chelly from its original URL and Lamar Valley from its publicly exposed 1280px Commons thumbnail. Proportional resizing and compression only, with no upscaling. No image generation, compositing, restoration, color retouching, or content removal was performed. No site files were edited.",
+  "implementationNotes": [
+    "Copy the two WebP files into the site's assets only after review. Keep this attribution record with project source materials.",
+    "Expose creator, source-page link, license/status link, and a clear processing/display-crop note in the site's image credits.",
+    "The Canyon de Chelly image and any adapted image contributions retain CC BY-SA 4.0; this record makes no claim to relicense unrelated site material.",
+    "Photographs identify particular places; they should not imply that one landscape represents every Indigenous nation or that the photographer, NPS, or depicted communities endorse the atlas.",
+    "Focal positioning can be adjusted through CSS after layout review. The prepared files retain their full frames."
+  ],
+  "images": [
+    {
+      "id": "canyon-de-chelly",
+      "title": "Canyon de Chelly at sunset",
+      "creator": "Margie Roesch",
+      "creatorAccount": "Mirage1210",
+      "photographedOn": "2011-07-02",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Canyon_de_Chelly_at_sunset.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Canyon_de_Chelly_at_sunset.jpg",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "licenseShort": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "processedImageLicense": "CC BY-SA 4.0",
+      "creditLine": "Canyon de Chelly at sunset — Margie Roesch, 2011, CC BY-SA 4.0, via Wikimedia Commons. Resized and compressed for the web; display crop may vary with layout.",
+      "licenseEvidence": "Commons Summary names Margie Roesch, gives July 2, 2011, and identifies own work. Licensing explicitly specifies CC BY-SA 4.0, attribution, indication of changes, and ShareAlike for adaptations. The file is not credited to the National Park Service.",
+      "sourceOriginalSha1": "8aaf596810226cffe9877496c769975565e6e66f",
+      "downloadedFile": "canyon-de-chelly-original.jpg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Canyon_de_Chelly_at_sunset.jpg",
+      "downloadedIsOriginal": true,
+      "sourceOriginalDimensions": [
+        3008,
+        2000
+      ],
+      "altText": "Sunlit red canyon walls and a green river corridor beneath a partly cloudy sky at Canyon de Chelly.",
+      "visualInspection": "The actual downloaded photograph was opened and inspected. Red sandstone canyon walls, foreground rock, trees along the canyon floor, and sky are visible; there is no added text or watermark.",
+      "downloadedLocalFile": "canyon-de-chelly-original.jpg",
+      "downloadedDimensions": [
+        3008,
+        2000
+      ],
+      "downloadedBytes": 2481086,
+      "downloadedSha1": "8aaf596810226cffe9877496c769975565e6e66f",
+      "originalSha1Verified": "8aaf596810226cffe9877496c769975565e6e66f",
+      "webFile": "canyon-de-chelly.webp",
+      "webDimensions": [
+        2400,
+        1596
+      ],
+      "webBytes": 358978,
+      "webSha256": "c39ad826a900be742f19105b37effb86206e1f87a133c28e95c6e7599f0c5297",
+      "processing": {
+        "tool": "Pillow / PIL",
+        "maximumDimensionPixels": 2400,
+        "resample": "Lanczos",
+        "format": "WebP",
+        "quality": 82,
+        "method": 6,
+        "operations": [
+          "Normalize EXIF orientation",
+          "Convert to RGB",
+          "Resize proportionally without upscaling",
+          "Lossy WebP compression",
+          "Omit embedded metadata from web asset"
+        ],
+        "pixelCropApplied": false,
+        "generativeEditingApplied": false,
+        "cssCroppingQualification": "The WebP retains the full photographic frame. CSS object-fit: cover or background-size: cover may crop the displayed frame at some viewport sizes. When used that way, retain the credit's display-crop qualification; the specific crop is controlled by site layout and was not applied to this file."
+      },
+      "sourceAndLicenseReviewedAt": "2026-10-19",
+      "preparedAt": "2026-10-19"
+    },
+    {
+      "id": "lamar-valley",
+      "title": "Overlooking Lamar Valley and River",
+      "creator": "NPS / Jacob W. Frank",
+      "publisherAccount": "YellowstoneNPS",
+      "photographedOn": "2021-06-27",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Overlooking_Lamar_Valley_and_River_(51285688873).jpg",
+      "originalPublicationPage": "https://www.flickr.com/photos/yellowstonenps/51285688873",
+      "originalUrl": "https://live.staticflickr.com/65535/51285688873_975da57a92_o.jpg",
+      "license": "Public domain in the United States: official work of a National Park Service employee",
+      "licenseShort": "Public domain (U.S.)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "processedImageLicense": "Public domain (U.S.); no new restriction asserted",
+      "creditLine": "Overlooking Lamar Valley and River — NPS / Jacob W. Frank, June 27, 2021. Public domain in the United States, via YellowstoneNPS and Wikimedia Commons. Resized and compressed for the web; display crop may vary with layout.",
+      "licenseEvidence": "Commons Summary, caption, and EXIF credit NPS / Jacob W. Frank. Licensing identifies an official NPS employee work as public domain in the United States; its Flickr license review on April 20, 2025 confirmed the Public Domain Mark. The exact Flickr original URL is also exposed in Commons file history and structured data.",
+      "sourceOriginalSha1": "08445652c566efffbe1cb56ed15e79222be96662",
+      "downloadedFile": "lamar-valley-download.jpg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Overlooking_Lamar_Valley_and_River_%2851285688873%29.jpg/1280px-Overlooking_Lamar_Valley_and_River_%2851285688873%29.jpg",
+      "downloadedIsOriginal": false,
+      "sourceOriginalDimensions": [
+        8688,
+        5792
+      ],
+      "downloadNote": "The Flickr original stalled and was canceled. The Commons original returned HTTP 403 through Python. A 2560px thumbnail failed because that thumbnail size is unsupported. The publicly exposed 1280px thumbnail downloaded successfully through a normal HTTPS request and is the actual input; no certificate checks were bypassed and no upscaling is applied.",
+      "altText": "The Lamar River winds through a broad green valley bordered by forested hills and mountains in Yellowstone.",
+      "visualInspection": "The actual downloaded photograph and prepared WebP were opened and inspected. The landscape, river, vegetation, mountains, and sky remain natural photographs without generated or inserted elements.",
+      "downloadedLocalFile": "lamar-valley-download.jpg",
+      "downloadedDimensions": [
+        1280,
+        853
+      ],
+      "downloadedBytes": 377485,
+      "downloadedSha1": "2cd9470f08c164492cfc80374692f98794041345",
+      "originalSha1Verified": null,
+      "webFile": "lamar-valley.webp",
+      "webDimensions": [
+        1280,
+        853
+      ],
+      "webBytes": 288934,
+      "webSha256": "2d270b98fe2a648dd5f148164fa0444c7166bf5ec49ab56a94b464152ff8e35d",
+      "processing": {
+        "tool": "Pillow / PIL",
+        "maximumDimensionPixels": 2400,
+        "resample": "Lanczos",
+        "format": "WebP",
+        "quality": 82,
+        "method": 6,
+        "operations": [
+          "Normalize EXIF orientation",
+          "Convert to RGB",
+          "Resize proportionally without upscaling",
+          "Lossy WebP compression",
+          "Omit embedded metadata from web asset"
+        ],
+        "pixelCropApplied": false,
+        "generativeEditingApplied": false,
+        "cssCroppingQualification": "The WebP retains the full photographic frame. CSS object-fit: cover or background-size: cover may crop the displayed frame at some viewport sizes. When used that way, retain the credit's display-crop qualification; the specific crop is controlled by site layout and was not applied to this file."
+      },
+      "sourceAndLicenseReviewedAt": "2026-10-19",
+      "preparedAt": "2026-10-19"
+    }
+  ]
+}

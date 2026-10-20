@@ -9,3 +9,7 @@ The latest A renewal evidence is in `a-evidence-01.md` through `a-evidence-04.md
 HTTP availability audits are separate from content and relevance checks. A successful response is not evidence for a historical claim; a blocked automated request does not necessarily indicate a missing resource.
 
 Unfinished B research is retained in the workspace and summarized in `B-research-backlog.md`; selected draft/evidence files are preserved in `backlog/`. These drafts are not published profile data or completed review.
+
+Latest addition: Achumawi has fifteen substantive inspected resources, eleven sections, independent source review, and explicit remaining gaps. Its evidence and audit files begin `achumawi-`; Adai is next. The twelve supplied studies contribute 226 distinct URLs in `data/owner-reading-leads.json`, also presented as suggested reading on fourteen relevant entry pages. These leads are separate from the inspected-source count. The supplied full DOCX files are not published.
+
+The owner renamed the project Robey’s Atlas of Indigenous North America and authorized landscape-based design now. Use real web photographs with verified reuse terms and credits; do not generate images. Current landscape credits and licenses are recorded in the About page and `assets/credits.json`. Preserve source readability and research priority. Later nation-specific visuals still require suitable community context and rights.
