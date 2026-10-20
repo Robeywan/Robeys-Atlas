@@ -1,0 +1,94 @@
+{
+  "originalId": 6,
+  "reviewedAt": "2026-10-20",
+  "status": "Two independently inspected source works ready for integration; further leads not counted",
+  "sources": [
+    {
+      "id": "avery-archival",
+      "title": "Archival Investigations of the People of Los Adaes",
+      "publisher": "George Avery — Southern Studies 7(1):65–88",
+      "url": "https://www.texasbeyondhistory.net/adaes/images/Avery-1996.pdf",
+      "type": "Academic / reference",
+      "topics": [
+        "History",
+        "Identity",
+        "Homelands"
+      ],
+      "annotation": "Archival study of Los Adaes, with a directly relevant Native Americans section on p.80 and discussion of mission records on p.77. Explains how jurisdiction, inconsistent names, and ambiguous mapping limit conclusions about Adai presence; its baptism total conflicts with the inspected Solís translation and is not adopted here.",
+      "accessed": "2026-10-20",
+      "contentReviewedAt": "2026-10-20",
+      "contentReviewScope": "Downloaded complete 24-page PDF; read printed pp.65–67,70,77,80–85, with visual verification of pp.65,77,80. Remaining pages OCR-screened rather than claimed as a full article reading. Bibliographic heading says Spring 1996; references within include later works, noted in evidence."
+    },
+    {
+      "id": "solis-inspection",
+      "title": "Diary of a Visit of Inspection of the Texas Missions Made by Fray Gaspar José de Solís in the Year 1767–68",
+      "publisher": "Gaspar José de Solís; translated by Margaret Kenney Kress, introductory note by Mattie Austin Hatcher — Southwestern Historical Quarterly 35(1), July 1931:28–76",
+      "url": "https://archive.org/details/sim_southwestern-historical-quarterly_1931-07_35_1/page/n70/mode/1up",
+      "type": "Historical primary source",
+      "topics": [
+        "History",
+        "Homelands",
+        "Religion",
+        "Source criticism"
+      ],
+      "annotation": "Public journal scan preserves the translated 1768 Los Adays inspection, especially printed pp.63–66. Describes separate mission and presidio, Indigenous refusal to form a resident congregation, and visits to the presidio. A Franciscan report filtered through a 1931 translation, not an Indigenous account or a census of all Adai people.",
+      "accessed": "2026-10-20",
+      "contentReviewedAt": "2026-10-20",
+      "contentReviewScope": "Complete public issue PDF and OCR downloaded; read printed pp.28–29 (editorial introduction) and 61–66 (journey through distinct communities and Los Adays inspection); visually verified pp.65–66 against the scan. Entire diary and original Spanish manuscript not claimed as read."
+    }
+  ],
+  "proposedSections": [
+    {
+      "title": "Choosing how to engage the colonial mission",
+      "text": "In May 1768, the Franciscan inspector Gaspar José de Solís described San Miguel de Cuéllar de los Adays and the presidio as separate buildings across a small plain. His report said there was no resident Indigenous congregation, while describing Indigenous people in the vicinity as numerous and more inclined to go to the presidio. That distinction matters: lack of residence in a mission does not establish lack of people in the surrounding homeland. The report documents the limits of Spanish conversion efforts and choices about participation. Its descriptions of baptism motives depend partly on what settlers told the inspector and on his own suspicions; they should be attributed to him rather than presented as direct testimony from Adai families.",
+      "sourceIds": [
+        "solis-inspection"
+      ]
+    },
+    {
+      "title": "What omissions in colonial records can mean",
+      "text": "George Avery’s archival study shows why an incomplete list cannot be read as a complete population history. A 1766 list of Louisiana Indigenous fighting men omitted the Adaes, which Avery explained through the Spanish jurisdictional boundary: officials treated them as belonging to Texas. He also examined an unfilled settlement symbol on Bernardo de Miranda’s 1757 map, but left its meaning uncertain. Neither that symbol nor omission from a Louisiana list proves disappearance. Avery further warns that Spanish surnames make the identification of Indigenous women in the colonial settlement difficult. These are questions to investigate with particular documents and family histories, rather than grounds for assigning ancestry from a name alone.",
+      "sourceIds": [
+        "avery-archival"
+      ]
+    },
+    {
+      "title": "Keep the source disagreements visible",
+      "text": "The inspected accounts do not support a single confident baptism total. Avery reports 103 Indigenous baptisms by 1768, whereas the 1931 Kress translation of Solís states three hundred entries and then lists presidio records separately. Resolving the difference requires comparison with the underlying Spanish document and alternative translations. The Atlas can use the evidence for selective engagement with the mission while leaving the disputed total open. The neighboring Ays community and its captain, described on the diary’s next page, must also remain distinct from the Adai.",
+      "sourceIds": [
+        "avery-archival",
+        "solis-inspection"
+      ]
+    }
+  ],
+  "readingLeads": [
+    {
+      "title": "Los Adaes, the First Capital of Spanish Texas",
+      "author": "Francis X. Galán",
+      "date": "2020",
+      "url": "https://www.tamupress.com/book/9781623498788/los-adaes-the-first-capital-of-spanish-texas/",
+      "status": "Publisher description and Google Books catalog only inspected. No substantive preview pages retrieved; not a content-reviewed source or an additional counted work."
+    },
+    {
+      "title": "The Chirino Boys: Spanish Soldier-Pioneers from Los Adaes on the Louisiana-Texas Borderlands, 1735–1792",
+      "author": "Francis X. Galán",
+      "date": "2008",
+      "url": "https://scholarworks.sfasu.edu/ethj/vol46/iss2/9/",
+      "status": "Record and Paperity opening excerpt through early printed p.43 inspected; full download returned403 at SFA and CORE. Excerpt concerns colonial soldier-settlers and does not establish Adai family ancestry. Not counted."
+    },
+    {
+      "title": "Adaesaño: A Nahuatl Lexicon from Natchitoches and Sabine Parishes, Louisiana",
+      "author": "H. F. Gregory",
+      "date": "1996",
+      "url": "https://www.texasbeyondhistory.net/adaes/images/Gregory-1996.pdf",
+      "status": "Full 8-page scan downloaded; printed pp.89–90 visually read. Records Nahuatl-derived words within regional Spanish from 45 interviewees across Ebarb, Grady Hill, Sulphur Springs, Zwolle and Spanish Lake. Does not identify these as Adaizan words or all interviewees as Adai. Not a source for Adai language reconstruction, not counted toward the present direct Adai collection."
+    }
+  ],
+  "integrationCautions": [
+    "Do not equate a failed mission congregation with people disappearing.",
+    "Do not use baptism entries as an Adai population census or silently reconcile the 103/300 disagreement.",
+    "Do not conflate the Ays/Eyeish with Adai based on similar colonial spellings.",
+    "Do not infer modern political or genealogical continuity from colonial Adaeseño residence alone.",
+    "Sources independently count as two works, even though Avery cites Solís; they are not independent confirmations of every historical claim."
+  ]
+}

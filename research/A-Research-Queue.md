@@ -1,15 +1,15 @@
 # A entries — research queue
 
-Updated October 19, 2026. Finish the A collections in order before further B research. At least 12 excellent substantive inspected resources each; more where useful. Counts do not establish completion or community review.
+Updated October 20, 2026. Finish the A collections in order before further B research. At least 12 excellent substantive inspected resources each; more where useful. Counts do not establish completion or community review.
 
-| Entry | Listed resources | Recorded content checks | Minimum reached |
+| Entry | Listed resources | Substantive content checks | Minimum reached |
 |---|---:|---:|---|
 | Abenaki | 13 | 13 | Yes; further research remains |
 | Abihka | 12 | 12 | Yes; further research remains |
 | Absentee Shawnee | 14 | 14 | Yes; further research remains |
 | Achumawi | 15 | 15 | Yes; further research remains |
 | Acoma Pueblo | 14 | 14 | Yes; further research remains |
-| Adai | 5 | 0 | No |
+| Adai | 19 | 15 | Yes; further research remains |
 | Ahtna | 5 | 0 | No |
 | Akateko | 3 | 0 | No |
 | Alabama | 6 | 0 | No |
@@ -32,4 +32,6 @@ Updated October 19, 2026. Finish the A collections in order before further B res
 | Awaswas | 6 | 0 | No |
 | Ayapaneco | 6 | 0 | No |
 
-Next: **Adai**, original entry 6. New leads from the supplied Abenaki, Abihka, Absentee Shawnee, and Acoma studies remain available for deeper revisits. Suggested links do not inflate these counts.
+Six of 27 A collections meet the source minimum. Adai’s nineteen listed records include fifteen substantive works and four supporting records excluded from the minimum. Additional inspected classification-history readings remain supporting leads.
+
+Next: **Ahtna**, original entry 7. New leads from the supplied Abenaki, Abihka, Absentee Shawnee, and Acoma studies remain available for deeper revisits. Suggested links do not inflate these counts.

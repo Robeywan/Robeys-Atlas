@@ -1,6 +1,6 @@
 # Robey’s Atlas of Indigenous North America — continuing research plan
 
-Updated October 19, 2026, from the project owner's instructions.
+Updated October 20, 2026, from the project owner's instructions.
 
 ## Research standard
 
@@ -20,7 +20,7 @@ The original directory includes peoples, individual governments, umbrella terms,
 
 **Latest owner priority: finish the A entries first, one by one, before returning to B.** All 26 original A entries, Abenaki through Ayapaneco, plus supported added A entries such as Algonquin, need at least 12 excellent, substantive inspected resources each, and more where useful. Re-read and assess older sources rather than treating the Expanded profile label or an access date as evidence of completed review. Deepen the articles and source annotations as well as the collections. Sparse historical entries remain honestly unfinished while stronger evidence is sought.
 
-Save completed work incrementally and publish meaningful A batches. There are currently 30 expanded profiles among original entries 1–30. New community and specialist evidence supports a developed Abihka profile, with remaining town-history questions explicitly retained. The first A renewal batch now contains Abenaki (13 inspected resources), Abihka (12), Absentee Shawnee (14), and Acoma Pueblo (14). Achumawi now has 15 substantive inspected resources and eleven cited sections, with independent evidence review. Continue with Adai, original entry 6, then the remaining A entries and Algonquin; revisit open gaps as stronger evidence appears. The previous B batch added Babine (13 inspected resources), Bannock (13), Beothuk (14), and Biloxi (13). Preserve those pages and unfinished Blackfoot, Kainai, Bokota, and Bribri research for later; further B research follows completion and review of the A collections. Keep an accurate coverage ledger separating source discovery, inspected sources, expanded synthesis, editorial review, and remaining gaps. A per-entry progress record is included with the site and downloadable deliverables.
+Save completed work incrementally and publish meaningful A batches. There are currently 30 expanded profiles among original entries 1–30. New community and specialist evidence supports a developed Abihka profile, with remaining town-history questions explicitly retained. The first A renewal batch now contains Abenaki (13 inspected resources), Abihka (12), Absentee Shawnee (14), and Acoma Pueblo (14). Achumawi now has 15 substantive inspected resources and eleven cited sections, with independent evidence review. Adai now has 15 substantive inspected resources, four separately labeled supporting references and twelve cited sections, with independent community-source, historical/language and specialist evidence review. Continue with Ahtna, original entry 7, then the remaining A entries and Algonquin; revisit open gaps as stronger evidence appears. The previous B batch added Babine (13 inspected resources), Bannock (13), Beothuk (14), and Biloxi (13). Preserve those pages and unfinished Blackfoot, Kainai, Bokota, and Bribri research for later; further B research follows completion and review of the A collections. Keep an accurate coverage ledger separating source discovery, inspected sources, expanded synthesis, editorial review, and remaining gaps. A per-entry progress record is included with the site and downloadable deliverables.
 
 Publish meaningful completed research batches to the existing private Nations Atlas site. Preserve its current audience. Refresh the downloadable research, website archive, and progress notes. Quality takes precedence over deadlines; the project may take weeks or months.
 
@@ -29,6 +29,12 @@ Publish meaningful completed research batches to the existing private Nations At
 The owner has now authorized an immediate overall visual update and the title Robey’s Atlas of Indigenous North America. Use real landscape photographs from the web with verified reuse terms and attribution; the owner specifically declined image generation. Keep research and source navigation readable. Once research is mostly complete, undertake a broader design phase for individual communities. Each tribe's section can have its own carefully considered visual treatment, grounded in that community's documented context and visual traditions. Research suitable imagery, attribution, usage rights, and any cultural access restrictions before selecting assets. Develop the design with the owner rather than assigning generic motifs to entire regions or peoples.
 
 Maintain readable text, accessible navigation, consistent citation controls, and clear source organization across all visual treatments. The current research phase takes priority over these future decorative changes.
+
+## Interactive map phase
+
+The owner wants a future interactive North America map with smooth pan and zoom, similar to navigating Google Earth. A visitor should select a spot or area, see the nations and peoples associated with it, and open their existing directory profiles. Include search, overlapping associations, and clear historical versus present-day layers, with dates and sources for mapped features. Consider globe movement and terrain as the experience develops. Preserve an accessible list alternative.
+
+Record suitable geographical evidence while researching profiles, including community scope, dates, source URLs, location precision, and reuse permissions. Do not turn broad regional descriptions into invented precise boundaries, confuse government locations with complete homelands, or expose sensitive sites. Continue the A-first research sequence; the map remains a later feature. See `Interactive-Map-Plan.md` for the saved experience and prototype requirements. This request does not establish a Google product integration or a selected map provider.
 
 ## Recurring continuation
 

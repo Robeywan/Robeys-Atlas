@@ -1,96 +1,140 @@
 {
-  "scope": "HTTP availability only; original content was inspected separately",
-  "reviewedAt": "2026-10-19",
+  "scope": "HTTP availability only; original content inspected separately. Ordinary TLS validation retained; no blocked request establishes a reader paywall.",
+  "reviewedAt": "2026-10-20",
+  "originalId": 6,
   "results": [
     {
-      "url": "https://pitrivertribe.gov/constitution/",
-      "status": 206,
-      "finalUrl": "https://pitrivertribe.gov/constitution/",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://pitrivertribe.gov/hewisedawi/",
-      "status": 206,
-      "finalUrl": "https://pitrivertribe.gov/hewisedawi/",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://pitrivertribe.gov/wp-content/uploads/2025/09/FINAL-Q3-AUGUST-2025-NEWSLETTER.pdf",
-      "status": 206,
-      "finalUrl": "https://pitrivertribe.gov/wp-content/uploads/2025/09/FINAL-Q3-AUGUST-2025-NEWSLETTER.pdf",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.protectsattitla.org/press/news-release-pit-river-nation-marks-first-day-of-native-american-heritage-month-by-calling-for-swift-action-to-protect-ancestral-lands-in-northern-california",
-      "status": 206,
-      "finalUrl": "https://www.protectsattitla.org/press/news-release-pit-river-nation-marks-first-day-of-native-american-heritage-month-by-calling-for-swift-action-to-protect-ancestral-lands-in-northern-california",
-      "contentType": "text/html;charset=utf-8"
-    },
-    {
-      "url": "https://openpublishing.library.umass.edu/livinglanguages/article/1861/galley/1821/view/",
+      "url": "https://adaicaddo.com/about/cultural-center/",
       "status": 200,
-      "finalUrl": "https://openpublishing.library.umass.edu/livinglanguages/article/1861/galley/1821/view/",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://escholarship.org/content/qt4px3q773/qt4px3q773.pdf",
-      "status": 403,
-      "finalUrl": "https://escholarship.org/content/qt4px3q773/qt4px3q773.pdf",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://pitrivertribe.gov/medicinelakehearing3122015/",
-      "status": 206,
-      "finalUrl": "https://pitrivertribe.gov/medicinelakehearing3122015/",
+      "finalUrl": "https://adaicaddo.com/about/cultural-center/",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
       "contentType": "text/html; charset=UTF-8"
     },
     {
-      "url": "https://repository.si.edu/items/0625c939-2703-4eef-9eb9-b59714697028",
-      "status": 403,
-      "finalUrl": "https://repository.si.edu/items/0625c939-2703-4eef-9eb9-b59714697028",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://ia.cpuc.ca.gov/environment/info/esa/pgedivest/swaps/final/swapch_2v.html",
-      "status": 206,
-      "finalUrl": "https://ia.cpuc.ca.gov/environment/info/esa/pgedivest/swaps/final/swapch_2v.html",
-      "contentType": "text/html"
-    },
-    {
-      "url": "https://www.parks.ca.gov/pages/464/files/AhjumawiLavaSpringsWeb2016.pdf",
-      "status": 206,
-      "finalUrl": "https://www.parks.ca.gov/pages/464/files/AhjumawiLavaSpringsWeb2016.pdf",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://escholarship.org/content/qt3793q75r/qt3793q75r_noSplash_bee433ed446bb01d884018abb42333e8.pdf",
-      "status": 403,
-      "finalUrl": "https://escholarship.org/content/qt3793q75r/qt3793q75r_noSplash_bee433ed446bb01d884018abb42333e8.pdf",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://escholarship.org/content/qt5b313642/qt5b313642_noSplash_425eb182ca392e0f043081d863756391.pdf",
-      "status": 403,
-      "finalUrl": "https://escholarship.org/content/qt5b313642/qt5b313642_noSplash_425eb182ca392e0f043081d863756391.pdf",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://ia.cpuc.ca.gov/environment/info/esa/pgedivest/swaps/final/pdf/Letter_J.pdf",
-      "status": 206,
-      "finalUrl": "https://ia.cpuc.ca.gov/environment/info/esa/pgedivest/swaps/final/pdf/Letter_J.pdf",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.narf.org/nill/bulletins/federal/documents/pit_river_v_blm.html",
-      "status": 206,
-      "finalUrl": "https://www.narf.org/nill/bulletins/federal/documents/pit_river_v_blm.html",
-      "contentType": "text/html"
-    },
-    {
-      "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/14/proclamation-on-the-establishment-of-the-sattitla-highlands-national-monument/",
-      "status": 206,
-      "finalUrl": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/14/proclamation-on-the-establishment-of-the-sattitla-highlands-national-monument/",
+      "url": "https://adaicaddo.com/about/history/",
+      "status": 200,
+      "finalUrl": "https://adaicaddo.com/about/history/",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
       "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://adaicaddo.com/government/#great-seal",
+      "status": 200,
+      "finalUrl": "https://adaicaddo.com/government/#great-seal",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://adaicaddo.com/programs/",
+      "status": 200,
+      "finalUrl": "https://adaicaddo.com/programs/",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://adaicaddo.com/wp-content/uploads/2025/06/Caddo-Adais-Inc-Bylaws-2024.pdf",
+      "status": 206,
+      "finalUrl": "https://adaicaddo.com/wp-content/uploads/2025/06/Caddo-Adais-Inc-Bylaws-2024.pdf",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://adaicaddo.com/wp-content/uploads/2025/06/Native-America-Calling-Transcript-May-28-2025.pdf",
+      "status": 206,
+      "finalUrl": "https://adaicaddo.com/wp-content/uploads/2025/06/Native-America-Calling-Transcript-May-28-2025.pdf",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://archive.org/details/sim_southwestern-historical-quarterly_1931-07_35_1/page/n70/mode/1up",
+      "status": 200,
+      "finalUrl": "https://archive.org/details/sim_southwestern-historical-quarterly_1931-07_35_1/page/n70/mode/1up",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://archive.org/download/reportfromnatchi00sibl/reportfromnatchi00sibl.pdf#page=51",
+      "status": 206,
+      "finalUrl": "https://dn710602.ca.archive.org/0/items/reportfromnatchi00sibl/reportfromnatchi00sibl.pdf",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://collections.newberry.org/API/Download/v1_0/GetOriginalLimited?Identifier=NL1RLYU&SourceAction=API_VIEW_DETAILS_TRX&saveName=99115995335058670000000080pdf",
+      "status": 206,
+      "finalUrl": "https://collections.newberry.org/API/Download/v1_0/GetOriginalLimited?Identifier=NL1RLYU&SourceAction=API_VIEW_DETAILS_TRX&saveName=99115995335058670000000080pdf",
+      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "contentType": ""
+    },
+    {
+      "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+      "status": 200,
+      "finalUrl": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://louisiana-anthology.org/303_download/texts/swanton--caddo/swanton--caddo.html",
+      "status": 206,
+      "finalUrl": "https://louisiana-anthology.org/303_download/texts/swanton--caddo/swanton--caddo.html",
+      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://natchitochesparishjournal.com/2026/03/31/adai-caddo-indian-nation-holds-2nd-annual-field-trip-visiting-sites-across-natchitoches-and-cenla/",
+      "status": 200,
+      "finalUrl": "https://natchitochesparishjournal.com/2026/03/31/adai-caddo-indian-nation-holds-2nd-annual-field-trip-visiting-sites-across-natchitoches-and-cenla/",
+      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/American_state_papers_%28IA_americanstatepap01unit%29.pdf#page=52",
+      "status": 206,
+      "finalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/American_state_papers_%28IA_americanstatepap01unit%29.pdf#page=52",
+      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.crt.louisiana.gov/Assets/OCD/archaeology/discoverarchaeology/virtual-books/PDFs/Caddo.pdf",
+      "status": 206,
+      "finalUrl": "https://www.crt.louisiana.gov/Assets/OCD/archaeology/discoverarchaeology/virtual-books/PDFs/Caddo.pdf",
+      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+      "status": 206,
+      "finalUrl": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/345108369_Language_Isolates_of_North_America",
+      "status": 403,
+      "finalUrl": "https://www.researchgate.net/publication/345108369_Language_Isolates_of_North_America",
+      "checkedAt": "2026-10-20T14:18:41+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.texasbeyondhistory.net/adaes/images/Avery-1996.pdf",
+      "status": 206,
+      "finalUrl": "https://www.texasbeyondhistory.net/adaes/images/Avery-1996.pdf",
+      "checkedAt": "2026-10-20T14:18:41+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.texasbeyondhistory.net/adaes/images/Gregory-SHA-2004.pdf",
+      "status": 206,
+      "finalUrl": "https://www.texasbeyondhistory.net/adaes/images/Gregory-SHA-2004.pdf",
+      "checkedAt": "2026-10-20T14:18:41+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.texasbeyondhistory.net/adaes/worlds.html",
+      "status": 206,
+      "finalUrl": "https://www.texasbeyondhistory.net/adaes/worlds.html",
+      "checkedAt": "2026-10-20T14:18:41+00:00",
+      "contentType": "text/html"
     }
   ]
 }
