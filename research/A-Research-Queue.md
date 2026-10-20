@@ -1,6 +1,6 @@
 # A entries — research queue
 
-Updated October 20, 2026. Finish the A collections in order before further B research. At least 12 excellent substantive inspected resources each; more where useful. Counts do not establish completion or community review.
+Updated October 20, 2026. The first milestone is at least twelve excellent substantive inspected works per tribe or nation, pursued A first and then alphabetically. Accuracy takes priority over pace; a numerical minimum does not establish completion or community endorsement.
 
 | Entry | Listed resources | Substantive content checks | Minimum reached |
 |---|---:|---:|---|
@@ -10,7 +10,7 @@ Updated October 20, 2026. Finish the A collections in order before further B res
 | Achumawi | 15 | 15 | Yes; further research remains |
 | Acoma Pueblo | 14 | 14 | Yes; further research remains |
 | Adai | 19 | 15 | Yes; further research remains |
-| Ahtna | 5 | 0 | No |
+| Ahtna | 21 | 16 | Yes; further research remains |
 | Akateko | 3 | 0 | No |
 | Alabama | 6 | 0 | No |
 | Aleut (Unangax̂) | 7 | 0 | No |
@@ -32,6 +32,6 @@ Updated October 20, 2026. Finish the A collections in order before further B res
 | Awaswas | 6 | 0 | No |
 | Ayapaneco | 6 | 0 | No |
 
-Six of 27 A collections meet the source minimum. Adai’s nineteen listed records include fifteen substantive works and four supporting records excluded from the minimum. Additional inspected classification-history readings remain supporting leads.
+Seven of 27 A collections meet the source minimum. Ahtna has sixteen substantive works and five supporting cards; Adai has fifteen substantive works and four supporting cards. Supporting references, unread leads, duplicate mirrors and bibliographic-only records do not inflate the minimum.
 
-Next: **Ahtna**, original entry 7. New leads from the supplied Abenaki, Abihka, Absentee Shawnee, and Acoma studies remain available for deeper revisits. Suggested links do not inflate these counts.
+Next: **Akateko**, original entry 8. Earlier stated gaps remain open; current program, language and community details need their appropriate dated evidence. New owner-contributed study links remain available for deeper revisits when important evidence warrants it.

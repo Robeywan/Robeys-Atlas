@@ -1,140 +1,154 @@
 {
-  "scope": "HTTP availability only; original content inspected separately. Ordinary TLS validation retained; no blocked request establishes a reader paywall.",
+  "scope": "HTTP availability only. Source content inspected separately; ordinary TLS validation retained. Blocked requests do not establish reader paywalls.",
   "reviewedAt": "2026-10-20",
-  "originalId": 6,
+  "originalId": 7,
   "results": [
     {
-      "url": "https://adaicaddo.com/about/cultural-center/",
-      "status": 200,
-      "finalUrl": "https://adaicaddo.com/about/cultural-center/",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://adaicaddo.com/about/history/",
-      "status": 200,
-      "finalUrl": "https://adaicaddo.com/about/history/",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://adaicaddo.com/government/#great-seal",
-      "status": 200,
-      "finalUrl": "https://adaicaddo.com/government/#great-seal",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://adaicaddo.com/programs/",
-      "status": 200,
-      "finalUrl": "https://adaicaddo.com/programs/",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://adaicaddo.com/wp-content/uploads/2025/06/Caddo-Adais-Inc-Bylaws-2024.pdf",
+      "url": "https://alaskabeacon.com/wp-content/uploads/2024/03/AhtnaDictionary-smaller.pdf",
       "status": 206,
-      "finalUrl": "https://adaicaddo.com/wp-content/uploads/2025/06/Caddo-Adais-Inc-Bylaws-2024.pdf",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "finalUrl": "https://alaskabeacon.com/wp-content/uploads/2024/03/AhtnaDictionary-smaller.pdf",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
       "contentType": "application/pdf"
     },
     {
-      "url": "https://adaicaddo.com/wp-content/uploads/2025/06/Native-America-Calling-Transcript-May-28-2025.pdf",
-      "status": 206,
-      "finalUrl": "https://adaicaddo.com/wp-content/uploads/2025/06/Native-America-Calling-Transcript-May-28-2025.pdf",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://archive.org/details/sim_southwestern-historical-quarterly_1931-07_35_1/page/n70/mode/1up",
+      "url": "https://frostline-dev.com/mentasta-language-lessons/",
       "status": 200,
-      "finalUrl": "https://archive.org/details/sim_southwestern-historical-quarterly_1931-07_35_1/page/n70/mode/1up",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "finalUrl": "https://frostline-dev.com/mentasta-language-lessons/",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
       "contentType": "text/html; charset=UTF-8"
     },
     {
-      "url": "https://archive.org/download/reportfromnatchi00sibl/reportfromnatchi00sibl.pdf#page=51",
+      "url": "https://gulkanacouncil.org/wp-content/uploads/01-25-24_Gulkana_Master_Plan_PublicReviewDraft.v2.pdf",
       "status": 206,
-      "finalUrl": "https://dn710602.ca.archive.org/0/items/reportfromnatchi00sibl/reportfromnatchi00sibl.pdf",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
+      "finalUrl": "https://gulkanacouncil.org/wp-content/uploads/01-25-24_Gulkana_Master_Plan_PublicReviewDraft.v2.pdf",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
       "contentType": "application/pdf"
     },
     {
-      "url": "https://collections.newberry.org/API/Download/v1_0/GetOriginalLimited?Identifier=NL1RLYU&SourceAction=API_VIEW_DETAILS_TRX&saveName=99115995335058670000000080pdf",
-      "status": 206,
-      "finalUrl": "https://collections.newberry.org/API/Download/v1_0/GetOriginalLimited?Identifier=NL1RLYU&SourceAction=API_VIEW_DETAILS_TRX&saveName=99115995335058670000000080pdf",
-      "checkedAt": "2026-10-20T14:18:39+00:00",
-      "contentType": ""
+      "url": "https://journal.oraltradition.org/wp-content/uploads/files/articles/28ii/11_28.2.pdf",
+      "status": null,
+      "finalUrl": "https://journal.oraltradition.org/wp-content/uploads/files/articles/28ii/11_28.2.pdf",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
+      "error": "URLError: <urlopen error timed out>"
     },
     {
-      "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+      "url": "https://nvgakona.com/about-us/",
       "status": 200,
-      "finalUrl": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
-      "checkedAt": "2026-10-20T14:18:40+00:00",
+      "finalUrl": "https://nvgakona.com/about-us/",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://read.aupress.ca/read/memory-and-landscape/section/e5009997-c3e5-4177-a3b8-a9d15a01191c",
+      "status": 200,
+      "finalUrl": "https://read.aupress.ca/read/memory-and-landscape/section/e5009997-c3e5-4177-a3b8-a9d15a01191c",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.ahtna.com/about/history-and-culture/",
+      "status": 206,
+      "finalUrl": "https://www.ahtna.com/about/history-and-culture/",
+      "checkedAt": "2026-10-20T19:19:45+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.ahtna.com/about/region%20map/",
+      "status": 206,
+      "finalUrl": "https://www.ahtna.com/about/region%20map/",
+      "checkedAt": "2026-10-20T19:19:46+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.ahtna.com/lands/lands-faq/",
+      "status": 206,
+      "finalUrl": "https://www.ahtna.com/lands/lands-faq/",
+      "checkedAt": "2026-10-20T19:19:46+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.ahtna.com/wp-content/uploads/Kanas-FALL-2018_FINAL-WEB-NF-1.pdf#page=8",
+      "status": 206,
+      "finalUrl": "https://www.ahtna.com/wp-content/uploads/Kanas-FALL-2018_FINAL-WEB-NF-1.pdf#page=8",
+      "checkedAt": "2026-10-20T19:19:46+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.ahtnatribal.org/_files/ugd/01ac7c_6621cdd53e7749deb8d335e7ddfe3670.pdf",
+      "status": 206,
+      "finalUrl": "https://97c12640-28e2-446a-9f09-af9b906f89f3.filesusr.com/ugd/01ac7c_6621cdd53e7749deb8d335e7ddfe3670.pdf",
+      "checkedAt": "2026-10-20T19:19:47+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.ahtnatribal.org/about-us",
+      "status": 200,
+      "finalUrl": "https://www.ahtnatribal.org/about-us",
+      "checkedAt": "2026-10-20T19:19:47+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.ahtnatribal.org/salmon-health",
+      "status": 200,
+      "finalUrl": "https://www.ahtnatribal.org/salmon-health",
+      "checkedAt": "2026-10-20T19:19:47+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.alaskaanthropology.org/wp-content/uploads/2021/02/AJA-v17-Simeone-Homeland.pdf",
+      "status": 206,
+      "finalUrl": "https://www.alaskaanthropology.org/wp-content/uploads/2021/02/AJA-v17-Simeone-Homeland.pdf",
+      "checkedAt": "2026-10-20T19:19:47+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.chitinanative.com/history",
+      "status": 206,
+      "finalUrl": "https://www.chitinanative.com/history",
+      "checkedAt": "2026-10-20T19:19:47+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.chitinanative.com/land",
+      "status": 206,
+      "finalUrl": "https://www.chitinanative.com/land",
+      "checkedAt": "2026-10-20T19:19:48+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.doi.gov/sites/doi.gov/files/uploads/ahtna_doi_moa_with_signature_pages_final.pdf",
+      "status": 206,
+      "finalUrl": "https://www.doi.gov/sites/default/files/uploads/ahtna_doi_moa_with_signature_pages_final.pdf",
+      "checkedAt": "2026-10-20T19:19:48+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.nativeperspectives.net/Transcripts/Kathryn_Martin_interview.pdf",
+      "status": null,
+      "finalUrl": "https://www.nativeperspectives.net/Transcripts/Kathryn_Martin_interview.pdf",
+      "checkedAt": "2026-10-20T19:19:48+00:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "url": "https://www.nps.gov/articles/000/aps-22-1-8.htm",
+      "status": 206,
+      "finalUrl": "https://www.nps.gov/articles/000/aps-22-1-8.htm",
+      "checkedAt": "2026-10-20T19:19:48+00:00",
       "contentType": "text/html;charset=UTF-8"
     },
     {
-      "url": "https://louisiana-anthology.org/303_download/texts/swanton--caddo/swanton--caddo.html",
+      "url": "https://www.nps.gov/wrst/learn/historyculture/ahtna-and-wrangell-st-elias-national-park-and-preserve-an-ethnographic-overview-and-assessment.htm",
       "status": 206,
-      "finalUrl": "https://louisiana-anthology.org/303_download/texts/swanton--caddo/swanton--caddo.html",
-      "checkedAt": "2026-10-20T14:18:40+00:00",
-      "contentType": "text/html"
+      "finalUrl": "https://www.nps.gov/wrst/learn/historyculture/ahtna-and-wrangell-st-elias-national-park-and-preserve-an-ethnographic-overview-and-assessment.htm",
+      "checkedAt": "2026-10-20T19:19:48+00:00",
+      "contentType": "text/html;charset=UTF-8"
     },
     {
-      "url": "https://natchitochesparishjournal.com/2026/03/31/adai-caddo-indian-nation-holds-2nd-annual-field-trip-visiting-sites-across-natchitoches-and-cenla/",
-      "status": 200,
-      "finalUrl": "https://natchitochesparishjournal.com/2026/03/31/adai-caddo-indian-nation-holds-2nd-annual-field-trip-visiting-sites-across-natchitoches-and-cenla/",
-      "checkedAt": "2026-10-20T14:18:40+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/American_state_papers_%28IA_americanstatepap01unit%29.pdf#page=52",
-      "status": 206,
-      "finalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/American_state_papers_%28IA_americanstatepap01unit%29.pdf#page=52",
-      "checkedAt": "2026-10-20T14:18:40+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.crt.louisiana.gov/Assets/OCD/archaeology/discoverarchaeology/virtual-books/PDFs/Caddo.pdf",
-      "status": 206,
-      "finalUrl": "https://www.crt.louisiana.gov/Assets/OCD/archaeology/discoverarchaeology/virtual-books/PDFs/Caddo.pdf",
-      "checkedAt": "2026-10-20T14:18:40+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
-      "status": 206,
-      "finalUrl": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
-      "checkedAt": "2026-10-20T14:18:40+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.researchgate.net/publication/345108369_Language_Isolates_of_North_America",
-      "status": 403,
-      "finalUrl": "https://www.researchgate.net/publication/345108369_Language_Isolates_of_North_America",
-      "checkedAt": "2026-10-20T14:18:41+00:00",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "url": "https://www.texasbeyondhistory.net/adaes/images/Avery-1996.pdf",
-      "status": 206,
-      "finalUrl": "https://www.texasbeyondhistory.net/adaes/images/Avery-1996.pdf",
-      "checkedAt": "2026-10-20T14:18:41+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.texasbeyondhistory.net/adaes/images/Gregory-SHA-2004.pdf",
-      "status": 206,
-      "finalUrl": "https://www.texasbeyondhistory.net/adaes/images/Gregory-SHA-2004.pdf",
-      "checkedAt": "2026-10-20T14:18:41+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.texasbeyondhistory.net/adaes/worlds.html",
-      "status": 206,
-      "finalUrl": "https://www.texasbeyondhistory.net/adaes/worlds.html",
-      "checkedAt": "2026-10-20T14:18:41+00:00",
-      "contentType": "text/html"
+      "url": "https://www.uaf.edu/anlc/languages-move/ahtna.php",
+      "status": null,
+      "finalUrl": "https://www.uaf.edu/anlc/languages-move/ahtna.php",
+      "checkedAt": "2026-10-20T19:19:49+00:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
     }
   ]
 }

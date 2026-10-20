@@ -1,0 +1,46 @@
+{
+  "reviewedAt": "2026-10-20",
+  "entry": "Ahtna",
+  "status": "Evidence notes only; no mapping implementation or boundaries created",
+  "features": [
+    {
+      "name": "Native Village of Gakona",
+      "featureType": "Community location",
+      "description": "Village-published home page places Gakona at the confluence of the Copper and Gakona Rivers in Alaska’s Ahtna region.",
+      "sourceUrl": "https://nvgakona.com/",
+      "observedAt": "2026-10-20",
+      "precision": "Named river confluence, broad community location only; no geocoding",
+      "latitude": null,
+      "longitude": null,
+      "qualification": "Supporting home-page geography, not a boundary, title determination, public access claim or sensitive-site location."
+    }
+  ],
+  "regionalEvidence": [
+    {
+      "scope": "Copper River Basin, with upper Susitna and Tanana connections",
+      "sourceUrl": "https://www.nps.gov/articles/000/aps-22-1-8.htm",
+      "period": "Historical and contemporary associations differentiated in the article",
+      "precision": "Broad descriptive evidence only; no coordinates or boundaries extracted",
+      "reuseTerms": "Maps credited to AITRC / Casey Cusick; reproduction rights not established here",
+      "limits": "Traditional-use geography, corporate property, park boundaries and winter crossing locations are different layers. Crossing and private-use locations are not proposed for the later public map."
+    }
+  ],
+  "rightsNotes": [
+    {
+      "subject": "Landowner statements and access rights",
+      "sourceIds": [
+        "ah-community-1",
+        "ah-community-3"
+      ],
+      "observedAt": "2026-10-20",
+      "finding": "Separate Native corporate landholders publish their own permissions and permitting information. Ahtna FAQ explicitly distinguishes traditional-use geography, owned lands and reserved public easements.",
+      "precision": "General published landholder statements; not legal advice or adjudication of any specific easement, road, parcel or waterway."
+    }
+  ],
+  "additionalSource": {
+    "url": "https://read.aupress.ca/read/memory-and-landscape/section/e5009997-c3e5-4177-a3b8-a9d15a01191c",
+    "period": "Historical map analysis, published2022",
+    "precision": "Source-specific map representations; no geometry extracted",
+    "reuse": "Publisher identifies CC BY-NC-ND4.0 for the chapter; embedded third-party map rights require their own check. No map images reproduced."
+  }
+}
