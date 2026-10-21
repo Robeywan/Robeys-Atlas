@@ -1,0 +1,112 @@
+{
+  "reviewedAt": "2026-10-21",
+  "status": "Six-entry bounded geography batch complete",
+  "scope": "Initial broad state connections only. Modern state regions are navigation aids, not complete Indigenous homelands, ownership or government jurisdiction.",
+  "associations": [
+    {
+      "regionId": "US-WA",
+      "name": "Samish",
+      "profileMatch": {
+        "name": "Samish",
+        "added": true
+      },
+      "associationType": "Historical homeland connection",
+      "period": "Traditional homeland described in undated Nation-published cultural account",
+      "sourceUrl": "https://www.samishtribe.nsn.us/who-we-are/culture",
+      "sourceTitle": "Samish Culture",
+      "publisher": "Samish Indian Nation",
+      "sourceType": "Indigenous-led",
+      "evidenceNote": "Opening cultural account explicitly places traditional Samish territory in Northwest Washington and the Salish Sea. Only the broad state connection is used; no land-claim boundary or exclusive occupancy inference.",
+      "reviewedScope": "Actual Samish Culture opening geographic paragraph; About Samish institutional account also read.",
+      "inspectionNote": "Actual community-page content opened and read; embedded video and storymaps not reviewed.",
+      "reviewDate": "2026-10-21"
+    },
+    {
+      "regionId": "US-WA",
+      "originalId": 352,
+      "name": "Skokomish",
+      "associationType": "Present government location",
+      "period": "Public government contact location inspected 2026-10-21",
+      "sourceUrl": "https://skokomish.org/tribal-directory/",
+      "sourceTitle": "Tribal Departments",
+      "publisher": "Skokomish Indian Tribe",
+      "sourceType": "Indigenous-led",
+      "evidenceNote": "Official tribal directory identifies the Skokomish Indian Tribe's government contact address in Shelton, Washington. This establishes a state connection, not a reservation boundary or the full Twana homeland.",
+      "reviewedScope": "Actual institutional heading, Contact Us address block and mission statement.",
+      "inspectionNote": "Actual official content opened and read. The enrollment ordinance was inspected initially but not used as geographic evidence.",
+      "reviewDate": "2026-10-21"
+    },
+    {
+      "regionId": "US-WA",
+      "originalId": 355,
+      "name": "Snoqualmie",
+      "associationType": "Present government mailing location",
+      "period": "Official public mailing address inspected 2026-10-21",
+      "sourceUrl": "https://snoqualmietribeforms.us/contact-us/?fromsite=main",
+      "sourceTitle": "Contact Us",
+      "publisher": "Snoqualmie Indian Tribe",
+      "sourceType": "Indigenous-led",
+      "evidenceNote": "The Tribe's public contact page explicitly identifies its mailing location as Snoqualmie, Washington. Reached through the main official tribal website. Mailing location supports this broad state link without defining homeland, reservation or service-area limits.",
+      "reviewedScope": "Actual public mail/phone address line and link back to main tribal site.",
+      "inspectionNote": "Actual official contact text opened and read. No form filled or sent, login entered or contact made. History and Rights Day framing were also read but not used to infer geography.",
+      "reviewDate": "2026-10-21"
+    },
+    {
+      "regionId": "US-WA",
+      "originalId": 359,
+      "name": "Squaxin Island",
+      "associationType": "Historical homeland and present community institution",
+      "period": "Historical southern Puget Sound homeland account; public museum location inspected 2026-10-21",
+      "sourceUrl": "https://squaxinislandmuseum.org/culture/history/",
+      "sourceTitle": "History",
+      "publisher": "Squaxin Island Museum Library and Research Center",
+      "sourceType": "Indigenous-led",
+      "evidenceNote": "The tribal museum identifies ancestral communities around southern Puget Sound. Its actual contact page places the institution in Kamilche, Washington. Together these support the state connection; historical travel farther afield is not treated as equivalent homeland or jurisdiction.",
+      "reviewedScope": "Actual History geographic/community paragraphs; Visit, Directions and public Contact address.",
+      "supportingSourceUrls": [
+        "https://squaxinislandmuseum.org/contact-us/"
+      ],
+      "supportingSourceScope": "Actual address block explicitly says Kamilche, WA.",
+      "inspectionNote": "Actual tribal museum pages opened and read. No sacred narrative, ceremonial instructions or images reproduced.",
+      "reviewDate": "2026-10-21"
+    },
+    {
+      "regionId": "US-WA",
+      "originalId": 363,
+      "name": "Suquamish",
+      "associationType": "Historical homeland connection",
+      "period": "Ancestral geography in undated Tribe-published history",
+      "sourceUrl": "https://suquamish.nsn.us/home/about-us/history-culture/",
+      "sourceTitle": "History & Culture",
+      "publisher": "Suquamish Tribe",
+      "sourceType": "Indigenous-led",
+      "evidenceNote": "Opening paragraph explicitly locates Suquamish ancestral lands and waterways in Washington's Central Puget Sound region. This supports a broad Washington link, not a complete treaty-area map or present legal conclusion.",
+      "reviewedScope": "Actual opening geographic paragraph and early timeline context.",
+      "inspectionNote": "Actual tribal history content opened and read; no claim to auditing treaty instruments or present rights litigation.",
+      "reviewDate": "2026-10-21"
+    },
+    {
+      "regionId": "US-AK",
+      "originalId": 388,
+      "name": "Tlingit",
+      "associationType": "Historical homeland / community government connection",
+      "period": "Historical Southeast Alaska geography in the joint Council's public timeline",
+      "sourceUrl": "https://tlingitandhaida.gov/about-us/history/",
+      "sourceTitle": "History — Our History: A Timeline",
+      "publisher": "Central Council of the Tlingit and Haida Indian Tribes of Alaska",
+      "sourceType": "Indigenous-led",
+      "evidenceNote": "The Council's timeline explicitly identifies Tlingit and Haida as distinct nations and repeatedly locates the historical land-use and claims account in Southeast Alaska. Supports Alaska for the Tlingit directory entry; this joint Council does not stand for every Tlingit community or the full cross-border homeland.",
+      "reviewedScope": "Actual Time Immemorial–1930s and 1930–1950s timeline sections, including Southeast Alaska geographic references.",
+      "inspectionNote": "Actual tribal-government history opened and read. Historical court descriptions are not a present jurisdictional assessment; no British Columbia/Yukon link is inferred from the directory region string.",
+      "reviewDate": "2026-10-21"
+    }
+  ],
+  "unresolved": [],
+  "notes": [
+    "Exact existing original IDs/names retained; Samish is the existing added profile without originalId.",
+    "Sources are used for geography only. This batch does not upgrade any profile research status or add counted deep-profile sources.",
+    "Historical homeland, present government address and present cultural-institution evidence are separately labelled.",
+    "Washington/Alaska connections are initial supported links, not exclusive or exhaustive geographic associations.",
+    "Only work/map-remaining-northwest6.json was written; no canonical profile, map data, Site or publication changes."
+  ]
+}

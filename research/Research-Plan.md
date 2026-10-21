@@ -1,8 +1,13 @@
+
+## Current credit authorization — October 21, 2026
+
+The owner explicitly authorizes using the remaining existing credit balance for sourced map connections and will obtain more later. This supersedes earlier 200/additional-100 caps for this continuation. The measured starting balance was67.203569 account-wide credits. Do not purchase credits or use manual resets. Save enough to verify, publish and checkpoint; the current operating reserve is recorded in work/atlas-remaining-credit-authorization.json. It is a one-time continuation, not a fresh allowance on each heartbeat. The weekly85%-consumed rule remains in force. Finish every entry’s sourced regional connection first, then prioritize the original publications linked in the fifteen supplied studies before deeper A-first research.
+
 # Robey’s Atlas of Indigenous North America — continuing research plan
 
 ## Latest owner priority — connect every directory entry to the map
 
-October 21, 2026: the owner expressly prioritizes sourced regional connections for every existing directory access point before returning to deeper alphabetical profile research. Work through currently unmapped entries first; one strong, actually inspected regional source can establish an initial connection, while aliases, broader groupings and historical identities require stated scope. Do not invent a location or imply absence when evidence remains unresolved. Track all entries individually and retain sources, periods and association types. More complete geography and the source-depth target remain later work; the usual A-first deep research resumes after this map-coverage milestone. The existing 200-credit authorization is a single cumulative allowance, not a fresh budget each turn. Continue only within its remaining balance, then ordinary availability and the weekly conservation rule govern future work.
+October 21, 2026: the owner expressly prioritizes sourced regional connections for every existing directory access point before returning to deeper alphabetical profile research. Work through currently unmapped entries first; one strong, actually inspected regional source can establish an initial connection, while aliases, broader groupings and historical identities require stated scope. Do not invent a location or imply absence when evidence remains unresolved. Track all entries individually and retain sources, periods and association types. More complete geography and the source-depth target remain later work; the usual A-first deep research resumes after this map-coverage milestone. Credit authorization follows the current dated authorization and saved credit ledger; no allowance renews automatically.
 
 ## Owner priority update — October 21, 2026
 

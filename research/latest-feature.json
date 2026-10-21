@@ -1,9 +1,13 @@
 {
   "date": "2026-10-21",
-  "feature": "Reviewed regional connections and publisher-version geography audit",
-  "status": "Prepared; no profile research counts promoted",
-  "baselineSource": "5b26855c1157261832498afefd49ed6e62415556",
-  "priorConnectionRecords": 424,
-  "currentConnectionRecords": 429,
-  "ownerPriority": "Every directory entry connected to sourced map regions before further deep research"
+  "feature": "Remaining-entry map connections and two source-fit corrections",
+  "status": "Prepared",
+  "baselineSource": "9768d62492a928a2bdce61da7b4156a851465f47",
+  "priorConnectionRecords": 429,
+  "currentConnectionRecords": 485,
+  "profileCorrections": [
+    "Eno",
+    "Erie"
+  ],
+  "noDepthPromotion": true
 }

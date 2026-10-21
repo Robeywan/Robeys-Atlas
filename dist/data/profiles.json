@@ -10743,7 +10743,13 @@
     "regionGroups": [
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      }
+    ]
   },
   {
     "originalId": 47,
@@ -11289,7 +11295,13 @@
     "regionGroups": [
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-TN",
+        "name": "Tennessee",
+        "key": "us-tn"
+      }
+    ]
   },
   {
     "originalId": 54,
@@ -12201,7 +12213,13 @@
       "Arctic & Alaska",
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-AB",
+        "name": "Alberta",
+        "key": "ca-ab"
+      }
+    ]
   },
   {
     "originalId": 62,
@@ -13365,7 +13383,13 @@
     "regionGroups": [
       "Mexico"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
+    ]
   },
   {
     "originalId": 78,
@@ -13854,7 +13878,13 @@
     "regionGroups": [
       "Great Plains"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ]
   },
   {
     "originalId": 84,
@@ -15481,7 +15511,13 @@
     "regionGroups": [
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-NT",
+        "name": "Northwest Territories",
+        "key": "ca-nt"
+      }
+    ]
   },
   {
     "originalId": 102,
@@ -15652,52 +15688,55 @@
     "name": "Eno",
     "region": "Southeast / North Carolina",
     "kind": "Historical people / name",
-    "overview": "Eno is a historical people name in the North Carolina Piedmont. Its later history should be read through specific records of neighboring communities.",
+    "overview": "Eno is a historical people name associated with North Carolina’s Piedmont and the Eno River. The linked state plan and historical reference support this limited geographical introduction; later histories and descendant connections need further review.",
     "sections": [
       {
-        "title": "Identity and context",
-        "text": "Eno is a historical people name in the North Carolina Piedmont. Its later history should be read through specific records of neighboring communities.",
+        "title": "Identity and geographical context",
+        "text": "Eno is a historical people name associated with North Carolina’s Piedmont and the Eno River. The linked state plan and historical reference support this limited geographical introduction; later histories and descendant connections need further review.",
         "sourceIds": [
-          "p103-s1"
+          "p103-geography-20261021",
+          "p103-ncpedia-geography-20261021"
         ]
       },
       {
-        "title": "A path for deeper reading",
-        "text": "Focus the next stage of research on: Colonial naming, migrations and the distinction between a river name and peoplehood. The sources below are selected reading paths; their authorship, dates and community scope should guide how they are used.",
+        "title": "Evidence review in progress",
+        "text": "This guide previously contained unrelated source links. They have been removed from this entry and retained in the correction record for traceability. The relevant geographic references below support an initial map route, not a completed history or source collection. Further research should examine naming, historical change and later community connections without inferring disappearance from sparse records.",
         "sourceIds": [
-          "p103-s1",
-          "p103-s2"
+          "p103-geography-20261021",
+          "p103-ncpedia-geography-20261021"
         ]
       }
     ],
     "sources": [
       {
-        "id": "p103-s1",
-        "title": "Who We Are — Rumsen Ohlone Tribal Community",
-        "publisher": "rumsenohlone.com",
-        "url": "https://www.rumsenohlone.com/who-we-are",
-        "type": "Indigenous-led",
+        "id": "p103-geography-20261021",
+        "title": "Eno River State Park General Management Plan — North Carolina Division of Parks and Recreation",
+        "publisher": "North Carolina Division of Parks and Recreation",
+        "url": "https://www.ncparks.gov/planning-files/general-management-plan-eno-river-state-park/open",
+        "type": "Government",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Historical geography",
+          "Identity"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Who We Are — Rumsen Ohlone Tribal Community” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The state plan identifies Eno people living along the Eno River at early European contact. Jean B. Anderson's Library of North Carolina account independently locates the historical Eno in North Carolina's Piedmont. This supports a historical North Carolina connection without assigning a modern Eno government or adopting uncertain descendant-identification claims. Inspection: Actual PDF cover, mission text and printed page 3 (PDF page 2), II. HISTORY, especially lines 31–34 identifying Eno, Shakori and Occoneechee along the river. Supporting Anderson, Eno Indians (2006), first geographic paragraph was read in complete indexed article text; direct NCpedia fetch returned 403. No old profile source was reused. Supporting geographic excerpt; excluded from the substantive profile-source target.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "countsTowardMinimum": false
       },
       {
-        "id": "p103-s2",
-        "title": "Where We Come From — Rumsen Ohlone Tribal Community",
-        "publisher": "rumsenohlone.com",
-        "url": "https://www.rumsenohlone.com/where-we-come-from",
-        "type": "Indigenous-led",
+        "id": "p103-ncpedia-geography-20261021",
+        "title": "Eno Indians — Jean B. Anderson (2006)",
+        "publisher": "Library of North Carolina / NCpedia",
+        "url": "https://www.ncpedia.org/eno-indians",
+        "type": "Scholarly / reference",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Historical geography",
+          "Identity"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Where We Come From — Rumsen Ohlone Tribal Community” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The indexed geographic opening of Anderson’s article was inspected; it places the historical Eno in North Carolina’s Piedmont. The direct request returned403, which does not establish a reader paywall. Supporting geographic excerpt only, excluded from the substantive source target. Broader historical and descendant claims await review.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -15707,75 +15746,51 @@
     "regionGroups": [
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      }
+    ]
   },
   {
     "originalId": 104,
     "name": "Erie",
     "region": "Northeast / Great Lakes",
     "kind": "Historical people / name",
-    "overview": "Erie is a historical people name associated with the southern shore of Lake Erie.",
+    "overview": "Erie is a historical people name associated with the Lake Erie region. A Pennsylvania county-government account identifies Eriez communities on its lakeshore. Broader geography and later community histories need further review.",
     "sections": [
       {
-        "title": "Identity and context",
-        "text": "Erie is a historical people name associated with the southern shore of Lake Erie.",
+        "title": "Identity and geographical context",
+        "text": "Erie is a historical people name associated with the Lake Erie region. A Pennsylvania county-government account identifies Eriez communities on its lakeshore. Broader geography and later community histories need further review.",
         "sourceIds": [
-          "p104-s1"
+          "p104-geography-20261021"
         ]
       },
       {
-        "title": "A path for deeper reading",
-        "text": "Focus the next stage of research on: Iroquoian relationships, seventeenth-century conflict and descendant connections in later communities. The sources below are selected reading paths; their authorship, dates and community scope should guide how they are used.",
+        "title": "Evidence review in progress",
+        "text": "This guide previously contained unrelated source links. They have been removed from this entry and retained in the correction record for traceability. The relevant geographic references below support an initial map route, not a completed history or source collection. Further research should examine naming, historical change and later community connections without inferring disappearance from sparse records.",
         "sourceIds": [
-          "p104-s1",
-          "p104-s2",
-          "p104-s3"
+          "p104-geography-20261021"
         ]
       }
     ],
     "sources": [
       {
-        "id": "p104-s1",
-        "title": "Series 1: Native American History, Language, and Culture of Alaska and the Northwest Coast",
-        "publisher": "sirismm.si.edu",
-        "url": "https://sirismm.si.edu/EADpdfs/NAA.1976-95.pdf",
-        "type": "Museum / archive",
-        "topics": [
-          "Identity",
-          "Language",
-          "History",
-          "Culture"
-        ],
-        "annotation": "A language reference linked for this entry. Read “Series 1: Native American History, Language, and Culture of Alaska and the Northwest Coast” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-        "accessed": "2026-10-19"
-      },
-      {
-        "id": "p104-s2",
-        "title": "The Original Salmon Stewards | NOAA Fisheries",
-        "publisher": "fisheries.noaa.gov",
-        "url": "https://www.fisheries.noaa.gov/west-coast/endangered-species-conservation/original-salmon-stewards",
+        "id": "p104-geography-20261021",
+        "title": "History of Erie County — Erie County, Pennsylvania",
+        "publisher": "Erie County, Pennsylvania",
+        "url": "https://eriecountypa.gov/about/about-erie-county/history-of-erie-county/",
         "type": "Government",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Historical geography",
+          "Identity"
         ],
-        "annotation": "Historical context for this entry. Read “The Original Salmon Stewards | NOAA Fisheries” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
-      },
-      {
-        "id": "p104-s3",
-        "title": "The Original Salmon Stewards Fact Sheet | NOAA Fisheries",
-        "publisher": "fisheries.noaa.gov",
-        "url": "https://www.fisheries.noaa.gov/resource/outreach-materials/original-salmon-stewards-fact-sheet",
-        "type": "Government",
-        "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
-        ],
-        "annotation": "Historical context for this entry. Read “The Original Salmon Stewards Fact Sheet | NOAA Fisheries” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Erie County's own history identifies the Eriez people as the source of the Pennsylvania county's name and describes their settlement on its lakeshore. This is a specific Pennsylvania historical connection for the Erie access point, rather than an inference from a modern lake or city name. Inspection: The county's indexed opening paragraph and explicit page identification as Erie County, PA were read. Direct fetch timed out. The paragraph actually names Eriez people; it is not a modern canal or unrelated Erie County source. The account's claim that the people were destroyed is not adopted. Supporting geographic excerpt; excluded from the substantive profile-source target.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -15786,7 +15801,13 @@
       "Great Lakes",
       "Northeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-PA",
+        "name": "Pennsylvania",
+        "key": "us-pa"
+      }
+    ]
   },
   {
     "originalId": 105,
@@ -16066,7 +16087,13 @@
       "Pacific Northwest",
       "Great Plains"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
+    ]
   },
   {
     "originalId": 109,
@@ -16773,7 +16800,13 @@
     "regionGroups": [
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
   },
   {
     "originalId": 118,
@@ -17348,7 +17381,13 @@
     "regionGroups": [
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      }
+    ]
   },
   {
     "added": true,
@@ -17760,7 +17799,13 @@
       "Great Plains",
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
   },
   {
     "originalId": 130,
@@ -19968,7 +20013,13 @@
     "regionGroups": [
       "Arctic & Alaska"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "GL",
+        "name": "Greenland",
+        "key": "gl"
+      }
+    ]
   },
   {
     "name": "Kalapuya",
@@ -20395,7 +20446,13 @@
     "regionGroups": [
       "Southeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ]
   },
   {
     "name": "Karuk",
@@ -20773,7 +20830,13 @@
     "regionGroups": [
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ]
   },
   {
     "name": "Kathlamet",
@@ -20843,7 +20906,13 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ]
   },
   {
     "name": "Kato",
@@ -21533,7 +21602,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "name": "Kitsai",
@@ -23554,7 +23629,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "name": "Maricopa",
@@ -23922,7 +24003,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "name": "Maya",
@@ -25455,7 +25542,13 @@
     "regionGroups": [
       "Northeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
+    ]
   },
   {
     "originalId": 222,
@@ -25531,7 +25624,13 @@
     "regionGroups": [
       "Northeast"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CT",
+        "name": "Connecticut",
+        "key": "us-ct"
+      }
+    ]
   },
   {
     "originalId": 223,
@@ -26455,7 +26554,13 @@
     "regionGroups": [
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ]
   },
   {
     "originalId": 234,
@@ -26519,7 +26624,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 235,
@@ -26927,7 +27038,13 @@
     "regionGroups": [
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
+    ]
   },
   {
     "originalId": 240,
@@ -27755,7 +27872,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 250,
@@ -27830,7 +27953,13 @@
     "regionGroups": [
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ]
   },
   {
     "originalId": 252,
@@ -28122,7 +28251,28 @@
     "regionGroups": [
       "Great Basin"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      },
+      {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      },
+      {
+        "id": "US-NV",
+        "name": "Nevada",
+        "key": "us-nv"
+      },
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ]
   },
   {
     "originalId": 256,
@@ -28184,7 +28334,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 257,
@@ -30136,7 +30292,13 @@
       "California",
       "Great Basin"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 281,
@@ -30314,7 +30476,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 284,
@@ -31338,7 +31506,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 298,
@@ -31649,7 +31823,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 302,
@@ -33213,7 +33393,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 322,
@@ -33759,7 +33945,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 329,
@@ -33903,7 +34095,13 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ]
   },
   {
     "originalId": 331,
@@ -35020,7 +35218,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 344,
@@ -35098,7 +35302,18 @@
       "Pacific Northwest",
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      },
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ]
   },
   {
     "originalId": 345,
@@ -36025,7 +36240,13 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ]
   },
   {
     "originalId": 353,
@@ -36240,7 +36461,13 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ]
   },
   {
     "originalId": 356,
@@ -36566,7 +36793,13 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ]
   },
   {
     "added": true,
@@ -36958,7 +37191,13 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ]
   },
   {
     "originalId": 364,
@@ -39054,7 +39293,13 @@
       "Arctic & Alaska",
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
+    ]
   },
   {
     "originalId": 390,
@@ -39284,7 +39529,18 @@
       "Pacific Northwest",
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      },
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ]
   },
   {
     "originalId": 393,
@@ -40096,7 +40352,13 @@
     "regionGroups": [
       "Canada"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ]
   },
   {
     "originalId": 401,
@@ -40722,7 +40984,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 409,
@@ -41984,7 +42252,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 422,
@@ -42485,7 +42759,18 @@
     "regionGroups": [
       "Pacific Northwest"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      },
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ]
   },
   {
     "originalId": 425,
@@ -42731,7 +43016,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 428,
@@ -42977,7 +43268,13 @@
       "California",
       "Great Basin"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "added": true,
@@ -43940,7 +44237,13 @@
     "regionGroups": [
       "California"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ]
   },
   {
     "originalId": 441,
