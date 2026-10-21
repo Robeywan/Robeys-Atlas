@@ -1,0 +1,34 @@
+{
+  "preparedAt": "2026-10-21",
+  "license": "Public domain",
+  "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "credit": "Made with Natural Earth.",
+  "repository": "https://github.com/nvkelso/natural-earth-vector",
+  "repositoryCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "repositoryCommitDate": "2022-06-02T07:25:00Z",
+  "scale": "1:50 million",
+  "coordinates": "Longitude, latitude in decimal degrees (WGS84)",
+  "processing": "Selected US/Canada admin1 and North America admin0 map units; removed unused attributes; rounded coordinates to four decimals without line simplification; merged Antigua/Barbuda polygons into one AG click target.",
+  "sources": [
+    {
+      "file": "ne_50m_admin_1_states_provinces.geojson",
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_1_states_provinces.geojson",
+      "sha256": "69a0e06e640b2d505858ae1cb63034e4677f3000b35a98e16312932b98c426b9",
+      "pinnedContentVerified": true
+    },
+    {
+      "file": "ne_50m_admin_0_map_units.geojson",
+      "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_map_units.geojson",
+      "sha256": "b8d421aca6e9e08e8cdf09cc26af111cc3e0deba4fe915611d58ade71e8a4db0",
+      "pinnedContentVerified": true
+    }
+  ],
+  "limits": [
+    "Generalized modern administrative navigation shapes, not Indigenous homelands, treaty boundaries or a statement about recognition/sovereignty.",
+    "Natural Earth defaults to de facto administrative boundary depiction; no legal boundary precision is claimed.",
+    "Small Caribbean islands need accessible list or enlarged click targets; outlines alone may be too small at a continent scale.",
+    "Alaska crosses the antimeridian; use dateline-aware projection or normalize its positive longitudes for a North America view.",
+    "Hawaii is included as a US state and may need an inset.",
+    "Political types and labels are copied from a Natural Earth snapshot rather than freshly adjudicated current legal status."
+  ]
+}

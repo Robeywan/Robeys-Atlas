@@ -1,5 +1,9 @@
 # Robey’s Atlas of Indigenous North America — owner’s vision
 
+## Owner priority update — October 21, 2026
+
+The owner explicitly requested implementing the simple homepage map now, ahead of completing all research. This supersedes earlier map-later timing. Make a prominent basic North America administrative map: hover or click a U.S. state, Canadian province/territory, or country/territory across Mexico, Central America and the Caribbean to see names linked directly to existing directory profiles. Keep the directory central. No city/address lookup, precise homeland polygons, globe/terrain or complex location detail is needed. Include accessible region selection, static crawlable region pages and truthful incomplete-coverage notes. Broad historical versus present-day connections still need evidence. Preserve the current Site audience; do not change sharing. After publishing these basics, return to A-first research with Aleut (Unangax̂), original entry 10. Authentic images and all existing credits stay intact.
+
 Recorded October 20, 2026. These are future directions, with research remaining the first phase.
 
 ## Purpose and audience
@@ -36,4 +40,4 @@ Record the photographer or artist, subject identification, context, date, credit
 2. Develop the map experience and its sourced geographical dataset once the research phase is sufficiently established; the map should guide the later atlas layout.
 3. Build the richer shared visual design and individual community treatments alongside that later map/design phase, with authentic, properly credited assets.
 
-The map and major decorative redesign are not being implemented in routine research runs. Suitable public geography and image leads may be recorded while researching. No map provider or Google product integration has been selected.
+The owner authorized the basic region map now; major decorative redesign remains outside routine research runs. Suitable public geography and image leads may be recorded while researching. No map provider or Google product integration has been selected.

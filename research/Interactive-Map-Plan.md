@@ -1,5 +1,9 @@
 # Interactive map for Robey’s Atlas of Indigenous North America
 
+## Owner priority update — October 21, 2026
+
+The owner explicitly requested implementing the simple homepage map now, ahead of completing all research. This supersedes earlier map-later timing. Make a prominent basic North America administrative map: hover or click a U.S. state, Canadian province/territory, or country/territory across Mexico, Central America and the Caribbean to see names linked directly to existing directory profiles. Keep the directory central. No city/address lookup, precise homeland polygons, globe/terrain or complex location detail is needed. Include accessible region selection, static crawlable region pages and truthful incomplete-coverage notes. Broad historical versus present-day connections still need evidence. Preserve the current Site audience; do not change sharing. After publishing these basics, return to A-first research with Aleut (Unangax̂), original entry 10. Authentic images and all existing credits stay intact.
+
 Recorded October 19, 2026; revised October 20, 2026 from the owner’s latest direction. The region-based plan below supersedes earlier town-level search, arbitrary-location selection and a one-town Kansas pilot as first-version requirements.
 
 The eventual atlas should be map-focused, with a prominent map that provides a geographical route into the existing directory. Visitors select a familiar modern region and receive a readable list of Indigenous peoples and nations with documented connections to that region, then open their researched profiles and sources. Smooth pan and zoom remain useful, but city/address search, detailed terrain and precise territorial boundaries are not first-version requirements.
@@ -31,7 +35,7 @@ Use an appropriately licensed modern administrative-boundary dataset, with prove
 
 Continue researching the entries in alphabetical order, with A entries first and the revised quality-based source target: aim for twelve excellent inspected works, allowing a smaller collection such as five or six when careful research and a documented coverage review support it. When an inspected source provides useful regional evidence, save the supported state/province/territory/country association, time period, scope and citation alongside the profile. Geography research should strengthen articles and the future regional index without delaying the A cohort for detailed boundary drawing.
 
-Source collections across the directory come first; the owner has explicitly allowed this to take weeks or months. The map has been requested as a later feature. It has not been implemented or published. Library, imagery provider, hosting requirements, account access, licensing, costs, and maintenance will be evaluated when implementation begins; no Google product integration has been selected or promised.
+Source collections across the directory come first; the owner has explicitly allowed this to take weeks or months. The owner subsequently moved the simple homepage map ahead of completing all research. Its initial implementation is being verified in the October 21 feature batch. Library, imagery provider, hosting requirements, account access, licensing, costs, and maintenance will be evaluated when implementation begins; no Google product integration has been selected or promised.
 
 ## First prototype acceptance
 

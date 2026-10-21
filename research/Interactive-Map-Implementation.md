@@ -1,0 +1,9 @@
+# Simple region map — implementation review
+
+October 21, 2026. The owner explicitly requested the map now before completing all profile research. The static SVG uses public-domain Natural Earth administrative outlines with Albers equal-area projection; no generated imagery, external map SDK, API key or paid map service is used. Region links lead to static, crawlable regional pages and existing profiles, with JavaScript enhancing selection, hover, zoom and panning. Native region selection and text lists provide equivalent routes for small islands, keyboard users and phones.
+
+The region index preserves cited historical/community/government/language scope, periods and review dates. It is explicitly incomplete, never an absence, census, jurisdiction or full-homeland claim. Related directory names are not counts of distinct nations. Multiple connections to one profile are grouped into one visible name with separate evidence. Five indexed-only Garifuna records remain deferred rather than filling Caribbean lists. Geography reviews do not inflate profile-source counts. No sensitive locations or homeland polygons are published.
+
+Independent code review found and prompted fixes for boundary ID normalization, drag/click handling and omitted supporting-source links. Source mismatches were corrected for Cree, Guna and Hän without promoting those guides to completed profiles. All source scopes remain explicit; short cultural Congress reference is supporting only. Browser and structural verification results are recorded with the publication output.
+
+The new Umatilla study contributes twenty suggested links, not completed content reviews; the catalog now preserves fourteen studies and 260 distinct URLs. The source minimum/adequacy standards remain unchanged. After the basic map is verified and published, resume Aleut (Unangax̂), original entry 10, then A-first research.

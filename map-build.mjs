@@ -1,0 +1,54 @@
+import fs from 'node:fs';
+
+// Region outlines are modern navigation aids, never Indigenous territory shapes.
+export function buildMap({cwd,profiles,e,document,write}) {
+  const boundaries=JSON.parse(fs.readFileSync(cwd+'/data/map-regions.geojson','utf8'));
+  const index=JSON.parse(fs.readFileSync(cwd+'/data/region-associations.json','utf8'));
+  const norm=v=>v.toLowerCase().replace(/[^a-z0-9]+/g,'-');
+  const regions=boundaries.features.map(f=>({...f.properties,id:f.id||f.properties.code,name:(f.id||f.properties.code)==='US-DC'?'District of Columbia':f.properties.name,key:norm(f.id||f.properties.code),feature:f})).sort((a,b)=>a.group.localeCompare(b.group)||a.name.localeCompare(b.name));
+  const byId=new Map(regions.map(r=>[r.id,r]));
+  const associations=index.associations.map(a=>{
+    const p=profiles.find(p=>a.originalId?p.originalId===a.originalId:p.name===a.name);
+    if(!p||!byId.has(a.regionId)||!/^https:\/\//.test(a.sourceUrl)||!a.evidenceNote||!a.associationType)throw Error('Invalid map association '+JSON.stringify(a));
+    return {...a,profile:p};
+  });
+  for(const r of regions){
+    const grouped=new Map();
+    for(const a of associations.filter(a=>a.regionId===r.id)){
+      if(!grouped.has(a.profile.slug))grouped.set(a.profile.slug,{profile:a.profile,connections:[]});
+      grouped.get(a.profile.slug).connections.push(a);
+    }
+    r.items=[...grouped.values()].sort((a,b)=>a.profile.name.localeCompare(b.profile.name));
+  }
+  const note='These are starting lists, not a complete census. Modern borders help you navigate; they are not Indigenous homeland boundaries. A connection may be historical or present-day and does not imply presence throughout a region.';
+  const label=type=>({'present-community':'Present community connection','language-community':'Language community connection','historical-origin':'Historical origin','historical-homeland':'Historical homeland connection','historical-presence':'Historical connection'}[type]||type.replaceAll('-',' '));
+  const evidence=a=>`<div class="map-evidence-item"><strong>${e(label(a.associationType))}</strong><p>${e(a.evidenceNote)}</p><p>${e(a.period||'Period described in the linked source')}. Reviewed ${e(a.reviewDate||index.reviewedAt)}.</p><a href="${e(a.sourceUrl)}" target="_blank" rel="noopener noreferrer">Read the supporting source ↗</a>${(a.supportingSourceUrls||[]).map((url,i)=>` · <a href="${e(url)}" target="_blank" rel="noopener noreferrer">Supporting source ${i+1} ↗</a>`).join('')}</div>`;
+  const results=(r,base='')=>`<div class="map-result-heading"><span class="eyebrow">Explore a place</span><h3>${e(r.name)}</h3><p>${r.items.length?`${r.items.length} directory ${r.items.length===1?'entry':'entries'} · Research in progress`:'Regional research is still being assembled.'}</p></div>${r.items.length?`<ul class="map-nations">${r.items.map(a=>`<li><a href="${base}nations/${a.profile.slug}/"><span>${e(a.profile.name)}</span><span aria-hidden="true">↗</span></a><span class="map-association">${[...new Set(a.connections.map(c=>label(c.associationType)))].map(e).join(' · ')}</span><details class="map-evidence"><summary>Connection &amp; source</summary>${a.connections.map(evidence).join('')}</details></li>`).join('')}</ul>`:'<p class="map-empty">No reviewed connections have been added here yet. This does not mean Indigenous peoples are absent. You can still explore the full directory while this regional index grows.</p>'}<p class="map-result-note">${e(note)} Directory names can overlap; the profiles explain their relationships.</p><a class="map-directory-link" href="${base}index.html#directory">Explore the full directory →</a>`;
+  // Spherical Albers equal-area projection, standard parallels 20° and 60° N.
+  const rad=Math.PI/180,n=(Math.sin(20*rad)+Math.sin(60*rad))/2,C=Math.cos(20*rad)**2+2*n*Math.sin(20*rad),rho0=Math.sqrt(C-2*n*Math.sin(45*rad))/n;
+  const project=([lon,lat])=>{if(lon>80)lon-=360;const rho=Math.sqrt(Math.max(0,C-2*n*Math.sin(lat*rad)))/n,t=n*(lon+100)*rad;return [rho*Math.sin(t),rho0-rho*Math.cos(t)];};
+  const rings=f=>f.geometry.type==='Polygon'?f.geometry.coordinates:f.geometry.coordinates.flat();
+  const points=regions.flatMap(r=>rings(r.feature).flatMap(ring=>ring.map(project)));
+  const xs=points.map(p=>p[0]),ys=points.map(p=>p[1]);
+  const minX=xs.reduce((a,b)=>Math.min(a,b),Infinity),maxX=xs.reduce((a,b)=>Math.max(a,b),-Infinity),minY=ys.reduce((a,b)=>Math.min(a,b),Infinity),maxY=ys.reduce((a,b)=>Math.max(a,b),-Infinity),scale=Math.min(940/(maxX-minX),730/(maxY-minY));
+  const xy=p=>{const [x,y]=project(p);return [30+(x-minX)*scale,30+(maxY-y)*scale];};
+  const height=Math.ceil((maxY-minY)*scale+60);
+  const paths=regions.map(r=>{
+    const d=rings(r.feature).map(ring=>ring.map((p,i)=>{const [x,y]=xy(p);return (i?'L':'M')+x.toFixed(1)+','+y.toFixed(1);}).join('')+'Z').join('');
+    const names=[...new Set(r.items.map(a=>a.profile.name))];
+    const title=r.name+': '+(names.length?names.join(', '):'Regional connections awaiting review');
+    return `<a href="regions/${r.key}/" class="${r.items.length?'has-results':'awaiting-results'}" data-map-region="${e(r.id)}" aria-label="${e(r.name)} — ${names.length} directory ${names.length===1?'entry':'entries'}"><path d="${d}" fill-rule="evenodd"/><title>${e(title)}</title></a>`;
+  }).join('');
+  const groups=[...new Set(regions.map(r=>r.group))];
+  const options=groups.map(g=>`<optgroup label="${e(g)}">${regions.filter(r=>r.group===g).map(r=>`<option value="${e(r.id)}">${e(r.name)}</option>`).join('')}</optgroup>`).join('');
+  const credits='<a href="https://www.naturalearthdata.com/about/terms-of-use/" target="_blank" rel="noopener noreferrer">Outlines: Natural Earth · public domain</a>. Simplified modern administrative map; not for legal or territorial use.';
+  const home=`<section id="map" class="atlas-map" aria-labelledby="map-title"><div class="map-heading"><div><div class="eyebrow">Start with a place</div><h2 id="map-title">Who are the Indigenous peoples <br>connected to your state?</h2></div><p>Choose a state, province or country. <br>Find names. Open their stories.</p></div><div class="map-layout"><div class="map-explore"><div class="map-toolbar"><span>North America &amp; the Caribbean</span><div class="map-zoom"><button type="button" data-map-zoom="in" aria-label="Zoom in on map">+</button><button type="button" data-map-zoom="out" aria-label="Zoom out on map">−</button><button type="button" data-map-reset>Reset</button></div></div><div class="map-canvas"><svg id="region-map" tabindex="0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 ${height}" aria-labelledby="map-svg-title map-svg-desc"><title id="map-svg-title">Choose a North American region</title><desc id="map-svg-desc">Click a modern region for directory names. Every region is also available in the selector and the all-regions list. Use arrow keys while focused on the map to move its view.</desc><g data-map-shapes>${paths}</g></svg><div class="map-hover" hidden aria-hidden="true"></div></div><div class="map-legend"><span><i class="legend-ready" aria-hidden="true"></i>Names available</span><span><i class="legend-pending" aria-hidden="true"></i>Research pending</span></div><p class="map-instructions">Hover for names · Click to explore · Use + / − to zoom · Drag or arrow keys to move</p><p class="map-credit">${credits}</p></div><aside class="map-sidebar"><label for="map-region-select">Choose a state, province or country</label><select id="map-region-select"><option value="" disabled selected>Select a region…</option>${options}</select><div class="map-quick" aria-label="Try a region"><span>Try</span>${['US-LA','US-TX','US-KS','CR'].filter(id=>byId.has(id)).map(id=>`<a href="regions/${byId.get(id).key}/" data-select-region="${id}">${e(byId.get(id).name)}</a>`).join('')}</div><p id="map-selection-status" class="map-sr-only" role="status" aria-live="polite"></p><div id="map-results" tabindex="-1" aria-label="Selected region directory entries"><div class="map-welcome"><span class="map-compass" aria-hidden="true">↗</span><h3>A place to begin.</h3><p>Click a region on the map or choose its name above. Each name opens an existing directory page and its reading sources.</p><p>Historical connections and present-day communities are labeled separately. The lists are growing with the research.</p></div></div><a class="map-all-regions" href="regions/">Browse every region as a list →</a><noscript><p>Use the map links or <a href="regions/">all-regions list</a> to open names and sources. JavaScript is optional.</p></noscript></aside></div><p class="map-context">${e(note)}</p>${regions.map(r=>`<template id="map-template-${e(r.id)}">${results(r)}</template>`).join('')}</section>`;
+  for(const r of regions)write(`regions/${r.key}/index.html`,document(r.name+' — Indigenous peoples',`Explore directory connections with ${r.name}, with supporting sources.`,`<main id="main" class="wrap"><section class="page-hero"><div class="eyebrow">Places in the Atlas</div><h1>${e(r.name)}</h1><p>Follow the names into the directory. These regional connections are a starting point for learning.</p><a href="../../index.html#map">← Back to the interactive map</a> · <a href="../">All regions</a></section><section class="region-page">${results(r,'../../')}</section></main>`,'../../'));
+  write('regions/index.html',document('Explore by region','A text alternative to the interactive map, with states, provinces and countries.',`<main id="main" class="wrap"><section class="page-hero"><div class="eyebrow">A place to begin</div><h1>Explore by region</h1><p>${e(note)}</p><a href="../index.html#map">← Interactive map</a></section><div class="region-index">${groups.map(g=>`<section><h2>${e(g)}</h2><ul>${regions.filter(r=>r.group===g).map(r=>`<li><a href="${r.key}/">${e(r.name)}</a><span>${new Set(r.items.map(a=>a.profile.slug)).size} entries</span></li>`).join('')}</ul></section>`).join('')}</div><p class="map-credit">${credits} <a href="../data/map-provenance.json">Boundary provenance</a> · <a href="../data/region-associations.json">Regional evidence index</a>.</p></main>`,'../'));
+  write('data/region-associations.json',JSON.stringify(index,null,2));
+  write('data/map-regions.geojson',JSON.stringify(boundaries));
+  write('data/map-provenance.json',fs.readFileSync(cwd+'/data/map-provenance.json','utf8'));
+  const report={regions:regions.length,regionsWithResults:regions.filter(r=>r.items.length).length,associations:associations.length,linkedProfiles:new Set(associations.map(a=>a.profile.slug)).size,reviewedAt:index.reviewedAt,coverage:'Initial, incomplete region index; no absence or exhaustive-list claims'};
+  write('data/map-coverage.json',JSON.stringify(report,null,2));
+  return {home,report};
+}
