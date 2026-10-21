@@ -1,0 +1,245 @@
+{
+  "reviewedAt": "2026-10-21",
+  "status": "Proposed additional access point and initial source guide; not integrated into the Site",
+  "scopeDecision": {
+    "recommendedName": "Native Hawaiian (Kānaka Maoli)",
+    "originalId": "Absent: supported addition, not one of the owner’s numbered original entries",
+    "atlasScopeNote": "Hawaiʻi is a Pacific archipelago. Including this Indigenous people extends the directory’s geographic scope; it does not recategorize Hawaiʻi as continental North America.",
+    "namingBasis": "Explicit Kānaka Maoli/Indigenous people wording in the UH publication; Native Hawaiian ancestry and geographic wording in the original 1993 resolution."
+  },
+  "profile": {
+    "added": true,
+    "name": "Native Hawaiian (Kānaka Maoli)",
+    "region": "Hawaiian archipelago / Pacific; US-HI used as a geographic navigation region",
+    "kind": "Indigenous people / language / diverse communities and institutions",
+    "overview": "Begin with annotated public sources on Native Hawaiian identity, language education, land and water care, institutional roles and the 1993 federal apology. This initial source guide supports a Hawaiʻi map connection while keeping its limited coverage visible.",
+    "sections": [
+      {
+        "title": "An Indigenous people and a Hawaiian name",
+        "text": "Native Hawaiian and Kānaka Maoli identify the Indigenous people of Hawaiʻi. A University of Hawaiʻi publication uses Kānaka Maoli in that sense, while the 1993 federal apology resolution defines Native Hawaiian for its own purposes through descent from the islands’ aboriginal people. These sources provide an introduction to names, rather than a universal enrollment test. Birthplace or residence in the present state alone does not supply the ancestry described in that resolution.",
+        "sourceIds": [
+          "hi-support-name",
+          "hi-guide-apology-1993"
+        ]
+      },
+      {
+        "title": "A homeland connection for the map",
+        "text": "The resolution explicitly connects Native Hawaiian ancestors with the area now constituting the State of Hawaiʻi. The state index therefore provides a useful route to this people’s sources. It should not be read as a parcel map or a determination of territorial rights. Community and family histories require closer island-specific research.",
+        "sourceIds": [
+          "hi-guide-apology-1993"
+        ]
+      },
+      {
+        "title": "The Kingdom, overthrow and a dated apology",
+        "text": "The 1993 resolution records Congress’s account of United States diplomatic and military participation in the 1893 overthrow, and apologizes to Native Hawaiians for the resulting deprivation of self-determination. It also expressly declines to settle claims against the United States. Reading those provisions together prevents an apology from being mistaken for a comprehensive legal resolution. Kingdom history, subsequent annexation and present political proposals need additional original documents and Hawaiian scholarship.",
+        "sourceIds": [
+          "hi-guide-apology-1993"
+        ]
+      },
+      {
+        "title": "Rebuilding everyday language education",
+        "text": "ʻAha Pūnana Leo traces its work to Hawaiian language educators who organized in 1983. Its account describes the first preschool at Kekaha, Kauaʻi, in 1984, followed by schools on other islands. Elders’ advice about children learning through everyday interaction shaped that work. The history also acknowledges inspiration from Māori language nests. This is a community institution’s account of rebuilding education; the page does not establish current proficiency outcomes for all Native Hawaiians.",
+        "sourceIds": [
+          "hi-guide-language"
+        ]
+      },
+      {
+        "title": "Learning through care for land and water",
+        "text": "Paepae o Heʻeia’s public collection explains how a coastal fishpond on Oʻahu uses a wall and managed water exchange to support aquatic life. Its education page describes students investigating water quality and other ecological questions while helping inform the organization’s management decisions. These accounts connect inherited environmental knowledge with contemporary learning at one place. Heʻeia’s story should not be generalized to every island, family or fishpond.",
+        "sourceIds": [
+          "hi-guide-stewardship"
+        ]
+      },
+      {
+        "title": "Understanding OHA as a particular institution",
+        "text": "The Office of Hawaiian Affairs describes itself as a semi-autonomous state agency. Its account connects its creation with 1970s Native Hawaiian activism and the 1978 constitutional convention. It identifies advocacy, research, land management and support for community programs among its roles. Reading its own description helps distinguish a service and advocacy institution from the people as a whole. Its remit does not establish consensus on political futures or make OHA a sovereign Native Hawaiian government.",
+        "sourceIds": [
+          "hi-guide-oha"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "hi-guide-language",
+        "title": "Our History",
+        "author": "ʻAha Pūnana Leo",
+        "publisher": "ʻAha Pūnana Leo",
+        "url": "https://www.ahapunanaleo.org/history-hl-1",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community initiative"
+        ],
+        "annotation": "Educators’ institutional account of rebuilding Hawaiian-medium education, beginning with organizing in 1983 and the first preschool in 1984. A valuable program history; historical policy claims and present outcomes still need independent comparison.",
+        "documentDate": "Undated live page; timeline extends through 2023",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Actual HTML history and timeline, lines 79–114. Photographs, linked courses, videos and private portals were not inspected.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "hi-guide-stewardship",
+        "title": "The Fishpond and Education — Heʻeia public learning collection",
+        "author": "Paepae o Heʻeia",
+        "publisher": "Paepae o Heʻeia",
+        "url": "https://paepaeoheeia.org/the-fishpond/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Land and water",
+          "Aquaculture",
+          "Education",
+          "Oʻahu"
+        ],
+        "annotation": "The community organization explains a coastal fishpond and connects its care with place-based ecological learning. The history and education pages are counted together as one public collection. Undated teaching schedules, output figures and ownership statements are not treated as verified current conditions.",
+        "documentDate": "Undated web pages",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Actual Fishpond body, lines 54–76; Education introduction and charter-school learning account, lines 53–61. No restricted material, oral recordings, site geometry or photographs reused.",
+        "countsTowardMinimum": true,
+        "inspectedSubresources": [
+          {
+            "url": "https://paepaeoheeia.org/education/",
+            "title": "Education",
+            "scope": "Public introduction and charter-school learning paragraphs, lines 53–61"
+          }
+        ]
+      },
+      {
+        "id": "hi-guide-oha",
+        "title": "About the Office of Hawaiian Affairs",
+        "author": "Office of Hawaiian Affairs",
+        "publisher": "Office of Hawaiian Affairs",
+        "url": "https://www.oha.org/about/",
+        "type": "Government",
+        "topics": [
+          "Institutions",
+          "Advocacy",
+          "Community services",
+          "History"
+        ],
+        "annotation": "OHA describes its state-agency role, origins in 1970s activism and work supporting Native Hawaiian wellbeing. Useful for understanding this particular institution; it is not a sovereign government speaking for every Native Hawaiian perspective. Staff totals and financial claims are omitted.",
+        "documentDate": "Undated web page",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Actual substantive About, vision, mission and overview text, lines 99–118. Linked film, program reports and current administrative rules were not reviewed.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "hi-guide-apology-1993",
+        "title": "Public Law 103–150: acknowledgment and apology for the overthrow of the Kingdom of Hawaiʻi",
+        "author": "United States Congress",
+        "publisher": "United States Statutes at Large, 107 Stat. 1510–1514; Government Publishing Office / GovInfo",
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1510.pdf",
+        "type": "Government",
+        "topics": [
+          "Hawaiian Kingdom",
+          "Overthrow",
+          "Primary document",
+          "Self-determination"
+        ],
+        "annotation": "Original 1993 federal resolution, including historical recitals, an apology, its own definition of Native Hawaiian and a disclaimer that it does not settle claims. Read as a dated primary instrument, not a complete history or a determination of contemporary sovereignty, citizenship or remedies.",
+        "publicationDate": "1993-11-23",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Actual five-page PDF text/OCR read: 107 Stat. 1510–1514, all recitals and sections 1–3. This records text inspection, not a claimed page-image transcription audit.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "hi-support-name",
+        "title": "Hawaiian Word of the Week: Maoli",
+        "author": "University of Hawaiʻi News; attributed reflection by Diamond Badajos",
+        "publisher": "University of Hawaiʻi System News",
+        "url": "https://www.hawaii.edu/news/2022/10/11/hawaiian-word-of-the-week-maoli/",
+        "type": "Reporting / interview",
+        "topics": [
+          "Names",
+          "Identity",
+          "Language"
+        ],
+        "annotation": "Brief university publication identifies Kānaka Maoli as the Indigenous people of Hawaiʻi through an attributed alumna’s reflection. Included for naming and orientation only; its brevity makes it supporting material rather than a substantive research-target source.",
+        "publicationDate": "2022-10-11",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Actual definition and attributed reflection, lines 34–49. Embedded video and linked dictionary were not reviewed.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "relatedOriginalIds": [],
+    "relationshipNote": "Native Hawaiian / Kānaka Maoli is a people-level access point, distinct from the population of the modern state and from any single agency or organization. OHA is a state agency; ʻAha Pūnana Leo and Paepae o Heʻeia are specific community institutions. The historical Kingdom, its subjects, Indigenous identity, ancestry-based program categories and contemporary political proposals require their own contexts. The state-index connection does not decide recognition, citizenship or territorial claims.",
+    "researchStatus": "source-guide",
+    "reviewedAt": "2026-10-21",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "searchTerms": [
+      "Native Hawaiian",
+      "Native Hawaiians",
+      "Kānaka Maoli",
+      "Kanaka Maoli",
+      "Hawaiian archipelago",
+      "ʻŌlelo Hawaiʻi"
+    ],
+    "researchGaps": [
+      "A fuller account needs Hawaiian-authored historical scholarship and original Kingdom-era documents, with island-specific histories.",
+      "Contemporary family voices, diaspora experiences, health and housing, and the diversity of political positions need stronger representation.",
+      "Legal program definitions, current law and recognition debates require separately dated specialist research; the 1993 resolution does not answer them all.",
+      "Learning outcomes, restoration results and present program availability have not been independently assessed."
+    ],
+    "evidenceNotes": [
+      "Four substantive works/collections and one short supporting naming reference were inspected within recorded scopes on October 21, 2026. Paepae o Heʻeia pages count once. The guide is not promoted to a developed profile or an adequate initial introduction; no community review is implied.",
+      "No generated images, copied photographs, restricted cultural content or precise site coordinates were used. The 1993 law was reviewed as text/OCR, not asserted as a full image-transcription audit."
+    ]
+  },
+  "associations": [
+    {
+      "regionId": "US-HI",
+      "name": "Native Hawaiian (Kānaka Maoli)",
+      "associationType": "Indigenous homeland connection in a dated primary document",
+      "period": "Ancestral presence before 1778, described in the 1993 federal resolution",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1510.pdf",
+      "sourceTitle": "Public Law 103–150: acknowledgment and apology for the overthrow of the Kingdom of Hawaiʻi",
+      "evidenceNote": "Section 2 explicitly defines Native Hawaiian, for this resolution, through descent from the aboriginal people who occupied and exercised sovereignty in the area now constituting the State of Hawaii before 1778. The UH naming reference independently connects Kānaka Maoli with the Indigenous people of Hawaiʻi. US-HI is a navigation index, not a territorial-rights determination.",
+      "reviewedScope": "1993 resolution section 2, 107 Stat. 1513, with section 3 disclaimer at 1514; UH naming reference lines 45–47.",
+      "reviewDate": "2026-10-21",
+      "limits": [
+        "The legal definition belongs to this instrument and is not a universal community identity or citizenship rule.",
+        "No precise boundaries, island-specific coverage or modern political consensus are claimed."
+      ]
+    }
+  ],
+  "inspectionEvidence": [
+    {
+      "sourceId": "hi-guide-language",
+      "contribution": "Community institution’s own educational history; Hawaiʻi island names explicitly stated.",
+      "limit": "No current student outcomes, oral recordings or underlying policy-law audit."
+    },
+    {
+      "sourceId": "hi-guide-stewardship",
+      "contribution": "Actual place-based aquaculture and education content; pages grouped as one collection.",
+      "limit": "No permission to reuse site images or specialist measurements assumed."
+    },
+    {
+      "sourceId": "hi-guide-oha",
+      "contribution": "Actual state-agency self-description and institutional origins.",
+      "limit": "No claim of exclusive representation or current program eligibility."
+    },
+    {
+      "sourceId": "hi-guide-apology-1993",
+      "contribution": "Full original text, especially operative apology, instrument-specific definition and non-settlement disclaimer.",
+      "limit": "No current legal advice or conclusion that contemporary political disputes are settled."
+    },
+    {
+      "sourceId": "hi-support-name",
+      "contribution": "Short attributed Indigenous naming statement.",
+      "limit": "Supporting only; embedded video not watched."
+    }
+  ],
+  "unresolved": [
+    {
+      "title": "History — ʻIolani Palace",
+      "url": "https://www.iolanipalace.org/history/",
+      "status": "Search-indexed history appeared relevant; direct initial extraction omitted substantive body and follow-up returned timeout. Not included as an inspected source card.",
+      "followUp": "Inspect the original museum history and related original Kingdom documents during a later profile research pass."
+    }
+  ]
+}

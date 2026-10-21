@@ -1,0 +1,230 @@
+{
+  "reviewedAt": "2026-10-21",
+  "status": "Bounded West Virginia and Greenland evidence batch complete",
+  "scope": "Broad modern map regions are navigation aids. Historical warfare, displacement and homeland associations are distinct from present residence, government, jurisdiction and property boundaries.",
+  "associations": [
+    {
+      "regionId": "US-WV",
+      "originalId": 345,
+      "name": "Shawnee",
+      "associationType": "Historical regional connection",
+      "period": "Early historic/colonial Ohio Valley and Western Virginia connections; 1774 event provides a specific example",
+      "sourceUrl": "https://www.wvencyclopedia.org/entries/805",
+      "sourceTitle": "Indians",
+      "publisher": "West Virginia Humanities Council, e-WV",
+      "author": "Robert F. Maslowski",
+      "sourceType": "Specialist regional encyclopedia",
+      "publicationDate": "2024-04-25",
+      "evidenceNote": "The specialist overview explicitly identifies Shawnee among peoples historically associated with Western Virginia and discusses hunting, travel and regional influence. The separate Chief Logan article locates Shawnee participation at Point Pleasant in 1774. This is a historical connection, not a claim of exclusive state-wide occupation or present government location.",
+      "reviewedScope": "Actual historical-regional paragraphs; Chief Logan article's 1774 Point Pleasant paragraph as corroboration.",
+      "supportingSourceUrls": [
+        "https://wvencyclopedia.org/entries/1397"
+      ],
+      "reviewDate": "2026-10-21",
+      "inspectionNote": "Actual encyclopedia text opened and read. Sweeping empty-land, population, ancestry and modern-organization assertions elsewhere in the overview are not adopted."
+    },
+    {
+      "regionId": "US-WV",
+      "originalId": 215,
+      "name": "Mingo",
+      "associationType": "Historical conflict / regional connection",
+      "period": "Eighteenth-century Ohio Valley; explicitly documented connection to West Virginia settlements in the 1770s",
+      "sourceUrl": "https://www.wvencyclopedia.org/entries/1771",
+      "sourceTitle": "Mingo",
+      "publisher": "West Virginia Humanities Council, e-WV",
+      "author": "John Alexander Williams",
+      "sourceType": "Specialist regional encyclopedia",
+      "publicationDate": "2024-04-25",
+      "evidenceNote": "The article directly connects people described historically as Mingo with conflicts involving West Virginia settlements. It locates many participants' home villages in Pennsylvania or Ohio and explains the label's mixed, changing use. The link therefore records historical activity involving this region, not a resident Mingo state-wide homeland or a present single government.",
+      "reviewedScope": "Full short article, especially the paragraph on West Virginia settlements and discussion of the historical name.",
+      "reviewDate": "2026-10-21",
+      "inspectionNote": "Actual specialist text opened and read. No connection is inferred from Mingo County, Logan place names or a named monument."
+    },
+    {
+      "regionId": "US-WV",
+      "originalId": 364,
+      "name": "Susquehannock",
+      "associationType": "Reported historical displacement connection",
+      "period": "Displacement after Conestoga Town's destruction; community page supplies no precise settlement dates",
+      "sourceUrl": "https://www.conestogasusquehannocktribe.com/historic-territory-1",
+      "sourceTitle": "Our Historic Territory",
+      "publisher": "The Conestoga-Susquehannock Tribe",
+      "sourceType": "Community-published historical account",
+      "evidenceNote": "The community account cautiously reports evidence suggesting displaced Susquehannock people inhabited West Virginia. Maslowski's specialist overview also names Susquehannock among historically associated groups. Retain the source's uncertainty: this is a reported displacement connection, not a verified continuous settlement, exclusive homeland boundary or present legal title.",
+      "reviewedScope": "Actual three-paragraph historical-territory account; e-WV's named historical-group paragraph as supporting context.",
+      "supportingSourceUrls": [
+        "https://www.wvencyclopedia.org/entries/805"
+      ],
+      "reviewDate": "2026-10-21",
+      "inspectionNote": "Actual community text opened and read. Embedded/linked maps and underlying deeds were not independently reviewed."
+    },
+    {
+      "regionId": "GL",
+      "originalId": 142,
+      "name": "Inuit",
+      "associationType": "Circumpolar people / Greenland connection",
+      "period": "Historical and continuing organizational/community relationship described by ICC",
+      "sourceUrl": "https://www.inuitcircumpolar.com/about-icc/",
+      "sourceTitle": "About ICC",
+      "publisher": "Inuit Circumpolar Council Canada",
+      "sourceType": "Inuit-led circumpolar organization",
+      "evidenceNote": "ICC's own account explicitly identifies Inuit leaders from Kalaallit Nunaat (Greenland) alongside Alaska and Canada at its founding and describes subsequent Inuit participation. This directly supports Greenland for the broad Inuit access point without making a Canadian organization the government of Greenlandic communities.",
+      "reviewedScope": "Actual Our Story paragraphs on the 1977 founding, 1980 Nuuk assembly, charter ratification and circumpolar representation.",
+      "reviewDate": "2026-10-21",
+      "inspectionNote": "Actual Inuit-led institutional text opened and read. Current population, policy, sovereignty and legal claims are not copied."
+    },
+    {
+      "regionId": "GL",
+      "name": "Kalaallit",
+      "profileMatch": {
+        "name": "Kalaallit",
+        "added": true
+      },
+      "associationType": "People-name / Greenland connection",
+      "period": "Identity/geography in undated tourism-board overview; no current statistics adopted",
+      "sourceUrl": "https://visitgreenland.com/articles/10-facts-about-greenland-that-you-might-not-know/",
+      "sourceTitle": "10 Facts about Greenland that You Might Not Know",
+      "publisher": "Visit Greenland",
+      "sourceType": "Government-owned national tourism board; popular cultural overview",
+      "evidenceNote": "Section 5 discusses Kalaallit in the context of Greenlandic Inuit. This supports a Greenland connection for the existing access label, not the proposition that every Greenland resident is Kalaallit or that regional Inuit identities are interchangeable.",
+      "reviewedScope": "Actual section 5 identity/geography text and publisher ownership statement. Population percentages, current conditions and legal/political claims are not adopted.",
+      "reviewDate": "2026-10-21",
+      "inspectionNote": "Actual primary publisher page opened and read. Its broad naming language is used only for the limited connection described.",
+      "recordAction": "Replace the existing GL/Kalaallit indexed-only evidence record",
+      "limits": [
+        "Popular tourism introduction, not an authoritative resolution of all regional self-designations.",
+        "No current demographic figures or claim that all Greenlanders share one Indigenous identity."
+      ]
+    }
+  ],
+  "existingRecordReviews": [
+    {
+      "match": {
+        "regionId": "GL",
+        "name": "Kalaallit",
+        "sourceUrl": "https://www.iwgia.org/en/news/iw-2026-kalaallit-nunaat-greenland?lang=en"
+      },
+      "finding": "The present map candidly labels its source evidence as indexed-only. Renewed direct open still produced zero text; ordinary direct HTTPS retrieval returned only a page shell/comment.",
+      "recommendation": "Replace the evidence record for the same GL/Kalaallit pair with the actual-content Visit Greenland record in associations. Keep the IWGIA country introduction as a research lead, not as newly inspected full content.",
+      "replacementRecordKey": {
+        "regionId": "GL",
+        "name": "Kalaallit"
+      },
+      "preserveCaveats": [
+        "Not every resident of Greenland is Kalaallit.",
+        "Inuit is a wider access label; regional identities require their own evidence.",
+        "Neither source authorizes present demographic, legal or exclusive-boundary claims."
+      ]
+    }
+  ],
+  "sourceInspections": [
+    {
+      "sourceUrl": "https://www.wvencyclopedia.org/entries/805",
+      "author": "Robert F. Maslowski",
+      "title": "Indians",
+      "publisher": "West Virginia Humanities Council",
+      "documentDate": "Last revised 25 April 2024",
+      "reviewDate": "2026-10-21",
+      "scope": "Actual short article read, with geography drawn only from the historic-period named-groups paragraph and following travel/influence paragraph.",
+      "limits": "The broad assertions about abandoned/empty land, modern ancestry, demographics and organizations are outside this map use. No archaeological culture is assigned to a modern people."
+    },
+    {
+      "sourceUrl": "https://www.wvencyclopedia.org/entries/1771",
+      "author": "John Alexander Williams",
+      "title": "Mingo",
+      "publisher": "West Virginia Humanities Council",
+      "documentDate": "Last revised 25 April 2024",
+      "reviewDate": "2026-10-21",
+      "scope": "Full short article read: name use, mixed villages, West Virginia conflict connection, later movement.",
+      "limits": "Historical outside label and participants' geographic activity are not silently converted into a single language, nation, exclusive territory or today's Seneca-Cayuga jurisdiction."
+    },
+    {
+      "sourceUrl": "https://wvencyclopedia.org/entries/1397",
+      "author": "Harold Malcolm Forbes",
+      "title": "Chief Logan",
+      "publisher": "West Virginia Humanities Council",
+      "documentDate": "Last revised 24 April 2024",
+      "reviewDate": "2026-10-21",
+      "scope": "Full short biography read, especially Ohio home-location distinction and 1774 conflict/Point Pleasant paragraph.",
+      "limits": "Birthplace, later residence, conflict locations and commemorative names are distinct. No state association based merely on a town or park name."
+    },
+    {
+      "sourceUrl": "https://www.conestogasusquehannocktribe.com/historic-territory-1",
+      "title": "Our Historic Territory",
+      "publisher": "The Conestoga-Susquehannock Tribe",
+      "documentDate": "Undated",
+      "reviewDate": "2026-10-21",
+      "scope": "Actual three substantive paragraphs read.",
+      "limits": "A cautiously phrased community historical account; no independent verification of every displacement, descent, recognition or legal claim, and no map/image extraction."
+    },
+    {
+      "sourceUrl": "https://visitgreenland.com/articles/10-facts-about-greenland-that-you-might-not-know/",
+      "title": "10 Facts about Greenland that You Might Not Know",
+      "publisher": "Visit Greenland",
+      "author": "Introduction credits Nellie Huang; page publisher/byline is Visit Greenland",
+      "documentDate": "Publication date not established; historical population estimates occur in text",
+      "reviewDate": "2026-10-21",
+      "scope": "Actual identity/geography section 5 and publisher statement identifying Government of Greenland ownership.",
+      "limits": "Popular tourism overview. Only the Kalaallit/Greenlandic Inuit place connection is used, not all Greenland residents, percentages, identity equivalence or current political/legal information."
+    },
+    {
+      "sourceUrl": "https://www.inuitcircumpolar.com/about-icc/",
+      "title": "About ICC",
+      "publisher": "Inuit Circumpolar Council Canada",
+      "documentDate": "Undated institutional account",
+      "reviewDate": "2026-10-21",
+      "scope": "Actual Our Story section read; no embedded video reviewed.",
+      "limits": "Circumpolar organizational and people connection; not a claim that ICC Canada is the government or exclusive representative of Greenland."
+    },
+    {
+      "sourceUrl": "https://www.federalregister.gov/documents/2018/04/04/2018-06832/notice-of-inventory-completion-west-virginia-division-of-culture-and-history-charleston-wv",
+      "title": "Notice of Inventory Completion: West Virginia Division of Culture and History, Charleston, WV",
+      "publisher": "National Park Service notice, Federal Register",
+      "documentDate": "4 April 2018; 83 FR 14498",
+      "reviewDate": "2026-10-21",
+      "scope": "Actual Summary, Supplementary Information, Consultation and initial determinations read.",
+      "mapUse": "Excluded as proof of affiliation/residence",
+      "limits": "The notice expressly states no cultural affiliation was established. A consultation invitation or possible transfer recipient is not proof of a homeland, residence or descent connection. No funerary details reproduced."
+    }
+  ],
+  "accessLimitsAndGaps": [
+    {
+      "sourceUrl": "https://www.iwgia.org/en/news/iw-2026-kalaallit-nunaat-greenland?lang=en",
+      "result": "Renewed web open yielded zero text. Ordinary urllib retrieval produced only a shell/comment. No credentials, certificate bypass or challenge interaction attempted.",
+      "nextStep": "Original country-report text or an accessible full publication is still needed for its detailed regional-name distinctions."
+    },
+    {
+      "sourceUrl": "https://archive.wvculture.org/history/archives/indians/indland.html",
+      "result": "State historical teaching page indexed with geographic passages, but both case variants returned 502 through web; ordinary HTTPS retrieval failed with SSL unexpected EOF. Indexed passages were not promoted to actual-content map evidence.",
+      "nextStep": "An accessible state-hosted copy can later test specific Shawnee/Delaware village statements."
+    },
+    {
+      "sourceUrl": "https://www.wycowv.gov/history",
+      "result": "County historical portal surfaced, but not used as a core geography authority in this batch.",
+      "nextStep": "No map association derived from place-name origin or a county's general frontier narrative."
+    },
+    {
+      "topic": "Greenland regional names",
+      "gap": "No separate Inughuit, Tunumiit or other regional identity mapping is inferred from Kalaallit. Source-specific language and community review remain needed."
+    },
+    {
+      "topic": "West Virginia present communities",
+      "gap": "The three proposed links are historical, not claims about today's tribal governments, recognition, population or residential geography."
+    }
+  ],
+  "profileSourceFlags": [
+    {
+      "originalId": 215,
+      "name": "Mingo",
+      "sourceId": "p215-s3",
+      "url": "https://home.nps.gov/places/pueblo-of-santo-domingo-kewa-pueblo.htm",
+      "finding": "Existing canonical card concerns Kewa Pueblo in New Mexico and is unrelated to Mingo. Flagged for root review only; no profile edit made."
+    }
+  ],
+  "notes": [
+    "Five proposed records: three new historical West Virginia links, one new broad Inuit/Greenland link and one replacement evidence record for existing Kalaallit/Greenland.",
+    "Exact existing IDs/names retained; Kalaallit is the existing added profile without originalId.",
+    "Only this scratch JSON was written. No canonical, Site, build, publication or contact action.",
+    "No present figures, legal conclusions, sacred locations, burial details, ceremony instructions or images are copied."
+  ]
+}

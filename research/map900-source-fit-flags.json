@@ -1,0 +1,515 @@
+{
+  "reviewedAt": "2026-10-21",
+  "status": "Bounded independent editorial QA; proposed fixes only",
+  "scope": {
+    "canonicalRead": "The11 profiles from map900-remaining-2.json, plus Mingo215 already flagged in the WV draft:12 profiles/29 legacy cards. No broad source audit.",
+    "draftsRead": [
+      "work/map900-remaining-2.json",
+      "work/map900-hawaii.json",
+      "work/map900-wv-greenland.json",
+      "work/map900-root.json (context only; its wider route collection not audited)"
+    ],
+    "canonicalEdits": false
+  },
+  "removalCandidates": [
+    {
+      "originalId": 262,
+      "name": "Ofo",
+      "sourceId": "p262-s3",
+      "severity": "high",
+      "category": "Different people and government",
+      "recommendedAction": "Remove this card from this profile and remove its section sourceIds references; retain any needed URL in an explicitly unreviewed lead ledger rather than silently treating it as inspected research.",
+      "reason": "The exact card identifies Iowa Tribe of Oklahoma, not Ofo. Its annotation presents it as an Indigenous/community perspective on Ofo without establishing any relationship.",
+      "inspection": "Exact canonical title/URL and Ofo profile compared; no full Iowa page inspection claimed in this pass.",
+      "exactRemovedCandidateObject": {
+        "id": "p262-s3",
+        "title": "Iowa Tribe of Oklahoma - Perkins, OK | Tribe Story - Tribe Act",
+        "publisher": "tribeact.com",
+        "url": "https://www.tribeact.com/Tribe/Profile/238/IowaTribeofOklahoma",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "History"
+        ],
+        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Iowa Tribe of Oklahoma - Perkins, OK | Tribe Story - Tribe Act” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+        "accessed": "2026-10-19"
+      },
+      "replacementSourceId": "p262-map-support"
+    },
+    {
+      "originalId": 246,
+      "name": "Neutral Nation",
+      "sourceId": "p246-s2",
+      "severity": "high",
+      "category": "Directions/business-directory page mistaken for historical evidence",
+      "recommendedAction": "Remove this card from this profile and remove its section sourceIds references; retain any needed URL in an explicitly unreviewed lead ledger rather than silently treating it as inspected research.",
+      "reason": "The actual page supplies the Museum of Ontario Archaeology's address, directions, opening hours and contact details. Attawandaron occurs in its street address; that address is not evidence about Neutral Nation identity or history.",
+      "inspection": "Direct HTML read: map/contact/location/business details. No Neutral history is presented on this page.",
+      "exactRemovedCandidateObject": {
+        "id": "p246-s2",
+        "title": "Map to Museum of Ontario Archaeology located at 1600 Attawandaron Road , London, Ontario, N6G 3M6 Canada",
+        "publisher": "museum-of-ontario-archaeology-london.londonontariodirect.ca",
+        "url": "https://museum-of-ontario-archaeology-london.londonontariodirect.ca/map/",
+        "type": "Museum / archive",
+        "topics": [
+          "Identity",
+          "History",
+          "Contemporary life"
+        ],
+        "annotation": "Historical context for this entry. Read “Map to Museum of Ontario Archaeology located at 1600 Attawandaron Road , London, Ontario, N6G 3M6 Canada” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+        "accessed": "2026-10-19"
+      },
+      "replacementSourceId": "p246-map-support"
+    },
+    {
+      "originalId": 246,
+      "name": "Neutral Nation",
+      "sourceId": "p246-s3",
+      "severity": "high",
+      "category": "Administrative deposit checklist mistaken for people/history source",
+      "recommendedAction": "Remove this card from this profile and remove its section sourceIds references; retain any needed URL in an explicitly unreviewed lead ledger rather than silently treating it as inspected research.",
+      "reason": "The two-page PDF is an archaeological collection-transfer and packaging checklist. Its Attawandaron Road header is the museum's address, not a historical account of the Neutral Nation.",
+      "inspection": "Direct two-page PDF text inspected: deposit conditions, associated records and packaging requirements.",
+      "exactRemovedCandidateObject": {
+        "id": "p246-s3",
+        "title": "1600 Attawandaron Road • London, ON • N6G 3M6",
+        "publisher": "archaeologymuseum.ca",
+        "url": "https://archaeologymuseum.ca/wp-content/uploads/2023/07/MOA_Deposit_Checklist_2020.pdf",
+        "type": "Museum / archive",
+        "topics": [
+          "Identity",
+          "History",
+          "Contemporary life"
+        ],
+        "annotation": "Historical context for this entry. Read “1600 Attawandaron Road • London, ON • N6G 3M6” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+        "accessed": "2026-10-19"
+      },
+      "replacementSourceId": "p246-map-support"
+    },
+    {
+      "originalId": 243,
+      "name": "Nauset",
+      "sourceId": "p243-s1",
+      "severity": "medium",
+      "category": "Trail logistics mistaken for Nauset identity evidence",
+      "recommendedAction": "Remove this card from this profile and remove its section sourceIds references; retain any needed URL in an explicitly unreviewed lead ledger rather than silently treating it as inspected research.",
+      "reason": "The short page describes a walking trail, distances, physical conditions and visitor-center location. It does not describe the Nauset people. It should not supply the profile's sole Identity and context citation.",
+      "inspection": "Direct complete short NPS trail page inspected, substantive lines24–29.",
+      "exactRemovedCandidateObject": {
+        "id": "p243-s1",
+        "title": "Nauset Marsh Trail - Cape Cod National Seashore (U.S. National Park Service)",
+        "publisher": "nps.gov",
+        "url": "https://www.nps.gov/caco/planyourvisit/nauset-marsh-trail.htm",
+        "type": "Government",
+        "topics": [
+          "Identity",
+          "History",
+          "Contemporary life"
+        ],
+        "annotation": "Historical context for this entry. Read “Nauset Marsh Trail - Cape Cod National Seashore (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+        "accessed": "2026-10-19"
+      },
+      "replacementSourceId": "p243-map-support"
+    },
+    {
+      "originalId": 261,
+      "name": "Oconee",
+      "sourceId": "p261-s1",
+      "severity": "medium",
+      "category": "Modern county history mistaken for Oconee people evidence",
+      "recommendedAction": "Remove this card from this profile and remove its section sourceIds references; retain any needed URL in an explicitly unreviewed lead ledger rather than silently treating it as inspected research.",
+      "reason": "The article concerns a county created in 1875, modern towns and buildings, and a river-name etymology. It does not identify the Oconee Lower Creek community. This is an authoritative article about a different subject, not evidence for the people-level identity section.",
+      "inspection": "Direct complete article body inspected, lines75–95 and source metadata. The river-name sentence alone does not establish a people connection.",
+      "exactRemovedCandidateObject": {
+        "id": "p261-s1",
+        "title": "Oconee County - New Georgia Encyclopedia",
+        "publisher": "georgiaencyclopedia.org",
+        "url": "https://www.georgiaencyclopedia.org/articles/counties-cities-neighborhoods/oconee-county/",
+        "type": "Academic / reference",
+        "topics": [
+          "Identity",
+          "History",
+          "Contemporary life"
+        ],
+        "annotation": "Historical context for this entry. Read “Oconee County - New Georgia Encyclopedia” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+        "accessed": "2026-10-19"
+      },
+      "replacementSourceId": "p261-map-support"
+    },
+    {
+      "originalId": 215,
+      "name": "Mingo",
+      "sourceId": "p215-s3",
+      "severity": "high",
+      "category": "Different people and government",
+      "recommendedAction": "Remove this card from this profile and remove its section sourceIds references; retain any needed URL in an explicitly unreviewed lead ledger rather than silently treating it as inspected research.",
+      "reason": "The exact card concerns Kewa Pueblo/Santo Domingo in New Mexico. It is not a Mingo/Ohio Valley community account. This confirms the independently raised mismatch in the WV/Greenland packet.",
+      "inspection": "Canonical source title/URL compared with profile subject and independently inspected e-WV Mingo article; no claim of re-reading the Kewa article here.",
+      "exactRemovedCandidateObject": {
+        "id": "p215-s3",
+        "title": "New Mexico: Pueblo of Santo Domingo (Kewa Pueblo) (U.S. National Park Service)",
+        "publisher": "home.nps.gov",
+        "url": "https://home.nps.gov/places/pueblo-of-santo-domingo-kewa-pueblo.htm",
+        "type": "Government",
+        "topics": [
+          "Identity",
+          "History",
+          "Contemporary life"
+        ],
+        "annotation": "Historical context for this entry. Read “New Mexico: Pueblo of Santo Domingo (Kewa Pueblo) (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+        "accessed": "2026-10-19"
+      },
+      "replacementSourceId": "p215-map-support"
+    }
+  ],
+  "replacementSupportingCards": [
+    {
+      "originalId": 241,
+      "name": "Natchez",
+      "action": "Add/reuse a narrow supporting card; preserve both existing sources with corrected scope.",
+      "card": {
+        "id": "p241-map-support",
+        "title": "The Natchez Indians — Natchez National Historical Park",
+        "publisher": "National Park Service",
+        "url": "https://www.nps.gov/natc/learn/historyculture/indians.htm",
+        "type": "Government",
+        "topics": [
+          "Geography",
+          "Historical context"
+        ],
+        "annotation": "Brief park history explicitly connects Natchez ancestors and communities with southwest Mississippi. Used for historical geography only. Its sweeping departure and near-annihilation language is not adopted as an account of continuing Natchez identities or rights.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Complete short article read; map citation uses opening geography and historical mound-center paragraphs. Updated August16,2024.",
+        "countsTowardMinimum": false
+      },
+      "proposedSection": {
+        "title": "A historical Mississippi connection",
+        "text": "Natchez historical communities are explicitly connected with southwest Mississippi in the park's account. This is a regional reading route, rather than a limit on the geography or identity of later descendant communities.",
+        "sourceIds": [
+          "p241-map-support",
+          "p241-s3"
+        ]
+      }
+    },
+    {
+      "originalId": 246,
+      "name": "Neutral Nation",
+      "action": "Use accessible direct museum interpretation in place of unrelated direction/checklist cards; retain the directly relevant research-collection announcement.",
+      "card": {
+        "id": "p246-map-support",
+        "title": "Sho’aríshon Park — The Neutral Nation",
+        "publisher": "Lincoln Museum & Cultural Centre",
+        "url": "https://lincolnmuseum.ca/visit/shoarishon-park",
+        "type": "Museum / archive",
+        "topics": [
+          "Geography",
+          "Historical context"
+        ],
+        "annotation": "Municipal museum interpretation locates historical Neutral communities in the Lincoln/Niagara landscape and discusses the uncertainty of historical naming. Used for broad historical geography; contemporary park art and Mohawk spelling are not presented as universal historical Neutral practices.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Direct HTML historical introduction, The Neutral Nation paragraphs and Location section read. No archaeological coordinates, ceremony instructions or images reused.",
+        "countsTowardMinimum": false
+      },
+      "proposedSection": {
+        "title": "Historical naming and an Ontario connection",
+        "text": "The museum's historical account connects the Neutral Nation with the Lincoln area in Ontario and explains that Neutral Nation and Attawandaron are historical names. This account does not establish a single present government or the disappearance of descendants.",
+        "sourceIds": [
+          "p246-map-support",
+          "p246-s1"
+        ]
+      }
+    },
+    {
+      "originalId": 243,
+      "name": "Nauset",
+      "action": "Replace trail page's identity-citation role. Keep uninspected building-report catalogue leads separate until people-specific content is actually reviewed.",
+      "card": {
+        "id": "p243-map-support",
+        "title": "Nauset Indians",
+        "publisher": "Town of Eastham, Massachusetts",
+        "url": "https://www.eastham-ma.gov/468/Nauset-Indians",
+        "type": "Government",
+        "topics": [
+          "Geography",
+          "Historical context"
+        ],
+        "annotation": "A short municipal page reproduces an older account explicitly locating Nauset people on Cape Cod in Massachusetts. Used only for historical place connection; dated population and disappearance assertions and its political subordination wording are not adopted.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Complete five-paragraph body inspected. Opening geography and principal-village sentence support the connection.",
+        "countsTowardMinimum": false
+      },
+      "proposedSection": {
+        "title": "A Cape Cod historical connection",
+        "text": "The town's historical account places Nauset communities on Cape Cod in Massachusetts. Its historical naming provides a route into further research; older outsider summaries require comparison with community histories and later Wampanoag relationships.",
+        "sourceIds": [
+          "p243-map-support"
+        ]
+      }
+    },
+    {
+      "originalId": 261,
+      "name": "Oconee",
+      "action": "Replace modern county article's identity-citation role with an actually inspected Oconee community passage; retain archaeological society history and focused UGA catalogue lead with their own limits.",
+      "card": {
+        "id": "p261-map-support",
+        "title": "An Analysis of Historic Creek and Seminole Settlement Patterns, Town Design, and Architecture: The Paynes Town Seminole Site (8AL366), a Case Study",
+        "publisher": "University of Florida; Jane Anne Blakney-Bailey",
+        "url": "https://ufdcimages.uflib.ufl.edu/uf/e0/02/17/40/00001/blakneybailey_j.pdf",
+        "type": "Academic / reference",
+        "topics": [
+          "Geography",
+          "Historical context"
+        ],
+        "annotation": "The2007 dissertation's Oconee Old Town subsection places a historical Lower Creek community in Georgia and describes uncertainty in archaeological identification. Only that focused section supports this card; the whole dissertation has not been reviewed.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Title/date, Chapter3 introduction printed p42, and Oconee Old Town subsection pp51–52 actually read.",
+        "countsTowardMinimum": false
+      },
+      "proposedSection": {
+        "title": "One historical Oconee community",
+        "text": "Blakney-Bailey describes an Oconee Lower Creek community in Georgia around1690 and treats the proposed archaeological identification as likely. This is one documented use of the name; it should not combine every similarly named southeastern community.",
+        "sourceIds": [
+          "p261-map-support",
+          "p261-s2"
+        ]
+      }
+    },
+    {
+      "originalId": 262,
+      "name": "Ofo",
+      "action": "Replace Iowa card with an Ofo-specific descendant connection; preserve the direct Ofo dictionary and wordlist cards.",
+      "card": {
+        "id": "p262-map-support",
+        "title": "Our Culture",
+        "publisher": "Tunica-Biloxi Tribe of Louisiana",
+        "url": "https://www.tunicabiloxi.org/culture/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Geography",
+          "Historical context"
+        ],
+        "annotation": "The Tribe names Ofo among its ancestral constituent peoples and describes its Louisiana location. This supports a specific descendant-community connection through a shared government, without treating Ofo, Tunica and Biloxi as interchangeable identities.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Complete short culture page read, especially succession, constituent-peoples and Marksville-area reservation paragraphs.",
+        "countsTowardMinimum": false
+      },
+      "proposedSection": {
+        "title": "A descendant-community connection",
+        "text": "The Tunica-Biloxi Tribe identifies Ofo among its ancestral constituents. This gives readers a specific descendant connection in Louisiana while keeping the historical peoples and the present shared government distinct.",
+        "sourceIds": [
+          "p262-map-support"
+        ]
+      }
+    },
+    {
+      "originalId": 215,
+      "name": "Mingo",
+      "action": "Replace Kewa card with the inspected naming/history reference. Keep Seneca-Cayuga Nation's own site as a distinct descendant-government reading path.",
+      "card": {
+        "id": "p215-map-support",
+        "title": "Mingo",
+        "publisher": "West Virginia Humanities Council; John Alexander Williams",
+        "url": "https://www.wvencyclopedia.org/entries/1771",
+        "type": "Academic / reference",
+        "topics": [
+          "Geography",
+          "Historical context"
+        ],
+        "annotation": "Short specialist account explains changing outside uses of Mingo and mixed Ohio Valley communities. It documents conflict involving West Virginia settlements while locating many participants' home villages in Pennsylvania or Ohio. It is not evidence for a single Mingo language, government or exclusive homeland.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Complete short article read, especially naming and West Virginia conflict paragraphs. Last revised April25,2024.",
+        "countsTowardMinimum": false
+      },
+      "proposedSection": {
+        "title": "A historical name and regional activity",
+        "text": "The historical Mingo label had changing uses in the Ohio Valley. The specialist account connects people so described with activity involving West Virginia settlements while distinguishing those events from participants' home villages in Pennsylvania and Ohio.",
+        "sourceIds": [
+          "p215-map-support"
+        ]
+      }
+    }
+  ],
+  "retainWithScopeCorrections": [
+    {
+      "originalId": 241,
+      "sourceId": "p241-s2",
+      "finding": "Not plainly unrelated. The actual Choctaw article includes a specific paragraph about Choctaw/French conflict with Natchez people.",
+      "inspection": "Direct HTML substantive lines24–31, especially line28.",
+      "recommendation": "Retain as limited relationship context, annotate that its principal subject is Choctaw history, and avoid using it as the sole Natchez identity/current-community source. Do not repeat its sweeping near-destruction narrative or its unverified Choctaw-recognition total.",
+      "proposedAnnotation": "Choctaw-focused park history includes a brief account of conflict involving Natchez people. Useful for that relationship context; it is not a general Natchez history or a source for present Natchez institutions.",
+      "correctionToEarlierScratch": "The 'unrelated Choctaw source' exclusion in map900-remaining-2.json was too broad and should not be adopted."
+    },
+    {
+      "originalId": 241,
+      "sourceId": "p241-s3",
+      "finding": "Directly relevant regional public history, not merely the Natchez Trace place name.",
+      "inspection": "Direct body lines22–25 explicitly names Natchez homelands and regional trade/travel.",
+      "recommendation": "Retain and sharpen annotation to its actual Natchez geography/history paragraphs. No new deep-research count is implied."
+    },
+    {
+      "originalId": 242,
+      "sourceId": "p242-s3",
+      "finding": "Useful substantive historical context despite the visitors-bureau title.",
+      "inspection": "Direct HTML lines43–47 explicitly discusses the Natchitoches confederacy, traditional homeland, trails and Caddo/colonial relationships.",
+      "recommendation": "Retain as NPS regional historical context. It is not a present tribal-government source or evidence that all Caddo communities are the same government.",
+      "proposedAnnotation": "Although framed as a visitor-information place page, its historical paragraphs describe the Natchitoches confederacy, homeland and trails that became part of El Camino Real. Useful colonial/regional context; not a source for current tribal citizenship, government or recognition."
+    },
+    {
+      "originalId": 246,
+      "sourceId": "p246-s1",
+      "finding": "Genuinely relevant announcement about a Neutral Nation research collection with an explicit southern Ontario/Niagara historical paragraph.",
+      "inspection": "Full indexed substantive article read; direct municipal fetch failed. Direct museum interpretation separately read.",
+      "recommendation": "Retain as a short supporting reference, with direct-access limitation and municipal-museum publisher scope; do not count unread books in the collection as inspected sources."
+    },
+    {
+      "originalId": 257,
+      "sourceIds": [
+        "p257-s1",
+        "p257-s2",
+        "p257-s3"
+      ],
+      "finding": "The presence of two contemporary Nottoway governments is not a source mismatch within this broad directory name.",
+      "recommendation": "Retain community-specific labels. Cheroenhaka (Nottoway) and Nottoway Indian Tribe of Virginia must not be presented as one government."
+    },
+    {
+      "originalId": 245,
+      "sourceIds": [
+        "p245-s1",
+        "p245-s2"
+      ],
+      "finding": "Plains Cree material and a Plains Cree language-policy translation are relevant to this overlapping naming access point, albeit with different scope.",
+      "recommendation": "Do not discard them as wrong. The translated Act is a language/policy specimen, not evidence for a complete ethnic history or a distinct government."
+    },
+    {
+      "originalId": 262,
+      "sourceIds": [
+        "p262-s1",
+        "p262-s2"
+      ],
+      "finding": "A Biloxi-and-Ofo dictionary and Ofo wordlist directly concern the named language.",
+      "recommendation": "Retain. Linguistic documentation must not be read as proof that the people or descendants disappeared; full works were not newly reviewed in this bounded editorial pass."
+    },
+    {
+      "originalId": 231,
+      "sourceIds": [
+        "p231-s1",
+        "p231-s2"
+      ],
+      "finding": "Stockbridge-Munsee community materials are legitimate community-specific reading paths for Munsee.",
+      "recommendation": "Retain, with government scope explicit. The large Williamstown PDF was not successfully read in this pass, so do not newly promote its content-inspection status."
+    },
+    {
+      "originalId": 258,
+      "sourceIds": [
+        "p258-s1"
+      ],
+      "finding": "The British Columbia council listing concerns the correct collective institution.",
+      "recommendation": "Retain as an institutional reference; a short directory is not a full people-level history."
+    },
+    {
+      "originalId": 260,
+      "sourceIds": [
+        "p260-s1",
+        "p260-s2"
+      ],
+      "finding": "The named workshop and women's land-history article concern Sutiaba directly.",
+      "recommendation": "No plainly wrong card identified. Actual full content of the journal article was not re-audited here; relevance is not a fresh content-review claim."
+    },
+    {
+      "originalId": 261,
+      "sourceIds": [
+        "p261-s2",
+        "p261-s3"
+      ],
+      "finding": "The archaeological society history and focused UGA Oconee Old Town report catalogue concern the correct historical topic.",
+      "recommendation": "Retain. The catalogue identifies a relevant research lead, but does not mean its full report was read."
+    }
+  ],
+  "pendingFitReview": [
+    {
+      "originalId": 243,
+      "sourceId": "p243-s2",
+      "exactCandidateObject": {
+        "id": "p243-s2",
+        "title": "Nauset Light Area: Cultural Landscapes Inventory, Cape Cod… — NPS DataStore",
+        "publisher": "irmadev.nps.gov",
+        "url": "https://irmadev.nps.gov/DataStore/Reference/Profile/2236009",
+        "type": "Government",
+        "topics": [
+          "Identity",
+          "Culture"
+        ],
+        "annotation": "Context and further reading linked for this entry. The publisher’s “Nauset Light Area: Cultural Landscapes Inventory, Cape Cod… — NPS DataStore” is a starting point; verify the geographical and community scope before applying its account more broadly.",
+        "accessed": "2026-10-19"
+      },
+      "inspection": "Actual NPS catalogue record and abstract read; full2025 report not inspected.",
+      "finding": "Catalogue abstract concerns lighthouses, keeper's buildings, cable infrastructure and a managed coastal landscape, not Nauset people. The full inventory may contain Indigenous historical background; that has not been checked.",
+      "recommendation": "Move to explicitly unread leads or relabel as site-management background outside substantive counts. Do not claim that the complete report has no Indigenous content."
+    },
+    {
+      "originalId": 243,
+      "sourceId": "p243-s3",
+      "exactCandidateObject": {
+        "id": "p243-s3",
+        "title": "Historic Structure Report: U.S. Coast Guard Nauset Station… — NPS DataStore",
+        "publisher": "irmadev.nps.gov",
+        "url": "https://irmadev.nps.gov/DataStore/Reference/Profile/2191074",
+        "type": "Government",
+        "topics": [
+          "Identity",
+          "History"
+        ],
+        "annotation": "Historical context for this entry. Read “Historic Structure Report: U.S. Coast Guard Nauset Station… — NPS DataStore” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+        "accessed": "2026-10-19"
+      },
+      "inspection": "Actual NPS catalogue record and abstract read; full2008 report not inspected.",
+      "finding": "Catalogue abstract concerns preservation/treatment of a1936 Coast Guard dwelling and boathouse, with a1933–1958 period of significance. This is not itself Nauset identity evidence.",
+      "recommendation": "Move to explicitly unread leads or relabel narrowly outside substantive counts. Do not infer that the entire report contains no Nauset references."
+    }
+  ],
+  "independentDraftReview": {
+    "nativeHawaiian": {
+      "result": "No material identity or source-scope misstatement found in the proposed guide.",
+      "checked": [
+        "The guide distinguishes Native Hawaiian identity from all state residents, a particular program definition and any single institution.",
+        "Its scope note correctly keeps Hawaiʻi a Pacific archipelago rather than recategorizing it as continental North America.",
+        "The1993 resolution text was independently opened: operative apology at107 Stat1513, instrument-specific definition in section2 on1513, non-settlement disclaimer in section3 on1514, approval November23,1993. These match the draft.",
+        "OHA is described as a state agency rather than a sovereign government; place-specific education/stewardship accounts are attributed. Four substantive collections plus one supporting item are candidly labeled source-guide."
+      ],
+      "limits": "The three community-organization pages and UH naming item were evaluated against the saved inspection scope/proposed text, not independently re-fetched in this limited pass. No exhaustive legal/history review is claimed."
+    },
+    "westVirginia": {
+      "result": "No material claim-scope misstatement found in the geographic draft.",
+      "checked": [
+        "Independent full e-WV Mingo read confirms explicit West Virginia conflict connection and Pennsylvania/Ohio home-village distinction; the draft preserves that difference.",
+        "Shawnee routes are stated as historical activity and influence, not exclusive territory or current government location.",
+        "Susquehannock displacement is expressly tentative and community-attributed; the draft does not turn that source into a verified legal or continuous-settlement conclusion.",
+        "The unrelated Mingo/Kewa legacy card is a genuine fix and is included with its exact object above."
+      ],
+      "limits": "The Shawnee and Susquehannock underlying passages were not freshly re-opened in this pass; their drafted source attribution, inspection notes and uncertainty were checked."
+    },
+    "greenland": {
+      "result": "No material identity/geography misstatement found in the proposed replacement route.",
+      "checked": [
+        "Independent direct read of Visit Greenland section5 confirms Kalaallit/Greenlandic Inuit geographic wording, and its footer identifies Government of Greenland ownership.",
+        "The draft does not copy the page's dated percentages, conflate every resident with Kalaallit, or infer separate regional identities.",
+        "ICC is kept a circumpolar organization, not the government of Greenlandic communities."
+      ],
+      "limits": "The tourism source is a narrow popular geography introduction with broad terminology; it should remain supporting rather than authoritative for all regional self-designations. ICC's source text was not independently re-opened in this pass."
+    }
+  },
+  "integrationNotes": [
+    "Deduplicate proposed supporting cards against any map-support cards root has already added by URL. IDs here are suggestions; do not duplicate an existing exact work.",
+    "Any removed sourceId must also be removed/replaced in section sourceIds arrays. Rebuild should catch dangling citations.",
+    "All replacement cards are countsTowardMinimum:false; this bounded map/editorial pass is not a twelve-source deep-profile phase.",
+    "Keep every owner-supplied URL in the separate lead ledger if applicable. Removing a wrong source card does not require erasing its provenance.",
+    "The earlier Natchez 'unrelated' characterization is explicitly corrected above. Useful Natchitoches place-page history is retained rather than discarded based on its title.",
+    "Six removal candidates are scoped to source fit: three unequivocal document/people mismatches, one unrelated people card already raised in the WV draft, and two visitor/county pages wrongly supplying identity citations. No other canonical sources were edited."
+  ]
+}

@@ -1,3 +1,11 @@
+## Current owner authorization and priority — October 21, 2026
+
+The owner has added credits. The account balance was verified at 1,000 and the owner authorizes up to 900 of those credits for useful Atlas work, preserving at least 100. This is one cumulative authorization, not a fresh allowance every run. Check the shared balance before each batch/delegation and at publication checkpoints; stop research conservatively before the reserve is threatened. Do not buy credits or use manual reset credits. Read work/atlas-900-credit-authorization.json and work/atlas-credit-budget.json. Earlier low-credit holds and smaller credit caps are superseded by this authorization. Use ordinary allowance when available; do not manufacture spending merely to reach 900.
+
+Keep the weekly conservation rule: stop substantive work at about 85% consumed except within the final 48 hours before that weekly reset, when small batches above 85% are permitted while preserving a finishing reserve. Identify the weekly window by 10,080 minutes and evaluate actual reset time independently of the shorter window. Missing weekly data does not mean zero usage.
+
+Immediate map priorities are Hawaii, Belize, West Virginia and Greenland, with map → regional names → directory links working clearly. The current audit found no Hawaii, Belize or West Virginia connections; Greenland already links Kalaallit. Verify missing peoples before adding directory access points, including a proposed Native Hawaiian entry. Complete remaining existing-entry map connections, then prioritize originals from the fifteen supplied Word studies and resume A-first source research. Cosmetics remain later. Preserve the four-record Coahuiltecan/Mojave draft in work/map-final-credit-draft.json for the next merge.
+
 
 ## Current credit authorization — October 21, 2026
 
@@ -98,3 +106,7 @@ After the map milestone, prioritize the public URLs from the supplied Word studi
 
 The owner's renewed request to continue permits a small follow-up within the unspent portion of the existing additional 100-credit ceiling; it does not create another 100-credit allowance. Preserve the original baseline and account floor, reserve enough for publication, then checkpoint until ordinary availability or further owner direction. The existing public audience remains unchanged.
 
+
+Latest owner priority: review Hawaii, Belize, West Virginia and Greenland region results first. Ensure map→name→directory navigation works and add well-supported missing directory peoples where needed. Existing directory connections remain first; next deeper profile/source work follows, with cosmetics later. New draft evidence for Coahuiltecan (Texas/Mexico) and Mojave (California/Arizona) is saved in work/map-final-credit-draft.json; it is NOT merged or published. Preserve it for the next source-opening flow.
+
+Latest owner usage rule: use available weekly allowance steadily across the week, with an ordinary85%-consumed stopping threshold. Within the final48 hours before the weekly reset, the owner permits going above85%; use small batches and preserve a finishing reserve rather than deliberately exhaust the weekly window. A shorter-window reset does not release a weekly hold. Check actual10080-minute window/reset timestamps and account-wide usage before work. Do not purchase credits or consume reset credits. Prioritize Hawaii, Belize, West Virginia and Greenland map results before broader map completion and source research.

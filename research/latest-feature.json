@@ -1,13 +1,21 @@
 {
   "date": "2026-10-21",
-  "feature": "Remaining-entry map connections and two source-fit corrections",
+  "feature": "Priority-region map routes and remaining-entry evidence",
   "status": "Prepared",
-  "baselineSource": "9768d62492a928a2bdce61da7b4156a851465f47",
-  "priorConnectionRecords": 429,
-  "currentConnectionRecords": 485,
-  "profileCorrections": [
-    "Eno",
-    "Erie"
+  "baselineSource": "d3f5eaf7243e5188f6219e175cb87b1232c31477",
+  "previousConnections": 485,
+  "currentConnections": 563,
+  "newAccessPoint": "Native Hawaiian (Kānaka Maoli)",
+  "correctedProfiles": [
+    "Mingo",
+    "Mobile",
+    "Piscataway",
+    "Pensacola",
+    "Ofo",
+    "Neutral Nation",
+    "Nauset",
+    "Oconee"
   ],
-  "noDepthPromotion": true
+  "quantityNotCompletion": true,
+  "sourceFitCardsRemoved": 10
 }
