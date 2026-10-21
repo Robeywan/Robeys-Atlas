@@ -1,0 +1,350 @@
+{
+  "originalId": 14,
+  "name": "Anishinaabe",
+  "reviewedAt": "2026-10-21",
+  "assessment": "PASS: no material correction requested after latest canonical scope-spacing normalization. Fourteen cards, thirteen substantive work-level units and fourteen sections match; all source-derived budgets remain below200words including the cited overview.",
+  "auditScope": "Read-only review of canonical profile14 against four supplied research packets and two cross-audits. No new web research, Site/canonical edits, contacts or delegation.",
+  "profilePath": "work/nations-atlas/data/profiles.json",
+  "profileSnapshotSha256": "ec2ab74648d61a76d85a2c3d8ae995cc1bb9f52294b884ef5e56bc9f547f800b",
+  "inputs": [
+    "work/anishinaabe-community-14-20261021.json",
+    "work/anishinaabe-ontario-14-20261021.json",
+    "work/anishinaabe-language-14-20261021.json",
+    "work/anishinaabe-ecology-14-20261021.json",
+    "work/anishinaabe-community-ontario-audit-14-20261021.md",
+    "work/anishinaabe-ecology-language-audit-14-20261021.md"
+  ],
+  "findings": [],
+  "unresolvedFindingCount": 0,
+  "counts": {
+    "sourceCards": 14,
+    "substantiveWorks": 13,
+    "supportingCards": 1,
+    "sections": 14,
+    "allCountFlagsExplicit": true,
+    "duplicateSourceIds": 0,
+    "missingSectionCitations": [],
+    "missingOverviewCitations": [],
+    "uncitedCards": []
+  },
+  "packetSourceComparisons": [
+    {
+      "packet": "community",
+      "packetId": "an14-c1",
+      "canonicalId": "p14-s2",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "community",
+      "packetId": "an14-c2",
+      "canonicalId": "an14-c2",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "community",
+      "packetId": "an14-c3",
+      "canonicalId": "an14-c3",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "community",
+      "packetId": "an14-c4",
+      "canonicalId": "an14-c4",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ontario",
+      "packetId": "p14-s1",
+      "canonicalId": "p14-s1",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ontario",
+      "packetId": "p14-s3",
+      "canonicalId": "p14-s3",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ontario",
+      "packetId": "an14-o3",
+      "canonicalId": "an14-o3",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ontario",
+      "packetId": "an14-o4",
+      "canonicalId": "an14-o4",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "language",
+      "packetId": "p14-s6",
+      "canonicalId": "p14-s6",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "language",
+      "packetId": "an14-l2",
+      "canonicalId": "an14-l2",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ecology",
+      "packetId": "an14-e1",
+      "canonicalId": "p14-s4",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ecology",
+      "packetId": "an14-e2",
+      "canonicalId": "p14-s5",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ecology",
+      "packetId": "an14-e3",
+      "canonicalId": "an14-e3",
+      "present": true,
+      "bibliographicDifferences": {}
+    },
+    {
+      "packet": "ecology",
+      "packetId": "an14-e4",
+      "canonicalId": "an14-e4",
+      "present": true,
+      "bibliographicDifferences": {}
+    }
+  ],
+  "originalSixUrlChecks": [
+    {
+      "sourceId": "p14-s1",
+      "retainedUrl": "https://anishinabek.ca/about-us/",
+      "matchesRenewalPacketUrl": true,
+      "retainedAs": "primary source-card URL"
+    },
+    {
+      "sourceId": "p14-s2",
+      "retainedUrl": "https://www.potawatomi.org/blog/2018/03/08/prophetic-wisdom-the-first-of-11-new-exhibits-the-seven-fires-sets-tribe-on-path-to-its-future/",
+      "matchesRenewalPacketUrl": true,
+      "retainedAs": "primary source-card URL"
+    },
+    {
+      "sourceId": "p14-s3",
+      "retainedUrl": "https://www.anishinabek.ca/wp-content/uploads/2016/05/Anishinaabe-Chi-Naaknigewin-modified.pdf",
+      "matchesRenewalPacketUrl": true,
+      "retainedAs": "primary source-card URL"
+    },
+    {
+      "sourceId": "p14-s4",
+      "retainedUrl": "https://glifwc.org/about-us/commission",
+      "matchesRenewalPacketUrl": true,
+      "retainedAs": "primary source-card URL"
+    },
+    {
+      "sourceId": "p14-s5",
+      "retainedUrl": "https://glifwc.org/language-culture/indigenous-knowledge",
+      "matchesRenewalPacketUrl": true,
+      "retainedAs": "primary source-card URL"
+    },
+    {
+      "sourceId": "p14-s6",
+      "retainedUrl": "https://ojibwe.lib.umn.edu/about-ojibwe-language",
+      "matchesRenewalPacketUrl": true,
+      "retainedAs": "primary source-card URL"
+    }
+  ],
+  "wordCountMethod": "Whitespace-delimited count of each source annotation, contentReviewScope, all inspectedSubresources.scope text, every full section citing the source and the full overview where overviewSourceIds cites it. Multi-source prose is charged in full to each cited work. Latest canonical was reread after the parent normalized spacing. Bibliographic strings, source titles and original administrative rights/limit notes are not source-derived body prose.",
+  "overviewWords": 36,
+  "overviewSourceIds": [
+    "an14-c2",
+    "an14-c3"
+  ],
+  "wordBudgets": [
+    {
+      "sourceId": "an14-c2",
+      "annotationWords": 41,
+      "scopeWords": 22,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 75,
+      "citedOverviewWords": 36,
+      "totalWords": 174,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-c3",
+      "annotationWords": 49,
+      "scopeWords": 22,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 78,
+      "citedOverviewWords": 36,
+      "totalWords": 185,
+      "within200": true
+    },
+    {
+      "sourceId": "p14-s2",
+      "annotationWords": 45,
+      "scopeWords": 21,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 72,
+      "citedOverviewWords": 0,
+      "totalWords": 138,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-c4",
+      "annotationWords": 42,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 79,
+      "citedOverviewWords": 0,
+      "totalWords": 146,
+      "within200": true
+    },
+    {
+      "sourceId": "p14-s1",
+      "annotationWords": 38,
+      "scopeWords": 20,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 76,
+      "citedOverviewWords": 0,
+      "totalWords": 134,
+      "within200": true
+    },
+    {
+      "sourceId": "p14-s3",
+      "annotationWords": 42,
+      "scopeWords": 24,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 76,
+      "citedOverviewWords": 0,
+      "totalWords": 142,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-o3",
+      "annotationWords": 38,
+      "scopeWords": 23,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 75,
+      "citedOverviewWords": 0,
+      "totalWords": 136,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-o4",
+      "annotationWords": 37,
+      "scopeWords": 30,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 76,
+      "citedOverviewWords": 0,
+      "totalWords": 143,
+      "within200": true
+    },
+    {
+      "sourceId": "p14-s6",
+      "annotationWords": 38,
+      "scopeWords": 25,
+      "subresourceScopeWords": 24,
+      "allCitedBodyWords": 73,
+      "citedOverviewWords": 0,
+      "totalWords": 160,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-l2",
+      "annotationWords": 40,
+      "scopeWords": 24,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 72,
+      "citedOverviewWords": 0,
+      "totalWords": 136,
+      "within200": true
+    },
+    {
+      "sourceId": "p14-s4",
+      "annotationWords": 27,
+      "scopeWords": 22,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 69,
+      "citedOverviewWords": 0,
+      "totalWords": 118,
+      "within200": true
+    },
+    {
+      "sourceId": "p14-s5",
+      "annotationWords": 37,
+      "scopeWords": 26,
+      "subresourceScopeWords": 11,
+      "allCitedBodyWords": 73,
+      "citedOverviewWords": 0,
+      "totalWords": 147,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-e3",
+      "annotationWords": 34,
+      "scopeWords": 31,
+      "subresourceScopeWords": 11,
+      "allCitedBodyWords": 77,
+      "citedOverviewWords": 0,
+      "totalWords": 153,
+      "within200": true
+    },
+    {
+      "sourceId": "an14-e4",
+      "annotationWords": 36,
+      "scopeWords": 31,
+      "subresourceScopeWords": 17,
+      "allCitedBodyWords": 77,
+      "citedOverviewWords": 0,
+      "totalWords": 161,
+      "within200": true
+    }
+  ],
+  "allWorkBudgetsPass": true,
+  "maximumSourceBudget": {
+    "sourceId": "an14-c3",
+    "annotationWords": 49,
+    "scopeWords": 22,
+    "subresourceScopeWords": 0,
+    "allCitedBodyWords": 78,
+    "citedOverviewWords": 36,
+    "totalWords": 185,
+    "within200": true
+  },
+  "passedScopeAndDateChecks": [
+    "Shared Anishinaabe identity remains context-dependent. Ojibwe, Odawa and Potawatomi relationships do not become one government or an exhaustive membership list. The overview is a reading-path description, with its broad identity/local-belonging basis supported by Pokagon and LTBB.",
+    "Political-organization membership, constitutional parties, education-system participation, GLIFWC member bands and broad peoplehood remain explicitly separate. Lunaapeew support and Menominee collaboration do not turn those peoples into synonyms of Anishinaabe.",
+    "CPN2018museum interpretation remains dated and attributed to that museum. Conflicting Three Fires duty labels and a universal prophetic/migration timetable are omitted.",
+    "Pokagon recognition language remains the community account; no independent legal audit or present universal jurisdiction is claimed. Forest County1994/1995/2002entries remain historical institutions, not verified current operations.",
+    "LTBB author WesleyL.Andrews and November2005publication remain visible;2021upload date does not replace them. Selected scans, elder/youth method and Waganakising scope remain explicit.",
+    "Ontario About page remains undated;1949secretariat and2017naming policy are institutional history. No present member/population totals adopted.",
+    "Constitution2012-06-06proclamation is distinct from2016upload/edition uncertainty. The missing signatory page/AppendixA remain disclosed; no current roster, territory polygon, implementation or universal constitutional claim.",
+    "KEB2024–2025period, September8,2025filename and2026upload remain different signals. November2024strategy approval is reported activity, not measured outcomes. Forum April20–21,2022event and2022copyright are not an exact release-day finding.",
+    "OPD Central Southwestern Ojibwe scope, regional voices, double-vowel system and selected methodology remain one collection, with no audio-listening or all-language standard claim.",
+    "Corbiere remains a distinct Indigenous-authored Odawa/Eastern Ojibwe project account. Its2021workshop,2025volume and2026-05-13online release are differentiated. Actual PDF ends122, not an invented reviewed123.",
+    "Commission directory remains countsTowardMinimum=false. Indigenous Knowledge overview plus Price article is one unit;2019Menu and Guiding Principles one unit;2013–2014food-reporting collection one conservative unit.",
+    "GLIFWC guide,2023assessment, finished cookbook/DVD, recordings and uninspected underlying materials remain excluded. Public summaries do not claim image/data/transcript reuse permission; no private evidence paths appear on canonical source cards.",
+    "Source IDs renew consistently: an14-c1→p14-s2, an14-e1→p14-s4, an14-e2→p14-s5. Existing six source URLs remain primary card routes, without duplicate counts.",
+    "All integrated claim texts match their supplied packet blocks; only ID renewal mappings and recorded scope spacing are normalized. No additional legacy body creates a hidden duplicate per-work budget."
+  ],
+  "limits": [
+    "This is a bounded packet-to-profile review, not a fresh full-source/fieldwork audit or verification of live source availability.",
+    "Only profile14 and the named packets/cross-audits were inspected. Build output, templates and other profiles are outside scope.",
+    "Recompute budgets if overview, annotations, subresource scopes or cited prose change again."
+  ],
+  "canonicalModified": false,
+  "webResearchPerformed": false
+}
