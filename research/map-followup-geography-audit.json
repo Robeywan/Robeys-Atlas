@@ -1,0 +1,50 @@
+{
+  "reviewedAt": "2026-10-21",
+  "purpose": "Owner requested current authoritative geography and realistic map presentation.",
+  "scale": "1:50,000,000 generalized continent/region navigation",
+  "publisherCatalog": [
+    {
+      "theme": "50m state/province polygons",
+      "listedVersion": "5.1.1",
+      "url": "https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-1-states-provinces/",
+      "actualContentRead": "Current publisher page's download version, scope (US/Canada), lake/coastline matching guidance and de facto boundary convention."
+    },
+    {
+      "theme": "50m map units",
+      "listedVersion": "5.1.1",
+      "url": "https://www.naturalearthdata.com/downloads/50m-cultural-vectors/",
+      "actualContentRead": "Current publisher catalog's map-unit download version and theme-update explanation."
+    },
+    {
+      "theme": "50m lakes",
+      "listedVersion": "5.0.0",
+      "url": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/50m-lakes-reservoirs/",
+      "actualContentRead": "Current publisher page's version, generalized 10m origin and explicit data limitations."
+    }
+  ],
+  "pinnedRepositoryVersions": [
+    {
+      "path": "50m_cultural/ne_50m_admin_1_states_provinces.VERSION.txt",
+      "version": "5.1.1"
+    },
+    {
+      "path": "50m_cultural/ne_50m_admin_0_map_units.VERSION.txt",
+      "version": "5.1.1"
+    },
+    {
+      "path": "50m_physical/ne_50m_lakes.VERSION.txt",
+      "version": "5.0.0"
+    }
+  ],
+  "repository": "https://github.com/nvkelso/natural-earth-vector",
+  "repositoryCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "result": "Pinned repository theme version files were fetched and read. Their three versions match the versions currently listed in the publisher's official catalogs. Older repository dates alone do not mean the theme has been superseded. This is version consistency, not a byte comparison against newly downloaded publisher shapefile archives.",
+  "notEstablished": [
+    "Literal 100% accuracy at every zoom level",
+    "Survey or legal-boundary precision",
+    "Real-time shorelines, changing reservoirs or cadastral detail",
+    "Complete Indigenous homeland coverage or boundaries",
+    "An audit against every country's current official survey dataset"
+  ],
+  "nextReview": "Retain scale/provenance/limits in the map, preserve all five Great Lakes and Michigan shorelines, and consider a separate performance-reviewed 1:10m detail upgrade if zoom needs justify it. Recheck publisher versions during later geography maintenance."
+}

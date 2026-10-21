@@ -83,3 +83,13 @@ The owner requested a modest home page visual update before further alphabetical
 ## Additional bounded continuation — October21,2026
 
 The owner explicitly authorized an additional100-credit maximum to continue sourced map connections for the206 entries awaiting evidence at this checkpoint. This is one bounded authorization, not an automatically renewed per-run allowance. Preserve a substantial reserve for verification, publication and handoff. The all-entry map-coverage milestone remains ahead of deeper profile research. The geography correction and its stated generalized scale remain intact.
+
+
+## Owner reaffirmation — October 21, 2026
+
+Finish sourced regional connections for every directory entry and review the map geography before returning to deep profile research. The owner wants the map to look as realistic and accurate as possible against current authoritative data. Retain the generalized scale disclosure; do not promise literal 100% shoreline, legal-boundary or homeland precision. Check the source theme's current published version separately from its pinned repository date, retain reproducible provenance and record any outstanding comparison or resolution upgrade.
+
+After the map milestone, prioritize the public URLs from the supplied Word studies under their relevant profiles, then continue A-first research. All fifteen studies and 279 distinct URLs are already retained as attributed reading leads. The owner's confidence in ChatGPT-assisted studies does not substitute for reading original publications: preserve every contributed URL, verify relevance and actual content before using claims or counting substantive inspected sources, and keep unread material clearly labeled as suggested reading. Do not publish the full attachments or their local paths.
+
+The owner's renewed request to continue permits a small follow-up within the unspent portion of the existing additional 100-credit ceiling; it does not create another 100-credit allowance. Preserve the original baseline and account floor, reserve enough for publication, then checkpoint until ordinary availability or further owner direction. The existing public audience remains unchanged.
+

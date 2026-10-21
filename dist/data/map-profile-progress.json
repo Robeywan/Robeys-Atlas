@@ -198,11 +198,17 @@
     "originalId": null,
     "name": "Algonquin",
     "slug": "algonquin",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-ON",
+        "name": "Ontario",
+        "key": "ca-on"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 11,
@@ -777,11 +783,17 @@
     "originalId": 45,
     "name": "Cayuse",
     "slug": "cayuse",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 46,
@@ -1261,11 +1273,17 @@
     "originalId": 73,
     "name": "Clackamas",
     "slug": "clackamas",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 74,
@@ -1287,11 +1305,17 @@
     "originalId": 75,
     "name": "Clatskanie",
     "slug": "clatskanie",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 76,
@@ -2019,11 +2043,17 @@
     "originalId": 121,
     "name": "Haida",
     "slug": "haida",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 122,
