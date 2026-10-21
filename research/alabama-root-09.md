@@ -1,0 +1,13 @@
+# Alabama — historical and regional evidence review
+
+Reviewed October 21, 2026. Root’s contribution; source objects and proposed paragraphs are in alabama-root-09.json. No profile edit occurred while gathering these notes.
+
+Four substantive works inspected: John H. Moore’s complete 2010 OHS article, Howard N. Martin’s TSHA historical synthesis, the complete Alabama-Coushatta chapter831 of the 1954 statute, and TitleII of the 1987 restoration act. The statute PDFs were retrieved through ordinary verified HTTPS and their selected actual text read using pypdf. The 1954 file also contains neighboring laws: identify Public Law83-627/chapter831, not the next law628. Public Law100-89’s TitleI concerns Ysleta del Sur Pueblo and is not Alabama evidence. Actual inspected sections/pages and dates are in each object.
+
+OHS establishes related towns, separate westward movements and Creek removal context; its shorthand about1936 organization is checked against the original constitution separately. Martin’s substantial village and land account has an overlapping authorship/research lineage with the tribe-hosted chief history. Their shared background is not independent corroboration. Neither source’s dated figures, expansive cultural generalizations nor assimilation-centered judgments are adopted as current fact. The synthesis is selective; early colonial records and individual family histories still need fuller review.
+
+The two federal enactments support a paired educational reading: the1954 statute tied termination to later implementation, whereas the1987 law expressly restored the federal relationship. The implementation proclamation and later amendments/case law have not been reviewed. No current gaming or citizenship advice is offered.
+
+Public state-level associations are recorded for the later regional map index, with scope and period. No map geometry, tribal boundary, precise site location or claims of exhaustive regional coverage are created. These references do not authorize copying historical maps, images or extensive copyrighted prose. Link original publications and retain attribution.
+
+Availability limitations: the Congress-hosted1954 PDF was restricted to automated retrieval, but the GovInfo canonical copy linked through its statute resolver was actually downloaded and read. This is not a reader-paywall finding. One web screenshot request timed out; no claim of complete visual layout inspection is made. The selected original PDF text is readable; the constitutional date passages are independently cross-checked as text/OCR by the Oklahoma researcher; no constitutional page-image review is claimed.

@@ -1,105 +1,119 @@
 {
-  "scope": "HTTP availability only; original content inspected separately. Ordinary TLS validation retained; no blocked request establishes a reader paywall.",
-  "reviewedAt": "2026-10-20",
-  "originalId": 8,
+  "scope": "HTTP availability only; actual source content inspected separately within source-card scopes. Normal TLS verification retained; automated errors are not reader-paywall findings.",
+  "reviewedAt": "2026-10-21",
+  "originalId": 9,
   "results": [
     {
-      "url": "https://alisa.aldelim.org/",
+      "url": "https://alabamadictionary.github.io/about/",
+      "status": 206,
+      "finalUrl": "https://alabamadictionary.github.io/about/",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://linguistics.fas.harvard.edu/news/2026/09/week-september-8",
+      "status": 403,
+      "finalUrl": "https://linguistics.fas.harvard.edu/news/2026/09/week-september-8",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://news.harvard.edu/gazette/story/2024/11/preserving-indigenous-languages-is-personal/",
       "status": 200,
-      "finalUrl": "https://alisa.aldelim.org/",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "finalUrl": "https://news.harvard.edu/gazette/story/2024/11/preserving-indigenous-languages-is-personal/",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
       "contentType": "text/html; charset=UTF-8"
     },
     {
-      "url": "https://almg.org.gt/wp-content/uploads/2025/09/CONTENIDO-KUKUY-TIE-AKATEKO-2-1.pdf",
+      "url": "https://notluckycharm.github.io/static/SSILA-FINAL.pdf",
       "status": 206,
-      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/CONTENIDO-KUKUY-TIE-AKATEKO-2-1.pdf",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "finalUrl": "https://notluckycharm.github.io/static/SSILA-FINAL.pdf",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
       "contentType": "application/pdf"
     },
     {
-      "url": "https://almg.org.gt/wp-content/uploads/2025/09/Gramatica-Descriptiva-Akateka-actualizada.pdf",
+      "url": "https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/map-of-oklahoma-languages/alabama-language/",
+      "status": 200,
+      "finalUrl": "https://samnoblemuseum.ou.edu/collections-and-research/native-american-languages/map-of-oklahoma-languages/alabama-language/",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.alabama-coushatta.com/about-us/chief-history/",
+      "status": 200,
+      "finalUrl": "https://www.alabama-coushatta.com/about-us/chief-history/",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.alabama-coushatta.com/about-us/our-history/",
+      "status": 200,
+      "finalUrl": "https://www.alabama-coushatta.com/about-us/our-history/",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.alabama-coushatta.com/blog/post/alabama-coushatta-tribe-announces-passing-of-second-chief",
+      "status": 200,
+      "finalUrl": "https://www.alabama-coushatta.com/blog/post/alabama-coushatta-tribe-announces-passing-of-second-chief",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://www.alabama-coushatta.com/uploads/blog/0c5006728ac0e60545adba18f19196a2f6d60572.pdf",
       "status": 206,
-      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/Gramatica-Descriptiva-Akateka-actualizada.pdf",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "finalUrl": "https://www.alabama-coushatta.com/uploads/blog/0c5006728ac0e60545adba18f19196a2f6d60572.pdf",
+      "checkedAt": "2026-10-21T15:35:49+00:00",
       "contentType": "application/pdf"
     },
     {
-      "url": "https://almg.org.gt/wp-content/uploads/2025/09/Literatura-Maya-Akateka-REDUCIDO.pdf",
+      "url": "https://www.alabama-coushatta.com/uploads/cms/nav-18-64d3bc7777f8c.pdf",
       "status": 206,
-      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/Literatura-Maya-Akateka-REDUCIDO.pdf",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "finalUrl": "https://www.alabama-coushatta.com/uploads/cms/nav-18-64d3bc7777f8c.pdf",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
       "contentType": "application/pdf"
     },
     {
-      "url": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
-      "status": 206,
-      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://almg.org.gt/wp-content/uploads/2026/03/Gramatica-Normativa-Idioma-Akateko.pdf",
-      "status": 206,
-      "finalUrl": "https://almg.org.gt/wp-content/uploads/2026/03/Gramatica-Normativa-Idioma-Akateko.pdf",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://atlas.inpi.gob.mx/akatecos-etnografia/",
+      "url": "https://www.alabama-quassarte.com/getpage.php?name=About_Us&sub=About+Us",
       "status": null,
-      "finalUrl": "https://atlas.inpi.gob.mx/akatecos-etnografia/",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
-      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      "finalUrl": "https://www.alabama-quassarte.com/getpage.php?name=About_Us&sub=About+Us",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
     },
     {
-      "url": "https://entrediversidades.unach.mx/index.php/entrediversidades/article/download/486/609?inline=1",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I20-58fee8c445d0f739f919415d57f769c2/pdf/GOVPUB-I20-58fee8c445d0f739f919415d57f769c2.pdf",
       "status": 206,
-      "finalUrl": "https://entrediversidades.unach.mx/index.php/entrediversidades/article/download/486/609?inline=1",
-      "checkedAt": "2026-10-21T00:21:50+00:00",
-      "contentType": "text/html; charset=UTF-8"
+      "finalUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-I20-58fee8c445d0f739f919415d57f769c2/pdf/GOVPUB-I20-58fee8c445d0f739f919415d57f769c2.pdf",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
+      "contentType": "application/pdf"
     },
     {
-      "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/1313-PDM-OT-SAN_MIGUEL_ACATAN_PDMOT.pdf",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg666.pdf",
+      "status": 206,
+      "finalUrl": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg666.pdf",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg768.pdf",
+      "status": 206,
+      "finalUrl": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg768.pdf",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
       "status": 200,
-      "finalUrl": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/1313-PDM-OT-SAN_MIGUEL_ACATAN_PDMOT.pdf",
-      "checkedAt": "2026-10-21T00:21:51+00:00",
-      "contentType": "application/pdf"
+      "finalUrl": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
+      "contentType": "text/html; charset=utf-8"
     },
     {
-      "url": "https://revistas.cunorte.udg.mx/punto/article/download/89/330/726",
-      "status": 200,
-      "finalUrl": "https://revistas.cunorte.udg.mx/punto/es/article/download/89/330/726",
-      "checkedAt": "2026-10-21T00:21:51+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.getty.edu/news/the-maya-peoples-of-la/",
+      "url": "https://www.tshaonline.org/handbook/entries/alabama-coushatta-indians",
       "status": 206,
-      "finalUrl": "https://www.getty.edu/news/the-maya-peoples-of-la/",
-      "checkedAt": "2026-10-21T00:21:51+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
-      "status": 206,
-      "finalUrl": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
-      "checkedAt": "2026-10-21T00:21:51+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.scielo.org.mx/pdf/alte/v21n42/v21n42a8.pdf",
-      "status": 206,
-      "finalUrl": "https://www.scielo.org.mx/pdf/alte/v21n42/v21n42a8.pdf",
-      "checkedAt": "2026-10-21T00:21:51+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.url.edu.gt/publicacionesurl/FileCS.ashx?Id=41611",
-      "status": 200,
-      "finalUrl": "https://www.url.edu.gt/publicacionesurl/FileCS.ashx?Id=41611",
-      "checkedAt": "2026-10-21T00:21:51+00:00",
-      "contentType": "application/pdf"
+      "finalUrl": "https://www.tshaonline.org/handbook/entries/alabama-coushatta-indians",
+      "checkedAt": "2026-10-21T15:35:50+00:00",
+      "contentType": "text/html; charset=utf-8"
     }
   ]
 }

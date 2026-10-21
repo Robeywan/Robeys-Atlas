@@ -12,11 +12,11 @@ Aim for about twelve excellent, substantive, directly relevant inspected sources
 
 ## An atlas centered on the map
 
-The eventual map should become a prominent way to enter the atlas. The owner’s example is: **“I live in Kansas. Who are the Native Americans in my area?”**
+The eventual map should become a prominent way to enter the atlas. The owner revised the first-version scope on October 20, 2026 to **broad selectable modern regions**: individual U.S. states, Canadian provinces and territories, and countries/territories across Mexico, Central America and the Caribbean. Mexico can begin as a country-level selection, with further subdivisions considered later.
 
-The visitor can select Kansas or a general area, zoom toward a town, or search for a place. The map returns an understandable list of relevant peoples and nations, with the dates and meaning of each association. From that list, the visitor opens the existing directory profile, local history and sources. Smooth movement, zooming and exploration should feel natural. The directory remains available for people who prefer names and lists.
+The visitor can **click Texas or Costa Rica**, for example, and receive an understandable list of peoples and nations with documented connections to that region, with the dates, sources and meaning of each association. From that list, the visitor opens an existing directory profile. Smooth movement and zooming remain useful. A searchable region list/dropdown offers the same results for keyboard users, phones and small islands. City/address search and the earlier one-town Kansas pilot are superseded as first-version requirements.
 
-Historical homelands, particular past communities, displacement and migration, and present-day communities need distinct evidence and dates. Overlaps are expected. Present state borders are navigation aids rather than automatic Indigenous boundaries. An empty result must explain missing research instead of implying that an area has no Indigenous history. See Interactive-Map-Plan.md.
+Historical homelands/presence, displacement and migration, and present-day communities need distinct evidence and dates. A people can appear in several regions, and one region can show many peoples. Modern borders are navigation aids rather than Indigenous boundaries; listing a people under a state or country does not imply it occupied every part. Empty or short results must explain missing research and avoid claiming a complete list without coverage review. Build a sourced region-to-profile index and use licensed administrative boundary data. See Interactive-Map-Plan.md.
 
 ## Richer authentic imagery across the site
 

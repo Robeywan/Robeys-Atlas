@@ -1,0 +1,96 @@
+{
+  "reviewedAt": "2026-10-21",
+  "sources": [
+    {
+      "id": "p9-s3",
+      "title": "Alabama-Quassarte Tribal Town",
+      "author": "John H. Moore",
+      "publisher": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture",
+      "publicationDate": "2010-01-15",
+      "url": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
+      "type": "Museum / archive",
+      "topics": ["Identity", "Migration", "Removal", "Oklahoma"],
+      "annotation": "A focused historical reference on related towns, westward movements and Creek relationships. Its compressed account of the 1936 legislation should be read alongside the original constitution’s separate approval and ratification dates. Not a current citizenship or population source.",
+      "contentReviewScope": "Complete six-paragraph article, bibliography and publication credit; page navigation excluded.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    },
+    {
+      "id": "al-martin-history",
+      "title": "Alabama-Coushatta Indians",
+      "author": "Howard N. Martin",
+      "publisher": "Texas State Historical Association, Handbook of Texas",
+      "publicationDate": "1976; page metadata updated September 29, 2020",
+      "url": "https://www.tshaonline.org/handbook/entries/alabama-coushatta-indians",
+      "type": "Academic / reference",
+      "topics": ["Migration", "Villages", "Texas", "Land history"],
+      "annotation": "Detailed historical synthesis connecting migration, East Texas settlements, land pressures and institutions. Its sweeping cultural generalizations, assimilation framing and dated figures are not adopted here. Martin also wrote the tribe-hosted chief history: overlap is not independent corroboration.",
+      "contentReviewScope": "Substantive article and bibliography, especially migration, village networks and land-policy passages; no current demographic or officer claims adopted.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    },
+    {
+      "id": "al-termination-1954",
+      "title": "Public Law 83-627, chapter 831 — termination of federal supervision (1954)",
+      "author": "United States Congress",
+      "publisher": "United States Statutes at Large, GovInfo",
+      "publicationDate": "1954-08-23",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg768.pdf",
+      "type": "Government",
+      "topics": ["Federal policy", "Land", "Texas", "Historical law"],
+      "annotation": "Original enactment, not a statement of present law. Sections link land conveyance, a later proclamation and withdrawal of federal supervision/services, with specified exceptions. Read with the 1987 restoration act. The neighboring Public Law 628 concerns a different subject.",
+      "contentReviewScope": "68 Stat.768–769, complete chapter831, sections1–8 and approval date; two-page PDF also contains parts of unrelated laws, excluded from synthesis. Actual PDF text inspected; no implementation proclamation inspected.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    },
+    {
+      "id": "al-restoration-1987",
+      "title": "Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act — Title II",
+      "author": "United States Congress",
+      "publisher": "United States Statutes at Large, GovInfo",
+      "publicationDate": "1987-08-18",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-101/pdf/STATUTE-101-Pg666.pdf",
+      "type": "Government",
+      "topics": ["Restoration", "Government", "Texas", "Historical law"],
+      "annotation": "Original act’s Alabama-Coushatta title restores federal recognition and the trust relationship and addresses government and reservation matters. Title I concerns a different nation. This historical reading does not determine later amendments, litigation, present gaming rules or individual rights.",
+      "contentReviewScope": "TitleII, sections201–207 and approval date, 101 Stat.669–672 (PDF4–7); actual PDF text inspected. TitleI is not used as Alabama-Coushatta evidence.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    }
+  ],
+  "proposedSections": [
+    {
+      "title": "Southeastern towns and different westward journeys",
+      "text": "John H. Moore’s historical reference follows Alabama and Quassarte towns along the Alabama River into French trade relationships and the Creek Confederacy. It describes westward movement in separate groups, including settlements in central Louisiana and Texas, while people who remained with the Creeks underwent forced removal to Indian Territory. These were different community histories, rather than one journey followed by everyone.",
+      "sourceIds": ["p9-s3"]
+    },
+    {
+      "title": "Villages, rivers and paths in East Texas",
+      "text": "Howard Martin’s Handbook history describes Alabama settlements along waterways including the Angelina and Neches rivers. Peach Tree, Fenced-In and Cane Island appear as distinct villages connected through trails. The account links hunting, cultivation and travel to the Big Thicket landscape, then follows settler pressure and land disputes. Read its route descriptions as a historian’s reconstruction, with particular family movements still requiring closer archival comparison.",
+      "sourceIds": ["al-martin-history"]
+    },
+    {
+      "title": "What the 1954 termination act changed",
+      "text": "The 1954 federal act authorized conveyance of tribal land to Texas to hold in trust. It tied termination of the federal trust relationship to conveyance and a subsequent proclamation, and withdrew many federal services while retaining specified school and hospital eligibility. This was a change in federal administration and obligations; it did not end the people’s existence. The enactment and its later implementation should be distinguished: the proclamation has not been inspected for this introduction.",
+      "sourceIds": ["al-termination-1954"]
+    },
+    {
+      "title": "Restoring the federal relationship in 1987",
+      "text": "Title II of the act approved August 18, 1987 restored federal recognition and the trust relationship for the Alabama and Coushatta Indian Tribes of Texas. It treated the two as one tribal unit for federal-law purposes and addressed the council’s powers, constitution and reservation. The act’s separate title for Ysleta del Sur Pueblo should not be applied to Alabama-Coushatta. This primary document explains an important historical change; later legal developments need their own sources.",
+      "sourceIds": ["al-restoration-1987"]
+    }
+  ],
+  "regionalEvidence": [
+    {"regionId":"us-alabama","region":"Alabama","associationType":"Historical towns/homeland connection","period":"Colonial era","scope":"Alabama and Quassarte towns along the Alabama River; not all Native peoples of the modern state","sourceId":"p9-s3","precision":"Broad state association only; no territorial boundary geometry"},
+    {"regionId":"us-louisiana","region":"Louisiana","associationType":"Historical migration/settlement","period":"Eighteenth–nineteenth-century westward movements","scope":"Some Alabama and Quassarte groups/families in central Louisiana; no claim that all communities migrated together","sourceId":"p9-s3","precision":"Broad state association only; no points or boundary geometry"},
+    {"regionId":"us-texas","region":"Texas","associationType":"Historical settlement and contemporary-government connection","period":"Late eighteenth-century migration onward; 1987 restoration enactment","scope":"East Texas Alabama settlements and the Alabama-Coushatta Tribe of Texas","sourceId":"al-martin-history","precision":"State-level index lead; specific villages are not modern territorial polygons"},
+    {"regionId":"us-oklahoma","region":"Oklahoma","associationType":"Forced removal and later community history","period":"Nineteenth-century removal and later Alabama-Quassarte government","scope":"People removed with the Creeks, with later communities between Weleetka and Wetumka; not a Texas-government branch","sourceId":"p9-s3","precision":"Broad state association only"}
+  ],
+  "limitations": [
+    "No standalone current leadership, enrollment or speaker counts are established.",
+    "1936 enabling legislation is not automatically the constitution’s approval/ratification date.",
+    "Statutes are historical evidence, not present legal guidance or a substitute for later implementation records.",
+    "No restricted cultural material, exact sensitive locations or image reuse is reproduced.",
+    "Modern region associations need an explicit coverage review before any future map claims completeness."
+  ]
+}

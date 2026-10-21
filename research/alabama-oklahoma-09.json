@@ -1,0 +1,112 @@
+{
+  "originalId": 9,
+  "reviewedAt": "2026-10-21",
+  "scope": "Oklahoma Alabama-Quassarte publication provenance and two inspected historical works; no Site integration or current-law determination",
+  "sources": [
+    {
+      "id": "al-ok-constitution-1939",
+      "title": "Constitution and By-laws of the Alabama-Quassarte Tribal Town, Oklahoma, ratified January 10, 1939",
+      "publisher": "Alabama-Quassarte Tribal Town; U.S. Department of the Interior, Office of Indian Affairs; Government Printing Office",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I20-58fee8c445d0f739f919415d57f769c2/pdf/GOVPUB-I20-58fee8c445d0f739f919415d57f769c2.pdf",
+      "type": "Government",
+      "topics": ["History", "Government", "Community institutions"],
+      "annotation": "Complete seven-page 1939 printing inspected. Separates Interior approval on November 17, 1938 from ratification on January 10, 1939. Historical evidence of town organization and constitutional purposes; no amendments, present officeholders or current citizenship rules were verified. The alternate university scan is the same work, not another source.",
+      "publicationDate": "1939",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "contentReviewScope": "PDF pp. 1–7; printed pp. 1–5 are PDF pp. 3–7. Read all articles, bylaws, approval and certification. University mirror cross-checked for the two dates.",
+      "countsTowardMinimum": true,
+      "alternateUrl": "https://thorpe.law.ou.edu/IRA/alaquassarte.pdf",
+      "accessNotes": "GovInfo PDF returned HTTP 200 through a normal verified-TLS request and was read in memory. Web-tool access was intermittently successful. No access control or certificate check was bypassed."
+    },
+    {
+      "id": "al-ok-community-history",
+      "title": "About Us — Alabama-Quassarte Tribal Town",
+      "publisher": "Alabama-Quassarte Tribal Town",
+      "url": "https://www.alabama-quassarte.com/getpage.php?name=About_Us&sub=About+Us",
+      "type": "Indigenous-led",
+      "topics": ["History", "Identity", "Removal", "Government"],
+      "annotation": "Undated community historical account read in full through the web research tool. The domain has an independent Oklahoma government directory cross-link. Retain its community perspective while comparing chronology with primary records. Undated enrollment and current-rule assertions are not adopted; its April 1939 claim differs from the constitution's approval and ratification dates.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "contentReviewScope": "Complete substantive About Us text, web lines 50–59, plus identifying contact/footer context; not the separate generic History stub.",
+      "countsTowardMinimum": true,
+      "accessNotes": "Actual page text was read through the web research tool. Normal Python requests failed certificate verification; no TLS bypass was used. Institutional provenance supports this publication's attribution, not a claim that all website information is current."
+    }
+  ],
+  "proposedSections": [
+    {
+      "title": "A historical constitution and its two dates",
+      "text": "The 1939 government printing identifies Alabama and Quassarte No. 1 as former towns within Alabama-Quassarte Tribal Town. Its purposes include land, economic cooperation, health, welfare and continuing traditions. The Interior approval block is dated November 17, 1938; certification separately records ratification on January 10, 1939. Article IX protects existing rights as citizens of the Creek Nation. These are historical provisions, not an independent statement of present citizenship, leadership or governing law.",
+      "sourceIds": ["al-ok-constitution-1939"]
+    },
+    {
+      "title": "Reading the Oklahoma community's own history",
+      "text": "An undated community account distinguishes Alabama and Quassarte towns while describing their Muscogee relationships. It presents southwestern migration and removal to Indian Territory as different historical paths, and describes traditional government continuing through federal changes. Read this as a particular Oklahoma community's interpretation, alongside primary records. Its account does not make the Oklahoma and Texas governments interchangeable; claims about present membership or administration require separately dated evidence.",
+      "sourceIds": ["al-ok-community-history"]
+    }
+  ],
+  "provenanceChecks": [
+    {
+      "url": "https://oklahoma.gov/content/dam/ok/en/ddco/documents/meeting-packets/sfy-2026-meetings-packets/august-2025/2025-8-15%20state-plan-mtg-materials.pdf",
+      "scopeInspected": "Only Appendix B's Alabama-Quassarte record, PDF p. 42 / printed p. 41, in the August 2025 DD Council packet",
+      "finding": "Explicitly lists https://www.alabama-quassarte.com/ as the Town website and an alabama-quassarte.org email. Directory evidence supports the .com publication's attribution; it is not an additional substantive history source.",
+      "countsTowardMinimum": false
+    },
+    {
+      "url": "https://www.ou.edu/nativenationscenter/resources/tribal-government-info",
+      "scopeInspected": "Updated February 5, 2026 label and Alabama-Quassarte entry only, web lines 49–74",
+      "finding": "Links the history, website and housing to alabama-quassarte.org and the constitution to thorpe.law.ou.edu. No general validation of other entries or current leaders is implied.",
+      "countsTowardMinimum": false
+    },
+    {
+      "url": "https://www.cms.gov/outreach-and-education/american-indian-alaska-native/aian/ltss-technical-assistance-center/ltss-programs",
+      "scopeInspected": "Alabama-Quassarte entry only, web lines 8868–8887",
+      "finding": "Explicitly lists http://www.alabama-quassarte.org/ for the Town. This supports the older domain's institutional provenance, not its present ownership, personnel or program status.",
+      "countsTowardMinimum": false
+    },
+    {
+      "url": "https://narf.org/nill/constitutions/alabama-quassarte/index.html",
+      "scopeInspected": "Complete short constitution index and linked university mirror's approval/certification passages",
+      "finding": "Labels the constitution 1939, links the university scan and cautions that an official version must come from the tribe. Index and mirror are not counted as separate works.",
+      "countsTowardMinimum": false
+    }
+  ],
+  "websiteDispositions": [
+    {
+      "url": "https://aqtt.org/about",
+      "disposition": "Do not use as current community authority without additional provenance",
+      "actualScope": "Complete About HTML read through normal verified-TLS request; contact and government pages also inspected through web tool",
+      "reason": "No independent website cross-link to this domain was established in the bounded search. The About footer's telephone hyperlink disagrees with its displayed number and institutional directory contacts. Self-identification as official is insufficient. An indexed municipal document contains an aqtt.org email, which is favorable historical domain evidence but does not establish current website editorial control.",
+      "qualification": "Not proven to be a reconstruction, compromised or fraudulent. Do not make those accusations from these checks alone.",
+      "countsTowardMinimum": false
+    },
+    {
+      "url": "https://alabama-quassarte.org/about-us/",
+      "disposition": "Older institutionally linked community publication; direct content access limited in this run",
+      "actualScope": "Search-indexed substantive text examined; direct web requests timed out and normal Python request failed certificate verification",
+      "reason": "Preserve as a provenance/alternate lead. The substantively overlapping .com About text was actually read and is counted once; do not count this alternative manifestation separately.",
+      "countsTowardMinimum": false
+    },
+    {
+      "url": "https://www.alabama-quassarte.com/getpage.php?name=history",
+      "disposition": "Generic service-history stub excluded",
+      "actualScope": "Complete short text read",
+      "reason": "Generic health/service language adds no substantive town history beyond site navigation and contact details.",
+      "countsTowardMinimum": false
+    },
+    {
+      "url": "https://www.alabama-quassartetribaltown.org/",
+      "disposition": "Additional apparent community website lead; not counted or endorsed as authoritative",
+      "actualScope": "Search-indexed home/contact text only",
+      "reason": "Dated activities and alabama-quassarte.org email addresses appear, but independent website ownership/editorial provenance was not established. No contact or login attempted.",
+      "countsTowardMinimum": false
+    }
+  ],
+  "researchGaps": [
+    "Determine what event or separate instrument, if any, explains the community history's April 1939 statement. Do not silently equate it with the January ratification or November approval in this constitution.",
+    "Obtain current community-published constitutional amendments and citizenship rules before describing present legal requirements or universal dual-citizenship eligibility.",
+    "Check the undated account's allotment-law chronology against primary instruments; its stated Dawes Act date is not adopted.",
+    "Confirm current website editorial authority and present institutional information before making claims about personnel, enrollment, programs or contact details. No people were contacted."
+  ]
+}

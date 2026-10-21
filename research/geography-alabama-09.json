@@ -1,0 +1,93 @@
+{
+  "reviewedAt": "2026-10-21",
+  "entry": "Alabama",
+  "originalId": 9,
+  "status": "Public regional evidence only; no map geometry or sensitive-site points created",
+  "firstVersionScope": "Clickable states, provinces, territories and countries; region-to-profile index later",
+  "associations": [
+    {
+      "regionId": "us-alabama",
+      "region": "Alabama",
+      "associationType": "Historical towns/homeland connection",
+      "period": "Colonial era",
+      "scope": "Alabama and Quassarte towns along the Alabama River; not all Native peoples of the modern state",
+      "sourceId": "p9-s3",
+      "precision": "Broad state association only; no territorial boundary geometry",
+      "profileOriginalIds": [
+        9
+      ],
+      "sourceUrl": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
+      "reviewedAt": "2026-10-21",
+      "coverageNote": "Documented connection to part of a modern state; not presence throughout it or an exhaustive list of peoples."
+    },
+    {
+      "regionId": "us-louisiana",
+      "region": "Louisiana",
+      "associationType": "Historical migration/settlement",
+      "period": "Eighteenth–nineteenth-century westward movements",
+      "scope": "Some Alabama and Quassarte groups/families in central Louisiana; no claim that all communities migrated together",
+      "sourceId": "p9-s3",
+      "precision": "Broad state association only; no points or boundary geometry",
+      "profileOriginalIds": [
+        9
+      ],
+      "sourceUrl": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
+      "reviewedAt": "2026-10-21",
+      "coverageNote": "Documented connection to part of a modern state; not presence throughout it or an exhaustive list of peoples."
+    },
+    {
+      "regionId": "us-texas",
+      "region": "Texas",
+      "associationType": "Historical settlement and contemporary-government connection",
+      "period": "Late eighteenth-century migration onward; 1987 restoration enactment",
+      "scope": "East Texas Alabama settlements and the Alabama-Coushatta Tribe of Texas",
+      "sourceId": "al-martin-history",
+      "precision": "State-level index lead; specific villages are not modern territorial polygons",
+      "profileOriginalIds": [
+        9
+      ],
+      "sourceUrl": "https://www.tshaonline.org/handbook/entries/alabama-coushatta-indians",
+      "reviewedAt": "2026-10-21",
+      "coverageNote": "Documented connection to part of a modern state; not presence throughout it or an exhaustive list of peoples."
+    },
+    {
+      "regionId": "us-oklahoma",
+      "region": "Oklahoma",
+      "associationType": "Forced removal and later community history",
+      "period": "Nineteenth-century removal and later Alabama-Quassarte government",
+      "scope": "People removed with the Creeks, with later communities between Weleetka and Wetumka; not a Texas-government branch",
+      "sourceId": "p9-s3",
+      "precision": "Broad state association only",
+      "profileOriginalIds": [
+        9
+      ],
+      "sourceUrl": "https://www.okhistory.org/publications/enc/entry?entry=AL001",
+      "reviewedAt": "2026-10-21",
+      "coverageNote": "Documented connection to part of a modern state; not presence throughout it or an exhaustive list of peoples."
+    }
+  ],
+  "communityPublicationAssociations": [
+    {
+      "country": "United States",
+      "state": "Texas",
+      "relationship": "Current government/community setting; broad state association only.",
+      "sourceIds": [
+        "al-texas-1",
+        "al-texas-2",
+        "al-texas-3",
+        "al-texas-4",
+        "al-texas-5"
+      ]
+    },
+    {
+      "country": "United States",
+      "state": "Alabama",
+      "relationship": "Historical origins described by the Texas Tribe; not current government jurisdiction or mapped territorial boundaries.",
+      "sourceIds": [
+        "al-texas-1",
+        "al-texas-2"
+      ]
+    }
+  ],
+  "reuseNote": "Source attribution and short factual paraphrases only. No blanket cartographic/image reuse permissions established; no boundaries, coordinates or images copied."
+}
