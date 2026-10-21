@@ -523,7 +523,7 @@
       "Tribal governments",
       "Stewardship"
     ],
-    "annotation": "Read the complete substantive About text, membership, territory description and simplified timeline. Supports the 2011 coordinating role, eight member tribes and two corporate landholders. Short institutional overview retained outside this batch’s substantive minimum. Its timeline’s broad statements about state authority and federal subsistence law are not adopted as legal analysis; territory graphics are not title boundaries.",
+    "annotation": "Read the complete substantive About text, membership, territory description and simplified timeline. Supports the 2011 coordinating role, eight member tribes and two corporate landholders. Short institutional overview retained outside this batch’s substantive inspected-source count. Its timeline’s broad statements about state authority and federal subsistence law are not adopted as legal analysis; territory graphics are not title boundaries.",
     "accessed": "2026-10-20",
     "contentReviewedAt": "2026-10-20",
     "countsTowardMinimum": false,
@@ -592,7 +592,7 @@
       "Seasonal life",
       "Culture"
     ],
-    "annotation": "Read the complete substantive prose and captions surrounding resource links. Describes the Copper River name, seasonal family food work and continuing practices; shareholder totals are not a people’s census. Short overview/resource gateway kept outside the substantive minimum. Linked videos, books, lesson pages and Smithsonian items are not represented as read or watched. Undated language/dialect claims require specialist context.",
+    "annotation": "Read the complete substantive prose and captions surrounding resource links. Describes the Copper River name, seasonal family food work and continuing practices; shareholder totals are not a people’s census. Short overview/resource gateway kept outside the substantive inspected-source count. Linked videos, books, lesson pages and Smithsonian items are not represented as read or watched. Undated language/dialect claims require specialist context.",
     "accessed": "2026-10-20",
     "contentReviewedAt": "2026-10-20",
     "countsTowardMinimum": false,
@@ -902,7 +902,7 @@
       "Language",
       "Homelands"
     ],
-    "annotation": "Read the complete short overview, geography, publication-history statement and credited examples. Supporting orientation outside the substantive minimum. Its undated speaker and population estimates are not adopted as current counts; linked publications are not represented as separately read. A separate automated request failed certificate verification; the page was read through the web research tool.",
+    "annotation": "Read the complete short overview, geography, publication-history statement and credited examples. Supporting orientation outside the substantive inspected-source count. Its undated speaker and population estimates are not adopted as current counts; linked publications are not represented as separately read. A separate automated request failed certificate verification; the page was read through the web research tool.",
     "accessed": "2026-10-20",
     "contentReviewedAt": "2026-10-20",
     "countsTowardMinimum": false,
@@ -1213,6 +1213,32 @@
       {
         "name": "Tz'utujil",
         "slug": "tzutujil"
+      }
+    ]
+  },
+  {
+    "id": "ak-migration-2",
+    "title": "El estudio de la juventud como representación social en la población acateka de origen guatemalteco en Chiapas",
+    "author": "Verónica Ruiz Lagier",
+    "publisher": "Alteridades 21(42):103–111 / Universidad Autónoma Metropolitana",
+    "url": "https://www.scielo.org.mx/pdf/alte/v21n42/v21n42a8.pdf",
+    "type": "Academic / reference",
+    "topics": [
+      "Youth",
+      "Migration",
+      "Identity",
+      "Education",
+      "Gender"
+    ],
+    "annotation": "Read printed pp.103–110 of the original nine-page article, including research context, three-community comparisons and attributed interviews. Fieldwork began in 2002, with a dated 2010 returnee interview. Studies La Gloria, San Francisco and Nueva Libertad; the author explicitly rejects uniform generalization. Older language terminology is not adopted as present classification. Personal experiences, gender expectations and changing practices do not establish current prevalence or a single community rule.",
+    "publicationDate": "2011",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "contentReviewScope": "Printed pp.103–110 of the nine-page article, including interviews and three-community comparisons.",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
       }
     ]
   },
@@ -4913,18 +4939,20 @@
     ]
   },
   {
-    "id": "places",
-    "title": "Sb’i K’ultajb’al yet Qichmam Akateko: Toponimias Maya Akateka (2019)",
-    "publisher": "Comunidad Lingüística Akateka · Academia de Lenguas Mayas de Guatemala",
-    "url": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
+    "id": "ak-literature",
+    "title": "Tz’ib’b’il Qichmam Akateka: Literatura Maya Akateka (2020)",
+    "publisher": "Comunidad Lingüística Akateka — Academia de Lenguas Mayas de Guatemala; Carlos Francisco Francisco, translator",
+    "url": "https://almg.org.gt/wp-content/uploads/2025/09/Literatura-Maya-Akateka-REDUCIDO.pdf",
     "type": "Indigenous-led",
     "topics": [
-      "Language",
-      "Homelands",
-      "History"
+      "Literature",
+      "Education",
+      "Language"
     ],
-    "annotation": "Community-language institution’s place-name study of San Miguel Acatán and San Rafael La Independencia. Title pages and contents identify the 2019 publication and geographical scope.",
-    "accessed": "2026-10-19",
+    "annotation": "Read credits, presentation, both teaching guides and contents. A community publication for language learning; its introduction explicitly describes ten adapted and translated narratives. The guides distinguish first-language revitalization and second-language learning and involve proficient speakers. This supports an account of educational aims and methods, not measured success, a census of children’s language use, or a claim that every story originated uniquely among Akateko people.",
+    "contentReviewScope": "PDF pp. 1–13; selected opening Akateko pages inspected for format only. No independent translation, complete story reading, audio or teaching-outcome evaluation.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
     "nations": [
       {
         "name": "Akateko",
@@ -4933,22 +4961,156 @@
     ]
   },
   {
-    "id": "p25-s2",
-    "title": "Atlas Lingüístico Sonoro del Awakateko (ALISA)",
-    "publisher": "Comunidad Lingüística Awakateka / Academia de las Lenguas Mayas de Guatemala, with CIESAS and CIMSUR-UNAM",
+    "id": "ak-language-1",
+    "title": "Stxolilal Stz’ib’ele Ti’e Akateko / Gramática Normativa Akateka",
+    "author": "Comunidad Lingüística Akateka",
+    "publisher": "Comunidad Lingüística Akateka, Academia de las Lenguas Mayas de Guatemala",
+    "url": "https://almg.org.gt/wp-content/uploads/2026/03/Gramatica-Normativa-Idioma-Akateko.pdf",
+    "type": "Indigenous-led",
+    "publicationDate": "2024",
+    "topics": [
+      "Language",
+      "Writing",
+      "Community scholarship",
+      "Education"
+    ],
+    "annotation": "Community-produced writing reference. Its letter distinguishes shared orthography from changing speech and allows revision. Read it as a normative project, rather than proof of uniform speech or universal adoption. No current speaker estimate is inferred.",
+    "contentReviewScope": "Title/credits; printed pp.3–17,19–23,501–503,540–541 (PDF7–21,23–27,505–507,544–545). Selected passages, not all 550 PDF pages.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "ak-language-2",
+    "title": "Gramática Descriptiva Akateka — revisión de la actualización",
+    "author": "Juan Francisco Manuel and Hugo Benjamín Pérez Martínez, descriptive-grammar researchers; José Aurelio Silvestre Sánchez, revision reviewer",
+    "publisher": "Comunidad Lingüística Akateka, Academia de Lenguas Mayas de Guatemala",
+    "url": "https://almg.org.gt/wp-content/uploads/2025/09/Gramatica-Descriptiva-Akateka-actualizada.pdf",
+    "type": "Indigenous-led",
+    "publicationDate": "2013",
+    "topics": [
+      "Language",
+      "Regional variation",
+      "Community research",
+      "Grammar"
+    ],
+    "annotation": "A revised descriptive report, dated 2013, made publicly available by ALMG. Its introduction explains fieldwork and workshops and limits its conclusions about regional differences. Classifier and lexical sections supply substantive analysis. Describes speech at a particular time; it is not the 2024 normative grammar or a current sociolinguistic survey.",
+    "contentReviewScope": "PDF1–3 credits; 13–14 introduction; 120–122 classifiers; 195–206 complement clauses and regional lexical analysis. PDF pagination, not unverified printed page numbers; 213-page file.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "ak-language-3",
+    "title": "Kukuy Ti’e Akateko / Aprendamos el Idioma Akateko",
+    "author": "Miguel Angel Barillas Felipe, credited preparer; Comunidad Lingüística Akateka",
+    "publisher": "Comunidad Lingüística Akateka, Academia de Lenguas Mayas de Guatemala",
+    "url": "https://almg.org.gt/wp-content/uploads/2025/09/CONTENIDO-KUKUY-TIE-AKATEKO-2-1.pdf",
+    "type": "Indigenous-led",
+    "documentDate": "2011 (preparation credit; separate publication date not established)",
+    "topics": [
+      "Language",
+      "Teaching resources",
+      "Literacy",
+      "Community education"
+    ],
+    "annotation": "Substantial teaching manual, with Barillas Felipe’s preparation credit dated 2011. Spanish and Akateko instructions accompany sound/letter work and literacy exercises. Its educational aims do not establish present classroom use or measured outcomes. The 2025 upload is not treated as its publication year. No pronunciation or audio audit is claimed.",
+    "contentReviewScope": "Printed/PDF1 credits; 5–16 introduction, alphabet and actual lessons; 49–55 literacy exercise format; 91 bibliography. Selected sections of 91 pages; narrative contents not summarized.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "ak-language-4",
+    "title": "Sb’i K’ultajb’al yet Qichmam Akateko / Toponimias Maya Akateka: San Miguel Acatán y San Rafael La Independencia",
+    "author": "Comunidad Lingüística Akateka",
+    "publisher": "Comunidad Lingüística Akateka, Academia de Lenguas Mayas de Guatemala",
+    "url": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
+    "type": "Indigenous-led",
+    "publicationDate": "2019",
+    "topics": [
+      "Place names",
+      "Language",
+      "Local histories",
+      "Community scholarship"
+    ],
+    "annotation": "Community place-name study updating an earlier 2003 work. Entries combine linguistic analysis with local accounts; the conclusion credits older knowledgeable community members. Etymologies remain attributed interpretations, and settlement figures are dated estimates. Neither linguistic names nor this publication establish current property boundaries, access rights, or permission to reproduce cultural-site information.",
+    "contentReviewScope": "Title/credits; introduction i and following page (PDF9–10); printed pp.6–8,24–27,203 (PDF16–18,34–37,213). Selected sections of 217 pages; no map geometry extracted.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
+    "id": "ak-language-support-1",
+    "title": "Atlas Lingüístico Sonoro del Awakateko (ALISA) — introduction and linguistic affiliation",
+    "author": "Comunidad Lingüística Awakateka",
+    "publisher": "Comunidad Lingüística Awakateka / ALMG, with CIESAS-Sureste and CIMSUR-UNAM collaboration",
     "url": "https://alisa.aldelim.org/",
     "type": "Indigenous-led",
     "topics": [
+      "Language classification",
+      "Names",
+      "Awakateko distinction",
       "Language",
       "Audio",
       "Community research"
     ],
-    "annotation": "Community-led interactive atlas with 400 entries, nine research locations, speaker recordings and transparent sampling methods. Explains local variation and provides a bibliography of community grammars and dictionaries.",
-    "accessed": "2026-10-19",
+    "annotation": "Primary community-led orientation for the neighboring Awakateko language. Section 5 places it in the Mamean group and identifies its Aguacatán core. Retained solely to distinguish names, outside the Akateko substantive inspected count. Its audio corpus, figures and speaker totals are not adopted.",
+    "contentReviewScope": "Inspected introduction and §§4–5,11–12 for project authorship, classification, credits and access terms; not the interactive corpus or audio. Publication date not established.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "countsTowardMinimum": false,
     "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      },
       {
         "name": "Awakateko",
         "slug": "awakateko"
+      }
+    ]
+  },
+  {
+    "id": "ak-plan",
+    "title": "Plan de Desarrollo Municipal y Ordenamiento Territorial: San Miguel Acatán, 2019–2032",
+    "publisher": "Concejo Municipal de San Miguel Acatán, with SEGEPLAN technical support",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/1313-PDM-OT-SAN_MIGUEL_ACATAN_PDMOT.pdf",
+    "type": "Government",
+    "topics": [
+      "Local government",
+      "Education",
+      "Livelihoods",
+      "Planning"
+    ],
+    "annotation": "Inspected municipal geography, diagnostic sections and development vision. Documents a 2019 planning process in a municipality identified with the Akateka language community. Proposed services and the 2032 vision are intentions, not verified results. Mixed-year statistics and local estimates are not used as current rates. The report’s evaluative generalizations about residents are not adopted. A municipal jurisdiction is not the whole people’s homeland.",
+    "contentReviewScope": "PDF pp. 1–3, 10, 14–15, 26, 28, 30–31 and 52, plus selected web-rendered education passages; no complete implementation audit.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
       }
     ]
   },
@@ -6813,6 +6975,33 @@
       {
         "name": "Tübatulabal",
         "slug": "tubatulabal"
+      }
+    ]
+  },
+  {
+    "id": "ak-migration-3",
+    "title": "La fotografía y el trabajo etnográfico. El caso de la comunidad akateka: La Gloria.",
+    "author": "Verónica Ruiz-Lagier",
+    "publisher": "EntreDiversidades 9(2/19):35–62 / Universidad Autónoma de Chiapas",
+    "url": "https://entrediversidades.unach.mx/index.php/entrediversidades/article/download/486/609?inline=1",
+    "alternateUrl": "https://entrediversidades.unach.mx/index.php/entrediversidades/article/view/486",
+    "type": "Academic / reference",
+    "topics": [
+      "Refugee history",
+      "Community memory",
+      "Mexico",
+      "Photography",
+      "Public history"
+    ],
+    "annotation": "Read the complete substantive publisher HTML, from introduction through conclusions, and checked original metadata; downloaded PDF, without claiming visual image analysis. A November 2021 visit adds new La Gloria memory/photography evidence to the author’s earlier work. Publisher dates publication March 6, 2024; SciELO’s later deposit date is not the original publication. Photographs were supplied for the event; the proposed museum/archive donation is not established as complete. No ritual instructions, photographs or precise cultural sites are reproduced.",
+    "publicationDate": "2024-03-06",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "contentReviewScope": "Complete substantive publisher HTML, introduction through conclusions; publisher metadata. No independent visual or film analysis.",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
       }
     ]
   },
@@ -10018,17 +10207,21 @@
     ]
   },
   {
-    "id": "inali",
+    "id": "ak-inali",
     "title": "Akateko — Catálogo de las Lenguas Indígenas Nacionales",
     "publisher": "Instituto Nacional de Lenguas Indígenas",
     "url": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
     "type": "Government",
     "topics": [
+      "Names",
       "Language",
-      "Homelands"
+      "Locations"
     ],
-    "annotation": "Records Kuti’ and locality references in Chiapas, Campeche, and Quintana Roo. A Mexican linguistic catalogue, not a comprehensive map or census of the entire people.",
-    "accessed": "2026-10-19",
+    "annotation": "Complete short language/locality table inspected. Records Kuti’ and named localities in Campeche, Chiapas and Quintana Roo. Useful orientation and naming evidence, kept outside the substantive target because it is a brief catalogue listing. It does not establish all settlements, current population, a homeland boundary or one government.",
+    "contentReviewScope": "Complete short table and heading; the catalogue’s linked wider documentation is not counted as separately read.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "countsTowardMinimum": false,
     "nations": [
       {
         "name": "Akateko",
@@ -10117,19 +10310,20 @@
     ]
   },
   {
-    "id": "inpi",
+    "id": "ak-inpi",
     "title": "Akatecos — Etnografía",
     "publisher": "Instituto Nacional de los Pueblos Indígenas",
     "url": "https://atlas.inpi.gob.mx/akatecos-etnografia/",
     "type": "Government",
     "topics": [
-      "History",
       "Identity",
-      "Homelands",
-      "Culture"
+      "Refuge",
+      "Community life"
     ],
-    "annotation": "Spanish-language overview centered on Mexico, including refuge from Guatemala, settlement, and cross-border community ties. Its scope and undated generalizations need to remain visible.",
-    "accessed": "2026-10-19",
+    "annotation": "Read all substantive ethnographic sections through the research tool. A Mexico-centered account of settlement, local institutions, livelihoods, clothing and public celebrations. Its undated present-tense generalizations are not a current survey. The history section places 1982 events before an ensuing reference to 1981; that sequence is not adopted. Empty headings supply no evidence. An ordinary automated fetch failed, which does not establish a reader paywall.",
+    "contentReviewScope": "Complete substantive webpage text; no linked audio, video or image collection reviewed.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
     "nations": [
       {
         "name": "Akateko",
@@ -10428,6 +10622,32 @@
       {
         "name": "Kalaallit",
         "slug": "kalaallit"
+      }
+    ]
+  },
+  {
+    "id": "ak-migration-4",
+    "title": "The Maya Peoples of L.A.",
+    "author": "Emilia Sánchez González, interviewing Aurora Pedro and Genesis Ek",
+    "publisher": "J. Paul Getty Trust / Getty News",
+    "url": "https://www.getty.edu/news/the-maya-peoples-of-la/",
+    "type": "Reporting / interview",
+    "topics": [
+      "Diaspora",
+      "Community voices",
+      "Language access",
+      "Identity",
+      "United States"
+    ],
+    "annotation": "Read the full October 10, 2022 original interview. Aurora Pedro is explicitly identified as Maya Akateko and Q’anjob’al; Genesis Ek has a separate Yucatan Maya background. Pedro recounts her family’s flight through Chiapas and advocates institutional language access. This is identified personal testimony, not a diaspora census or every family’s route. Broad introductory claims about ancient Maya language/script and group-wide arrival dates are not adopted.",
+    "publicationDate": "2022-10-10",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "contentReviewScope": "Full original interview text; personal testimony distinguished from the publisher’s broad introductory claims.",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
       }
     ]
   },
@@ -18373,6 +18593,34 @@
     ]
   },
   {
+    "id": "ak-migration-1",
+    "title": "Migración forzada y refugiados guatemaltecos en México: Relaciones transfronterizas e interculturalidad",
+    "author": "Joaquín Peña Piña; José Luis Francisco Mateo; Yaneth Candelaria López Méndez",
+    "publisher": "Punto Cunorte 6(11):104–128 / Universidad de Guadalajara",
+    "url": "https://revistas.cunorte.udg.mx/punto/article/download/89/330/726",
+    "alternateUrl": "https://revistas.cunorte.udg.mx/punto/article/view/89",
+    "type": "Academic / reference",
+    "topics": [
+      "Refugee history",
+      "Mexico",
+      "Community voices",
+      "Education",
+      "Land"
+    ],
+    "annotation": "Read printed pp.104–107 and 118–125 of the actual 25-page article. The publisher identifies coauthor Francisco Mateo as of Akateko and K’anjob’al origin and a child of refugees. Focuses on the mixed San Marcos community, including settlement, education promoters and cross-border ties. Originally published July 2020; current version updated February 2022. Narrated land acquisition is not a present title ruling. Language-loss percentages and broad historical generalizations are not adopted.",
+    "publicationDate": "2020-07-01",
+    "updatedDate": "2022-02-24",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "contentReviewScope": "Printed pp.104–107 and 118–125 of the 25-page article; publisher authorship/version metadata also inspected.",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
+      }
+    ]
+  },
+  {
     "id": "p312-s2",
     "title": "Puyallup Tribal Language - Culture",
     "publisher": "puyalluptriballanguage.org",
@@ -24230,6 +24478,28 @@
       {
         "name": "Maleku",
         "slug": "maleku"
+      }
+    ]
+  },
+  {
+    "id": "ak-history",
+    "title": "Historia y memorias de la comunidad étnica Akateka, volumen II, versión escolar (1997)",
+    "publisher": "Universidad Rafael Landívar, Instituto de Lingüística; editor Eleuterio Cahuec del Valle",
+    "url": "https://www.url.edu.gt/publicacionesurl/FileCS.ashx?Id=41611",
+    "type": "Academic / reference",
+    "topics": [
+      "Community memory",
+      "History",
+      "Homelands"
+    ],
+    "annotation": "Selected school-history and memory sections on village relationships, labor and displacement. The PDF copyright is 1997; a separate publisher catalogue says 2016, so no later revision is inferred. A teaching synthesis with narrated memories, not an independently checked chronology. Regional ancient-history claims, dated population figures and sweeping labor or land-law explanations are not adopted here.",
+    "contentReviewScope": "PDF pp. 3, 6–9, 14–15, 19–24 and 47–50; publisher catalogue records compared. Selected passages, not the complete book.",
+    "accessed": "2026-10-20",
+    "contentReviewedAt": "2026-10-20",
+    "nations": [
+      {
+        "name": "Akateko",
+        "slug": "akateko"
       }
     ]
   },

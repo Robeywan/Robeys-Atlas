@@ -13,4 +13,25 @@ function check(file){const html=fs.readFileSync(file,'utf8');assert(html.include
 walk(root);
 assert.equal(errors.length,0,errors.slice(0,20).join('\n'));
 for(const p of profiles){assert(p.sources.length>0,p.name+' lacks sources');assert(p.sections.length>0,p.name+' lacks sections');for(const section of p.sections){assert(section.sourceIds.length>0);for(const id of section.sourceIds)assert(p.sources.some(s=>s.id===id),p.name+' bad source reference');}}
+// Flexible-source policy: quantity compatibility fields never assign initial adequacy.
+const progress=JSON.parse(fs.readFileSync(path.join(root,'data/research-progress.json'),'utf8'));
+assert.equal(progress.length,profiles.length);
+assert.equal(new Set(progress.map(p=>p.slug)).size,profiles.length);
+for(const p of profiles){
+ const record=progress.find(r=>r.slug===p.slug);
+ assert(record,p.name+' missing progress record');
+ const checks=p.sources.filter(s=>s.contentReviewedAt&&s.countsTowardMinimum!==false).length;
+ assert.equal(record.recordedContentChecks,checks,p.name+' content-check count changed');
+ assert.equal(record.minimumSources,12);
+ assert.equal(record.sourceMinimumReached,checks>=12,p.name+' legacy quantity flag changed');
+ assert.equal(record.sourceTarget,12);
+ assert(p.initialAdequacy===undefined||(p.initialAdequacy&&typeof p.initialAdequacy==='object'&&!Array.isArray(p.initialAdequacy)),p.name+' malformed initialAdequacy');
+ const expected={status:'Not assessed',reviewedAt:null,rationale:'',remainingLimits:[],...(p.initialAdequacy||{})};
+ assert.deepEqual(record.initialAdequacy,expected,p.name+' adequacy must only come from explicit profile fields');
+ assert.equal(typeof expected.status,'string');assert(expected.status.trim());
+ assert(expected.reviewedAt===null||/^\d{4}-\d{2}-\d{2}$/.test(expected.reviewedAt));
+ assert.equal(typeof expected.rationale,'string');
+ assert(Array.isArray(expected.remainingLimits)&&expected.remainingLimits.every(x=>typeof x==='string'));
+ if(expected.status==='Adequate initial introduction')assert(expected.reviewedAt&&expected.rationale.trim(),p.name+' adequate status needs dated rationale');
+}
 console.log(JSON.stringify({profiles:profiles.length,original:original.length,additions:profiles.length-original.length,internalLinksChecked:linkCount,citationAnchorsChecked:anchors,errors:0}));

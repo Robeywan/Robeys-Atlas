@@ -1,154 +1,105 @@
 {
-  "scope": "HTTP availability only. Source content inspected separately; ordinary TLS validation retained. Blocked requests do not establish reader paywalls.",
+  "scope": "HTTP availability only; original content inspected separately. Ordinary TLS validation retained; no blocked request establishes a reader paywall.",
   "reviewedAt": "2026-10-20",
-  "originalId": 7,
+  "originalId": 8,
   "results": [
     {
-      "url": "https://alaskabeacon.com/wp-content/uploads/2024/03/AhtnaDictionary-smaller.pdf",
-      "status": 206,
-      "finalUrl": "https://alaskabeacon.com/wp-content/uploads/2024/03/AhtnaDictionary-smaller.pdf",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://frostline-dev.com/mentasta-language-lessons/",
+      "url": "https://alisa.aldelim.org/",
       "status": 200,
-      "finalUrl": "https://frostline-dev.com/mentasta-language-lessons/",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
+      "finalUrl": "https://alisa.aldelim.org/",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
       "contentType": "text/html; charset=UTF-8"
     },
     {
-      "url": "https://gulkanacouncil.org/wp-content/uploads/01-25-24_Gulkana_Master_Plan_PublicReviewDraft.v2.pdf",
+      "url": "https://almg.org.gt/wp-content/uploads/2025/09/CONTENIDO-KUKUY-TIE-AKATEKO-2-1.pdf",
       "status": 206,
-      "finalUrl": "https://gulkanacouncil.org/wp-content/uploads/01-25-24_Gulkana_Master_Plan_PublicReviewDraft.v2.pdf",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
+      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/CONTENIDO-KUKUY-TIE-AKATEKO-2-1.pdf",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
       "contentType": "application/pdf"
     },
     {
-      "url": "https://journal.oraltradition.org/wp-content/uploads/files/articles/28ii/11_28.2.pdf",
+      "url": "https://almg.org.gt/wp-content/uploads/2025/09/Gramatica-Descriptiva-Akateka-actualizada.pdf",
+      "status": 206,
+      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/Gramatica-Descriptiva-Akateka-actualizada.pdf",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://almg.org.gt/wp-content/uploads/2025/09/Literatura-Maya-Akateka-REDUCIDO.pdf",
+      "status": 206,
+      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/Literatura-Maya-Akateka-REDUCIDO.pdf",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
+      "status": 206,
+      "finalUrl": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://almg.org.gt/wp-content/uploads/2026/03/Gramatica-Normativa-Idioma-Akateko.pdf",
+      "status": 206,
+      "finalUrl": "https://almg.org.gt/wp-content/uploads/2026/03/Gramatica-Normativa-Idioma-Akateko.pdf",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://atlas.inpi.gob.mx/akatecos-etnografia/",
       "status": null,
-      "finalUrl": "https://journal.oraltradition.org/wp-content/uploads/files/articles/28ii/11_28.2.pdf",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
-      "error": "URLError: <urlopen error timed out>"
-    },
-    {
-      "url": "https://nvgakona.com/about-us/",
-      "status": 200,
-      "finalUrl": "https://nvgakona.com/about-us/",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://read.aupress.ca/read/memory-and-landscape/section/e5009997-c3e5-4177-a3b8-a9d15a01191c",
-      "status": 200,
-      "finalUrl": "https://read.aupress.ca/read/memory-and-landscape/section/e5009997-c3e5-4177-a3b8-a9d15a01191c",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
-      "contentType": "text/html"
-    },
-    {
-      "url": "https://www.ahtna.com/about/history-and-culture/",
-      "status": 206,
-      "finalUrl": "https://www.ahtna.com/about/history-and-culture/",
-      "checkedAt": "2026-10-20T19:19:45+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.ahtna.com/about/region%20map/",
-      "status": 206,
-      "finalUrl": "https://www.ahtna.com/about/region%20map/",
-      "checkedAt": "2026-10-20T19:19:46+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.ahtna.com/lands/lands-faq/",
-      "status": 206,
-      "finalUrl": "https://www.ahtna.com/lands/lands-faq/",
-      "checkedAt": "2026-10-20T19:19:46+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.ahtna.com/wp-content/uploads/Kanas-FALL-2018_FINAL-WEB-NF-1.pdf#page=8",
-      "status": 206,
-      "finalUrl": "https://www.ahtna.com/wp-content/uploads/Kanas-FALL-2018_FINAL-WEB-NF-1.pdf#page=8",
-      "checkedAt": "2026-10-20T19:19:46+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.ahtnatribal.org/_files/ugd/01ac7c_6621cdd53e7749deb8d335e7ddfe3670.pdf",
-      "status": 206,
-      "finalUrl": "https://97c12640-28e2-446a-9f09-af9b906f89f3.filesusr.com/ugd/01ac7c_6621cdd53e7749deb8d335e7ddfe3670.pdf",
-      "checkedAt": "2026-10-20T19:19:47+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.ahtnatribal.org/about-us",
-      "status": 200,
-      "finalUrl": "https://www.ahtnatribal.org/about-us",
-      "checkedAt": "2026-10-20T19:19:47+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.ahtnatribal.org/salmon-health",
-      "status": 200,
-      "finalUrl": "https://www.ahtnatribal.org/salmon-health",
-      "checkedAt": "2026-10-20T19:19:47+00:00",
-      "contentType": "text/html; charset=UTF-8"
-    },
-    {
-      "url": "https://www.alaskaanthropology.org/wp-content/uploads/2021/02/AJA-v17-Simeone-Homeland.pdf",
-      "status": 206,
-      "finalUrl": "https://www.alaskaanthropology.org/wp-content/uploads/2021/02/AJA-v17-Simeone-Homeland.pdf",
-      "checkedAt": "2026-10-20T19:19:47+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.chitinanative.com/history",
-      "status": 206,
-      "finalUrl": "https://www.chitinanative.com/history",
-      "checkedAt": "2026-10-20T19:19:47+00:00",
-      "contentType": "text/html;charset=utf-8"
-    },
-    {
-      "url": "https://www.chitinanative.com/land",
-      "status": 206,
-      "finalUrl": "https://www.chitinanative.com/land",
-      "checkedAt": "2026-10-20T19:19:48+00:00",
-      "contentType": "text/html;charset=utf-8"
-    },
-    {
-      "url": "https://www.doi.gov/sites/doi.gov/files/uploads/ahtna_doi_moa_with_signature_pages_final.pdf",
-      "status": 206,
-      "finalUrl": "https://www.doi.gov/sites/default/files/uploads/ahtna_doi_moa_with_signature_pages_final.pdf",
-      "checkedAt": "2026-10-20T19:19:48+00:00",
-      "contentType": "application/pdf"
-    },
-    {
-      "url": "https://www.nativeperspectives.net/Transcripts/Kathryn_Martin_interview.pdf",
-      "status": null,
-      "finalUrl": "https://www.nativeperspectives.net/Transcripts/Kathryn_Martin_interview.pdf",
-      "checkedAt": "2026-10-20T19:19:48+00:00",
+      "finalUrl": "https://atlas.inpi.gob.mx/akatecos-etnografia/",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
       "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
     },
     {
-      "url": "https://www.nps.gov/articles/000/aps-22-1-8.htm",
+      "url": "https://entrediversidades.unach.mx/index.php/entrediversidades/article/download/486/609?inline=1",
       "status": 206,
-      "finalUrl": "https://www.nps.gov/articles/000/aps-22-1-8.htm",
-      "checkedAt": "2026-10-20T19:19:48+00:00",
-      "contentType": "text/html;charset=UTF-8"
+      "finalUrl": "https://entrediversidades.unach.mx/index.php/entrediversidades/article/download/486/609?inline=1",
+      "checkedAt": "2026-10-21T00:21:50+00:00",
+      "contentType": "text/html; charset=UTF-8"
     },
     {
-      "url": "https://www.nps.gov/wrst/learn/historyculture/ahtna-and-wrangell-st-elias-national-park-and-preserve-an-ethnographic-overview-and-assessment.htm",
-      "status": 206,
-      "finalUrl": "https://www.nps.gov/wrst/learn/historyculture/ahtna-and-wrangell-st-elias-national-park-and-preserve-an-ethnographic-overview-and-assessment.htm",
-      "checkedAt": "2026-10-20T19:19:48+00:00",
-      "contentType": "text/html;charset=UTF-8"
+      "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/1313-PDM-OT-SAN_MIGUEL_ACATAN_PDMOT.pdf",
+      "status": 200,
+      "finalUrl": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/1313-PDM-OT-SAN_MIGUEL_ACATAN_PDMOT.pdf",
+      "checkedAt": "2026-10-21T00:21:51+00:00",
+      "contentType": "application/pdf"
     },
     {
-      "url": "https://www.uaf.edu/anlc/languages-move/ahtna.php",
-      "status": null,
-      "finalUrl": "https://www.uaf.edu/anlc/languages-move/ahtna.php",
-      "checkedAt": "2026-10-20T19:19:49+00:00",
-      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      "url": "https://revistas.cunorte.udg.mx/punto/article/download/89/330/726",
+      "status": 200,
+      "finalUrl": "https://revistas.cunorte.udg.mx/punto/es/article/download/89/330/726",
+      "checkedAt": "2026-10-21T00:21:51+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.getty.edu/news/the-maya-peoples-of-la/",
+      "status": 206,
+      "finalUrl": "https://www.getty.edu/news/the-maya-peoples-of-la/",
+      "checkedAt": "2026-10-21T00:21:51+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
+      "status": 206,
+      "finalUrl": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
+      "checkedAt": "2026-10-21T00:21:51+00:00",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.scielo.org.mx/pdf/alte/v21n42/v21n42a8.pdf",
+      "status": 206,
+      "finalUrl": "https://www.scielo.org.mx/pdf/alte/v21n42/v21n42a8.pdf",
+      "checkedAt": "2026-10-21T00:21:51+00:00",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.url.edu.gt/publicacionesurl/FileCS.ashx?Id=41611",
+      "status": 200,
+      "finalUrl": "https://www.url.edu.gt/publicacionesurl/FileCS.ashx?Id=41611",
+      "checkedAt": "2026-10-21T00:21:51+00:00",
+      "contentType": "application/pdf"
     }
   ]
 }

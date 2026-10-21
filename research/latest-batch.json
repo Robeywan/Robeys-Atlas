@@ -1,24 +1,33 @@
 {
   "reviewedAt": "2026-10-20",
-  "priority": "All A entries before further B research",
+  "priority": "A entries first; flexible quality-based target",
   "originalIds": [
-    7
+    8
   ],
   "names": [
-    "Ahtna"
+    "Akateko"
   ],
-  "sourceLinks": 21,
+  "sourceLinks": 14,
   "profiles": [
     {
-      "originalId": 7,
-      "name": "Ahtna",
-      "inspectedSources": 16,
-      "supportingInspectedReferences": 5,
-      "sections": 18
+      "originalId": 8,
+      "name": "Akateko",
+      "inspectedSources": 12,
+      "supportingInspectedReferences": 2,
+      "sections": 15,
+      "initialAdequacy": {
+        "status": "Adequate initial introduction",
+        "reviewedAt": "2026-10-20",
+        "rationale": "Twelve substantive works were inspected within recorded scopes. Community language publications, a dated historical synthesis, municipal planning, focused refuge and youth studies, and an identified diaspora interview support a useful educational starting point. Short locality and comparative-language references are excluded from the target. This assessment concerns introductory coverage, rather than comprehensive history, verified current conditions or community endorsement.",
+        "remainingLimits": [
+          "Early history needs stronger comparison with original and specialist records.",
+          "Current teaching outcomes and broader community perspectives remain open."
+        ]
+      }
     }
   ],
-  "nextOriginalId": 8,
-  "nextName": "Akateko",
+  "nextOriginalId": 9,
+  "nextName": "Alabama",
   "contributedStudies": 12,
   "contributedURLs": 226
 }

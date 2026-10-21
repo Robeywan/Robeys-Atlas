@@ -1,0 +1,65 @@
+{
+  "reviewedAt": "2026-10-20",
+  "entry": "Akateko",
+  "status": "Evidence notes only; no map geometry or sensitive-site locations created",
+  "publicGeography": [
+    {
+      "scope": "San Miguel Acatán municipality",
+      "period": "2019 municipal planning account",
+      "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/1313-PDM-OT-SAN_MIGUEL_ACATAN_PDMOT.pdf",
+      "precision": "Municipal jurisdiction and named service centers; no boundary geometry extracted",
+      "reuse": "PDF p. 3 permits reproduction with unaltered contents and author/editor credits. No map image reused; third-party cartographic credits require review."
+    },
+    {
+      "scope": "Named Mexican language localities",
+      "period": "INALI catalogue, date not established from this page",
+      "url": "https://www.inali.gob.mx/sitios/clin-inali/html/v_akateko.html",
+      "precision": "Named locality only; no coordinates extracted",
+      "reuse": "No blanket geographic-data reuse terms established; link retained, not a permission grant."
+    },
+    {
+      "scope": "Language community around San Miguel Acatán and San Rafael La Independencia; Jo’om",
+      "period": "1997 school account",
+      "url": "https://www.url.edu.gt/publicacionesurl/FileCS.ashx?Id=41611",
+      "precision": "Broad descriptive geography, not homeland boundaries",
+      "reuse": "Publisher reserves rights; no map or photograph reproduced."
+    }
+  ],
+  "studyLocalities": [
+    {
+      "name": "San Marcos, La Trinitaria, Chiapas",
+      "sourceId": "ak-migration-1",
+      "precision": "Published municipality/community identification only; no coordinates, map geometry or current title inferred",
+      "observedAt": "2026-10-20",
+      "sourceUrl": "https://revistas.cunorte.udg.mx/punto/article/download/89/330/726",
+      "period": "Retrospective refuge/settlement history, published 2020, version updated 2022",
+      "reuse": "Publisher page specifies CC BY-NC 4.0; no map or image reused. Inspect third-party credits before adaptation."
+    },
+    {
+      "name": "La Gloria, San Francisco and Nueva Libertad, La Trinitaria, Chiapas",
+      "sourceId": "ak-migration-2",
+      "precision": "Named communities in dated study; no boundaries or sensitive locations extracted",
+      "observedAt": "2026-10-20",
+      "sourceUrl": "https://www.scielo.org.mx/pdf/alte/v21n42/v21n42a8.pdf",
+      "period": "Youth study published 2011; fieldwork began 2002, with a dated 2010 interview",
+      "reuse": "No blanket cartographic/image reuse permission established; no geometry extracted."
+    },
+    {
+      "name": "Los Angeles, California",
+      "sourceId": "ak-migration-4",
+      "precision": "City-scale family/community testimony; no residential addresses or population estimate",
+      "observedAt": "2026-10-20",
+      "sourceUrl": "https://www.getty.edu/news/the-maya-peoples-of-la/",
+      "period": "Interview published 2022; individual family recollection includes arrival in Chiapas in 1982",
+      "reuse": "Interview linked; image credit belongs to CIELO. Image reuse permission not established; no photograph copied."
+    }
+  ],
+  "languagePlaceNames": {
+    "sourceUrl": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf",
+    "period": "2019 publication revising earlier work",
+    "scope": "San Miguel Acatán and San Rafael La Independencia",
+    "precision": "Named places and attributed descriptions; no geometry extracted",
+    "reuse": "No blanket reuse permission established. Link only; public text does not permit entry or cultural-site disclosure."
+  },
+  "reuseNote": "Study locality identifiers are retained as research evidence only. Inspect original map/image rights before any later reproduction."
+}
