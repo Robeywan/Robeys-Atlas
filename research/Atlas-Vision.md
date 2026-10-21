@@ -4,12 +4,12 @@ The owner has added credits. The account balance was verified at 1,000 and the o
 
 Keep the weekly conservation rule: stop substantive work at about 85% consumed except within the final 48 hours before that weekly reset, when small batches above 85% are permitted while preserving a finishing reserve. Identify the weekly window by 10,080 minutes and evaluate actual reset time independently of the shorter window. Missing weekly data does not mean zero usage.
 
-Immediate map priorities are Hawaii, Belize, West Virginia and Greenland, with map → regional names → directory links working clearly. The current audit found no Hawaii, Belize or West Virginia connections; Greenland already links Kalaallit. Verify missing peoples before adding directory access points, including a proposed Native Hawaiian entry. Complete remaining existing-entry map connections, then prioritize originals from the fifteen supplied Word studies and resume A-first source research. Cosmetics remain later. Preserve the four-record Coahuiltecan/Mojave draft in work/map-final-credit-draft.json for the next merge.
+The reviewed map batch is published: 469 of 470 access points now have sourced routes, including Hawaiʻi, Belize, West Virginia and Greenland. Yocona remains an explicit unresolved identity; no route was invented. The Coahuiltecan/Mojave draft is merged. Continue A-first research after this bounded map review; the latest renewed collection is Aleut/Unangax̂, with Alsea original11 next. Sixteen supplied studies contribute301 distinct URLs after the Tillamook addition. Cosmetics remain later.
 
 
-## Current credit authorization — October 21, 2026
+## Superseded credit authorization — historical record
 
-The owner explicitly authorizes using the remaining existing credit balance for sourced map connections and will obtain more later. This supersedes earlier 200/additional-100 caps for this continuation. The measured starting balance was67.203569 account-wide credits. Do not purchase credits or use manual resets. Save enough to verify, publish and checkpoint; the current operating reserve is recorded in work/atlas-remaining-credit-authorization.json. It is a one-time continuation, not a fresh allowance on each heartbeat. The weekly85%-consumed rule remains in force. Finish every entry’s sourced regional connection first, then prioritize the original publications linked in the fifteen supplied studies before deeper A-first research.
+Historical authorization, superseded by the900-credit authorization above: the owner previously authorized the then-remaining existing credit balance for sourced map connections. This supersedes earlier 200/additional-100 caps for this continuation. The measured starting balance was67.203569 account-wide credits. Do not purchase credits or use manual resets. Save enough to verify, publish and checkpoint; the current operating reserve is recorded in work/atlas-remaining-credit-authorization.json. It is a one-time continuation, not a fresh allowance on each heartbeat. The weekly85%-consumed rule remains in force. Finish every entry’s sourced regional connection first, then prioritize the original publications linked in the fifteen supplied studies before deeper A-first research.
 
 # Robey’s Atlas of Indigenous North America — owner’s vision
 
@@ -73,3 +73,8 @@ After the map milestone, prioritize the public URLs from the supplied Word studi
 
 The owner's renewed request to continue permits a small follow-up within the unspent portion of the existing additional 100-credit ceiling; it does not create another 100-credit allowance. Preserve the original baseline and account floor, reserve enough for publication, then checkpoint until ordinary availability or further owner direction. The existing public audience remains unchanged.
 
+
+
+## Latest reviewed research checkpoint — October 21, 2026
+
+Aleut/Unangax̂ now has thirteen substantive inspected works or bounded collections, fifteen cited sections and a documented initial-adequacy rationale. Remaining community, historical and current-evidence gaps stay open. Alsea, original entry11, is next; earlier B drafts remain saved. The public homepage map retains469/470 mapped access points and its generalized NaturalEarth geometry. Tillamook public reading leads bring the catalogue to sixteen studies and301 distinct URLs, separate from inspected sources.

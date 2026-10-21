@@ -1,6 +1,6 @@
-# Research queue from your thirteen studies
+# Research queue from your sixteen studies
 
-The thirteen supplied studies contain **241 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
+The sixteen supplied studies contain **301 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
 
 The research sequence remains alphabetical, beginning with the A entries. Historical war studies will support the relevant nation pages as that research progresses.
 
@@ -43,3 +43,8 @@ An earlier availability check covered the original 226 URLs. It found no HTTP 40
 ## Tonto Apache study added — October 20, 2026
 
 The thirteenth supplied study adds fifteen public URLs, bringing the catalog to 241 distinct URLs. All fifteen appear on Tonto Apache (395); three selected Western Apache context leads also appear on Apache (16), and six related-Nation leads on Yavapai Apache (443). The Payson tribe, historical Tonto labels, Cibecue/San Carlos context and the Yavapai-Apache Nation are not interchangeable. The 1972 Payson statutory name must not be matched to a modern government by name alone. Museum records require provenance and image-rights review; ceremonial materials require cultural/context review and are not reproduced. Labels remain supplied bibliographic identifications until originals are inspected. No substantive source-count or research-depth label changed; Alabama (9) remains next. The original attachment and its local path are not published. The earlier 226-URL availability pass remains a historical check; this new fifteen-link pass is recorded separately.
+
+
+## Tillamook study cataloged — October 21, 2026
+
+All 23 public URLs from the supplied Tillamook study are preserved as reading leads for Tillamook (384), with exact URL deduplication on the profile. The catalog now contains 16 studies and 301 distinct URLs: all earlier 279 remain, with 22 new URLs and one existing URL retained with this study's additional provenance. Supplied labels and extraction provenance do not establish original-source inspection. No substantive source count, narrative, depth label or content-review date changes. Keep Tillamook people, language and coastal communities distinct from the Siletz and Grand Ronde governments and broader Clatsop/Nehalem contexts. Full DOCX text, private paths and attachment fingerprints are excluded from the public extraction packet. Review scope, access, duplicate works, archival perspective and cultural permissions before promotion.

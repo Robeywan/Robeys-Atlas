@@ -1,0 +1,270 @@
+{
+  "reviewedAt": "2026-10-21",
+  "originalId": 10,
+  "name": "Aleut (Unangax̂)",
+  "status": "Independent packet and final integrated-profile review complete",
+  "packetsReviewed": [
+    "work/aleut-history-10-20261021.json",
+    "work/aleut-community-10-20261021.json",
+    "work/aleut-language-10-20261021.json"
+  ],
+  "scope": "Bounded independent evidence/schema review. No canonical or Site edits and no broad source discovery. Existing named originals were spot-checked as recorded; this is not a second full inspection of every work.",
+  "sourceCountAssessment": {
+    "history": {
+      "substantive": 5,
+      "renewedExisting": 2,
+      "newDistinct": 3,
+      "assessment": "Two NPS articles, original1988 enactment, selected commission chapter and selected memoir are distinct works. Renewals replace existing cards rather than adding copies."
+    },
+    "community": {
+      "substantive": 5,
+      "renewedExisting": 2,
+      "newDistinct": 3,
+      "assessment": "APIA history and culture-camp page renew existing works; constitution, brownfield/public-record collection and St. Paul newsletter are distinct additions. Brownfield page plus linked record count once; old/new newsletter URLs identify one work."
+    },
+    "language": {
+      "substantive": 3,
+      "supporting": 1,
+      "assessment": "APIA language program and NPS material-life page renew existing works. UAF language/literacy introduction is a distinct substantive resource. The archive finding aid is supporting; underlying books, recordings and catalogue links are not newly read works."
+    },
+    "expectedIntegratedSubstantive": 13,
+    "expectedIntegratedSupporting": 2,
+    "expectedIntegratedCards": 15,
+    "supportingCards": "Archive finding aid plus retained APIA Tribes directory. The latter must explicitly remain outside the substantive minimum."
+  },
+  "materialFindings": [
+    {
+      "id": "aleut-law-limited-conveyance",
+      "severity": "medium",
+      "sourceId": "ua10-h3",
+      "location": "ua10-hb3 / 1988 law scope",
+      "finding": "Section 207's principal compensation-in-lieu provision also has a limited village site surface-estate conveyance authorization in subsection (e), continuing onto102 Stat. 916. A categorical no-conveyance account would omit that exception.",
+      "preciseCorrection": "Title II addressed Attu land losses principally through compensation while also authorizing limited site conveyances. This did not mean restoration of Attu village. Describe statutory authorization, not proof of implementation.",
+      "scopeCorrection": "Visible law scope should include102 Stat. 903–904 and911–916; independent additional inspection of the continuation is recorded below.",
+      "status": "Verified resolved in integrated profile",
+      "clarifications": [
+        "The named recipient is the statute's defined Corporation, the Aleut Corporation, not every tribal government.",
+        "Subsection(e) concerns the traditional village surface estate and surrounding parcel. My initial message's cemetery shorthand was corrected after reading916 and must not enter the profile."
+      ]
+    },
+    {
+      "id": "aleut-nps-date-type",
+      "severity": "medium",
+      "sourceIds": [
+        "ua10-h1",
+        "ua10-h2"
+      ],
+      "location": "Source metadata publishedAt",
+      "finding": "The actual pages label2025-02-19 and2024-10-16 as Last updated, not verified original publication dates.",
+      "preciseCorrection": "Use updatedAt or documentDate stating Last updated; do not call these original publication dates.",
+      "status": "Verified resolved in integrated profile"
+    },
+    {
+      "id": "aleut-source-scope-persistence",
+      "severity": "integration",
+      "sourceIds": [
+        "ua10-h3",
+        "ua10-h4",
+        "ua10-h5"
+      ],
+      "finding": "History packet keeps exact selected-page scopes in a separate inspections array. These must survive into visible final source metadata rather than being lost when importing cards.",
+      "preciseCorrection": "Copy reviewedScope/sourceLocators and relevant limits into final source-card contentReviewScope or equivalent visible annotation. Selected report/memoir passages are not full-work reviews.",
+      "status": "Verified resolved in integrated profile"
+    },
+    {
+      "id": "aleut-local-evidence",
+      "severity": "integration",
+      "sourceIds": [
+        "ua10-c3",
+        "ua10-c5"
+      ],
+      "finding": "Community cards contain scratch localEvidence paths used for verification. These are useful in private evidence but are not public source routes.",
+      "preciseCorrection": "Omit localEvidence fields from published profile data/cards; keep primary HTTPS URLs and scope descriptions. Do not copy local evidence PDF/PNG files into the public Site.",
+      "status": "Verified resolved in integrated profile"
+    }
+  ],
+  "claimFitAssessment": {
+    "history": "No substantive mismatch found between the proposed wartime claims and checked NPS/memoir texts. Attuan captivity in Japan remains distinct from U.S.-administered Southeast Alaska camps. Survivor statements are attributed; casualty totals, exact duration and every-person compensation claims are omitted.",
+    "community": "No incorrect government equivalence found. APIA is a regional nonprofit; Aleut Corporation is a shareholder business; Qawalangin and St. Paul are particular governments. The constitutional account is tied to its1997 adoption, program schedules and contamination-record date discrepancies remain qualified, and newsletter priorities are dated rather than current outcome claims.",
+    "language": "Direct UAF read supports Unangam Tunuu naming, Eastern/Western plural forms and collaborative work with named speakers. Population/speaker estimates and linked tools are explicitly outside the claim. Alutiiq/Sugpiaq is correctly kept distinct.",
+    "countAndUse": "Every packet source is used meaningfully in its proposed prose. No unread film, book catalogue, archive item, nominee sanctuary document or same-work mirror is added to the substantive count."
+  },
+  "additionalIndependentInspections": [
+    {
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/STATUTE-102/pdf/STATUTE-102-Pg903.pdf",
+      "title": "Public Law 100–383",
+      "reviewDate": "2026-10-21",
+      "method": "Direct web text for purposes/findings and ordinary HTTPS download with pypdf for the actual enactment continuation.",
+      "reviewedScope": "102 Stat. 903–904;911–916, particularly definitions, community/individual remedies,207(a),(d),(e), and208 appropriations limits.",
+      "additionalScopeBeyondHistoryPacket": "102 Stat. 916, PDF page14, continuing207(e) and including207(f),208–209 and enacted/legislative metadata.",
+      "supportedPrecision": "Limited village site surface-estate conveyance was authorized alongside principal compensation. Authorization and current implementation are different claims.",
+      "limits": "No current-law amendment/eligibility or completed-conveyance audit; no legal advice."
+    },
+    {
+      "sourceUrl": "https://www.nps.gov/articles/000/unangax-internment.htm",
+      "title": "Evacuation and Internment",
+      "reviewDate": "2026-10-21",
+      "reviewedScope": "Complete short substantive narrative, survivor attributions, camp/community-rebuilding paragraphs and Last updated metadata.",
+      "finding": "Claim block fits; Last updated February 19,2025."
+    },
+    {
+      "sourceUrl": "https://www.nps.gov/aleu/learn/historyculture/unangax-restitution.htm",
+      "title": "Unangax̂ Restitution",
+      "reviewDate": "2026-10-21",
+      "reviewedScope": "Seek Justice, restitution panels, Legacy of Injustice, credits and Last updated metadata.",
+      "finding": "Advocacy and limitations narrative fits. The HR144 typo is present in one panel; the draft correctly does not reproduce it. Last updated October 16,2024."
+    },
+    {
+      "sourceUrl": "https://www.nps.gov/aleu/learn/historyculture/upload/Attu-Boy-Full-Publication.pdf",
+      "title": "Attu Boy",
+      "reviewDate": "2026-10-21",
+      "reviewedScope": "Title/edition; Maly preface and Mason introduction; selected return/resettlement passages and commentary.",
+      "finding": "Second Revised Edition 2012 and Brenda Maly's granddaughter/transcription role independently confirmed. Relatives' housing in Atka is supported, with narrator/editorial roles visible.",
+      "limits": "Not a whole-book audit. No kinship chart, detailed ritual material or photographs copied."
+    },
+    {
+      "sourceUrl": "https://www.uaf.edu/anlc/languages-move/aleut.php",
+      "title": "Unangam Tunuu / Aleut — Alaska Native Language Center",
+      "reviewDate": "2026-10-21",
+      "reviewedScope": "Actual naming/dialect/geography and literacy paragraphs, plus CoLang 2016 project descriptions.",
+      "finding": "Naming and collaboration claims fit. Undated population/speaker figures were not adopted; linked tools, books and recordings not inspected."
+    },
+    {
+      "sourceUrl": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+      "title": "History — APIA / Douglas W. Veltre",
+      "reviewDate": "2026-10-21",
+      "reviewedScope": "Publisher/author introduction, Population and Territory, Russian/American and Pribilof sections, Unangax Today institutional paragraphs.",
+      "finding": "Supports historical Alaska geography, compelled Pribilof movements and Aleut Corporation/APIA distinction. Undated present figures and broad religious/biological claims omitted."
+    },
+    {
+      "sourceUrl": "https://www.qawalangin.com/_files/ugd/aba7b3_c683a71f636a4ccfbee2a43571fa1f46.pdf",
+      "title": "Constitution of the Qawalangin Tribe of Unalaska",
+      "reviewDate": "2026-10-21",
+      "method": "Independently viewed the existing five rendered primary-PDF pages in private evidence.",
+      "reviewedScope": "Printed pages 1–3 and10–11: preamble, Article V council provisions, Article XI qualified records-access right and adoption election certification.",
+      "finding": "Named islands, seven elected council members, qualified access right and May 3,1997 adoption election are supported.",
+      "limits": "The certificate identifies the date the election was held; it is not proof of a separate publication date or full later-amendment review. Pages 4–9 not independently inspected."
+    }
+  ],
+  "limitations": [
+    "The commission chapter was assessed against its recorded selected-page scope and proposed claim; it was not independently downloaded in full during this review.",
+    "Culture-camp, brownfield and newsletter claims were checked for packet consistency and qualification, not all independently re-read from originals in this bounded pass.",
+    "Do not import localEvidence paths, inspection instructions or scratch-file fields into the public profile."
+  ],
+  "finalIntegratedCheck": {
+    "reviewedAt": "2026-10-21",
+    "location": "work/nations-atlas/data/profiles.json originalId 10",
+    "cards": 15,
+    "substantive": 13,
+    "supporting": 2,
+    "sections": 15,
+    "canonicalNamePreserved": true,
+    "uniqueSourceIds": true,
+    "uniqueSourceUrls": true,
+    "danglingSourceIds": [],
+    "unusedSubstantiveCards": [],
+    "uncitedSupportingCards": [
+      "p10-s5"
+    ],
+    "scopeAndDates": "NPS dates now use updatedAt. Full law continuation is visible in contentReviewScope. Selected memoir/report pages remain explicit. The six renewal IDs are preserved and not duplicated.",
+    "privateEvidence": "No localEvidence fields remain in integrated source cards. No packet-local PDF/PNG path is presented as a public source.",
+    "claimFit": "No remaining material identity or claim-scope issue found. Law now describes limited conveyance authorization without asserting implementation. Community/corporate distinctions and dated-program limits remain explicit.",
+    "sourceDerivedWordCounts": [
+      {
+        "id": "p10-s1",
+        "words": 144,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "p10-s2",
+        "words": 128,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "p10-s5",
+        "words": 38,
+        "counts": false,
+        "cited": false
+      },
+      {
+        "id": "ua10-c3",
+        "words": 147,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-c4",
+        "words": 143,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-c5",
+        "words": 150,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "p10-s7",
+        "words": 135,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-l2",
+        "words": 170,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "p10-s6",
+        "words": 128,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "p10-s3",
+        "words": 126,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-h4",
+        "words": 123,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-h5",
+        "words": 130,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "p10-s4",
+        "words": 117,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-h3",
+        "words": 117,
+        "counts": true,
+        "cited": true
+      },
+      {
+        "id": "ua10-l3",
+        "words": 106,
+        "counts": false,
+        "cited": true
+      }
+    ],
+    "notes": [
+      "The only uncited card is the explicitly supporting APIA directory p10-s5, retained as navigation. It does not inflate substantive totals. If a build invariant requires every card to be cited, it can be included as a navigation reference alongside the institutions section; this is not a newly inspected-content claim.",
+      "The constitution metadata's May 3,1997 date identifies the adoption election, not a demonstrated web publication date. Its annotation and section correctly describe the adoption election and current-amendment limits."
+    ],
+    "remainingMaterialFixes": []
+  }
+}

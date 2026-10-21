@@ -13,7 +13,7 @@ Updated October 21, 2026. The first milestone is an adequate, high-quality inspe
 | Ahtna | 21 | 16 | Yes; further research remains |
 | Akateko | 14 | 12 | Yes; initial coverage reviewed, gaps remain |
 | Alabama | 16 | 15 | Yes; initial coverage reviewed, gaps remain |
-| Aleut (Unangax̂) | 7 | 0 | No |
+| Aleut (Unangax̂) | 15 | 13 | Yes; initial coverage reviewed, gaps remain |
 | Algonquin | 3 | 0 | No |
 | Alsea | 6 | 0 | No |
 | Alutiiq | 7 | 0 | No |
@@ -32,6 +32,6 @@ Updated October 21, 2026. The first milestone is an adequate, high-quality inspe
 | Awaswas | 6 | 0 | No |
 | Ayapaneco | 6 | 0 | No |
 
-Nine of 27 A collections have at least twelve substantive inspected works. This is a quantity milestone; smaller collections require a separate recorded adequacy review. Existing five- or six-link source guides are not automatically adequate. Ahtna has sixteen substantive works and five supporting cards; Adai has fifteen substantive works and four supporting cards. Supporting references, unread leads, duplicate mirrors and bibliographic-only records do not inflate substantive counts.
+Ten of 27 A collections have at least twelve substantive inspected works. This is a quantity milestone; smaller collections require a separate recorded adequacy review. Existing five- or six-link source guides are not automatically adequate. Ahtna has sixteen substantive works and five supporting cards; Adai has fifteen substantive works and four supporting cards. Supporting references, unread leads, duplicate mirrors and bibliographic-only records do not inflate substantive counts.
 
-Next: **Aleut (Unangax̂)**, original entry 10. Alabama has fifteen substantive works and one supporting reference, with explicit initial-coverage review and remaining gaps. Akateko has a recorded adequate initial introduction with explicit scope and unresolved historical, geographic and contemporary gaps. Earlier stated gaps remain open; current program, language and community details need their appropriate dated evidence. New owner-contributed study links remain available for deeper revisits when important evidence warrants it.
+Next: **Alsea**, original entry 11. Aleut/Unangax̂ has thirteen substantive inspected works, one inspected supporting finding aid, a retained directory and fifteen cited sections; its initial introduction is assessed with explicit gaps. Alabama has fifteen substantive works and one supporting reference, with explicit initial-coverage review and remaining gaps. Akateko has a recorded adequate initial introduction with explicit scope and unresolved historical, geographic and contemporary gaps. Earlier stated gaps remain open; current program, language and community details need their appropriate dated evidence. New owner-contributed study links remain available for deeper revisits when important evidence warrants it.
