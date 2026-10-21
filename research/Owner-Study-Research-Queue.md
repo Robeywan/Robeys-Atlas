@@ -1,6 +1,6 @@
-# Research queue from your twelve studies
+# Research queue from your thirteen studies
 
-The twelve supplied studies contain **226 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
+The thirteen supplied studies contain **241 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
 
 The research sequence remains alphabetical, beginning with the A entries. Historical war studies will support the relevant nation pages as that research progresses.
 
@@ -37,4 +37,9 @@ The four current A profiles overlap with 2, 3, 5, and 5 supplied URLs respective
 
 The attachments themselves remain owner research material; this catalog organizes their public-source leads without publishing the full documents.
 
-A separate availability check covered all 226 URLs. It found no HTTP 404/410 responses or unrelated-domain redirects. Some sources returned institutional validation pages, access restrictions, incomplete responses, TLS errors, or timeouts; those remain queued for manual checking and have not been treated as reviewed sources.
+An earlier availability check covered the original 226 URLs. It found no HTTP 404/410 responses or unrelated-domain redirects. Some sources returned institutional validation pages, access restrictions, incomplete responses, TLS errors, or timeouts; those remain queued for manual checking and have not been treated as reviewed sources.
+
+
+## Tonto Apache study added — October 20, 2026
+
+The thirteenth supplied study adds fifteen public URLs, bringing the catalog to 241 distinct URLs. All fifteen appear on Tonto Apache (395); three selected Western Apache context leads also appear on Apache (16), and six related-Nation leads on Yavapai Apache (443). The Payson tribe, historical Tonto labels, Cibecue/San Carlos context and the Yavapai-Apache Nation are not interchangeable. The 1972 Payson statutory name must not be matched to a modern government by name alone. Museum records require provenance and image-rights review; ceremonial materials require cultural/context review and are not reproduced. Labels remain supplied bibliographic identifications until originals are inspected. No substantive source-count or research-depth label changed; Alabama (9) remains next. The original attachment and its local path are not published. The earlier 226-URL availability pass remains a historical check; this new fifteen-link pass is recorded separately.

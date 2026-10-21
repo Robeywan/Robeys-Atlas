@@ -56,4 +56,13 @@ Automation: Continue Indigenous Nations research.
 
 ## Supplied research studies
 
-The twelve DOCX studies supply 226 distinct public URLs. The owner explicitly requested their incorporation. They are linked as suggested reading on relevant profiles and in `/reading-leads/`, with review status separate from substantive inspected-source counts. Consult `Owner-Study-Research-Queue.md` and `Owner-Study-Source-URLs.json`; inspect each original before adopting claims. Preserve the full private attachments locally. Historical topic names must not be mistaken for separate peoples or uniform positions among allied communities.
+The thirteen DOCX studies supply 241 distinct public URLs. The owner explicitly requested their incorporation. They are linked as suggested reading on relevant profiles and in `/reading-leads/`, with review status separate from substantive inspected-source counts. Consult `Owner-Study-Research-Queue.md` and `Owner-Study-Source-URLs.json`; inspect each original before adopting claims. Preserve the full private attachments locally. Historical topic names must not be mistaken for separate peoples or uniform positions among allied communities.
+
+
+## Tonto Apache study added — October 20, 2026
+
+The thirteenth supplied study adds fifteen public URLs, bringing the catalog to 241 distinct URLs. All fifteen appear on Tonto Apache (395); three selected Western Apache context leads also appear on Apache (16), and six related-Nation leads on Yavapai Apache (443). The Payson tribe, historical Tonto labels, Cibecue/San Carlos context and the Yavapai-Apache Nation are not interchangeable. The 1972 Payson statutory name must not be matched to a modern government by name alone. Museum records require provenance and image-rights review; ceremonial materials require cultural/context review and are not reproduced. Labels remain supplied bibliographic identifications until originals are inspected. No substantive source-count or research-depth label changed; Alabama (9) remains next. The original attachment and its local path are not published. The earlier 226-URL availability pass remains a historical check; this new fifteen-link pass is recorded separately.
+
+## Owner-authorized home page photography — October 20, 2026
+
+The owner requested a modest home page visual update before further alphabetical research. Four authentic captioned photographs now supplement the existing landscape images: a named Diné weaving demonstration, a dated public Seattle powwow, a cautiously identified wampum museum display and a museum-recorded Apache basket. Photographer/artist credits and reuse terms are visible, with a detailed image record. This is a limited exception to the research-first schedule; broader nation-specific design and the interactive map remain later phases. Alabama remains the next research entry.

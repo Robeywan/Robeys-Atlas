@@ -1,0 +1,125 @@
+{
+  "scope": "Availability only, distinct from substantive source review",
+  "results": [
+    {
+      "url": "https://yavapai-apache.org/yavapai-apache-nation/",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": null,
+      "finalUrl": "https://yavapai-apache.org/yavapai-apache-nation/",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2509169122",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": 403,
+      "finalUrl": "https://www.pnas.org/doi/10.1073/pnas.2509169122",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.nps.gov/articles/apache.htm",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": 206,
+      "finalUrl": "https://www.nps.gov/articles/apache.htm",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://repository.si.edu/bitstreams/8c2718e9-e170-4b4d-9cc3-1f7aa5835feb/download",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": 403,
+      "finalUrl": "https://repository.si.edu/server/api/core/bitstreams/8c2718e9-e170-4b4d-9cc3-1f7aa5835feb/content",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://americanindian.si.edu/collections-search/object/NMAI_102624",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": 403,
+      "finalUrl": "https://americanindian.si.edu/collections-search/object/NMAI_102624",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://americanindian.si.edu/collections-search/object/NMAI_102621",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": 200,
+      "finalUrl": "https://americanindian.si.edu/collections-search/object/NMAI_102621",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.nps.gov/tont/learn/historyculture/yavapai_and_apache.htm",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": 206,
+      "finalUrl": "https://www.nps.gov/tont/learn/historyculture/yavapai_and_apache.htm",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://yavapai-apache.org/wp-content/uploads/2024/01/2024_01_12-Brief-History-of-YAN.pdf",
+      "checkedAt": "2026-10-21T01:22:03+00:00",
+      "status": null,
+      "finalUrl": "https://yavapai-apache.org/wp-content/uploads/2024/01/2024_01_12-Brief-History-of-YAN.pdf",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg783.pdf",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": 206,
+      "finalUrl": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg783.pdf",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://naair.arizona.edu/sites/default/files/constitution_tonto_apache_0.pdf",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": 206,
+      "finalUrl": "https://naair.arizona.edu/sites/default/files/constitution_tonto_apache_0.pdf",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://naair.arizona.edu/tonto-apache-tribe",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": 206,
+      "finalUrl": "https://naair.arizona.edu/tonto-apache-tribe",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.tontoapacheschools.org/about-1",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": 200,
+      "finalUrl": "https://www.tontoapacheschools.org/about-1",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://yavapai-apache.org/apache-grammar-and-use-of-the-apache-dictionary-class/",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": null,
+      "finalUrl": "https://yavapai-apache.org/apache-grammar-and-use-of-the-apache-dictionary-class/",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "url": "https://yavapai-apache.org/exodus-day-2026/",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": null,
+      "finalUrl": "https://yavapai-apache.org/exodus-day-2026/",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "url": "https://yavapai-apache.org/darnell-and-tahnee-baker-humbly-request-your-prayers-as-we-co-sponsor-an-apache-sunrise-ceremony-in-honor-of-our-god-daughter/",
+      "checkedAt": "2026-10-21T01:22:04+00:00",
+      "status": null,
+      "finalUrl": "https://yavapai-apache.org/darnell-and-tahnee-baker-humbly-request-your-prayers-as-we-co-sponsor-an-apache-sunrise-ceremony-in-honor-of-our-god-daughter/",
+      "scope": "HTTP availability sample only; not original-source content review",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    }
+  ]
+}
