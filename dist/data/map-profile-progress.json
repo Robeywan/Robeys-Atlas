@@ -368,11 +368,17 @@
     "originalId": 21,
     "name": "Atakapa",
     "slug": "atakapa",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 22,
@@ -703,11 +709,17 @@
     "originalId": 41,
     "name": "Carrier",
     "slug": "carrier",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 42,
@@ -833,11 +845,17 @@
     "originalId": 50,
     "name": "Chemehuevi",
     "slug": "chemehuevi",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 51,
@@ -1026,11 +1044,17 @@
     "originalId": 60,
     "name": "Chinook",
     "slug": "chinook",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 61,
@@ -1319,21 +1343,33 @@
     "originalId": 79,
     "name": "Cocopa",
     "slug": "cocopa",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 81,
     "name": "Coeur d'Alene",
     "slug": "coeur-dalene",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 82,
@@ -1381,11 +1417,17 @@
     "originalId": 85,
     "name": "Congaree",
     "slug": "congaree",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-SC",
+        "name": "South Carolina",
+        "key": "us-sc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 86,
@@ -1407,11 +1449,17 @@
     "originalId": null,
     "name": "Coquille",
     "slug": "coquille",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 87,
@@ -1528,11 +1576,17 @@
     "originalId": 94,
     "name": "Cupeño",
     "slug": "cupeno",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 95,
@@ -1727,11 +1781,17 @@
     "originalId": 106,
     "name": "Eufaula",
     "slug": "eufaula",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 107,
@@ -1779,11 +1839,17 @@
     "originalId": 110,
     "name": "Gabrielino-Tongva",
     "slug": "gabrielinotongva",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 111,
@@ -1874,11 +1940,17 @@
     "originalId": 116,
     "name": "Guachichil",
     "slug": "guachichil",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 117,
@@ -1957,11 +2029,17 @@
     "originalId": 122,
     "name": "Haisla",
     "slug": "haisla",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 123,
@@ -2449,11 +2527,17 @@
     "originalId": 152,
     "name": "Juaneño (Acjachemen)",
     "slug": "juaneno-acjachemen",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 151,
@@ -2533,11 +2617,17 @@
     "originalId": 155,
     "name": "Kansa (Kaw)",
     "slug": "kansa-kaw",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 156,
@@ -2585,11 +2675,17 @@
     "originalId": 159,
     "name": "Kashaya Pomo",
     "slug": "kashaya-pomo",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 160,
@@ -2615,31 +2711,49 @@
     "originalId": 162,
     "name": "Kato",
     "slug": "kato",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 163,
     "name": "Keres",
     "slug": "keres",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 164,
     "name": "Kewa Pueblo",
     "slug": "kewa-pueblo",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 169,
@@ -2698,21 +2812,33 @@
     "originalId": 167,
     "name": "Kiowa",
     "slug": "kiowa",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 168,
     "name": "Kiowa Apache",
     "slug": "kiowa-apache",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 170,
@@ -2786,21 +2912,33 @@
     "originalId": 175,
     "name": "Koyukon",
     "slug": "koyukon",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 176,
     "name": "Kumeyaay",
     "slug": "kumeyaay",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 177,
@@ -2864,11 +3002,17 @@
     "originalId": 181,
     "name": "Lassik",
     "slug": "lassik",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 182,
@@ -2982,41 +3126,65 @@
     "originalId": 185,
     "name": "Lipan Apache",
     "slug": "lipan-apache",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 186,
     "name": "Lower Tanana",
     "slug": "lower-tanana",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 187,
     "name": "Luiseño",
     "slug": "luiseno",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 188,
     "name": "Lumbee",
     "slug": "lumbee",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 189,
@@ -3138,21 +3306,33 @@
     "originalId": 197,
     "name": "Maricopa",
     "slug": "maricopa",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 198,
     "name": "Mashantucket Pequot",
     "slug": "mashantucket-pequot",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CT",
+        "name": "Connecticut",
+        "key": "us-ct"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 199,
@@ -3204,11 +3384,17 @@
     "originalId": 203,
     "name": "Mayangna",
     "slug": "mayangna",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "NI",
+        "name": "Nicaragua",
+        "key": "ni"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 204,
@@ -3262,11 +3448,17 @@
     "originalId": 207,
     "name": "Meherrin",
     "slug": "meherrin",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 208,
@@ -3335,21 +3527,33 @@
     "originalId": 212,
     "name": "Miami",
     "slug": "miami",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 213,
     "name": "Miccosukee",
     "slug": "miccosukee",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-FL",
+        "name": "Florida",
+        "key": "us-fl"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 214,
@@ -3391,11 +3595,17 @@
     "originalId": 216,
     "name": "Miwok",
     "slug": "miwok",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 217,
@@ -3521,21 +3731,33 @@
     "originalId": 226,
     "name": "Monacan",
     "slug": "monacan",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-VA",
+        "name": "Virginia",
+        "key": "us-va"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 227,
     "name": "Mono",
     "slug": "mono",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 228,
@@ -3593,11 +3815,17 @@
     "originalId": 232,
     "name": "Muscogee (Creek)",
     "slug": "muscogee-creek",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 233,
@@ -3655,11 +3883,17 @@
     "originalId": 237,
     "name": "Nanticoke",
     "slug": "nanticoke",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-DE",
+        "name": "Delaware",
+        "key": "us-de"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 238,
@@ -3815,11 +4049,17 @@
     "originalId": 249,
     "name": "Nipmuc",
     "slug": "nipmuc",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-MA",
+        "name": "Massachusetts",
+        "key": "us-ma"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 251,
@@ -3989,11 +4229,17 @@
     "originalId": 263,
     "name": "Ohlone",
     "slug": "ohlone",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 265,
@@ -4104,11 +4350,17 @@
     "originalId": 270,
     "name": "Opata",
     "slug": "opata",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 271,
@@ -4140,11 +4392,17 @@
     "originalId": 272,
     "name": "Otoe",
     "slug": "otoe",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 273,
@@ -4316,11 +4574,17 @@
     "originalId": 284,
     "name": "Pawnee",
     "slug": "pawnee",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 290,
@@ -4342,11 +4606,17 @@
     "originalId": 285,
     "name": "Pecos Pueblo",
     "slug": "pecos-pueblo",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 286,
@@ -4404,11 +4674,17 @@
     "originalId": 291,
     "name": "Pequot",
     "slug": "pequot",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CT",
+        "name": "Connecticut",
+        "key": "us-ct"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 292,
@@ -4430,21 +4706,33 @@
     "originalId": 293,
     "name": "Pima (Akimel O'odham)",
     "slug": "pima-akimel-oodham",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 294,
     "name": "Pirinda",
     "slug": "pirinda",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 295,
@@ -4480,11 +4768,17 @@
     "originalId": 298,
     "name": "Plains Ojibwe",
     "slug": "plains-ojibwe",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 299,
@@ -4658,11 +4952,17 @@
     "originalId": 310,
     "name": "Pueblo",
     "slug": "pueblo",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 311,
@@ -4732,21 +5032,33 @@
     "originalId": 315,
     "name": "Quapaw",
     "slug": "quapaw",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 316,
     "name": "Quechan",
     "slug": "quechan",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 317,
@@ -4820,11 +5132,17 @@
     "originalId": 322,
     "name": "Rappahannock",
     "slug": "rappahannock",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-VA",
+        "name": "Virginia",
+        "key": "us-va"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 323,
@@ -4846,11 +5164,17 @@
     "originalId": 324,
     "name": "Rumsen",
     "slug": "rumsen",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 326,
@@ -4866,11 +5190,17 @@
     "originalId": 325,
     "name": "Sac (Sauk)",
     "slug": "sac-sauk",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 327,
@@ -5018,11 +5348,17 @@
     "originalId": 336,
     "name": "Saulteaux",
     "slug": "saulteaux",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": null,
@@ -5044,11 +5380,17 @@
     "originalId": 338,
     "name": "Sechelt (Shíshálh)",
     "slug": "sechelt-shishalh",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 337,
@@ -5090,11 +5432,17 @@
     "originalId": 341,
     "name": "Seneca",
     "slug": "seneca",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 342,
@@ -5146,11 +5494,17 @@
     "originalId": 346,
     "name": "Shinnecock",
     "slug": "shinnecock",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 347,
@@ -5197,11 +5551,17 @@
     "originalId": null,
     "name": "Siberian Yupik",
     "slug": "siberian-yupik",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 349,
@@ -5321,11 +5681,17 @@
     "originalId": 358,
     "name": "Squamish",
     "slug": "squamish",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 359,
@@ -5357,21 +5723,33 @@
     "originalId": 361,
     "name": "Stó:lō",
     "slug": "sto-lo",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 360,
     "name": "Stoney Nakoda",
     "slug": "stoney-nakoda",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-AB",
+        "name": "Alberta",
+        "key": "ca-ab"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 362,
@@ -5427,11 +5805,17 @@
     "originalId": 367,
     "name": "Tagish",
     "slug": "tagish",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-YT",
+        "name": "Yukon",
+        "key": "ca-yt"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": null,
@@ -5488,21 +5872,33 @@
     "originalId": 369,
     "name": "Taltan",
     "slug": "taltan",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 370,
     "name": "Tamien",
     "slug": "tamien",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 371,
@@ -5550,11 +5946,17 @@
     "originalId": 374,
     "name": "Tataviam",
     "slug": "tataviam",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 375,
@@ -5713,11 +6115,17 @@
     "originalId": 385,
     "name": "Timucua",
     "slug": "timucua",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-FL",
+        "name": "Florida",
+        "key": "us-fl"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 386,
@@ -5833,21 +6241,33 @@
     "originalId": 394,
     "name": "Tonkawa",
     "slug": "tonkawa",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 395,
     "name": "Tonto Apache",
     "slug": "tonto-apache",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 397,
@@ -5869,11 +6289,17 @@
     "originalId": 396,
     "name": "Towa",
     "slug": "towa",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 399,
@@ -5947,11 +6373,17 @@
     "originalId": 403,
     "name": "Tsleil-Waututh",
     "slug": "tsleilwaututh",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 404,
@@ -6019,11 +6451,17 @@
     "originalId": 409,
     "name": "Tulalip",
     "slug": "tulalip",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 410,
@@ -6055,11 +6493,17 @@
     "originalId": 412,
     "name": "Tutchone",
     "slug": "tutchone",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-YT",
+        "name": "Yukon",
+        "key": "ca-yt"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 413,
@@ -6253,11 +6697,17 @@
     "originalId": 426,
     "name": "Wanapum",
     "slug": "wanapum",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 427,
@@ -6315,31 +6765,49 @@
     "originalId": null,
     "name": "Wet’suwet’en",
     "slug": "wetsuweten",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 431,
     "name": "Wichita",
     "slug": "wichita",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 432,
     "name": "Wintu",
     "slug": "wintu",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 433,
@@ -6485,21 +6953,33 @@
     "originalId": 442,
     "name": "Yavapai",
     "slug": "yavapai",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 443,
     "name": "Yavapai Apache",
     "slug": "yavapai-apache",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 444,
@@ -6515,21 +6995,33 @@
     "originalId": 445,
     "name": "Yokuts",
     "slug": "yokuts",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 446,
     "name": "Yuchi",
     "slug": "yuchi",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 447,
@@ -6561,11 +7053,17 @@
     "originalId": 449,
     "name": "Yup'ik",
     "slug": "yupik",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-21"
   },
   {
     "originalId": 450,

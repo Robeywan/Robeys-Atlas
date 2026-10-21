@@ -45,3 +45,8 @@ Record the photographer or artist, subject identification, context, date, credit
 3. Build the richer shared visual design and individual community treatments alongside that later map/design phase, with authentic, properly credited assets.
 
 The owner authorized the basic region map now; major decorative redesign remains outside routine research runs. Suitable public geography and image leads may be recorded while researching. No map provider or Google product integration has been selected.
+
+
+## Additional bounded continuation — October21,2026
+
+The owner explicitly authorized an additional100-credit maximum to continue sourced map connections for the206 entries awaiting evidence at this checkpoint. This is one bounded authorization, not an automatically renewed per-run allowance. Preserve a substantial reserve for verification, publication and handoff. The all-entry map-coverage milestone remains ahead of deeper profile research. The geography correction and its stated generalized scale remain intact.

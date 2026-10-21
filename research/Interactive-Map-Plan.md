@@ -51,3 +51,8 @@ Source collections across the directory come first; the owner has explicitly all
 - Profile links preserve existing directory routes; keyboard access, phone/touch behavior, readable small-region selection and the searchable list alternative work.
 - Coverage notes explain missing research and avoid implying that a state/country is an Indigenous homeland boundary or that every listed people occupied all of it.
 - Review the prototype with the owner before expanding it across the directory or adding more elaborate globe and terrain controls.
+
+
+## Additional bounded continuation — October21,2026
+
+The owner explicitly authorized an additional100-credit maximum to continue sourced map connections for the206 entries awaiting evidence at this checkpoint. This is one bounded authorization, not an automatically renewed per-run allowance. Preserve a substantial reserve for verification, publication and handoff. The all-entry map-coverage milestone remains ahead of deeper profile research. The geography correction and its stated generalized scale remain intact.

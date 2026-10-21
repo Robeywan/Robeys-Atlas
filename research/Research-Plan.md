@@ -78,3 +78,8 @@ The thirteenth supplied study adds fifteen public URLs, bringing the catalog to 
 ## Owner-authorized home page photography — October 20, 2026
 
 The owner requested a modest home page visual update before further alphabetical research. Four authentic captioned photographs now supplement the existing landscape images: a named Diné weaving demonstration, a dated public Seattle powwow, a cautiously identified wampum museum display and a museum-recorded Apache basket. Photographer/artist credits and reuse terms are visible, with a detailed image record. This is a limited exception to the research-first schedule; broader nation-specific design and the interactive map remain later phases. Alabama remains the next research entry.
+
+
+## Additional bounded continuation — October21,2026
+
+The owner explicitly authorized an additional100-credit maximum to continue sourced map connections for the206 entries awaiting evidence at this checkpoint. This is one bounded authorization, not an automatically renewed per-run allowance. Preserve a substantial reserve for verification, publication and handoff. The all-entry map-coverage milestone remains ahead of deeper profile research. The geography correction and its stated generalized scale remain intact.
