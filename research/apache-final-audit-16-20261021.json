@@ -1,0 +1,541 @@
+{
+  "originalId": 16,
+  "name": "Apache",
+  "reviewedAt": "2026-10-21",
+  "assessment": "PASS: no material correction requested. Latest canonical has 15 cards,12 substantive works and 15 sections; seven original URLs remain primary routes. All combined budgets pass, including the new Jicarilla overview citation and a conservative extra rights-note check.",
+  "auditScope": "Bounded read-only review of canonical profile 16, five research packets and three audit notes, with independent selected original-source spot-checks. No new source discovery, canonical/Site edits, contact or delegation.",
+  "profilePath": "work/nations-atlas/data/profiles.json",
+  "profileSnapshotSha256": "c676a812fa392f859167805f2300eebae3636619d1cd655332c092e4e809130a",
+  "inputs": [
+    "work/apache-eastern-16-20261021.json",
+    "work/apache-western-16-20261021.json",
+    "work/apache-history-16-20261021.json",
+    "work/apache-language-16-20261021.json",
+    "work/apache-jicarilla-16-20261021.json",
+    "work/apache-eastern-audit-16-20261021.md",
+    "work/apache-western-history-audit-16-20261021.md",
+    "work/apache-language-audit-16-20261021.md"
+  ],
+  "reviewIndependence": "Reviewer authored the eastern packet earlier. Eastern checks here are consistency/integration checks against that earlier inspection plus its separate peer audit. Western/history and Jicarilla checks below include independent original-content reading. Language relies on the separate independent cross-audit; no full new language-source review claimed.",
+  "findings": [],
+  "unresolvedFindingCount": 0,
+  "counts": {
+    "sourceCards": 15,
+    "substantiveWorks": 12,
+    "supportingOrientations": 2,
+    "unresolvedAccessPoints": 1,
+    "sections": 15,
+    "allCountFlagsExplicit": true,
+    "duplicateIds": 0,
+    "missingSectionCitations": [],
+    "missingOverviewCitations": [],
+    "uncitedCards": []
+  },
+  "originalSevenUrlChecks": [
+    {
+      "sourceId": "p16-s1",
+      "originalUrl": "https://www.okhistory.org/publications/enc/entry?entry=AP002",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    },
+    {
+      "sourceId": "p16-s2",
+      "originalUrl": "https://yavapai-apache.org/yavapai-apache-nation/",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    },
+    {
+      "sourceId": "p16-s3",
+      "originalUrl": "https://www.scat-nsn.gov/our-history/",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    },
+    {
+      "sourceId": "p16-s4",
+      "originalUrl": "https://fortsillapache-nsn.gov/history-and-traditional-culture/history/",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    },
+    {
+      "sourceId": "p16-s5",
+      "originalUrl": "https://mescaleroapachetribe.com/our-culture/",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    },
+    {
+      "sourceId": "p16-s6",
+      "originalUrl": "https://www.lipanapachetribe.gov/LAT/aboutus.html",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    },
+    {
+      "sourceId": "p16-s7",
+      "originalUrl": "https://www.scat-nsn.gov/apache-language-preservation/",
+      "retainedAs": "primary source-card URL",
+      "pass": true
+    }
+  ],
+  "packetSourceComparisons": [
+    {
+      "packet": "eastern",
+      "packetId": "ae16-h1",
+      "canonicalId": "p16-s1",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "eastern",
+      "packetId": "ae16-h2",
+      "canonicalId": "p16-s4",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "eastern",
+      "packetId": "ae16-h3",
+      "canonicalId": "p16-s5",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "eastern",
+      "packetId": "ae16-h4",
+      "canonicalId": "p16-s6",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "western",
+      "packetId": "ap16-w1",
+      "canonicalId": "p16-s3",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "western",
+      "packetId": "ap16-w2",
+      "canonicalId": "p16-s2",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "western",
+      "packetId": "ap16-w3",
+      "canonicalId": "ap16-w3",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "history",
+      "packetId": "ap16-h1",
+      "canonicalId": "ap16-h1",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "history",
+      "packetId": "ap16-h2",
+      "canonicalId": "ap16-h2",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "history",
+      "packetId": "ap16-h3",
+      "canonicalId": "ap16-h3",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "language",
+      "packetId": "ap16-l1",
+      "canonicalId": "ap16-l1",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "language",
+      "packetId": "ap16-l2",
+      "canonicalId": "ap16-l2",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "language",
+      "packetId": "ap16-l3",
+      "canonicalId": "ap16-l3",
+      "present": true,
+      "identityMetadataDifferences": {}
+    },
+    {
+      "packet": "jicarilla",
+      "packetId": "ap16-j1",
+      "canonicalId": "ap16-j1",
+      "present": true,
+      "identityMetadataDifferences": {}
+    }
+  ],
+  "typeSchemaCheck": {
+    "allowedCategories": [
+      "Academic / reference",
+      "Government",
+      "Indigenous-led",
+      "Museum / archive",
+      "Reporting / interview"
+    ],
+    "categoryCounts": {
+      "Museum / archive": 1,
+      "Indigenous-led": 8,
+      "Government": 4,
+      "Academic / reference": 1,
+      "Reporting / interview": 1
+    },
+    "pass": true,
+    "note": "Root normalized type to supported filter categories and retained the detailed descriptor as sourceKind. This is a schema/filter correction, not loss of source perspective or a count change. The 8 Indigenous-led cards include supporting and unresolved cards; that filter total is not 8 substantive works.",
+    "retainedDetailedKinds": [
+      {
+        "sourceId": "p16-s1",
+        "type": "Museum / archive",
+        "sourceKind": "Historical reference / authored encyclopedia article"
+      },
+      {
+        "sourceId": "p16-s2",
+        "type": "Indigenous-led",
+        "sourceKind": null
+      },
+      {
+        "sourceId": "p16-s3",
+        "type": "Indigenous-led",
+        "sourceKind": null
+      },
+      {
+        "sourceId": "p16-s4",
+        "type": "Indigenous-led",
+        "sourceKind": "Community-authored public history"
+      },
+      {
+        "sourceId": "p16-s5",
+        "type": "Indigenous-led",
+        "sourceKind": "Community-authored historical and cultural account"
+      },
+      {
+        "sourceId": "p16-s6",
+        "type": "Indigenous-led",
+        "sourceKind": "Community government's historical self-account"
+      },
+      {
+        "sourceId": "ap16-j1",
+        "type": "Government",
+        "sourceKind": "Government / archive — historical primary constitutional text"
+      },
+      {
+        "sourceId": "ap16-h1",
+        "type": "Academic / reference",
+        "sourceKind": "Academic / reference"
+      },
+      {
+        "sourceId": "ap16-h3",
+        "type": "Government",
+        "sourceKind": "Government / archive"
+      },
+      {
+        "sourceId": "ap16-h2",
+        "type": "Government",
+        "sourceKind": "Academic / reference"
+      },
+      {
+        "sourceId": "ap16-l1",
+        "type": "Indigenous-led",
+        "sourceKind": "Indigenous-led / educational publication"
+      },
+      {
+        "sourceId": "ap16-l2",
+        "type": "Reporting / interview",
+        "sourceKind": "Primary institutional reporting / community partnership"
+      },
+      {
+        "sourceId": "ap16-l3",
+        "type": "Government",
+        "sourceKind": "Government / university regional report"
+      },
+      {
+        "sourceId": "ap16-w3",
+        "type": "Indigenous-led",
+        "sourceKind": "Indigenous-led / community educational institution"
+      },
+      {
+        "sourceId": "p16-s7",
+        "type": "Indigenous-led",
+        "sourceKind": null
+      }
+    ]
+  },
+  "wordCountMethod": "Whitespace-delimited annotation + contentReviewScope + every inspectedSubresources.scope + all full section prose citing the work + the full overview when cited. Multi-source prose is charged fully to each cited work. A separate stricter column also adds all rightsNote words; all pass 200. Bibliographic titles/date strings and private audit notes are excluded from derived prose.",
+  "overviewWords": 34,
+  "overviewSourceIds": [
+    "p16-s2",
+    "p16-s5",
+    "ap16-j1"
+  ],
+  "wordBudgets": [
+    {
+      "sourceId": "p16-s1",
+      "annotationWords": 37,
+      "scopeWords": 21,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 69,
+      "citedOverviewWords": 0,
+      "totalWords": 127,
+      "rightsNoteWords": 43,
+      "includingRightsNoteWords": 170,
+      "within200": true
+    },
+    {
+      "sourceId": "p16-s2",
+      "annotationWords": 33,
+      "scopeWords": 22,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 69,
+      "citedOverviewWords": 34,
+      "totalWords": 158,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 158,
+      "within200": true
+    },
+    {
+      "sourceId": "p16-s3",
+      "annotationWords": 35,
+      "scopeWords": 26,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 70,
+      "citedOverviewWords": 0,
+      "totalWords": 131,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 131,
+      "within200": true
+    },
+    {
+      "sourceId": "p16-s4",
+      "annotationWords": 42,
+      "scopeWords": 28,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 75,
+      "citedOverviewWords": 0,
+      "totalWords": 145,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 145,
+      "within200": true
+    },
+    {
+      "sourceId": "p16-s5",
+      "annotationWords": 40,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 75,
+      "citedOverviewWords": 34,
+      "totalWords": 174,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 174,
+      "within200": true
+    },
+    {
+      "sourceId": "p16-s6",
+      "annotationWords": 37,
+      "scopeWords": 28,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 67,
+      "citedOverviewWords": 0,
+      "totalWords": 132,
+      "rightsNoteWords": 24,
+      "includingRightsNoteWords": 156,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-j1",
+      "annotationWords": 34,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 71,
+      "citedOverviewWords": 34,
+      "totalWords": 164,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 164,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-h1",
+      "annotationWords": 36,
+      "scopeWords": 30,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 69,
+      "citedOverviewWords": 0,
+      "totalWords": 135,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 135,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-h3",
+      "annotationWords": 37,
+      "scopeWords": 28,
+      "subresourceScopeWords": 17,
+      "allCitedBodyWords": 68,
+      "citedOverviewWords": 0,
+      "totalWords": 150,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 150,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-h2",
+      "annotationWords": 38,
+      "scopeWords": 27,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 71,
+      "citedOverviewWords": 0,
+      "totalWords": 136,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 136,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-l1",
+      "annotationWords": 35,
+      "scopeWords": 27,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 68,
+      "citedOverviewWords": 0,
+      "totalWords": 130,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 130,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-l2",
+      "annotationWords": 39,
+      "scopeWords": 27,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 66,
+      "citedOverviewWords": 0,
+      "totalWords": 132,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 132,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-l3",
+      "annotationWords": 36,
+      "scopeWords": 28,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 69,
+      "citedOverviewWords": 0,
+      "totalWords": 133,
+      "rightsNoteWords": 23,
+      "includingRightsNoteWords": 156,
+      "within200": true
+    },
+    {
+      "sourceId": "ap16-w3",
+      "annotationWords": 34,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 66,
+      "citedOverviewWords": 0,
+      "totalWords": 125,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 125,
+      "within200": true
+    },
+    {
+      "sourceId": "p16-s7",
+      "annotationWords": 23,
+      "scopeWords": 21,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 48,
+      "citedOverviewWords": 0,
+      "totalWords": 92,
+      "rightsNoteWords": 0,
+      "includingRightsNoteWords": 92,
+      "within200": true
+    }
+  ],
+  "allCoreBudgetsPass": true,
+  "allBudgetsIncludingRightsNotesPass": true,
+  "maximumCoreBudget": {
+    "sourceId": "p16-s5",
+    "annotationWords": 40,
+    "scopeWords": 25,
+    "subresourceScopeWords": 0,
+    "allCitedBodyWords": 75,
+    "citedOverviewWords": 34,
+    "totalWords": 174,
+    "rightsNoteWords": 0,
+    "includingRightsNoteWords": 174,
+    "within200": true
+  },
+  "independentOriginalSpotChecks": [
+    {
+      "sourceId": "p16-s3",
+      "url": "https://www.scat-nsn.gov/our-history/",
+      "actualScope": "Fresh actual San Carlos historical body 277–297 read, especially seasonal livelihood 278–282 and confinement/schooling 289–295.",
+      "finding": "Supports the attributed local historical block. No exact institutional year, massacre total, graphic quotation, ancient-origin or ceremonial instruction is imported."
+    },
+    {
+      "sourceId": "p16-s2",
+      "url": "https://yavapai-apache.org/yavapai-apache-nation/",
+      "actualScope": "Fresh actual nation-hosted body 15–31 read.",
+      "finding": "Supports two distinct peoples, self-names/language affiliations, five Verde Valley communities and explicit 2019 demographic dating. Supporting orientation status is appropriate. No family label is universalized as one identical language."
+    },
+    {
+      "sourceId": "ap16-w3",
+      "url": "https://www.tontoapacheschools.org/about-1",
+      "actualScope": "Fresh actual Our Story/The School 14–27 and institutional footer read.",
+      "finding": "Supports the source-stated 2023 formation, curriculum/cultural direction and early-learning account. No independent statutory authority, present staffing, enrolment or outcomes claimed; supporting count is appropriate."
+    },
+    {
+      "sourceId": "ap16-h1",
+      "url": "https://in.nau.edu/wp-content/uploads/sites/128/2018/08/NMSU-07-ek.pdf",
+      "actualScope": "Fresh actual 551-page PDF reader: introduction printed 3–4 (PDF 12–13), selected captivity/history printed 245–249 (PDF 254–258); additional timeline/source cautions encountered, not treated as extra works.",
+      "finding": "Explicit methodological warning about non-Apache archival priorities supports the source-critical framing. Historical narrative supports movement through Florida/Alabama/Oklahoma and children sent to Carlisle. The apparent 1885/1886 anomaly is visible and properly excluded; no exact dubious date or numerical/casualty claim adopted."
+    },
+    {
+      "sourceId": "ap16-h2",
+      "url": "https://cdn.kpbs.org/news/documents/2012/03/07/FortApache_Nomination.pdf",
+      "actualScope": "Independently read actual saved nomination printed/PDF 38–39 and 66.",
+      "finding": "Confirms initial Navajo/Hopi enrolment and local Apache educational concerns, with preparation March 17,2011 and program May 13,2011 dates. Current identity, final designation and outcome claims are not inferred."
+    },
+    {
+      "sourceId": "ap16-h3",
+      "url": "https://www.govinfo.gov/app/details/SERIALSET-02448_00_00-074-0073-0000",
+      "actualScope": "Independently read actual saved Senate compilation printed/PDF 1,4–5.",
+      "finding": "Confirms ordered-printing February 3,1887, reported Carlisle transfers, provision for younger children in St. Augustine and officials discussing obtaining parental agreement. Claims remain administrative records within captivity, not proof of freely given consent or adequate care."
+    },
+    {
+      "sourceId": "ap16-j1",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llscd/37028947/37028947.pdf",
+      "actualScope": "Fresh actual LOC PDF text: title/GPO 1937 imprint, printed 1–3 (PDF 3–5),5–6 (PDF 7–8); ArticlesV–VI and approval/certification read directly.",
+      "finding": "Article V provides an elected district council and council-selected executive committee accountable to it. Article VI expressly recognizes earlier tribal powers. Printed 6 records July 3 ratification, July 29 approval recommendation and August 4,1937 federal approval. The profile correctly distinguishes ratification and approval and gives only a historical example.",
+      "accessLimit": "Ordinary direct PDF download returned 403; web screenshot rendering was unavailable. Selected actual source text was readable through the web PDF reader and duplicates OCR lines. No local valid PDF, independent visual-QA or full modern-constitution claim is made."
+    }
+  ],
+  "passedIntegrationSafeguards": [
+    "Plains Apache/Oklahoma, Fort Sill Chiricahua, Mescalero, the publishing Lipan government, San Carlos, Yavapai-Apache, Payson Tonto and historical Jicarilla remain distinct scopes. Yavapai does not become an Apache synonym; Mescalero composition does not encompass every Lipan/Chiricahua person.",
+    "Eastern chronology preserves 1894 Fort Sill transfer,1913 Mescalero movement and 1914 release/allotments for those remaining. Erroneous OHS and compressed Mescalero asides are not adopted. OHS 2010 publication and undated community pages remain distinct.",
+    "The 1937 Jicarilla edition is a primary historical document, not a current constitution, founding of the people, present membership/voting rule or district-boundary guide. Later amendments and 1938 charter remain unread. Unrelated janofficial.com material is excluded as current authority.",
+    "Western/history packet self-audit was not mislabeled as independent. This final review adds selected original readings while retaining limits on the unread remainder of each long source.",
+    "Language college/catalog, university Gowa report and regional statistical report retain separate authorship and source periods. Their existing independent audit supports aims/participation/evidence distinctions without current fluency, universal dialect, accreditation or clinical-outcome claims.",
+    "Yavapai introduction and Tonto school remain supporting false. Original San Carlos Language Preservation p16-s7 remains false and has no new contentReviewedAt; failed availability attempts do not renew actual content.",
+    "No chapter/letter/host/source bibliography inflation. Historical government records, later scholarship and community pages are genuinely distinct works, with sourceKinds preserved through supported-category normalization.",
+    "No source media, precise sensitive sites, ceremonial instructions, child/family names, present medical findings or personal eligibility rules appear in proposed body. Canonical source cards contain no private evidence paths or raw downloaded files.",
+    "Initial adequacy and reaching 12 sources remain separate from research completion or community endorsement. Explicit regional/topic/current-outcome gaps remain visible."
+  ],
+  "limits": [
+    "This review does not claim complete rereading of long reports, every underlying archive, current legal verification or community endorsement.",
+    "LOC image rendering was not available; the Jicarilla spot-check uses actual readable PDF text with clear repeated certification passages.",
+    "Only profile 16 and the specified packets/audits were reviewed; published bundle assets and unrelated profiles are outside scope.",
+    "Recompute source budgets if canonical prose or metadata change after this snapshot."
+  ],
+  "canonicalModified": false,
+  "newSourceDiscoveryPerformed": false,
+  "originalSourceSpotChecksPerformed": true
+}

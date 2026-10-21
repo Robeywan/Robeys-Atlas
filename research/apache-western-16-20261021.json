@@ -1,0 +1,164 @@
+{
+  "originalId": 16,
+  "name": "Apache",
+  "reviewedAt": "2026-10-21",
+  "packetScope": "Bounded Western Apache community pass: three actual readable works, one substantive historical narrative and two short supporting orientations. San Carlos language renewal unresolved. No Site/canonical edits, contacts or delegation.",
+  "sources": [
+    {
+      "id": "ap16-w1",
+      "renewalOf": "p16-s3",
+      "title": "Our History",
+      "publisher": "San Carlos Apache Tribe",
+      "url": "https://www.scat-nsn.gov/our-history/",
+      "type": "Indigenous-led",
+      "topics": [
+        "Seasonal land relationships",
+        "Colonial pressures",
+        "Reservation confinement",
+        "Education"
+      ],
+      "publicationDate": "Undated article; footer 2026 is not a demonstrated publication date",
+      "annotation": "A substantial tribe-published historical narrative, useful for a situated San Carlos/Western Apache perspective. Its account of disrupted livelihoods and assimilation is attributed. Detailed casualty numbers, graphic quotations, ceremonial material and broad territorial comparisons are excluded.",
+      "contentReviewScope": "Actual historical body, lines 277–297, read: seasonal livelihood, settler encroachment, confinement, schooling and ration dependence. Later archaeology/ceremonial paragraphs and linked sources are outside the proposed synthesis.",
+      "countsTowardMinimum": true,
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    },
+    {
+      "id": "ap16-w2",
+      "renewalOf": "p16-s2",
+      "title": "Yavapai-Apache Nation — identity and community introduction",
+      "publisher": "Yavapai-Apache Nation",
+      "url": "https://yavapai-apache.org/yavapai-apache-nation/",
+      "type": "Indigenous-led",
+      "topics": [
+        "Distinct peoples",
+        "Verde Valley",
+        "Community scope"
+      ],
+      "publicationDate": "Undated; population figures explicitly marked April 2019",
+      "annotation": "Brief but important primary orientation distinguishing two peoples within one nation. Retained as supporting identity evidence rather than a substantive-study count. Its dated population figures and undated service list are not current measurements.",
+      "contentReviewScope": "Actual complete substantive body, lines 15–31, read: identity/self-names, named communities,1995 enterprise paragraph and service descriptions. No linked laws or independent outcomes audited.",
+      "countsTowardMinimum": false,
+      "countReason": "Short identity/orientation page followed mainly by a service list; useful community authority without padding the substantive target.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    },
+    {
+      "id": "ap16-w3",
+      "title": "About Us — Tonto Apache Community School",
+      "publisher": "Tonto Apache Community School",
+      "url": "https://www.tontoapacheschools.org/about-1",
+      "type": "Indigenous-led / community educational institution",
+      "topics": [
+        "Education",
+        "Community direction",
+        "Tonto Apache"
+      ],
+      "publicationDate": "Undated page; school establishment described as 2023",
+      "annotation": "A short institution-published history and educational statement, discovered in the owner-contributed Tonto study and now actually inspected. It identifies local aspirations and formation; legal assertions, current staffing and educational outcomes were not independently verified.",
+      "contentReviewScope": "Actual Our Story and The School paragraphs, lines 14–27, plus publisher/footer identity read. No images, external law, enrolment materials, linked program pages or outcomes reviewed.",
+      "countsTowardMinimum": false,
+      "countReason": "Short school orientation, retained for a direct community educational voice rather than as an extensive source.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21"
+    }
+  ],
+  "claimBlocks": [
+    {
+      "id": "ap16-wb1",
+      "suggestedSection": "A San Carlos account of land and forced change",
+      "text": "The San Carlos Apache Tribe’s history describes seasonal movement between river valleys and higher country, linking planting, gathering and hunting with a varied landscape. It then recounts settler encroachment, confinement and assimilation policies that disrupted those relationships. Its schooling account describes separation from families and suppression of language and cultural practices. This community narrative provides a particular historical perspective; it does not establish one identical experience for every Apache people.",
+      "sourceIds": [
+        "ap16-w1"
+      ],
+      "sourceLocator": "Historical body lines 277–297, especially 278–282,289–295"
+    },
+    {
+      "id": "ap16-wb2",
+      "suggestedSection": "Two distinct peoples within the Yavapai-Apache Nation",
+      "text": "The Yavapai-Apache Nation’s own introduction identifies Yavapai and Apache as two distinct peoples and gives separate self-names and language affiliations. It locates the nation through five communities in Arizona’s Verde Valley. A shared government therefore should not flatten those identities into one interchangeable ethnic label. This concise primary page supplies orientation; its population figures are explicitly dated 2019, and its undated services list is not a verified current inventory.",
+      "sourceIds": [
+        "ap16-w2"
+      ],
+      "sourceLocator": "Introduction and identity paragraphs, lines 15–17; scope of service list 21–31"
+    },
+    {
+      "id": "ap16-wb3",
+      "suggestedSection": "A Tonto Apache educational institution",
+      "text": "Tonto Apache Community School’s account dates its establishment to 2023 and describes community control over curriculum and cultural learning. It also presents an early-learning program alongside primary and elementary education. These are the institution’s own formation history and stated aims. They provide a local educational example, rather than proof of present enrolment, learning outcomes, unchanged staffing or a single school system shared by all Apache nations.",
+      "sourceIds": [
+        "ap16-w3"
+      ],
+      "sourceLocator": "The School paragraphs, lines 19–27"
+    }
+  ],
+  "inspections": [
+    {
+      "sourceId": "ap16-w1",
+      "method": "Actual tribe-hosted historical body read through web reader; long navigation repeated by the site was not treated as source content.",
+      "limits": "No casualty counts, graphic passages, sacred names/instructions, detailed ritual descriptions, precise private sites or current demographic claims proposed.1872institutional assertions and excavation-derived ancient-origin claims are not independently corroborated in this packet."
+    },
+    {
+      "sourceId": "ap16-w2",
+      "method": "Actual nation-hosted full substantive public body read; brief identity and community explanation distinguished from later services list.",
+      "limits": "Self-names retained as this nation presents them. The Apache self-name here does not establish identical political membership with another government using a related term. No current citizenship eligibility, economic success or service capacity confirmed."
+    },
+    {
+      "sourceId": "ap16-w3",
+      "method": "Actual owner-study URL opened and public Our Story/The School text read. Page identifies the Tonto Apache institution, references formation under tribal law and uses a Tonto Apache domain for one staff address; no private contact made.",
+      "limits": "This is source content review beyond the earlier document-lead extraction.1972recognition and statutory-control statements are not independently verified or adopted as legal findings. A claimed establishment year is distinct from a publication date or measured outcome. Staff details, photographs and enrolment/contact data not republished."
+    }
+  ],
+  "unresolvedRenewals": [
+    {
+      "renewalOf": "p16-s7",
+      "title": "Apache Language Preservation",
+      "publisher": "San Carlos Apache Tribe",
+      "url": "https://www.scat-nsn.gov/apache-language-preservation/",
+      "accessed": "2026-10-21",
+      "countsTowardMinimum": false,
+      "status": "Two bounded actual web opens timed out. An ordinary validated HTTPS request failed certificate verification; no TLS bypass or alternative unverified host used. No fresh article body was obtained.",
+      "reviewScope": "Availability attempts only in this pass. Preserve the original access point and any clearly dated prior review provenance; do not assign new contentReviewedAt or claim renewed substantive inspection.",
+      "priorBaselineContext": "The baseline Atlas card had been accessed2026-10-19, but this pass did not independently recover that article text. Its old annotation is not substituted for fresh content."
+    }
+  ],
+  "countAndScopeNotes": [
+    "One substantive history plus two primary supporting orientations; do not promote short pages merely to reach four. All three proposed claim blocks cite the actual inspected works.",
+    "Renew San Carlos history and Yavapai-Apache baseline cards rather than adding duplicate cards for the same URLs. The unresolved language URL must remain navigable without a false new review date.",
+    "San Carlos history and Tonto school statements are different works with different community scope. Neither can describe every Western Apache or all Apache-speaking people.",
+    "Yavapai and Apache remain distinct peoples within the Yavapai-Apache Nation. The Payson-area Tonto Apache Tribe and its school are separate institutional subjects. A related self-name does not prove governmental equivalence.",
+    "The1972Payson statute was a contributed lead, not an inspected work in this packet. Do not attach its historical legal name to Yavapai-Apache Nation by name alone.",
+    "The owner DOCX is lead provenance, not a source of independently verified facts or authority to reproduce full attachments. No source images, ceremony content or precise locations are proposed."
+  ],
+  "discoveryOnlyAndExcluded": [
+    {
+      "url": "https://wmat.us/",
+      "title": "White Mountain Apache Tribe homepage",
+      "countsTowardMinimum": false,
+      "status": "Search lead identified institutional page but actual root opening timed out. Search summary is not an inspected historical work; no current membership or school-operation claim adopted. No additional White Mountain work pursued after the readable Tonto example."
+    },
+    {
+      "url": "https://naair.arizona.edu/sites/default/files/constitution_tonto_apache_0.pdf",
+      "countsTowardMinimum": false,
+      "status": "Owner-study lead only in this pass; no constitution content or current legal inference adopted."
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg783.pdf",
+      "countsTowardMinimum": false,
+      "status": "Contributed1972statute lead; not read in this pass, not counted or applied to a government."
+    }
+  ],
+  "researchGaps": [
+    "A fresh actual San Carlos Language Preservation reading is still needed; this packet does not renew that card’s content date.",
+    "The short Yavapai-Apache and Tonto school introductions provide valuable direct voices but do not substitute for fuller historical, educational or governance evidence.",
+    "This bounded Western Apache packet complements, rather than replaces, separate Plains, Jicarilla, Mescalero, Chiricahua and Lipan histories or sources on distinct modern governments."
+  ],
+  "summary": {
+    "actualInspectedWorks": 3,
+    "substantiveUnits": 1,
+    "supportingUnits": 2,
+    "unresolvedRenewals": 1,
+    "countingNote": "Fit prioritized over a four-work quota. No count for failed opens, search text, contributed leads, navigation or duplicate versions."
+  }
+}

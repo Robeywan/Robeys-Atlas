@@ -1,0 +1,11 @@
+# Apache research review — October21,2026
+
+Twelve substantive inspected works, two supporting community introductions, one unresolved access point and fifteen cited sections. Initial adequacy is explicitly separate from reaching twelve, completing research or community endorsement.
+
+The umbrella collection distinguishes Plains Apache/Oklahoma, Fort Sill Chiricahua, Mescalero, Lipan, San Carlos and other Western Apache histories, Yavapai-Apache and Payson Tonto institutions, and a historical Jicarilla constitutional example. One government or school does not stand for all Apache people. Yavapai and Apache remain distinct peoples within the same nation. A modern Jicarilla community account remains a priority gap; a stale directory domain with unrelated commercial content is excluded as present authority.
+
+Actual selected sources include community histories, the1937Jicarilla constitution,1887official correspondence, a2010NPS assessment, a2011nomination, a2025–26college catalog and scoped educational reporting. The OHS introductory aside and an apparent NPS chronology anomaly are excluded. Initial Navajo/Hopi enrollment at the Theodore Roosevelt School is not converted into all-Apache attendance. Officials’ assertions of agreement or care under captivity are not free-consent or welfare findings. Historical documents are not current law or the origin of a people.
+
+Two short community introductions remain supporting, and failed San Carlos language-page recovery adds no count. Owner-contributed Tonto school reading was actually inspected and scoped; it is not a generic statutory or current-outcome claim. Current demographics, clinical benefits, precise cultural sites, ceremonies, private records, source photographs/designs/seals and maps are excluded. Publication, approval, catalog, report, preparation and upload dates are distinct.
+
+All470access points,454originals,301contributed URLs and sixteen-study provenance remain. Map geometry/associations and authentic imagery/credits are preserved. Jicarilla is recorded as a supported future access-point candidate rather than silently added without directory/map integration. Yocona remains unresolved. Apalachee original17 is next, with earlier B drafts and A gaps saved. Build, citations, map routes, preservation and representative rendered checks precede native publication.

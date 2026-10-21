@@ -1,0 +1,133 @@
+{
+  "originalId": 16,
+  "reviewedAt": "2026-10-21",
+  "packetScope": "Three substantive actual educational works with specific San Carlos or White Mountain regional scope. No Site edits, current language census or outcome claims.",
+  "sources": [
+    {
+      "id": "ap16-l1",
+      "title": "San Carlos Apache College Catalog2025–2026, version1.0 — selected history and language curriculum",
+      "publisher": "San Carlos Apache College",
+      "url": "https://www.apachecollege.org/wp-content/uploads/2025/12/SCAC-Course-Catalog-2025-2026-.pdf",
+      "type": "Indigenous-led / educational publication",
+      "topics": [
+        "Education",
+        "Language",
+        "Institutional history"
+      ],
+      "annotation": "An actual college catalog explains institutional history and language-course goals. Count selected pages as one work. Catalog requirements and aspirations are dated institutional evidence, rather than current course availability, accreditation verification or demonstrated learner outcomes.",
+      "contentReviewScope": "Actual151-page PDF downloaded normally after web timeout. Cover/contents and printed18–19,113 read; selected history, mission and APA101/102 descriptions. Not a whole-catalog, classroom or textbook review.",
+      "publicationDate": "2025–2026catalog year, version1.0; exact release day not established",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true
+    },
+    {
+      "id": "ap16-l2",
+      "title": "Extension program helps Apache children gain reading skills and cultural awareness",
+      "author": "Brad Poole",
+      "publisher": "University of Arizona Cooperative Extension",
+      "url": "https://www.extension.arizona.edu/news/extension-program-helps-apache-children-gain-reading-skills-and-cultural-awareness",
+      "type": "Primary institutional reporting / community partnership",
+      "topics": [
+        "Families",
+        "Early learning",
+        "Language",
+        "Community direction"
+      ],
+      "annotation": "Original institutional reporting includes a San Carlos Apache educator’s account of choosing books and working with Language Preservation. Its program narrative and reported benefits remain attributed; this is not an independent efficacy study or evidence of uniform Apache practice.",
+      "contentReviewScope": "Full actual article body and July31,2025byline read. Synthesis selects partnerships, caregiver learning and Melody Grace Thomas’s contribution. Linked2023evaluation, recordings and books not inspected.",
+      "publicationDate": "2025-07-31",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true
+    },
+    {
+      "id": "ap16-l3",
+      "title": "White Mountain Apache Tribe Region:2024Needs and Assets Report — selected language evidence",
+      "publisher": "Arizona Early Childhood Development and Health Board / First Things First; prepared by University of Arizona CRED",
+      "url": "https://naair.arizona.edu/sites/default/files/2025-10/First-Things-First-Regional-Needs-and-Assets-2024-WMAT.pdf",
+      "type": "Government / university regional report",
+      "topics": [
+        "Language evidence",
+        "Regional education",
+        "Research methods"
+      ],
+      "annotation": "A commissioned regional report combines dated data sources and local educational context. Selected language pages help readers distinguish measures and periods. No present speaker total, fluency inference or blanket account of all Apache communities is adopted.",
+      "contentReviewScope": "Actual169-page PDF: cover, title/copyright, introduction and selected printed35–40 (PDF36–41) language discussion, notes and source labels. Other chapters, underlying surveys and2022report not independently reviewed.",
+      "publicationDate": "2024cover/copyright;2025upload path is not report year",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true,
+      "rightsNote": "Title page permits copying/dissemination/use with appropriate acknowledgement. No source figures, maps or photographs are reused; no licence beyond that displayed permission is inferred."
+    }
+  ],
+  "claimBlocks": [
+    {
+      "suggestedSection": "A tribal college’s language-learning priorities",
+      "text": "San Carlos Apache College’s2025–26catalog traces its charter to2014 and opening to August2017. Its stated goals connect higher education with language and cultural renewal. Introductory language courses emphasize speaking, reading and listening, followed by grammar and increasingly complex communication. These are a particular college’s institutional history and planned curriculum, rather than proof of current enrolment, fluency outcomes or one language program for every Apache people.",
+      "sourceIds": [
+        "ap16-l1"
+      ],
+      "sourceLocator": "Printed18–19,113"
+    },
+    {
+      "suggestedSection": "Families and educators shaping early learning",
+      "text": "A2025Extension report describes Gowa as a San Carlos partnership involving tribal officials, schools, a library and early-childhood services. San Carlos Apache educator Melody Grace Thomas explains selecting books with Indigenous authors, people and settings while working with Apache Language Preservation. The account shows local participation in educational materials. It does not independently establish the program’s effects or imply identical family practices across Apache communities.",
+      "sourceIds": [
+        "ap16-l2"
+      ],
+      "sourceLocator": "Actual article lines25–40"
+    },
+    {
+      "suggestedSection": "Reading language statistics with their limits",
+      "text": "The2024White Mountain regional report brings together census-based home-language categories, school language records and a Head Start questionnaire. Those sources ask different questions of different groups, so their results are not interchangeable measures of Apache fluency. Its language-program discussion draws on an earlier2022report. This makes the publication useful for understanding evidence and local context, while leaving present language use and individual learning outcomes to further research.",
+      "sourceIds": [
+        "ap16-l3"
+      ],
+      "sourceLocator": "Printed35–40, especially36–37 and table notes40"
+    }
+  ],
+  "inspections": [
+    {
+      "sourceId": "ap16-l1",
+      "method": "Ordinary validated HTTPS downloaded2,948,605bytes/151pages. pypdf extracted text; selected pages reread directly after broad output truncation. Printed18–19and113 provided actual substantive content beyond cover/index.",
+      "limits": "Catalog’s goal of independent accreditation is not an achieved-status claim. No medical practices, private records, fee/admission recommendations or classroom recordings reused. Academic-year label is not release date. Other encountered pages are not represented as complete review."
+    },
+    {
+      "sourceId": "ap16-l2",
+      "method": "Actual university-authored article read through its full body and byline.",
+      "limits": "Headline/reported2023evaluation benefits are not adopted as independently established results. Related Gowa pages not another counted work. SanCarlospractice is not universalApachepractice. Leadstockimage and logos not downloaded/reused."
+    },
+    {
+      "sourceId": "ap16-l3",
+      "method": "Actual public university-hosted report text inspected beyond title, including selected language chapter paragraphs, table notes and dated source labels.",
+      "limits": "ACS category other than English/Spanish is not automatically an Apache speaker census; school records and parent-reported primary language measure different concepts. No numerical rates or causal COVID interpretation adopted, no medical/legal advice or sensitive household data. Region includes administrative/statistical scopes, not invented Indigenous boundaries."
+    }
+  ],
+  "unreadLeads": [
+    {
+      "title": "White Mountain Apache Language: Issues in Language Shift, Textbook Development, and Native Speaker-University Collaboration",
+      "author": "Bernadette Adley-Santamaria",
+      "url": "https://ais.arizona.edu/white-mountain-apache-language-issues-language-shift-textbook-development-and-native-speaker",
+      "status": "Actual university thesis listing identifies M.A./1997; full thesis not supplied there or inspected. Metadata alone adds no substantive work."
+    }
+  ],
+  "geographyNotes": [
+    {
+      "sourceUrl": "https://naair.arizona.edu/sites/default/files/2025-10/First-Things-First-Regional-Needs-and-Assets-2024-WMAT.pdf",
+      "communityScope": "White Mountain Apache Tribe regional report, with source-specific school/statistical units",
+      "period": "2024report drawing on older datasets",
+      "precision": "Regional context only, no new map boundary or point derived",
+      "reuse": "Report permits use with acknowledgement; no maps/figures/media reused"
+    }
+  ],
+  "researchGaps": [
+    "Broaden direct language scholarship and community-authored educational histories beyond SanCarlos/WhiteMountain examples.",
+    "Actual textbooks, older thesis and program evaluation remain unread; no complete linguistic survey, current vitality census or pronunciation assessment is claimed.",
+    "The inaccessible SanCarlosLanguagePreservation page is not silently renewed through a separate university report."
+  ],
+  "summary": {
+    "cards": 3,
+    "substantiveWorks": 3
+  }
+}
