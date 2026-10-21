@@ -1,0 +1,264 @@
+{
+  "originalId": 13,
+  "name": "Amuzgo",
+  "reviewedAt": "2026-10-21",
+  "auditScope": "Read-only comparison of canonical profile13, four research packets and three independent audit notes. No new web research, canonical/Site edits, contact or delegation.",
+  "profilePath": "work/nations-atlas/data/profiles.json",
+  "profileSnapshotSha256": "1b11baf3e2595969675922b6bad640ef84d7c5c936336fe81410371eb0d2fc12",
+  "inputs": [
+    "work/amuzgo-root-13-20261021.json",
+    "work/amuzgo-language-13-20261021.json",
+    "work/amuzgo-culture-13-20261021.json",
+    "work/amuzgo-history-13-20261021.json",
+    "work/amuzgo-culture-audit-13-20261021.md",
+    "work/amuzgo-history-audit-13-20261021.md",
+    "work/amuzgo-language-audit-13-20261021.md"
+  ],
+  "assessment": "Pass after a concurrent catalog-annotation correction observed during the audit. The initial203word total is now193; no unresolved material finding. Counts, citations, dates, naming, local scope and all per-work budgets pass the bounded comparison.",
+  "findings": [
+    {
+      "id": "am13-final-1",
+      "severity": "required",
+      "category": "combined source-derived word budget",
+      "sourceId": "am13-l1",
+      "location": "sources[id=am13-l1].annotation; overviewSourceIds includes am13-l1",
+      "evidence": "42 annotation +22 review scope +29 subresource scopes +76 cited section +34 cited overview =203words. Counting only section prose or omitting linked scopes misses the overage.",
+      "suggestedFix": {
+        "field": "annotation",
+        "replacement": "Catalog tables connect four Amuzgo variants, local self-designations and Guerrero–Oaxaca localities. Read with INALI’s category definitions as one collection. This institutional classification is not a current population survey or a list of four separate peoples.",
+        "replacementAnnotationWords": 35,
+        "resultingTotalWords": 196,
+        "status": "Alternative supplied in initial report; final canonical uses a different valid shorter annotation, so do not replace it unnecessarily."
+      },
+      "rationale": "Preserves four variants, local names/geography, one-collection grouping, and non-demographic/non-government limits while creating a small margin below200.",
+      "status": "resolved in canonical during audit; no audit edit performed",
+      "initialTotalWords": 203,
+      "verifiedFinalAnnotation": "Primary catalog tables connect four variants, local names and Guerrero–Oaxaca localities. Read with category definitions as one collection. This institutional linguistic classification is neither a current population survey nor four separate peoples.",
+      "verifiedFinalAnnotationWords": 32,
+      "verifiedFinalTotalWords": 193
+    }
+  ],
+  "counts": {
+    "sourceCards": 15,
+    "substantiveWorks": 11,
+    "supportingCards": 4,
+    "sections": 14,
+    "expectedCountsPass": true,
+    "duplicateIds": 0,
+    "missingSectionCitations": [],
+    "missingOverviewCitations": [],
+    "uncitedCards": []
+  },
+  "wordCountMethod": "Whitespace-delimited words. Per work, sum public annotation, contentReviewScope, every inspectedSubresources.scope, all full section text citing it, and the full overview when overviewSourceIds cites it. Multi-source prose is charged in full to each cited work. Bibliographic titles, URLs, dates and administrative audit notes are not added as derived prose. Do not describe this as an entire-source copyright assessment.",
+  "wordBudgets": [
+    {
+      "sourceId": "am13-l1",
+      "annotationWords": 32,
+      "scopeWords": 22,
+      "subresourceScopeWords": 29,
+      "allCitedBodyWords": 76,
+      "citedOverviewWords": 34,
+      "totalWords": 193,
+      "within200": true
+    },
+    {
+      "sourceId": "p13-s1",
+      "annotationWords": 23,
+      "scopeWords": 16,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 49,
+      "citedOverviewWords": 0,
+      "totalWords": 88,
+      "within200": true
+    },
+    {
+      "sourceId": "p13-s2",
+      "annotationWords": 35,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 50,
+      "citedOverviewWords": 0,
+      "totalWords": 110,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-l2",
+      "annotationWords": 41,
+      "scopeWords": 23,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 76,
+      "citedOverviewWords": 34,
+      "totalWords": 174,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-l3",
+      "annotationWords": 42,
+      "scopeWords": 22,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 72,
+      "citedOverviewWords": 0,
+      "totalWords": 136,
+      "within200": true
+    },
+    {
+      "sourceId": "p13-s3",
+      "annotationWords": 28,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 49,
+      "citedOverviewWords": 0,
+      "totalWords": 102,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-h1",
+      "annotationWords": 44,
+      "scopeWords": 26,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 74,
+      "citedOverviewWords": 0,
+      "totalWords": 144,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-l4",
+      "annotationWords": 43,
+      "scopeWords": 22,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 79,
+      "citedOverviewWords": 0,
+      "totalWords": 144,
+      "within200": true
+    },
+    {
+      "sourceId": "p13-s4",
+      "annotationWords": 33,
+      "scopeWords": 26,
+      "subresourceScopeWords": 16,
+      "allCitedBodyWords": 74,
+      "citedOverviewWords": 0,
+      "totalWords": 149,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-c1",
+      "annotationWords": 39,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 71,
+      "citedOverviewWords": 0,
+      "totalWords": 135,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-c2",
+      "annotationWords": 41,
+      "scopeWords": 25,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 70,
+      "citedOverviewWords": 0,
+      "totalWords": 136,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-c3",
+      "annotationWords": 41,
+      "scopeWords": 28,
+      "subresourceScopeWords": 7,
+      "allCitedBodyWords": 64,
+      "citedOverviewWords": 0,
+      "totalWords": 140,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-h3",
+      "annotationWords": 46,
+      "scopeWords": 30,
+      "subresourceScopeWords": 15,
+      "allCitedBodyWords": 71,
+      "citedOverviewWords": 0,
+      "totalWords": 162,
+      "within200": true
+    },
+    {
+      "sourceId": "am13-h2",
+      "annotationWords": 41,
+      "scopeWords": 23,
+      "subresourceScopeWords": 0,
+      "allCitedBodyWords": 70,
+      "citedOverviewWords": 0,
+      "totalWords": 134,
+      "within200": true
+    },
+    {
+      "sourceId": "p13-s5",
+      "annotationWords": 39,
+      "scopeWords": 20,
+      "subresourceScopeWords": 16,
+      "allCitedBodyWords": 68,
+      "citedOverviewWords": 0,
+      "totalWords": 143,
+      "within200": true
+    }
+  ],
+  "originalUrlPreservation": [
+    {
+      "sourceId": "p13-s1",
+      "originalUrl": "https://sic.gob.mx/ficha.php?table=inali_li&table_id=2",
+      "retainedAs": "primary",
+      "pass": true
+    },
+    {
+      "sourceId": "p13-s2",
+      "originalUrl": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=23",
+      "retainedAs": "primary",
+      "pass": true
+    },
+    {
+      "sourceId": "p13-s3",
+      "originalUrl": "https://site.inali.gob.mx/Micrositios/Prontuarios/amuzgo.html",
+      "retainedAs": "primary",
+      "pass": true
+    },
+    {
+      "sourceId": "p13-s4",
+      "originalUrl": "https://sic.cultura.gob.mx/ficha.php?disciplina=&table=frpintangible&table_id=51",
+      "retainedAs": "inspectedSubresources",
+      "pass": true
+    },
+    {
+      "sourceId": "p13-s5",
+      "originalUrl": "https://lapalabradelagua.wordpress.com/",
+      "retainedAs": "inspectedSubresources",
+      "pass": true
+    }
+  ],
+  "passedEvidenceChecks": [
+    "All15cards have explicit canonical countsTowardMinimum booleans. The history packet singular field was normalized; the radio statement remains false.",
+    "Eleven substantive units: four language, four culture including the renewed inventory, three history. Four supporting units: derivative SIC language guide, SIC orientation, courtesy text and radio mission. No extra count for mirrors, catalog subpages, repository metadata or the radio homepage.",
+    "Renewals preserve p13-s2, p13-s4 and p13-s5 IDs; history am13-h4 maps to p13-s5 and culture am13-c4 maps to p13-s4. No orphan cited IDs.",
+    "Dictionary: Moisés Zeferino de Jesús García,2012,Xochistlahuaca variety, particular writing choices and incomplete vocabulary;174words including full overview, so no dictionary trim required.",
+    "INALI four variants remains explicitly institutional, not four peoples or governments. The nine-local-variety curriculum caveat remains separate in evidenceNotes; no unsupported universal count.",
+    "Curriculum first edition2018 and consulted participants/priorities remain distinct from present implementation or universal parent views.",
+    "Kim:2022journal volume and2023-10-02first online both visible; Fermín Tapia García is manuscript contributor/native-speaker linguist rather than silently promoted article coauthor. San Pedro Amuzgos scope is retained.",
+    "Tsomara:2022publication and February2020five-person workshop are explicit, with two embroiderers/three weavers. Proposals are not completed interventions or a representative regional survey.",
+    "Valtierra:IBERO pageJune11,2026 is separated from unverified original newspaper date; first-person viewpoint and sustainability interpretation remain attributed rather than measured environmental findings.",
+    "UNAM Victorina report remains September16,2024 and individual Xochistlahuaca experience; no universal childhood, income, group-membership or current practice inference.",
+    "SIC inventory records2012-10-03last modification rather than established first-publication date; original equivalent URL retained without second count.",
+    "López Guzmán June2012 imprint/participant scope, Gasparello2012journal dating (not preliminary2011version), Aguirre2004dated selected life histories, and radioApril2013mission remain scoped and attributed.",
+    "Aguirre selected-text ResearchGate route is exposed through inspectedSubresources rather than only a non-rendered readingUrl. Publisher remains bibliographic authority.",
+    "Xochistlahuaca evidence is not generalized to all Guerrero/Oaxaca communities. RelationshipNote distinguishes peoples, local varieties, municipalities and community projects.",
+    "No audio-listening, entire dictionary/article/curriculum reading, current population, current broadcast, restricted-motif reproduction or universal political-consensus claim found. Eleven-source adequacy is expressly separate from completion and the unmet12source target."
+  ],
+  "limits": [
+    "This audit compared the supplied inspected evidence and existing audit notes; it did not reread every original PDF or check live source availability.",
+    "Only canonical profile13 was inspected from profiles.json. Other profiles, build templates and publication output are outside scope.",
+    "If canonical prose changes after this snapshot, recompute combined budgets rather than relying on packet reviewWordCheck or proposedPublicWords fields."
+  ],
+  "canonicalModified": false,
+  "webResearchPerformed": false,
+  "unresolvedFindingCount": 0,
+  "finalAllWorkBudgetsPass": true,
+  "concurrentChangeNote": "Initial read found catalog203words; after the finding was sent to root, the final read observed annotation shortened from42to32words. This report records final193word budget, with dictionary174. The reviewer did not modify canonical data."
+}

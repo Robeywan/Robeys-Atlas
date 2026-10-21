@@ -1,0 +1,50 @@
+{
+  "originalId": 13,
+  "reviewedAt": "2026-10-21",
+  "sources": [
+    {
+      "id": "am13-r1",
+      "renewalOf": "p13-s2",
+      "title": "Amuzgos — historical orientation",
+      "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+      "url": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=23",
+      "type": "Government",
+      "topics": [
+        "Historical orientation",
+        "Source perspective",
+        "Local scope"
+      ],
+      "annotation": "Short government historical orientation, centered substantially on Xochistlahuaca. Retained as supporting context rather than filling the substantive target. Its oral-history account is not a dated archaeological sequence; numerical estimates are not adopted as current figures.",
+      "contentReviewScope": "Actual Presentación, crafts/festivals paragraphs and update metadata read. The linked INPI monograph and audiovisual materials were not inspected through this card; direct Atlas opening failed.",
+      "contentReviewedAt": "2026-10-21",
+      "accessed": "2026-10-21",
+      "updatedAt": "2019-12-05",
+      "countsTowardMinimum": false
+    }
+  ],
+  "sections": [
+    {
+      "title": "Keeping historical guides local and dated",
+      "text": "The cultural-information guide’s historical account focuses substantially on Xochistlahuaca, linking colonial administration and dispossession with later land-recovery efforts. It also labels its origin account as oral history. This brief government synthesis provides orientation; it cannot substitute for community histories, establish a dated migration sequence or describe every Amuzgo settlement’s experience.",
+      "sourceIds": [
+        "am13-r1"
+      ]
+    }
+  ],
+  "unreadLeads": [
+    {
+      "url": "https://atlas.inpi.gob.mx/amuzgos-etnografia/",
+      "title": "INPI Amuzgos — Etnografía",
+      "status": "Search index exposed a detailed page, but direct actual opens returned502 or timed out. Kept as a lead; search-result text alone is not counted as original-content inspection."
+    }
+  ],
+  "geographyNotes": [
+    {
+      "sourceUrl": "https://sic.gob.mx/ficha.php?table=grupo_etnico&table_id=23",
+      "scope": "Government historical orientation centered on Xochistlahuaca and Guerrero/Oaxaca borderland",
+      "period": "Guide last modified2019; historical chronology, not current demographic evidence",
+      "precision": "Regional narrative only; no new polygon/point derived",
+      "reuse": "Text citation only; no source map or image reused"
+    }
+  ]
+}
