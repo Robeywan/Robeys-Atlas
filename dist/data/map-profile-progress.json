@@ -3075,13 +3075,18 @@
     "slug": "kootenai-ktunaxa",
     "regions": [
       {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      },
+      {
         "id": "US-MT",
         "name": "Montana",
         "key": "us-mt"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 1,
+    "connectionRecords": 2,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
     "reviewedAt": "2026-10-21"
   },

@@ -1,3 +1,25 @@
+## Latest credit reserve — leave about 50 credits
+
+October 21, 2026: the owner immediately refined the all-credits instruction to “leave about 50 credits.” This is the controlling reserve. Use existing credits for useful current work while preserving approximately 50. It supersedes the earlier 100-credit reserve and the intervening zero-reserve instruction. No purchases or manual reset credits are authorized.
+
+Check shared balance throughout this three-profile Idaho/Minnesota/Texas batch. Start no additional credit-funded discovery/delegation below about 80 credits; retain publication/checkpoint capacity and finish while preserving the 50-credit reserve. Weekly conservation remains unchanged. Once the reserve is approached, resume substantive work only when ordinary included usage is actually available and the weekly rule permits, or the owner explicitly changes the allowance.
+
+## Earlier credit instruction — superseded by the 50-credit reserve
+
+October 21, 2026: the owner expressly says “use up all of the credits.” This supersedes the earlier 900-credit cap, 100-credit reserve and 180/140-credit holds. The verified existing balance at this change was 166.2295525 account credits; those remaining credits are authorized for useful Atlas work. Do not purchase credits, use a manual reset or infer authorization for new purchases. Do not spend merely to consume a number.
+
+The weekly conservation rule remains: normally stop substantive work at 85% weekly consumed, with the owner's small-batch exception only in the final 48 hours before reset. Weekly consumption was 75%, and ordinary five-hour usage was exhausted. Check actual shared usage and balance before batches and checkpoints. Save incrementally and publish reviewed work while sufficient credits remain. Keep a temporary finishing margin of about 25 credits for checks/publication, then use remaining capacity on small useful tasks or preserved research; this is no longer a protected 100-credit reserve.
+
+Idaho, Minnesota and Texas remain the regional research priority. Current bounded work reviews Kootenai/Ktunaxa, Dakota and Coushatta collections and regional community inventories. Earlier research and original reading routes remain preserved.
+
+## Latest owner research priority — Idaho, Minnesota and Texas
+
+October 21, 2026: the owner requests researching all Idaho tribes, all Minnesota tribes and all Texas tribes next. Texas was explicitly added to the regional priority. This supersedes the earlier A-first sequence and deeper-Arikara-next instruction for the immediate queue. Regional priorities may include entries from any letter. Preserve Arikara's unfinished status and all earlier work; return to the general alphabetical queue after this regional priority, unless the owner changes it again.
+
+Begin with a community-led regional coverage inventory so the existing broad map labels do not determine the entire research scope. Cover present-day tribal nations and communities as well as documented historical connections. Distinguish peoples, individual tribal governments/bands, umbrella labels, aliases and periods; do not treat current state boundaries as Indigenous homelands. Verify missing access points before adding them. Research each relevant collection carefully, using the existing flexible source target and clear inspection/adequacy records.
+
+Read outputs/Regional-Research-Queue.md. Budget and weekly conservation rules remain unchanged. This is a saved priority change during the existing usage hold, not a new research publication or credit authorization. Synchronize these plans and the regional queue into the Site's research notes at the next normal source-opening flow and meaningful publication; do not redeploy solely for this planning change.
+
 ## Current owner authorization and priority — October 21, 2026
 
 The owner has added credits. The account balance was verified at 1,000 and the owner authorizes up to 900 of those credits for useful Atlas work, preserving at least 100. This is one cumulative authorization, not a fresh allowance every run. Check the shared balance before each batch/delegation and at publication checkpoints; stop research conservatively before the reserve is threatened. Do not buy credits or use manual reset credits. Read work/atlas-900-credit-authorization.json and work/atlas-credit-budget.json. Earlier low-credit holds and smaller credit caps are superseded by this authorization. Use ordinary allowance when available; do not manufacture spending merely to reach 900.

@@ -1,0 +1,114 @@
+{
+  "reviewedAt": "2026-10-21",
+  "purpose": "Official government inventory and candidate links to existing broad people-level profiles; not an exhaustive inventory of Indigenous peoples living in Idaho.",
+  "source": {
+    "title": "Tribal Lands",
+    "publisher": "United States Attorney's Office, District of Idaho / U.S. Department of Justice",
+    "url": "https://www.justice.gov/usao-id/tribal-lands",
+    "updatedAtDisplayed": "2021-11-02",
+    "contentReviewedAt": "2026-10-21",
+    "scope": "Actual complete body read, especially 40–41: five named tribal governments and reservation associations, with Duck Valley shared with Nevada. No demographic or prosecution claims adopted.",
+    "countsTowardProfileMinimum": false
+  },
+  "governments": [
+    {
+      "nameAsInventory": "Shoshone-Bannock",
+      "governmentName": "Shoshone-Bannock Tribes",
+      "officialSourceUrl": "https://www.justice.gov/usao-id/tribal-lands",
+      "scope": "Named government; Fort Hall association.",
+      "broadProfileMappingCandidates": [
+        {
+          "originalId": 347,
+          "name": "Shoshone"
+        },
+        {
+          "originalId": 28,
+          "name": "Bannock"
+        }
+      ]
+    },
+    {
+      "nameAsInventory": "Shoshone-Paiute",
+      "governmentName": "Shoshone-Paiute Tribes",
+      "officialSourceUrl": "https://www.justice.gov/usao-id/tribal-lands",
+      "scope": "Named government; Duck Valley spans Idaho and Nevada.",
+      "broadProfileMappingCandidates": [
+        {
+          "originalId": 347,
+          "name": "Shoshone"
+        },
+        {
+          "originalId": 276,
+          "name": "Paiute"
+        }
+      ]
+    },
+    {
+      "nameAsInventory": "Coeur d’Alene",
+      "governmentName": "Coeur d'Alene Tribe",
+      "officialSourceUrl": "https://www.justice.gov/usao-id/tribal-lands",
+      "scope": "Named government and reservation association in Idaho.",
+      "broadProfileMappingCandidates": [
+        {
+          "originalId": 81,
+          "name": "Coeur d'Alene"
+        }
+      ]
+    },
+    {
+      "nameAsInventory": "Kootenai",
+      "governmentName": "Kootenai Tribe of Idaho",
+      "officialSourceUrl": "https://www.justice.gov/usao-id/tribal-lands",
+      "scope": "Named government and reservation association in Idaho.",
+      "broadProfileMappingCandidates": [
+        {
+          "originalId": 174,
+          "name": "Kootenai (Ktunaxa)"
+        }
+      ],
+      "independentlyReviewedCommunitySource": "https://www.kootenai.org/tribal-history"
+    },
+    {
+      "nameAsInventory": "Nez Perce",
+      "governmentName": "Nez Perce Tribe",
+      "officialSourceUrl": "https://www.justice.gov/usao-id/tribal-lands",
+      "scope": "Named government and reservation association in Idaho.",
+      "broadProfileMappingCandidates": [
+        {
+          "originalId": 247,
+          "name": "Nez Perce (Nimiipuu)"
+        }
+      ]
+    }
+  ],
+  "mappingCautions": [
+    "These are candidate routes from specific governments to existing broader people-level entries, not assertions that the names are equivalent.",
+    "Joint Shoshone-Bannock and Shoshone-Paiute institutions do not merge their constituent peoples. This inventory alone does not resolve narrower Shoshone/Paiute affiliations, membership or historical territories.",
+    "A government list is not substantive profile research, a current legal-status audit, a boundary map or an exhaustive account of Idaho's Indigenous population."
+  ],
+  "existingMapCheck": {
+    "fileRead": "work/nations-atlas/data/region-associations.json",
+    "reviewedAt": "2026-10-21",
+    "original174ExistingRegionsAtCheck": [
+      "US-MT"
+    ],
+    "original174UsIdConnectionMissingAtCheck": true,
+    "proposedRecordLocation": "work/kootenai-reviewed-174-20261021.json, proposedRegionAssociations[0]",
+    "otherRelevantUsIdOriginalIdsAlreadyPresent": [
+      28,
+      81,
+      247,
+      276,
+      347
+    ],
+    "note": "Existing records differ in government/people scope; this check does not newly verify every prior record."
+  },
+  "accessLimits": [
+    {
+      "url": "https://www.sde.idaho.gov/about-us/departments/indian-education/",
+      "result": "Actual open 403; search-displayed text not treated as actual inspection or a second inventory."
+    }
+  ],
+  "siteOrCanonicalEdited": false,
+  "noGovernmentWebsitesInferred": true
+}

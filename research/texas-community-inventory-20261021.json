@@ -1,0 +1,413 @@
+{
+  "reviewedAt": "2026-10-21",
+  "inventoryScope": "Official Texas government inventories of tribal-government location and cultural-resource interests. This is a separate research finding aid, not profile-source credit, a complete inventory of Indigenous people living in Texas, or territorial boundaries.",
+  "sources": [
+    {
+      "id": "tx-inventory-1",
+      "title": "Tribal Consultation Guidelines — Determining Tribal Contacts / Area of Interest",
+      "publisher": "Texas Historical Commission",
+      "url": "https://thc.texas.gov/review/consultation-process/tribal-consultation-guidelines",
+      "type": "State government inventory",
+      "contentReviewScope": "Actual Determining Tribal Contacts and Area of Interest text, including all 29 named governments, read. General legal-process descriptions encountered but not offered as legal guidance; contact list and interest-area maps not opened.",
+      "publicationDate": "Undated page",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardProfileMinimum": false
+    },
+    {
+      "id": "tx-inventory-2",
+      "title": "Tribal/State Collaboration",
+      "publisher": "Supreme Court of Texas Children’s Commission",
+      "url": "https://texaschildrenscommission.gov/our-work/tribalstate-collaboration/",
+      "type": "State judicial-commission institutional account",
+      "contentReviewScope": "Actual opening paragraph names three Texas federally recognized tribal partners. Linked training, child-welfare legal materials and resource letters not inspected.",
+      "publicationDate": "Undated page",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardProfileMinimum": false
+    },
+    {
+      "id": "tx-inventory-3",
+      "title": "Tribal Histories: Coushatta Tribe of Louisiana Research Report",
+      "publisher": "Texas Department of Transportation",
+      "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-04-rpt%20.pdf",
+      "type": "Government research / tribal collaboration",
+      "contentReviewScope": "Actual April 2021 report: introduction 3 and selected Texas community/travel history 9–12, 16–17. No GIS, maps, original archives or exact sensitive-site details reused.",
+      "publicationDate": "2021-04",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardProfileMinimum": false
+    },
+    {
+      "id": "tx-inventory-4",
+      "title": "About Us",
+      "publisher": "Alabama-Quassarte Tribal Town",
+      "url": "https://www.alabama-quassarte.com/getpage.php?name=About_Us&sub=About+Us",
+      "type": "Tribal-government historical account",
+      "contentReviewScope": "Actual historical body distinguishes southwestern migration from removal to Indian Territory; used only as that community’s account. No current citizenship, recognition outcome or legal chronology independently verified.",
+      "publicationDate": "Undated page",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardProfileMinimum": false
+    },
+    {
+      "id": "tx-inventory-5",
+      "title": "Our History",
+      "publisher": "Alabama-Coushatta Tribe of Texas",
+      "url": "https://www.alabama-coushatta.com/about-us/our-history/",
+      "type": "Tribal-government history",
+      "contentReviewScope": "Actual public history and location context read; a particular shared government is distinguished from two peoples and from related governments elsewhere.",
+      "publicationDate": "Undated page",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardProfileMinimum": false
+    }
+  ],
+  "associationTypes": {
+    "located-in-Texas-government": "One of the three governments explicitly named by the Texas Children’s Commission as Texas tribal partners; also on the THC interest list.",
+    "THC-listed-Texas-interest": "Government named in the THC Area of Interest list; a listing alone does not establish present government location, a particular historical date, an exclusive homeland or precise interest boundary.",
+    "documented-historical-Texas-connection": "Separate inspected historical narrative supplies a scoped Texas connection; it is not inferred solely from a list, name or present address."
+  },
+  "governments": [
+    {
+      "nameAsListedByTHC": "Absentee Shawnee Tribe of Oklahoma",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Alabama-Coushatta Tribe of Texas",
+      "associationTypes": [
+        "located-in-Texas-government",
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1",
+        "tx-inventory-2"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Alabama-Quassarte Tribal Town",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Apache Tribe of Oklahoma",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Caddo Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Cherokee Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Cheyenne & Arapaho Tribes",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Choctaw Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Comanche Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Coushatta Tribe of Louisiana",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Delaware Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Jena Band of Choctaw Indians",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Jicarilla Apache Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Kialegee Tribal Town",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Kickapoo Traditional Tribe of Texas",
+      "associationTypes": [
+        "located-in-Texas-government",
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1",
+        "tx-inventory-2"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Kickapoo Tribe of Oklahoma",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Kiowa Tribe of Oklahoma",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Mescalero Apache Tribe",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Muscogee (Creek) Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Osage Nation",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Quapaw Tribe",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Seminole Nation of Oklahoma",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Shawnee Tribe",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Thlopthlocco Tribal Town",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Tonkawa Tribe",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Tunica-Biloxi Tribe",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "United Keetoowah Band of Cherokee Indians",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Wichita and Affiliated Tribes",
+      "associationTypes": [
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1"
+      ]
+    },
+    {
+      "nameAsListedByTHC": "Ysleta Del Sur Pueblo",
+      "associationTypes": [
+        "located-in-Texas-government",
+        "THC-listed-Texas-interest"
+      ],
+      "sourceIds": [
+        "tx-inventory-1",
+        "tx-inventory-2"
+      ]
+    }
+  ],
+  "currentTexasLocationExamples": [
+    {
+      "government": "Alabama-Coushatta Tribe of Texas",
+      "sourceIds": [
+        "tx-inventory-2",
+        "tx-inventory-5"
+      ],
+      "geographicScope": "A shared tribal government in East Texas; the tribal history places its reservation in the Big Thicket.",
+      "relatedDirectoryOriginalIds": [
+        9,
+        89
+      ],
+      "directoryRelationship": "Alabama and Coushatta are two people-access entries associated with this government; these are not two separate government counts."
+    },
+    {
+      "government": "Kickapoo Traditional Tribe of Texas",
+      "sourceIds": [
+        "tx-inventory-2"
+      ],
+      "geographicScope": "Texas government location as identified by the Commission; no point or boundary derived.",
+      "relatedDirectoryOriginalIds": [
+        165
+      ],
+      "directoryRelationship": "Kickapoo is a broader people-access entry. This Texas government is distinct from the separately listed Kickapoo Tribe of Oklahoma."
+    },
+    {
+      "government": "Ysleta del Sur Pueblo",
+      "alsoCalledInSource": "Tigua Tribe",
+      "sourceIds": [
+        "tx-inventory-2"
+      ],
+      "geographicScope": "Texas government location as identified by the Commission; no point or boundary derived.",
+      "relatedDirectoryOriginalIds": [],
+      "directoryRelationship": "No exact government-name entry found in the reviewed profiles. Do not substitute Isleta Pueblo or treat all Tiwa communities as the same government."
+    }
+  ],
+  "distinctHistoricalConnections": [
+    {
+      "government": "Coushatta Tribe of Louisiana",
+      "associationType": "documented-historical-Texas-connection",
+      "sourceIds": [
+        "tx-inventory-3"
+      ],
+      "period": "Selected nineteenth-century Texas village and travel history",
+      "scope": "The report was explicitly developed with Louisiana Coushatta heritage staff and discusses Texas Coushatta communities and networks crossing the later state border. A Louisiana government’s present location does not eliminate its Texas connections.",
+      "precision": "Broad historical Texas association only; no site coordinates, maps or territorial polygons."
+    },
+    {
+      "government": "Alabama-Quassarte Tribal Town",
+      "associationType": "documented-historical-Texas-connection",
+      "sourceIds": [
+        "tx-inventory-4"
+      ],
+      "period": "Late eighteenth- and nineteenth-century histories as narrated by the Town",
+      "scope": "The Oklahoma Town describes some related Alabama/Quassarte communities moving to Louisiana and Texas and others undergoing removal to Indian Territory. It does not say the entire present Oklahoma government relocated to Texas.",
+      "precision": "Shared ancestral/community history only; not a present Texas-government location or automatic boundary."
+    }
+  ],
+  "interpretationNotes": [
+    "The THC page lists 29 governments with known interests and distinguishes three located in Texas; the Children’s Commission names those three. These are different association types.",
+    "The remaining 26 list entries are not therefore absent from Texas history or excluded from Texas interests. Conversely, a contact/interest listing alone does not document every proposed historical association.",
+    "The official list is a government consultation aid and may change. It is not a complete list of every Indigenous community, urban population, non-federally recognized organization or nation whose members live in Texas.",
+    "Names are recorded as printed by THC, including older or abbreviated labels. This pass does not independently reconcile every name with the latest Federal Register nomenclature or determine each government’s present legal status.",
+    "No legal advice, people contact, new recognition application, profile work count, canonical nation count or inferred modern border is produced."
+  ],
+  "summary": {
+    "officialInterestListEntries": 29,
+    "TexasLocatedGovernmentsExplicitlyNamed": 3,
+    "otherListedInterestGovernments": 26,
+    "profileCountsAdded": 0,
+    "canonicalCountsChanged": false,
+    "mapBoundariesDerived": false
+  }
+}
