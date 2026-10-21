@@ -1,0 +1,15 @@
+# Alutiiq / Sugpiaq research review — October 21, 2026
+
+Fourteen source cards and fourteen cited sections support ten conservatively counted substantive works or collections. The twelve-source quantity target is not reached. A dated initial-adequacy assessment supports continuing alphabetically with regional, family-perspective and primary-scholarship gaps visible. Research completion and community endorsement are not claimed.
+
+The collection connects community naming preferences, Kodiak village ties, governments/corporations/service institutions, a Chugachmiut publication, named family foodways, archaeology, colonial labor, historical economic opportunity, community heritage institutions and language learning. Kodiak material is not generalized across every Sugpiaq region. Chugachmiut is a consortium, not a substitute for each tribal government or a claim that every member community has one identity.
+
+Counting is conservative. Naming plus selected grammar lessons form one series. The institutional and conquest sheets from Alutiiq Traditions form one collection. Our Stories web history and the related Imaken Ima’ut book excerpt form one museum historical-publication cluster pending fuller provenance review. Shared publishing context is established; verbatim adaptation is not proven. Both actual reading scopes remain visible, while the excerpt card is excluded from an additional distinct-work count. The short People and university introductions are supporting references. The Sun’aq page with template residue and dated rules remains limited research evidence outside the main reading path.
+
+The2013 cookbook date comes from its imprint, rather than its2024 upload path. Selected recipes and captions supply cultural foodways context without reproducing cooking directions or claiming universal practice or safety. The2024 Qik plan date is approval, and its goals are not verified outcomes. No current speaker totals, population estimates, casualty counts, hunting guidance, sensitive site coordinates or imagery reuse is introduced.
+
+Actual article text on an author-uploaded reading copy supports the colonial work-camp interpretation; its repository landing page alone would not establish full-text review. Direct reading-copy links are exposed. Historical book and chapter excerpts have precise selected-page limits. Download406 responses and web-reader size limits are not labeled reader paywalls; inaccessible textbooks and scholarly references remain leads.
+
+All470directory access points,454originals,301owner URLs and sixteen-study provenance remain. Map geometry,194lakes,563scoped associations,469mapped access points, real photographs and credits are preserved. Yocona remains unresolved. Amuzgo original13 is next; earlier B drafts and remaining A gaps, including added Algonquin, remain saved.
+
+Build, internal links/citation anchors, map routes, preservation assertions and representative rendered results are checked before publication. Native deployment and live inspection are recorded separately in the publication receipt.

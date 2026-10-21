@@ -1,0 +1,113 @@
+{
+  "originalId": 12,
+  "name": "Alutiiq",
+  "reviewedAt": "2026-10-21",
+  "status": "Pass — corrected integrated profile has no remaining material correction",
+  "reviewed": [
+    "Actual integrated original12 from work/nations-atlas/data/profiles.json",
+    "work/alutiiq-community-language-audit-12-20261021.md",
+    "work/alutiiq-history-audit-12-20261021.md"
+  ],
+  "scope": "Read-only integrated schema/count/citation and scoped claim check against completed independent audits; no repeated complete source inspections, new research, Site edits, contact or delegation.",
+  "verifiedCounts": {
+    "sourceCards": 14,
+    "substantiveWorksOrConservativeCollections": 10,
+    "supportingOrNonAdditiveCards": 4,
+    "sections": 14,
+    "bodyWords": 826
+  },
+  "findings": [],
+  "passes": [
+    "All14cards are cited in at leastonebodysection; no dangling section or overview citation IDs and no duplicate IDs or primary URLs.",
+    "Ten substantive units are candidly recorded against the twelve-source target. The four non-additive/supporting cards are p12-s1,p12-s4,at12-h5,at12-r3.",
+    "OurStories p12-s3 and ImakenIma’ut at12-h5 are conservatively grouped: the latter remains countfalse, and neither card asserts proven verbatim adaptation. Combined selected-body, annotation and scope text is169words including the linked excerpt scope.",
+    "Traditions p12-s7 and p12-s4 count once. Combined body, annotations and scopes total175words including the subresource scope. The separate direct conquest card is explicitly countfalse.",
+    "Approval of Qikplan is correctly stored approvedAt2024-08-08 and described as intended work, not achieved outcomes. No exactfirstpublicationday is asserted.",
+    "The cookbook uses actual2013imprint, not2024uploadpath. Design credit is not relabeled soleauthorship; namedfamilyexamples remain attributed and no recipeinstructions are reproduced.",
+    "The inspected author-uploaded article route is exposed through inspectedSubresources, while Oberlin remains bibliographic landingURL. No metadataonly inspection is represented as fullarticle reading.",
+    "Community naming preferences, Kodiak/Chugach scope and the distinction between Unangax̂ and Alutiiq/Sugpiaq are explicit. Distinct governments, shareholder corporations and consortiums are not equated.",
+    "Village relocation does not become disappearance, and archaeological traditions are not labeled successive modern tribes. Museum renewal is described through community decisions rather than discovery of an extinctpeople.",
+    "No current population/speaker census, present huntingrule, verifiedplanimplementation, completebook/film/audio inspection, or currentserviceoutcome claim is introduced.",
+    "Sun’aq template-residue page is absent from maincards. Public profile has no local scratch evidence paths, fullattachmenttexts or new image-reuse claim."
+  ],
+  "materialClaimCorrections": [],
+  "limitations": [
+    "This is final integration review based on prior actual-source audits, not a fresh reread of every underlying publication.",
+    "The declared ten-work total remains intentionally below twelve; no added discovery or quota-padding is requested."
+  ],
+  "canonicalEditsMade": false,
+  "resolvedFindings": [
+    {
+      "sourceId": "p12-s2",
+      "issue": "Merged lesson collection formerly exceeded200derivedwords and retained stale packet-only review wording.",
+      "resolution": "Root shortened the annotation, content-review scope and two bodies, replaced stale wording, and shortened the overview. Actual re-read totals177words including all three visible subresource scopes and the attributed overview."
+    },
+    {
+      "sourceId": "at12-h3",
+      "issue": "Broadest former overview attribution produced205derivedwords.",
+      "resolution": "Root removed this source from the narrowed overview citations. Actual complete annotation+scope+subresource-scope+body is157words."
+    }
+  ],
+  "perSourceDerivedWordCheck": [
+    {
+      "id": "p12-s1",
+      "derivedWords": 87
+    },
+    {
+      "id": "p12-s2",
+      "derivedWords": 177
+    },
+    {
+      "id": "p12-s3",
+      "derivedWords": 97
+    },
+    {
+      "id": "p12-s5",
+      "derivedWords": 162
+    },
+    {
+      "id": "p12-s7",
+      "derivedWords": 100
+    },
+    {
+      "id": "au12-c4",
+      "derivedWords": 162
+    },
+    {
+      "id": "au12-c5",
+      "derivedWords": 171
+    },
+    {
+      "id": "p12-s4",
+      "derivedWords": 75
+    },
+    {
+      "id": "at12-h3",
+      "derivedWords": 157
+    },
+    {
+      "id": "at12-h5",
+      "derivedWords": 72
+    },
+    {
+      "id": "at12-h4",
+      "derivedWords": 147
+    },
+    {
+      "id": "p12-s6",
+      "derivedWords": 136
+    },
+    {
+      "id": "at12-r2",
+      "derivedWords": 123
+    },
+    {
+      "id": "at12-r3",
+      "derivedWords": 108
+    }
+  ],
+  "wordCheckMethod": "Whitespace count of each card's annotation, contentReviewScope, all inspected-subresource scope strings, all body sections citing the card and the full overview where overviewSourceIds cites it. Related non-additive excerpt cards also checked together as one collection. Bibliographic names/titles/dates excluded.",
+  "maximumPerSingleCardDerivedWords": 177,
+  "maximumConservativeCollectionDerivedWords": 177,
+  "finalRecheck": "Re-read actual corrected canonical profile after root's trim message;10countedclusters,14cards,14sections,826bodywords. No remaining action requested."
+}

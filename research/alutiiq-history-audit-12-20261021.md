@@ -1,0 +1,34 @@
+# Alutiiq historical evidence audit — 2026-10-21
+
+Read-only review of `work/alutiiq-history-12-20261021.json` and its reading notes. No canonical or Site edits, contacts, delegation or new broad discovery. This checks source identity, count boundaries and selected claim fit; it is not a complete reread of every work.
+
+## Main count finding
+
+**Conservatively group `at12-h1` (Our Stories / Deep History) and `at12-h5` (the selected Imaken Ima’ut book excerpt) as one museum historical-publication cluster for the target.**
+
+The actual Our Stories page is headed “Imaken Ima’ut—From the Past to the Future,” introduces the associated historical film series and directly promotes the eBook before its Deep History section. The short Deep History body has no separately identified author, edition or independent provenance. The five-page Americans excerpt is clearly from the 2024 book: actual title page, chapter byline and copyright page identify it. This shared publishing context warrants conservative grouping under the owner's no-padding policy.
+
+**This does not establish verbatim copying or prove that the Deep History paragraphs are an adaptation of an unread book chapter.** The reviewed excerpt concerns the American era and cannot establish what the uninspected deep-history chapter says. Do not label an adaptation as proven. Retain both useful access routes and exact reading scopes, preferably as one counted card with inspected subresources. Another defensible implementation is one counted main card plus a clearly related, non-additive access card. Do not count related URLs as independent research perspectives merely because their selected subjects differ.
+
+The resulting historical-packet recommendation is **three substantive units**: the museum history cluster, Margaris et al. (2015), and Steffian (2006). The Refuge Rock lesson remains an inspected subresource of the single Alutiiq Traditions collection reviewed with the institutions lesson; it does not add another unit here. No full-book reading claim is warranted. A lower honest total is acceptable under the flexible target.
+
+If the merged cluster uses both proposed paragraphs, keep their combined public annotation and synthesis within the same conservative word budget. Their body paragraphs total about 145 words; a concise shared annotation will fit below 200. Do not simply concatenate two full annotations and count the cluster once while retaining an unnecessarily long source summary.
+
+## Claim checks
+
+- **Deep History:** Independently read the actual HTML body at lines 94–124. The three archaeological traditions, changing fishing/storage and later shared households support the narrow synthesis. The paragraph correctly treats traditions as archaeological interpretations, not successive modern tribal governments. The numerical antiquity statement is the museum's stated synthesis, not an independently recalibrated date or a universal chronology for all Sugpiaq regions.
+- **Cod Fishing in Russian America:** The ResearchGate page exposes a Public Full-text section, original article headings, coherent original paragraphs, pagination, conclusions and references. It identifies the uploader as Amy Margaris, August 10, 2015. This is actual article text rather than just an abstract or repository metadata. Independently read introduction passages and the coherent discussion/conclusion paragraphs around printed pages 121–123. These support the seasonal company-camp interpretation, cod fishing and trapping, repair of imported ceramics, glass reuse and some pursuit of residents' own subsistence aims. The proposed synthesis preserves interpretation and does not equate limited practical choices with general freedom from coercion. Column interleaving remains a text-extraction limitation; no independent facsimile reading or complete article review is claimed by this audit.
+- **Americans excerpt:** Independently read the actual five-page PDF text. The inspected pages are title, printed 104, 120, 122 and copyright ii, not a continuous five-page chapter selection. Page 122 directly supports guiding alongside fishing/food harvesting and barriers imposed by registered-guide paperwork and written examinations. It supports uneven professional recognition; the paragraph appropriately avoids making the legal rules current. Page 121 is absent and cannot be claimed as inspected. The book title page supports the card's Past-to-Future title; an inconsistent subtitle on the copyright page does not create a different work.
+- **Teaching Traditions:** Spot-checked the already-saved selected text around printed pages 32–35. The account describes programs before the museum building, disagreements about collaborations, planning and an Alutiiq-first philosophy paired with wider community education. This supports the proposed institutional-history paragraph. The chapter is a separate 2006 practitioner account, not merely another edition of the 2024 book. This audit did not independently reread its complete chapter or volume.
+- **Refuge Rock:** This audit relies on the agent's recorded complete-one-page review rather than claiming a second independent reread. Its shared Alutiiq Traditions identity is already established; no extra quota count follows from retaining a convenient direct link.
+
+## Access and metadata details for integration
+
+1. The history packet uses `countTowardMinimum`; the established generator reads **`countsTowardMinimum`**. Normalize the field so the non-counted Refuge Rock card cannot silently regain a count. Retain explicit collection-unit deduplication as well.
+2. `at12-h3.url` points to the Oberlin metadata/abstract record. The actual inspected full text is in `readingUrl`, which the current source-card renderer does not display automatically. Put that author-uploaded route in `inspectedSubresources` with a selected-page scope, or make it the primary link while retaining Oberlin as the bibliographic route. Readers should be able to reach the work actually used. The Oberlin record correctly confirms authors, journal, year, page range and DOI; its January 1 date need not be presented as a verified release day.
+3. The 2024 date is supported for the inspected book edition by its actual copyright page. No exact first-publication day, complete book, entire Americans chapter or full Russian-conquest chapter was reviewed.
+4. Unread Pullar/Black originals, the Luehrmann publisher description and timed-out EVOS report remain leads. The packet correctly refuses to convert their metadata, bibliography entries or abstracts into original-source review.
+
+## Final assessment
+
+The proposed historical claims fit the selected evidence and retain Kodiak scope. The material actions are conservative grouping of the museum history cluster, canonical count-field normalization and a visible route to the inspected author-uploaded article. No extra source hunting or padding is needed to make the count larger.

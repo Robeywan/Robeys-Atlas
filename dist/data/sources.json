@@ -1100,6 +1100,29 @@
     ]
   },
   {
+    "id": "at12-r3",
+    "title": "Alutiiq / Sugpiaq: language and dialect introduction",
+    "url": "https://www.uaf.edu/anlc/languages-move/alutiiq.php",
+    "publisher": "Alaska Native Language Center, University of Alaska Fairbanks",
+    "type": "University",
+    "topics": [
+      "Language geography",
+      "Dialects",
+      "Research leads"
+    ],
+    "annotation": "Short university orientation distinguishes Koniag and Chugach dialect geography and points to literacy scholarship. Retained as supporting context; its undated population and speaker figures are not presented as current. Linked grammars and dictionaries require separate review.",
+    "contentReviewScope": "Actual naming, dialect and literacy paragraphs read; no linked publication or audio reviewed. Short supporting introduction, outside substantive target.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": false,
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
     "id": "ua10-l2",
     "title": "Unangam Tunuu / Aleut: language and literacy introduction",
     "url": "https://www.uaf.edu/anlc/languages-move/aleut.php",
@@ -1496,12 +1519,19 @@
     "type": "Indigenous-led",
     "topics": [
       "Communities",
-      "Homelands",
-      "History",
-      "Identity"
+      "Relocation",
+      "Continuity",
+      "Kodiak",
+      "Identity",
+      "History"
     ],
-    "annotation": "Individual histories and photographs distinguish Kodiak villages, commercial fishing, disasters, relocation, and continuing place-based relationships. Includes Afognak/Port Lions, Karluk, Kaguyak, and other communities.",
-    "accessed": "2026-10-19",
+    "annotation": "Selected actual village histories distinguish settlement changes and continuing relationships with place. Count the village series once. Undated present-day population, fish-stock and service claims are not independently verified; photographs are not licensed for reuse here.",
+    "contentReviewScope": "Read introduction and actual Afognak, Karluk, Kaguyak and Port Lions accounts, web lines 45–79, 146–178 and 214–219. Other village entries are not claimed as fully reviewed.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "publicationDate": "Undated village-history collection",
+    "sourceUnitKey": "alutiiq-museum-village-histories",
     "nations": [
       {
         "name": "Alutiiq",
@@ -1515,17 +1545,72 @@
   },
   {
     "id": "p12-s2",
-    "title": "Alutiiq — What Is in a Name?",
+    "title": "Alutiiq Language Lessons: naming and selected grammar",
     "publisher": "Alutiiq Museum and Archaeological Repository",
     "url": "https://alutiiqmuseum.org/alutiiq-people/language/lessons/alutiiq-what-is-in-a-name/",
     "type": "Indigenous-led",
     "topics": [
       "Identity",
-      "Language",
-      "Self-designation"
+      "Naming",
+      "Regional variation"
     ],
-    "annotation": "Explains Alutiiq, Sugpiaq, plural forms, and language names through community preferences and colonial naming history. Particularly useful for respecting variation without equating Alutiiq with Unangax̂.",
-    "accessed": "2026-10-19",
+    "annotation": "Selected museum lessons explain preferred names and basic word-building; treated as one collection with a Kodiak-centered perspective.",
+    "contentReviewScope": "Naming, grammar overview, pluralization and noun-stem lesson bodies inspected. No recordings or linked full grammars reviewed.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "publicationDate": "Undated web lesson",
+    "sourceUnitKey": "alutiiq-museum-language-lessons",
+    "inspectedSubresources": [
+      {
+        "title": "Alutiiq Grammar: An Overview",
+        "url": "https://alutiiqmuseum.org/alutiiq-people/language/lessons/alutiiq-grammar-an-overview/",
+        "scope": "Actual substantive lesson text inspected; no audio review."
+      },
+      {
+        "title": "Pluralization",
+        "url": "https://alutiiqmuseum.org/alutiiq-people/language/lessons/pluralization/",
+        "scope": "Actual substantive lesson text inspected; no audio review."
+      },
+      {
+        "title": "Working with Noun Stems",
+        "url": "https://alutiiqmuseum.org/alutiiq-people/language/lessons/working-with-noun-stems/",
+        "scope": "Actual substantive lesson text inspected; no audio review."
+      }
+    ],
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "p12-s7",
+    "title": "Alutiiq Traditions: institutions and colonial-history excerpts",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/wp-content/uploads/2025/09/Tribes-and-Corporations-25.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Institutions",
+      "Tribal governments",
+      "Corporations",
+      "ANCSA"
+    ],
+    "annotation": "Selected institutional and conquest lessons count together as one Alutiiq Traditions collection. Statistics are dated; current law and every community’s experience are not established.",
+    "contentReviewScope": "Institutional lesson p71 and linked conquest lesson p67 read. Selected excerpts from one book; full book and current institutional rules not inspected.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "publicationDate": "Undated lesson; file posted under September 2025; statistics dated September 2022",
+    "sourceUnitKey": "alutiiq-traditions",
+    "inspectedSubresources": [
+      {
+        "title": "Awa’uq — Refuge Rock",
+        "url": "https://alutiiqmuseum.org/wp-content/uploads/2025/09/Refuge-Rock-25.pdf",
+        "scope": "One-page printed 67 excerpt; same book, not another substantive work."
+      }
+    ],
     "nations": [
       {
         "name": "Alutiiq",
@@ -1539,13 +1624,12 @@
     "publisher": "Alutiiq Museum and Archaeological Repository",
     "url": "https://alutiiqmuseum.org/alutiiq-people/",
     "type": "Indigenous-led",
-    "topics": [
-      "Identity",
-      "Homelands",
-      "Culture"
-    ],
-    "annotation": "Community-governed museum introduction maps the wider Alutiiq/Sugpiaq homeland and links an identity film, cultural resources, and language material. Its institutional base is Kodiak, within a broader regional people.",
-    "accessed": "2026-10-19",
+    "countsTowardMinimum": false,
+    "annotation": "Brief introduction and navigation to deeper resources. Supports broad regional orientation; its embedded identity film was not watched. Excluded from the substantive count.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "contentReviewScope": "Read actual main introductory text and navigation, especially homeland paragraph at lines 50–64; no linked work or film review implied.",
+    "topics": [],
     "nations": [
       {
         "name": "Alutiiq",
@@ -1560,12 +1644,43 @@
     "url": "https://alutiiqmuseum.org/wp-content/uploads/2025/09/Refuge-Rock-25.pdf",
     "type": "Indigenous-led",
     "topics": [
-      "Colonialism",
-      "History",
-      "Awa’uq"
+      "Colonial violence",
+      "Hostage-taking",
+      "Coerced work"
     ],
-    "annotation": "One-page museum history of the 1784 assault, hostage-taking, forced labor, and colonial disruption. Links further scholarship by Gordon Pullar and Lydia Black; avoids requiring readers to treat uncertain casualty estimates as precise counts.",
-    "accessed": "2026-10-19",
+    "annotation": "Conquest excerpt within the same Traditions collection, not another distinct work. Numerical estimates are not adopted.",
+    "publicationDate": "Undated lesson; URL filed in September 2025",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "contentReviewScope": "One-page narrative, caption and bibliography read; cited scholarship not automatically inspected.",
+    "countReason": "Short orientation with substantial overlap in the longer colonial-history evidence; retained without inflating the substantive count.",
+    "countsTowardMinimum": false,
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "at12-h5",
+    "title": "Imaken Ima’ut — From the Past to the Future: selected Americans chapter excerpt",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "author": "April Isiik Laktonen Counceller, chapter author; Amy F. Steffian, book editor",
+    "url": "https://alutiiqmuseum.org/wp-content/uploads/2024/07/Alutiiq-Guides.pdf",
+    "type": "Indigenous-authored historical interpretation / selected book excerpt",
+    "topics": [
+      "American colonial era",
+      "Economic history",
+      "Knowledge",
+      "Bear guiding"
+    ],
+    "annotation": "Inspected excerpt grouped with Our Stories for conservative counting; not an additional distinct-work claim.",
+    "publicationDate": "2024; copyright page inspected",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "contentReviewScope": "Five-page PDF: title, printed 104,120,122 andcopyrightii read. Missing121 and other chapters not inspected. Underlying publication2024.",
+    "countsTowardMinimum": false,
     "nations": [
       {
         "name": "Alutiiq",
@@ -1575,17 +1690,47 @@
   },
   {
     "id": "p12-s6",
-    "title": "Language History: Alutiit’stun — Like an Alutiiq",
-    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "title": "Language History: Alutiit’stun—Like an Alutiiq",
     "url": "https://alutiiqmuseum.org/alutiiq-people/language/language-history/",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
     "type": "Indigenous-led",
     "topics": [
-      "Language",
+      "Literacy",
       "Education",
-      "Revitalization"
+      "Elder teachers"
     ],
-    "annotation": "Connects visual communication, early writing, multilingual colonial life, English-only schooling, and elder-led learning. Undated present-day speaker totals are not used in this profile.",
-    "accessed": "2026-10-19",
+    "annotation": "Museum account connects early Alutiiq writing, multilingual life, English-only schooling and Elder-led learning. Its undated current speaker totals and class schedules are not adopted. This is a Kodiak-focused introduction, not a survey of every Sugpiaq region.",
+    "contentReviewScope": "Actual HTML Written Alutiiq, New Languages, Schools, Reawakening and Elder Teachers sections read. Images and recordings not reused or played; spiritual symbolism, archaeological locations and unverified current figures excluded.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
+    "id": "au12-c5",
+    "title": "Neq’rkat — The Wild Foods Cookbook",
+    "publisher": "Alutiiq Museum and Archaeological Repository",
+    "url": "https://alutiiqmuseum.org/wp-content/uploads/2024/01/Wild-Foods-Book.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Foodways",
+      "Community contributions",
+      "Family variation",
+      "Kodiak"
+    ],
+    "annotation": "This 2013 community recipe compilation credits individual contributors and museum collections. Selected entries show varied household approaches to harvested foods and help readers follow family foodways in their stated contexts.",
+    "contentReviewScope": "Downloaded actual 72-page PDF; read cover/imprint, contents, printed pages 1–2, 7, 17, 32, 41, 53 and acknowledgements 64. Visually checked imprint and frontispiece iv; selected recipes were read as text.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "publicationDate": "2013",
+    "dateBasis": "Actual copyright/imprint page, PDF page 2. The 2024 URL directory is not the book’s publication year.",
+    "sourceUnitKey": "neqrkat-wild-foods-cookbook-2013",
+    "authorsNote": "Community recipe compilation; named recipe contributors credited individually. Alisha Drabek is credited for cover and book design, not asserted as sole author.",
     "nations": [
       {
         "name": "Alutiiq",
@@ -1595,18 +1740,30 @@
   },
   {
     "id": "p12-s3",
-    "title": "Our Stories",
+    "title": "Our Stories: deep history and selected Imaken Ima’ut excerpt",
     "publisher": "Alutiiq Museum and Archaeological Repository",
     "url": "https://alutiiqmuseum.org/alutiiq-people/history/our-stories/",
     "type": "Indigenous-led",
     "topics": [
-      "Archaeology",
-      "History",
-      "Subsistence",
-      "Identity"
+      "Archaeological history",
+      "Coastal livelihoods",
+      "Kodiak",
+      "Identity",
+      "History"
     ],
-    "annotation": "Introduces Ocean Bay, Kachemak, and Koniag archaeological traditions and links museum films, an eBook, and focused historical lessons. The deep-history text provides the evidence summarized here; linked films were not transcribed.",
-    "accessed": "2026-10-19",
+    "annotation": "Museum deep-history text and a selected book excerpt are conservatively grouped. Their relationship needs fuller provenance review; separate authorship is not established.",
+    "publicationDate": "Undated web text",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "contentReviewScope": "Actual Deep History web body read. Linked five-page book excerpt also inspected within its separate scope; full book and films not reviewed.",
+    "countsTowardMinimum": true,
+    "inspectedSubresources": [
+      {
+        "title": "Imaken Ima’ut: selected American-era excerpt",
+        "url": "https://alutiiqmuseum.org/wp-content/uploads/2024/07/Alutiiq-Guides.pdf",
+        "scope": "Title, printed pages 104, 120 and 122, and copyright page ii inspected; not a full chapter or book."
+      }
+    ],
     "nations": [
       {
         "name": "Alutiiq",
@@ -1615,26 +1772,6 @@
       {
         "name": "Sugpiaq",
         "slug": "sugpiaq"
-      }
-    ]
-  },
-  {
-    "id": "p12-s7",
-    "title": "Tribes and Corporations",
-    "publisher": "Alutiiq Museum and Archaeological Repository",
-    "url": "https://alutiiqmuseum.org/wp-content/uploads/2025/09/Tribes-and-Corporations-25.pdf",
-    "type": "Indigenous-led",
-    "topics": [
-      "Government",
-      "Organizations",
-      "ANCSA"
-    ],
-    "annotation": "Explains different roles of sovereign tribes, ANCSA corporations, and nonprofits and lists Kodiak tribal governments. Shareholder statistics are dated September 2022 and are not presented as current figures here.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Alutiiq",
-        "slug": "alutiiq"
       }
     ]
   },
@@ -1924,6 +2061,41 @@
       {
         "name": "Wasco",
         "slug": "wasco"
+      }
+    ]
+  },
+  {
+    "id": "at12-h3",
+    "title": "Cod Fishing in Russian America: The Archaeology of a 19th-Century Alutiiq Work Camp on Alaska’s Kodiak Island",
+    "publisher": "Arctic Anthropology / University of Wisconsin Press; author-uploaded reading copy on ResearchGate",
+    "author": "Amy V. Margaris, Mark A. Rusk, Patrick G. Saltonstall and Molly Odell",
+    "url": "https://digitalcommons.oberlin.edu/faculty_schol/47/",
+    "readingUrl": "https://www.researchgate.net/publication/280840966_Cod_Fishing_in_Russian_America_The_Archaeology_of_a_19th-Century_Alutiiq_Work_Camp_on_Alaska%27s_Kodiak_Island",
+    "doi": "10.3368/aa.52.1.102",
+    "type": "Scholarly article / collaborative archaeology",
+    "topics": [
+      "Colonial labor",
+      "Archaeological interpretation",
+      "Subsistence",
+      "Continuity"
+    ],
+    "annotation": "Combines archaeological evidence and historical records to interpret a small seasonal company work camp. Its analysis distinguishes imposed labor from workers' continuing skills and choices. Conclusions are a site-specific interpretation, not proof of identical conditions in every Alutiiq community.",
+    "publicationDate": "2015; Arctic Anthropology 52(1):102–126",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "contentReviewScope": "Selected actual article text: introduction and colonial-labor passages, printed pages 102–105; Discussion and Conclusions passages, pages 121–123. Oberlin metadata verified; full-text host identifies upload by Amy Margaris on August 10, 2015.",
+    "countsTowardMinimum": true,
+    "inspectedSubresources": [
+      {
+        "title": "Author-uploaded reading copy",
+        "url": "https://www.researchgate.net/publication/280840966_Cod_Fishing_in_Russian_America_The_Archaeology_of_a_19th-Century_Alutiiq_Work_Camp_on_Alaska%27s_Kodiak_Island",
+        "scope": "Actual selected article text: printed 102–105 and121–123. Access conditions may differ by reader."
+      }
+    ],
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
       }
     ]
   },
@@ -4528,6 +4700,34 @@
       {
         "name": "Acoma Pueblo",
         "slug": "acoma-pueblo"
+      }
+    ]
+  },
+  {
+    "id": "au12-c4",
+    "title": "Self Determination at its Best: 50 Years of Service to the Chugach Region",
+    "publisher": "Chugachmiut",
+    "url": "https://www.chugachmiut.org/wp-content/uploads/2024/07/Chugachmiut_50th_Anniversary_Booklet_revised_6-25-24.pdf",
+    "type": "Indigenous-led",
+    "topics": [
+      "Community perspectives",
+      "Regional institutions",
+      "Self-determination",
+      "Sugpiaq communities"
+    ],
+    "annotation": "A regional tribal consortium’s own commemorative publication includes named leaders’ reflections on representation and services. It explicitly distinguishes Sugpiaq and multicultural member tribes. This institutional retrospective is not an independent outcomes evaluation or a statement that all regional peoples are identical.",
+    "contentReviewScope": "Read cover and printed pages 3,9–10; also selected timeline/service passages on printed pages 12–17,24. Visually checked printed pages 3,9–10 (PDF pages 5,11–12). No full28-page or QR-linked interview review.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "publicationDate": "2024 commemorative publication; filename identifies revision June 25, 2024",
+    "dateBasis": "Anniversary of 1974 founding and publisher filename, not a separately verified first-publication date.",
+    "sourceUnitKey": "chugachmiut-50th-anniversary-booklet",
+    "authorsNote": "Institutional publication with reflections attributed to Fran Norman, Chief John Kvasnikoff, Esther Ronne and others; no single book author identified.",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
       }
     ]
   },
@@ -19381,6 +19581,29 @@
     ]
   },
   {
+    "id": "at12-r2",
+    "title": "Kodiak Regional Sugpiaq/Alutiiq Language Strategic Plan, 2024–2029",
+    "url": "https://alutiiqmuseum.org/wp-content/uploads/2024/08/2024-2029-Kodiak-Alutiiq-Language-Strategic-Plan.pdf",
+    "publisher": "Qik’rtarmiut Alutiit Regional Language Advisory Committee; published by Alutiiq Museum",
+    "type": "Indigenous-led",
+    "topics": [
+      "Community planning",
+      "Language learning",
+      "Teacher development"
+    ],
+    "annotation": "Community-developed plan approved August 8,2024 sets goals for learners, teachers, partnerships, funding and a learning home base. Read it as a dated statement of intended work. Targets and proposed institutional changes are not verified outcomes.",
+    "contentReviewScope": "All three actual PDF pages read: mission, vision, five overarching goals and approval footers. No subsequent annual-review documents, measured outcomes or implementation audit inspected.",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "approvedAt": "2024-08-08",
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
+      }
+    ]
+  },
+  {
     "id": "p315-s3",
     "title": "Quapaw Nation Culture Division",
     "publisher": "quapawnation.com",
@@ -22449,6 +22672,32 @@
       {
         "name": "Biloxi",
         "slug": "biloxi"
+      }
+    ]
+  },
+  {
+    "id": "at12-h4",
+    "title": "Teaching Traditions: Public Programming at the Alutiiq Museum",
+    "publisher": "Smithsonian Institution, National Museum of the American Indian, in Living Homes for Cultural Expression",
+    "author": "Amy F. Steffian; volume edited by Karen Coody Cooper and Nicolasa I. Sandoval",
+    "url": "https://www.doi.gov/sites/doi.gov/files/migrated/library/internet/subject/upload/LivingHomesforCulturalExpression.pdf",
+    "type": "Community-museum practitioner's history",
+    "topics": [
+      "Historical memory",
+      "Community archaeology",
+      "Heritage institutions",
+      "Education"
+    ],
+    "annotation": "A substantial museum practitioner's account of community archaeology, heritage organizing and choices about public education. It records disagreements and an Alutiiq-first mission rather than presenting revival as an outside discovery. Program examples and institutional circumstances are dated to this 2006 chapter.",
+    "publicationDate": "2006; chapter pages 27–41",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "contentReviewScope": "Selected actual chapter passages: opening pages 27–28; Programs Create the Museum, pages 32–33; A Philosophy for Programming, pages 34–35; and public-education examples, pages 36–37. Title/copyright pages checked. Not a full-volume review.",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Alutiiq",
+        "slug": "alutiiq"
       }
     ]
   },
