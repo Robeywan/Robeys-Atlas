@@ -1,0 +1,156 @@
+{
+  "originalId": 17,
+  "reviewedAt": "2026-10-21",
+  "result": "Pass for evidence, identity, counting and planned integration; minor public-text spacing cleanup remains.",
+  "reviewedFiles": [
+    "work/apalachee-community-17-20261021.json",
+    "work/apalachee-museum-17-20261021.json",
+    "work/apalachee-history-17-20261021.json",
+    "work/apalachee-language-supplement-17-20261021.json",
+    "work/prepare-apalachee-config.py",
+    "work/apalachee-community-history-audit-17-20261021.md"
+  ],
+  "auditScope": "Bounded read-only packet/configuration review. History and language supplement were authored by this reviewer; final checks there verify their actual selected evidence and integration, rather than claim a second independent authorship review. Museum and community fit were independently checked against existing exact source URLs. No new source discovery, Site edits, contacts or delegation.",
+  "counts": {
+    "sourceCards": 6,
+    "substantiveWorks": 5,
+    "supportingCards": 1,
+    "sections": 7,
+    "expectedCountsPass": true,
+    "explanation": "Talimali self-account collection 1 + PBS transcript 1 + museum collection 1 + Hann book 1 + McEwan technical nomination 1. Short projects page is false. The language supplement adds a section to Hann, not a card/work."
+  },
+  "identityAndEvidenceFindings": [
+    {
+      "sourceId": "p17-s1",
+      "result": "Pass",
+      "finding": "Talimali Today and What We Do actually state educational/research purposes, 1995 nonprofit organization and 1996 recognition filing. Proposed paragraph explicitly attributes those institutional statements. No independent incorporation, eligibility, lineage, exclusivity or recognition outcome is inferred."
+    },
+    {
+      "sourceId": "p17-s7",
+      "result": "Pass",
+      "finding": "Projects remains supporting. Dated 2021 relief reporting and undated plans are distinguished from completion or current availability. This review read the packet and independent peer audit; it did not freshly reread the projects page."
+    },
+    {
+      "sourceId": "ac17-c3",
+      "result": "Pass",
+      "finding": "Fresh actual PBS transcript spot-check confirms Episode 7/2006 imprint and direct Bennett/Zuberi exchanges on PDF 1 and 4. Descendant participation is not overstated as formal partnership or genealogical proof. No video viewed. Artifact-origin, religious and burial interpretations are excluded."
+    },
+    {
+      "sourceId": "p17-s2",
+      "result": "Pass",
+      "finding": "Freshly reread all five exact museum bodies. The proposed paragraph matches requests/diplomacy, Spanish authority, coerced labor, attacks, the 1704 end, displacement, timeline's later Louisiana route, material/written evidence and modern reconstruction. Five related institutional pages count conservatively once."
+    },
+    {
+      "sourceId": "ap17-h1",
+      "result": "Pass",
+      "finding": "Selected political evidence supports qualified village autonomy and prominence without command over other major villages. Actual printed 118 supports the short letter/translation caution. The original letter was not independently inspected or translated; no current vitality or sole-surviving-text claim. Old extinction framing is excluded."
+    },
+    {
+      "sourceId": "ap17-h2",
+      "result": "Pass",
+      "finding": "Actual saved nomination PDF 21 freshly rechecked: prepared January 7, 2003, and separately marks additional documentation added in 2004. Method and local political-architecture claims match recorded selections. A technical nomination does not establish contemporary tribal recognition, universal voluntary conversion or all-Apalachee conditions."
+    }
+  ],
+  "museumSpecificLimits": [
+    "The Apalachee page's sweeping archaeological origin chronology, absence-of-writing assumptions, gender/clan generalizations and exact demographic figures are not in the proposed synthesis.",
+    "End of the Mission System uses a fading-away formulation and colonial Mobile/Louisiana terminology. The packet explicitly excludes disappearance claims and uses the timeline to distinguish subsequent movement to the Red River; no modern-state error is introduced.",
+    "The museum's European grid description differs from the older nomination's discussion of changing house orientations and absence of a formal grid. Neither grid claim appears in the integrated synthesis, so this disagreement produces no present contradiction.",
+    "The timeline ends in October 2022; its date and the 2026 footer are not assigned as page publication dates. Its 1996 contact entry is not treated as discovery or beginning of the people.",
+    "The short archaeology page supports a public explanation of evidence. It is neither a separately counted excavation report nor authority to exclude community knowledge."
+  ],
+  "integrationChecks": {
+    "renewalMapping": {
+      "ac17-c1": "p17-s1",
+      "ac17-c2": "p17-s7",
+      "ap17-m1": "p17-s2",
+      "ac17-c3": "ac17-c3",
+      "ap17-h1": "ap17-h1",
+      "ap17-h2": "ap17-h2"
+    },
+    "danglingIds": false,
+    "allCardsUsed": true,
+    "sectionOrderMatches": true,
+    "sourceOrderMatches": true,
+    "oldMuseumCards": "p17-s2 through p17-s6 consolidate to one p17-s2 card with main URL plus four inspectedSubresources. All five original museum URLs remain visible.",
+    "otherOldRoutes": "Community and projects original routes are retained by stable-ID renewals.",
+    "languageScope": "Configuration replaces Hann's scope with the supplement's expanded scope; it does not append both scope statements.",
+    "overview": "29 words, cited only to p17-s1 and p17-s2. No additional Hann overview citation.",
+    "completion": "researchComplete=false, five works below the twelve-source target, explicit adequate-initial-introduction rationale and gaps. No completed research or community endorsement claim."
+  },
+  "wordBudget": {
+    "method": "Whitespace count after basic fused letter/number normalization. Counts annotation, complete displayed review scope, inspected-subresource scope text, every supplied cited section and relevant overview. Final column additionally includes the source-specific public evidence note, since build.mjs displays evidenceNotes. Bibliographic titles, Atlas-owned count/provenance metadata and unrendered rights notes are excluded.",
+    "sources": [
+      {
+        "sourceId": "p17-s1",
+        "annotationScopeSubscopesAndSections": 139,
+        "withOverview": 168,
+        "includingSourceSpecificEvidenceNote": 196
+      },
+      {
+        "sourceId": "p17-s7",
+        "annotationScopeSubscopesAndSections": 122,
+        "withOverview": 122,
+        "includingSourceSpecificEvidenceNote": 122
+      },
+      {
+        "sourceId": "ac17-c3",
+        "annotationScopeSubscopesAndSections": 148,
+        "withOverview": 148,
+        "includingSourceSpecificEvidenceNote": 179
+      },
+      {
+        "sourceId": "p17-s2",
+        "annotationScopeSubscopesAndSections": 159,
+        "withOverview": 188,
+        "includingSourceSpecificEvidenceNote": 188
+      },
+      {
+        "sourceId": "ap17-h1",
+        "annotationScopeSubscopesAndSections": 167,
+        "withOverview": 167,
+        "includingSourceSpecificEvidenceNote": 200
+      },
+      {
+        "sourceId": "ap17-h2",
+        "annotationScopeSubscopesAndSections": 136,
+        "withOverview": 136,
+        "includingSourceSpecificEvidenceNote": 165
+      }
+    ],
+    "maximum": 200,
+    "caution": "Hann reaches exactly 200 when its source-specific public note is included. Do not append another Hann-derived sentence, overview citation or visible rights-note summary without shortening and recalculating. PBS and Hann packet rights notes are not rendered by current sourceCard; adding them to visible text would require another budget check."
+  },
+  "neededFixes": [
+    {
+      "severity": "Minor readability",
+      "file": "work/prepare-apalachee-config.py",
+      "field": "profileFields.researchGaps and profileFields.evidenceNotes; public review prose",
+      "issue": "Fused letter/number text remains, for example and403downloads, a1996filing, Hann’s1988book, the2017university and original1688letter. The integration helper currently normalizes source annotations/scopes and section text, but not these profile-level strings.",
+      "proposedCorrection": "Normalize these public strings before integration/publication, including ordinary date-comma spacing where needed. Do not alter IDs or URLs. This does not change the counts or evidence findings."
+    }
+  ],
+  "inspectionRecord": [
+    {
+      "source": "Museum collection",
+      "method": "Reopened all five recorded original URLs and read actual full substantive bodies; no source/media downloads or new related links."
+    },
+    {
+      "source": "Talimali self-account",
+      "method": "Reopened Today and What We Do; checked the actual institutional description and dated filing/nonprofit statements."
+    },
+    {
+      "source": "PBS/OPB transcript",
+      "method": "Reopened the exact recorded original four-page PDF; checked opening and closing interview framing and 2006 imprint. Broader cultural/burial material encountered in extraction was not reused."
+    },
+    {
+      "source": "Historical local evidence",
+      "method": "Prior actual selected Hann and McEwan readings remain recorded; fresh extraction of McEwan page 21 confirms preparation and additional-documentation dates. No whole-book or whole-nomination reread claimed."
+    },
+    {
+      "source": "Integration configuration",
+      "method": "Parsed packets and config with AST/literal reads, reconstructed counts/ID map/word budgets in memory, and inspected the current renderer/integrator read-only. No configuration or integration script executed."
+    }
+  ],
+  "accessAndPrivacy": "All public source links are external original routes. Private PDF/evidence paths remain in privateEvidenceFiles fields under inspections; the integration cleaner removes keys beginning private. No attachment full text, local private path, source images, burial/ceremonial material or exact sensitive sites is proposed for the public profile.",
+  "remainingLimits": "This validates supplied packets and planned configuration, not a future deployed rendering, full recognition record, original manuscripts, complete archaeological corpus or every scholarly interpretation. Root still owns build, preservation checks and publication."
+}

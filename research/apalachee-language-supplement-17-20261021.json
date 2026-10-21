@@ -1,0 +1,27 @@
+{
+  "originalId": 17,
+  "reviewedAt": "2026-10-21",
+  "sourceId": "ap17-h1",
+  "addsSubstantiveWork": false,
+  "proposedSourceScopeReplacement": "Actual 470-page university PDF: title/licence, preface xi–xiii, introduction 1–4, political history 96–100 (PDF 116–120) and language documentation 118–121 (PDF 138–141). Selected pages only; ceremonial appendices and later extinction chapter are not used.",
+  "claimBlock": {
+    "suggestedSection": "A surviving written record of the language",
+    "text": "Hann describes a 1688 letter by Apalachee chiefs, preserved with a contemporary Spanish translation, as central evidence for studying the language. He cautions that Indigenous words recorded by Spaniards were not necessarily Apalachee.",
+    "sourceIds": [
+      "ap17-h1"
+    ],
+    "sourceLocator": "Hann, printed 118 (PDF 138), especially the first two paragraphs"
+  },
+  "inspection": {
+    "actualPages": "Actual printed 118–121 (PDF 138–141), read from the already inspected university edition; original PDF and a selected language extraction preserved privately.",
+    "method": "pypdf extraction read in full for those four pages, including chapter opening, historical comparative discussions and interpreter passages.",
+    "evidence": "Printed 118 identifies the 1688 chiefs’ letter, Fray Marcelo de San Joseph’s contemporary Spanish translation and later publication/English translation through Spanish. The same page warns that words used by Spaniards about Apalachee could instead be Arawak or Timucua.",
+    "limits": "The proposed block does not assert this remains the only surviving text today, current language vitality, extinction of a people, an independent reading or translation of the original letter, or a definitive modern linguistic classification. Later discussion of comparative relationships is not adopted as present consensus. Ceremonial manuscript references are not reproduced, explained or counted separately."
+  },
+  "wordBudget": {
+    "newClaimWords": 33,
+    "combinedAnnotationReplacedScopeOriginalClaimAndNewClaim": 167,
+    "maximum": 200
+  },
+  "integrationNote": "Replace the original ap17-h1 scope with the proposed expanded scope; keep its annotation and original political-history block. Add this one short language block using the same source ID. Do not add a second source card or count. Recalculate if an overview or additional legacy prose also cites Hann."
+}

@@ -1,0 +1,130 @@
+{
+  "originalId": 17,
+  "reviewedAt": "2026-10-21",
+  "packetScope": "Two substantial distinct historical works, actually read in selected portions. Bounded pass stops below the maximum of three; inaccessible journal articles are excluded.",
+  "sources": [
+    {
+      "id": "ap17-h1",
+      "title": "Apalachee: The Land between the Rivers — selected introduction and political history",
+      "author": "John H. Hann",
+      "publisher": "University Presses of Florida / Florida State Museum; LibraryPress@UF reissue",
+      "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/13/83/00001/AA00061383_00001.pdf",
+      "type": "Scholarly historical monograph / open university edition",
+      "topics": [
+        "Political history",
+        "Villages",
+        "Historical methods"
+      ],
+      "annotation": "A substantial documentary study examines relationships among Apalachee villages and leaders. Read its historical arguments with the stated limits of colonial records. Its obsolete extinction framing is not adopted, and this selected reading does not review the whole book.",
+      "contentReviewScope": "Actual 470-page university PDF: title/licence, preface xi–xiii, introduction 1–4 and political-history chapter 96–100 (PDF 116–120). Selected pages only; ceremonial appendices and later extinction chapter are not used.",
+      "publicationDate": "1988 original; 2017 LibraryPress@UF open reissue",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true
+    },
+    {
+      "id": "ap17-h2",
+      "title": "San Luis de Talimali: National Historic Landmark Nomination — updated documentation",
+      "author": "Bonnie G. McEwan",
+      "publisher": "Florida historical-preservation documentation, held by National Park Service",
+      "url": "https://npgallery.nps.gov/GetAsset/67d92cf2-58d6-4530-b79d-4b182a00beae",
+      "type": "Government heritage documentation / archaeological research account",
+      "topics": [
+        "Archaeology",
+        "Research methods",
+        "San Luis",
+        "Historical interpretation"
+      ],
+      "annotation": "The archaeologist’s technical nomination explains how survey, testing and documentary research informed interpretations at San Luis. It is a distinct research account beyond a museum summary. Its dated interpretations concern this settlement, not all Apalachee experience or present recognition.",
+      "contentReviewScope": "Actual 23-page PDF: identification, selected history/methods on 4–7 and 12–13, and preparer/date on 21. Synthesis uses survey methodology and political-architecture interpretation only; no burial, ceremony, mapped-location or present-status claims.",
+      "publicationDate": "Prepared 2003-01-07; later asset/index dates are not publication dates",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true
+    }
+  ],
+  "claimBlocks": [
+    {
+      "suggestedSection": "Villages and political authority",
+      "text": "Hann’s historical study describes major Apalachee villages with considerable autonomy during the seventeenth-century mission period. Ivitachuco and San Luis had prominent leaders, but prominence did not necessarily give them command over other villages. He also stresses uncertainty in earlier Spanish accounts. This helps readers approach Apalachee political history through relationships among communities, rather than assume a single centralized government persisted unchanged across periods.",
+      "sourceIds": [
+        "ap17-h1"
+      ],
+      "sourceLocator": "Printed 96–100, especially 98–100; introduction and preface establish the documentary study’s limits"
+    },
+    {
+      "suggestedSection": "How archaeology changes a historical account",
+      "text": "McEwan’s 2003 documentation explains how survey and test excavations helped identify structures and activity areas at San Luis. She interprets the Apalachee council house and chiefly residence as evidence that important political institutions continued within a colonial settlement. This is an archaeologist’s interpretation of one community’s material record. It invites comparison with written accounts without assuming that mission life erased every Indigenous institution or affected every village identically.",
+      "sourceIds": [
+        "ap17-h2"
+      ],
+      "sourceLocator": "Printed/PDF 6, 12–13; preparer and date on 21"
+    }
+  ],
+  "inspections": [
+    {
+      "sourceId": "ap17-h1",
+      "method": "Web reader reported content length too large (57,634,737 bytes). Ordinary public HTTPS download succeeded; pypdf confirmed 470 pages. Actual selected title/licence, preface xi–xiii, introduction 1–4, and chapter 96–100 read. Actual rights/reissue page is PDF 6. Political chapter starts PDF 116, printed 96.",
+      "evidence": [
+        "Printed 98–99 discusses relative prominence of Ivitachuco and San Luis leaders and distinguishes evidence from conjecture.",
+        "Printed 100 explicitly describes largely autonomous major villages and says special standing did not establish power over other major chiefs beyond influence.",
+        "Printed 96–97 warns of sparse sixteenth-century political evidence and disagreements among chroniclers; preface xii identifies a research corpus initially tailored to site-location, appearance and ethnographic questions."
+      ],
+      "limits": "No numerical population, casualty, displacement total, current identity/status, current language condition or modern government claim. Do not reproduce ceremonial appendices, burial-related detail, precise sites or speculative translations. The introduction and table of contents contain extinction framing that conflicts with contemporary community continuity; the packet explicitly rejects adopting that framing."
+    },
+    {
+      "sourceId": "ap17-h2",
+      "method": "Actual NPS PDF text read at its recorded original URL, including selected history, previous-investigation methodology, significance interpretation and preparer/date. Printed and PDF numbers agree. Local preservation copy and selected extraction recorded for independent review.",
+      "evidence": [
+        "Page 6 describes topographic/auger surveys followed by test pits, framed as testing hypotheses about Spanish and Apalachee structures and activity areas.",
+        "Page 12 explains a shift from older designation history to archaeological significance; page 13 interprets chiefly and council-house architecture as evidence of institutional continuity.",
+        "Page 21 names Bonnie G. McEwan as preparer and gives January 7, 2003."
+      ],
+      "limits": "No current Catholic practice, recognition application outcome, comparative claims about all Native Floridians, universal voluntary conversion, burial analysis or numerical casualties adopted. Page 5 contains a dated migration account but this block does not duplicate the community packet’s migration history. Source-hosting does not automatically establish blanket image reuse rights; no source maps, plans, photos or artefact images are reused."
+    }
+  ],
+  "rightsNotes": [
+    {
+      "sourceId": "ap17-h1",
+      "note": "The university’s reissue states CC BY-NC-ND 4.0 on PDF 6. Atlas offers a link and a brief original educational summary; it does not distribute altered source pages, the full PDF, images or appendices."
+    },
+    {
+      "sourceId": "ap17-h2",
+      "note": "Read access only is relied on. No source media or dataset is republished, and no blanket public-domain status is inferred from NPS hosting."
+    }
+  ],
+  "unreadLeads": [
+    {
+      "title": "An Apalachee Revolt?: Reconceptualizing Violence in Seventeenth-Century Apalachee",
+      "author": "Aubrey Lauersdorf",
+      "publicationDate": "2021",
+      "url": "https://stars.library.ucf.edu/fhq/vol100/iss1/4/",
+      "actualDownloadUrl": "https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=4897&context=fhq",
+      "status": "Actual landing/abstract inspected; official article download returned 403. Not counted or cited for historical synthesis. A separately located MissionUS teaching excerpt also returned 403 and is not counted."
+    },
+    {
+      "title": "Apalachee Indians, 1704–1763",
+      "author": "James W. Covington",
+      "url": "https://stars.library.ucf.edu/fhq/vol50/iss4/5/",
+      "actualDownloadUrl": "https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=3255&context=fhq",
+      "status": "Actual landing/abstract inspected; download returned 403. Not counted. Landing metadata gives 1971; issue/date should be checked against actual imprint before future use."
+    },
+    {
+      "title": "Their Final Years: The Apalachee and Other Immigrant Tribes on the Red River, 1763–1834",
+      "author": "Donald G. Hunter",
+      "publicationDate": "1994",
+      "status": "Bibliographic lead encountered in official Florida library guide and community history; original article not located/read in this bounded pass. No count or claim of original inspection."
+    }
+  ],
+  "researchGaps": [
+    "A newer Indigenous-centered interpretation of seventeenth-century political conflict remains an unread priority, including Lauersdorf’s full article.",
+    "Detailed post-1704 and Red River archival research should be developed through actual original documents and contemporary community accounts; no extinction thesis or source-derived current demographic claim is adopted.",
+    "This packet is selected historical research, not a review of all chapters, primary manuscripts, archaeological evidence or contemporary recognition."
+  ],
+  "summary": {
+    "cards": 2,
+    "substantiveWorks": 2,
+    "maximumAssigned": 3,
+    "reasonBelowMaximum": "Two substantial inspected works completed; inaccessible journal PDFs are left as leads rather than substituted with abstracts or duplicate summaries."
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "originalId": 17,
+  "name": "Apalachee",
+  "reviewedAt": "2026-10-21",
+  "contentReviewedAt": "2026-10-21",
+  "packetScope": "All five baseline Mission San Luis URLs actually read. One conservative museum collection, with four visible inspected-subresource links. No additional substantive archaeology unit or supporting duplicate cards. No Site edits, contact or delegation.",
+  "sources": [
+    {
+      "id": "ap17-m1",
+      "renewalOf": "p17-s2",
+      "consolidatesSourceIds": [
+        "p17-s2",
+        "p17-s3",
+        "p17-s4",
+        "p17-s5",
+        "p17-s6"
+      ],
+      "title": "Mission San Luis — public history, timeline and archaeology collection",
+      "publisher": "Mission San Luis / Florida Department of State",
+      "author": "Institutional interpretation; individual page authors not identified",
+      "url": "https://missionsanluis.org/learn/history/the-apalachee/",
+      "type": "Museum / archive",
+      "topics": [
+        "Mission history",
+        "Colonial labor",
+        "Displacement",
+        "Public interpretation",
+        "Archaeological evidence"
+      ],
+      "publicationDate": "Undated pages; timeline ends with October 2022 entry. The 2026 footer is not a demonstrated article publication date.",
+      "annotation": "Related uncredited museum history, chronology and archaeology pages are grouped once. Read as institutional interpretation, with coercion and survivor continuity visible. Disappearance claims and simplified cultural-origin narratives are not adopted.",
+      "contentReviewScope": "Actual complete substantive bodies of all five pages read, excluding navigation. No underlying archival records, excavation reports, reconstruction manuals, linked resources or media reviewed.",
+      "inspectedSubresources": [
+        {
+          "title": "Mission San Luis",
+          "url": "https://missionsanluis.org/learn/history/mission-san-luis/",
+          "scope": "Actual mission interpretation and colonial labor history."
+        },
+        {
+          "title": "End of the Mission System",
+          "url": "https://missionsanluis.org/learn/history/end-of-the-mission-system/",
+          "scope": "Actual destruction, displacement and descendant passage; wording critically screened."
+        },
+        {
+          "title": "Timeline",
+          "url": "https://missionsanluis.org/learn/timeline/",
+          "scope": "Actual chronology; historical movement and museum-development entries distinguished."
+        },
+        {
+          "title": "Archaeology",
+          "url": "https://missionsanluis.org/learn/archaeology/",
+          "scope": "Actual short evidentiary overview; not an excavation-report review."
+        }
+      ],
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true,
+      "countReason": "One conservative collection. Archaeology is a short, uncredited institutional overview within the same interpretation; it is not counted separately.",
+      "sourceUnitKey": "mission-san-luis-public-interpretation-collection"
+    }
+  ],
+  "claimBlocks": [
+    {
+      "id": "ap17-mb1",
+      "suggestedSection": "A museum interpretation of mission history and its evidence",
+      "sourceIds": [
+        "ap17-m1"
+      ],
+      "sourceLocator": "Actual museum bodies: The Apalachee 3–9; Mission San Luis 2–10; End 3–7; Timeline 11–27,38–49; Archaeology 2–8.",
+      "text": "Mission San Luis’s museum collection portrays mission relations as shaped by Apalachee diplomacy, Spanish authority and coerced labor. It describes violent attacks, the mission’s 1704 end and different paths of displacement, while the timeline separates later routes toward Louisiana. The archaeology page explains the museum’s reliance on material remains and Spanish records. These are historical interpretations underpinning a modern reconstruction; the mission’s destruction must not be mistaken for the end of Apalachee people."
+    }
+  ],
+  "inspections": [
+    {
+      "url": "https://missionsanluis.org/learn/history/the-apalachee/",
+      "baselineSourceId": "p17-s2",
+      "actualScope": "Full substantive body, lines3–9. Institutional narrative moves from broad archaeological periods to Apalachee social/political interpretation.",
+      "contribution": "Background for the collection’s local-historical framing; no universal role chart or exact demographic figure proposed.",
+      "limits": "No broad equation of an archaeological culture with one later people, no assertion of a single late-sixteenth-century origin/collapse, no ancient written-history absence used to erase knowledge. Gender generalizations, clan examples and pan-continental periodization are not proposed public claims."
+    },
+    {
+      "url": "https://missionsanluis.org/learn/history/mission-san-luis/",
+      "baselineSourceId": "p17-s3",
+      "actualScope": "Full substantive body, lines2–10. Mission requests, Spanish establishment/relocation, colonial authority and labor demands.",
+      "contribution": "Supports a historically changing political relationship and imposed labor, without portraying the relationship as uniformly voluntary or equal.",
+      "limits": "The page explicitly calls Apalachee motives uncertain. Its suggested explanation is interpretation, not direct proof of a chief’s intention. No event-by-event legal chronology or labor totals inferred."
+    },
+    {
+      "url": "https://missionsanluis.org/learn/history/end-of-the-mission-system/",
+      "baselineSourceId": "p17-s4",
+      "actualScope": "Full substantive body, lines3–7. Raids, enslavement, evacuation/destruction, different survivor routes and descendants.",
+      "contribution": "Supports displacement and survival context within the museum collection.",
+      "limits": "Do not adopt the source’s language about people fading away, imply an exhaustive set of survivor outcomes or make mission collapse an extinction claim. Mobile in colonial French territory must not be treated as a modern Louisiana city; timeline separately locates the later westward Louisiana movement. No casualty, enslavement or survivor totals proposed."
+    },
+    {
+      "url": "https://missionsanluis.org/learn/timeline/",
+      "baselineSourceId": "p17-s5",
+      "actualScope": "Full timeline body, lines5–49, including historical developments, later land uses and modern museum entries.",
+      "contribution": "Separates mission chronology, later movement toward Louisiana and the development of modern public interpretation/reconstruction.",
+      "limits": "Latest historical/museum event is not an update/publication date. The1996researcher-contact entry does not mean the people only began existing or were first discovered then. Museum opening and reconstruction do not establish an unchanged surviving village. No private sites or exact ancestry claims derived."
+    },
+    {
+      "url": "https://missionsanluis.org/learn/archaeology/",
+      "baselineSourceId": "p17-s6",
+      "actualScope": "Full short archaeology body, lines2–8. Explains excavated material, Spanish written sources, food/pottery interpretation.",
+      "contribution": "Clarifies evidentiary basis of museum interpretation; no separate report-level count.",
+      "limits": "Underlying excavation reports, collections, Spanish original documents and translators’ work were not independently inspected. Do not assume institutional readings are neutral or use the source’s broad claim to exclude other Apalachee knowledge. No artifact totals, medicinal instructions, motifs, source media or sensitive burial details copied."
+    }
+  ],
+  "integrationNotes": [
+    "Preserve all five exact original URLs in the public source interface: main url plus all four inspectedSubresources. Do not retain the other four old cards as separately counted substantive works.",
+    "Consolidate p17-s2 through p17-s6 as one sourceUnitKey and rewrite any legacy source citations to the collection card. Multiple page visits and the timeline’s many entries do not become separate work units.",
+    "The proposed single claim block is the entire public body budget for this collection. If history or evidence paragraphs elsewhere retain these museum citations, add their words to the same combined budget, rather than treating each page as another200-word allowance.",
+    "Current Apalachee community accounts are separately assigned. Use them for contemporary continuity rather than making this museum the sole authority on living peoples.",
+    "No page offered a named individual author or a demonstrated first-publication date. Preserve undated status rather than substituting footer2026 or last timeline entry2022.",
+    "No images, exhibits, reconstructed designs, maps, motifs, private locations, ceremonial details or source text files are proposed for publication."
+  ],
+  "identityAndDateNotes": [
+    "Apalachee people, particular mission residents, Spanish colonial institutions, later descendant communities and a modern state museum have different scopes.",
+    "The loss of a mission settlement does not imply that a people disappeared. Avoid exhaustive survivor-route claims or presenting descendants as a newly discovered remnant.",
+    "Colonial French Louisiana/Mobile terminology and later movement toward the Red River must be located in their respective periods, rather than converted to a single modern-state migration event."
+  ],
+  "researchGaps": [
+    "The museum pages lack explicit authorship and citations to specific underlying records. Additional actual scholarly/primary histories and community perspectives are handled separately.",
+    "No independent review of excavation reports or original Spanish records in this pass. A public explanation of evidence does not substitute for reading those works.",
+    "Detailed histories, present community identity and contemporary institutional status cannot be completed by treating five museum pages as five independently researched works."
+  ],
+  "summary": {
+    "actualInspectedUrls": 5,
+    "substantiveUnits": 1,
+    "supportingDuplicateCards": 0,
+    "archaeologySeparateCount": false,
+    "allOriginalUrlsRetainedVisibly": true,
+    "countingNote": "Related museum institutional pages/timeline grouped conservatively as one collection, including its short archaeology overview."
+  },
+  "wordBudgetCheck": {
+    "claimWords": 73,
+    "annotationScopeBodyAndAllSubresourceScopes": 159,
+    "maximum": 200
+  }
+}

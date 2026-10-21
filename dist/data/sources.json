@@ -8120,6 +8120,33 @@
     ]
   },
   {
+    "id": "ap17-h2",
+    "title": "San Luis de Talimali: National Historic Landmark Nomination — updated documentation",
+    "author": "Bonnie G. McEwan",
+    "publisher": "Florida historical-preservation documentation, held by National Park Service",
+    "url": "https://npgallery.nps.gov/GetAsset/67d92cf2-58d6-4530-b79d-4b182a00beae",
+    "type": "Government",
+    "topics": [
+      "Archaeology",
+      "Research methods",
+      "San Luis",
+      "Historical interpretation"
+    ],
+    "annotation": "The archaeologist’s technical nomination explains how survey, testing and documentary research informed interpretations at San Luis. It is a distinct research account beyond a museum summary. Its dated interpretations concern this settlement, not all Apalachee experience or present recognition.",
+    "contentReviewScope": "Actual 23-page PDF: identification, selected history/methods on 4–7 and 12–13, and preparer/date on 21. Synthesis uses survey methodology and political-architecture interpretation only; no burial, ceremony, mapped-location or present-status claims.",
+    "publicationDate": "Prepared 2003-01-07; later asset/index dates are not publication dates",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "sourceKind": "Government heritage documentation / archaeological research account",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
+      }
+    ]
+  },
+  {
     "id": "p40-s1",
     "title": "Tell Me About: The Calusa Tribe – Thompson Earth Systems Institute",
     "publisher": "floridamuseum.ufl.edu",
@@ -14305,98 +14332,56 @@
     ]
   },
   {
-    "id": "p17-s6",
-    "title": "Archaeology",
-    "publisher": "Mission San Luis / Florida Department of State",
-    "url": "https://missionsanluis.org/learn/archaeology/",
-    "type": "Museum / archive",
-    "topics": [
-      "Archaeology",
-      "Foodways",
-      "Sources"
-    ],
-    "annotation": "Explains excavation evidence, Spanish archival records, gardens and pottery adaptation. Makes the evidentiary basis of the reconstructed mission visible rather than presenting the museum as an unchanged surviving village.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Apalachee",
-        "slug": "apalachee"
-      }
-    ]
-  },
-  {
-    "id": "p17-s4",
-    "title": "End of the Mission System",
-    "publisher": "Mission San Luis / Florida Department of State",
-    "url": "https://missionsanluis.org/learn/history/end-of-the-mission-system/",
-    "type": "Museum / archive",
-    "topics": [
-      "Displacement",
-      "Enslavement",
-      "History"
-    ],
-    "annotation": "Explains English attacks, enslavement, San Luis’s evacuation and multiple survivor routes. Its older language about people fading away is not adopted here; descendant continuity must be read alongside it.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Apalachee",
-        "slug": "apalachee"
-      }
-    ]
-  },
-  {
-    "id": "p17-s3",
-    "title": "Mission San Luis",
-    "publisher": "Mission San Luis / Florida Department of State",
-    "url": "https://missionsanluis.org/learn/history/mission-san-luis/",
-    "type": "Museum / archive",
-    "topics": [
-      "History",
-      "Colonialism",
-      "Labor"
-    ],
-    "annotation": "Details requests for friars, mission establishment, relocation and colonial labor demands. Particularly helpful for understanding both Indigenous diplomacy and unequal power within the Spanish alliance.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Apalachee",
-        "slug": "apalachee"
-      }
-    ]
-  },
-  {
     "id": "p17-s2",
-    "title": "The Apalachee",
+    "consolidatesSourceIds": [
+      "p17-s2",
+      "p17-s3",
+      "p17-s4",
+      "p17-s5",
+      "p17-s6"
+    ],
+    "title": "Mission San Luis — public history, timeline and archaeology collection",
     "publisher": "Mission San Luis / Florida Department of State",
+    "author": "Institutional interpretation; individual page authors not identified",
     "url": "https://missionsanluis.org/learn/history/the-apalachee/",
     "type": "Museum / archive",
     "topics": [
-      "Homelands",
-      "Governance",
-      "Culture"
+      "Mission history",
+      "Colonial labor",
+      "Displacement",
+      "Public interpretation",
+      "Archaeological evidence"
     ],
-    "annotation": "Museum interpretation of territory, agricultural communities, matrilineal clans and leadership. Used for specific Apalachee institutions; broad archaeological-era generalizations on the page should not replace community history.",
-    "accessed": "2026-10-19",
-    "nations": [
+    "publicationDate": "Undated pages; timeline ends with October 2022 entry. The 2026 footer is not a demonstrated article publication date.",
+    "annotation": "Related uncredited museum history, chronology and archaeology pages are grouped once. Read as institutional interpretation, with coercion and survivor continuity visible. Disappearance claims and simplified cultural-origin narratives are not adopted.",
+    "contentReviewScope": "Actual complete substantive bodies of all five pages read, excluding navigation. No underlying archival records, excavation reports, reconstruction manuals, linked resources or media reviewed.",
+    "inspectedSubresources": [
       {
-        "name": "Apalachee",
-        "slug": "apalachee"
+        "title": "Mission San Luis",
+        "url": "https://missionsanluis.org/learn/history/mission-san-luis/",
+        "scope": "Actual mission interpretation and colonial labor history."
+      },
+      {
+        "title": "End of the Mission System",
+        "url": "https://missionsanluis.org/learn/history/end-of-the-mission-system/",
+        "scope": "Actual destruction, displacement and descendant passage; wording critically screened."
+      },
+      {
+        "title": "Timeline",
+        "url": "https://missionsanluis.org/learn/timeline/",
+        "scope": "Actual chronology; historical movement and museum-development entries distinguished."
+      },
+      {
+        "title": "Archaeology",
+        "url": "https://missionsanluis.org/learn/archaeology/",
+        "scope": "Actual short evidentiary overview; not an excavation-report review."
       }
-    ]
-  },
-  {
-    "id": "p17-s5",
-    "title": "Timeline",
-    "publisher": "Mission San Luis / Florida Department of State",
-    "url": "https://missionsanluis.org/learn/timeline/",
-    "type": "Museum / archive",
-    "topics": [
-      "Chronology",
-      "Migration",
-      "Public history"
     ],
-    "annotation": "Provides dates for mission developments, the 1704 destruction, the 1763–1764 move toward Louisiana and later contact between descendants and museum researchers. Useful for separating successive migrations.",
-    "accessed": "2026-10-19",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "countReason": "One conservative collection. Archaeology is a short, uncredited institutional overview within the same interpretation; it is not counted separately.",
+    "sourceUnitKey": "mission-san-luis-public-interpretation-collection",
     "nations": [
       {
         "name": "Apalachee",
@@ -18527,6 +18512,41 @@
       {
         "name": "Alsea",
         "slug": "alsea"
+      }
+    ]
+  },
+  {
+    "id": "ac17-c3",
+    "title": "Mystery Crystal Cross — History Detectives, Episode 7, 2006 transcript",
+    "author": "Oregon Public Broadcasting / History Detectives; presenter Tukufu Zuberi, with direct statements by Gilmer Bennett and other interviewees",
+    "publisher": "Oregon Public Broadcasting; published by PBS",
+    "url": "https://www.pbs.org/opb/historydetectives/investigation/mystery-crystal-cross/index.html",
+    "type": "Reporting / interview",
+    "topics": [
+      "Descendant participation",
+      "Public history",
+      "Historical interpretation",
+      "Community voice"
+    ],
+    "annotation": "A distinct public-history work records Bennett asking questions and responding to research. Interview participation is documented; a formal community research partnership is not claimed. Program inferences about an artifact are not genealogical proof or an all-community religious interpretation.",
+    "contentReviewScope": "Actual complete four-page transcript read, plus PBS episode description. Synthesis selects Bennett/Zuberi exchanges on pages 1 and 4. No video viewed; burial/ritual details excluded.",
+    "publicationDate": "2006 episode and transcript copyright; exact air day not established; 2011 PDF directory is an upload signal",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "inspectedSubresources": [
+      {
+        "title": "Actual episode transcript",
+        "url": "https://www.pbs.org/www-tc.pbs.org/opb/historydetectives/static/media/transcripts/2011-05-11/407_crystalcross.pdf",
+        "scope": "Four-page 2006 transcript, including direct community statements; one work with the episode page."
+      }
+    ],
+    "rightsNote": "Transcript states © 2006 Oregon Public Broadcasting, all rights reserved. Link original public source; no episode footage, source images, long dialogue or artifact detail is proposed for republication.",
+    "sourceKind": "Public-history reporting / community-participating interview transcript",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
       }
     ]
   },
@@ -24475,16 +24495,24 @@
   {
     "id": "p17-s7",
     "title": "Apalachee Community Projects",
+    "author": "Talimali Band of the Apalachee Indians of Louisiana; no individual byline displayed",
     "publisher": "Talimali Band of the Apalachee Indians of Louisiana",
     "url": "https://talimaliband.com/apalachee-community-projects",
     "type": "Indigenous-led",
     "topics": [
-      "Contemporary life",
-      "Museums",
-      "Community"
+      "Community projects",
+      "Public memory",
+      "Disaster relief",
+      "Plans and reporting"
     ],
-    "annotation": "Community descriptions of village expansion, museum planning and relief work. These are projects described by the Band, with some entries explicitly historical; they are not independent confirmation that every proposed project is completed.",
-    "accessed": "2026-10-19",
+    "annotation": "Three brief project notices combine undated plans with dated relief reporting. Useful primary context but retained outside the substantive count. Photographs and present-tense wording do not establish completion, current availability or results.",
+    "contentReviewScope": "Actual complete project text, lines 65–110: village expansion, September 2021 Hurricane Ida relief and museum intentions. Images and proposed family/clan exhibits not republished.",
+    "publicationDate": "Page undated; Hurricane Ida notice explicitly September 2021; other project dates unestablished",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": false,
+    "countReason": "Short notices and proposed work, not an independently evaluated or substantial project-history publication. Preserved without quota padding.",
+    "sourceKind": "Community project notices — supporting context",
     "nations": [
       {
         "name": "Apalachee",
@@ -24494,17 +24522,32 @@
   },
   {
     "id": "p17-s1",
-    "title": "Who Are the Apalachee Indians Today?",
+    "title": "Who Are the Apalachee Indians Today? — with Our Mission, Our Vision, and What We Do",
+    "author": "Talimali Band of the Apalachee Indians of Louisiana; no individual byline displayed",
     "publisher": "Talimali Band of the Apalachee Indians of Louisiana",
     "url": "https://talimaliband.com/apalachee-indians-today",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "Contemporary life",
-      "Education"
+      "Community continuity",
+      "Education",
+      "Public history",
+      "Institutional purpose"
     ],
-    "annotation": "Descendant community’s account of its Louisiana roots, historical continuity, cultural preservation and educational programs. Its distinction between a recognition application and continuing community identity is useful alongside older histories.",
-    "accessed": "2026-10-19",
+    "annotation": "The Band's public self-account and overlapping mission page are grouped once. They contribute its own perspective, without independently proving every historical claim, current program or legal status. Application, incorporation and community identity remain distinct.",
+    "contentReviewScope": "Actual complete Today body, lines 62–69, and mission/activity/scholarship text 66–97 on What We Do. Current officeholders, eligibility and exclusivity claims excluded.",
+    "publicationDate": "Both pages undated; dates of described events are not publication dates",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "inspectedSubresources": [
+      {
+        "title": "Our Mission, Our Vision, and What We Do",
+        "url": "https://talimaliband.com/what-we-do-1",
+        "scope": "Actual mission, institutional history and scholarship description; overlapping community account, not another work-level count."
+      }
+    ],
+    "countReason": "Grouped public community self-description and educational/research purposes provide substantive primary perspective; duplicate institutional statements are not multiplied.",
+    "sourceKind": "Community-authored institutional self-account",
     "nations": [
       {
         "name": "Apalachee",
@@ -27016,6 +27059,32 @@
       {
         "name": "Pensacola",
         "slug": "pensacola"
+      }
+    ]
+  },
+  {
+    "id": "ap17-h1",
+    "title": "Apalachee: The Land between the Rivers — selected introduction and political history",
+    "author": "John H. Hann",
+    "publisher": "University Presses of Florida / Florida State Museum; LibraryPress@UF reissue",
+    "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/13/83/00001/AA00061383_00001.pdf",
+    "type": "Academic / reference",
+    "topics": [
+      "Political history",
+      "Villages",
+      "Historical methods"
+    ],
+    "annotation": "A substantial documentary study examines relationships among Apalachee villages and leaders. Read its historical arguments with the stated limits of colonial records. Its obsolete extinction framing is not adopted, and this selected reading does not review the whole book.",
+    "contentReviewScope": "Actual 470-page university PDF: title/licence, preface xi–xiii, introduction 1–4, political history 96–100 (PDF 116–120) and language documentation 118–121 (PDF 138–141). Selected pages only; ceremonial appendices and later extinction chapter are not used.",
+    "publicationDate": "1988 original; 2017 LibraryPress@UF open reissue",
+    "accessed": "2026-10-21",
+    "contentReviewedAt": "2026-10-21",
+    "countsTowardMinimum": true,
+    "sourceKind": "Scholarly historical monograph / open university edition",
+    "nations": [
+      {
+        "name": "Apalachee",
+        "slug": "apalachee"
       }
     ]
   },

@@ -1,0 +1,11 @@
+# Apalachee research review — October 21, 2026
+
+Five substantive inspected works or conservative collections, one supporting projects page and seven cited sections. The twelve-source quantity target remains unreached. Explicit initial adequacy supports continuing alphabetically with substantial gaps open, not a completion or endorsement claim.
+
+The Talimali Band’s self-account and overlapping mission page count once. Five Mission San Luis history/timeline/archaeology pages count once with every original URL visible. A short projects page is supporting. A PBS/OPB 2006 transcript supplies actual direct descendant participation without a video-review or formal-partnership claim. Hann’s 1988 monograph, inspected through its 2017 university reissue, and McEwan’s technical 2003 nomination are distinct substantial scholarly/documentary works.
+
+Selected Hann political-history and language-documentation passages count as one book. The 1688 letter is known here through Hann’s discussion, not independent original-language inspection. Obsolete extinction framing is excluded. Museum destruction/displacement narratives are not the end of a people; colonial Mobile and later Louisiana movement are not silently conflated. Modern reconstruction is distinct from an unchanged village. Archaeological interpretations remain local and attributed.
+
+UCF article landings were found but actual official downloads returned 403; abstracts did not fill the count. Newer political scholarship and post-1704 archive work remain priorities. Recognition applications, nonprofit organization, community identity, current legal status and project completion are different matters. Plans are not completed actions, a broadcast is not genealogical proof and a surname is not membership verification. No burial/ceremonial details, source media, motifs, maps, precise private sites or full attachments are reproduced.
+
+All 470 directory access points, 454 originals, 301 contributed URLs and sixteen-study provenance remain. The source collection consolidates cards without losing original reading routes. Map geometry/associations and authentic photographs/credits remain. Yocona is unresolved. Arapaho original 18 is next; earlier B drafts and A gaps stay saved. Build, citations, map, preservation, combined-source budgets and representative rendered checks precede native publication.
