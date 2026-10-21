@@ -1,0 +1,103 @@
+{
+  "originalId": 11,
+  "reviewedAt": "2026-10-21",
+  "sources": [
+    {
+      "id": "al11-r1",
+      "title": "Selected English Place Names with Indigenous Origins in Western Oregon",
+      "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf",
+      "publisher": "Oregon Department of Education; Tribal History/Shared History",
+      "type": "Government",
+      "topics": [
+        "Homelands",
+        "Names",
+        "Language distinctions"
+      ],
+      "annotation": "Educational account connects Alsea and Yaquina names with river valleys and distinguishes Ya’xaik from later English spellings. Its neighboring-language sections help prevent conflation. Use the stated historical scope, rather than treating modern administrative regions as Indigenous boundaries.",
+      "contentReviewScope": "Actual PDF pages 1–2 read, plus Dee-ni language introduction on pages 3–4. No full nine-page review or inspection of its cited works claimed. Sensitive burial detail omitted from synthesis.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "renewalOf": "p11-s1"
+    },
+    {
+      "id": "al11-r2",
+      "title": "Alsea Texts and Myths: methodological and vocabulary introductions",
+      "url": "https://archive.org/details/alseatextsandmy00fracgoog",
+      "publisher": "Bureau of American Ethnology, Government Printing Office; public scan hosted by Internet Archive",
+      "type": "Historical linguistic publication",
+      "topics": [
+        "Language documentation",
+        "Named contributors",
+        "Editorial methods",
+        "Historical perspective"
+      ],
+      "annotation": "Frachtenberg’s historical edition records contributions from named Alsea speakers and explains editorial and vocabulary methods. Read its early twentieth-century judgments critically. Neither its predictions about language nor its narrow surviving sample establishes disappearance of Alsea people or the limits of community knowledge.",
+      "contentReviewScope": "Actual public scan-derived OCR read for printed pages 9–11 and 243–245; title and 1920 imprint checked. No full-book, narrative or recording review. OCR can corrupt transcription. Smithsonian PDF was size-blocked by web reader and returned403 through ordinary download; this lawful public copy supplied actual text.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "author": "Leo J. Frachtenberg; named Alsea contributors discussed in the introduction",
+      "publishedAt": "1920",
+      "inspectedTextUrl": "https://archive.org/download/alseatextsandmy00fracgoog/alseatextsandmy00fracgoog_djvu.txt",
+      "canonicalRepositoryUrl": "https://repository.si.edu/handle/10088/15534"
+    },
+    {
+      "id": "al11-r3",
+      "title": "MS 2516: Alsea and Lower Umpqua texts and notes",
+      "url": "https://sova.si.edu/record/naa.ms2516?i=8677&n=10&q=National+Institute&s=8670&t=C",
+      "publisher": "Smithsonian National Anthropological Archives",
+      "type": "Museum / archive",
+      "topics": [
+        "Finding aid",
+        "Language archives",
+        "Authorship"
+      ],
+      "annotation": "Finding aid distinguishes Alsea notebooks from a Lower Umpqua grammatical index and records corrections to notebook authorship. This describes holdings and research routes; it does not turn every linked manuscript into an inspected work.",
+      "contentReviewScope": "Actual finding-aid summary and scope/content notes read. No linked manuscript images or recordings inspected. Supporting reference outside the substantive target.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "renewalOf": "p11-s5",
+      "countsTowardMinimum": false
+    }
+  ],
+  "sections": [
+    {
+      "title": "People, river valleys and place names",
+      "text": "The educational place-name account describes Alsea and Yaquina as central-coast peoples and connects their names with river valleys. Ya’xaik is the Alsea village name behind the later English Yachats. A village, a river valley, a language variety, the present town and the later federal subagency are different subjects. Keeping them distinct makes the historical record easier to follow without turning all reservation residents into one people.",
+      "sourceIds": [
+        "al11-r1"
+      ]
+    },
+    {
+      "title": "Named speakers and the making of a historical record",
+      "text": "Frachtenberg’s introduction names William Smith and Thomas Jackson among the Alsea contributors to his work and identifies earlier material collected by Livingston Farrand. He explains revising transcription and arranging translated texts. The vocabulary introduction also describes combining records from different investigators. These editorial choices shaped the published record; its limitations and colonial judgments should remain visible rather than being treated as a complete inventory of Alsea knowledge.",
+      "sourceIds": [
+        "al11-r2"
+      ]
+    },
+    {
+      "title": "Archives preserve distinct languages and research histories",
+      "text": "The Smithsonian finding aid identifies Alsea texts and notes alongside a separate Lower Umpqua grammatical index. It also records corrected notebook authorship. Shared storage does not establish that these are the same language. Likewise, the state teaching account identifies Siletz Dee-ni as a Dené language; the confederation’s name does not make all its language resources Alsea lessons.",
+      "sourceIds": [
+        "al11-r3",
+        "al11-r1"
+      ]
+    }
+  ],
+  "geographyNotes": [
+    {
+      "sourceUrl": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf",
+      "scope": "Alsea and Yaquina historical river-valley and central Oregon coast account",
+      "period": "Historical homelands and nineteenth-century reservation changes; not a territorial survey",
+      "precision": "Broad public river/place-name account only; no coordinates or polygons derived",
+      "reuse": "Text citation only; PDF map/images not reused"
+    }
+  ],
+  "researchGaps": [
+    "The historical collection is a mediated record with colonial language and OCR errors; no sacred narrative or image is reproduced.",
+    "Language documentation and loss do not establish disappearance of people. Current language-community perspectives and family-specific Alsea accounts need further research."
+  ],
+  "searchLimits": [
+    "Smithsonian scan-size limit and ordinary403 documented; a lawful openly accessible Archive copy supplied selected actual text.",
+    "Google Books metadata contains an unrelated Omaha-book description, so its summary is excluded. Library of Congress catalogue lists1918 for a Congressional Serial Set copy; the actual reviewed1920 imprint and Smithsonian catalogue date identify this edition. Same work must not be counted twice."
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "originalId": 11,
+  "name": "Alsea",
+  "reviewedAt": "2026-10-21",
+  "status": "Two distinct substantive linguistic studies actually inspected; inaccessible phonology paper retained only as an unread lead",
+  "sourceCount": 2,
+  "sources": [
+    {
+      "id": "al11-l1",
+      "title": "The Alsea Noun Phrase",
+      "author": "Eugene Buckley",
+      "publisher": "Kansas Working Papers in Linguistics, University of Kansas; full article copy in ERIC",
+      "url": "https://files.eric.ed.gov/fulltext/ED344478.pdf",
+      "landingUrl": "https://journals.ku.edu/kwpl/article/view/17342",
+      "doi": "10.17161/KWPL.1808.577",
+      "type": "Academic / reference",
+      "topics": [
+        "Language",
+        "Grammar",
+        "Possession",
+        "Language documentation"
+      ],
+      "publicationDate": "1989",
+      "citation": "Kansas Working Papers in Linguistics 14(2), Studies in Native American Languages V, pp. 20–36.",
+      "annotation": "Focused analysis of Alsea noun phrases, possession and small grammatical elements whose placement depends on phrase structure. Buckley explicitly identifies gaps in the recorded evidence. Selected descriptive and analytical pages were read; this is not a complete teaching grammar or a present-use survey.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "contentReviewScope": "Actual article, printed pp. 20–22,26–28,33–36 (ERIC PDF pp. 2–4,8–10,15–18), read in extracted text. Includes descriptive examples, formal analysis, evidentiary limits and notes; not just the ERIC abstract.",
+      "countsTowardMinimum": true,
+      "inspectedSubresources": [
+        {
+          "url": "https://journals.ku.edu/kwpl/article/view/17342",
+          "scope": "Publisher article metadata, author, DOI, 1989 year, 20–36 page range and CC BY 4.0 license statement."
+        }
+      ],
+      "reviewWordCheck": 143
+    },
+    {
+      "id": "al11-l2",
+      "title": "Temporal Boundaries in Alsea",
+      "author": "Eugene Buckley",
+      "publisher": "Proceedings of the Berkeley Linguistics Society; online publisher Linguistic Society of America",
+      "url": "https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/download/1789/1561/1756",
+      "landingUrl": "https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/view/1789",
+      "doi": "10.3765/bls.v14i0.1789",
+      "type": "Academic / reference",
+      "topics": [
+        "Language",
+        "Aspect",
+        "Translation",
+        "Language documentation"
+      ],
+      "publicationDate": "1988",
+      "citation": "Proceedings of the Fourteenth Annual Meeting of the Berkeley Linguistics Society, pp. 10–22.",
+      "annotation": "Proposes an analysis of how Alsea verbs mark events' beginnings, endings and resulting states. Comparisons with English translations show why context matters. Selected scanned pages, including the conclusion and source notes, were visually read; historical linguistic analysis does not establish contemporary speaker numbers.",
+      "accessed": "2026-10-21",
+      "contentReviewedAt": "2026-10-21",
+      "contentReviewScope": "Actual scanned article, printed pp. 10–12 and 17–21 (full PDF pp. 2–4 and 9–13), visually read after rendering. Publisher cover and article metadata also inspected. Intervening pp. 13–16 and final notes/reference page 22 were not read.",
+      "countsTowardMinimum": true,
+      "inspectedSubresources": [
+        {
+          "url": "https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/view/1789",
+          "scope": "Author, DOI,1988 proceedings and 10–22 range; portal lists publication date 1988-10-25. The source card conservatively records the proceedings year."
+        }
+      ],
+      "reviewWordCheck": 148
+    }
+  ],
+  "claimBlocks": [
+    {
+      "id": "al11-language-nounphrase",
+      "suggestedSection": "What the noun-phrase study reveals",
+      "sourceIds": [
+        "al11-l1"
+      ],
+      "sourceLocator": "Printed pp. 20–22,26–28,33–35",
+      "text": "Buckley examines how Alsea noun phrases identify a referent, express possession and mark relationships such as movement toward a place. His study follows small grammatical elements whose placement depends on phrase structure, including a marker that appears after different words as the phrase changes. He also identifies questions the available texts cannot settle. These patterns and proposed explanations offer a focused introduction to grammar, rather than a complete teaching course or a present-day language-use survey."
+    },
+    {
+      "id": "al11-language-temporal",
+      "suggestedSection": "How an event unfolds in recorded Alsea",
+      "sourceIds": [
+        "al11-l2"
+      ],
+      "sourceLocator": "Printed pp. 10–12,17–21",
+      "text": "Buckley’s study asks how Alsea verbs present an event’s beginning, end or resulting state. He argues that suffixes do more than correspond to English past-tense translations: context can make the same form appear differently in English. His comparison of earlier transcriptions and translations shows why wording in a translated text may conceal a grammatical distinction. This is a proposed analysis of recorded language, rather than evidence about present speakers or the continuity of Alsea families."
+    }
+  ],
+  "suggestedSections": [
+    {
+      "title": "What the noun-phrase study reveals",
+      "claimBlockIds": [
+        "al11-language-nounphrase"
+      ],
+      "sourceIds": [
+        "al11-l1"
+      ]
+    },
+    {
+      "title": "How an event unfolds in recorded Alsea",
+      "claimBlockIds": [
+        "al11-language-temporal"
+      ],
+      "sourceIds": [
+        "al11-l2"
+      ]
+    }
+  ],
+  "inspections": [
+    {
+      "sourceId": "al11-l1",
+      "reviewDate": "2026-10-21",
+      "actualMaterial": "18-page ERIC PDF contains an ERIC resume followed by the complete 17-page article. The selected substantive article pages were downloaded normally over HTTPS and read using pypdf extraction.",
+      "selectedEvidence": [
+        {
+          "pages": "20–22",
+          "contribution": "Descriptive treatment of determiners, referential/deictic elements and possession. Opening paragraph explicitly says the data are limited by available texts."
+        },
+        {
+          "pages": "26–28",
+          "contribution": "Modifier/possessive ordering uncertainty and the dative element's position; distinguishes observed examples from tentative explanations."
+        },
+        {
+          "pages": "33–35",
+          "contribution": "Formal explanation of clitic placement, conclusion and note identifying Frachtenberg's 1917/1920 source corpora."
+        },
+        {
+          "pages": "36",
+          "contribution": "Bibliography inspected for provenance, not counted as inspection of the works it lists."
+        }
+      ],
+      "limits": "OCR is imperfect, especially phonetic symbols and tree diagrams. No exact Alsea forms, phonetic inventories, narrative sentences or ritual material are reproduced. The general explanatory claims are supported by the prose.",
+      "sameWorkRoutes": [
+        "https://journals.ku.edu/kwpl/article/view/17342",
+        "https://journals.ku.edu/kwpl/article/download/17342/15617/41757",
+        "https://files.eric.ed.gov/fulltext/ED344478.pdf"
+      ],
+      "countDecision": "One work. Publisher article metadata and the inspected ERIC reproduction identify the same study. The journal-linked 30-page scan was opened but not substantively read; it is not used for claims or an additional count."
+    },
+    {
+      "sourceId": "al11-l2",
+      "reviewDate": "2026-10-21",
+      "actualMaterial": "14-page primary-publisher PDF: one publisher cover plus the 13-page article. The selected eight article pages were rendered using Poppler and visually read.",
+      "selectedEvidence": [
+        {
+          "pages": "10–12",
+          "contribution": "Initial thesis on beginning/end boundaries and comparison between Alsea aspectual distinctions and English tense translations; also notes uncertainty when suitable text examples are absent."
+        },
+        {
+          "pages": "17–19",
+          "contribution": "Contextual comparison of event beginnings/completions and interaction with resulting states; read as the author's proposed analysis."
+        },
+        {
+          "pages": "20–21",
+          "contribution": "Irrealis discussion, explicit summary and source/transcription notes tying the examples to earlier recorded materials."
+        }
+      ],
+      "limits": "This is not a whole-article reading claim or current survey. No cultural narrative, translated story passage, exact language paradigm or speaker-status claim is reproduced.",
+      "countDecision": "A distinct 1988 study of verbal aspect, not a mirror or alternate copy of the 1989 noun-phrase article."
+    }
+  ],
+  "unreadLeads": [
+    {
+      "title": "Reconstructing the Sounds of Alsea",
+      "author": "Eugene Buckley",
+      "url": "https://www.ling.upenn.edu/~gene/papers/Alsea_sounds.pdf",
+      "status": "Author-hosted link located through a public language-resource directory; web reader returned restricted URL. No body was inspected and no access bypass was attempted.",
+      "bibliographicLimit": "Author CV's indexed record associates it with the 1988 workshop, pp. 9–30; the 1989 noun-phrase bibliography calls it forthcoming 1989. Original publication details were not independently resolved. Not counted.",
+      "followUp": "Inspect an accessible author- or publisher-authorized full copy during a later phonology pass."
+    }
+  ],
+  "exclusions": [
+    {
+      "url": "https://babel.ling.upenn.edu/~gene/cv.html",
+      "reason": "Direct web reader returned restricted URL. Indexed bibliographic information helped locate works but was not treated as full research-content inspection."
+    },
+    {
+      "url": "https://www.native-languages.org/alsea.htm",
+      "reason": "Used only to locate the author's exact phonology-paper URL. Its summaries, present-status statements and language-family classifications are not adopted or counted."
+    },
+    {
+      "url": "https://www.researchgate.net/publication/273176888_The_Alsea_Noun_Phrase",
+      "reason": "Search lead only. The actual article was read from the authorized ERIC reproduction and checked against original journal metadata; no extra count for another route."
+    }
+  ],
+  "scopeAndIdentityNotes": [
+    "These are two distinct scholarly analyses by the same author, substantially drawing on earlier Frachtenberg language records. They are not two new fieldwork projects or two independent community voices.",
+    "A historical paper's description of a language as extinct is not adopted as a claim that Alsea people disappeared, and it does not establish present-day speaker or learner numbers.",
+    "No claim is made here about a confirmed broad Penutian genetic classification, present tribal-government equivalence, contemporary fluency, or permission to reproduce recorded narratives.",
+    "Root's separate 1920 source and archive/finding-aid work are not duplicated as additional source cards in this packet."
+  ],
+  "coverageGaps": [
+    "An accessible inspected phonology analysis is still needed; the originally suggested reconstruction paper remains unread.",
+    "Current community-led teaching, speaker/learner information and community preferences cannot be established from these 1980s studies.",
+    "Later scholarly revisions and disagreement were not surveyed in this two-work pass."
+  ]
+}

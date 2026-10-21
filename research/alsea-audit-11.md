@@ -1,0 +1,15 @@
+# Alsea research review — October 21, 2026
+
+Eleven substantive works or conservatively grouped collections support fifteen cited sections. Three supporting cards remain outside that total: the modern-town overview, the Smithsonian finding aid, and Coos-focused edited claims testimony about the shared reservation system. This is an adequate initial introduction with a dated rationale and open gaps; the twelve-source quantity target has not been reached. No research completion or community endorsement is claimed.
+
+The reviewed reading path connects Alsea river-valley names, Alsea continuity within the Siletz confederation, dispossession and official debate, Alsea photographer Thomas C. Jackson, restoration organizing, dated coastal land-return perspectives, historical language contributors and specialist linguistic analysis. Individual ancestral peoples, the federal subagency, and the modern confederated government are distinguished. The curriculum and history series are each counted as one collection; no passing mentions or extra index cards are added to reach twelve.
+
+Evidence review separates the1865 executive action from1875 congressional proceedings. The inspected Senate debate is not the final statute or proof of consultation, consent or implementation. A source's1865 congressional attribution is not repeated. The1954 termination law and1956 implementation are separated from1977 restoration and continuing community identity. The October2026 report describes a pending transfer, without a claim that ownership has already changed.
+
+The historical1920 linguistic edition was actually read through a lawful public scan-derived OCR copy for methodological and vocabulary introductions, not its whole narrative collection. Its colonial judgments are not adopted as evidence of disappearance. Two later scholarly articles analyze recorded language, not current speaker counts or new fieldwork. Source scopes disclose selected passages, OCR limits and actual visual checks. No sacred narratives, historical images, precise sensitive places or current legal advice are reproduced.
+
+Source cards now expose inspected subresources and their scopes, so a collection can link directly to actual lesson PDFs and public records. This adds source navigation for Alsea and the earlier Alabama, Aleut and Native Hawaiian collections without changing their research counts or geography. An overview citation field connects the new introduction to its own evidence.
+
+All470directory access points,454originals,301owner URLs and sixteen-study provenance remain. Map geometry,194lakes,563regional associations,469mapped access points, real photographs and credits are preserved. Yocona remains an explicit unresolved identity. Alutiiq original12 is next; Algonquin and other A entries remain within the A-first cohort before returning to B.
+
+Build, links/citation anchors, map routes, preservation assertions and representative rendered results are checked before publication. Publication receipt records the actual deployment separately.

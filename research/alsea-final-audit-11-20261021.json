@@ -1,0 +1,196 @@
+{
+  "reviewedAt": "2026-10-21",
+  "originalId": 11,
+  "name": "Alsea",
+  "status": "Pass: no material correction required in the reviewed integrated profile",
+  "scope": {
+    "canonical": "work/nations-atlas/data/profiles.json, originalId 11",
+    "packets": [
+      "work/alsea-root-11-20261021.json",
+      "work/alsea-language-specialist-11-20261021.json"
+    ],
+    "audits": [
+      "work/alsea-community-audit-11-20261021.md",
+      "work/alsea-history-evidence-audit-11-20261021.md"
+    ],
+    "additionalInspection": "Selected methods paragraphs, vocabulary-method paragraphs and 1920 imprint in the existing work/alsea-11-frachtenberg1920-ocr.txt. No fresh full-source inspections.",
+    "canonicalOrSiteEdits": false
+  },
+  "counts": {
+    "cards": 14,
+    "substantive": 11,
+    "supporting": 3,
+    "supportingIds": [
+      "as11-h3",
+      "p11-s5",
+      "p11-s2"
+    ],
+    "sections": 15,
+    "bodyWords": 1024,
+    "uniqueSourceIds": 14,
+    "uniqueSourceUrls": 14,
+    "assessment": "Eleven substantive units and three supporting cards are correctly distinguished. Included lessons, related tribal-history subpages, alternate copies and catalogue entries are not counted again. The profile explicitly records that the twelve-source quantity target has not been reached."
+  },
+  "citationChecks": {
+    "danglingSourceIds": [],
+    "uncitedSubstantiveIds": [],
+    "uncitedSupportingIds": [
+      "p11-s2"
+    ],
+    "assessment": "Every substantive source supports visible cited prose. The sole uncited supporting card, p11-s2, remains modern-town orientation and does not supply Alsea identity or depth.",
+    "renewalAssessment": "Existing IDs p11-s1, p11-s3, p11-s4, p11-s5 and p11-s6 are preserved without duplicate packet cards."
+  },
+  "wordLimitCheck": {
+    "method": "Annotation plus contentReviewScope plus all visible section prose citing each source; shared prose conservatively counted in full for each source.",
+    "maximumWords": 189,
+    "allWithin200": true,
+    "perSource": [
+      {
+        "id": "p11-s1",
+        "words": 189,
+        "counted": true
+      },
+      {
+        "id": "p11-s3",
+        "words": 187,
+        "counted": true
+      },
+      {
+        "id": "p11-s4",
+        "words": 142,
+        "counted": true
+      },
+      {
+        "id": "as11-h2",
+        "words": 137,
+        "counted": true
+      },
+      {
+        "id": "as11-h4",
+        "words": 133,
+        "counted": true
+      },
+      {
+        "id": "as11-h3",
+        "words": 150,
+        "counted": false
+      },
+      {
+        "id": "p11-s6",
+        "words": 189,
+        "counted": true
+      },
+      {
+        "id": "al11-c3",
+        "words": 135,
+        "counted": true
+      },
+      {
+        "id": "al11-c4",
+        "words": 134,
+        "counted": true
+      },
+      {
+        "id": "al11-r2",
+        "words": 154,
+        "counted": true
+      },
+      {
+        "id": "al11-l1",
+        "words": 145,
+        "counted": true
+      },
+      {
+        "id": "al11-l2",
+        "words": 154,
+        "counted": true
+      },
+      {
+        "id": "p11-s5",
+        "words": 111,
+        "counted": false
+      },
+      {
+        "id": "p11-s2",
+        "words": 35,
+        "counted": false
+      }
+    ]
+  },
+  "resolvedFindings": [
+    {
+      "sourceId": "p11-s4",
+      "finding": "November 1, 2024 is now explicitly updatedAt rather than an asserted first publication date."
+    },
+    {
+      "sourceId": "as11-h3",
+      "finding": "Coos-focused edited testimony is countsTowardMinimum:false. Annie Peterson is identified as Coos, and shared administrative experience is not converted into every Alsea family's history."
+    },
+    {
+      "sourceIds": [
+        "p11-s4",
+        "as11-h2"
+      ],
+      "finding": "Visible synthesis avoids the sources' loose Congress-in-1865 attribution. Notes distinguish the 1865 executive action from 1875 legislation."
+    },
+    {
+      "sourceId": "as11-h4",
+      "finding": "Senate debate is a proposal and argument, not consent, a checked final enactment or proof of implementation."
+    },
+    {
+      "sourceIds": [
+        "p11-s3",
+        "p11-s6",
+        "al11-c3"
+      ],
+      "finding": "History series and curriculum count once each. Separately authored 1976 hearing testimony is a distinct primary work, despite its teaching-copy host."
+    }
+  ],
+  "claimFit": [
+    {
+      "topic": "Identity and continuity",
+      "finding": "Alsea people remain distinct from the multi-people subagency, the modern town, neighboring witnesses and the Siletz confederation. Closure, termination and language loss are not equated with disappearance of people."
+    },
+    {
+      "topic": "Language",
+      "finding": "Both Buckley paragraphs retain the specialist packet's 75-word claims and exact selected-page limits. No current speaker total, complete teaching grammar, inspected recording or confirmed broad language-family classification is inferred. The inaccessible sound-reconstruction paper is not promoted."
+    },
+    {
+      "topic": "Frachtenberg methods",
+      "finding": "Existing OCR confirms the 1920 imprint, named William Smith and Thomas Jackson contributions, earlier Farrand material and a vocabulary assembled from different investigators. The final methods paragraph fits that bounded scope. Colonial judgments about narrators, completeness and extinction are not adopted as present facts.",
+      "limit": "Selected prose spot-check only; no whole-book, narrative, recording or fresh visual-transcription audit."
+    },
+    {
+      "topic": "Confederated political history",
+      "finding": "1954 termination legislation, 1956 implementation and 1977 restoration are distinguished. Ricks is a named Siletz participant, without invented Alsea ancestry or a separate Alsea government."
+    },
+    {
+      "topic": "Contemporary report",
+      "finding": "October 2026 reporting remains a dated account of an ongoing transaction, priorities and expectations. No completed conveyance, present access or Alsea-only landholding is claimed."
+    },
+    {
+      "topic": "Cultural material and photographs",
+      "finding": "The Jackson history does not imply photo-reproduction permission. No restricted narrative, ritual instruction, historical photograph or precise sensitive site is reproduced."
+    },
+    {
+      "topic": "Distinct languages and archives",
+      "finding": "The finding aid's Lower Umpqua index and Alsea holdings are not merged by shared storage. Siletz Dee-ni is kept distinct from the Alsea language."
+    }
+  ],
+  "schemaAndPublication": {
+    "sourceScopesVisible": true,
+    "supportingFlagsExplicit": true,
+    "localEvidenceFieldsPresent": [],
+    "privatePathsDetected": false,
+    "finding": "No local evidence field, private absolute path or attachment full text is present in the reviewed profile. Original public source URLs and scope notes are retained."
+  },
+  "nonblockingNotes": [
+    "The history audit suggests adding the proposed consent safeguard from the 1875 committee debate. The current paragraph is still accurate and explicitly denies that it establishes community agreement; this is an optional precision, not a remaining material false claim.",
+    "The modern-town card p11-s2 is supporting orientation without a new content-review date. Do not silently promote it into a freshly inspected substantive source."
+  ],
+  "remainingMaterialFixes": [],
+  "limits": [
+    "This checks integration and claim fit against saved packets and independent audits; it does not repeat all original-source inspections.",
+    "The source count is below twelve. Initial adequacy is a separate dated judgment; the profile records researchComplete:false, no recorded community review and open gaps."
+  ]
+}
