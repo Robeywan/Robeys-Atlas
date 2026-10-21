@@ -32,3 +32,9 @@ assert.equal(coverage.regions,ids.length);assert.equal(coverage.associations,ind
 assert.equal(coverage.regionsWithResults,new Set(index.associations.map(a=>a.regionId)).size);
 assert(home.includes('Natural Earth')&&home.includes('Modern borders'),'Provenance and geographic scope visible');
 console.log(JSON.stringify({regions:ids.length,associations:index.associations.length,uniqueRegionProfilePairs:pairs.size,regionsWithResults:coverage.regionsWithResults,staticRoutes:'passed',evidenceLinks:'passed',emptyRegionMessaging:'passed'}));
+
+const progress=read('dist/data/map-profile-progress.json');assert.equal(progress.length,profiles.length);assert.equal(new Set(progress.map(p=>p.slug)).size,profiles.length);assert.equal(progress.filter(p=>p.regions.length).length,coverage.linkedProfiles);assert.equal(progress.filter(p=>!p.regions.length).length,coverage.entriesAwaitingMap);
+for(const name of ['Lake Superior','Lake Michigan','Lake Huron','Lake Erie','Lake Ontario'])assert(home.includes('data-lake-name="'+name+'"'),'Great Lake rendered: '+name);
+assert(home.indexOf('data-map-lakes')>home.indexOf('data-map-region="US-MI"'),'Lake overlay above Michigan administrative waters');
+assert(fs.readFileSync('dist/nations/achumawi/index.html','utf8').includes('../../index.html?place=US-CA#map'),'Profile links back to sourced region');
+assert(fs.readFileSync('dist/regions/coverage/index.html','utf8').includes('Awaiting regional evidence'),'Visible all-entry coverage ledger');

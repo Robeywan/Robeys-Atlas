@@ -30,5 +30,24 @@
     "Alaska crosses the antimeridian; use dateline-aware projection or normalize its positive longitudes for a North America view.",
     "Hawaii is included as a US state and may need an inset.",
     "Political types and labels are copied from a Natural Earth snapshot rather than freshly adjudicated current legal status."
-  ]
+  ],
+  "lakeLayer": {
+    "preparedAt": "2026-10-21",
+    "title": "Natural Earth 1:50m lakes",
+    "sourceUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_lakes.geojson",
+    "repositoryCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+    "sourceSha256": "d350b75978b26fe839b797c2c529b2fb8f47fb3983c03f4964e36d5df9378a52",
+    "license": "Public domain",
+    "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "credit": "Made with Natural Earth.",
+    "licenseVerification": "Primary Natural Earth terms were inspected during original boundary asset preparation; same dataset provider and pinned repository.",
+    "processing": "Selected features whose bounding boxes intersect longitude -170 to -20 and latitude 7 to 85; retained lake names and feature class; coordinates rounded to four decimals. No additional simplification.",
+    "featureCount": 194,
+    "limits": [
+      "Generalized cartographic lake-water polygons for a visual overlay, not navigable shorelines or legal water boundaries.",
+      "Large administrative polygons can include lake water; draw lake fill above land with pointer-events:none, so water appears while state/province selection remains accessible.",
+      "Overlay supplies freshwater shore context only; it does not establish Indigenous territories."
+    ]
+  },
+  "displayNote": "Administrative polygons include some lake waters. A separately sourced lake-water overlay restores visible shorelines, including all five Great Lakes. Generalized navigation map, not survey accuracy."
 }

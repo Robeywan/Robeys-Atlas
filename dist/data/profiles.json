@@ -888,6 +888,33 @@
     "regionGroups": [
       "Canada",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ME",
+        "name": "Maine",
+        "key": "us-me"
+      },
+      {
+        "id": "US-MA",
+        "name": "Massachusetts",
+        "key": "us-ma"
+      },
+      {
+        "id": "US-NH",
+        "name": "New Hampshire",
+        "key": "us-nh"
+      },
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      },
+      {
+        "id": "US-VT",
+        "name": "Vermont",
+        "key": "us-vt"
+      }
     ]
   },
   {
@@ -1392,6 +1419,13 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
     ]
   },
   {
@@ -1957,6 +1991,13 @@
     "slug": "absentee-shawnee",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
     ]
   },
   {
@@ -2537,6 +2578,13 @@
     "regionGroups": [
       "California",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -3073,6 +3121,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -3625,6 +3680,13 @@
     "slug": "adai",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      }
     ]
   },
   {
@@ -4176,6 +4238,13 @@
     "slug": "ahtna",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -4636,6 +4705,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -5197,6 +5273,28 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      },
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -5368,6 +5466,13 @@
     "slug": "aleut-unangax",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -5445,7 +5550,8 @@
     "regionGroups": [
       "Canada",
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 11,
@@ -5597,6 +5703,13 @@
     "slug": "alsea",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -5767,6 +5880,13 @@
     "slug": "alutiiq",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -5898,6 +6018,13 @@
     "slug": "amuzgo",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -6057,6 +6184,13 @@
     "regionGroups": [
       "Canada",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-ON",
+        "name": "Ontario",
+        "key": "ca-on"
+      }
     ]
   },
   {
@@ -6207,6 +6341,13 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-MB",
+        "name": "Manitoba",
+        "key": "ca-mb"
+      }
     ]
   },
   {
@@ -6426,6 +6567,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
     ]
   },
   {
@@ -6587,6 +6735,13 @@
     "slug": "apalachee",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      }
     ]
   },
   {
@@ -6750,6 +6905,13 @@
     "slug": "arapaho",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WY",
+        "name": "Wyoming",
+        "key": "us-wy"
+      }
     ]
   },
   {
@@ -6908,6 +7070,13 @@
     "slug": "arikara",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      }
     ]
   },
   {
@@ -7083,6 +7252,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -7214,7 +7390,8 @@
     "slug": "atakapa",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 22,
@@ -7347,6 +7524,13 @@
     "slug": "atikamekw",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
     ]
   },
   {
@@ -7469,6 +7653,13 @@
     "slug": "atsugewi",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -7609,6 +7800,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -7757,6 +7955,13 @@
     "slug": "awaswas",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -7913,6 +8118,13 @@
     "slug": "ayapaneco",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -8218,6 +8430,13 @@
     "slug": "babine",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -8514,6 +8733,13 @@
     "slug": "bannock",
     "regionGroups": [
       "Great Basin"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      }
     ]
   },
   {
@@ -8845,6 +9071,13 @@
     "slug": "beothuk",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-NL",
+        "name": "Newfoundland and Labrador",
+        "key": "ca-nl"
+      }
     ]
   },
   {
@@ -9173,6 +9406,13 @@
     "slug": "biloxi",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      }
     ]
   },
   {
@@ -9222,6 +9462,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -9301,6 +9548,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-AB",
+        "name": "Alberta",
+        "key": "ca-ab"
+      }
     ]
   },
   {
@@ -9361,6 +9615,13 @@
     "slug": "bokota",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -9436,6 +9697,18 @@
     "slug": "bribri",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      },
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -9512,6 +9785,13 @@
     "slug": "broran",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      }
     ]
   },
   {
@@ -9587,6 +9867,13 @@
     "slug": "bugle",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -9664,6 +9951,13 @@
     "slug": "cabecar",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      }
     ]
   },
   {
@@ -9737,6 +10031,13 @@
     "slug": "cacaopera",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "SV",
+        "name": "El Salvador",
+        "key": "sv"
+      }
     ]
   },
   {
@@ -9813,6 +10114,13 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -9887,6 +10195,13 @@
     "slug": "cahuilla",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -9963,6 +10278,13 @@
     "slug": "calusa",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-FL",
+        "name": "Florida",
+        "key": "us-fl"
+      }
     ]
   },
   {
@@ -10011,7 +10333,8 @@
     "slug": "carrier",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 42,
@@ -10086,6 +10409,23 @@
     "slug": "catawba",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      },
+      {
+        "id": "US-SC",
+        "name": "South Carolina",
+        "key": "us-sc"
+      },
+      {
+        "id": "US-VA",
+        "name": "Virginia",
+        "key": "us-va"
+      }
     ]
   },
   {
@@ -10147,7 +10487,8 @@
     "slug": "caxcan",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 44,
@@ -10228,6 +10569,13 @@
     "slug": "cayuga",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      }
     ]
   },
   {
@@ -10291,7 +10639,8 @@
     "slug": "cayuse",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 46,
@@ -10369,7 +10718,8 @@
     "slug": "chakchiuma",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 47,
@@ -10430,6 +10780,13 @@
     "slug": "chalon",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -10504,6 +10861,13 @@
     "slug": "chatino",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -10563,6 +10927,13 @@
     "slug": "chehalis",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -10624,7 +10995,8 @@
     "regionGroups": [
       "California",
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 51,
@@ -10698,6 +11070,38 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      },
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
+      {
+        "id": "US-KY",
+        "name": "Kentucky",
+        "key": "us-ky"
+      },
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      },
+      {
+        "id": "US-TN",
+        "name": "Tennessee",
+        "key": "us-tn"
+      },
+      {
+        "id": "US-VA",
+        "name": "Virginia",
+        "key": "us-va"
+      }
     ]
   },
   {
@@ -10773,6 +11177,13 @@
     "slug": "cheyenne",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -10847,7 +11258,8 @@
     "slug": "chiaha",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 54,
@@ -10921,6 +11333,13 @@
     "slug": "chichimeca-jonaz",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -10997,6 +11416,33 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      },
+      {
+        "id": "US-KY",
+        "name": "Kentucky",
+        "key": "us-ky"
+      },
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
+        "id": "US-TN",
+        "name": "Tennessee",
+        "key": "us-tn"
+      }
     ]
   },
   {
@@ -11072,6 +11518,13 @@
     "slug": "chilcotin-tsilhqotin",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -11131,6 +11584,13 @@
     "slug": "chilula",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -11190,6 +11650,13 @@
     "slug": "chimariko",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -11265,6 +11732,13 @@
     "slug": "chinanteco",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -11639,7 +12113,8 @@
     "slug": "chinook",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 61,
@@ -11689,7 +12164,8 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 62,
@@ -11765,6 +12241,13 @@
     "slug": "chitimacha",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      }
     ]
   },
   {
@@ -11840,6 +12323,13 @@
     "slug": "chochenyo",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -11915,6 +12405,13 @@
     "slug": "chocholteco",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -11989,6 +12486,18 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      },
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      }
     ]
   },
   {
@@ -12064,6 +12573,13 @@
     "slug": "chol",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -12125,6 +12641,13 @@
     "slug": "chontal-of-oaxaca",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -12173,6 +12696,13 @@
     "slug": "chontal-of-tabasco",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -12248,6 +12778,18 @@
     "slug": "chorotega",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      },
+      {
+        "id": "NI",
+        "name": "Nicaragua",
+        "key": "ni"
+      }
     ]
   },
   {
@@ -12310,6 +12852,18 @@
     "slug": "chorti",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      },
+      {
+        "id": "HN",
+        "name": "Honduras",
+        "key": "hn"
+      }
     ]
   },
   {
@@ -12385,6 +12939,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -12461,6 +13022,13 @@
     "slug": "chumash",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -12509,7 +13077,8 @@
     "slug": "clackamas",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 74,
@@ -12555,6 +13124,13 @@
     "slug": "clallam",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -12631,7 +13207,8 @@
     "slug": "clatskanie",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 76,
@@ -12692,7 +13269,8 @@
     "regionGroups": [
       "Northeast",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 77,
@@ -12738,7 +13316,8 @@
     "slug": "coca",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 78,
@@ -12815,7 +13394,8 @@
     "regionGroups": [
       "California",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 80,
@@ -12895,6 +13475,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -12971,7 +13558,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 81,
@@ -13044,7 +13632,8 @@
     "slug": "coeur-dalene",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 82,
@@ -13123,6 +13712,13 @@
     "slug": "colville",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -13197,7 +13793,8 @@
     "slug": "comanche",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 84,
@@ -13272,6 +13869,13 @@
     "slug": "comox",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -13333,7 +13937,8 @@
     "slug": "congaree",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 86,
@@ -13410,6 +14015,13 @@
     "slug": "coos",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -13488,7 +14100,8 @@
     "slug": "coquille",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 87,
@@ -13548,6 +14161,13 @@
     "slug": "cora",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -13594,7 +14214,8 @@
     "slug": "coree",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 89,
@@ -13668,6 +14289,18 @@
     "slug": "coushatta",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -13742,6 +14375,13 @@
     "slug": "cowlitz",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -13800,6 +14440,13 @@
     "slug": "cree",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -14003,6 +14650,13 @@
     "slug": "crow",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -14079,6 +14733,13 @@
     "slug": "cuicateco",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -14154,7 +14815,8 @@
     "slug": "cupeno",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 95,
@@ -14232,6 +14894,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MN",
+        "name": "Minnesota",
+        "key": "us-mn"
+      }
     ]
   },
   {
@@ -14305,6 +14974,13 @@
     "slug": "deg-hitan",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -14387,6 +15063,13 @@
       "Canada",
       "Great Plains",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
     ]
   },
   {
@@ -14448,6 +15131,13 @@
     "slug": "denaina",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -14528,6 +15218,13 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-NT",
+        "name": "Northwest Territories",
+        "key": "ca-nt"
+      }
     ]
   },
   {
@@ -14607,6 +15304,28 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-AB",
+        "name": "Alberta",
+        "key": "ca-ab"
+      },
+      {
+        "id": "CA-MB",
+        "name": "Manitoba",
+        "key": "ca-mb"
+      },
+      {
+        "id": "CA-NT",
+        "name": "Northwest Territories",
+        "key": "ca-nt"
+      },
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
+      }
     ]
   },
   {
@@ -14683,7 +15402,8 @@
     "slug": "dogrib-t-cho",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 102,
@@ -14758,6 +15478,13 @@
     "slug": "duwamish",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -14833,6 +15560,13 @@
     "slug": "embera",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -14894,7 +15628,8 @@
     "slug": "eno",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 104,
@@ -14972,7 +15707,8 @@
     "regionGroups": [
       "Great Lakes",
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 105,
@@ -15045,6 +15781,13 @@
     "slug": "esselen",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -15091,7 +15834,8 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 107,
@@ -15166,6 +15910,13 @@
     "slug": "eyak",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -15230,7 +15981,8 @@
     "regionGroups": [
       "Pacific Northwest",
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 109,
@@ -15309,6 +16061,13 @@
     "slug": "fox-meskwaki",
     "regionGroups": [
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      }
     ]
   },
   {
@@ -15382,7 +16141,8 @@
     "slug": "gabrielinotongva",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 111,
@@ -15456,6 +16216,13 @@
     "slug": "galice",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -15532,6 +16299,13 @@
     "regionGroups": [
       "Central America",
       "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "HN",
+        "name": "Honduras",
+        "key": "hn"
+      }
     ]
   },
   {
@@ -15606,6 +16380,13 @@
     "slug": "gitxsan",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -15681,6 +16462,18 @@
     "slug": "gosiute",
     "regionGroups": [
       "Great Basin"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NV",
+        "name": "Nevada",
+        "key": "us-nv"
+      },
+      {
+        "id": "US-UT",
+        "name": "Utah",
+        "key": "us-ut"
+      }
     ]
   },
   {
@@ -15742,6 +16535,13 @@
     "slug": "gros-ventre",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -15816,7 +16616,8 @@
     "slug": "guachichil",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 117,
@@ -15875,7 +16676,8 @@
     "slug": "guale",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 118,
@@ -15949,6 +16751,13 @@
     "slug": "guarijio",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -16044,6 +16853,13 @@
     "slug": "guna-gunadule",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -16119,6 +16935,18 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-NT",
+        "name": "Northwest Territories",
+        "key": "ca-nt"
+      },
+      {
+        "id": "CA-YT",
+        "name": "Yukon",
+        "key": "ca-yt"
+      }
     ]
   },
   {
@@ -16180,7 +17008,8 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 122,
@@ -16254,7 +17083,8 @@
     "slug": "haisla",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 123,
@@ -16342,6 +17172,13 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-YT",
+        "name": "Yukon",
+        "key": "ca-yt"
+      }
     ]
   },
   {
@@ -16402,7 +17239,8 @@
     "slug": "hatteras",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -16484,6 +17322,13 @@
     "regionGroups": [
       "Great Lakes",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      }
     ]
   },
   {
@@ -16559,6 +17404,13 @@
     "slug": "havasupai",
     "regionGroups": [
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
     ]
   },
   {
@@ -16634,6 +17486,13 @@
     "slug": "heiltsuk",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -16711,6 +17570,13 @@
     "slug": "hidatsa",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      }
     ]
   },
   {
@@ -16785,7 +17651,8 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 130,
@@ -16847,6 +17714,13 @@
     "regionGroups": [
       "Great Plains",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WI",
+        "name": "Wisconsin",
+        "key": "us-wi"
+      }
     ]
   },
   {
@@ -16922,6 +17796,13 @@
     "slug": "holikachuk",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -16997,6 +17878,13 @@
     "slug": "hopi",
     "regionGroups": [
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
     ]
   },
   {
@@ -17074,6 +17962,13 @@
     "slug": "houlton-band-of-maliseet",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ME",
+        "name": "Maine",
+        "key": "us-me"
+      }
     ]
   },
   {
@@ -17134,6 +18029,13 @@
     "slug": "hualapai",
     "regionGroups": [
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
     ]
   },
   {
@@ -17194,6 +18096,13 @@
     "slug": "huastec",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -17255,6 +18164,13 @@
     "slug": "huave-ikoots",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -17475,6 +18391,13 @@
     "slug": "huetar",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      }
     ]
   },
   {
@@ -17706,6 +18629,13 @@
     "slug": "hupa",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -17785,6 +18715,13 @@
     "regionGroups": [
       "Canada",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
     ]
   },
   {
@@ -17841,6 +18778,28 @@
     "regionGroups": [
       "Great Lakes",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      },
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
+      }
     ]
   },
   {
@@ -17910,6 +18869,13 @@
     "slug": "innu",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
     ]
   },
   {
@@ -17982,6 +18948,28 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-NL",
+        "name": "Newfoundland and Labrador",
+        "key": "ca-nl"
+      },
+      {
+        "id": "CA-NT",
+        "name": "Northwest Territories",
+        "key": "ca-nt"
+      },
+      {
+        "id": "CA-NU",
+        "name": "Nunavut",
+        "key": "ca-nu"
+      },
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
     ]
   },
   {
@@ -18052,6 +19040,13 @@
     "slug": "inupiat",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -18121,6 +19116,13 @@
     "slug": "inuvialuit",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-NT",
+        "name": "Northwest Territories",
+        "key": "ca-nt"
+      }
     ]
   },
   {
@@ -18190,6 +19192,13 @@
     "slug": "iowa-ioway",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      }
     ]
   },
   {
@@ -18261,6 +19270,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -18330,6 +19346,13 @@
     "slug": "itza-maya",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      }
     ]
   },
   {
@@ -18397,6 +19420,13 @@
     "slug": "ixcateco",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -18468,6 +19498,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -18539,6 +19576,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -18610,6 +19654,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -18664,7 +19715,8 @@
     "slug": "juaneno-acjachemen",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Jumano",
@@ -18732,6 +19784,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -18794,7 +19853,8 @@
     "slug": "kalaallit",
     "regionGroups": [
       "Arctic & Alaska"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kalapuya",
@@ -18863,6 +19923,13 @@
     "slug": "kalapuya",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -18910,6 +19977,13 @@
     "slug": "kalinago",
     "regionGroups": [
       "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "DM",
+        "name": "Dominica",
+        "key": "dm"
+      }
     ]
   },
   {
@@ -18980,6 +20054,13 @@
     "regionGroups": [
       "Pacific Northwest",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -19048,7 +20129,8 @@
     "slug": "kansa-kaw",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kaqchikel",
@@ -19118,6 +20200,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -19185,7 +20274,8 @@
     "slug": "karankawa",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Karuk",
@@ -19410,6 +20500,13 @@
     "slug": "karuk",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -19479,7 +20576,8 @@
     "slug": "kashaya-pomo",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kaska",
@@ -19548,7 +20646,8 @@
     "slug": "kaska",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kathlamet",
@@ -19617,7 +20716,8 @@
     "slug": "kathlamet",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kato",
@@ -19685,7 +20785,8 @@
     "slug": "kato",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Keres",
@@ -19761,7 +20862,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kewa Pueblo",
@@ -19831,7 +20933,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "K'iche'",
@@ -19901,6 +21004,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -19970,6 +21080,18 @@
       "Great Plains",
       "Great Lakes",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -20038,6 +21160,13 @@
     "regionGroups": [
       "California",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -20107,7 +21236,8 @@
     "slug": "kiowa",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kiowa Apache",
@@ -20178,7 +21308,8 @@
     "slug": "kiowa-apache",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kitanemuk",
@@ -20245,7 +21376,8 @@
     "slug": "kitanemuk",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kitsai",
@@ -20314,7 +21446,8 @@
     "slug": "kitsai",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Klamath",
@@ -20384,6 +21517,13 @@
     "regionGroups": [
       "Pacific Northwest",
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -20453,6 +21593,13 @@
     "slug": "konkow-maidu",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -20522,6 +21669,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      }
     ]
   },
   {
@@ -20591,7 +21745,8 @@
     "slug": "koyukon",
     "regionGroups": [
       "Arctic & Alaska"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kumeyaay",
@@ -20661,7 +21816,8 @@
     "regionGroups": [
       "California",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Kwakwaka'wakw",
@@ -20729,7 +21885,8 @@
     "regionGroups": [
       "Canada",
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Lacandón",
@@ -20799,6 +21956,13 @@
     "slug": "lacandon",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -20869,6 +22033,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -20940,6 +22111,13 @@
     "slug": "lakota",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-SD",
+        "name": "South Dakota",
+        "key": "us-sd"
+      }
     ]
   },
   {
@@ -21010,7 +22188,8 @@
     "slug": "lassik",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Lenape",
@@ -21083,6 +22262,73 @@
       "Canada",
       "Great Plains",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
+      {
+        "id": "US-CT",
+        "name": "Connecticut",
+        "key": "us-ct"
+      },
+      {
+        "id": "US-DE",
+        "name": "Delaware",
+        "key": "us-de"
+      },
+      {
+        "id": "US-IN",
+        "name": "Indiana",
+        "key": "us-in"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-MD",
+        "name": "Maryland",
+        "key": "us-md"
+      },
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
+      },
+      {
+        "id": "US-NJ",
+        "name": "New Jersey",
+        "key": "us-nj"
+      },
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      },
+      {
+        "id": "US-OH",
+        "name": "Ohio",
+        "key": "us-oh"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
+        "id": "US-PA",
+        "name": "Pennsylvania",
+        "key": "us-pa"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -21150,6 +22396,13 @@
     "slug": "lenca",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "HN",
+        "name": "Honduras",
+        "key": "hn"
+      }
     ]
   },
   {
@@ -21218,6 +22471,13 @@
     "slug": "lillooet-statimc",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -21289,7 +22549,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Lower Tanana",
@@ -21359,7 +22620,8 @@
     "slug": "lower-tanana",
     "regionGroups": [
       "Arctic & Alaska"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Luiseño",
@@ -21426,7 +22688,8 @@
     "slug": "luiseno",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Lumbee",
@@ -21493,7 +22756,8 @@
     "slug": "lumbee",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Lummi",
@@ -21561,6 +22825,13 @@
     "regionGroups": [
       "Canada",
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -21632,7 +22903,8 @@
     "slug": "mactun",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Maidu",
@@ -21702,6 +22974,13 @@
     "slug": "maidu",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -21771,6 +23050,13 @@
     "slug": "makah",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -21838,6 +23124,13 @@
     "slug": "maleku",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      }
     ]
   },
   {
@@ -21908,6 +23201,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -21978,6 +23278,13 @@
     "slug": "mandan",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      }
     ]
   },
   {
@@ -22048,7 +23355,8 @@
     "slug": "manzanita-kumeyaay",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Maricopa",
@@ -22118,7 +23426,8 @@
     "slug": "maricopa",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Mashantucket Pequot",
@@ -22187,7 +23496,8 @@
     "slug": "mashantucket-pequot",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Massachusett",
@@ -22254,7 +23564,8 @@
     "slug": "massachusett",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Matlatzinca",
@@ -22324,6 +23635,13 @@
     "slug": "matlatzinca",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -22393,7 +23711,8 @@
     "slug": "mattole",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Maya",
@@ -22469,7 +23788,8 @@
     "regionGroups": [
       "Mexico",
       "Central America"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Mayangna",
@@ -22538,7 +23858,8 @@
     "slug": "mayangna",
     "regionGroups": [
       "Central America"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Mayo (Yoreme)",
@@ -22608,6 +23929,13 @@
     "slug": "mayo-yoreme",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -22675,6 +24003,13 @@
     "slug": "mazahua",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -22742,6 +24077,13 @@
     "slug": "mazatec",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -22810,7 +24152,8 @@
     "regionGroups": [
       "Northeast",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Menominee",
@@ -22877,6 +24220,13 @@
     "slug": "menominee",
     "regionGroups": [
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WI",
+        "name": "Wisconsin",
+        "key": "us-wi"
+      }
     ]
   },
   {
@@ -22948,6 +24298,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -23021,6 +24378,18 @@
     "regionGroups": [
       "Great Plains",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      }
     ]
   },
   {
@@ -23088,7 +24457,8 @@
     "slug": "metis",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Miami",
@@ -23157,7 +24527,8 @@
     "regionGroups": [
       "Great Plains",
       "Great Lakes"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Miccosukee",
@@ -23226,7 +24597,8 @@
     "slug": "miccosukee",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "name": "Mi'kmaq",
@@ -23294,6 +24666,23 @@
     "regionGroups": [
       "Canada",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ME",
+        "name": "Maine",
+        "key": "us-me"
+      },
+      {
+        "id": "CA-NS",
+        "name": "Nova Scotia",
+        "key": "ca-ns"
+      },
+      {
+        "id": "CA-PE",
+        "name": "Prince Edward Island",
+        "key": "ca-pe"
+      }
     ]
   },
   {
@@ -23359,7 +24748,8 @@
     "regionGroups": [
       "Great Plains",
       "Great Lakes"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 216,
@@ -23437,7 +24827,8 @@
     "slug": "miwok",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 217,
@@ -23512,6 +24903,13 @@
     "slug": "mixe",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -23586,6 +24984,13 @@
     "slug": "mixtec",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -23659,7 +25064,8 @@
     "slug": "mobile",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 220,
@@ -23735,6 +25141,13 @@
       "Pacific Northwest",
       "California",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -23801,7 +25214,8 @@
     "slug": "mohawk",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 222,
@@ -23876,7 +25290,8 @@
     "slug": "mohegan",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 223,
@@ -23954,6 +25369,13 @@
     "regionGroups": [
       "Great Lakes",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WI",
+        "name": "Wisconsin",
+        "key": "us-wi"
+      }
     ]
   },
   {
@@ -24029,7 +25451,8 @@
     "slug": "mojave",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 225,
@@ -24092,6 +25515,13 @@
     "slug": "molala",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -24166,7 +25596,8 @@
     "slug": "monacan",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 227,
@@ -24240,7 +25671,8 @@
     "regionGroups": [
       "California",
       "Great Basin"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 228,
@@ -24286,7 +25718,8 @@
     "slug": "montaukett",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 229,
@@ -24349,6 +25782,13 @@
     "slug": "mopan-maya",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      }
     ]
   },
   {
@@ -24423,6 +25863,13 @@
     "slug": "muckleshoot",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -24488,7 +25935,8 @@
     "regionGroups": [
       "Canada",
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 232,
@@ -24672,7 +26120,8 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 233,
@@ -24747,7 +26196,8 @@
     "slug": "musqueam",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 234,
@@ -24810,7 +26260,8 @@
     "slug": "mutsun",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 235,
@@ -24887,6 +26338,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -24965,6 +26423,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -25039,7 +26504,8 @@
     "slug": "nanticoke",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 238,
@@ -25113,6 +26579,13 @@
     "slug": "narragansett",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-RI",
+        "name": "Rhode Island",
+        "key": "us-ri"
+      }
     ]
   },
   {
@@ -25189,7 +26662,8 @@
     "slug": "naskapi",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 240,
@@ -25267,6 +26741,13 @@
     "slug": "naso-tjer-di",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -25329,7 +26810,8 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 242,
@@ -25403,7 +26885,8 @@
     "slug": "natchitoches",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 243,
@@ -25477,7 +26960,8 @@
     "slug": "nauset",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 244,
@@ -25551,6 +27035,18 @@
     "slug": "navajo-dine",
     "regionGroups": [
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      },
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -25615,7 +27111,8 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 246,
@@ -25693,7 +27190,8 @@
     "regionGroups": [
       "Great Lakes",
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 247,
@@ -25769,6 +27267,13 @@
     "slug": "nez-perce-nimiipuu",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      }
     ]
   },
   {
@@ -25830,6 +27335,18 @@
     "slug": "ngabe",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      },
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -25905,7 +27422,8 @@
     "slug": "nipmuc",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 251,
@@ -25966,7 +27484,8 @@
     "slug": "nisenan",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 250,
@@ -26040,7 +27559,8 @@
     "slug": "nisgaa",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 252,
@@ -26119,7 +27639,8 @@
     "slug": "nlakapamux",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 253,
@@ -26165,6 +27686,13 @@
     "slug": "nomlaki",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -26239,6 +27767,13 @@
     "slug": "nooksack",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -26316,7 +27851,8 @@
     "slug": "northern-paiute",
     "regionGroups": [
       "Great Basin"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 256,
@@ -26377,7 +27913,8 @@
     "slug": "northern-pomo",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 257,
@@ -26452,7 +27989,8 @@
     "slug": "nottoway",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 258,
@@ -26498,7 +28036,8 @@
     "slug": "nuuchahnulth",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 259,
@@ -26574,6 +28113,13 @@
     "slug": "nuxalk",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-BC",
+        "name": "British Columbia",
+        "key": "ca-bc"
+      }
     ]
   },
   {
@@ -26635,7 +28181,8 @@
     "slug": "ocanxiu-sutiaba",
     "regionGroups": [
       "Central America"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 261,
@@ -26710,7 +28257,8 @@
     "slug": "oconee",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 262,
@@ -26784,7 +28332,8 @@
     "slug": "ofo",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 264,
@@ -26863,6 +28412,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -26945,7 +28501,8 @@
     "slug": "ohlone",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 265,
@@ -27028,6 +28585,28 @@
     "regionGroups": [
       "Canada",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MI",
+        "name": "Michigan",
+        "key": "us-mi"
+      },
+      {
+        "id": "US-MN",
+        "name": "Minnesota",
+        "key": "us-mn"
+      },
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      },
+      {
+        "id": "US-WI",
+        "name": "Wisconsin",
+        "key": "us-wi"
+      }
     ]
   },
   {
@@ -27102,7 +28681,8 @@
     "regionGroups": [
       "Canada",
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -27179,6 +28759,13 @@
     "slug": "olutec",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -27258,6 +28845,13 @@
     "slug": "omaha",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      }
     ]
   },
   {
@@ -27326,6 +28920,13 @@
     "regionGroups": [
       "Great Lakes",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WI",
+        "name": "Wisconsin",
+        "key": "us-wi"
+      }
     ]
   },
   {
@@ -27405,6 +29006,13 @@
     "slug": "onondaga",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      }
     ]
   },
   {
@@ -27464,7 +29072,8 @@
     "slug": "opata",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 271,
@@ -27539,6 +29148,23 @@
     "slug": "osage",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
+      }
     ]
   },
   {
@@ -27598,7 +29224,8 @@
     "slug": "otoe",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 273,
@@ -27674,6 +29301,13 @@
     "slug": "otomi",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -27754,6 +29388,13 @@
     "regionGroups": [
       "Canada",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MI",
+        "name": "Michigan",
+        "key": "us-mi"
+      }
     ]
   },
   {
@@ -27803,6 +29444,13 @@
     "regionGroups": [
       "California",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -27882,6 +29530,23 @@
     "regionGroups": [
       "Great Basin",
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      },
+      {
+        "id": "US-NV",
+        "name": "Nevada",
+        "key": "us-nv"
+      },
+      {
+        "id": "US-UT",
+        "name": "Utah",
+        "key": "us-ut"
+      }
     ]
   },
   {
@@ -27927,7 +29592,8 @@
     "slug": "palouse",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 278,
@@ -27988,6 +29654,13 @@
     "slug": "pame",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -28049,7 +29722,8 @@
     "slug": "pamlico",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -28124,7 +29798,8 @@
     "slug": "pamunkey",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 280,
@@ -28172,7 +29847,8 @@
     "regionGroups": [
       "California",
       "Great Basin"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 281,
@@ -28235,7 +29911,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 282,
@@ -28296,6 +29973,13 @@
     "slug": "passamaquoddy",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ME",
+        "name": "Maine",
+        "key": "us-me"
+      }
     ]
   },
   {
@@ -28341,7 +30025,8 @@
     "slug": "patwin",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 284,
@@ -28386,7 +30071,8 @@
     "slug": "pawnee",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 290,
@@ -28446,6 +30132,13 @@
     "slug": "pech",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "HN",
+        "name": "Honduras",
+        "key": "hn"
+      }
     ]
   },
   {
@@ -28526,7 +30219,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 286,
@@ -28587,6 +30281,13 @@
     "slug": "penobscot",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ME",
+        "name": "Maine",
+        "key": "us-me"
+      }
     ]
   },
   {
@@ -28648,7 +30349,8 @@
     "slug": "pensacola",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 288,
@@ -28725,7 +30427,8 @@
     "slug": "pentlatch",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 289,
@@ -28788,6 +30491,13 @@
     "regionGroups": [
       "Great Plains",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      }
     ]
   },
   {
@@ -28866,7 +30576,8 @@
     "slug": "pequot",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 292,
@@ -28931,6 +30642,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -29007,7 +30725,8 @@
     "slug": "pima-akimel-oodham",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 294,
@@ -29085,7 +30804,8 @@
     "slug": "pirinda",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 295,
@@ -29159,7 +30879,8 @@
     "slug": "piscataway",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 296,
@@ -29222,7 +30943,8 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 297,
@@ -29297,7 +31019,8 @@
     "slug": "plains-miwok",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 298,
@@ -29362,7 +31085,8 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 299,
@@ -29439,6 +31163,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -29515,7 +31246,8 @@
     "slug": "pokanoket",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 301,
@@ -29592,7 +31324,8 @@
     "slug": "pomo",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 302,
@@ -29667,6 +31400,13 @@
     "slug": "ponca",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      }
     ]
   },
   {
@@ -29745,6 +31485,13 @@
     "slug": "popoloca",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -29806,6 +31553,13 @@
     "slug": "popoluca",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -29869,6 +31623,13 @@
     "slug": "poqomam",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      }
     ]
   },
   {
@@ -29945,6 +31706,13 @@
     "slug": "poqomchi",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      }
     ]
   },
   {
@@ -30024,6 +31792,23 @@
     "regionGroups": [
       "Canada",
       "Great Lakes"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-IN",
+        "name": "Indiana",
+        "key": "us-in"
+      },
+      {
+        "id": "US-MI",
+        "name": "Michigan",
+        "key": "us-mi"
+      },
+      {
+        "id": "US-WI",
+        "name": "Wisconsin",
+        "key": "us-wi"
+      }
     ]
   },
   {
@@ -30102,7 +31887,8 @@
     "slug": "powhatan",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 309,
@@ -30164,6 +31950,13 @@
     "slug": "prairie-band-potawatomi",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      }
     ]
   },
   {
@@ -30261,7 +32054,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 311,
@@ -30336,6 +32130,13 @@
     "slug": "purepecha",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -30411,6 +32212,13 @@
     "slug": "puyallup",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -30489,6 +32297,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -30566,6 +32381,13 @@
     "slug": "qeqchi",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -30642,7 +32464,8 @@
     "slug": "quapaw",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 316,
@@ -30705,7 +32528,8 @@
     "slug": "quechan",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 317,
@@ -30780,6 +32604,13 @@
     "slug": "quileute",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -30855,6 +32686,13 @@
     "slug": "quinault",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -30902,7 +32740,8 @@
     "slug": "quiripi",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 321,
@@ -30948,6 +32787,13 @@
     "slug": "rama",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "NI",
+        "name": "Nicaragua",
+        "key": "ni"
+      }
     ]
   },
   {
@@ -31024,7 +32870,8 @@
     "slug": "ramaytush",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 322,
@@ -31098,7 +32945,8 @@
     "slug": "rappahannock",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 323,
@@ -31159,6 +33007,13 @@
     "slug": "raramuri-tarahumara",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -31237,7 +33092,8 @@
     "slug": "rumsen",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 326,
@@ -31313,7 +33169,8 @@
     "regionGroups": [
       "Canada",
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 325,
@@ -31393,7 +33250,8 @@
     "regionGroups": [
       "Great Plains",
       "Great Lakes"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 327,
@@ -31458,6 +33316,13 @@
     "slug": "sac-and-fox",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      }
     ]
   },
   {
@@ -31533,7 +33398,8 @@
     "slug": "salinan",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 329,
@@ -31598,7 +33464,8 @@
     "slug": "salish",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -31675,7 +33542,8 @@
     "slug": "samish",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 331,
@@ -31725,6 +33593,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -31789,6 +33664,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -31868,6 +33750,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -31947,6 +33836,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -32025,6 +33921,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -32100,6 +34003,13 @@
     "slug": "santee-dakota",
     "regionGroups": [
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      }
     ]
   },
   {
@@ -32165,7 +34075,8 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -32240,6 +34151,13 @@
     "slug": "sayultec",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -32301,7 +34219,8 @@
     "slug": "sechelt-shishalh",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 337,
@@ -32379,7 +34298,8 @@
     "slug": "secwepemc",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 339,
@@ -32425,7 +34345,8 @@
     "slug": "sekani",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 340,
@@ -32504,6 +34425,13 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-FL",
+        "name": "Florida",
+        "key": "us-fl"
+      }
     ]
   },
   {
@@ -32570,7 +34498,8 @@
     "slug": "seneca",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 342,
@@ -32645,6 +34574,13 @@
     "slug": "seri-comcaac",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -32705,7 +34641,8 @@
     "slug": "serrano",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 344,
@@ -32782,7 +34719,8 @@
     "regionGroups": [
       "Pacific Northwest",
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 345,
@@ -33053,7 +34991,8 @@
     "slug": "shawnee",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 346,
@@ -33129,7 +35068,8 @@
     "slug": "shinnecock",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 347,
@@ -33209,6 +35149,28 @@
     "regionGroups": [
       "Great Basin",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ID",
+        "name": "Idaho",
+        "key": "us-id"
+      },
+      {
+        "id": "US-NV",
+        "name": "Nevada",
+        "key": "us-nv"
+      },
+      {
+        "id": "US-UT",
+        "name": "Utah",
+        "key": "us-ut"
+      },
+      {
+        "id": "US-WY",
+        "name": "Wyoming",
+        "key": "us-wy"
+      }
     ]
   },
   {
@@ -33287,7 +35249,8 @@
     "slug": "shuswap",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -33348,7 +35311,8 @@
     "slug": "siberian-yupik",
     "regionGroups": [
       "Arctic & Alaska"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 349,
@@ -33426,6 +35390,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-AB",
+        "name": "Alberta",
+        "key": "ca-ab"
+      }
     ]
   },
   {
@@ -33502,7 +35473,8 @@
     "slug": "sinkiyone",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 351,
@@ -33578,6 +35550,13 @@
     "slug": "siuslaw",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -33655,7 +35634,8 @@
     "slug": "skokomish",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 353,
@@ -33719,7 +35699,8 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 354,
@@ -33792,7 +35773,8 @@
     "slug": "snohomish",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 355,
@@ -33867,7 +35849,8 @@
     "slug": "snoqualmie",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 356,
@@ -33946,6 +35929,13 @@
     "regionGroups": [
       "Great Basin",
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      }
     ]
   },
   {
@@ -34020,6 +36010,13 @@
     "slug": "spokane",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -34095,7 +36092,8 @@
     "slug": "squamish",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 359,
@@ -34171,7 +36169,8 @@
     "slug": "squaxin-island",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -34247,6 +36246,13 @@
     "slug": "stillaguamish",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -34324,7 +36330,8 @@
     "slug": "sto-lo",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 360,
@@ -34388,7 +36395,8 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 362,
@@ -34465,7 +36473,8 @@
     "slug": "sugpiaq",
     "regionGroups": [
       "Arctic & Alaska"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 363,
@@ -34540,7 +36549,8 @@
     "slug": "suquamish",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 364,
@@ -34613,7 +36623,8 @@
     "slug": "susquehannock",
     "regionGroups": [
       "Northeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 365,
@@ -34675,7 +36686,8 @@
     "slug": "taan-kwachan",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 366,
@@ -34736,7 +36748,8 @@
     "slug": "tacuate",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 367,
@@ -34795,7 +36808,8 @@
     "slug": "tagish",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -34872,6 +36886,38 @@
     "slug": "taino",
     "regionGroups": [
       "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "CU",
+        "name": "Cuba",
+        "key": "cu"
+      },
+      {
+        "id": "DO",
+        "name": "Dominican Republic",
+        "key": "do"
+      },
+      {
+        "id": "HT",
+        "name": "Haiti",
+        "key": "ht"
+      },
+      {
+        "id": "JM",
+        "name": "Jamaica",
+        "key": "jm"
+      },
+      {
+        "id": "PR",
+        "name": "Puerto Rico",
+        "key": "pr"
+      },
+      {
+        "id": "BS",
+        "name": "The Bahamas",
+        "key": "bs"
+      }
     ]
   },
   {
@@ -34947,7 +36993,8 @@
     "slug": "takelma",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 369,
@@ -35008,7 +37055,8 @@
     "slug": "taltan",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 370,
@@ -35084,7 +37132,8 @@
     "slug": "tamien",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 371,
@@ -35160,6 +37209,13 @@
     "slug": "tanacross",
     "regionGroups": [
       "Arctic & Alaska"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -35237,7 +37293,8 @@
     "slug": "tanana",
     "regionGroups": [
       "Arctic & Alaska"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 373,
@@ -35316,6 +37373,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -35390,7 +37454,8 @@
     "slug": "tataviam",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 375,
@@ -35467,6 +37532,13 @@
     "slug": "tawahka",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "HN",
+        "name": "Honduras",
+        "key": "hn"
+      }
     ]
   },
   {
@@ -35545,6 +37617,13 @@
     "regionGroups": [
       "Mexico",
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -35619,6 +37698,13 @@
     "slug": "tepehua",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -35693,6 +37779,13 @@
     "slug": "tepehuan",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -35772,6 +37865,18 @@
     "slug": "teribe",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "CR",
+        "name": "Costa Rica",
+        "key": "cr"
+      },
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -35821,6 +37926,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -35902,7 +38014,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 382,
@@ -35977,6 +38090,13 @@
     "slug": "texistepequeno",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -36056,7 +38176,8 @@
     "slug": "thompson-nlakapamux",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 384,
@@ -36116,6 +38237,13 @@
     "slug": "tillamook",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -36192,7 +38320,8 @@
     "slug": "timucua",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 386,
@@ -36244,7 +38373,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 387,
@@ -36321,6 +38451,13 @@
     "slug": "tlahuica",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -36395,6 +38532,13 @@
     "slug": "tlapanec-mephaa",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -36471,7 +38615,8 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 390,
@@ -36534,6 +38679,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -36609,6 +38761,13 @@
     "slug": "tojolabal",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -36686,7 +38845,8 @@
     "regionGroups": [
       "Pacific Northwest",
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 393,
@@ -36732,6 +38892,13 @@
     "slug": "tolupan",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "HN",
+        "name": "Honduras",
+        "key": "hn"
+      }
     ]
   },
   {
@@ -36809,7 +38976,8 @@
     "slug": "tonkawa",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 395,
@@ -37084,7 +39252,8 @@
     "slug": "tonto-apache",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 397,
@@ -37158,6 +39327,13 @@
     "slug": "totonac",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -37223,7 +39399,8 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 399,
@@ -37297,6 +39474,13 @@
     "slug": "triqui",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -37373,6 +39557,13 @@
     "slug": "trondek-hwechin",
     "regionGroups": [
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-YT",
+        "name": "Yukon",
+        "key": "ca-yt"
+      }
     ]
   },
   {
@@ -37448,7 +39639,8 @@
     "slug": "tsawwassen",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 401,
@@ -37525,6 +39717,13 @@
     "slug": "tseltal",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -37602,7 +39801,8 @@
       "Arctic & Alaska",
       "Canada",
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 403,
@@ -37677,7 +39877,8 @@
     "slug": "tsleilwaututh",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 404,
@@ -37754,6 +39955,13 @@
     "slug": "tsotsil",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -37830,6 +40038,13 @@
     "regionGroups": [
       "Canada",
       "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-AB",
+        "name": "Alberta",
+        "key": "ca-ab"
+      }
     ]
   },
   {
@@ -37893,7 +40108,8 @@
     "slug": "tualatin",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 407,
@@ -37967,7 +40183,8 @@
     "slug": "tubar",
     "regionGroups": [
       "Mexico"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 408,
@@ -38042,7 +40259,8 @@
     "slug": "tubatulabal",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 409,
@@ -38104,7 +40322,8 @@
     "slug": "tulalip",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 410,
@@ -38180,6 +40399,13 @@
     "slug": "tunica",
     "regionGroups": [
       "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-LA",
+        "name": "Louisiana",
+        "key": "us-la"
+      }
     ]
   },
   {
@@ -38261,7 +40487,8 @@
     "regionGroups": [
       "Northeast",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 412,
@@ -38337,7 +40564,8 @@
     "slug": "tutchone",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 413,
@@ -38414,7 +40642,8 @@
     "slug": "tututni",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 414,
@@ -38490,7 +40719,8 @@
     "slug": "twana",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 415,
@@ -38567,6 +40797,13 @@
     "slug": "tzutujil",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      }
     ]
   },
   {
@@ -38866,6 +41103,13 @@
     "slug": "umatilla",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -38942,6 +41186,13 @@
     "slug": "umpqua",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -39020,6 +41271,13 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AK",
+        "name": "Alaska",
+        "key": "us-ak"
+      }
     ]
   },
   {
@@ -39096,6 +41354,13 @@
     "slug": "uspantek",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "GT",
+        "name": "Guatemala",
+        "key": "gt"
+      }
     ]
   },
   {
@@ -39171,6 +41436,18 @@
     "regionGroups": [
       "Great Basin",
       "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CO",
+        "name": "Colorado",
+        "key": "us-co"
+      },
+      {
+        "id": "US-UT",
+        "name": "Utah",
+        "key": "us-ut"
+      }
     ]
   },
   {
@@ -39232,7 +41509,8 @@
     "slug": "ventureno-chumash",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 422,
@@ -39307,7 +41585,8 @@
     "slug": "vuntut-gwitchin",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 423,
@@ -39380,6 +41659,13 @@
     "slug": "wailaki",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -39454,11 +41740,278 @@
       416
     ],
     "researchStatus": "source-guide",
+    "researchLeads": [
+      {
+        "url": "https://ctuir.org/about/history-culture/",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. History and culture.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://dictionary.ctuir.org/eng/walla-walla/",
+        "title": "CTUIR Language Program. Walla Walla dictionary entry.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://ctuir.org/about/language/",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. The language of Nixyaawii.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://ctuir.org/about/brief-history-of-ctuir/",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. A brief history of CTUIR.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://ctuir.org/about/first-foods/",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. First Foods and life cycles.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://lewisandclarkjournals.unl.edu/item/lc.jrn.1806-04-27",
+        "title": "Meriwether Lewis. Journal for April 27 1806.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.nps.gov/articles/000/yellept-of-walla-walla.htm",
+        "title": "National Park Service. Yellept of Walla Walla.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.oregonhistoryproject.org/articles/historical-records/yelleppit-and-the-walla-walla/",
+        "title": "Cain Allen. Yelleppit and the Walla Wallas.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.nps.gov/whmi/learn/historyculture/place-of-sunflower.htm",
+        "title": "National Park Service. Tribal history and the place of the sunflowers.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://americanindian.si.edu/exhibitions/infinityofnations/plains-plateau/129470.html",
+        "title": "National Museum of the American Indian. Walla Walla pouch from about the 1840s.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://americanindian.si.edu/exhibitions/infinityofnations/plains-plateau/001048.html",
+        "title": "National Museum of the American Indian. Walla Walla dress from about 1860 to 1880.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://ctuir.org/media/55mobq1j/ctuir-traditional-use-study-of-willamette-falls-and-lower-willamette-river_nov-2020.pdf",
+        "title": "Jennifer Karson Engum. Traditional use study of Willamette Falls and the lower Columbia River.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.oregonencyclopedia.org/articles/walla_walla_treaty_council_1855/",
+        "title": "Cliff Trafzer. Walla Walla Treaty Council 1855.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg945.pdf",
+        "title": "United States and Walla Walla Cayuse and Umatilla treaty delegates. Treaty concluded June 9 1855.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.historylink.org/file/8132",
+        "title": "Stephen B Emerson. Battle of Walla Walla in December 1855.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.oregonencyclopedia.org/articles/native_american_treaties_eastern_oregon/",
+        "title": "Cliff Trafzer. Native American treaties in northeastern Oregon.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.oregonencyclopedia.org/articles/indian_boarding_school/",
+        "title": "Cary Collins. Indian boarding schools.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://thorpe.law.ou.edu/constitution/umatilla.html",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. Constitution and bylaws of 1949.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://ctuir.org/about/",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. About us.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.oregonencyclopedia.org/articles/celilo_falls/",
+        "title": "Katrine Barber. Celilo Falls.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.usgs.gov/publications/aligning-environmental-management-ecosystem-resilience-a-first-foods-example",
+        "title": "Eric J Quaempts and colleagues. First Foods and ecosystem resilience.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://fisherieshabitat.ctuir.org/",
+        "title": "CTUIR Fisheries Habitat Program. Program mission and river restoration approach.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://ctuir.org/news/tamastslikt-cultural-institute-to-hold-anniversary-sale-aug-7-9/",
+        "title": "Confederated Tribes of the Umatilla Indian Reservation. Tamastslikt anniversary announcement.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      },
+      {
+        "url": "https://www.nps.gov/whmi/learn/index.htm",
+        "title": "National Park Service. Whitman Mission history.",
+        "documentKey": "Walla_Walla_Culture_History_and_Timeline",
+        "documentTitle": "Walla Walla culture, history and timeline",
+        "contextNote": "Owner-supplied Walla Walla study. Distinguish Walla Walla people from CTUIR government, Cayuse and Umatilla constituent peoples, and the modern city. Broader Columbia River sources need their own historical/community scope. Supplied bibliography labels are leads, not original-source review.",
+        "addedAt": "2026-10-21",
+        "reviewStatus": "Awaiting original-source review",
+        "labelProvenance": "Supplied bibliography; original identification pending",
+        "linkNote": "Public URL extracted from the owner study. Original content, identity, relevance and reader access have not been independently reviewed for this contributed collection."
+      }
+    ],
     "added": false,
     "slug": "walla-walla",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 425,
@@ -39535,6 +42088,18 @@
     "slug": "wampanoag",
     "regionGroups": [
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MA",
+        "name": "Massachusetts",
+        "key": "us-ma"
+      },
+      {
+        "id": "US-RI",
+        "name": "Rhode Island",
+        "key": "us-ri"
+      }
     ]
   },
   {
@@ -39611,7 +42176,8 @@
     "slug": "wanapum",
     "regionGroups": [
       "Pacific Northwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 427,
@@ -39684,7 +42250,8 @@
     "slug": "wappo",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 428,
@@ -39760,6 +42327,13 @@
     "slug": "warm-springs",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -39838,6 +42412,13 @@
     "slug": "wasco",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OR",
+        "name": "Oregon",
+        "key": "us-or"
+      }
     ]
   },
   {
@@ -39915,7 +42496,8 @@
     "regionGroups": [
       "California",
       "Great Basin"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "added": true,
@@ -39992,7 +42574,8 @@
     "slug": "wetsuweten",
     "regionGroups": [
       "Canada"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 431,
@@ -40070,7 +42653,8 @@
     "slug": "wichita",
     "regionGroups": [
       "Great Plains"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 432,
@@ -40147,7 +42731,8 @@
     "slug": "wintu",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 433,
@@ -40208,6 +42793,13 @@
     "slug": "wiyot",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -40286,6 +42878,23 @@
     "regionGroups": [
       "Canada",
       "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ME",
+        "name": "Maine",
+        "key": "us-me"
+      },
+      {
+        "id": "CA-NB",
+        "name": "New Brunswick",
+        "key": "ca-nb"
+      },
+      {
+        "id": "CA-QC",
+        "name": "Quebec",
+        "key": "ca-qc"
+      }
     ]
   },
   {
@@ -40347,6 +42956,13 @@
     "slug": "wounaan",
     "regionGroups": [
       "Central America"
+    ],
+    "mapRegions": [
+      {
+        "id": "PA",
+        "name": "Panama",
+        "key": "pa"
+      }
     ]
   },
   {
@@ -40427,7 +43043,8 @@
       "Canada",
       "Great Plains",
       "Great Lakes"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 437,
@@ -40473,7 +43090,8 @@
     "slug": "xinca",
     "regionGroups": [
       "Central America"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 438,
@@ -40696,6 +43314,13 @@
     "slug": "yakama",
     "regionGroups": [
       "Pacific Northwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WA",
+        "name": "Washington",
+        "key": "us-wa"
+      }
     ]
   },
   {
@@ -40742,7 +43367,8 @@
     "slug": "yamasee",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 440,
@@ -40815,7 +43441,8 @@
     "slug": "yana",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 441,
@@ -40893,6 +43520,23 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AZ",
+        "name": "Arizona",
+        "key": "us-az"
+      },
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
     ]
   },
   {
@@ -40971,7 +43615,8 @@
     "slug": "yavapai",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 443,
@@ -41130,7 +43775,8 @@
     "slug": "yavapai-apache",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 444,
@@ -41176,7 +43822,8 @@
     "slug": "yocona",
     "regionGroups": [
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 445,
@@ -41250,7 +43897,8 @@
     "slug": "yokuts",
     "regionGroups": [
       "California"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 446,
@@ -41296,7 +43944,8 @@
     "regionGroups": [
       "Great Plains",
       "Southeast"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 447,
@@ -41355,6 +44004,13 @@
     "slug": "yuki",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -41419,7 +44075,8 @@
     "slug": "yuma",
     "regionGroups": [
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 449,
@@ -41480,7 +44137,8 @@
     "regionGroups": [
       "Arctic & Alaska",
       "Southwest"
-    ]
+    ],
+    "mapRegions": []
   },
   {
     "originalId": 450,
@@ -41712,6 +44370,13 @@
     "slug": "yurok",
     "regionGroups": [
       "California"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-CA",
+        "name": "California",
+        "key": "us-ca"
+      }
     ]
   },
   {
@@ -41788,6 +44453,13 @@
     "slug": "zapotec",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -41867,6 +44539,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   },
   {
@@ -41942,6 +44621,13 @@
     "slug": "zoque",
     "regionGroups": [
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "MX",
+        "name": "Mexico",
+        "key": "mx"
+      }
     ]
   },
   {
@@ -42021,6 +44707,13 @@
     "regionGroups": [
       "Southwest",
       "Mexico"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      }
     ]
   }
 ]
