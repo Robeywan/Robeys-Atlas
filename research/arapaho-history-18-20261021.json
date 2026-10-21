@@ -1,0 +1,103 @@
+{
+  "originalId": 18,
+  "name": "Arapaho",
+  "reviewedAt": "2026-10-21",
+  "sources": [
+    {
+      "id": "ar18-h1",
+      "renewalOf": "p18-s7",
+      "title": "Sand Creek Massacre — Stories",
+      "author": "National Park Service; no individual byline displayed",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/sand/learn/historyculture/stories.htm",
+      "type": "Government",
+      "topics": [
+        "Public history",
+        "Descendant participation"
+      ],
+      "annotation": "A short public orientation describes descendant knowledge and documentary investigation. Useful supporting context, conservatively outside the substantive count. Its casualty figures and linked testimony are not adopted here.",
+      "contentReviewScope": "Actual displayed narrative read. Last-updated date is not verified first publication. Linked letters, interviews and source media were not read or reused.",
+      "publicationDate": "Last updated April 24, 2025; first publication not established",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": false,
+      "inspectedSubresources": [
+        {
+          "title": "Original retained NPS access route",
+          "url": "https://home.nps.gov/sand/learn/historyculture/stories.htm",
+          "scope": "Original collection URL retained; recent request timed out. Actual content was read at the canonical www.nps.gov route."
+        }
+      ]
+    },
+    {
+      "id": "ar18-h2",
+      "title": "Foundation Document — Sand Creek Massacre National Historic Site",
+      "author": "National Park Service",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/sand/learn/management/upload/SAND_FD_2017-508.pdf",
+      "type": "Government",
+      "topics": [
+        "Public history",
+        "Planning",
+        "Tribal consultation"
+      ],
+      "annotation": "A substantial dated park-planning document identifies tribal participation and further research needs. It records institutional planning, without proving that proposed work was completed or describing current arrangements.",
+      "contentReviewScope": "Actual 62-page PDF: cover, introduction on printed 2 and selected planning entries on printed 28–29 (PDF 32–33). Other encountered history and casualty totals are not adopted; no map or sensitive location is reproduced.",
+      "publicationDate": "December 2017",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true
+    },
+    {
+      "id": "ar18-h3",
+      "title": "Sand Creek Massacre Site Oral History: Protecting Tribal Intellectual Property",
+      "author": "Alexa Roberts",
+      "publisher": "National Park Service, CRM 23(9); NPSHistory archive reading copy",
+      "url": "https://npshistory.com/newsletters/crm/crm-v23n9.pdf",
+      "type": "Government",
+      "topics": [
+        "Research methods",
+        "Oral history",
+        "Tribal intellectual property"
+      ],
+      "annotation": "A public methodological account explains differing community arrangements in the site study. The Northern Arapaho project is distinguished from Cheyenne projects. One article counts once, not the entire issue or individual interviews.",
+      "contentReviewScope": "Actual 56-page issue: cover and complete article on printed/PDF 43–46 read. No original recordings, photographs or interview transcripts accessed. Archive is an independent mirror explicitly linked by the current NPS bibliography.",
+      "publicationDate": "2000, CRM volume 23 number 9",
+      "contentReviewedAt": "2026-10-21",
+      "countsTowardMinimum": true,
+      "inspectedSubresources": [
+        {
+          "title": "NPS oral-history articles bibliography",
+          "url": "https://www.nps.gov/subjects/oralhistory/articles.htm",
+          "scope": "Actual Roberts bibliographic entry read and archive link followed; bibliography is not an additional substantive work."
+        }
+      ],
+      "rightsNote": "Interview and community permissions described in the article do not authorize Atlas reuse. Only an educational summary is supplied."
+    }
+  ],
+  "claimBlocks": [
+    {
+      "suggestedSection": "Descendant knowledge and documentary investigation",
+      "text": "The NPS overview describes descendant knowledge alongside archival research in locating and interpreting Sand Creek. Its short orientation provides a starting point for public history, rather than a complete account of the 1864 attack or its aftermath. The linked individual testimony and media were not inspected for this collection.",
+      "sourceIds": [
+        "ar18-h1"
+      ]
+    },
+    {
+      "suggestedSection": "A dated framework for collaborative public history",
+      "text": "The December 2017 foundation document identifies tribal histories and consultation as important to interpreting the site. Its planning entries call for further community involvement and review of research. These are dated institutional priorities and identified needs, not proof that proposed projects were completed. They do not establish a single position shared by every Arapaho government or person.",
+      "sourceIds": [
+        "ar18-h2"
+      ]
+    },
+    {
+      "suggestedSection": "Who controls an oral-history project?",
+      "text": "Alexa Roberts describes the Northern Arapaho Tribe choosing to conduct its part of the 1999 oral-history project internally. Her account explains why participation and control of research materials mattered, while describing different arrangements with Cheyenne communities. This is evidence about a particular collaborative process. The underlying recordings, interviews and photographs were not accessed or reproduced, and their permissions are not Atlas reuse rights.",
+      "sourceIds": [
+        "ar18-h3"
+      ]
+    }
+  ],
+  "researchNotes": [
+    "Old NPS CRM route returned 404. The current official bibliography links the independent NPSHistory archive; actual article downloaded through ordinary validated HTTPS. No access controls bypassed.",
+    "The NPS foundation and Roberts paper are distinct works; the brief NPS story page remains supporting. No casualty totals, restricted narratives, precise sites or source media reproduced."
+  ]
+}

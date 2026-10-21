@@ -1,0 +1,108 @@
+{
+  "originalId": 18,
+  "name": "Arapaho",
+  "reviewedAt": "2026-10-21",
+  "assessment": "PASS",
+  "materialFindings": [],
+  "requiredCorrections": [],
+  "reviewScope": {
+    "packets": [
+      "work/arapaho-northern-18-20261021.json",
+      "work/arapaho-history-18-20261021.json"
+    ],
+    "method": "Read both complete packets, recomputed all proposed public annotation/scope/subscope/claim budgets, and independently spotchecked actual saved primary texts. Reopened the three existing supporting original routes and the existing article landing page for metadata checks; no new source discovery, Site/canonical edits, contact or delegation.",
+    "notClaimed": "Not a full canonical-profile audit, whole-book/code reading, fresh review of underlying research data, legal assessment or media-rights clearance. No original interviews, tapes, photographs or story transcripts accessed or reused."
+  },
+  "countsAndCitations": {
+    "northern": {
+      "cards": 4,
+      "substantive": 2,
+      "supporting": 2,
+      "result": "Matches packet. Original p18-s2/p18-s3 navigation URLs preserved as supporting renewals; selected code collection counts once, and Arthur/Porter counts once."
+    },
+    "history": {
+      "cards": 3,
+      "substantive": 2,
+      "supporting": 1,
+      "result": "Matches packet. Original NPS home route retained visibly; canonical www.nps.gov route actually read. Brief Stories page remains supporting. Foundation and Roberts article are distinct substantial works."
+    },
+    "combined": {
+      "cards": 7,
+      "substantive": 4,
+      "supporting": 3,
+      "uniqueSourceIds": 7,
+      "danglingClaimCitations": 0,
+      "uncitedCards": 0
+    }
+  },
+  "independentEvidenceChecks": [
+    {
+      "sourceId": "ar18-n1",
+      "actualInspection": "Existing Northern Arapaho homepage reopened directly. Actual institutional navigation lines 0–36 and Wind River location statement 39–41 read.",
+      "result": "PASS: narrow institutional starting-point claim fits. No acreage, population, offices, service outcomes, social posts or video adopted. Supporting count is appropriate."
+    },
+    {
+      "sourceId": "ar18-n2",
+      "actualInspection": "Packet and author's precise original-inspection record reviewed. Independent reopening of the exact query-string department URL timed out in this audit.",
+      "result": "PASS WITH ACCESS LIMIT: recorded directory/short-description scope and conservative supporting status are internally appropriate. This audit does not claim a second actual directory-body inspection. The new timeout does not negate the author's earlier documented actual reading or justify a substantive count.",
+      "accessLimit": "No additional retries, replacement search snippets or access-control workarounds."
+    },
+    {
+      "sourceId": "ar18-n3",
+      "actualInspection": "Saved education-code.pdf verified as 31 pages. Actual selected page 2 section 102, pages 5–6 section 104(c), and page 31 history note read. Complete saved two-page code-preface.pdf also read.",
+      "result": "PASS: educational self-determination, Arapaho language/history, academic learning, parental/community participation, and explicit Eastern Shoshone disclaimer are supported. Enactment is May 4, 2006, Resolution 2006-9070, not the 2026 upload path. Preface excludes regulations and specified internal-government resolutions and distinguishes commentary from enactments. Legislation is correctly treated as dated policy, without present-law or implementation guarantees.",
+      "counting": "One selected code collection includes title, preface and index; none adds an independent source count."
+    },
+    {
+      "sourceId": "ar18-n4",
+      "actualInspection": "Saved arthur-porter-2019.pdf verified as 16 pages. Actual printed 69–73 and 80–81 (PDF 1–5, 12–13) read. Existing original journal landing also reopened; authors, online date, issue and CC BY 4.0 statement read.",
+      "result": "PASS: Arthur explicitly identifies himself as a Northern Arapaho tribal member; attribution is not inferred from employment. Authorship/positionality and interviews, talking circles, observation, autoethnography and historical work are actual methods. The paper is a situated 2019 interpretation, not a representative survey, tribal government statement, current prevalence study or clinical-results publication.",
+      "scopeChecks": "Shared Wind River projects do not erase Eastern Shoshone/Northern Arapaho distinctions. Shoshone bison/gathering initiatives are not relabeled Arapaho. The broader first-person 'we' and population/health estimates are not generalized in the packet. No creation narrative, prophecy, participant quote or figure is republished.",
+      "datesAndRights": "Print imprint is Volume 9 Supplement 2 / Fall 2019, pages 69–84; online publication November 11, 2019 matches publisher. Current landing labels the issue 9(B) and explicitly identifies author copyright and CC BY 4.0. No source media reused."
+    },
+    {
+      "sourceId": "ar18-h1",
+      "actualInspection": "Canonical existing www.nps.gov Stories page reopened. Actual public body lines 22–30 and last-updated line 33 read.",
+      "result": "PASS: descendant/family accounts and archival investigation are actual content. April 24, 2025 is a displayed update rather than a proven first-publication date. The brief page is supporting; linked letters, testimony, imagery and casualty counts do not enter the proposed synthesis. Retained home.nps.gov route is clearly described as an access route, not a second work."
+    },
+    {
+      "sourceId": "ar18-h2",
+      "actualInspection": "Saved sand-foundation-2017.pdf verified as 62 pages. Cover, actual printed introduction 2 (PDF 6), and printed 28–29 (PDF 32–33) read.",
+      "result": "PASS: cover establishes December 2017; introduction identifies a foundation for planning/management. Printed 28 states tribal histories inform interpretation and identifies further youth/oral-history opportunities. Printed 29 lists tribal vetting and revision of draft research and further review/input as needs. The proposed claim correctly presents dated institutional priorities, without implying that planned or proposed work was completed.",
+      "limits": "No sensitive site description, artifact/survey location, ceremonial detail, casualty total, record collection, map or source image is reproduced. Planning document does not establish one universal Arapaho position or current arrangements."
+    },
+    {
+      "sourceId": "ar18-h3",
+      "actualInspection": "Saved crm-v23n9.pdf verified as 56 pages. Issue cover and complete actual Alexa Roberts article on printed/PDF 43–46 read.",
+      "result": "PASS: cover establishes CRM 23(9), 2000; article byline and concluding author note identify Roberts and her NPS project role. Printed 43 explains sensitive intellectual-property concerns. Printed 44 explicitly describes the Northern Arapaho Tribe conducting its own project beginning April 1999 under a cooperative agreement. Printed 44–46 describe different Cheyenne arrangements. The claim does not merge those projects or reproduce their content.",
+      "rightsScope": "Permissions described for the original NPS report and archives do not establish Atlas permission to reuse tapes, transcripts or photographs. Packet correctly supplies only a public methodological summary and explicitly disclaims original-recording/media access. One article is one work; entire issue, individual interviews, bibliography and mirror add no counts.",
+      "accessProvenance": "Independent archive mirror is transparently named in source metadata. This audit read the saved actual article, without independently rechecking every archival-link redirect or asserting the mirror is an NPS-owned domain."
+    }
+  ],
+  "wordBudgetCheck": {
+    "method": "Whitespace-separated words in each source annotation + full contentReviewScope + every inspected-subresource scope + all supplied cited claim blocks. Final column adds rightsNote. No proposed overview. Citation locators/private evidence notes and metadata are not proposed public synthesis. Recompute if legacy body or overview is retained at integration.",
+    "claimCeiling": 75,
+    "combinedCeiling": 180,
+    "rows": [
+      {"sourceId": "ar18-n1", "annotation": 32, "scope": 22, "subscopes": 0, "claimWords": [52], "combined": 106, "includingRightsNote": 106},
+      {"sourceId": "ar18-n2", "annotation": 31, "scope": 24, "subscopes": 15, "claimWords": [49], "combined": 119, "includingRightsNote": 119},
+      {"sourceId": "ar18-n3", "annotation": 37, "scope": 27, "subscopes": 29, "claimWords": [60], "combined": 153, "includingRightsNote": 153},
+      {"sourceId": "ar18-n4", "annotation": 39, "scope": 23, "subscopes": 14, "claimWords": [64], "combined": 140, "includingRightsNote": 155},
+      {"sourceId": "ar18-h1", "annotation": 28, "scope": 22, "subscopes": 17, "claimWords": [49], "combined": 116, "includingRightsNote": 116},
+      {"sourceId": "ar18-h2", "annotation": 27, "scope": 33, "subscopes": 0, "claimWords": [57], "combined": 117, "includingRightsNote": 117},
+      {"sourceId": "ar18-h3", "annotation": 32, "scope": 31, "subscopes": 16, "claimWords": [63], "combined": 142, "includingRightsNote": 161}
+    ],
+    "maxClaimWords": 64,
+    "maxCombinedIncludingRights": 161,
+    "allWithinLimits": true,
+    "matchesNorthernPacketReportedCounts": true
+  },
+  "integrationReminders": [
+    "Use the four substantive works plus three honest supporting cards without elevating directories, brief Stories, indexes or subresources to meet a target.",
+    "Keep Northern Arapaho, Eastern Shoshone and Southern Arapaho peoples and governments distinct; a shared reservation, research project or public institution does not make one political body.",
+    "Keep 2006 policy, 2017 planning and 2019 research explicitly dated. Planned research, policy aspirations and observed participant experiences do not establish completed programs, current law or clinical effects.",
+    "Replace overlapping baseline text rather than append duplicate prose. Packet word budgets do not authorize additional legacy sections or a newly cited overview without a fresh combined count.",
+    "Original photographs, interviews, audio, transcripts and oral narratives remain outside the Atlas synthesis and asset permissions. No source discovery or further corrective research is required by this bounded audit."
+  ],
+  "canonicalOrSiteEdited": false
+}

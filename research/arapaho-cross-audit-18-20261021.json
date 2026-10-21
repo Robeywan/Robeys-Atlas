@@ -1,0 +1,129 @@
+{
+  "originalId": 18,
+  "reviewedAt": "2026-10-21",
+  "auditType": "Independent bounded cross-packet evidence and consistency review",
+  "reviewedPackets": [
+    "work/arapaho-southern-18-20261021.json",
+    "work/arapaho-language-history-18-20261021.json"
+  ],
+  "verdict": "No material factual-fit, reading-scope, date or work-count defect identified. Preserve the noted subresource schema normalization and recompute budgets against final integrated prose.",
+  "scope": {
+    "independentOfPacketAuthors": true,
+    "allPacketsRead": true,
+    "siteOrCanonicalEdited": false,
+    "newSourceDiscovery": false,
+    "contactOrDelegation": false,
+    "methods": [
+      "Read both complete packets and recomputed every supplied source's annotation, review scope, all subresource scopes and cited claim text. Checked citation references and plural count fields.",
+      "Viewed existing constitution scan images for PDF pages 2, 4, 8, 15, 18, 53 and 54. These confirm ratification, preamble, four branches, Tribal Council composition, legislative representation and appended correspondence dates. This is selected visual QA, not a complete constitution review.",
+      "Reopened the actual Tribal Tribune article, checking date, byline, Arapaho/Cheyenne attribution, college/work context, pronunciation discussion and teaching-certification aspirations.",
+      "Reopened actual Arapaho Project history and grammar bodies. Checked the separate publisher's grammar metadata, then followed its existing Download link to recover the same 19-page excerpt after a direct-open failure; examined the relevant aims and source-discussion text. No new work or substitute catalogue-only count introduced.",
+      "Read the saved Kelly/Cowell selected PDF extraction, especially pages 3–5 and conclusion on 10. Reopened the existing University of Virginia announcement to verify the article date independently of that announcement's date. No application, archive, audio or statistical reanalysis performed."
+    ],
+    "notFreshlyReperformed": [
+      "Did not repeat the Southern contributor's complete Language and Culture/government-navigation inspection; reviewed their supplied evidence record. The institutional language/culture body had also been encountered during the separate Northern pass, but no complete new inspection is claimed for this audit.",
+      "Did not recheck every branch-directory, constitution-hosting chain, underlying manuscript, corpus, recording, linked newspaper issue or article reference.",
+      "Did not independently establish present law, current citizenship eligibility, officeholders, speaker counts, teaching effectiveness or operational service availability."
+    ]
+  },
+  "countReview": {
+    "southernCards": 4,
+    "southernSubstantiveWorks": 3,
+    "southernSupportingCards": 1,
+    "languageHistoryCards": 4,
+    "languageHistorySubstantiveWorks": 4,
+    "combinedDistinctCards": 8,
+    "combinedSubstantiveWorks": 7,
+    "combinedSupportingCards": 1,
+    "citationIdsResolve": true,
+    "pluralCountFieldsCorrect": true,
+    "groupingChecks": [
+      "Language and Culture is one substantive institutional account; brief Government orientation is supporting-only. Renewals retain the original p18-s1/p18-s4 access routes without becoming duplicate cards.",
+      "The amended constitution is one work; cover, ratification page, amendments, official index and appended correspondence add no separate counts.",
+      "The Tribal Tribune Part I/Part II article is one dated work, not two articles or four interview-source counts.",
+      "The Arapaho Project language/grammar/lesson pages are one selected learning collection. The separate history narrative is a distinct work within the same project; shared institutional hosting alone is not an additional count or proof of independent corroboration.",
+      "The 2008 published reference grammar is a separate substantive work from the short online explanation. Catalogue, excerpt, complete book, underlying texts and any later edition remain one book count. Selected introduction reading does not become complete-book review.",
+      "The NSF-deposited Kelly/Cowell reading copy is one research article. The final journal issue, announcement and underlying recordings supply no additional work counts."
+    ]
+  },
+  "sourceChecks": [
+    {
+      "sourceId": "ar18-s1",
+      "result": "Pass within declared institutional scope",
+      "note": "The supplied block attributes language teaching and cultural responsibilities to the shared Oklahoma institution. It describes aims and activities without measured fluency, completed repatriation, current schedule or all-Arapaho authority. Distinct Cheyenne histories and languages are not transferred to Arapaho people."
+    },
+    {
+      "sourceId": "ar18-s2",
+      "result": "Pass as supporting orientation",
+      "note": "Four-branch navigation is a short access guide. The packet correctly avoids counting branch directories and changing officeholder lists as additional substantive evidence. The Northern/Oklahoma distinction is supplied separately rather than inferred from a single branch page."
+    },
+    {
+      "sourceId": "ar18-s3",
+      "result": "Pass on selected actual scans",
+      "note": "PDF 2 explicitly states April 4, 2006 ratification. PDF 4 supports the preamble summary. Article II on PDF 8 identifies four branches; Article V on PDF 15 identifies the adult member Tribal Council; Article VI on PDF 18 distinguishes four Cheyenne and four Arapaho legislative districts. PDF 53 is dated November 8, 2021; PDF 54 is dated January 12, 2023. The packet correctly treats this as an amended compilation, without declaring unchanged 2006 or verified current law. No enrollment threshold, current eligibility or district-boundary claim is adopted."
+    },
+    {
+      "sourceId": "ar18-s4",
+      "result": "Pass on actual article",
+      "note": "The actual posting date is February 16, 2023, while its link references the February 15 newspaper issue. Long and RomanNose are separately identified as Arapaho learners; Fletcher and Johnson are Cheyenne learners. Long's college/work context and RomanNose's pronunciation/continuing-learning account are supported. Certification is explicitly an aspiration in the source, not a completed outcome. Speaker estimates and unrelated participants' experiences remain excluded."
+    },
+    {
+      "sourceId": "p18-s5",
+      "result": "Pass on actual history body",
+      "note": "The historical narrative supports the river-valley/northern-southern differentiation, 1878 Northern move, assimilation pressures and later community-controlled education. Its undated contemporary language, employment and program assertions are not current measurements. Speculative migration identification, sweeping religious/language-loss judgments and treaty-ratification conclusions are correctly excluded."
+    },
+    {
+      "sourceId": "p18-s6",
+      "result": "Pass on actual grammar body, grouped once",
+      "note": "The text supports combining meaningful elements in words, verbal participant/tense/aspect information and a grammatical animacy distinction that cannot simply be predicted from living/nonliving properties. This is a substantive explanatory body within the collection, rather than navigation alone. No pronunciation assessment, audio listening, full curriculum, story or dictionary review is inferred."
+    },
+    {
+      "sourceId": "ar18-l2",
+      "result": "Pass on recovered original excerpt and metadata",
+      "note": "Publisher metadata explicitly gives authors and 2008 publication. The same original 19-page excerpt became readable by following the publisher's Download link; no bypass was used. Printed 4–5 supports communicative/pragmatic aims, corpus/source discussion, corrections to glosses and Moss's contributions. The publisher also explicitly describes a Wyoming/Oklahoma corpus. Current speaker counts and negative judgments about learners in the old introduction are not adopted.",
+      "optionalWordingPrecision": "The publisher explicitly describes Moss as a native Arapaho speaker from Wyoming. If relying only on the packet's quoted identity evidence, 'native-speaker coauthor' or simply 'coauthor' is narrower than inferring a political identity from fluency. This does not affect the book's substantive count."
+    },
+    {
+      "sourceId": "ar18-l3",
+      "result": "Pass on saved original text and announcement",
+      "note": "Selected PDF pages 3–5 support 2019–2020 sessions, iterative Commission collaboration, elder-selected contexts and usability/cultural-appropriateness review. Page 10 concerns elicited linguistic data and documentation design, without establishing fluent-learner outcomes. The university announcement explicitly lists May 26, 2023 for the article, despite its own February 16, 2024 date. Deposited placeholder volume/citation fields are not promoted into final publication metadata. Current speaker/vitality claims and sweeping media-effect assertions from the introduction remain excluded."
+    }
+  ],
+  "integrationRequirements": [
+    {
+      "priority": "Required schema normalization",
+      "sourceIds": ["ar18-s3", "p18-s6"],
+      "issue": "The constitution uses subresources with scope; the language collection uses subresources with contentReviewScope. The established Site renderer expects inspectedSubresources entries with scope.",
+      "action": "Normalize both structures when integrating, preserving each actual URL and its reading limit. The grammar URL is the substantive explanatory body underpinning p18-s6 and must remain visible. Preserve the official constitution publication route too.",
+      "siteEditedByAuditor": false
+    },
+    {
+      "priority": "Required final integrated budget check",
+      "issue": "Packet totals assume only supplied claim blocks. Legacy p18-s1 currently appears in more than one body section, and the old historical/language prose may otherwise be duplicated.",
+      "action": "Replace/redistribute overlapping legacy text, preserve original URLs and stable renewed IDs, and recompute every source across annotation, scope, subscopes, overview and all final cited prose. Merging a paragraph with multiple citations charges its full wording to each source."
+    }
+  ],
+  "wordBudgetReview": {
+    "method": "Independent whitespace count of annotation + full contentReviewScope + every subresource scope/contentReviewScope + all supplied cited claim text. No new overview or unpublished inspection notes counted as article prose.",
+    "sourceCeiling": 180,
+    "claimCeiling": 75,
+    "rows": [
+      {"sourceId": "ar18-s1", "publicWords": 133, "claimWords": 70},
+      {"sourceId": "ar18-s2", "publicWords": 101, "claimWords": 40},
+      {"sourceId": "ar18-s3", "publicWords": 148, "claimWords": 64},
+      {"sourceId": "ar18-s4", "publicWords": 137, "claimWords": 68},
+      {"sourceId": "p18-s5", "publicWords": 127, "claimWords": 66},
+      {"sourceId": "p18-s6", "publicWords": 148, "claimWords": 66},
+      {"sourceId": "ar18-l2", "publicWords": 138, "claimWords": 70},
+      {"sourceId": "ar18-l3", "publicWords": 130, "claimWords": 64}
+    ],
+    "allSuppliedWordsWithinLimits": true,
+    "finalIntegratedProseAudited": false
+  },
+  "overallLimits": [
+    "These findings concern the two named packets. My Northern Arapaho packet and the parent's Sand Creek or other additions are not independently audited here.",
+    "Northern Arapaho, Southern Arapaho, Cheyenne, Eastern Shoshone and Gros Ventre/Aaniiih remain distinct. Shared institutions, reservation geography, related languages and project participation do not collapse peoples or governments.",
+    "No current legal, membership, medical, demographic or educational-outcome conclusion is established. No source media, narratives, participant data or precise sensitive places are republished.",
+    "The count is evidence of particular inspected works, not an automatic profile-completion or hard twelve-source decision."
+  ]
+}
