@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-10-22",
-  "mapCount": 15,
-  "linkedEntryCount": 9,
+  "mapCount": 17,
+  "linkedEntryCount": 12,
   "connections": [
     {
       "originalId": 42,
@@ -270,6 +270,103 @@
       "mapId": "historical-creek-seminole-1902",
       "mapTitle": "Creek & Seminole Nations, Indian Territory",
       "mapRecordUrl": "https://www.loc.gov/item/2007627514/"
+    },
+    {
+      "originalId": 247,
+      "relationship": "Named historical reservation proposal",
+      "period": "1873 Wallowa Valley proposal and executive-order context",
+      "relevance": "The image title and archival description explicitly identify the Nez Perce. This offers a narrow reading route into federal treatment of Wallowa Valley land in 1873; it does not represent every Nez Perce community or a present government boundary.",
+      "observedMapFeature": "NEZ PERCE INDIANS, Wallowa Valley and OREGON in the title; red outlined tract beside labeled rivers and survey divisions.",
+      "evidence": [
+        {
+          "url": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho440.html",
+          "label": "University of Idaho: item description and archival provenance",
+          "pageReference": "Title, Description, Source and Rights fields",
+          "passageSummary": "Identifies a proposed Nez Perce reservation in the Wallowa Valley, dates it to 1873, attributes it to the Office of Indian Affairs, and supplies the NARA file reference and public-domain designation."
+        },
+        {
+          "url": "https://objects.lib.uidaho.edu/archivalidaho/archivalidaho440.jpg",
+          "label": "Actual archival map image",
+          "pageReference": "Left title and upper/right map field",
+          "passageSummary": "Visible title names Nez Perce and Wallowa Valley; red border and river/survey labels make the historical proposal legible."
+        },
+        {
+          "url": "https://www.lib.uidaho.edu/mcbeth/governmentdoc/txexecutive.htm",
+          "label": "1873 order: university transcription of a federal report",
+          "pageReference": "June 9 Office of Indian Affairs description and June 16 executive order; printed source cited as pages 765–766, Serial Set 1850",
+          "passageSummary": "Describes a proposed reservation diagram marked in red and the later executive order. Read as federal administrative language; no claim that the transcription reproduces the actual map image."
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Direct identification in both actual image and archive record, with related primary-text context.",
+      "uncertainty": "Individual drafter, exact drawing date and digitization date are not identified. The Wallowa proposal is in Oregon; its link to the Idaho-priority Nez Perce entry must not turn it into an Idaho reservation map.",
+      "profileSlug": "nez-perce-nimiipuu",
+      "profileName": "Nez Perce (Nimiipuu)",
+      "mapId": "historical-nez-perce-wallowa-1873",
+      "mapTitle": "Proposed Nez Perce reservation in the Wallowa Valley",
+      "mapRecordUrl": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho440.html"
+    },
+    {
+      "originalId": 265,
+      "relationship": "Community-specific historical map; catalogue-based connection",
+      "period": "1946 publication; Grand Portage community",
+      "relevance": "The catalogue credits the Grand Portage Band as co-author. Community and NPS sources identify Grand Portage with Ojibwe / Anishinaabe history in Minnesota. This is one community example within the broader directory entry; the map image remains uninspected.",
+      "evidence": [
+        {
+          "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian",
+          "label": "Rumsey catalogue: authors, date and copyright note",
+          "pageReference": "Author; Date; Note; Publisher; list number 10847.000"
+        },
+        {
+          "url": "https://www.grandportageband.com/",
+          "label": "Grand Portage Band: community and lands",
+          "pageReference": "Community and Tribal Lands & Resources sections"
+        },
+        {
+          "url": "https://www.nps.gov/grpo/learn/historyculture/index.htm",
+          "label": "Grand Portage: Ojibwe / Anishinaabe community context",
+          "pageReference": "Homeland of the Grand Portage Anishinaabe"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Actual archive catalogue and community context read; no map image inspection.",
+      "uncertainty": "No claim of representation of every Ojibwe or Anishinaabe nation, present boundaries or current community endorsement.",
+      "profileSlug": "ojibwe",
+      "profileName": "Ojibwe",
+      "mapId": "historical-grand-portage-1946",
+      "mapTitle": "Historical Map Grand Portage Indian Reservation",
+      "mapRecordUrl": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian"
+    },
+    {
+      "originalId": 14,
+      "relationship": "Community-specific historical map; catalogue-based connection",
+      "period": "1946 publication; Grand Portage community",
+      "relevance": "The catalogue credits the Grand Portage Band as co-author. Community and NPS sources identify Grand Portage with Ojibwe / Anishinaabe history in Minnesota. This is one community example within the broader directory entry; the map image remains uninspected.",
+      "evidence": [
+        {
+          "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian",
+          "label": "Rumsey catalogue: authors, date and copyright note",
+          "pageReference": "Author; Date; Note; Publisher; list number 10847.000"
+        },
+        {
+          "url": "https://www.grandportageband.com/",
+          "label": "Grand Portage Band: community and lands",
+          "pageReference": "Community and Tribal Lands & Resources sections"
+        },
+        {
+          "url": "https://www.nps.gov/grpo/learn/historyculture/index.htm",
+          "label": "Grand Portage: Ojibwe / Anishinaabe community context",
+          "pageReference": "Homeland of the Grand Portage Anishinaabe"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Actual archive catalogue and community context read; no map image inspection.",
+      "uncertainty": "No claim of representation of every Ojibwe or Anishinaabe nation, present boundaries or current community endorsement.",
+      "profileSlug": "anishinaabe",
+      "profileName": "Anishinaabe",
+      "mapId": "historical-grand-portage-1946",
+      "mapTitle": "Historical Map Grand Portage Indian Reservation",
+      "mapRecordUrl": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian"
     }
   ]
 }

@@ -354,7 +354,7 @@
       "viewerUrl": "https://texashistory.unt.edu/ark:/67531/metapth192751/",
       "credit": "University of Texas at Arlington Library / UNT Libraries, The Portal to Texas History.",
       "rights": {
-        "statement": "The item-specific page leaves copyright status undetermined and permits links. Do not embed this copy.",
+        "statement": "The Portal permits linking and makes the item available for research, teaching and private study. It states that this digital object’s copyright status has not been determined. No image is reproduced here.",
         "url": "https://texashistory.unt.edu/ark:/67531/metapth192751/citation/"
       },
       "annotation": "Powell grouped North American Indigenous languages into the linguistic stocks used by nineteenth-century federal ethnology. Read this as a historical classification project, including its names and large colored areas, alongside language and community accounts. These areas do not establish present boundaries.",
@@ -367,8 +367,8 @@
       ],
       "preview": null,
       "inspection": {
-        "scope": "Read item metadata, item-specific rights and IIIF manifest. Image opening failed; no visual claim.",
-        "reviewedAt": "2026-10-21"
+        "scope": "Read the actual item metadata and item-specific Citations, Rights, Re-Use page on October 22. Prior IIIF manifest review is retained. No successful map image inspection; no individual-profile association inferred from the broad language-group description.",
+        "reviewedAt": "2026-10-22"
       },
       "profileLinks": []
     },
@@ -777,6 +777,174 @@
           "reviewedAt": "2026-10-22",
           "inspectionScope": "Named-subject association from actual archive guide; original map image remains uninspected.",
           "uncertainty": "Historical administrative representation; no image transcription, exclusivity, modern-government equivalence or authorship by either people is established."
+        }
+      ]
+    },
+    {
+      "id": "historical-nez-perce-wallowa-1873",
+      "title": "Proposed Nez Perce reservation in the Wallowa Valley",
+      "historicalTitle": "Map of Proposed Nez Perce Reservation",
+      "creator": "Office of Indian Affairs, U.S. Department of the Interior (archive attribution; individual drafter unidentified)",
+      "dateLabel": "1873",
+      "year": 1873,
+      "dateNote": "The archive dates the map to 1873. A related federal text describes a reservation diagram on June 9, 1873, followed by the June 16 executive order. The map image has not independently established an exact drawing date.",
+      "archive": "University of Idaho Library, Archival Idaho Photograph Collection; source document at the U.S. National Archives",
+      "recordUrl": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho440.html",
+      "viewerUrl": "https://objects.lib.uidaho.edu/archivalidaho/archivalidaho440.jpg",
+      "contextUrl": "https://www.lib.uidaho.edu/mcbeth/governmentdoc/txexecutive.htm",
+      "credit": "Office of Indian Affairs, Department of the Interior; NARA, RG 75, E107, Executive Order File, Box 2, Wallowa Valley. Digital image: University of Idaho Library, Archival Idaho Photograph Collection, NARA16DC2.",
+      "rights": {
+        "statement": "The University of Idaho item record identifies the material as public domain and supplies Public Domain Mark 1.0. This is a public-domain designation, not a Creative Commons license imposing attribution conditions. Archive and source credits are retained.",
+        "url": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho440.html"
+      },
+      "annotation": "This federal map outlines a proposed reservation in northeastern Oregon. Its title explicitly names Nez Perce people and the Wallowa Valley; red lines, rivers and survey divisions explain the proposed tract. Read it alongside the government's 1873 order. The map records an administrative proposal rather than the full Nez Perce homeland or present boundaries.",
+      "perspective": "Federal reservation administration",
+      "regions": [
+        "Northwest",
+        "Oregon"
+      ],
+      "subjects": [
+        "History",
+        "Reservation proposals"
+      ],
+      "preview": {
+        "path": "assets/historical-maps/nez-perce-wallowa-1873.jpg",
+        "width": 3286,
+        "height": 2243,
+        "alt": "1873 federal map of a proposed Nez Perce reservation in Oregon's Wallowa Valley, with a red boundary, rivers and survey grid; the archive image clips some outer text and edges.",
+        "changes": "Original archive-delivered JPEG retained without image alteration. Display the complete available digital frame. The supplied archive image itself clips part of the left title and outer map edges; it is not a complete-sheet scan claim. No generated content.",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "licenseLabel": "Public Domain Mark 1.0",
+        "sourceImageUrl": "https://objects.lib.uidaho.edu/archivalidaho/archivalidaho440.jpg",
+        "visualInspection": {
+          "reviewedAt": "2026-10-22",
+          "scope": "Actual downloaded 3286 by 2243 archive JPEG inspected visually (tool display resized to 1920 by 1310). Title, red border, Grand Ronde River, West Fork, Wallowa River and survey-grid context read. No unseen manuscript portions claimed."
+        }
+      },
+      "inspection": {
+        "scope": "Full University of Idaho item record, actual archive JPEG and linked Public Domain Mark read. Related university transcription of the 1873 federal order also read. The original physical NARA document was not inspected. The digital frame has clipped outer content; finer or missing text is not transcribed.",
+        "reviewedAt": "2026-10-22"
+      },
+      "profileLinks": [
+        {
+          "originalId": 247,
+          "relationship": "Named historical reservation proposal",
+          "period": "1873 Wallowa Valley proposal and executive-order context",
+          "relevance": "The image title and archival description explicitly identify the Nez Perce. This offers a narrow reading route into federal treatment of Wallowa Valley land in 1873; it does not represent every Nez Perce community or a present government boundary.",
+          "observedMapFeature": "NEZ PERCE INDIANS, Wallowa Valley and OREGON in the title; red outlined tract beside labeled rivers and survey divisions.",
+          "evidence": [
+            {
+              "url": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho440.html",
+              "label": "University of Idaho: item description and archival provenance",
+              "pageReference": "Title, Description, Source and Rights fields",
+              "passageSummary": "Identifies a proposed Nez Perce reservation in the Wallowa Valley, dates it to 1873, attributes it to the Office of Indian Affairs, and supplies the NARA file reference and public-domain designation."
+            },
+            {
+              "url": "https://objects.lib.uidaho.edu/archivalidaho/archivalidaho440.jpg",
+              "label": "Actual archival map image",
+              "pageReference": "Left title and upper/right map field",
+              "passageSummary": "Visible title names Nez Perce and Wallowa Valley; red border and river/survey labels make the historical proposal legible."
+            },
+            {
+              "url": "https://www.lib.uidaho.edu/mcbeth/governmentdoc/txexecutive.htm",
+              "label": "1873 order: university transcription of a federal report",
+              "pageReference": "June 9 Office of Indian Affairs description and June 16 executive order; printed source cited as pages 765–766, Serial Set 1850",
+              "passageSummary": "Describes a proposed reservation diagram marked in red and the later executive order. Read as federal administrative language; no claim that the transcription reproduces the actual map image."
+            }
+          ],
+          "reviewedAt": "2026-10-22",
+          "inspectionScope": "Direct identification in both actual image and archive record, with related primary-text context.",
+          "uncertainty": "Individual drafter, exact drawing date and digitization date are not identified. The Wallowa proposal is in Oregon; its link to the Idaho-priority Nez Perce entry must not turn it into an Idaho reservation map."
+        }
+      ]
+    },
+    {
+      "id": "historical-grand-portage-1946",
+      "title": "Historical Map Grand Portage Indian Reservation",
+      "creator": "Ralph M. Shane and Grand Portage Band of Chippewa Indians (catalogued authors)",
+      "dateLabel": "1946",
+      "year": 1946,
+      "archive": "David Rumsey Historical Map Collection",
+      "recordUrl": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian",
+      "viewerUrl": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian",
+      "contextUrl": "https://www.nps.gov/grpo/learn/historyculture/index.htm",
+      "credit": "Ralph M. Shane and Grand Portage Band of Chippewa Indians; W. A. Fisher Company, Virginia, Minnesota, 1946. David Rumsey Historical Map Collection, list 10847.000.",
+      "rights": {
+        "statement": "The catalogue records a 1946 copyright notice naming the Grand Portage Band of Chippewa Indians. Item-specific image reproduction permission has not been established; archive link only.",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian"
+      },
+      "annotation": "A historical map catalogued under Ralph M. Shane and the Grand Portage Band. It offers a community-specific reading route for Grand Portage, Minnesota. The archive labels its region Wisconsin; community and NPS sources place this Grand Portage in Minnesota. The map image remains uninspected.",
+      "perspective": "Historical map with tribal co-authorship credited by the catalogue",
+      "regions": [
+        "Great Lakes",
+        "Minnesota"
+      ],
+      "subjects": [
+        "Grand Portage",
+        "Ojibwe",
+        "Anishinaabe",
+        "Historical cartography"
+      ],
+      "preview": null,
+      "dateNote": "Publication year and authorship are catalogue evidence. No independent image transcription or copy-date verification is claimed.",
+      "inspection": {
+        "reviewedAt": "2026-10-22",
+        "recordRead": true,
+        "imageViewed": false,
+        "scope": "Read the actual catalogue fields and the Grand Portage Band and NPS community pages. The exact linked archive preview returned HTTP 404. Its generic descriptive summary is not treated as verified image content. Wisconsin catalogue geography conflicts with the community-specific Minnesota evidence; that discrepancy is disclosed."
+      },
+      "profileLinks": [
+        {
+          "originalId": 265,
+          "relationship": "Community-specific historical map; catalogue-based connection",
+          "period": "1946 publication; Grand Portage community",
+          "relevance": "The catalogue credits the Grand Portage Band as co-author. Community and NPS sources identify Grand Portage with Ojibwe / Anishinaabe history in Minnesota. This is one community example within the broader directory entry; the map image remains uninspected.",
+          "evidence": [
+            {
+              "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian",
+              "label": "Rumsey catalogue: authors, date and copyright note",
+              "pageReference": "Author; Date; Note; Publisher; list number 10847.000"
+            },
+            {
+              "url": "https://www.grandportageband.com/",
+              "label": "Grand Portage Band: community and lands",
+              "pageReference": "Community and Tribal Lands & Resources sections"
+            },
+            {
+              "url": "https://www.nps.gov/grpo/learn/historyculture/index.htm",
+              "label": "Grand Portage: Ojibwe / Anishinaabe community context",
+              "pageReference": "Homeland of the Grand Portage Anishinaabe"
+            }
+          ],
+          "reviewedAt": "2026-10-22",
+          "inspectionScope": "Actual archive catalogue and community context read; no map image inspection.",
+          "uncertainty": "No claim of representation of every Ojibwe or Anishinaabe nation, present boundaries or current community endorsement."
+        },
+        {
+          "originalId": 14,
+          "relationship": "Community-specific historical map; catalogue-based connection",
+          "period": "1946 publication; Grand Portage community",
+          "relevance": "The catalogue credits the Grand Portage Band as co-author. Community and NPS sources identify Grand Portage with Ojibwe / Anishinaabe history in Minnesota. This is one community example within the broader directory entry; the map image remains uninspected.",
+          "evidence": [
+            {
+              "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333234~90101467:Historical-Map-Grand-Portage-Indian",
+              "label": "Rumsey catalogue: authors, date and copyright note",
+              "pageReference": "Author; Date; Note; Publisher; list number 10847.000"
+            },
+            {
+              "url": "https://www.grandportageband.com/",
+              "label": "Grand Portage Band: community and lands",
+              "pageReference": "Community and Tribal Lands & Resources sections"
+            },
+            {
+              "url": "https://www.nps.gov/grpo/learn/historyculture/index.htm",
+              "label": "Grand Portage: Ojibwe / Anishinaabe community context",
+              "pageReference": "Homeland of the Grand Portage Anishinaabe"
+            }
+          ],
+          "reviewedAt": "2026-10-22",
+          "inspectionScope": "Actual archive catalogue and community context read; no map image inspection.",
+          "uncertainty": "No claim of representation of every Ojibwe or Anishinaabe nation, present boundaries or current community endorsement."
         }
       ]
     }
