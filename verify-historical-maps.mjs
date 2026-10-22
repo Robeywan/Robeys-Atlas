@@ -5,7 +5,7 @@ const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const source=read('data/historical-maps.json'),c=read('dist/data/historical-maps.json'),ids=new Set(),records=new Set();
 assert.equal(source.maps.length,c.maps.length);
 assert(c.maps.length>=12);
-const prior=JSON.parse(execFileSync('git',['show','67f95f50ccdd54e19385aef8c67d080efc0f0bf4:data/historical-maps.json'],{maxBuffer:20e6}));
+const prior=JSON.parse(execFileSync('git',['show','306f8282ffb7f1333ad809c200c46beea1896a08:data/historical-maps.json'],{maxBuffer:20e6}));
 for(const m of prior.maps)assert(c.maps.some(n=>n.id===m.id),'Prior map preserved: '+m.id);
 const profiles=read('dist/data/profiles.json');
 let connections=0;
@@ -34,7 +34,7 @@ assert(fs.readFileSync('dist/index.html','utf8').includes('Explore '+c.maps.leng
 assert(html.includes('id="historic-people"'));
 for(const m of c.maps)for(const l of m.profileLinks||[])assert(html.includes('../nations/'+l.profileSlug+'/#historical-maps'));
 for(const file of ['data/profiles.json','data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson']){
- const baseline=execFileSync('git',['show','67f95f50ccdd54e19385aef8c67d080efc0f0bf4:'+file],{maxBuffer:50e6});
+ const baseline=execFileSync('git',['show','306f8282ffb7f1333ad809c200c46beea1896a08:'+file],{maxBuffer:50e6});
  assert.deepEqual(JSON.parse(baseline),read(file),file+' preserved');
 }
 console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));

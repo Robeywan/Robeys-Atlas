@@ -442,7 +442,28 @@
         "scope": "Read full indexed LOC item and relevant LOC guide entry. Direct item/viewer requests returned 403.",
         "reviewedAt": "2026-10-21"
       },
-      "profileLinks": []
+      "profileLinks": [
+        {
+          "originalId": 65,
+          "relationship": "Named historical subject; federal land administration",
+          "period": "1900",
+          "relevance": "The archive identifies Choctaw Nation as the subject and describes allotments, selections and coal leases. This provides historical administrative context, not present-day jurisdiction.",
+          "evidence": [
+            {
+              "url": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+              "label": "LOC guide: Map of Choctaw Nation, 1900",
+              "pageReference": "Digitized Maps, Map of Choctaw Nation, 1900; item caption and accompanying paragraph",
+              "detail": "Actual guide names Choctaw Nation and identifies allotment and lease context."
+            }
+          ],
+          "reviewedAt": "2026-10-22",
+          "inspectionScope": "Actual archive guide and saved indexed record metadata; map image remains uninspected.",
+          "uncertainty": "No image-label transcription or present government boundaries asserted.",
+          "profileSlug": "choctaw",
+          "profileName": "Choctaw"
+        }
+      ],
+      "contextUrl": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory"
     },
     {
       "id": "regional-desmet-1851",
@@ -706,6 +727,80 @@
       },
       "fullSourceUrl": "https://dlg.galileo.usg.edu/data/guan/4209/pdfs/guan_4209_harg4209-001-001-001.pdf",
       "fullSourceLabel": "View both PDF pages"
+    },
+    {
+      "id": "historical-creek-seminole-1902",
+      "title": "Creek & Seminole Nations, Indian Territory",
+      "historicalTitle": "Creek & Seminole Nations, Indian territory: compiled from the United States Survey",
+      "creator": "C. H. Dana; U.S. Department of the Interior, Commission to the Five Civilized Tribes",
+      "dateLabel": "[1902]",
+      "year": 1902,
+      "archive": "Library of Congress, Geography and Map Division",
+      "recordUrl": "https://www.loc.gov/item/2007627514/",
+      "viewerUrl": "https://www.loc.gov/item/2007627514/",
+      "contextUrl": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+      "credit": "Library of Congress, Geography and Map Division; compiled and drawn by C. H. Dana.",
+      "rights": {
+        "statement": "Item-specific reproduction terms have not been newly verified; archive link only, with no preview reproduced.",
+        "url": "https://www.loc.gov/item/2007627514/"
+      },
+      "annotation": "A federal survey-based map of the Creek and Seminole Nations in Indian Territory, dated [1902] by the archive. The Library of Congress guide identifies its historical subjects; the original image remains uninspected. Read its administrative viewpoint alongside community accounts.",
+      "perspective": "Federal survey / administration",
+      "regions": [
+        "Indian Territory",
+        "Oklahoma"
+      ],
+      "subjects": [
+        "Creek Nation",
+        "Seminole Nation",
+        "Historical administration"
+      ],
+      "preview": null,
+      "inspection": {
+        "scope": "Read the actual Library of Congress guide caption and description for this map. The direct item request returned HTTP 403; the individual item record and map image were not inspected.",
+        "reviewedAt": "2026-10-22",
+        "recordRead": false,
+        "imageViewed": false,
+        "guideRead": true
+      },
+      "profileLinks": [
+        {
+          "originalId": 232,
+          "relationship": "Named historical subject in archival guide",
+          "period": "[1902]",
+          "relevance": "The archive identifies the Creek and Seminole Nations as the map’s historical subjects. No current boundaries or particular modern government are inferred.",
+          "evidence": [
+            {
+              "url": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+              "label": "LOC guide: Creek and Seminole Nations, 1902",
+              "pageReference": "Digitized Maps, Map of the Creek and Seminole Nations, 1902; caption and description"
+            }
+          ],
+          "reviewedAt": "2026-10-22",
+          "inspectionScope": "Named-subject association from actual archive guide; original map image remains uninspected.",
+          "uncertainty": "Historical administrative representation; no image transcription, exclusivity, modern-government equivalence or authorship by either people is established.",
+          "profileSlug": "muscogee-creek",
+          "profileName": "Muscogee (Creek)"
+        },
+        {
+          "originalId": 340,
+          "relationship": "Named historical subject in archival guide",
+          "period": "[1902]",
+          "relevance": "The archive identifies the Creek and Seminole Nations as the map’s historical subjects. No current boundaries or particular modern government are inferred.",
+          "evidence": [
+            {
+              "url": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+              "label": "LOC guide: Creek and Seminole Nations, 1902",
+              "pageReference": "Digitized Maps, Map of the Creek and Seminole Nations, 1902; caption and description"
+            }
+          ],
+          "reviewedAt": "2026-10-22",
+          "inspectionScope": "Named-subject association from actual archive guide; original map image remains uninspected.",
+          "uncertainty": "Historical administrative representation; no image transcription, exclusivity, modern-government equivalence or authorship by either people is established.",
+          "profileSlug": "seminole",
+          "profileName": "Seminole"
+        }
+      ]
     }
   ]
 }

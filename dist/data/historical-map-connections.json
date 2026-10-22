@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-10-22",
-  "mapCount": 14,
-  "linkedEntryCount": 7,
+  "mapCount": 15,
+  "linkedEntryCount": 9,
   "connections": [
     {
       "originalId": 42,
@@ -166,6 +166,28 @@
       "mapRecordUrl": "https://www.loc.gov/item/97683586/"
     },
     {
+      "originalId": 65,
+      "relationship": "Named historical subject; federal land administration",
+      "period": "1900",
+      "relevance": "The archive identifies Choctaw Nation as the subject and describes allotments, selections and coal leases. This provides historical administrative context, not present-day jurisdiction.",
+      "evidence": [
+        {
+          "url": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+          "label": "LOC guide: Map of Choctaw Nation, 1900",
+          "pageReference": "Digitized Maps, Map of Choctaw Nation, 1900; item caption and accompanying paragraph",
+          "detail": "Actual guide names Choctaw Nation and identifies allotment and lease context."
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Actual archive guide and saved indexed record metadata; map image remains uninspected.",
+      "uncertainty": "No image-label transcription or present government boundaries asserted.",
+      "profileSlug": "choctaw",
+      "profileName": "Choctaw",
+      "mapId": "historical-choctaw-nation-1900",
+      "mapTitle": "Map of Choctaw Nation, Indian territory: compiled from official records of the United States Geological Survey",
+      "mapRecordUrl": "https://www.loc.gov/item/2007627519/"
+    },
+    {
       "originalId": 51,
       "relationship": "Named subject of historical map",
       "period": "1760",
@@ -206,6 +228,48 @@
       "mapId": "historical-okefenokee-seminole-1837-1838",
       "mapTitle": "Second Seminole War: Okefenokee region manuscript map",
       "mapRecordUrl": "https://dlg.usg.edu/record/guan_4209_harg4209-001-001-001"
+    },
+    {
+      "originalId": 232,
+      "relationship": "Named historical subject in archival guide",
+      "period": "[1902]",
+      "relevance": "The archive identifies the Creek and Seminole Nations as the map’s historical subjects. No current boundaries or particular modern government are inferred.",
+      "evidence": [
+        {
+          "url": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+          "label": "LOC guide: Creek and Seminole Nations, 1902",
+          "pageReference": "Digitized Maps, Map of the Creek and Seminole Nations, 1902; caption and description"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Named-subject association from actual archive guide; original map image remains uninspected.",
+      "uncertainty": "Historical administrative representation; no image transcription, exclusivity, modern-government equivalence or authorship by either people is established.",
+      "profileSlug": "muscogee-creek",
+      "profileName": "Muscogee (Creek)",
+      "mapId": "historical-creek-seminole-1902",
+      "mapTitle": "Creek & Seminole Nations, Indian Territory",
+      "mapRecordUrl": "https://www.loc.gov/item/2007627514/"
+    },
+    {
+      "originalId": 340,
+      "relationship": "Named historical subject in archival guide",
+      "period": "[1902]",
+      "relevance": "The archive identifies the Creek and Seminole Nations as the map’s historical subjects. No current boundaries or particular modern government are inferred.",
+      "evidence": [
+        {
+          "url": "https://guides.loc.gov/native-american-spaces/cartographic-resources/indian-territory",
+          "label": "LOC guide: Creek and Seminole Nations, 1902",
+          "pageReference": "Digitized Maps, Map of the Creek and Seminole Nations, 1902; caption and description"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Named-subject association from actual archive guide; original map image remains uninspected.",
+      "uncertainty": "Historical administrative representation; no image transcription, exclusivity, modern-government equivalence or authorship by either people is established.",
+      "profileSlug": "seminole",
+      "profileName": "Seminole",
+      "mapId": "historical-creek-seminole-1902",
+      "mapTitle": "Creek & Seminole Nations, Indian Territory",
+      "mapRecordUrl": "https://www.loc.gov/item/2007627514/"
     }
   ]
 }
