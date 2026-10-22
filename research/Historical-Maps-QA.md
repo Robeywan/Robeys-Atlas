@@ -1,0 +1,3 @@
+# Historical map library QA
+
+Twelve authentic archive records; one actual-image preview inspected. Search Catawba returned1/12; unmatched search returned0/12 and a helpful empty state; Reset restored12/12; Canada filter returned1/12. Desktop rendered library/cards inspected. Static no-JS routes and all archive links are present in HTML. Responsive CSS included; narrow viewport not visually inspected in this batch. Existing470 profiles and map geometry/association data preserved. Native archive access limits recorded rather than bypassed. Source cards are not added to profile inspected-resource counts.
