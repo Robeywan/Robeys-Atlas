@@ -1,0 +1,23 @@
+{
+  "reviewedAt": "2026-10-21",
+  "status": "Pass",
+  "baselineCommit": "65ec0cc938023b41499fa0833d1a050cac9abd94",
+  "checks": {
+    "exactURLs": 27,
+    "suppliedBibliographyLabels": 27,
+    "baselineDocuments": 16,
+    "baselineDistinctURLs": 301,
+    "documents": 17,
+    "distinctURLs": 328,
+    "changedProfileIds": [
+      358
+    ],
+    "onlyTargetResearchLeadsChanged": true,
+    "substantiveSourcesAndNarrativesUnchanged": true,
+    "allPriorURLsPreserved": true,
+    "privatePathHashOrLongProseDetected": false,
+    "externalSourcesInspected": 0
+  },
+  "issues": [],
+  "limits": "Read-only data/provenance QA against anchored pre-update commit and private extraction. No source-content, bibliography correctness or deployed-render review."
+}
