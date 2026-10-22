@@ -1,0 +1,117 @@
+{
+  "reviewedAt": "2026-10-22",
+  "mapId": "hm-north-catawba",
+  "purpose": "Three educational links from a historical map to existing people-level profiles; no present territorial or governmental equivalence is asserted.",
+  "inspection": {
+    "imageViewed": true,
+    "scope": "Viewed the actual supplied full-frame image at original detail. Read Nasaw in the large central-right circle, Cherrikies in the upper-right circle, and Chickisa in the far-right circle. No image alteration or inferred unlabeled people.",
+    "transcriptionNote": "Nasaw is a modern transcription of the historical lettering; the long-s resembles f. The historical spellings Cherrikies and Chickisa are retained as map labels, not current preferred names.",
+    "catalogueRead": "Read the existing historical-maps.json Catawba record and the earlier historical-maps-north-20261021.json notes. Their October 21 image-unviewed statement records an earlier inspection state; this supplied image was viewed October 22.",
+    "provenanceLimit": "The image bears a small British Museum Add. MS. 4723 label. Its exact digital-file provenance and identity as a particular later photographic reproduction were not established. Do not silently describe these supplied pixels as the LOC 1929 photostat."
+  },
+  "context": {
+    "period": "Underlying Indigenous draught presented around 1721; surviving colonial copies and later reproductions.",
+    "dateAndCopyingNote": "LOC's guide distinguishes presentation around 1721 from its 1929 color photostat, catalogued under a 1724 call number. The supplied image should therefore not be described as an intact original 1721 deerskin or as made in 1929 without identifying its reproduction.",
+    "authorshipNote": "Maker identity remains uncertain. LOC's guide allows Catawba or Cherokee attribution; its 2016 article says Catawba authorship is believed. Representation of a people on the map does not establish that people's authorship.",
+    "interpretationNote": "The explanations emphasize relationships and routes. Circle size, adjacency, and connecting lines do not supply surveyed borders or a uniform geographic scale."
+  },
+  "sourcesInspected": [
+    {
+      "id": "catawba-association-loc-2016",
+      "title": "Celebrating Native American Cartography: The Catawba Deerskin Map",
+      "author": "Tim St. Onge",
+      "publisher": "Library of Congress, Worlds Revealed",
+      "publishedAt": "2016-11-30",
+      "url": "https://blogs.loc.gov/maps/2016/11/celebrating-native-american-cartography-the-catawba-deerskin-map/",
+      "scope": "Read the complete article body, excluding reader comments: copying history, Nasaw identification, orientation, and network interpretation. Web lines 200–219 at inspection.",
+      "limit": "Archive interpretation rather than a named Indigenous maker's testimony. Reader-comment authorship claims were excluded."
+    },
+    {
+      "id": "catawba-association-newberry",
+      "title": "Historic Maps in K–12 Classrooms — Map 2 Curator's Notes",
+      "publisher": "The Newberry Library",
+      "publicationDateNote": "Copyright 2002, 2003; revision date unestablished.",
+      "url": "https://publications.newberry.org/k12maps/module_02/curator.html",
+      "scope": "Complete curator text read, especially upper-right circles and scale; lines 3–10.",
+      "limit": "Maker attribution is stronger than LOC's; retain uncertainty."
+    },
+    {
+      "id": "catawba-association-loc-guide",
+      "title": "Native American Spaces — Featured Selection of Maps, section 2",
+      "publisher": "Library of Congress",
+      "publicationDateNote": "Guide displays last updated July 21, 2025; this is not the map's creation date.",
+      "url": "https://guides.loc.gov/native-american-spaces/featured-maps",
+      "scope": "Read section 2 on the Catawba deerskin map, including its reproduction description and uncertain maker attribution. Web lines 16–23 at inspection.",
+      "limit": "The direct item record at https://www.loc.gov/item/2005625337/ returned 403 on October 22; no new direct-item inspection is claimed."
+    }
+  ],
+  "associations": [
+    {
+      "originalId": 42,
+      "name": "Catawba",
+      "relationship": "Historical community represented: Nasaw",
+      "period": "Network represented around 1721; surviving copy/reproduction history differs.",
+      "relevance": "Nasaw occupies the largest central circle. LOC identifies it as a central Catawba community, making this an educational link to Catawba history and relationships rather than proof of the maker's identity.",
+      "observedMapLabel": "Nasaw",
+      "observedLocation": "Largest circle near the center-right; also named in the path inscription below-left.",
+      "evidence": [
+        {
+          "url": "https://blogs.loc.gov/maps/2016/11/celebrating-native-american-cartography-the-catawba-deerskin-map/",
+          "pageReference": "Paragraph beginning The map is a stylistic representation; web lines 212–213.",
+          "passageSummary": "Explicitly identifies Nasaw as a central community of the Catawba Nation and describes the path inscription."
+        }
+      ],
+      "inspectionDate": "2026-10-22",
+      "inspectionScope": "Actual supplied label plus archive explanation of the named community.",
+      "uncertainty": "Nasaw denotes a particular historical community; this link neither equates it with every Catawba community nor identifies the anonymous maker."
+    },
+    {
+      "originalId": 51,
+      "name": "Cherokee",
+      "relationship": "Represented historical people",
+      "period": "ca.1721 network",
+      "relevance": "Cherrikies appears in the upper-right circle. Newberry explicitly identifies Cherokee among these represented communities. The link concerns historical representation.",
+      "observedMapLabel": "Cherrikies",
+      "observedLocation": "Upper-right, above-left of Chickisa.",
+      "evidence": [
+        {
+          "url": "https://publications.newberry.org/k12maps/module_02/curator.html",
+          "pageReference": "Curator's Notes, paragraph The headman also emphasized; line 9.",
+          "passageSummary": "Identifies Cherokee and Chickasaw among upper-right circles."
+        }
+      ],
+      "inspectionDate": "2026-10-22",
+      "inspectionScope": "Image and curator text.",
+      "uncertainty": "No present government, borders, or authorship determined."
+    },
+    {
+      "originalId": 55,
+      "name": "Chickasaw",
+      "relationship": "Represented historical people",
+      "period": "ca.1721 network",
+      "relevance": "Chickisa appears in the far-right circle. Newberry explicitly identifies Chickasaw among these represented communities. The link concerns historical representation.",
+      "observedMapLabel": "Chickisa",
+      "observedLocation": "Far-right, below-right of Cherrikies.",
+      "evidence": [
+        {
+          "url": "https://publications.newberry.org/k12maps/module_02/curator.html",
+          "pageReference": "Same Curator's Notes paragraph; line 9.",
+          "passageSummary": "Identifies Chickasaw; adjacent discussion warns about uneven scale."
+        }
+      ],
+      "inspectionDate": "2026-10-22",
+      "inspectionScope": "Image and curator text.",
+      "uncertainty": "No specific town, present jurisdiction, or authorship determined."
+    }
+  ],
+  "excludedInferences": [
+    "No additional peoples identified from unlabeled circles, resemblance, or modern state location.",
+    "No exact modern coordinates, territorial polygons, land-title conclusions, or universal political alliances derived.",
+    "No attribution of authorship to Cherokee merely because its name appears; no definite Catawba maker inferred from the conventional map title.",
+    "No source-count or research-depth promotion for destination profiles; these are map relationships only."
+  ],
+  "unresolved": [
+    "Precise provenance of the owner-supplied digital reproduction remains unverified; archival subject identification is stronger than file-level provenance.",
+    "Other historical map labels were outside this three-association pass."
+  ]
+}

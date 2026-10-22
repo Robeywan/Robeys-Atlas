@@ -1,0 +1,130 @@
+{
+  "reviewedAt": "2026-10-22",
+  "reviewType": "Bounded independent read-only integration and generated-output QA",
+  "result": "Functional checks passed; one date/provenance wording correction identified and accepted by the parent for implementation and rebuild.",
+  "independenceLimit": "Reviewer previously authored the Catawba evidence packet. Its integration was checked against that packet; Manatus and the two additional-map packets were reviewed independently. No fresh external source review or browser inspection was performed during this QA.",
+  "filesRead": [
+    "work/nations-atlas/historical-maps-build.mjs",
+    "work/nations-atlas/build.mjs",
+    "work/nations-atlas/data/historical-maps.json",
+    "work/nations-atlas/dist/historical-maps.js",
+    "work/nations-atlas/dist/historical-maps/index.html",
+    "work/nations-atlas/dist/data/historical-maps.json",
+    "work/nations-atlas/dist/data/historical-map-connections.json",
+    "work/nations-atlas/dist/about/index.html",
+    "Seven linked generated profile pages",
+    "work/map-associations-catawba-20261022.json",
+    "work/map-associations-manatus-20261022.json",
+    "work/historical-maps-additions-20261022.json"
+  ],
+  "checks": [
+    {
+      "name": "Counts and evidence scope",
+      "status": "passed",
+      "mapCount": 14,
+      "routeCount": 8,
+      "linkedEntryCount": 7,
+      "linkedMapCount": 4,
+      "note": "Eight reading routes are not eight distinct peoples: the two existing Lenape/Delaware labels intentionally overlap, and Cherokee has two map routes. No full-profile research promotion is implied."
+    },
+    {
+      "name": "Reciprocal generated navigation",
+      "status": "passed",
+      "method": "Parsed actual generated HTML with Python HTMLParser; checked each map-to-profile href, profile historical-maps anchor, reciprocal map-room fragment, map-card target ID, and visible relevance text.",
+      "routesChecked": 8,
+      "errors": []
+    },
+    {
+      "name": "Actual people-filter JavaScript",
+      "status": "passed",
+      "method": "Executed unchanged dist/historical-maps.js in Node vm with a small DOM stub populated from actual generated card data. This tests filter logic, not browser layout or visual interaction.",
+      "formRevealed": true,
+      "visibleMapsByEntry": {
+        "catawba": 1,
+        "cherokee": 2,
+        "chickasaw": 1,
+        "delaware-lenape": 1,
+        "lenape": 1,
+        "munsee": 1,
+        "seminole": 1
+      },
+      "resetRestoresMaps": 14
+    },
+    {
+      "name": "Coverage, assets, About targets",
+      "status": "passed",
+      "unlinkedMaps": 10,
+      "visiblePendingConnectionNotices": 10,
+      "previewFilesExist": true,
+      "aboutAnchorsExist": [
+        "historical-maps",
+        "map-backgrounds"
+      ]
+    },
+    {
+      "name": "Rights and file provenance",
+      "status": "passed except date-label finding below",
+      "note": "Image-rights link labels use per-image licenseLabel rather than a hardcoded Creative Commons label. NoC-US maps display No Copyright — United States; LOC previews display their reuse/provenance labels; Rumsey alone retains its supported CC BY-NC-SA label. Catawba credits and About explicitly leave scan provenance unconfirmed and do not assert LOC digitized the supplied file."
+    }
+  ],
+  "scopeReview": [
+    {
+      "mapId": "hm-north-catawba",
+      "originalIds": [
+        42,
+        51,
+        55
+      ],
+      "assessment": "Supported historical representation: Nasaw/Catawba, Cherrikies/Cherokee, Chickisa/Chickasaw. Integration preserves actual labels and archive explanations without claiming a known maker or present boundaries."
+    },
+    {
+      "mapId": "hm-north-manhattan",
+      "originalIds": [
+        231,
+        97,
+        182
+      ],
+      "assessment": "Packet supports Techkonis-to-Munsee bridge and explicitly broader, overlapping Lenape/Delaware reading links. No unique modern-government succession or precise descent is inferred."
+    },
+    {
+      "mapId": "historical-cherokee-kitchin-1760",
+      "originalIds": [
+        51
+      ],
+      "assessment": "Packet records actual title and scan town/river labels. Integration preserves Kitchin's engraving and mediated Indigenous draught distinction, without assigning one modern Cherokee government."
+    },
+    {
+      "mapId": "historical-okefenokee-seminole-1837-1838",
+      "originalIds": [
+        340
+      ],
+      "assessment": "Packet supports Second Seminole War contextual connection. Integration visibly identifies military perspective and excludes Seminole authorship, homeland-map equivalence, and current jurisdiction."
+    }
+  ],
+  "findings": [
+    {
+      "id": "catawba-date-label-provenance",
+      "priority": "P2",
+      "status": "Accepted by parent; correction/rebuild not yet independently rechecked",
+      "location": "data/historical-maps.json, hm-north-catawba.dateLabel; historical-maps-build.mjs source-details rendering",
+      "observed": "Primary visible label says 1929 reproduction although this supplied file's identity as the LOC photostat is unconfirmed. The explanatory dateNote exists in data but was not rendered in the inspected build.",
+      "correction": "Parent confirmed it will distinguish ca.1721 design from the LOC1929 reproduction in dateLabel, retain year1929 for the archive-record date filter, and render dateNote in source details.",
+      "remainingCheck": "Confirm the corrected label and dateNote appear after the parent's rebuild. All functional results above describe the inspected pre-correction generated build."
+    }
+  ],
+  "mutationScope": "Only this QA report created. No Site, profile, source, map geometry, evidence packet, generated page, or image was edited. No new research, contact, browser operation, or delegation.",
+  "rootFollowup": {
+    "CatawbaDateClarified": true,
+    "copyingDateNoteRendered": true,
+    "verificationDataset": "Built public catalogue includes resolved profile names/slugs; canonical source retains stable original IDs.",
+    "renderedQA": [
+      "Cherokee profile historical-map section and complete images",
+      "Room people filter Cherokee2/14",
+      "Combined Canada/Cherokee0/14 with empty note",
+      "Reset14/14",
+      "Seminole1/14 and actual click to matching profile",
+      "Seminole full-PDF route visible"
+    ],
+    "viewport": "Representative narrow in-app pane inspected; no full device matrix claimed."
+  }
+}

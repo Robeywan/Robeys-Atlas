@@ -1,0 +1,177 @@
+{
+  "reviewedAt": "2026-10-22",
+  "status": "Two scoped educational relationships supported; no new directory entries or governments inferred",
+  "map": {
+    "id": "hm-north-manhattan",
+    "historicalTitle": "Manatvs gelegen op de Noot [sic] Riuier",
+    "creatorAttribution": "Joan Vingboons / Vinckeboons, following Library of Congress attribution",
+    "sourceUrl": "https://www.loc.gov/item/97683586/",
+    "guideUrl": "https://guides.loc.gov/native-american-spaces/featured-maps",
+    "actualImageInspection": "Actual supplied 1094 x 786 pixel image visually inspected. Four longhouse symbols are visible on the Brooklyn landmass. A temporary enlarged crop aided inspection; small handwriting is not treated as independently certain transcription. Village readings use the actual LOC guide.",
+    "periodDepicted": "Settlement information associated with a 1639 design",
+    "copyingDateNote": "Actual LOC guide describes a copy around 1665 after a 1639 map. Previously saved catalogue notes report created/published 1639 but an index/citation date of 1670. Preserve this distinction; no certain surviving-object date is selected.",
+    "catalogueScope": "Existing work/historical-maps-north-20261021.json and outputs/Homepage-Map-Backgrounds-Provenance.json reviewed. No claim to freshly reopen the blocked LOC item record; actual guide body was read on October 22.",
+    "rightsScope": "This is an association review of the already owner-supplied image. It supplies no new image licence, rights clearance, image-generation claim or authority to reproduce unrelated source material."
+  },
+  "associations": [
+    {
+      "id": "manatus-munsee-historical",
+      "mapId": "hm-north-manhattan",
+      "originalIds": [
+        231
+      ],
+      "names": [
+        "Munsee"
+      ],
+      "relationship": "Historical named-community reading link",
+      "period": "Village represented in the 1639 design; surviving copy described as circa 1665",
+      "annotation": "The LOC guide identifies Techkonis among the map's village symbols. The Center for Brooklyn History explicitly identifies Techkonis as a documented Munsee community. This supports historical reading, without present jurisdiction or direct descent to a particular government.",
+      "specificMapFeature": "Techkonis longhouse symbol on the Brooklyn landmass; transcription supplied by the actual LOC guide, not inferred from a modern place name.",
+      "sourceIds": [
+        "manatus-loc-guide",
+        "manatus-cbh-history"
+      ],
+      "evidence": [
+        {
+          "sourceId": "manatus-loc-guide",
+          "url": "https://guides.loc.gov/native-american-spaces/featured-maps",
+          "locator": "Section 1, An Early Dutch Map of Manhattan, paragraph 1, displayed lines 12–14",
+          "paraphrase": "The guide explicitly names Techkonis as one of four villages represented by longhouses."
+        },
+        {
+          "sourceId": "manatus-cbh-history",
+          "url": "https://findingaids.library.nyu.edu/cbh/arms_1977_121_ny_wpa/",
+          "locator": "Historical note, displayed lines 54–56",
+          "paraphrase": "The historical note lists Techkonis among documented Munsee communities of the area."
+        }
+      ],
+      "associationStrength": "Direct archival identification of the same named historical community",
+      "geographyOrIdentityLimit": "A historical people/community access point, not a map of the modern Stockbridge-Munsee government, Munsee-Delaware Nation, their citizens, exclusive territories or legal successors.",
+      "reviewDate": "2026-10-22"
+    },
+    {
+      "id": "manatus-lenape-context",
+      "mapId": "hm-north-manhattan",
+      "originalIds": [
+        97,
+        182
+      ],
+      "names": [
+        "Delaware (Lenape)",
+        "Lenape"
+      ],
+      "relationship": "Broader historical people-level context; overlapping existing directory reading labels",
+      "period": "Seventeenth-century village context, interpreted through modern archival scholarship and community self-description",
+      "annotation": "Read the Munsee village within the broader Lenape/Delaware context supported by archival interpretation and community self-description. The two existing directory labels remain separate reading routes; neither identifies a modern government as the village's unique successor.",
+      "specificMapFeature": "The same Techkonis village provides the grounded connection; this is contextual related reading rather than an independent third map-to-people identification.",
+      "sourceIds": [
+        "manatus-loc-guide",
+        "manatus-cbh-history",
+        "manatus-munsee-community"
+      ],
+      "evidence": [
+        {
+          "sourceId": "manatus-cbh-history",
+          "url": "https://findingaids.library.nyu.edu/cbh/arms_1977_121_ny_wpa/",
+          "locator": "Historical note, displayed lines 55–56",
+          "paraphrase": "The note places its documented Munsee communities within a regional Lenape/Delaware historical context."
+        },
+        {
+          "sourceId": "manatus-munsee-community",
+          "url": "https://munsee.ca/about/",
+          "locator": "About Munsee-Delaware Nation, opening institutional description, displayed line 33",
+          "paraphrase": "Munsee-Delaware Nation explicitly describes its own community as descended from the Lenni Lenape."
+        }
+      ],
+      "associationStrength": "Contextual educational relationship; narrower Munsee link remains explicit",
+      "geographyOrIdentityLimit": "No inference that all Lenape communities share one government or that the present Ontario community is proved the particular village's descendant. Lenape/Delaware naming and Munsee relationships can differ with community and linguistic usage.",
+      "reviewDate": "2026-10-22"
+    }
+  ],
+  "sources": [
+    {
+      "id": "manatus-loc-guide",
+      "title": "Featured Selection of Maps — Native American Spaces: Cartographic Resources at the Library of Congress",
+      "author": "Library of Congress research guide; no individual byline used for this selected entry",
+      "publisher": "Library of Congress",
+      "url": "https://guides.loc.gov/native-american-spaces/featured-maps",
+      "publicationDate": "Undated selected guide entry; historical map/copy dates are content, not guide publication dates",
+      "annotation": "The archive identifies the four village symbols and explains the map's copying history. Its transcription anchors the image reading; this Dutch colonial representation is not Indigenous self-authored cartography or present territorial authority.",
+      "contentReviewScope": "Actual section 1 only, displayed lines 10–15: attribution, 1639 design, circa 1665 copy, four named villages and longhouse explanation. Other featured-map descriptions add no evidence or count here.",
+      "accessed": "2026-10-22",
+      "contentReviewedAt": "2026-10-22"
+    },
+    {
+      "id": "manatus-cbh-history",
+      "title": "New York City WPA historical survey of Indigenous People of Brooklyn — Historical note",
+      "author": "Center for Brooklyn History finding aid; collection processed by Nicholas Pavlik, later revisions listed",
+      "publisher": "Brooklyn Public Library, Center for Brooklyn History; hosted by NYU Special Collections Finding Aids",
+      "url": "https://findingaids.library.nyu.edu/cbh/arms_1977_121_ny_wpa/",
+      "publicationDate": "Finding aid generated September 20, 2023; revisions 2020/2023. Collection dates 1939–1940 do not date the historical note or map",
+      "annotation": "The substantive historical note identifies named Munsee communities and Lenape/Delaware context. The archive's interpretation is distinguished from the underlying WPA files and its cited Grumet scholarship, neither of which was independently read.",
+      "contentReviewScope": "Actual Historical note and source citation, lines 52–59; collection scope and guide-processing/date information also checked. Underlying deeds, maps, 1939–1940 research files and Grumet's 1995 pages 25–28 remain unread.",
+      "accessed": "2026-10-22",
+      "contentReviewedAt": "2026-10-22"
+    },
+    {
+      "id": "manatus-munsee-community",
+      "title": "About Munsee-Delaware Nation — opening community description",
+      "author": "Munsee-Delaware Nation; no individual byline displayed",
+      "publisher": "Munsee-Delaware Nation",
+      "url": "https://munsee.ca/about/",
+      "publicationDate": "Undated; no present demographic claim adopted",
+      "annotation": "The community's explicit Lenni Lenape self-description corroborates the broader relationship. It is one government's situated account, not proof of a unique descent line from Techkonis or authority for all Munsee people.",
+      "contentReviewScope": "Actual opening institutional description, lines 31–33, read. Other displayed history/language text was screened but supplies no taxonomy, speaker total, jurisdiction, population, ceremony or source-media claim.",
+      "accessed": "2026-10-22",
+      "contentReviewedAt": "2026-10-22"
+    }
+  ],
+  "inspectionNotes": [
+    "Original supplied image was opened before external research. Temporary crop enlarged existing pixels for inspection only; it adds no detail or new map content and is not proposed for publication. Original Site asset unchanged.",
+    "LOC's four transcriptions are Wichquawank, Techkonis, Mareckweich and Keskachauc. The Center for Brooklyn History lists similarly spelled communities, but the strongest exact-name bridge is Techkonis. Other spellings are not silently equated or georeferenced.",
+    "The finding aid is not used merely as a catalogue title or subject tag: its actual substantive historical note explicitly identifies documented Munsee communities. That is the inspected evidence. It cites Robert S. Grumet, American Indians, in The Encyclopedia of New York City (1995), pages 25–28; those underlying pages and WPA typescripts were not read.",
+    "Munsee-Delaware Nation's opening self-description is used narrowly. The page's compressed subgroup taxonomy and linguistic wording are not adopted as a general classification. Its site does not claim a Techkonis-specific descent link, and none is invented.",
+    "The Delaware Tribe of Indians' existing Lenape History page was actually opened; its introductory Delaware Valley framing does not identify Techkonis and is not treated as village corroboration. Linked publications were not read for this task.",
+    "A relevant NYC-hosted archaeological assessment, https://s-media.nyc.gov/agencies/lpc/arch_reports/1856.pdf, surfaced as a lead but actual web fetch rejected its size. Search excerpts are not adopted as inspected evidence. No report, manuscript or modern archaeological site location is relied on.",
+    "Wikipedia, mirrors, unsourced derivatives and commercial results are excluded. No original creation narrative, restricted knowledge, private record, human remains or precise archaeological location is accessed or reproduced.",
+    "These are educational historical-map relationships only. No source-count increase or content-review upgrade to the three canonical profiles, new access point, main-data edit or publication is performed."
+  ],
+  "summary": {
+    "supportedRelationships": 2,
+    "existingDirectoryOriginalIds": [
+      231,
+      97,
+      182
+    ],
+    "strongestExactNamedVillage": "Techkonis",
+    "newDirectoryEntries": 0,
+    "newGovernmentIdentifications": 0,
+    "currentBoundaryClaims": 0,
+    "canonicalOrSiteEdited": false
+  },
+  "wordBudgetCheck": {
+    "method": "Whitespace words in source annotation/review scope, every cited association annotation, and all source-attributed evidence paraphrases. No quotation used; historical note sources and uninspected report remain transparent limits. Recompute if public text is expanded.",
+    "rows": [
+      {
+        "sourceId": "manatus-loc-guide",
+        "sourceAnnotationWords": 32,
+        "annotationScopeAssociationAndEvidenceParaphraseWords": 145,
+        "limit": 200
+      },
+      {
+        "sourceId": "manatus-cbh-history",
+        "sourceAnnotationWords": 32,
+        "annotationScopeAssociationAndEvidenceParaphraseWords": 157,
+        "limit": 200
+      },
+      {
+        "sourceId": "manatus-munsee-community",
+        "sourceAnnotationWords": 31,
+        "annotationScopeAssociationAndEvidenceParaphraseWords": 104,
+        "limit": 200
+      }
+    ],
+    "maxAssociationAnnotationWords": 37,
+    "allWithinLimits": true
+  }
+}

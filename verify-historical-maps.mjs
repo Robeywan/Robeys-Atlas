@@ -2,22 +2,39 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {execFileSync} from 'node:child_process';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const c=read('data/historical-maps.json'),ids=new Set(),records=new Set();
-assert.equal(c.maps.length,12);
+const source=read('data/historical-maps.json'),c=read('dist/data/historical-maps.json'),ids=new Set(),records=new Set();
+assert.equal(source.maps.length,c.maps.length);
+assert(c.maps.length>=12);
+const prior=JSON.parse(execFileSync('git',['show','67f95f50ccdd54e19385aef8c67d080efc0f0bf4:data/historical-maps.json'],{maxBuffer:20e6}));
+for(const m of prior.maps)assert(c.maps.some(n=>n.id===m.id),'Prior map preserved: '+m.id);
+const profiles=read('dist/data/profiles.json');
+let connections=0;
 for(const m of c.maps){
  assert(!ids.has(m.id));ids.add(m.id);assert(!records.has(m.recordUrl));records.add(m.recordUrl);
  for(const k of ['title','creator','dateLabel','archive','annotation','credit'])assert(m[k]?.length,m.id+' '+k);
  assert(m.year>=1600&&m.year<=1930);assert(m.inspection.scope&&m.inspection.reviewedAt);
  for(const url of [m.recordUrl,m.viewerUrl,m.rights.url])assert(/^https?:\/\//.test(url));
- if(m.preview){assert(fs.existsSync('dist/'+m.preview.path));assert(m.preview.sourceImageUrl&&m.preview.licenseUrl&&m.preview.changes);assert(m.inspection.scope.includes('actual small map image'));}
+ if(m.preview){assert(fs.existsSync('dist/'+m.preview.path));assert(m.preview.sourceImageUrl&&m.preview.licenseUrl&&m.preview.changes);assert(m.preview.visualInspection?.reviewedAt&&m.preview.visualInspection?.scope);}
+ const linked=new Set();
+ for(const l of m.profileLinks||[]){
+  assert(!linked.has(l.profileSlug),'Duplicate profile link');linked.add(l.profileSlug);
+  const p=profiles.find(p=>p.slug===l.profileSlug);assert(p&&p.name===l.profileName);
+  assert(l.relevance&&l.period&&l.relationship&&l.reviewedAt&&l.evidence?.length);
+  for(const e of l.evidence)assert(/^https:\/\//.test(e.url)&&e.label);
+  const profile=fs.readFileSync('dist/nations/'+p.slug+'/index.html','utf8');
+  assert(profile.includes('id="historical-maps"')&&profile.includes('historical-maps/#'+m.id),'Reciprocal profile map link');
+  connections++;
+ }
 }
 const html=fs.readFileSync('dist/historical-maps/index.html','utf8');
-assert.equal((html.match(/data-historic-card/g)||[]).length,12);
+assert.equal((html.match(/data-historic-card/g)||[]).length,c.maps.length);
 for(const m of c.maps)assert(html.includes('id="'+m.id+'"'));
 assert(html.includes('<noscript>')&&html.includes('aria-live="polite"'));
-assert(fs.readFileSync('dist/index.html','utf8').includes('Explore 12 historical maps'));
+assert(fs.readFileSync('dist/index.html','utf8').includes('Explore '+c.maps.length+' historical maps'));
+assert(html.includes('id="historic-people"'));
+for(const m of c.maps)for(const l of m.profileLinks||[])assert(html.includes('../nations/'+l.profileSlug+'/#historical-maps'));
 for(const file of ['data/profiles.json','data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson']){
- const baseline=execFileSync('git',['show','983c24d9edc11105ab850be87fb445f8797bfabe:'+file],{maxBuffer:50e6});
+ const baseline=execFileSync('git',['show','67f95f50ccdd54e19385aef8c67d080efc0f0bf4:'+file],{maxBuffer:50e6});
  assert.deepEqual(JSON.parse(baseline),read(file),file+' preserved');
 }
-console.log(JSON.stringify({historicalMaps:12,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,originalDataAndGeometry:'preserved',noJSSourceLinks:'passed'}));
+console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));

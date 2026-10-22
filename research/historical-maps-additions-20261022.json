@@ -1,0 +1,145 @@
+{
+  "reviewedAt": "2026-10-22",
+  "status": "Two successful inspected additions; discovery stopped.",
+  "scope": "Two authentic historical maps, accessible primary archive records and actual images, verified item-specific US copyright statements, one supported existing profile connection each.",
+  "maps": [
+    {
+      "id": "historical-cherokee-kitchin-1760",
+      "title": "A new map of the Cherokee Nation : with the names of the towns and rivers. They are situated on No. Lat. from 34 to 36 / engrav'd from an Indian draught by T. Kitchin, for the London Magazine.",
+      "displayTitle": "A new map of the Cherokee Nation",
+      "creator": "Thomas Kitchin (engraver); unidentified Indigenous draught credited on the sheet",
+      "dateLabel": "1760",
+      "year": 1760,
+      "dateBasis": "Date of Original in the actual archive record; original sheet names the London Magazine.",
+      "archive": "Hargrett Rare Book and Manuscript Library, University of Georgia Libraries / Digital Library of Georgia",
+      "recordUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5",
+      "viewerUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5#item",
+      "manifestUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5/presentation/manifest.json",
+      "imageUrl": "https://dlg.usg.edu/images/iiif/2/dlg%2Fguan%2Fhmap%2Fguan_hmap_hmap1760k5%2Fguan_hmap_hmap1760k5-00001.jp2/full/full/0/default.jpg?download=true",
+      "imageUrlObservation": "The exact full-size JPEG URL occurs as items[0].rendering[0].id in the actual primary manifest; downloaded unchanged.",
+      "imageWidth": 3065,
+      "imageHeight": 2372,
+      "rights": {
+        "statement": "No Copyright - United States",
+        "statementQuote": "No Copyright - United States",
+        "licenseUrl": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+        "previewAllowed": true,
+        "scope": "The repository labels these items free of copyright in the United States. This is a rights statement, not a Creative Commons license.",
+        "evidenceUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5/presentation/manifest.json",
+        "evidenceLocation": "Manifest rights, requiredStatement and Rights metadata."
+      },
+      "credit": "A new map of the Cherokee Nation, 1760, hmap1760k5, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries; presented by the Digital Library of Georgia. Engraved by Thomas Kitchin.",
+      "annotation": "Kitchin’s 1760 engraving names Cherokee towns and rivers. Its margin credits an unidentified Indigenous draught, mediated through a London magazine publication. Compare this historical representation with Cherokee accounts; it does not establish present government boundaries.",
+      "perspective": "Colonial engraving / mediated Indigenous geographic knowledge",
+      "regions": [
+        "Southeast",
+        "Cherokee country"
+      ],
+      "subjects": [
+        "Cherokee towns",
+        "Rivers",
+        "Historical cartography"
+      ],
+      "profileConnections": [
+        {
+          "originalId": 51,
+          "name": "Cherokee",
+          "associationType": "Named subject of historical map",
+          "evidence": "The actual title identifies the Cherokee Nation; the scan labels Cherokee towns and rivers. The archive independently indexes Cherokee Nation history/maps.",
+          "evidenceUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5",
+          "scope": "Historical Cherokee-country representation; no exclusive assignment to one present Cherokee government."
+        }
+      ],
+      "inspection": {
+        "reviewedAt": "2026-10-22",
+        "recordRead": true,
+        "imageViewed": true,
+        "scope": "Read the complete actual archive record and manifest. Inspected the complete downloaded 3065x2372 scan at original resolution, including the cartouche, town/river labels and bottom engraver/source credit.",
+        "observedFeatures": "Landscape sheet; named towns along rivers; mountain symbols; scale; decorated lower-left title; source/engraver credit below the map.",
+        "limits": "No georeferencing, modern town equivalence, boundary inference or identification of the unnamed draught maker."
+      },
+      "editorialNotes": [
+        "Same historical work as an unpublished University of Alabama lead, but this is a newly inspected accessible primary copy with item-specific rights.",
+        "Avoid a London Magazine volume number: the DLG record's volume23 conflicts with the LOC record's volume29. Date1760 and title are secure; no volume asserted.",
+        "Do not describe the engraving as an unmediated Indigenous original."
+      ],
+      "annotationWordCount": 35,
+      "profileDeepSourceCountChange": 0
+    },
+    {
+      "id": "historical-okefenokee-seminole-1837-1838",
+      "title": "Map",
+      "displayTitle": "Second Seminole War: Okefenokee region manuscript map",
+      "creator": "Greenleaf Dearborn (attributed by the archive)",
+      "creatorCertainty": "Archive says the manuscript is believed to have been created by Major Greenleaf Dearborn.",
+      "dateLabel": "1837–1838 (archive date range)",
+      "year": 1838,
+      "dateOriginal": "1837/1838",
+      "dateBasis": "Actual record Date of Original; military context supplied by the archive, not an independently deciphered date on the sheet.",
+      "archive": "Hargrett Rare Book and Manuscript Library, University of Georgia Libraries / Digital Library of Georgia",
+      "recordUrl": "https://dlg.usg.edu/record/guan_4209_harg4209-001-001-001",
+      "viewerUrl": "https://dlg.galileo.usg.edu/do:guan_4209_harg4209-001-001-001",
+      "imageUrl": "https://dlg.usg.edu/thumbnails/guan/4209/guan_4209_harg4209-001-001-001.jpg",
+      "imageUrlObservation": "Exact thumbnail href/src observed in the primary record and followed. High-resolution object is the two-page PDF below; no larger JPEG endpoint guessed.",
+      "highResolutionUrl": "https://dlg.galileo.usg.edu/data/guan/4209/pdfs/guan_4209_harg4209-001-001-001.pdf",
+      "highResolutionUrlObservation": "Actual final response URL after following the primary record's digital-object link.",
+      "rights": {
+        "statement": "No Copyright - United States",
+        "statementQuote": "No Copyright - United States",
+        "licenseUrl": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+        "previewAllowed": true,
+        "scope": "The repository labels these items free of copyright in the United States. This is a rights statement, not a Creative Commons license.",
+        "evidenceUrl": "https://dlg.usg.edu/record/guan_4209_harg4209-001-001-001",
+        "evidenceLocation": "Item-specific Rights field links the No Copyright - United States statement."
+      },
+      "credit": "Second Seminole War, Okefenokee region manuscript map, ms4209, Box1 Folder1, Hargrett Rare Book and Manuscript Library, University of Georgia Libraries; presented by the Digital Library of Georgia.",
+      "annotation": "Attributed to Greenleaf Dearborn, this 1837–1838 manuscript depicts military forts and routes around the Okefenokee during the Second Seminole War. It records an Army viewpoint, rather than Seminole territorial authority or present boundaries.",
+      "perspective": "United States military manuscript",
+      "regions": [
+        "Southeast",
+        "Georgia",
+        "Florida",
+        "Okefenokee region"
+      ],
+      "subjects": [
+        "Second Seminole War",
+        "Military routes",
+        "Historical cartography"
+      ],
+      "profileConnections": [
+        {
+          "originalId": 340,
+          "name": "Seminole",
+          "associationType": "Historical military-conflict context",
+          "evidence": "The actual record identifies the Second Seminole War and indexes Seminole Indians/Florida and Seminole wars. The scan shows military routes and forts in the region.",
+          "evidenceUrl": "https://dlg.usg.edu/record/guan_4209_harg4209-001-001-001",
+          "scope": "A military representation connected with Seminole history; not Seminole-authored, a homeland map, or evidence of current jurisdiction."
+        }
+      ],
+      "inspection": {
+        "reviewedAt": "2026-10-22",
+        "recordRead": true,
+        "imageViewed": true,
+        "scope": "Read the complete actual item record and rights. Downloaded the actual two-page PDF, rendered both pages at 2200px, and visually inspected both: map face and verso sketches.",
+        "observedFeatures": "Handwritten map around the Okefenokee with wetlands, streams, fort symbols and dotted routes; verso bears a short map label and sketches.",
+        "limits": "No full handwriting transcription, exact sensitive-place coordinates, present boundaries or certainty beyond the archive's author attribution."
+      },
+      "editorialNotes": [
+        "Display title is descriptive; preserve the archive's literal title Map in metadata.",
+        "Use page1 for a map preview. Page2 is the verso, not a second map-catalogue item.",
+        "The collection landing page presented a security check; it was not bypassed. The item record and linked PDF were directly accessible."
+      ],
+      "annotationWordCount": 33,
+      "profileDeepSourceCountChange": 0
+    }
+  ],
+  "exclusionsAndLimits": [
+    "Compared against all12 existing catalogue items; neither addition duplicates an existing published item.",
+    "The Cherokee map completes an unpublished University of Alabama title lead through a different, verified primary copy.",
+    "NYPL records were not accepted as image evidence: direct pages were blocked or returned challenge content. WSU returned a JavaScript-only viewer, so its map was not accepted.",
+    "A De Brahm1766 facsimile record was read as a fallback but not adopted: reproduction dating and actual image were not checked.",
+    "No Site/canonical edits, contacts, restricted content, redrawn maps or generated imagery. Scratch paths are internal evidence and must not be rendered as public links.",
+    "No increase to tribe deep-research source counts follows from these map associations.",
+    "Original profile names/IDs checked in current data: Cherokee51 and Seminole340."
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "updatedAt": "2026-10-22",
+  "mapCount": 14,
+  "linkedEntryCount": 7,
+  "connections": [
+    {
+      "originalId": 42,
+      "relationship": "Historical community represented: Nasaw",
+      "period": "Network represented around 1721; surviving copies and reproductions have separate dates.",
+      "relevance": "Nasaw occupies the largest central circle. LOC identifies it as a central Catawba community, making this an educational link to Catawba history and relationships rather than proof of the maker's identity.",
+      "observedMapFeature": "Nasaw",
+      "evidence": [
+        {
+          "url": "https://blogs.loc.gov/maps/2016/11/celebrating-native-american-cartography-the-catawba-deerskin-map/",
+          "pageReference": "Paragraph beginning The map is a stylistic representation; web lines 212–213.",
+          "passageSummary": "Explicitly identifies Nasaw as a central community of the Catawba Nation and describes the path inscription.",
+          "label": "LOC: Catawba map interpretation"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Actual supplied label plus archive explanation of the named community.",
+      "uncertainty": "Nasaw denotes a particular historical community; this link neither equates it with every Catawba community nor identifies the anonymous maker.",
+      "profileSlug": "catawba",
+      "profileName": "Catawba",
+      "mapId": "hm-north-catawba",
+      "mapTitle": "Catawba deerskin map: archival reproduction",
+      "mapRecordUrl": "https://www.loc.gov/item/2005625337/"
+    },
+    {
+      "originalId": 51,
+      "relationship": "Represented historical people",
+      "period": "c. 1721 network",
+      "relevance": "Cherrikies appears in the upper-right circle. Newberry explicitly identifies Cherokee among these represented communities. The link concerns historical representation.",
+      "observedMapFeature": "Cherrikies",
+      "evidence": [
+        {
+          "url": "https://publications.newberry.org/k12maps/module_02/curator.html",
+          "pageReference": "Curator's Notes, paragraph The headman also emphasized; line 9.",
+          "passageSummary": "Identifies Cherokee and Chickasaw among upper-right circles.",
+          "label": "Newberry: curator’s notes"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Image and curator text.",
+      "uncertainty": "No present government, borders, or authorship determined.",
+      "profileSlug": "cherokee",
+      "profileName": "Cherokee",
+      "mapId": "hm-north-catawba",
+      "mapTitle": "Catawba deerskin map: archival reproduction",
+      "mapRecordUrl": "https://www.loc.gov/item/2005625337/"
+    },
+    {
+      "originalId": 55,
+      "relationship": "Represented historical people",
+      "period": "c. 1721 network",
+      "relevance": "Chickisa appears in the far-right circle. Newberry explicitly identifies Chickasaw among these represented communities. The link concerns historical representation.",
+      "observedMapFeature": "Chickisa",
+      "evidence": [
+        {
+          "url": "https://publications.newberry.org/k12maps/module_02/curator.html",
+          "pageReference": "Same Curator's Notes paragraph; line 9.",
+          "passageSummary": "Identifies Chickasaw; adjacent discussion warns about uneven scale.",
+          "label": "Newberry: curator’s notes"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Image and curator text.",
+      "uncertainty": "No specific town, present jurisdiction, or authorship determined.",
+      "profileSlug": "chickasaw",
+      "profileName": "Chickasaw",
+      "mapId": "hm-north-catawba",
+      "mapTitle": "Catawba deerskin map: archival reproduction",
+      "mapRecordUrl": "https://www.loc.gov/item/2005625337/"
+    },
+    {
+      "originalId": 231,
+      "relationship": "Historical named-community reading link",
+      "period": "Village represented in the 1639 design; surviving copy described as circa 1665",
+      "relevance": "The LOC guide identifies Techkonis among the map's village symbols. The Center for Brooklyn History explicitly identifies Techkonis as a documented Munsee community. This supports historical reading, without present jurisdiction or direct descent to a particular government.",
+      "observedMapFeature": "Techkonis longhouse symbol on the Brooklyn landmass; transcription supplied by the actual LOC guide, not inferred from a modern place name.",
+      "evidence": [
+        {
+          "sourceId": "manatus-loc-guide",
+          "url": "https://guides.loc.gov/native-american-spaces/featured-maps",
+          "locator": "Section 1, An Early Dutch Map of Manhattan, paragraph 1, displayed lines 12–14",
+          "paraphrase": "The guide explicitly names Techkonis as one of four villages represented by longhouses.",
+          "label": "LOC: featured-map guide"
+        },
+        {
+          "sourceId": "manatus-cbh-history",
+          "url": "https://findingaids.library.nyu.edu/cbh/arms_1977_121_ny_wpa/",
+          "locator": "Historical note, displayed lines 54–56",
+          "paraphrase": "The historical note lists Techkonis among documented Munsee communities of the area.",
+          "label": "Center for Brooklyn History: historical note"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Direct archival identification of the same named historical community",
+      "uncertainty": "A historical people/community access point, not a map of the modern Stockbridge-Munsee government, Munsee-Delaware Nation, their citizens, exclusive territories or legal successors.",
+      "profileSlug": "munsee",
+      "profileName": "Munsee",
+      "mapId": "hm-north-manhattan",
+      "mapTitle": "Manhattan and neighboring settlements",
+      "mapRecordUrl": "https://www.loc.gov/item/97683586/"
+    },
+    {
+      "originalId": 97,
+      "relationship": "Broader historical people-level context; overlapping existing directory reading labels",
+      "period": "Seventeenth-century village context, interpreted through modern archival scholarship and community self-description",
+      "relevance": "Read the Munsee village within the broader Lenape/Delaware context supported by archival interpretation and community self-description. The two existing directory labels remain separate reading routes; neither identifies a modern government as the village's unique successor.",
+      "observedMapFeature": "The same Techkonis village provides the grounded connection; this is contextual related reading rather than an independent third map-to-people identification.",
+      "evidence": [
+        {
+          "sourceId": "manatus-cbh-history",
+          "url": "https://findingaids.library.nyu.edu/cbh/arms_1977_121_ny_wpa/",
+          "locator": "Historical note, displayed lines 55–56",
+          "paraphrase": "The note places its documented Munsee communities within a regional Lenape/Delaware historical context.",
+          "label": "Center for Brooklyn History: historical note"
+        },
+        {
+          "sourceId": "manatus-munsee-community",
+          "url": "https://munsee.ca/about/",
+          "locator": "About Munsee-Delaware Nation, opening institutional description, displayed line 33",
+          "paraphrase": "Munsee-Delaware Nation explicitly describes its own community as descended from the Lenni Lenape.",
+          "label": "Munsee-Delaware Nation: community account"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Contextual educational relationship; narrower Munsee link remains explicit",
+      "uncertainty": "No inference that all Lenape communities share one government or that the present Ontario community is proved the particular village's descendant. Lenape/Delaware naming and Munsee relationships can differ with community and linguistic usage.",
+      "profileSlug": "delaware-lenape",
+      "profileName": "Delaware (Lenape)",
+      "mapId": "hm-north-manhattan",
+      "mapTitle": "Manhattan and neighboring settlements",
+      "mapRecordUrl": "https://www.loc.gov/item/97683586/"
+    },
+    {
+      "originalId": 182,
+      "relationship": "Broader historical people-level context; overlapping existing directory reading labels",
+      "period": "Seventeenth-century village context, interpreted through modern archival scholarship and community self-description",
+      "relevance": "Read the Munsee village within the broader Lenape/Delaware context supported by archival interpretation and community self-description. The two existing directory labels remain separate reading routes; neither identifies a modern government as the village's unique successor.",
+      "observedMapFeature": "The same Techkonis village provides the grounded connection; this is contextual related reading rather than an independent third map-to-people identification.",
+      "evidence": [
+        {
+          "sourceId": "manatus-cbh-history",
+          "url": "https://findingaids.library.nyu.edu/cbh/arms_1977_121_ny_wpa/",
+          "locator": "Historical note, displayed lines 55–56",
+          "paraphrase": "The note places its documented Munsee communities within a regional Lenape/Delaware historical context.",
+          "label": "Center for Brooklyn History: historical note"
+        },
+        {
+          "sourceId": "manatus-munsee-community",
+          "url": "https://munsee.ca/about/",
+          "locator": "About Munsee-Delaware Nation, opening institutional description, displayed line 33",
+          "paraphrase": "Munsee-Delaware Nation explicitly describes its own community as descended from the Lenni Lenape.",
+          "label": "Munsee-Delaware Nation: community account"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Contextual educational relationship; narrower Munsee link remains explicit",
+      "uncertainty": "No inference that all Lenape communities share one government or that the present Ontario community is proved the particular village's descendant. Lenape/Delaware naming and Munsee relationships can differ with community and linguistic usage.",
+      "profileSlug": "lenape",
+      "profileName": "Lenape",
+      "mapId": "hm-north-manhattan",
+      "mapTitle": "Manhattan and neighboring settlements",
+      "mapRecordUrl": "https://www.loc.gov/item/97683586/"
+    },
+    {
+      "originalId": 51,
+      "relationship": "Named subject of historical map",
+      "period": "1760",
+      "relevance": "This engraving depicts Cherokee towns and rivers in 1760. Its title identifies the Cherokee Nation, without assigning the map to a single present-day Cherokee government.",
+      "evidence": [
+        {
+          "url": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5",
+          "label": "UGA / Digital Library of Georgia: item record",
+          "detail": "The actual title identifies the Cherokee Nation; the scan labels Cherokee towns and rivers. The archive independently indexes Cherokee Nation history/maps."
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Read the complete actual archive record and manifest. Inspected the complete downloaded 3065x2372 scan at original resolution, including the cartouche, town/river labels and bottom engraver/source credit.",
+      "uncertainty": "No georeferencing, modern town equivalence, boundary inference or identification of the unnamed draught maker.",
+      "profileSlug": "cherokee",
+      "profileName": "Cherokee",
+      "mapId": "historical-cherokee-kitchin-1760",
+      "mapTitle": "A new map of the Cherokee Nation",
+      "mapRecordUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1760k5"
+    },
+    {
+      "originalId": 340,
+      "relationship": "Historical military-conflict context",
+      "period": "1837–1838 (archive date range)",
+      "relevance": "The archive dates this military map to 1837–1838 during the Second Seminole War. It depicts forts and routes around the Okefenokee, providing historical context rather than Seminole-authored territorial information.",
+      "evidence": [
+        {
+          "url": "https://dlg.usg.edu/record/guan_4209_harg4209-001-001-001",
+          "label": "UGA / Digital Library of Georgia: item record",
+          "detail": "The actual record identifies the Second Seminole War and indexes Seminole Indians/Florida and Seminole wars. The scan shows military routes and forts in the region."
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "inspectionScope": "Read the complete actual item record and rights. Downloaded the actual two-page PDF, rendered both pages at 2200px, and visually inspected both: map face and verso sketches.",
+      "uncertainty": "No full handwriting transcription, exact sensitive-place coordinates, present boundaries or certainty beyond the archive's author attribution.",
+      "profileSlug": "seminole",
+      "profileName": "Seminole",
+      "mapId": "historical-okefenokee-seminole-1837-1838",
+      "mapTitle": "Second Seminole War: Okefenokee region manuscript map",
+      "mapRecordUrl": "https://dlg.usg.edu/record/guan_4209_harg4209-001-001-001"
+    }
+  ]
+}
