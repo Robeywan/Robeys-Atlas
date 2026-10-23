@@ -1,8 +1,14 @@
 # Jumano profile review — October 23, 2026
 
-Jumano (original 151) now has twelve substantive inspected works, eight supporting references excluded, six cited sections, and initial adequacy **Still unfinished**. The owner-supplied study contributed eighteen public URLs: five were previously matched to inspected source cards, six additional leads were reviewed in this batch (four substantive works and two supporting records), and seven remain unread. Important gaps remain in direct archival review and community-authored coverage. No map was added.
+Dakota (original 95) now has a Minnesota-focused review with nine substantive inspected works, seven supporting references excluded, ten cited sections, and initial adequacy **Still unfinished**. New work inspects the 2025 Upper Sioux Community profile in Minnesota's state Tribal Government guide, a Dakota Wicohan curriculum overview, and named Dakota speakers' Our Home exhibition transcript. Supporting DNR and statutory records document the Upper Sioux Agency land-return process. Dated land and membership figures are preserved as source snapshots, not current measurements. Full review: `outputs/Dakota-Regional-Research-Review.md`. No map was added.
 
-Next: focus Minnesota source research on Dakota (original 95), then check coverage of Minnesota’s separate Ojibwe governments and proceed to Idaho. This follows the owner’s Texas, Minnesota, Idaho priority; add maps only when regular source research documents a specific association.
+Next: review Minnesota's distinct Ojibwe governments through community-specific sources, then continue Idaho coverage. This follows the owner's Texas, Minnesota, Idaho priority; add maps only when regular source research documents a specific association.
+
+## Previous source-focused batch — Jumano (original 151)
+
+Jumano now has twelve substantive inspected works, eight supporting references excluded, six cited sections, and initial adequacy **Still unfinished**. The owner-supplied study contributed eighteen public URLs: five were previously matched to inspected source cards, six additional leads were reviewed in that batch (four substantive works and two supporting records), and seven remain unread. Important gaps remain in direct archival review and community-authored coverage. No map was added.
+
+The next Minnesota target is the set of distinct Ojibwe governments; the existing Ojibwe umbrella profile is not a substitute for community-specific sources.
 
 # Caddo Texas research â€” October 22, 2026
 
@@ -80,7 +86,7 @@ The following are existing saved records, not new source inspections. They do no
 | Idaho | Coeur d'Alene | 81 | 0 |
 | Idaho | Northern Paiute | 255 | 0 |
 | Minnesota | Ojibwe | 265 | 0 |
-| Minnesota | Dakota | 95 | 0 |
+| Minnesota | Dakota | 95 | 9 |
 | Texas | Lenape | 182 | 0 |
 | Texas | Alabama | 9 | 15 |
 | Texas | Coushatta | 89 | 0 |
