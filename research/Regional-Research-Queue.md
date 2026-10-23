@@ -1,3 +1,40 @@
+# Latest Minnesota source follow-up — Dakota (original 95), October 23, 2026
+
+Published research batch adds three substantive community-government sources: Prairie Island Dakota language programming, Shakopee Dakota language programs, and Prairie Island cultural-preservation work. Dakota now has twelve substantive works and twelve cited sections, but initial adequacy remains **Still unfinished** because broader Dakota community and specialist-language evidence is incomplete. No map association was added. Review: `outputs/Dakota-Minnesota-Research-Review-2026-10-23-followup.md`.
+
+Next: return to the higher-priority Texas queue with Lipan Apache (original 185), then continue Minnesota and Idaho. Keep map work paused unless regular source review directly supports a specific community and period.
+
+---
+# Latest Texas source follow-up — Ysleta del Sur Pueblo, October 23, 2026
+
+Published profile version 55 with eight substantive works, two supporting references excluded and six cited sections. The new TxDOT report is a 2021 government synthesis whose research sources and draft were reviewed by the Pueblo’s Director of Cultural Preservation; it is described as collaboratively informed, not Pueblo-authored. Sensitive planning-location details were excluded. The unread 2015 Comar dissertation is retained as a lead; automated 403 did not establish a paywall. No map association added. Receipt: `outputs/Ysleta-del-Sur-Pueblo-Followup-Publication-Record.json`; detailed review: `outputs/Ysleta-del-Sur-Pueblo-Research-Review-2026-10-23-followup.md`.
+
+Next: continue Texas where existing community profiles have clear evidence gaps, then return to Minnesota and Idaho. Keep historical-map work paused and add a map only when normal source review directly supports a specific community and period.
+
+Usage checkpoint: five-hour 13%, weekly 27%, ordinary use available, shared balance 53.8894195; no credits spent. Preserve the 85% weekly ceiling and stop before short-window exhaustion with checkpoint room.
+
+---
+# Latest continuation checkpoint — October 22, 2026, Lipan Apache
+
+# Latest research focus — Kickapoo Texas supplement, October 23, 2026
+
+Kickapoo (original 165) now has 12 substantive inspected works, six supporting references excluded from the count, six cited sections, and initial adequacy **Still unfinished**. The latest additions are selected pages from a 2017 peer-reviewed article (with author overlap and inspection limits disclosed) and a restricted archival finding aid retained only as a supporting lead. No map association was added. Detailed review: `outputs/Kickapoo-Texas-Research-Review-2026-10-23-followup.md`.
+
+Next priority: continue Texas only where a distinct community/profile has a clear evidence gap; then review Minnesota’s distinct Ojibwe, Dakota and other government/community coverage, followed by Idaho. Add maps only if regular source research directly substantiates a specific community and period.
+
+Usage at the start of this batch: five-hour window 9% consumed, weekly window 26% consumed, ordinary use available, 53.8894195 shared credits. No credits used. Preserve the 85% weekly ceiling and stop before five-hour exhaustion with checkpoint/publication capacity.
+
+---
+
+# Latest continuation checkpoint — October 22, 2026, Lipan Apache
+
+The Texas-focused Lipan Apache collection is published in Site version 52 with 12 substantive inspected works, seven supporting records excluded, six cited sections, and initial adequacy Still unfinished. Two substantive works were added: Webster’s full 2007 linguistic/ethnohistorical study and the full 1846 Council Springs treaty. The source article’s small sample and unresolved name count are disclosed; treaty implementation and Lipan-specific response are unverified. No map added. Previous treaty scans and full theses remain unread. Review and receipt: `outputs/Lipan-Apache-Texas-Research-Review-2026-10-22-followup.md` and `outputs/Lipan-Apache-Followup-Publication-Record.json`. No publication retry pending.
+
+Next target is Kickapoo (original 165), Texas; then continue Minnesota and Idaho. Live page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/lipan-apache/.
+
+Usage after publication: five-hour 4%, weekly 25%, ordinary usage available, shared balance 53.8894195; no credits used. Preserve the 85% weekly ceiling and leave a finishing margin before the five-hour window is exhausted.
+
+---
 \n# Latest source batch — Shoshone (original 347), October 23, 2026\n\nShoshone now has 12 substantive inspected works, one inspected supporting reference and one unread lead, both excluded from the substantive count. Seven sections distinguish the Shoshone-Bannock Tribes at Fort Hall, Shoshone-Paiute Tribes of Duck Valley, Eastern Shoshone and Northwestern Band sources. Initial adequacy remains **Still unfinished** because the umbrella collection is uneven and community coverage is incomplete. No map was added.\n\nNext: deepen Lipan Apache (original 185) for Texas; it currently has ten substantive inspected works and unresolved treaty/chronology gaps. Then return to Minnesota community coverage and continue Idaho inventory research. Read sources directly and do not add maps without specific evidence.\n\n# Latest source batch — Shoshone (original 347), October 23, 2026
 
 The Shoshone source guide has 12 substantive inspected works, one inspected supporting reference, and one unread supporting lead excluded from the count. Seven cited sections distinguish Fort Hall Shoshone-Bannock, Duck Valley Shoshone-Paiute, Eastern Shoshone and Northwestern Band sources, while describing the entry as an umbrella access point with uneven coverage. A treaty chronology conflict is attributed to the source accounts. Initial adequacy remains **Still unfinished**; no map was assigned by inference. Detailed review: `outputs/Shoshone-Idaho-Research-Review-2026-10-23.md`.
@@ -133,3 +170,5 @@ The Texas-focused Lipan Apache collection now has twelve substantive inspected w
 Next target: continue Texas source coverage with Kickapoo (original 165), whose Texas-focused supplement has five substantive works and substantial open gaps; then return to Minnesota and Idaho. Keep the historical map collection intact and add a map only when regular source review directly substantiates a specific relationship.
 
 Usage checked October 22, 2026, America/Denver: ordinary five-hour window 4% consumed and available; weekly window 25% consumed; shared balance 53.8894195 credits. No credits spent. Continue with ordinary usage, leave a safe margin for validation and publication, and preserve the 85% weekly ceiling.
+
+

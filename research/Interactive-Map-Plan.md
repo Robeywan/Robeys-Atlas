@@ -1,3 +1,8 @@
+# Map status — Dakota source update, October 23, 2026
+
+The Minnesota Dakota source guide now has twelve substantive inspected works, but its regional research remains unfinished. This batch added community-specific accounts of language programming and cultural preservation without adding or inferring a map association. Preserve the existing interactive map and historical map room; significant map research remains paused while Texas, Minnesota and Idaho profile evidence is developed.
+
+---
 # Current map status and research priority — October 22, 2026
 
 The basic region map and Historical maps room are published and remain in place. The owner has paused significant map expansion and map QA to focus on valuable profile research: Texas first, then Minnesota, then Idaho. Add regional or historical map links only when a normal source review directly supports the association, period, community scope, and source. Do not conduct separate map-hunting batches now.

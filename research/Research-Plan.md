@@ -1,3 +1,10 @@
+# Latest Minnesota source batch — Dakota (original 95), October 23, 2026
+
+The Dakota profile now includes twelve substantive inspected works and remains **Still unfinished**. Three newly reviewed community-government pages document separate Prairie Island and Shakopee language programs and Prairie Island cultural-preservation work. The profile keeps those accounts scoped to their governments, notes an outdated anticipated language-app launch without asserting present availability, and excludes sensitive burial details. Seven supporting references stay outside the substantive count. See `outputs/Dakota-Minnesota-Research-Review-2026-10-23-followup.md`.
+
+Next: return to the higher-priority Texas queue with Lipan Apache (original 185); then continue Minnesota and Idaho coverage. Map work remains paused unless regular research directly supports a specific relationship.
+
+---
 # Latest source batch — Shoshone (original 347), October 23, 2026
 
 The Shoshone source guide has 12 substantive inspected works, one inspected supporting reference, and one unread supporting lead excluded from the count. Seven cited sections distinguish Fort Hall Shoshone-Bannock, Duck Valley Shoshone-Paiute, Eastern Shoshone and Northwestern Band sources, while describing the entry as an umbrella access point with uneven coverage. A treaty chronology conflict is attributed to the source accounts. Initial adequacy remains **Still unfinished**; no map was assigned by inference. Detailed review: `outputs/Shoshone-Idaho-Research-Review-2026-10-23.md`.

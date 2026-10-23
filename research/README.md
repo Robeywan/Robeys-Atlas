@@ -1,5 +1,9 @@
 # Research records
 
+## Latest regional source supplement — Dakota, original 95 (October 23, 2026)
+
+Dakota now has 12 substantive inspected works and 12 cited sections. Three new community-government sources document separate Prairie Island and Shakopee language programs and Prairie Island cultural preservation. Initial adequacy remains **Still unfinished**; the Minnesota-focused guide has uneven community depth and wider Dakota, specialist-language and primary-record gaps. No map was added. See `dakota-95-minnesota-followup-20261023.md` and `outputs/Dakota-Minnesota-Research-Review-2026-10-23-followup.md`. Next: return to Texas with Lipan Apache (original 185), then continue Minnesota and Idaho.
+
 ## Current regional batch — Coahuiltecan, original 76 (October 22, 2026)
 
 The Coahuiltecan profile now has twelve substantive inspected works, three supporting records excluded from that count, six cited sections, and a dated Still unfinished assessment. The broad term’s scope and origin remain disputed; mission and language records are incomplete; first-party Tāp Pīlam and Miakan/Garza materials are kept distinct. No historical map was inspected or added. Full review: coahuiltecan-76-review-20261022.md. Next Texas target: Caddo (original 38), then Minnesota and Idaho.

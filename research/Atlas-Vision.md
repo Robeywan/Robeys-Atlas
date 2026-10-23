@@ -1,3 +1,10 @@
+# Latest source update — Dakota Minnesota supplement, October 23, 2026
+
+The owner continues to prioritize useful, low-usage profile research. Dakota (original 95) now has twelve substantive inspected works, with new community-specific language-program and preservation accounts for Prairie Island and Shakopee. The guide remains unfinished because coverage is uneven and wider Dakota community history and specialist language evidence remain open. Do not infer a pan-Dakota program from two community examples. Historical-map expansion and QA remain paused; add a map only when normal source review directly supports a specific relationship.
+
+Next in the Texas-first research queue is Lipan Apache (original 185), followed by further Minnesota and Idaho coverage.
+
+---
 # Current focus — directory research before more map development (October 22, 2026)
 
 The owner has paused significant historical-map expansion and map QA to prioritize low-usage, high-value source research. Continue Texas first, Minnesota next, then Idaho. Keep the published historical map room, interactive map, and authentic images intact. Add a map connection only when ordinary source research directly supports a specific people/community, period, and relationship; do not spend substantial usage on map hunting.

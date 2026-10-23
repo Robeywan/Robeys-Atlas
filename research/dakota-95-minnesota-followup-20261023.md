@@ -1,0 +1,15 @@
+# Dakota (entry 95) — Minnesota language and preservation supplement
+
+Reviewed 2026-10-23. The profile contains **12 substantive inspected works**, seven supporting references excluded from that count, and 12 cited sections. Initial adequacy remains **Still unfinished**. This is a Minnesota-focused guide, not a complete history of Dakota peoples, a comprehensive language study, a current demographic account, or a community-reviewed collection.
+
+## New community sources inspected
+
+1. [Prairie Island Indian Community, “Dakota Language”](https://prairieisland.org/who-we-are/our-culture/dakota-language). Read the complete visible body, especially its account of language silencing and renewal, classes, culture camps, language-bowl activities, outreach at Red Wing High School, and educational exhibits at He Mni Can and the Grand Meadow Chert Quarry. These are the Community’s own descriptions. The page still says an app was expected in spring 2023; current availability was not verified. External lesson, dictionary and institute links were not inspected.
+2. [Shakopee Mdewakanton Sioux Community, “Dakota Language”](https://shakopeedakota.org/culture-history/dakota-language/). Read the complete visible page. It describes the Community’s Dakota Iapi Típi, weekly classes, family learning events, youth culture camps, Dakota Language Bowl, keyboard and public learning work. Language-loss and recovery statements remain attributed to this particular Community. No speaker-count, language-classification or universal-program claim is inferred.
+3. [Prairie Island Indian Community, “Cultural Preservation”](https://prairieisland.org/who-we-are/our-culture/cultural-preservation). Read the substantive page body describing the Community’s Tribal Historic Preservation Office, selected repatriation work, restoration of public He Mni Can and partnership around the Grand Meadow Chert Quarry. Broader archaeological claims remain attributed. Burial-specific details and sensitive locations were excluded from synthesis.
+
+## Synthesis and limits
+
+The guide now gives distinct examples of language work at Prairie Island and Shakopee, without implying one Dakota-wide program. It also describes Prairie Island’s public-facing preservation work in the Community’s own terms. These sources strengthen evidence about contemporary community institutions and education but do not independently establish language vitality, program outcomes, archaeology claims or shared practice across Dakota governments.
+
+The quantity target is met, but adequacy remains **Still unfinished**. Minnesota-oriented coverage is uneven across the four listed governments and does not cover Dakota communities throughout the Dakotas, Nebraska, Canada or elsewhere. Specialist language scholarship, Upper Sioux Community direct sources, primary treaty/statutory records and further Dakota-authored history remain priorities. No community review or endorsement is recorded. No historical map was added because this pass did not establish a new specific map-to-community relationship.
