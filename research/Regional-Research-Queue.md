@@ -172,3 +172,11 @@ Next target: continue Texas source coverage with Kickapoo (original 165), whose 
 Usage checked October 22, 2026, America/Denver: ordinary five-hour window 4% consumed and available; weekly window 25% consumed; shared balance 53.8894195 credits. No credits spent. Continue with ordinary usage, leave a safe margin for validation and publication, and preserve the 85% weekly ceiling.
 
 
+# Latest Texas source batch — Tonkawa (original 394), October 23, 2026
+
+Tonkawa has seven substantive inspected works, six supporting references excluded, eight cited sections and a dated **Still unfinished** assessment. Its guide now compares the Tribe’s own history and language program with carefully scoped scholarly, government and primary-record evidence, including the 1837 treaty and conflicting 1892 federal report / 1907 Tonkawa memorial accounts of the later land cession. No map was added. Review: outputs/Tonkawa-Texas-Research-Review-2026-10-23.md.
+
+The owner-supplied Jumano study’s eighteen URLs were already catalogued; they remain suggested leads unless separately inspected. Resume Texas research by addressing substantive gaps in an existing people’s profile, then Minnesota and Idaho. For Tonkawa, the 1846 Council Springs treaty text, more direct community history and contrasting primary accounts of the 1862 massacre remain useful leads. Add a map only when ordinary source research directly supports a specific community and period.
+
+---
+

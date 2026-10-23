@@ -1,3 +1,36 @@
+# Latest continuation checkpoint — October 23, 2026, Ysleta del Sur Pueblo follow-up
+
+Ysleta del Sur Pueblo (supported addition) is now published in Site version 55 with eight substantive inspected works, two supporting references excluded, one unread suggested dissertation lead, six cited sections, and a dated **Adequate initial introduction** assessment. New research covers the first nine pages of S. Rept. 100-90 and selected non-sensitive sections of TxDOT’s 2021 Pueblo-consulted historical report. The sensitive planning-location section was deliberately excluded. No map was added. Full review: `outputs/Ysleta-del-Sur-Pueblo-Research-Review-2026-10-23-followup.md`; receipt: `outputs/Ysleta-del-Sur-Pueblo-Followup-Publication-Record.json`.
+
+Published public version 55 at `2026-10-23T06:40:36.307722Z`. [Open the Ysleta del Sur Pueblo profile](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ysleta-del-sur-pueblo/). Source commit `02b7e07a1637509984972e6a0c8d08ecd1a5c79d`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_c409e6d9c91881918afb76a0d77d4313`; successful deployment `appgdep_6adb015a84ec81919e60f27a47ff69fe`. No retry pending. Build, profile-link/citation checks, regional-map and historical-map preservation checks passed. A cache-busted rendered page confirmed ten resource cards, eight substantive works, the updated assessment and source citations.
+
+The owner-supplied Jumano study remains integrated in the reading-lead catalogue with all eighteen URLs and per-link inspected/unread distinctions. No duplicate extraction or source-count change was made from that already catalogued attachment.
+
+Next: continue Texas source gaps where meaningful; then Minnesota and Idaho. Continue valuing high-quality sources over maps and counts. Maps remain unchanged unless normal source work directly supports a specific profile connection.
+
+Usage after this batch: five-hour window 13% used; weekly 27% used; ordinary included use available; shared balance 53.8894195; no credits spent. Maintain the weekly 85% ceiling and leave enough room before five-hour exhaustion to checkpoint safely.
+
+---
+# Latest continuation checkpoint — October 23, 2026, Kickapoo (Texas)
+
+Kickapoo (original 165) now has 12 substantive inspected works, six supporting references excluded, six cited sections, and initial adequacy **Still unfinished**. The Texas-focused supplement distinguishes the Kickapoo Traditional Tribe of Texas from other Kickapoo communities. Two new resources were reviewed: selected pages of a 2017 peer-reviewed article (same-author overlap and interpretive scope disclosed) and a Benson archival finding aid retained as supporting-only context because collection contents were not inspected and stated restrictions apply. No historical map was added. Review: `outputs/Kickapoo-Texas-Research-Review-2026-10-23-followup.md`.
+
+The current local build passed with 471 profiles, 21,301 internal links and 9,777 citation anchors; the regional-map verifier passed 103 regions/565 associations; the historical-map verifier passed all 17 catalogue records and reciprocal routes. Site publication is pending completion of the official source workflow.
+
+Next: continue Texas coverage where an existing community entry has a well-defined evidence gap, then Minnesota community coverage and Idaho. Keep map work paused unless ordinary source review provides direct, specific evidence.
+
+Usage checked before this batch: five-hour window 9% consumed, weekly 26%, ordinary use available, shared balance 53.8894195. No credits spent. Keep the 85% weekly ceiling and preserve time for a safe checkpoint and publication before the five-hour limit is exhausted.
+
+---
+# Latest continuation checkpoint — October 22, 2026, Lipan Apache
+
+The Texas-focused Lipan Apache collection is published in Site version 52 with 12 substantive inspected works, seven supporting records excluded, six cited sections, and initial adequacy Still unfinished. Two substantive works were added: Webster’s full 2007 linguistic/ethnohistorical study and the full 1846 Council Springs treaty. The source article’s small sample and unresolved name count are disclosed; treaty implementation and Lipan-specific response are unverified. No map added. Previous treaty scans and full theses remain unread. Review and receipt: `outputs/Lipan-Apache-Texas-Research-Review-2026-10-22-followup.md` and `outputs/Lipan-Apache-Followup-Publication-Record.json`. No publication retry pending.
+
+Next target is Kickapoo (original 165), Texas; then continue Minnesota and Idaho. Live page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/lipan-apache/.
+
+Usage after publication: five-hour 4%, weekly 25%, ordinary usage available, shared balance 53.8894195; no credits used. Preserve the 85% weekly ceiling and leave a finishing margin before the five-hour window is exhausted.
+
+---
 
 # Current checkpoint — Lipan Apache follow-up, October 22, 2026
 
@@ -9,15 +42,40 @@ Usage checked October 22, 2026, America/Denver: ordinary five-hour window 4% con
 
 ---
 
+# Current continuation checkpoint — October 23, 2026, Shoshone
+
+Latest source batch: Shoshone (original 347) published in Site version 51, with 12 substantive inspected works, one inspected supporting reference and one unread supporting lead excluded, seven cited sections, and initial adequacy Still unfinished. Distinct Fort Hall, Duck Valley, Eastern Shoshone and Northwestern Band scope is preserved; conflicting Bannock relocation chronologies remain attributed. No map was assigned. Full review: outputs/Shoshone-Idaho-Research-Review-2026-10-23.md.
+
+Next regional target: deepen Lipan Apache (original 185), currently with ten substantive inspected works, then return to Minnesota and continue Idaho coverage. Maps remain paused unless source review specifically supports a community and period.
+
+Usage after publication: five-hour 2% consumed; seven-day window 25% consumed; ordinary use available; shared account balance 53.8894195 credits. No credits spent. Continue useful research, monitor both windows, preserve the weekly 85% ceiling, and checkpoint before five-hour exhaustion.
+
+The Atlas remains at 471 access points (454 original plus 17 supported additions), 565 regional associations, 103 selectable regions and 17 historical map records. Preserve all owner-study URLs, map/photography credits and prior work.
+
+---
+
+# Current continuation checkpoint — October 23, 2026, Coeur d’Alene
+
+Latest researched batch: Coeur d’Alene / Schitsu’umsh (original 81), with 15 substantive inspected works, three supporting references excluded, six cited sections and initial adequacy **Still unfinished**. The guide distinguishes community self-description, language from language family, historical agreements, the 1947 constitution, a narrow court holding, tribal-submitted EIS material and dated cleanup evidence. Selected-page limits and open gaps remain visible. No new map association. Detailed review: outputs/Coeur-dAlene-Idaho-Research-Review-2026-10-23.md.
+
+Published in Site version 50. Source commit `4b0afa6dc0d639a91d4486dc7bff20f0450a0741`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_ba054b8358d08191ab6543a7f47dc50c`; successful deployment `appgdep_6adaeba707c8819198b0f19cbcae9df6`. The live page was visually/accessibly inspected. Validation passed for 471 profiles, 21,212 internal links, 9,711 citation anchors and both preserved map systems.
+
+Next target: Shoshone (original 347), using community sources from Shoshone-Bannock and Shoshone-Paiute governments with distinct scope labels. Idaho inventory coverage is not exhaustive; preserve Texas and Minnesota research gaps. Continue to pause map hunting, adding maps only when ordinary source review substantiates a specific map/community connection.
+
+Usage checkpoint: ordinary use available; five-hour window 57% consumed, seven-day weekly window 25% consumed, balance 53.8894195 shared-account credits (checked after the source review on October 23, 2026). No credits were used. Preserve 85% weekly ceiling and stop before five-hour exhaustion with a safe checkpoint.
+
+The Atlas retains 471 directory access points (454 original plus 17 supported additions), 565 regional associations / 563 unique region-profile pairs, 103 selectable regions, and the 17-record historical map library. Owner-supplied URLs and image credits remain preserved.
+
+---
 # Current continuation checkpoint — October 23, 2026
 
 Latest source-focused batch: Ojibwe (original 265), with 13 substantive inspected works, eight supporting references excluded, seven cited sections and initial adequacy **Still unfinished**. Its Minnesota-focused guide distinguishes the six Minnesota Chippewa Tribe Bands from Red Lake Nation and includes community accounts from Mille Lacs, Red Lake, White Earth, Bois Forte, Fond du Lac, Grand Portage and Leech Lake-specific educational material. Depth is uneven across communities; no new map association was added, and the prior Grand Portage link remains in place. Review: `outputs/Ojibwe-Minnesota-Research-Review-2026-10-23.md`.
 
-Source preparation is underway from the Dakota-published Site source (`a964c14b541bb11c974369d0bb7e46062725e9af`). The current Ojibwe batch has passed local build, internal-link/citation, regional-map and historical-map checks. Publication receipt will be added after the deployment result. No retry pending before this batch.
+Ojibwe version 49 is live after correcting the evidence-note count and map wording. The page remains at 13 substantive works, eight supporting references excluded, seven cited sections, and Still unfinished. Build, internal links/citations, regional-map, historical-map and preservation checks passed. The live page was checked after deployment (HTTP 200). Source commit `7ff7ccd822bb029f0e3f4e13c9d31f3599ee9190`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_3a87b591c4288191a61cd69259a7c84b`; successful deployment `appgdep_6adae75b26288191a8828557c69299bb` at 2026-10-23T04:49:39.475081Z. Full receipt: `outputs/Ojibwe-Publication-Record.json`. No retry pending.
 
 Next target: begin Idaho coverage from the five governments in the reviewed inventory, verifying constituent peoples, bands and historical labels with community sources. Preserve Texas and Minnesota gaps. Significant map hunting remains paused; add a map only when ordinary source research supports a specific association.
 
-Usage checkpoint: ordinary use available; five-hour window 50% consumed, weekly window 23% consumed, shared balance 53.8894195 credits. No credits used. Continue using ordinary usage while available, preserve the weekly 85% ceiling, and stop before the five-hour window is exhausted with enough room to save and verify a checkpoint.
+Usage checkpoint: ordinary use available; five-hour window 55% consumed, weekly window 24% consumed, shared balance 53.8894195 credits (checked after publication, 2026-10-23 04:49 UTC). No credits used. Continue using ordinary usage while available, preserve the weekly 85% ceiling, and stop before the five-hour window is exhausted with enough room to save and verify a checkpoint.
 
 The Atlas remains at 471 directory access points (454 original plus 17 supported additions), the published regional map and 17-record historical map library. Preserve all owner-study provenance, existing authentic imagery and credits, and previously published A/B research.
 
@@ -293,4 +351,29 @@ The owner’s Jumano study is integrated as 18 suggested-reading links. Five mat
 
 Usage before follow-up publication: ordinary included use available; five-hour 40% used, weekly 22% used, shared credit balance 53.8894195 unchanged. No credits were spent. Keep the weekly 85% ceiling and stop before five-hour exhaustion to preserve checkpoint and publishing capacity.
 
+
+
+
+# Current checkpoint — Dakota Minnesota source supplement, October 23, 2026
+
+Dakota (original 95) was updated in public Site version 56. The guide now contains 12 substantive inspected works, seven supporting references excluded, 12 cited sections and dated initial adequacy **Still unfinished**. The three new inspected sources are Prairie Island’s “Dakota Language,” Shakopee Mdewakanton Sioux Community’s “Dakota Language,” and Prairie Island’s “Cultural Preservation.” Each is scoped to its specific government; an anticipated 2023 app launch is not treated as current, and burial-specific details are omitted. Detailed review: `outputs/Dakota-Minnesota-Research-Review-2026-10-23-followup.md`; publication record is at the top of `outputs/Publication-Status.md`.
+
+Public profile: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/dakota/. Deployment succeeded at `2026-10-23T06:57:39.465556Z`; source commit `d969bd9d76b462b299d8d4029f0896726480f082`; version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_c47ae3122dc0819193863342e7a7b199`; deployment `appgdep_6adb055a00808191bab2e60ba43d2c3a`. No retry pending.
+
+All 471 access points (454 original plus 17 additions), regional map and historical maps passed preservation checks. Build verified 21,319 internal links and 9,789 citation anchors; map verifier: 103 selectable regions, 565 associations, 563 unique region/profile pairs; historical-map verifier: 17 records, 14 reviewed reciprocal connections. Refreshed research JSON, progress JSON and Website ZIP. The owner’s 18 Jumano-study URLs remain catalogued and distinct from inspected evidence.
+
+Next: return to the Texas queue with Lipan Apache (original 185), then continue Minnesota and Idaho. The owner wants low-usage, high-value source research; historical-map expansion remains paused unless ordinary source review directly supports a specific connection. Keep the 85% weekly-use ceiling. Usage after publication: five-hour 16%, weekly 27%, ordinary use available, shared balance 53.8894195; no credits spent. Stop before the five-hour window is exhausted and retain checkpoint room.
+
+---
+# Latest Texas source batch — Tonkawa (original 394), October 23, 2026
+
+Tonkawa now has seven substantive inspected works, six supporting references excluded from the count, and eight cited sections. The research guide is stronger but explicitly remains **Still unfinished**. New synthesis sets the present-day Tonkawa Tribe of Oklahoma alongside its own public history and language material, a limited-page TxDOT historical report and Smithsonian study, the 1837 treaty, and the contrasting 1892 federal agreement record and 1907 council-adopted Tonkawa memorial. The memorial is direct evidence of the Tribe’s claim, not a court finding. Unresolved chronology, early geography, 1862 massacre accounts, treaty implementation, and broader community-authored material remain open. No map was added.
+
+Full review: outputs/Tonkawa-Texas-Research-Review-2026-10-23.md. The owner-supplied Jumano DOCX’s eighteen URLs were already in the reading-lead catalog; no duplicate extraction or source-count change resulted.
+
+Next: continue Texas research where there is a distinct evidence gap, then Minnesota and Idaho. For Tonkawa, pursue the unread 1846 treaty text, additional Tonkawa-authored material and primary evidence on the 1862 massacre without relying on unread or access-blocked files. Keep historical maps paused unless regular source work directly substantiates a specific people, community and period.
+
+Usage checkpoint before publication: ordinary five-hour use 18% consumed, weekly 27% consumed, ordinary use available, shared credit balance 53.8894195. No credits spent. Preserve a safe margin for the short-window checkpoint and the weekly 85% ceiling.
+
+---
 

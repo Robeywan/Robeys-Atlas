@@ -231,3 +231,11 @@ Aleut/Unangax̂ now has thirteen substantive inspected works or bounded collecti
 ## Squamish study integrated — October 21, 2026
 
 All 27 contributed Squamish URLs now appear as suggested reading on Squamish358 and in the owner-study catalogue, with supplied bibliography labels and provenance. The prepared catalogue contains17studies/328distinctURLs, retaining all prior301. No substantive-source count, narrative, depth label or content-review date changed. The full attachment, private paths and attachment fingerprint are excluded. Original publications, scope and access require later review. Idaho/Minnesota/Texas priorities and the50-credit reserve remain. Consult Publication-Status.md for deployment verification.
+# Current checkpoint — Texas-first research and usage conservation, October 23, 2026
+
+Continue high-value educational source research for Texas, Minnesota and Idaho, in that order as capacity allows. The latest prepared batch is Tonkawa (original 394): seven substantive inspected works, six supporting references, eight cited sections, and initial adequacy **Still unfinished**. Keep the 1846 treaty text, massacre-source comparison, early geographic uncertainty and additional Tonkawa community-authored material open. The owner-supplied Jumano study is already represented by eighteen reading leads; do not treat those URLs as verified publications or duplicate them.
+
+Use only currently available ordinary usage, save a safe checkpoint before five-hour exhaustion, and preserve the weekly 85% ceiling. Do not spend credits to bypass an exhausted short window. Historical map expansion stays paused; add a map only when ordinary source research directly establishes a specific relationship, period and provenance. See the dated continuation checkpoint, Tonkawa review and Regional Research Queue for the current handoff.
+
+---
+
