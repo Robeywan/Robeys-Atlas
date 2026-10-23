@@ -1,3 +1,9 @@
+## Current regional batch — October 23, 2026
+
+Texas-first source review: the broad Kickapoo entry (original ID 165) now has a focused supplement on the Kickapoo Traditional Tribe of Texas. Five substantive works were inspected (1983 federal act; 2020 Interior Solicitor memorandum; 2017 Texas intertribal public-safety report; 2020 Mager Hois article on Texas/Coahuila border history; undated HUD housing case feature). Four supporting cards are excluded (two government homepages, a brief Tribal education page, and a 2025 thesis whose abstract but not full text was read). The page has five cited sections and remains explicitly unfinished. It does not represent every Kickapoo community. No historical map association was added: the report’s schematic map is contextual, not treated as a homeland boundary.
+
+Next Texas step: verify whether Ysleta del Sur Pueblo merits a distinct directory access point through the Pueblo’s own public sources and federal records, keeping it distinct from Isleta Pueblo in New Mexico and from broader Tiwa/Pueblo labels. Then continue Texas profile research before Minnesota and Idaho. Add maps only when relevant research sources directly support a specific association; map-library expansion and map QA remain paused.
+
 ## Current regional batch — October 21, 2026
 
 Kootenai/Ktunaxa, Dakota and Coushatta each now have six substantive inspected works in a prepared regional batch. Kootenai adequacy is not yet assessed, Dakota remains unfinished beyond the initial Minnesota-focused coverage, and Coushatta has an adequate initial introduction with open gaps. All three states need further individual-community research. The Kootenai Idaho map gap is corrected in the prepared source. Do not claim publication until the native receipt confirms.

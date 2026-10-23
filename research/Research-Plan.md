@@ -1,3 +1,9 @@
+# Current owner priority — source-first Texas, Minnesota and Idaho (October 23, 2026)
+
+The owner paused significant historical-map expansion and map QA to prioritize low-usage, high-value source research for the directory. Work Texas first, then Minnesota, then Idaho. Add a historical map only when ordinary source review directly supports an individual people/community association; retain provenance, period, rights and inspection limits. Keep the existing map room and interactive map intact. Do not spend substantial usage on map hunting or visual QA.
+
+The first Texas-first profile supplement is Kickapoo (original entry165), focused on the Kickapoo Traditional Tribe of Texas. It has five substantive inspected works and four supporting references, five cited sections, and an explicit “Still unfinished” assessment. See Regional-Research-Queue.md for coverage and the next candidate. Quantity does not establish completeness, adequacy or community review.
+
 # Resumed historical-map work — October 22, 2026
 
 Added an inspected 1873 proposed Nez Perce reservation map for Wallowa Valley, Oregon, with University of Idaho / NARA provenance and Public Domain Mark. The original archive JPEG is reproduced unchanged; the available archival frame clips some outer text and edges. Its federal proposal is linked narrowly to Nez Perce, not represented as all Nez Perce homelands or an Idaho reservation.

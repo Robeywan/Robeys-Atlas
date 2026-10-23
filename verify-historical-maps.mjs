@@ -33,7 +33,10 @@ assert(html.includes('<noscript>')&&html.includes('aria-live="polite"'));
 assert(fs.readFileSync('dist/index.html','utf8').includes('Explore '+c.maps.length+' historical maps'));
 assert(html.includes('id="historic-people"'));
 for(const m of c.maps)for(const l of m.profileLinks||[])assert(html.includes('../nations/'+l.profileSlug+'/#historical-maps'));
-for(const file of ['data/profiles.json','data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson']){
+// Profiles are expected to change during source research. The general verifier
+// checks their IDs, citations and routes; this regression guard protects the
+// independent map/reading-lead/geometry datasets from accidental replacement.
+for(const file of ['data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson']){
  const baseline=execFileSync('git',['show','630330214d9a85c2b9802c971f335d2cf9cb21ac:'+file],{maxBuffer:50e6});
  assert.deepEqual(JSON.parse(baseline),read(file),file+' preserved');
 }

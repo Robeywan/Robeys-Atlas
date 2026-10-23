@@ -21564,27 +21564,44 @@
     "name": "Kickapoo",
     "region": "Great Lakes / Kansas / Oklahoma / Texas / Mexico",
     "kind": "People",
-    "overview": "Kickapoo people continue in distinct communities and governments across the United States and Mexico.",
+    "overview": "Kickapoo people continue in distinct communities and governments across the United States and Mexico. This Texas-focused reading path concerns the Kickapoo Traditional Tribe of Texas and selected cross-border, legal, education, and housing sources; it does not represent every Kickapoo community.",
     "sections": [
       {
-        "title": "Identity and homelands",
-        "text": "Kickapoo people continue in distinct communities and governments across the United States and Mexico.",
+        "title": "Distinct communities and the Texas-focused scope",
+        "text": "Kickapoo people are represented by distinct communities and governments in the United States and Mexico. The 1983 Texas Band of Kickapoo Act used a specific legal relationship to the Kickapoo Tribe of Oklahoma; a later Interior Solicitor memorandum also describes the Texas Tribe as separate and apart in the context of a particular federal legal question. These sources document legal wording and chronology, not every community’s own account of identity.",
         "sourceIds": [
-          "p165-s1"
+          "p165-s3",
+          "p165-s4"
         ]
       },
       {
-        "title": "Historical context",
-        "text": "The Oklahoma and Texas governments both identify themselves as separate federally recognized Kickapoo tribes; broader identity must not be reduced to either government.",
+        "title": "Cross-border history and community participation",
+        "text": "A 2020 scholarly article examines the effects of the U.S.–Mexico border on Kickapoo communities in Texas and Coahuila, drawing on earlier literature and interviews from 1985–2005. Its interpretations and interview accounts are tied to that author and period. A separate 2017 Texas intertribal public-safety report records the Texas Tribe’s participation in statewide planning; its schematic map serves the report’s planning purpose and does not define homelands.",
         "sourceIds": [
-          "p165-s1"
+          "p165-s5",
+          "p165-s6"
         ]
       },
       {
-        "title": "Living communities and further study",
-        "text": "The Texas tribal website and Oklahoma government site offer direct access to contemporary programs, institutions, and community histories.",
+        "title": "What the 1983 statute and 2020 legal memorandum address",
+        "text": "The 1983 federal act authorizes specified services, land-acquisition activity in Maverick County, and border passage provisions. The 2020 Interior memorandum answers a narrower question about federal jurisdiction in 1934 and a particular fee-to-trust application, while discussing the later statute. Read together, they offer a bounded legal chronology. They do not establish current implementation or provide legal advice.",
         "sourceIds": [
-          "p165-s2"
+          "p165-s3",
+          "p165-s4"
+        ]
+      },
+      {
+        "title": "Education and language-related programs",
+        "text": "The Texas Tribe’s education department describes its mission and lists education and language programs. The page labels some initiatives as under development. It is a brief statement of the department’s public-facing priorities; it does not establish which listed services are currently operating or their outcomes.",
+        "sourceIds": [
+          "p165-s8"
+        ]
+      },
+      {
+        "title": "A dated housing and community-development case study",
+        "text": "A short HUD case feature describes housing and community-development projects involving the Texas Tribe, including FEMA mobile homes during 2009–2013 and a wellness-center project. The page’s publication date is unstated, so it is useful for a limited historical case study rather than present-day program or demographic information.",
+        "sourceIds": [
+          "p165-s7"
         ]
       }
     ],
@@ -21600,8 +21617,10 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "The Oklahoma Tribe’s official homepage is retained as a community access point. It was not substantively reviewed for this Texas-focused supplement and does not count toward its source target.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "countReason": "Homepage/access point only; excluded from the substantive inspected-work count."
       },
       {
         "id": "p165-s2",
@@ -21614,13 +21633,186 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "The Texas Tribe’s official homepage was checked for the site’s own identification and current contact/navigation context. This brief landing page does not count as a substantive historical or educational work.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "countReason": "Homepage/access point only; excluded from the substantive inspected-work count.",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Homepage identification statement and navigation only; no linked history or programs used."
+      },
+      {
+        "id": "p165-s3",
+        "title": "Texas Band of Kickapoo Act, Public Law 97-429",
+        "publisher": "U.S. Congress",
+        "url": "https://www.congress.gov/97/statute/STATUTE-96/STATUTE-96-Pg2269.pdf",
+        "type": "Government",
+        "topics": [
+          "Federal law",
+          "Texas",
+          "Border crossing"
+        ],
+        "annotation": "The 1983 statute names the Texas Band as a subgroup of the Kickapoo Tribe of Oklahoma, authorizes federal services and land acquisition in Maverick County, and addresses passage across the international border. It records the law as enacted then; it is not a complete account of later legal status or present implementation.",
+        "publicationDate": "1983-01-08",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Entire three-page enacted statute read; land authority, services and border-passage provisions inspected.",
+        "accessNotes": "Publicly readable during this review.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "p165-s4",
+        "title": "Federal Jurisdiction Status of the Kickapoo Traditional Tribe of Texas in 1934",
+        "publisher": "U.S. Department of the Interior, Office of the Solicitor",
+        "url": "https://www.bia.gov/sites/default/files/dup/assets/bia/ois/ots/pdf/Kickapoo_Traditional_Tribe_of_Texas.pdf",
+        "type": "Government",
+        "topics": [
+          "Federal law",
+          "Texas",
+          "Legal history"
+        ],
+        "annotation": "This 2020 solicitor memorandum addresses a specific federal-jurisdiction question and a pending fee-to-trust application. It distinguishes the 1934 Indian Reorganization Act analysis from the later 1983 statute. Its conclusion is limited to that legal issue and should not be read as a complete or current legal account, or as legal advice.",
+        "publicationDate": "2020-12-16",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "PDF pages 1–7 and 23–24 inspected, including background and conclusion; the other pages and current implementation were not reviewed.",
+        "accessNotes": "Publicly readable during this review.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "p165-s5",
+        "title": "Tribes of Texas Report",
+        "publisher": "Texas Tribal Strategic Advisory Group; Texas Department of Public Safety",
+        "url": "https://www.dps.texas.gov/sites/default/files/documents/iod/interop/docs/tribestexasfirstnetreport.pdf",
+        "type": "Government / intertribal report",
+        "topics": [
+          "Texas",
+          "Community participation",
+          "Public safety"
+        ],
+        "annotation": "A 2017 public-safety broadband report includes a Kickapoo Traditional Tribe of Texas profile and documents the Tribe’s participation in a statewide intertribal planning effort. The migration map is schematic and designed for this report’s purpose; it is not reproduced or treated as a homeland boundary. Dated population and service figures are excluded.",
+        "publicationDate": "2017-09",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Inspected PDF pages 4–5, 12–13 and 19–21, including participant list, map context and Kickapoo profile; references screened. Other profiles and dated population/service figures not used.",
+        "accessNotes": "Publicly readable during this review.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "p165-s6",
+        "title": "El problema de la frontera México-Estados Unidos para la tribu kikapu de Coahuila-Texas",
+        "publisher": "Elisabeth Albine Mager Hois; Punto CUNorte",
+        "url": "https://revistas.cunorte.udg.mx/punto/article/download/87/325?inline=1",
+        "type": "Academic / reference",
+        "topics": [
+          "Texas",
+          "Coahuila",
+          "Border history"
+        ],
+        "annotation": "This Spanish-language scholarly article analyzes how the U.S.–Mexico border affected Kickapoo communities in Texas and Coahuila. It combines earlier published literature with interviews conducted between 1985 and 2005. Interpretations and interview accounts are attributed to the author and their stated period; disagreements and broad claims are not presented as settled facts.",
+        "publicationDate": "2020",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Full article body, from abstract and introduction through relevant historical sections, conclusion and references, read. Restricted cultural descriptions were deliberately excluded from the synthesis.",
+        "accessNotes": "Publicly readable during this review.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "p165-s7",
+        "title": "The Kickapoo Traditional Tribe of Texas: “Doing More with Less”",
+        "publisher": "U.S. Department of Housing and Urban Development",
+        "url": "https://www.hud.gov/sites/documents/kickapootraditionaltribe.pdf",
+        "type": "Government",
+        "topics": [
+          "Texas",
+          "Housing",
+          "Community development"
+        ],
+        "annotation": "A short federal case feature describes a dated sequence of housing and community-development work, including FEMA mobile homes from 2009 to 2013 and a wellness-center project. It offers a narrow program history; undated publication details and old demographic or funding figures do not establish current conditions.",
+        "publicationDate": "Undated; reviewed 2026-10-23",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Entire three-page case feature read. Publication date is not stated; time-specific project descriptions were retained while dated figures were excluded.",
+        "accessNotes": "Publicly readable during this review.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "p165-s8",
+        "title": "Kickapoo Tribal Education",
+        "publisher": "Kickapoo Traditional Tribe of Texas",
+        "url": "https://kickapootexas.org/kickapoo-tribal-education/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Education",
+          "Language",
+          "Community programs"
+        ],
+        "annotation": "The Tribe’s education department describes its mission and lists education and language-related programs. Some initiatives are explicitly labeled as under development on the page; the listing is not evidence of current operation or outcomes. Useful community context, but brief and excluded from the substantive-work count.",
+        "publicationDate": "Undated page; reviewed 2026-10-23",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Actual page body inspected: department mission, program list, and the status labels identifying initiatives under development; linked materials not reviewed.",
+        "accessNotes": "Public page; no linked program materials inspected.",
+        "countsTowardMinimum": false,
+        "countReason": "Useful supporting context, but not a substantive work for the profile target."
+      },
+      {
+        "id": "p165-s9",
+        "title": "Cultural Identity and Economic Challenges: The Socio-Economic Impact of the Texas Kickapoo Reservation in the South Texas Borderlands",
+        "publisher": "Diana P. Medina-Rendon; Texas A&M International University Repository",
+        "url": "https://rio.tamiu.edu/etds/217/",
+        "type": "Academic / reference",
+        "topics": [
+          "Texas",
+          "Economy",
+          "Borderlands"
+        ],
+        "annotation": "The repository record supplies a 2025 thesis abstract relevant to Texas Kickapoo economic history. The full thesis was not read, and no access restriction was verified; retain it as a lead rather than count it as inspected evidence.",
+        "publicationDate": "2025; abstract reviewed 2026-10-23",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Repository metadata and abstract inspected. Full-text download request failed in the search tool; this does not establish a reader paywall.",
+        "accessNotes": "Full text unread; access requirement not verified.",
+        "countsTowardMinimum": false,
+        "countReason": "Useful supporting context, but not a substantive work for the profile target."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide",
-    "originalId": 165
+    "researchStatus": "researched",
+    "originalId": 165,
+    "overviewSourceIds": [
+      "p165-s3",
+      "p165-s4",
+      "p165-s6"
+    ],
+    "reviewedAt": "2026-10-23",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "coverageLevel": "reviewed-source-guide",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-23",
+      "rationale": "Five substantive inspected works support a focused Texas introduction across legal chronology, cross-border history, intertribal public-safety participation, and a dated housing case study. The sources are relevant but uneven in perspective and do not yet provide a deep, community-authored history or a comprehensive account of all Kickapoo communities.",
+      "remainingLimits": [
+        "Seek substantive Texas Tribe-authored history and language/education publications beyond the brief department page.",
+        "Review the full 2025 TAMIU thesis; only its abstract and repository record were inspected.",
+        "Locate and read the Texas Tribe’s 1989 constitution and later primary legal/administrative records before describing present legal implementation.",
+        "Add distinct community perspectives from Kickapoo communities in Oklahoma, Kansas, and Mexico; the Texas supplement cannot stand for them.",
+        "The scholarly article draws on interviews from 1985–2005; current cross-border conditions remain unestablished.",
+        "No community review or endorsement is recorded."
+      ]
+    },
+    "researchGaps": [
+      "Seek substantive Texas Tribe-authored history and language/education publications beyond the brief department page.",
+      "Review the full 2025 TAMIU thesis; only its abstract and repository record were inspected.",
+      "Locate and read the Texas Tribe’s 1989 constitution and later primary legal/administrative records before describing present legal implementation.",
+      "Add distinct community perspectives from Kickapoo communities in Oklahoma, Kansas, and Mexico; the Texas supplement cannot stand for them.",
+      "The scholarly article draws on interviews from 1985–2005; current cross-border conditions remain unestablished.",
+      "No community review or endorsement is recorded."
+    ],
+    "evidenceNotes": [
+      "Texas-focused supplement reviewed 2026-10-23. Five sources count toward the substantive target; the two existing homepages, brief Tribal education page, and unread-full-text TAMIU thesis are excluded. Legal sources are limited to their stated questions and dates. The 2017 report’s map is not reproduced or used as territorial evidence. No historical-map association was added in this source-focused batch."
+    ],
+    "relationshipNote": "Kickapoo is a broad people-level directory entry spanning distinct communities and governments. This supplement focuses on the Kickapoo Traditional Tribe of Texas. It does not collapse the Texas, Oklahoma, Kansas, or Mexican communities into one government or imply that the Texas government represents all Kickapoo people."
   },
   {
     "name": "Kiliwa",
