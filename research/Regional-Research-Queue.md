@@ -1,3 +1,53 @@
+## Latest Idaho review — Kootenai / Ktunaxa (October 23, 2026)
+
+The Kootenai Tribe of Idaho profile received two inspected works: its then-chairman’s 2003 statement on behalf of the five-government Upper Columbia United Tribes, and a 2025 USGS report prepared in cooperation with the Tribe on one Kootenai River restoration reach. Eight substantive works now support the profile; it remains **Still unfinished** because cross-border community representation, language perspectives and additional community history remain uneven. Review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md.
+
+Resume the Texas queue at Coushatta (original 89), then Minnesota, then Idaho. The Jumano study’s URL leads are preserved but were not re-reviewed during this batch. Add maps only when ordinary source research supports a specific people, community and period.
+
+---
+
+
+---
+
+## Latest regional source batch — Fort Griffin government correspondence, October 23, 2026
+
+The eight-page searchable text of U.S. House H. Ex. Doc. 44-102 (1876) was read and added to Tonkawa (394) and Lipan Apache (185). The source records a small Lipan group at Fort Griffin from 1874, ration decisions affecting both peoples, and unimplemented/unverified government relocation proposals. Its federal viewpoint is explicit; no merger, completed move, current affiliation, or map route is inferred. Tonkawa now has 12 substantive inspected works; Lipan Apache has 13. Both remain Still unfinished. Detailed note: `outputs/Tonkawa-Lipan-Fort-Griffin-1876-Research-Review-2026-10-23.md`.
+
+Next: verify remaining Texas community-specific evidence gaps against the inspected Texas government inventory, then continue Minnesota community coverage, followed by Idaho. Keep each band, nation and historical label in its proper scope. Do not spend substantive usage on map expansion; add a map only when ordinary source review directly supports one.
+
+---
+
+## Current checkpoint — Mescalero Apache (original 209), October 23, 2026
+
+Mescalero Apache has five substantive inspected works, five cited sections, and an **Adequate initial introduction** assessment. The guide now includes the Tribe’s 2023 anniversary article, its posted constitution (amended through 1988), and a 2020 TxDOT report whose introduction documents the Tribe’s Historic Preservation Officer’s approval of sources and draft comments. The report is still a government synthesis. The Tribe’s “about 1903” vs. “1905” Lipan-arrival dates remain unresolved. No map was added; the TxDOT report’s culturally sensitive section was not opened and its figures were not visually inspected. Review: `outputs/Mescalero-Apache-Texas-Research-Review-2026-10-23.md`.
+
+Next: continue Texas community-specific profiles with clear evidence gaps, then Minnesota and Idaho. Keep historical maps paused except where ordinary source work directly substantiates a particular association and period.
+
+## Previous checkpoint — Tonkawa (original 394), October 23, 2026
+
+Tonkawa now has 11 substantive inspected works, five supporting references excluded, ten cited sections, and **Still unfinished** initial adequacy. The 1846 Council Springs treaty text and selected sections of the corrected 1996 Fifth Circuit opinion were added with their distinct scope and limits disclosed. No map was added. Review: `outputs/Tonkawa-Texas-Research-Review-2026-10-23-followup2.md`.
+
+The newly attached Jumano study’s 18 distinct public URLs were checked against the existing Jumano lead collection; all were already catalogued. The list remains suggested reading until each original publication has been inspected.
+
+Next: continue Texas research where the current profiles have specific community-level evidence gaps; then Minnesota and Idaho. Check Mescalero Apache’s geographic and historical scope directly before applying it to a Texas connection. Keep maps paused except where ordinary source work directly supports a specific association.
+
+## Previous checkpoint — Atakapa / Ishak, October 23, 2026
+
+The Atakapa profile has 11 substantive inspected works and remains Still unfinished. The newest addition is a short, community-authored open-access essay documenting one enrolled member’s Ishakkoy creative practice; its scope is not generalized to every community. Direct archival, archaeological, and broader community-source gaps remain. No map added. See `outputs/Atakapa-Texas-Research-Followup-2026-10-23.md`.
+
+Next regional work: continue Texas community-specific coverage where there are concrete source gaps; then Minnesota and Idaho. The Jumano owner-study URLs remain research leads unless each original source is inspected. Preserve all map entries and add none unless specifically supported by ordinary profile research.
+
+Usage at checkpoint: five-hour 27%, weekly 29%, shared balance 53.8894195; no credits spent. Keep the 85% weekly ceiling and finish with room for a safe five-hour checkpoint.
+
+---
+# Latest Minnesota source update — Ojibwe / Leech Lake, October 23, 2026
+
+Ojibwe (original 265) now has 16 substantive inspected works, eight supporting references excluded, seven cited sections, and initial adequacy **Still unfinished**. New Leech Lake materials include the Band’s own 20-page historical/current overview, plus full reported 1971 *Leech Lake Band v. Herbst* and 1977 *State v. Forge* opinions. The opinions clarify the historical dispute while showing different, narrow legal outcomes; current rules are not inferred. Community-specific coverage remains uneven, especially Fond du Lac and the other Minnesota governments. No map added. Review: `outputs/Ojibwe-Minnesota-Research-Followup-2026-10-23.md`.
+
+Next: continue the Texas, Minnesota and Idaho source priorities at the next concrete evidence gap, preserving all prior leads and maps. The attached Jumano DOCX’s 18 URLs were already catalogued; unread links remain leads rather than content checks.
+
+---
+
 # Latest Texas source review — Atakapa / Ishak, October 23, 2026
 
 Atakapa (original 21) now has 10 substantive works, four support-only records, five cited sections, and initial adequacy **Still unfinished**. The added source set includes the Atakapa-Ishak Nation’s Culture page, a public-history entry by an Atakapa-Ishak Nation member, his extended interview and reflective essay. Grand Bayou coverage remains separately scoped. The Smithsonian finding aid is supporting-only because the manuscript cards were not inspected. Review: `outputs/Atakapa-Texas-Research-Review-2026-10-23.md`.

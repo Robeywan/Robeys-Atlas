@@ -1,3 +1,14 @@
+# Latest Idaho source review — Kootenai (Ktunaxa), October 23, 2026
+
+Kootenai (Ktunaxa; original 174) now has **eight substantive inspected works** and seven cited synthesis sections. Two distinct works deepen its Idaho-focused coverage: Kootenai Tribe of Idaho chairman Gary Aitken Sr.’s 2003 statement for the five-government Upper Columbia United Tribes coalition, and a 2025 USGS technical report prepared in cooperation with the Tribe. The profile is explicitly **Still unfinished**. The technical study concerns a bounded restoration reach and selected physical indicators; the testimony is attributed to its speaker and coalition scope. No map association was added. Full review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md.
+
+The attached Jumano study’s 18 distinct URLs remain preserved as leads; they are not new content reviews. Its unread review text and duplicate monograph product page remain outside the substantive count.
+
+Next regional target: continue the Texas queue with Coushatta (original 89), then Minnesota, then Idaho. Preserve open Kootenai community-coverage, master-plan, language and technical-method gaps.
+
+Usage before final validation: five-hour window 15% consumed; weekly window 33% consumed; ordinary use available. Shared credit balance 53.8894195, unchanged; no credits spent. Use ordinary research carefully and preserve the weekly ceiling and a short-window finishing checkpoint.
+---
+
 # Latest Texas source review — Atakapa / Ishak, October 23, 2026
 
 Atakapa (original 21) now has 10 substantive inspected works and four supporting references excluded from the count, with five cited sections. Its dated initial adequacy remains **Still unfinished**: the new reading adds Nation-published cultural material, an Ishak community-member public-history essay and interview, and a reflective essay, while keeping Grand Bayou community evidence specific to that community. Historical group relationships, original colonial records, archival field cards, and the range of present community perspectives remain open. No map was added. Full review: `outputs/Atakapa-Texas-Research-Review-2026-10-23.md`.

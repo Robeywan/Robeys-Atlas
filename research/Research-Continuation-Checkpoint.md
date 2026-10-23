@@ -1,3 +1,126 @@
+# Current research checkpoint — Kootenai (Ktunaxa), October 23, 2026
+
+Added two inspected works to Kootenai (original 174): Gary Aitken Sr.’s June 4, 2003 oral statement in the Senate hearing record (printed pp. 14–16; delivered on behalf of the Upper Columbia United Tribes) and the 2025 USGS Kootenai River restoration report (selected PDF sections read). The profile now has eight substantive works and seven synthesis sections. Initial adequacy: **Still unfinished**, with uneven cross-border community coverage and further language, Montana Ksanka/Kootenai, 2009 master-plan and technical-method research open. No map association.
+
+Review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md. Site update is prepared but publication is pending validation. The Jumano attachment remains mapped to its existing 18 URL leads; no source inspection is inferred from the DOCX.
+
+Next: Texas Coushatta (original 89), then Minnesota, then Idaho, while preserving existing regional priorities. Current usage checkpoint: ordinary five-hour 15% consumed, weekly 33%, ordinary usage available; 53.8894195 shared credits unchanged and unused.
+---
+
+# Current checkpoint — Ojibwe / Fond du Lac court-order source, October 23, 2026
+
+Ojibwe (original 265) was published in public Site version 71 at https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ojibwe/?v=71#sources. The Minnesota-focused profile now has 17 substantive inspected works, eight supporting references excluded, seven cited synthesis sections, and initial adequacy **Still unfinished**. The added full 18-page 2023 federal order says Fond du Lac Band can assert its own 1854 Treaty usufructuary interest at the motion-to-dismiss stage. The alleged loss of access to 6,650 acres is not a final factual finding; merits and later docket remain unreviewed. The profile retains Fond du Lac direct-history/treaty gaps and uneven coverage across Minnesota Ojibwe governments. No map added.
+
+Review: `outputs/Ojibwe-Fond-du-Lac-2023-Treaty-Case-Review-2026-10-23.md`; publication receipt: `outputs/Ojibwe-Fond-du-Lac-2023-Treaty-Publication-Record.json`. Source `e7e888ae57b39ee42280ca612ad91a1b39724340`, version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_7125f3e3a56c8191ba404a17cf980a6a`, deployment `appgdep_6adb5e04e4148191bc4bea57d29855ee` succeeded. All internal/citation/map/historical-map checks passed; live page inspected.
+
+The Jumano study’s 18 URLs remain preserved as reading leads, already catalogued; no duplicate URLs or inspections inferred. Next, resume Texas source gaps at Caddo, then continue Minnesota and Idaho coverage. Research maps only when an inspected source supports a specific connection.
+
+Usage at publication: ordinary five-hour window 12% consumed, weekly 32%, available; shared credits 53.8894195 unchanged, no credits spent. Continue with useful ordinary use and checkpoint before short-window exhaustion; preserve the weekly 85% ceiling.
+
+---
+# Latest source batch — Tonkawa and Lipan Apache at Fort Griffin (October 23, 2026)
+
+Read all eight pages of searchable text in the 1876 U.S. House H. Ex. Doc. 44-102, *Tonkawa Indians at Fort Griffin, Texas*. Its federal and military correspondence covers 1872–1876, including a report that one small Lipan group moved from Fort Sill to Fort Griffin in 1874, ration-policy changes, and officials’ proposed relocation arrangements. The account of Lipan-Tonkawa intermarriage and consolidation is attributed to the Interior Department commissioner; the document does not show that proposals were carried out or speak for all Lipan or Tonkawa people. OCR was inspected, but page images, handwriting and original files were not. No map added.
+
+The source is added to Tonkawa (original 394) and Lipan Apache (original 185) because it directly discusses both at Fort Griffin. Tonkawa now has 12 substantive inspected works and Lipan Apache 13; both remain **Still unfinished**. No identities were merged and no new access point or map route was created. Review: `outputs/Tonkawa-Lipan-Fort-Griffin-1876-Research-Review-2026-10-23.md`.
+
+Build and independent validators passed: 471 profiles, 454 original + 17 supported additions, 21,488 internal links, 9,918 citation anchors; 103 region targets, 565 regional associations, and all 17 historical map records / 14 reviewed map routes preserved. Local Tonkawa and Lipan pages were rendered and checked; publication succeeded in version 70; see outputs/Publication-Status.md.
+
+Usage before this batch: ordinary five-hour window 6–8% consumed, weekly 31–32%, ordinary usage available; shared credits 53.8894195 unchanged, no credits spent. Keep research source-first on Texas, then Minnesota and Idaho; maps remain paused except when a normal source directly supports a particular community and period. Check usage before the next batch and publication.
+
+---
+
+# Latest continuation checkpoint — Ojibwe / Leech Lake source research, October 23, 2026
+
+Ojibwe (original 265) was updated and published in public Site version 69 at https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ojibwe/?v=69#sources. The Minnesota-focused collection now contains **16 substantive inspected works**, eight supporting references excluded, seven cited synthesis sections, and initial adequacy **Still unfinished**. The added Leech Lake materials are the Band’s complete 20-page historical overview inside its 133-page co-management compilation, plus the full 1971 *Leech Lake Band v. Herbst* and 1977 Minnesota Supreme Court *State v. Forge* opinions. Their scope and limits are explicit: 1971 recognized treaty-protected activity on specified public lands/waters but did not grant exclusive regulatory control; 1977 upheld a 1973 compromise and fishing-stamp statute. These historical rulings are not presented as current rules. Treaty originals, the settlement text and later legal history remain open. No map connection was added.
+
+Review: `outputs/Ojibwe-Minnesota-Research-Followup-2026-10-23.md`; publication receipt: `outputs/Ojibwe-Minnesota-Research-Publication-Record.json`. Deployment succeeded with source `3c8f3f77d3e9c3cf66a1bee4693fb5221df50006`, saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_d830acfceab081918be64a4a9e726eb9`, and deployment `appgdep_6adb54a8c788819184f5631ab4ca7efe`. The live v69 page was inspected. Validation passed with 471 profiles, 21,480 internal links, 9,912 citation anchors, 103 selectable regions, 565 regional associations, and all 17 historical map records / 14 reviewed profile routes preserved.
+
+The attached Jumano DOCX had 18 URLs, all already preserved in the Jumano reading-lead collection; no duplicates or source inspections were inferred from the attachment. Continue source research for Texas, Minnesota and Idaho, returning to the next concrete regional gap after this Ojibwe update. Map work remains paused unless ordinary source review directly substantiates a particular community and period.
+
+Usage at last publication checkpoint: ordinary five-hour usage 5% consumed/available, weekly 31% consumed, shared credits 53.8894195 unchanged; no credits spent. Continue with useful ordinary included work and preserve the 85% weekly ceiling. Save a safe checkpoint well before five-hour exhaustion.
+
+---
+
+# Latest continuation checkpoint — October 23, 2026, Atakapa and Mescalero Apache
+
+Atakapa (original 21) was published in Site version 66 with 12 substantive inspected works, six supporting records excluded, five cited sections and **Still unfinished** adequacy. The Texas Observer’s full 2021 interview with Mary LeBlanc adds one Akokisa elder’s reported perspective. Her claims remain attributed; sensitive ceremonial locations and the accompanying map were not reproduced. Review: `outputs/Atakapa-Texas-Research-Followup-2026-10-23-interview.md`. Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/atakapa/?v=66#sources.
+
+Mescalero Apache (original 209) was published in Site version 67 with six substantive inspected works, five cited sections and **Adequate initial introduction**. New source p209-s6 is Belone et al.’s peer-reviewed, open-access account of a Tribe-requested and approved UNM / Mescalero Apache participatory-research partnership and 2013–2014 family-program pilot. Small sample, incomplete follow-up and no difference in substance-use outcomes during the short study are disclosed. The paper’s broad Texas/Arizona/Mexico homeland description is attributed, not a boundary map. No map was added. Review: `outputs/Mescalero-Apache-Texas-Research-Followup-2026-10-23.md`. Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/mescalero-apache/?v=67#sources. Receipt: `outputs/Mescalero-Apache-Texas-Research-Publication-Record.json`.
+
+The attached Jumano DOCX’s 18 URLs were already present in the existing Jumano reading-lead collection. No duplicates or source counts were added from that attachment. Continue Texas source gaps, then Minnesota and Idaho. Historical-map expansion remains paused unless ordinary source research directly supports a specific connection. Preserve 471 access points (454 originals plus 17 additions), 103 selectable regions, 565 regional associations, and all 17 historical maps/14 reviewed profile routes.
+
+Usage after publication: check recorded separately; ordinary five-hour and weekly windows were both available, weekly consumption remained far below the 85% ceiling, shared credit balance unchanged, and no credits were used. Continue with genuinely available included usage; checkpoint before short-window exhaustion.
+
+---
+# Latest continuation checkpoint — Atakapa / Ishak, October 23, 2026
+
+Atakapa (original 21) was published in Site version 66 with 12 substantive inspected works, six supporting records excluded, five cited sections and a dated **Still unfinished** assessment. New source p21-s18 is the complete visible Texas Observer interview with Mary LeBlanc, identified as Akokisa and a retired Nation council member. Her claims remain attributed; the article map was not reused, and sensitive ceremonial places were omitted. Review: `outputs/Atakapa-Texas-Research-Followup-2026-10-23-interview.md`. Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/atakapa/?v=66#sources. Deployment succeeded; receipt: `outputs/Atakapa-Texas-Research-Publication-Record.json`.
+
+The attached Jumano DOCX contains 18 URLs, all already preserved in the existing Jumano research-lead collection. No duplicates or new source counts were added from the attachment. Continue regional source research in Texas, then Minnesota and Idaho; keep map expansion paused unless ordinary research directly substantiates a specific connection.
+
+Usage after publication: ordinary five-hour window reset and is available (1% consumed), weekly 30% consumed, shared credit balance 53.8894195; no credits spent. Continue using genuinely available included use, maintain the 85% weekly ceiling, and checkpoint before short-window exhaustion.
+
+---
+# Latest Atakapa / Ishak source follow-up — October 23, 2026
+
+Atakapa (original 21) now has 12 substantive inspected resources, six supporting records excluded, five cited sections, and initial adequacy **Still unfinished**. Added the full visible Texas Observer interview with Mary LeBlanc, identified as Akokisa and a retired Atakapa-Ishak Nation council member. Her statements are attributed; sensitive ceremonial locations and the article's map are not reproduced or treated as boundary evidence. Colonial archival, archaeological and broader community-perspective gaps remain. Review: `outputs/Atakapa-Texas-Research-Followup-2026-10-23-interview.md`. No historical map was added.
+
+The attached Jumano study's 18 URLs were already present in its lead collection and remain uninspected leads except where separately verified in prior batches; no duplicates or source counts were inferred from the attachment.
+
+Next: continue Texas profile evidence gaps, then Minnesota and Idaho. Keep historical-map research paused unless ordinary source work directly supports a specific connection. Usage at the start of this batch: five-hour 35% consumed, weekly 30% consumed, ordinary use available, shared balance 53.8894195 credits; no credits spent. Preserve the weekly 85% ceiling and finish with a safe five-hour margin.
+
+---
+# Current checkpoint — Mescalero Apache Texas research, October 23, 2026
+
+Mescalero Apache (original 209) is published in Site version 65 with five substantive inspected works, five cited sections, and **Adequate initial introduction**. The new sources are the Tribe’s 2023 reservation-anniversary article, the constitution posted by the Tribe (amended through 1988), and a 2020 TxDOT Texas-history report whose introduction records source approval and draft comments by the Tribe’s Historic Preservation Officer. The two earlier sources—the Tribe’s “Our Culture” page and the NPS Fort Davis interpretation—now include clear inspection scope and perspective. The 1903/1905 difference in the Tribe’s sources remains unresolved. TxDOT’s culturally sensitive section was not opened; its figures were not visually inspected; no map was added. Detailed review: `outputs/Mescalero-Apache-Texas-Research-Review-2026-10-23.md`.
+
+Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/mescalero-apache/?v=65#sources. Source commit `f5bcab4224f6ab4ac1181a87c261b32c72e1fc8c`; version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_e21f759a42f481919f846f6f9aef3e42`; deployment `appgdep_6adb29a270548191a755fcf98d80ef37` succeeded. Build, citation/internal-link, regional-map, historical-map and rendered-page checks passed. Research exports and Website ZIP refreshed.
+
+The attached Jumano study contains 18 distinct public URLs, all already preserved in the Jumano reading-leads collection. They remain leads unless individually inspected; no duplicate URLs or source counts were added.
+
+Next: continue source-led Texas coverage where profiles have concrete gaps, followed by Minnesota and Idaho. Keep map research paused except when ordinary source review directly supports a specific association. Preserve the flexible source target and separate adequacy from completeness and community review.
+
+Usage checkpoint: ordinary use available; five-hour 34% consumed, weekly 30% consumed, shared credits 53.8894195, no credits spent. Maintain the 85% weekly ceiling and stop before five-hour exhaustion with a safe checkpoint.
+
+---
+
+# Previous checkpoint — Tonkawa Texas follow-up 2, October 23, 2026
+
+Tonkawa (original 394) is published in public Site version 64 with 11 substantive inspected works, five supporting references excluded, ten cited sections, and initial adequacy **Still unfinished**. New evidence includes the actual text of the 1846 Council Springs treaty (viewer pages 2–10 inspected; ratification instruments and implementation remain unread) and the corrected 1996 Fifth Circuit opinion on the Tribe’s claim under the 1866 Texas act (selected sections inspected; the statutory holding remains narrowly scoped). No historical map was added. Review: `outputs/Tonkawa-Texas-Research-Review-2026-10-23-followup2.md`.
+
+Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/tonkawa/?v=64#sources. Source commit `5b923f4df2bb73fb69dcc86e28de3f8ef01bbb63`; version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_8c557088c72c81919fee8691c8c971aa`; deployment `appgdep_6adb263a078881918ed03bdaae3b5c6e` succeeded. Build, citation/internal-link, regional-map, historical-map and rendered-page checks passed. Research exports and Website ZIP refreshed.
+
+The attached Jumano study contains 18 distinct public URLs, all already preserved in its existing reading-leads collection. They remain suggested leads unless individually inspected; no duplicate leads or source checks were added.
+
+Next: continue Texas profiles with clear, verifiable evidence gaps, then Minnesota and Idaho. Verify the scope of candidates such as Mescalero Apache before assigning Texas connections. Keep map research paused except where ordinary source research directly supports a specific community and period.
+
+Usage checkpoint: ordinary use available; five-hour 32% consumed, weekly 30% consumed, shared balance 53.8894195, no credits spent. Maintain the 85% weekly ceiling and stop before five-hour exhaustion with a safe checkpoint.
+
+---
+
+# Previous checkpoint — Atakapa / Ishak Texas follow-up, October 23, 2026
+
+Atakapa (original 21) is published in public Site version 61 with 11 substantive inspected works, four support-only references, five cited sections and **Still unfinished** initial adequacy. The new work is Jeffery U. Darensbourg’s full two-page 2021 open-access essay about composing Ishakkoy poems and songs from dictionary examples. Its scope is one enrolled Nation member’s creative practice, not community-wide language outcomes. The essay is cited in the language-learning and art/memory sections; no film or dictionary content was reproduced. Detailed review: `outputs/Atakapa-Texas-Research-Followup-2026-10-23.md`.
+
+Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/atakapa/?v=61#sources. Source commit `f0e5828c8e7fc0c6a6fab113021495482c15a4cd`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_3304179a608081919fba4d95db40ef80`; deployment `appgdep_6adb19e61cc081919885ee69fc4e4143`. Build, link/citation and map-preservation checks passed; the deployed page was rendered and inspected. Research JSON and Website ZIP were refreshed.
+
+Continue the Texas, Minnesota and Idaho source priority. Keep map hunting paused; add maps only when ordinary source research directly substantiates a specific community and period. Atakapa’s open gaps remain: direct French/Spanish/mission records, archaeology with cautious group attribution, Smithsonian field cards, and broader present community perspectives. Do not treat the 11-source count as completion.
+
+Usage checkpoint: five-hour 27% consumed, weekly 29%, ordinary use available, shared balance 53.8894195; no credits spent. Preserve the 85% weekly ceiling and a safe five-hour checkpoint margin.
+
+---
+# Current checkpoint — Tonkawa research follow-up, October 23, 2026
+
+Tonkawa (original 394) is now published in Site version 60 with nine substantive inspected works, six supporting references excluded, nine cited sections, and **Still unfinished** initial adequacy. Newly inspected works are Connole’s scholarly account of the 1862 Fort Cobb attack and Governor Throckmorton’s 1866 relief request. They add contrasting secondary and contemporary state-government perspectives; neither supplies a Tonkawa-authored massacre narrative. The evidence and gaps are documented in `outputs/Tonkawa-Texas-Research-Followup-2026-10-23.md`. The 18 Jumano-study URLs were already catalogued; no duplicate extraction or Tonkawa evidence was inferred from them. No map was added.
+
+Public page: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/tonkawa/?v=60#sources. Source commit `aa8eb7d714d6382b58759768abfdb511a6bd555c`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_38d682643aac8191ab7e147a41c3834c`; deployment `appgdep_6adb1624ac648191a2e7084ef503c7fc`. Build and link/citation/map preservation checks passed; fresh rendered page inspected. Website ZIP and research exports refreshed.
+
+Continue Texas only where a distinct community profile has clear source gaps; then Minnesota and Idaho. Existing map work stays paused unless ordinary research directly documents a particular map/community/period connection. Preserve all prior entries and open research issues.
+
+Usage checkpoint: five-hour 25% consumed, weekly 29%, ordinary usage allowed, shared credits 53.8894195; no credits spent. Stay below the weekly 85% ceiling and keep a margin for a safe five-hour checkpoint.
+
+---
 # Current research checkpoint — Atakapa / Ishak (original 21), October 23, 2026
 
 The Atakapa profile has a reviewed batch of 10 substantive inspected works and four supporting references excluded from the count, five cited sections, and dated initial adequacy **Still unfinished**. New work includes a Nation Culture page, a community-member public-history essay, an extended first-person interview, and a community-member reflective essay. Grand Bayou evidence remains specific to that community; no map was added. Detailed review: outputs/Atakapa-Texas-Research-Review-2026-10-23.md. Jumano remains at 12 substantive and 13 supporting references; its supplied study has 18 catalogued public URLs with original provenance.
@@ -388,4 +511,8 @@ Publication receipt: outputs/Tonkawa-Publication-Record.json. Rendered QA also c
 Usage checkpoint after publication: ordinary five-hour use 19% consumed, weekly 28% consumed, ordinary use available, shared credit balance 53.8894195. No credits spent. Preserve a safe margin for the short-window checkpoint and the weekly 85% ceiling.
 
 ---
+
+
+
+
 
