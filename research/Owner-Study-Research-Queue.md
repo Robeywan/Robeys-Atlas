@@ -1,8 +1,8 @@
-# Research queue from your sixteen studies
+# Research queue from your eighteen studies
 
-The sixteen supplied studies contain **301 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
+The eighteen supplied studies contain **346 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
 
-The research sequence remains alphabetical, beginning with the A entries. Historical war studies will support the relevant nation pages as that research progresses.
+The current owner priority is Texas, Minnesota, then Idaho. Historical-war studies remain queued for their relevant nation pages. The 18 Jumano URLs were added as suggested reading: five match previously inspected works and thirteen remain unread leads.
 
 | Supplied study | URLs | Atlas destination | Next step |
 |---|---:|---|---|
@@ -73,3 +73,4 @@ All 27 public URLs from Squamish_History_Culture_and_Timeline.docx are extracted
 ## Squamish study integrated — October 21, 2026
 
 All 27 contributed Squamish URLs now appear as suggested reading on Squamish358 and in the owner-study catalogue, with supplied bibliography labels and provenance. The prepared catalogue contains17studies/328distinctURLs, retaining all prior301. No substantive-source count, narrative, depth label or content-review date changed. The full attachment, private paths and attachment fingerprint are excluded. Original publications, scope and access require later review. Idaho/Minnesota/Texas priorities and the50-credit reserve remain. Consult Publication-Status.md for deployment verification.
+| Jumano_History_Culture_and_Timeline | 18 | 151 Jumano; five matched existing inspected sources | Thirteen unmatched URLs remain reading leads pending original-source review |

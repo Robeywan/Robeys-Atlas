@@ -54,6 +54,20 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
    evidenceNote:'The Pueblo identifies Ysleta, Texas, in the El Paso area as home to its Tigua community and publishes its own current tribal-government and community information. This is a present-day community/government location route only, not a homeland boundary or a complete account of Tigua historical geography.',
    reviewDate:'2026-10-22'
   }], 'Only the evidence-reviewed Ysleta present-location route was added');
+ }else if(file==='data/owner-reading-leads.json'){
+  // Preserve the full existing catalogue and allow only a newly documented
+  // owner-supplied study whose original URLs remain leads pending inspection.
+  assert.equal(currentData.addedAt,priorData.addedAt);
+  assert.equal(currentData.status,priorData.status);
+  assert.equal(currentData.documents.length,priorData.documents.length+1);
+  for(let i=0;i<priorData.documents.length;i++)
+   assert.deepEqual(currentData.documents[i],priorData.documents[i],'Prior owner-study document preserved: '+priorData.documents[i].key);
+  const added=currentData.documents.at(-1);
+  assert.equal(added.key,'Jumano_History_Culture_and_Timeline');
+  assert.deepEqual(added.originalIds,[151]);
+  assert.equal(added.links.length,18);
+  assert.equal(new Set(added.links.map(x=>x.url)).size,18);
+  assert(added.links.every(x=>x.documentKey===added.key&&x.reviewStatus),'New owner study provenance retained');
  }else assert.deepEqual(priorData,currentData,file+' preserved');
 }
 console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));
