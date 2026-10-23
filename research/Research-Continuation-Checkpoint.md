@@ -1,3 +1,9 @@
+# Prepared Mescalero Apache language-program update — October 23, 2026
+
+Visually inspected both pages of the scanned PDF linked from the Mescalero Apache Tribe’s September 9, 2024 post. It reports two immersion teachers hired for early-childhood settings, planned class start dates, and mentor–apprentice recruitment/peer learning. Ceremony-specific details were excluded. Planned activity is not treated as confirmed later delivery; no follow-up outcomes were found in this source. Added the PDF as a substantive work to Mescalero Apache (original 209), bringing the profile to eight substantive works and six cited sections; initial adequacy remains Adequate initial introduction, with explicit dated limits. Review: outputs/Mescalero-Apache-Language-Program-Review-2026-10-23.md. No map added. The current add-on does not change its published 2024 source snapshot. After publication, continue Texas source gaps, then Minnesota and Idaho.
+
+The owner’s Jumano study remains an 18-URL lead set already catalogued; no new URLs or source inspections were inferred from the attachment.
+
 # Published research checkpoint — Kickapoo (original 165), October 23, 2026
 
 Public Site version 76 is live: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/kickapoo/?v=76#sources. Added selected, inspected sections of the Tribe-hosted 2025 Strategic Tribal Transportation Safety Plan and the public Chapter 20 Indian Child Welfare Code. Kickapoo now has 14 substantive inspected works, six supporting references excluded, seven cited sections, and initial adequacy **Still unfinished**. The plan records a consultant-assisted planning process and proposed strategies; the code copy’s enactment/current status remains unverified. No crash data, precise locations, confidential cases, or map associations were added. Full review: outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. Receipt: outputs/Kickapoo-Community-Policy-Publication-Record.json.
@@ -581,4 +587,10 @@ Usage checkpoint after publication: ordinary five-hour use 19% consumed, weekly 
 
 
 
+
+# Prepared Texas source batch — Lipan Apache (original 185), October 23, 2026
+
+Added Annie Rosenthal’s April 19, 2024 Marfa Public Radio report on the Presidio cemetery protection and public-history project after reading the full visible text and captions. The report includes attributed accounts from descendants and Lipan Apache Tribe of Texas leadership and describes descendant participation in historical-marker interpretation. Audio and photographs were not used; sensitive burial details were omitted. Lipan Apache now has fourteen substantive works, but remains **Still unfinished** with existing treaty, community-coverage, chronology and no-community-review gaps. No map added. Review: `lipan-apache-185-presidio-cemetery-review-20261023.md`.
+
+The Jumano study’s eighteen public URLs remain catalogued leads; this pass found no new URLs and inferred no content checks from the attachment. Continue Texas, then Minnesota, then Idaho; next inspect evidence depth for Minnesota Ojibwe government coverage. Publish this reviewed batch if validation succeeds, then refresh the checkpoint and outputs with the native receipt.
 

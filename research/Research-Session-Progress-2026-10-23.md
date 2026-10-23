@@ -1,3 +1,10 @@
+# Mescalero Apache (original 209) — language-program update
+
+Inspected the complete two-page scanned PDF linked from the Tribe’s September 9, 2024 language-program post. The report says two immersion teachers had been hired for early-childhood settings, lists intended class starts, and discusses mentor–apprentice recruitment and peer learning. These statements are reported as a dated snapshot; later implementation and outcomes remain unverified. Ceremony-specific details were excluded. The profile now has eight substantive works, six cited sections and an Adequate initial introduction judgment with explicit limits; this is not deep research or community review. No map added. Full review: `outputs/Mescalero-Apache-Language-Program-Review-2026-10-23.md`.
+
+The Jumano attachment’s 18 URLs were already catalogued as reading leads; no new URL extraction or inspections were inferred. Next continue Texas source gaps, then Minnesota and Idaho. Usage before publication checks: five-hour24%, weekly34%, credits53.8894195, ordinary usage available, no credits spent.
+
+---
 # Texas research follow-up — Atakapa / Ishak, October 23, 2026
 
 Published version 61 adds Darensbourg’s 2021 CC BY 4.0 essay on composing Ishakkoy poetry and songs from dictionary examples. Read the complete two-page article. Atakapa now has 11 substantive works, four supporting references, five cited sections, and Still unfinished initial adequacy. No map added. Review: `outputs/Atakapa-Texas-Research-Followup-2026-10-23.md`; receipt: `outputs/Atakapa-Followup-Publication-Record.json`.

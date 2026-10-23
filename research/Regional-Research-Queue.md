@@ -257,3 +257,9 @@ The owner-supplied Jumano study’s eighteen URLs were already catalogued; they 
 
 
 
+## Texas source update — Lipan Apache, October 23, 2026
+
+The Lipan Apache (185) guide adds one full-text Marfa Public Radio feature on the completed Presidio cemetery protection and public-history project. The profile now has fourteen substantive inspected works and remains **Still unfinished**. The story is used as a dated, attributed local case study; its audio and photographs were not used, sensitive burial details were omitted, and no map association was made. Review: `lipan-apache-185-presidio-cemetery-review-20261023.md`.
+
+The Jumano DOCX’s eighteen public URLs remain catalogued leads. A fresh check found no uncatalogued URLs; the remaining original manuscripts/full texts have not been inspected. Do not infer content checks from the DOCX or its metadata records. Continue source-first coverage in Texas, then Minnesota, then Idaho; next check the Minnesota Ojibwe government coverage for source-level gaps before deciding whether to expand it, and preserve the Idaho five-government review. Add a map only if ordinary source research directly supports a particular community and period.
+
