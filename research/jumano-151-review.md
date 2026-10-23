@@ -1,0 +1,33 @@
+# Jumano (original entry 151) — Texas research review, October 23, 2026
+
+## Initial status
+
+The profile now contains **7 substantive inspected works** and **5 inspected supporting references excluded from the substantive count**. The target remains about 12 strong works where available; this is not a quota claim. The collection is a bounded first research pass, and initial adequacy remains **Not assessed**. No community review or endorsement is recorded.
+
+The historical label has a contested scope. Nancy P. Hickerson’s Handbook of Texas article and Texas Beyond History’s educational exhibit support a model of Jumano as a distinct people with long-distance trade and diplomacy. Kelley’s work distinguishes particular Jumano groups from Patarabueye communities at La Junta. Bolton’s 1911 paper argues for continued southern Texas presence and changing political alliances, including the possibility that Spanish writers used Jumano for distinct groups. These are interpretations of uneven colonial records. The La Junta archaeology synthesis emphasizes that the confluence was a multi-community crossroads, that Spanish records have long gaps, and that identities are difficult to match to archaeology.
+
+The Texas Beyond History exhibit contains dated outsider claims that Jumano culture was gone and that only biological traces remained, while also acknowledging a modern movement in West Texas. Those assertions are not treated as established fact. The 2021 Big Bend Sentinel report records Jumano Nation of Texas historian Felix Bonilla Salmeron’s account that Jumano people remain and describes the nation’s efforts to find descendants. Separately, the Indigenous-led People of La Junta for Preservation names Jumano among several descendant communities connected to La Junta and describes its own stewardship work. Neither source is made to speak for the other or for all people connected to historical Jumano labels.
+
+The enrolled 2019 Texas House resolution is retained as a supporting civic record: it shows that the House honored the named Jumano Indian Nation of Texas. Its historical assertions and population figure are not independently verified here, and it is not a federal recognition decision. The National Archives guide and short publisher/event records remain supporting references, outside the substantive count.
+
+## Sources with actual content inspection
+
+1. [Nancy P. Hickerson, “Jumano Indians,” Handbook of Texas](https://www.tshaonline.org/handbook/entries/jumano-indians) — full visible article and bibliography read; cited literature and colonial manuscripts were not separately reviewed.
+2. [Nancy A. Kenmotsu, “Who Were the Jumano?” and “Jumano-Spanish Relations,” Texas Beyond History](https://www.texasbeyondhistory.net/trans-p/peoples/jumano.html) — both modules and credits page read; the exhibit adapts Kenmotsu’s 1994 dissertation and 2001 article. Its conclusions and dated disappearance language are attributed, not adopted as present fact.
+3. [Herbert E. Bolton, “The Jumano Indians in Texas, 1650–1771” (1911)](https://upload.wikimedia.org/wikipedia/commons/c/ce/The_Jumano_Indians_in_Texas%2C_1650-1771_%28IA_jumanoindiansint00boltrich%29.pdf) — complete 26-page scan inspected across the paper’s main argument, geography, alliance history, and 1771 discussion. It has OCR/scan limitations; underlying Mexican archival manuscripts were not inspected.
+4. [J. Charles Kelley, Jumano and Patarabueye (1986)](https://www.jstor.org/stable/10.3998/mpub.11395349) — selected JSTOR excerpts and chapter structure inspected, including chapters on historical data and identity; full text requires institutional access and was not read.
+5. [“Historian discusses history of the Jumano nation,” Big Bend Sentinel (July 14, 2021)](https://bigbendsentinel.com/2021/07/14/historian-discusses-history-of-the-jumano-nation/) — full visible article body and attributed remarks of Felix Bonilla Salmeron read; sign-in interface appears below the story. The underlying talk was not recorded or inspected.
+6. [“Preserving Our Ancestral Lands,” People of La Junta for Preservation](https://www.peopleoflajunta.org/) — homepage read; its first-party description names Jumano among multiple descendant communities at La Junta. Its organizational scope is distinct from the Jumano Nation of Texas.
+7. [“La Junta Reconsidered,” Texas Beyond History](https://www.texasbeyondhistory.net/junta/reconsidered.html) — full visible synthesis read; it compares Kelley, Kenmotsu, and Morgenthaler interpretations and states limits in the colonial documentary record. Cited works and archaeological datasets were not independently inspected.
+
+## Supporting references excluded from the substantive count
+
+- [Texas House Resolution 1565](https://capitol.texas.gov/tlodocs/86R/billtext/html/HR01565F.htm): enrolled text read; a state honorary resolution, not independent historical verification or federal recognition.
+- [National Archives, Native Communities — Desert Southwest guide](https://www.archives.gov/files/research/native-americans/communities/desertsouthwest-nativecommunities-guide.pdf): introduction and Jumano catalog-note row read; linked records were not opened, and the guide is not current legal-status authority.
+- [University of Texas Press, The Jumanos](https://utpress.utexas.edu/9780292789753/): publisher description and chapter list inspected; the 1994 book itself was not read.
+- [Hickerson, “The Linguistic Position of Jumano,” Journal of Anthropological Research](https://www.journals.uchicago.edu/doi/abs/10.1086/jar.44.3.3630262): abstract and access terms inspected; full article requires subscription, institutional access, or purchase and was not read.
+- [Humanities Texas, 2021 Marfa Lights Festival event record](https://www.humanitiestexas.org/news/articles/around-state-meet-jumano-nation-marfa-lights-festival): event text, participant names/roles, and photo credit read; it is not an independent historical study.
+
+## Gaps and next review
+
+Continue searching for first-party Jumano Nation of Texas educational material and a wider range of community perspectives, without treating one organization as representative of all descendants. Inspect original Spanish and Mexican archival records directly where accessible, and compare later specialist work on the linguistic debate and named La Junta communities. The full Hickerson linguistic article and Kelley book remain limited-access leads, not full-text inspections. Do not infer disappearance from silence in colonial records. No specific archival map was inspected in this batch, so no new map association was made.

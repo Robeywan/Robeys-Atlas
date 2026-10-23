@@ -1,5 +1,9 @@
 # Research records
 
+## Current regional batch — Jumano, original 151 (October 23, 2026)
+
+The Jumano profile now has seven substantive inspected works, five inspected supporting references excluded from that count, and six cited sections. Initial adequacy remains Not assessed. The historical name's scope is contested; the page distinguishes scholarly interpretations, colonial archive limits, the contemporary Jumano Nation of Texas account reported in the Big Bend Sentinel, and the separate Indigenous-led People of La Junta for Preservation. No specific archival map was inspected and no map link was added. Full review: jumano-151-review.md. Next Texas target: Coahuiltecan (original 76); continue remaining Texas coverage before Minnesota and Idaho.
+
 The authoritative current synthesis and source annotations are in `../data/profiles.json`. The generated per-entry ledger is `../dist/data/research-progress.json`.
 
 The owner’s latest priority is source-first research in Texas, then Minnesota, then Idaho; significant map expansion and map QA are paused. Add a map connection only when normal source review directly supports the people/community, period and relationship. Coushatta (original 89) has a Texas-focused supplement with 12 substantive inspected works and an explicit dated initial-adequacy rationale; its research remains open. Lipan Apache (original 185) now has 10 substantive inspected works, six cited sections, six excluded supporting references, and initial adequacy not assessed. See `lipan-apache-185-review.md`. Next is Jumano (original 151), then remaining Texas profiles before Minnesota and Idaho. Karankawa (original 157) now has 12 inspected substantive works, six supporting references, six cited sections, and initial adequacy not assessed; see karankawa-157-review.md. See `Research-Plan.md`, `Regional-Research-Queue.md`, and `latest-batch.json`.
