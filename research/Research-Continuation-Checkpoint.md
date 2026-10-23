@@ -1,3 +1,21 @@
+# Latest research checkpoint — Ysleta del Sur Pueblo language-program review, October 23, 2026
+
+A second Texas-focused source review is prepared. The Ysleta del Sur Pueblo profile received its own Cultural Development Division description of the Southern Tiwa language-preservation program as one substantive community work; a brief Department of Cultural Preservation overview is support-only. Profile: nine substantive works, three support-only, six cited synthesis sections, **Adequate initial introduction**. These undated pages describe program design and cultural safeguards; the actual curriculum/materials, present schedule, fluency and outcomes remain unreviewed. No restricted material or map added. Review: outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md.
+
+Latest completed publication remains Coushatta, Site version 73; see the published block below. Next regional target: Texas Kickapoo (original 165), focusing on the existing gaps in substantial Tribe-authored historical, cultural and language/education materials. Preserve Texas, Minnesota and Idaho order; keep maps paused unless ordinary research directly supports one.
+
+Usage before validation: five-hour17%, weekly33%, ordinary usage available; shared credits53.8894195 unchanged, no credits spent. Preserve 85% weekly ceiling and stop before short-window exhaustion with time to checkpoint.
+
+---
+# Published checkpoint — Coushatta, October 23, 2026
+
+Site version 73 is live. Coushatta (original 89) now has 13 substantive inspected works, two supporting references excluded from the count, 12 cited sections, and a dated **Adequate initial introduction** assessment. Added the Louisiana Coushatta community’s public Koasati Digital Dictionary after inspecting its landing page and four actual entries. The section and annotations distinguish its scope from Texas and Oklahoma Coushatta governments. Full dictionary scope, audio, grammar and current language outcomes remain open. No map added. Live profile checked at https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/coushatta/?v=73#sources.
+
+Review: outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md; receipt: outputs/Coushatta-Koasati-Digital-Dictionary-Publication-Record.json. Source `a1e1b24f974c428d76db4a237e7dc490fccb4073`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_2c726da953608191aebd96f0455e3bf4`; deployment `appgdep_6adb6a8589f8819188fb2caa390c3f51` succeeded.
+
+Next: continue concrete Texas source gaps, then Minnesota and Idaho. Jumano’s 18 URLs remain preserved leads with no inspection inferred from the document. Usage: five-hour17%, weekly33%, shared credits53.8894195 unchanged; no credits spent. Maintain the 85% weekly ceiling and preserve a short-window finishing margin.
+
+---
 # Latest checkpoint — Coushatta Koasati dictionary, October 23, 2026
 
 Coushatta (original 89) has 13 substantive inspected works, two supporting references excluded, and a bounded **Adequate initial introduction** judgment. Added the Coushatta Tribe of Louisiana’s collaborative Koasati Digital Dictionary: complete landing text and four actual entries inspected. The revised synthesis describes Louisiana-centered language documentation without generalizing across Texas and Oklahoma Coushatta governments. Full dictionary coverage, audio, grammar, current usage and learning outcomes remain open. No map added. Review: outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md.
@@ -20,7 +38,7 @@ Usage at publication: five-hour 15%, weekly 33%, ordinary usage available, share
 
 Added two inspected works to Kootenai (original 174): Gary Aitken Sr.’s June 4, 2003 oral statement in the Senate hearing record (printed pp. 14–16; delivered on behalf of the Upper Columbia United Tribes) and the 2025 USGS Kootenai River restoration report (selected PDF sections read). The profile now has eight substantive works and seven synthesis sections. Initial adequacy: **Still unfinished**, with uneven cross-border community coverage and further language, Montana Ksanka/Kootenai, 2009 master-plan and technical-method research open. No map association.
 
-Review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md. Site update is prepared but publication is pending validation. The Jumano attachment remains mapped to its existing 18 URL leads; no source inspection is inferred from the DOCX.
+Review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md. Site version 72 was successfully published and the live page/source citations were inspected. The Jumano attachment remains mapped to its existing 18 URL leads; no source inspection is inferred from the DOCX.
 
 Next: Texas Coushatta (original 89), then Minnesota, then Idaho, while preserving existing regional priorities. Current usage checkpoint: ordinary five-hour 15% consumed, weekly 33%, ordinary usage available; 53.8894195 shared credits unchanged and unused.
 ---

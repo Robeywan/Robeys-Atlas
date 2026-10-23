@@ -1,0 +1,13 @@
+# Ysleta del Sur Pueblo — public cultural preservation and Southern Tiwa program pages, October 23, 2026
+
+Two official Pueblo pages were reviewed to address the profile’s language and public-education gaps. The Cultural Development Division’s language-preservation page was added as one substantive community source, bringing the profile to nine substantive works. The broader Department of Cultural Preservation overview is retained as a short supporting reference outside that count. The profile remains **Adequate initial introduction**, with language materials, current schedules, legal history and community review still open.
+
+## Inspected works
+
+The complete visible body of the [Cultural Development Division page](https://www.ysletadelsurpueblo.org/tribal-services/department-of-cultural-preservation/cultural-development-division) was read. It describes the Pueblo’s Southern Tiwa preservation program as using classes on language history and phonetics, Miromaa software for archival and teaching materials, collaboration with linguists and fluent speakers, and Traditional Council review intended to prevent teaching materials from disclosing sacred or traditional information. No Miromaa materials, recordings, dictionary, curriculum, language data or class schedule were inspected. The page is undated; its statements are attributed to the Pueblo’s public description and are not presented as independently evaluated outcomes or a present-day enrollment/fluency measure.
+
+The complete visible body of the [Department of Cultural Preservation page](https://www.ysletadelsurpueblo.org/tribal-services/department-of-cultural-preservation) was also read. It describes public-facing museum exhibits, guided tours, guest lectures and demonstrations, and distinguishes some arts and scholarly classes restricted to Pueblo members and their families. It is a brief institutional orientation, so it is retained as supporting context rather than counted as a substantive work. No member-restricted material was accessed.
+
+## Profile changes and limits
+
+The language/cultural work section now cites the 2025 year-end report, the 2023 Cultural Center route, and these two current department pages. The text distinguishes community description from evaluation: program design and safeguards are described, but learning results, fluency, current schedule and the actual materials are not claimed. The profile’s quantity and initial adequacy remain separate: nine substantive works, three support-only cards, **Adequate initial introduction**, with no community review or endorsement claimed. No map association was added.

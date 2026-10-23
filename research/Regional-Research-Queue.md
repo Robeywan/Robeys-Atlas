@@ -1,3 +1,13 @@
+## Latest Texas cultural preservation review — Ysleta del Sur Pueblo, October 23, 2026
+
+Ysleta del Sur Pueblo (added access point) now has nine substantive inspected works and three supporting references, with **Adequate initial introduction** retained. The Pueblo’s Cultural Development Division page on Southern Tiwa preservation was read in full and counted once; a short Cultural Preservation overview is support-only. The pages describe educational-program design and cultural safeguards, not current fluency or measured outcomes. No member-restricted material or map was accessed. Review: `outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md`.
+
+Next Texas target: Kickapoo (original 165), focusing on the named gaps in substantive Texas community-authored history and language/education work. Then Minnesota and Idaho. Maps remain paused unless an ordinary source directly supports a particular relationship and period.
+## Latest Texas source batch — Coushatta Koasati dictionary, October 23, 2026
+
+Coushatta (original 89) is published in Site version 73 with 13 substantive inspected works, two supporting references excluded, 12 cited sections and an **Adequate initial introduction** assessment with open gaps. The Louisiana Coushatta digital Koasati dictionary’s landing page and four actual entries were reviewed as one resource. Its language-project scope is not generalized to Texas or Oklahoma governments. No map was added. Full report: `outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md`.
+
+Next: continue Texas based on the specific gaps in the inspected inventory and profile guides, then Minnesota, then Idaho. Maps remain paused except when routine source review directly supports an individual relationship and period.
 # Latest Texas source batch — Coushatta Koasati dictionary, October 23, 2026
 
 Coushatta (original 89) now has 13 substantive inspected works, two supporting references excluded, and an **Adequate initial introduction** assessment with open gaps. This batch adds one community-backed digital Koasati dictionary after reading its landing page and four actual entries. Claims stay scoped to the Coushatta Tribe of Louisiana; Texas and Oklahoma governments remain distinct. No map was added. Review: outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md.
