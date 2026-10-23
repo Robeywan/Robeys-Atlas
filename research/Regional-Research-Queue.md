@@ -125,3 +125,11 @@ The latest owner authorization permits useful work using all remaining existing 
 
 Final allowance checkpoint (2026-10-21T23:47:03Z): 65.196012 account credits remain; weekly consumed usage 75%; included five-hour usage exhausted. The owner's about50-credit reserve is preserved. No further credit-funded batch starts inside the finishing margin. Shared-account balance changes are not isolated Atlas billing. Scheduled continuation stays active for quiet availability checks and included-usage resumption.
 
+
+# Current checkpoint — Lipan Apache follow-up, October 22, 2026
+
+The Texas-focused Lipan Apache collection now has twelve substantive inspected works, seven supporting records excluded, six cited sections, and initial adequacy Still unfinished. Two new works were read in full: Webster’s 2007 place-name article (small one-narrator corpus, no boundary inference) and the 1846 Council Springs multination treaty text (implementation and party-specific Lipan response unresolved). The supporting archive catalogue has a named-nation indexing discrepancy. No historical map was added. Full follow-up review: `outputs/Lipan-Apache-Texas-Research-Review-2026-10-22-followup.md`.
+
+Next target: continue Texas source coverage with Kickapoo (original 165), whose Texas-focused supplement has five substantive works and substantial open gaps; then return to Minnesota and Idaho. Keep the historical map collection intact and add a map only when regular source review directly substantiates a specific relationship.
+
+Usage checked October 22, 2026, America/Denver: ordinary five-hour window 4% consumed and available; weekly window 25% consumed; shared balance 53.8894195 credits. No credits spent. Continue with ordinary usage, leave a safe margin for validation and publication, and preserve the 85% weekly ceiling.

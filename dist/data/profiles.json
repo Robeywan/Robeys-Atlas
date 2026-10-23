@@ -28623,22 +28623,25 @@
       },
       {
         "title": "Place, movement, and regional history",
-        "text": "The Tribe-hosted homeland essay and its community-contributed timeline describe relationships with the upper Brazos, Colorado, Concho, San Antonio, Rio Grande and northern Mexican communities across different periods. Brandon Seale’s Handbook of Texas account offers a broader scholarly narrative of these changing relations. These are historically situated associations, not a single fixed boundary and not evidence that all places were occupied at the same time.",
+        "text": "The Tribe-hosted homeland essay and its community-contributed timeline describe relationships with the upper Brazos, Colorado, Concho, San Antonio, Rio Grande and northern Mexican communities across different periods. Brandon Seale’s Handbook of Texas account offers a broader scholarly narrative. Anthony K. Webster’s linguistic study examines place names in Augustina Zuazua’s 1938 narrative to Harry Hoijer; the article gives different totals in its main text and notes, leaves some locations unidentified, and cautions against broad conclusions from this small sample. These accounts offer historically situated evidence, not a surveyed boundary or proof that all places were occupied at the same time.",
         "sourceIds": [
           "lp185-homeland-article",
           "lp185-community-timeline",
-          "lp185-tsha-handbook"
+          "lp185-tsha-handbook",
+          "lp185-webster-placenames-2007"
         ]
       },
       {
         "title": "Diplomacy across Spanish, Mexican, and Texas governments",
-        "text": "Community-authored histories discuss Lipan diplomacy with Mexican and Republic of Texas authorities, including the Bustamante agreement and the 1838 Treaty of Live Oak Point. Seale’s reference article also discusses these relationships and the 1844 Tehuacana Creek negotiations. Treaty landing pages and scans remain useful primary-source leads, but the original documents were not readable in this review; their terms, ratification, implementation, and Indigenous responses are not independently asserted here.",
+        "text": "Community-authored histories discuss Lipan diplomacy with Mexican and Republic of Texas authorities, including the Bustamante agreement and the 1838 Treaty of Live Oak Point. The Tribe-reproduced 1846 Council Springs treaty is a multination U.S. instrument that names Lipan alongside other Native parties; its articles address U.S.-directed trade regulation, prisoners, legal arrangements, and other terms. The Indigenous Digital Archive/National Archives catalogue gives a March 8, 1847 ratification date, though its normalized named-nations field omits Lipan. This record does not establish implementation or a single Lipan response. The 1838 and 1844 treaty scans remain unread, so their terms are not independently summarized here.",
         "sourceIds": [
           "lp185-mexico-article",
           "lp185-republic-article",
           "lp185-tsha-handbook",
           "lp185-live-oak-treaty-lead",
-          "lp185-tehuacana-treaty-lead"
+          "lp185-tehuacana-treaty-lead",
+          "lp185-council-springs-treaty-1846",
+          "lp185-council-springs-treaty-catalogue"
         ]
       },
       {
@@ -28932,8 +28935,8 @@
           "Oral history",
           "Community memory"
         ],
-        "annotation": "A 2026 doctoral dissertation whose repository abstract describes a study combining archives, oral testimonies, family interviews and community memory. Its full 230-page text is a high-priority lead for a later close review; the abstract alone is not treated as verified chapter evidence.",
-        "contentReviewScope": "Repository metadata and abstract only. The full PDF request returned HTTP 403 to the available reader; this is not evidence of a reader paywall and no access control was bypassed. Excluded from the substantive source count.",
+        "annotation": "A 2026 doctoral dissertation whose repository abstract outlines an argument about non-reservation Lipan continuity and describes archival, oral-history, family-interview and community-memory methods. The abstract represents the author’s thesis, not independently verified chapter-level evidence; the full 230-page work remains a high-priority reading lead.",
+        "contentReviewScope": "Repository metadata and abstract were read. The linked full-text request returned HTTP 403 to the available reader; that response does not establish a reader paywall. No access control was bypassed, the dissertation remains unread, and this lead is excluded from the substantive-source count.",
         "publicationDate": "May 2026",
         "accessed": "2026-10-22",
         "contentReviewedAt": "2026-10-22",
@@ -28969,13 +28972,73 @@
           "Contemporary government",
           "Federal recognition legislation"
         ],
-        "annotation": "The introduced September 16, 2026 bill proposes federal recognition and contains findings concerning the Tribe. Its introduction and referral to the House Committee on Natural Resources do not make it law or establish congressional findings; this record is kept as a dated legislative lead, not a settled status statement.",
-        "contentReviewScope": "The complete introduced bill text and front matter were read. It was introduced and referred to committee on September 16, 2026. No later action is claimed from this source; the bill is excluded from substantive historical research counts.",
+        "annotation": "The introduced September 16, 2026 bill proposes federal recognition and contains legislative findings about the Tribe. Its introduction and committee referral do not make it law; statements in bill findings are attributed to Congress as proposed text and are not treated here as independently established historical findings. Retained as a dated supporting legislative reference, not a substantive historical work.",
+        "contentReviewScope": "The complete introduced bill text and front matter were read, including its proposed recognition and services provisions. It was introduced and referred to the House Committee on Natural Resources on September 16, 2026. This record does not establish later action or enacted status and remains excluded from the substantive research count.",
         "publicationDate": "September 16, 2026",
         "accessed": "2026-10-22",
         "contentReviewedAt": "2026-10-22",
         "countsTowardMinimum": false,
         "sourceKind": "Introduced bill; not enacted"
+      },
+      {
+        "id": "lp185-webster-placenames-2007",
+        "url": "https://ans-names.pitt.edu/ans/article/download/1786/1785/3574",
+        "title": "Lipan Apache Placenames of Augustina Zuazua: Some Structural and Discursive Features",
+        "publisher": "Anthony K. Webster, Names: A Journal of Onomastics 55(2)",
+        "type": "Academic / journal article",
+        "topics": [
+          "Language",
+          "Place names",
+          "History",
+          "Texas",
+          "Northern Mexico"
+        ],
+        "annotation": "A linguistic and ethnohistorical analysis centered on Augustina Zuazua’s 1938 narrative to Harry Hoijer. Webster examines how place names work in that account and cautions that a small sample from one narrator cannot support broad claims about all Lipan Apache naming practices. The article’s abstract and main text refer to 22 names, while a note identifies a twenty-third; several locations remain unidentified. These names are not a surveyed boundary or a statement of present-day territorial extent.",
+        "publicationDate": "June 2007",
+        "accessed": "2026-10-22",
+        "contentReviewedAt": "2026-10-22",
+        "contentReviewScope": "The full 20-page article was read, including its discussion of the 1938 narrative, place-name forms and discourse, comparative analysis, conclusion and notes. The author explicitly limits generalization because the corpus is small and centered on one narrator. Some locations are unidentified; no new boundary geometry is inferred.",
+        "countsTowardMinimum": true,
+        "sourceKind": "Peer-reviewed linguistic/ethnohistorical article"
+      },
+      {
+        "id": "lp185-council-springs-treaty-1846",
+        "url": "https://www.lipanapache.org/LAT/assets/PDFs/treaties/Treaty05-15-1846.pdf",
+        "title": "Treaty with the Comanche, Ioni, Anadaco, Caddo, Lipan, Longwa, Keechi, Tawakoni, Tonkawa, Wichita, and Waco (Council Springs, 1846)",
+        "publisher": "United States commissioners and named Native parties; treaty text reproduced by the Lipan Apache Tribe",
+        "type": "Primary document",
+        "topics": [
+          "Treaty",
+          "Diplomacy",
+          "United States",
+          "Texas",
+          "Primary source"
+        ],
+        "annotation": "A multination treaty text that names Lipan among its parties. Its articles describe U.S.-directed trade regulation, prisoner return, law-enforcement arrangements and other terms. Read as a government-recorded instrument and not as proof of implementation, uniform Lipan consent or response, or a boundary. The parallel Indigenous Digital Archive/National Archives record identifies ratification on March 8, 1847; its normalized “Named Native nations” tags omit Lipan despite Lipan appearing in the catalog title and treaty preamble.",
+        "publicationDate": "Concluded May 15, 1846; ratified March 8, 1847 (archival catalogue date)",
+        "accessed": "2026-10-22",
+        "contentReviewedAt": "2026-10-22",
+        "contentReviewScope": "The full six-page treaty text was read, including its preamble, articles, amendments/stricken clauses and signatures page. The Indigenous Digital Archive/National Archives Treaty 246 catalogue record was also inspected for title, date, ratification metadata and named-nation indexing. No claim is made about implementation or the Lipan parties’ interpretation.",
+        "countsTowardMinimum": true,
+        "sourceKind": "Ratified multination treaty text"
+      },
+      {
+        "id": "lp185-council-springs-treaty-catalogue",
+        "url": "https://digitreaties.org/treaties/treaty/175516187/",
+        "title": "Ratified Indian Treaty 246 — Council Springs, 1846 (catalogue and related archival copies)",
+        "publisher": "Indigenous Digital Archive Treaties Explorer / National Archives partnership",
+        "type": "Archive / government catalogue",
+        "topics": [
+          "Treaty",
+          "Archival description",
+          "Texas"
+        ],
+        "annotation": "Supporting catalogue record for the multination 1846 treaty, including related National Archives file units and the March 8, 1847 ratification date. Its “Named Native nations” indexing does not list Lipan even though the catalogue title and treaty text do; this is recorded as a catalogue scope/indexing issue, not an inference about the treaty parties. Excluded from the substantive-work count because the treaty itself is counted once.",
+        "accessed": "2026-10-22",
+        "contentReviewedAt": "2026-10-22",
+        "contentReviewScope": "The full visible catalogue record and its named-nation/present-day-nation fields were inspected. Related copies are not counted as separate works.",
+        "countsTowardMinimum": false,
+        "sourceKind": "Supporting archival catalogue"
       }
     ],
     "relatedOriginalIds": [
@@ -28993,34 +29056,36 @@
     "researchComplete": false,
     "communityReview": "Not recorded",
     "initialAdequacy": {
-      "status": "Not assessed",
+      "status": "Still unfinished",
       "reviewedAt": "2026-10-22",
-      "rationale": "This is a bounded Texas-focused research pass, not a completed assessment of the broader Lipan Apache people or all present communities. The profile now combines community-published histories, one scholarly state-history entry, and an institutional account of a related Mescalero community. Further source review is needed before judging whether this is an adequate initial collection.",
+      "rationale": "This bounded Texas-focused collection now contains twelve substantive inspected works, including a full scholarly place-name study and the full text of a ratified multination treaty. The quantity target has been reached, but the collection remains unfinished: direct community-source depth and coverage of related Lipan communities remain uneven, treaty implementation and party-specific responses are unverified, two earlier treaty scans and two full theses/dissertations remain unread, legal and chronology questions remain open, and no community review is recorded.",
       "remainingLimits": [
-        "The original 1838 and 1844 treaty scans are linked by the Tribe but were not readable in the available reader; do not treat their landing pages as inspected treaty text.",
-        "The 2026 UTEP dissertation and 2016 UTRGV thesis were inspected only through repository abstracts; full texts returned automated HTTP 403 responses and were not accessed or counted.",
-        "The TSHA article is a substantial outside historical synthesis; its bibliography points to community historians, archival records, and scholarship that require separate review.",
-        "The 1903/1904 date difference for Lipan arrivals at the Mescalero community needs source-level resolution.",
-        "The Texas State Library and Archives catalog has a metadata record for a historical map with Lipan Apache as a subject; the image was not inspected, so no map-to-profile association has been made.",
-        "Current legal status, enrollment, population, language use, and the relationships among Lipan communities in Texas, New Mexico, Oklahoma, and northern Mexico require further, carefully scoped research.",
+        "The 1838 and 1844 treaty scans linked by the Tribe were not readable in the available reader; do not treat the landing pages as inspected treaty text. The 1846 multination treaty was read, but it does not establish implementation or a uniform Lipan response.",
+        "The 2026 UTEP dissertation and 2016 UTRGV thesis were inspected only through repository abstracts; full texts returned automated HTTP 403 responses and remain unread and uncounted.",
+        "The TSHA article is an outside historical synthesis; its bibliography points to community historians, archival records and scholarship that require separate review.",
+        "The 1903/1904 difference for Lipan arrivals at the Mescalero community and the 1934/1936 reorganization dates need source-level resolution.",
+        "The Texas State Library and Archives map 01413 remains metadata-only; the image was not inspected and no map-to-profile association has been made.",
+        "The Webster place-name article is based primarily on one narrator’s 1938 account, includes some unidentified locations, and should not be used to draw a fixed homeland boundary or generalize beyond its own small sample.",
+        "Current legal status, enrollment, population, language use and relationships among Lipan communities in Texas, New Mexico, Oklahoma and northern Mexico require further, carefully scoped research.",
         "No community review or endorsement has been recorded."
       ]
     },
     "researchGaps": [
-      "The original 1838 and 1844 treaty scans are linked by the Tribe but were not readable in the available reader; do not treat their landing pages as inspected treaty text.",
-      "The 2026 UTEP dissertation and 2016 UTRGV thesis were inspected only through repository abstracts; full texts returned automated HTTP 403 responses and were not accessed or counted.",
-      "The TSHA article is a substantial outside historical synthesis; its bibliography points to community historians, archival records, and scholarship that require separate review.",
-      "The 1903/1904 date difference for Lipan arrivals at the Mescalero community needs source-level resolution.",
-      "The Texas State Library and Archives catalog has a metadata record for a historical map with Lipan Apache as a subject; the image was not inspected, so no map-to-profile association has been made.",
-      "Current legal status, enrollment, population, language use, and the relationships among Lipan communities in Texas, New Mexico, Oklahoma, and northern Mexico require further, carefully scoped research.",
+      "The 1838 and 1844 treaty scans linked by the Tribe were not readable in the available reader; do not treat the landing pages as inspected treaty text. The 1846 multination treaty was read, but its implementation and Lipan-specific response remain unverified.",
+      "The 2026 UTEP dissertation and 2016 UTRGV thesis were inspected only through repository abstracts; full texts returned automated HTTP 403 responses and remain unread and uncounted.",
+      "The TSHA article is an outside historical synthesis; its bibliography points to community historians, archival records and scholarship that require separate review.",
+      "The 1903/1904 difference for Lipan arrivals at the Mescalero community and the 1934/1936 reorganization dates need source-level resolution.",
+      "The Texas State Library and Archives map 01413 remains metadata-only; the image was not inspected and no map-to-profile association has been made.",
+      "The Webster place-name article is based primarily on one narrator’s 1938 account and includes unidentified locations; it cannot support a fixed homeland boundary or broad conclusions about all Lipan place-naming practices.",
+      "Current legal status, enrollment, population, language use and relationships among Lipan communities in Texas, New Mexico, Oklahoma and northern Mexico require further, carefully scoped research.",
       "No community review or endorsement has been recorded."
     ],
     "evidenceNotes": [
-      "This Texas-focused source batch adds eight substantive inspected publications to the two pre-existing source cards. The treaty scans, bill, related-community reference, and thesis/dissertation abstracts are supporting or further-reading records and do not count toward substantive source quantity.",
-      "The community-authored web essays are by Nancy McGown Minor and are counted as distinct topic-specific publications, while their shared authorship and institutional host are stated. Their historical claims remain attributed rather than treated as independent corroboration.",
-      "The TSHA entry cites a wide bibliography and uses a strong continuity-centered interpretation. Its full text was reviewed, but its underlying cited books and archival sources were not; its synthesis is balanced with community publications and marked for deeper checking.",
-      "The 1903/1904 arrival and 1934/1936 incorporation differences among the Lipan Tribe, Mescalero Tribe and NPS accounts may refer to different events, but the current records do not resolve them. NPS’s 2021 phrase about no longer having a “discernible presence” in Lipan homeland is explicitly attributed and not used to imply disappearance.",
-      "No historical map was added or assigned. A Texas State Library and Archives catalog result (map record 01413) lists Lipan Apache among subjects on a broad manuscript-map copy, but it is metadata-only for this pass and its map image and depicted labels were not inspected."
+      "October 22, 2026 follow-up: the collection now has twelve substantive inspected works (ten previously counted, plus Webster’s 2007 article and the 1846 Council Springs treaty text), seven supporting records excluded from the count, and six cited sections. Reaching the numerical target does not complete the research or establish adequacy/community endorsement.",
+      "Webster’s full article analyzes place names centered on Augustina Zuazua’s 1938 narrative. The article cautions that broad claims cannot be made from its small sample; the abstract/main discussion mention 22 names while a note mentions a twenty-third, and some places are unidentified. The Atlas uses it as attributed linguistic/ethnohistorical interpretation, not as a boundary source.",
+      "The full six-page 1846 Council Springs treaty text was read. It is a multination instrument naming Lipan among other Native parties and was ratified in 1847 according to the Indigenous Digital Archive/National Archives catalogue. The catalogue’s normalized “Named Native nations” field omits Lipan despite its title and the treaty preamble; this indexing discrepancy is preserved. Treaty text is not evidence by itself of implementation, a uniform Lipan response, or a modern homeland boundary.",
+      "The 2026 H.R. 10435 text and UTEP dissertation abstract were rechecked as supporting records only. Proposed legislative findings and a dissertation abstract are attributed positions, not independently corroborated findings; the full dissertation and the UTRGV thesis remain unread after automated HTTP 403 responses.",
+      "The earlier Lipan source review remains valid for its original eight-source addition and other inspection limits. The current initial adequacy is Still unfinished because substantive gaps remain despite reaching twelve inspected works. No historical map was added or assigned."
     ],
     "added": false,
     "slug": "lipan-apache",

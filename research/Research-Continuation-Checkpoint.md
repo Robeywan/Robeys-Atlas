@@ -1,3 +1,14 @@
+
+# Current checkpoint — Lipan Apache follow-up, October 22, 2026
+
+The Texas-focused Lipan Apache collection now has twelve substantive inspected works, seven supporting records excluded, six cited sections, and initial adequacy Still unfinished. Two new works were read in full: Webster’s 2007 place-name article (small one-narrator corpus, no boundary inference) and the 1846 Council Springs multination treaty text (implementation and party-specific Lipan response unresolved). The supporting archive catalogue has a named-nation indexing discrepancy. No historical map was added. Full follow-up review: `outputs/Lipan-Apache-Texas-Research-Review-2026-10-22-followup.md`.
+
+Next target: continue Texas source coverage with Kickapoo (original 165), whose Texas-focused supplement has five substantive works and substantial open gaps; then return to Minnesota and Idaho. Keep the historical map collection intact and add a map only when regular source review directly substantiates a specific relationship.
+
+Usage checked October 22, 2026, America/Denver: ordinary five-hour window 4% consumed and available; weekly window 25% consumed; shared balance 53.8894195 credits. No credits spent. Continue with ordinary usage, leave a safe margin for validation and publication, and preserve the 85% weekly ceiling.
+
+---
+
 # Current continuation checkpoint — October 23, 2026
 
 Latest source-focused batch: Ojibwe (original 265), with 13 substantive inspected works, eight supporting references excluded, seven cited sections and initial adequacy **Still unfinished**. Its Minnesota-focused guide distinguishes the six Minnesota Chippewa Tribe Bands from Red Lake Nation and includes community accounts from Mille Lacs, Red Lake, White Earth, Bois Forte, Fond du Lac, Grand Portage and Leech Lake-specific educational material. Depth is uneven across communities; no new map association was added, and the prior Grand Portage link remains in place. Review: `outputs/Ojibwe-Minnesota-Research-Review-2026-10-23.md`.
@@ -281,4 +292,5 @@ Latest research: Coahuiltecan (original 76), published with 12 substantive inspe
 The owner’s Jumano study is integrated as 18 suggested-reading links. Five match existing inspected source cards; thirteen remain unread leads. The catalog has 18 studies and 346 distinct URLs. Continue with Caddo (original 38), then Texas, Minnesota, and Idaho. Add map links only when source research directly supports the particular community and period.
 
 Usage before follow-up publication: ordinary included use available; five-hour 40% used, weekly 22% used, shared credit balance 53.8894195 unchanged. No credits were spent. Keep the weekly 85% ceiling and stop before five-hour exhaustion to preserve checkpoint and publishing capacity.
+
 
