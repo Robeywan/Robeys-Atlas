@@ -263,3 +263,9 @@ The Lipan Apache (185) guide adds one full-text Marfa Public Radio feature on th
 
 The Jumano DOCX’s eighteen public URLs remain catalogued leads. A fresh check found no uncatalogued URLs; the remaining original manuscripts/full texts have not been inspected. Do not infer content checks from the DOCX or its metadata records. Continue source-first coverage in Texas, then Minnesota, then Idaho; next check the Minnesota Ojibwe government coverage for source-level gaps before deciding whether to expand it, and preserve the Idaho five-government review. Add a map only if ordinary source research directly supports a particular community and period.
 
+## Latest Minnesota source update — Ojibwe / Grand Portage, October 23, 2026
+
+Added one substantive Band-authored news release on Grand Portage’s 2026 land return to the Minnesota-focused Ojibwe guide (original 265). The full article body was read; the Band’s historical framing is attributed and the underlying title/treaty/allotment records were not independently examined. No map was added. Eighteen substantive works are now recorded; adequacy remains **Still unfinished** because source depth varies across seven Minnesota government routes and broader Ojibwe communities remain uncovered. Review: `ojibwe-265-grand-portage-land-return-review-20261023.md`.
+
+Next Minnesota target: Dakota (original 95), with attention to distinct governments and direct community sources. Continue Idaho’s five-government review afterward; preserve remaining Texas gaps. The Jumano DOCX’s 18 URLs are already catalogued as leads, not content checks.
+

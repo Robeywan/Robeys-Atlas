@@ -54,3 +54,9 @@ Updated original entry 394 with seven substantive inspected works, six supportin
 ## Kickapoo (original 165) — community policy supplement, Site version 76
 
 Read selected portions of two official primary texts: the 2025 Tribal Transportation Safety Plan (printed pp. 1–4, 34–41) and Chapter 20 of the public Indian Child Welfare Code (pp. 1–2, 5–6, 10–12). The plan documents a consultant-assisted planning process, data limitations, and proposed outreach strategies; it does not establish outcomes. The code states goals for maintaining family/Tribal ties and access to cultural learning; its date and current legal status remain unverified. The profile now has 14 substantive works, 6 supporting-only references, 7 cited sections, and initial adequacy Still unfinished. No map added. Review: outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. Version 76 successfully deployed and inspected live. Next: Texas gaps, then Minnesota and Idaho.
+# Ojibwe / Grand Portage Band — Minnesota source update
+
+Reviewed the full Grand Portage Band news release reporting its February 16, 2026 land acquisition. Added it as one substantive work in the Minnesota-focused Ojibwe reading path. The Band’s account distinguishes treaty cession, state school-trust transfer, and allotment for three specific parcels; those records were not independently traced. The release’s linked map/images were not opened; no map association added. Ojibwe now has eighteen substantive works and remains **Still unfinished**. Review: `outputs/Ojibwe-Grand-Portage-Land-Return-Research-Review-2026-10-23.md`.
+
+Next: Minnesota Dakota (original 95), then Idaho. The Jumano study’s 18 URLs remain preserved leads; no new URL or source inspection was inferred from the attachment.
+

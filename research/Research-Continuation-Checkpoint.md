@@ -594,3 +594,9 @@ Added Annie Rosenthal’s April 19, 2024 Marfa Public Radio report on the Presid
 
 The Jumano study’s eighteen public URLs remain catalogued leads; this pass found no new URLs and inferred no content checks from the attachment. Continue Texas, then Minnesota, then Idaho; next inspect evidence depth for Minnesota Ojibwe government coverage. Publish this reviewed batch if validation succeeds, then refresh the checkpoint and outputs with the native receipt.
 
+# Prepared Minnesota source batch — Ojibwe / Grand Portage, October 23, 2026
+
+Read the complete public Grand Portage Band March 16, 2026 news release about the February 16 transfer of three parcels to Band ownership. It presents the Band’s account of a current land return and distinguishes treaty cession, state school-trust transfer, and allotment as different routes for those parcels’ loss. The linked map/images and underlying treaty/title records were not inspected. The Ojibwe (original 265) guide now has eighteen substantive works and remains **Still unfinished** because Minnesota community coverage is uneven and broader Ojibwe communities remain beyond this focused pass. No map added. Review: `ojibwe-265-grand-portage-land-return-review-20261023.md`.
+
+The Jumano DOCX’s eighteen URLs remain catalogued leads; no new URL or content check was inferred. After publication, continue Minnesota coverage with Dakota (original 95), distinguishing the distinct Dakota governments, then review Idaho’s five-government inventory. Keep Texas gaps open and maps paused except where ordinary source research supports a specific community and period.
+
