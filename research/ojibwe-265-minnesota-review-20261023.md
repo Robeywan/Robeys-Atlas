@@ -38,4 +38,12 @@ The Minnesota Chippewa Tribe’s linked “History of the Tribe” page did not 
 
 Further work should add direct community historical materials for every Minnesota Band, primary treaty records and legal decisions, specialist Ojibwe-language scholarship, relevant Wisconsin and Canadian communities, and additional community-reviewed public history. The existing Grand Portage map-profile association is retained with its prior evidence; this pass did not inspect a map object or create a new map association. The state-level regional route remains a navigation aid, not a homeland boundary.
 
-Next: continue the state priority with Idaho coverage, checking the five listed governments and associated people/band labels against community sources before expanding the directory. Preserve the Texas and Minnesota research gaps for later.
+## Leech Lake Band follow-up — October 23, 2026
+
+Added p265-s23, the Leech Lake Band of Ojibwe’s *Materials Related to the Co-Management of the Chippewa National Forest*. The source is a 133-page compilation. I inspected the full 20-page historical/current overview titled “The Right to Self-Governance” (PDF pages 4–23), but did not inspect the later presentations, MOU, appendices, management letters, implementation guide, or species list as separate works. The Band’s website policy identifies the site as its official site and says content is submitted by Band officials and staff.
+
+This first-party account expands the Leech Lake reading path beyond the Smithsonian lesson. It explains the Band’s framing of treaty-era land changes, the Nelson Act, allotment and logging, the 1898 Sugar Point conflict, and its relationship with the Chippewa National Forest. It records different Pillager and military accounts of how the 1898 conflict began. The booklet’s treaty-right and legal conclusions remain attributed; treaty texts, court opinions and cited historical records need separate review. Its bundled 2019–2020 materials are dated institutional documents, not a status audit of current policy. No map or sensitive location information was reused.
+
+The synthesis is cited in the treaty/land-tenure, contemporary-priorities, and scope sections. The profile has 14 substantive works and remains **Still unfinished** because depth across seven Minnesota governments and the wider Ojibwe peoples is uneven. No map association was added.
+
+Next: continue Minnesota community coverage, then Idaho, preserving the outstanding Texas gaps. Add a map only if regular source research directly supports a specific people, community and period.
