@@ -1,3 +1,9 @@
+# Jumano profile review — October 23, 2026
+
+Jumano (original 151) now has twelve substantive inspected works, eight supporting references excluded, six cited sections, and initial adequacy **Still unfinished**. The owner-supplied study contributed eighteen public URLs: five were previously matched to inspected source cards, six additional leads were reviewed in this batch (four substantive works and two supporting records), and seven remain unread. Important gaps remain in direct archival review and community-authored coverage. No map was added.
+
+Next: focus Minnesota source research on Dakota (original 95), then check coverage of Minnesota’s separate Ojibwe governments and proceed to Idaho. This follows the owner’s Texas, Minnesota, Idaho priority; add maps only when regular source research documents a specific association.
+
 # Caddo Texas research â€” October 22, 2026
 
 Caddo (original 38) now has 17 substantive inspected works, two supporting references excluded from the count, six cited sections, and a dated **Still unfinished** adequacy assessment. The profile distinguishes the living Caddo people and present Caddo Nation government from historical Caddo-speaking confederacies, the narrower Kadohadacho label, and separate linguistically related Nations. The synthesis combines Caddo Nation language-program material, Caddo-authored oral histories and named testimony, archaeological/public-history interpretations, the 1835 treaty text, and a dated 1938 constitution. No map connection was added. Full review: `outputs/Caddo-Texas-Research-Review-2026-10-22.md`.
@@ -81,7 +87,7 @@ The following are existing saved records, not new source inspections. They do no
 | Texas | Yaqui | 441 | 0 |
 | Texas | Kickapoo | 165 | 0 |
 | Texas | Caddo | 38 | 17 |
-| Texas | Jumano | 151 | 7 |
+| Texas | Jumano | 151 | 12 |
 | Texas | Lipan Apache | 185 | 10 |
 | Texas | Karankawa | 157 | 12 |
 | Texas | Coahuiltecan | 76 | 12 |

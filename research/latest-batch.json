@@ -1,82 +1,38 @@
 {
-  "reviewedAt": "2026-10-22",
+  "reviewedAt": "2026-10-23",
   "priority": "Texas, Minnesota and Idaho source research; add maps only when supported by source review",
-  "originalIds": [76, 151, 38],
-  "names": ["Coahuiltecan", "Jumano", "Caddo"],
-  "sourceLinks": 18,
+  "originalIds": [
+    151
+  ],
+  "names": [
+    "Jumano"
+  ],
+  "sourceLinks": 20,
   "profiles": [
-    {
-      "originalId": 76,
-      "name": "Coahuiltecan",
-      "inspectedSources": 12,
-      "supportingInspectedReferences": 3,
-      "sections": 6,
-      "initialAdequacy": {
-        "status": "Still unfinished",
-        "reviewedAt": "2026-10-22",
-        "rationale": "Twelve substantive resources have actual-content inspection records, including first-party Tāp Pīlam and Miakan/Garza materials, a peer-reviewed study of one Miakan-Band program, scholarly and educational syntheses, and targeted mission research. They support a careful introductory profile and document major disagreements. The source target is a quantity measure, not a finding that the broad umbrella entry is complete or that these communities endorse the synthesis.",
-        "remainingLimits": [
-          "The entry covers a broad historical umbrella; the evidence cannot stand in for separate research on the many named peoples and contemporary communities placed under it.",
-          "The origin and scope of the term Coahuiltecan conflict across sources and remain unresolved.",
-          "Mission registers and language records are incomplete; group-to-language and group-to-place identifications need further primary-source and specialist review.",
-          "No community review or endorsement is recorded; Tāp Pīlam and Miakan/Garza sources remain distinct.",
-          "The Institute language page contains an internally inconsistent status statement; no current speaker count is asserted.",
-          "No present population, exhaustive descendant list, legal-status determination or specific map association is asserted."
-        ]
-      }
-    },
     {
       "originalId": 151,
       "name": "Jumano",
-      "inspectedSources": 7,
-      "supportingInspectedReferences": 5,
-      "sections": 6,
-      "initialAdequacy": {
-        "status": "Not assessed",
-        "reviewedAt": "2026-10-23",
-        "rationale": "Seven distinct substantive resources have actual-content inspection records: scholarly and educational syntheses, a complete early journal article, selected excerpts from a limited-access monograph, a local report quoting a Jumano historian, and an Indigenous-led La Junta organization’s own description. Five supporting records are kept outside the substantive count. This is a useful initial reading path, but historical identifications, contemporary community coverage, and primary-record access remain too limited to judge adequacy.",
-        "remainingLimits": [
-          "No community review or endorsement is recorded; the Jumano Nation of Texas and People of La Junta for Preservation are distinct organizations and must not be treated as interchangeable.",
-          "The full 1986 Kelley monograph and full 1988 Hickerson linguistic article were not inspected; only selected JSTOR excerpts and the publisher abstract were available.",
-          "Spanish and Mexican archival manuscripts discussed by Bolton, Kelley, and the Texas Beyond History exhibits were not independently opened or read.",
-          "The conflicting models for the name Jumano, the Taovayas/Wichita relationship, Tompiro Pueblo communities, and La Junta groups require further specialist review.",
-          "Current community-authored publications, language evidence, family and community histories, and the range of contemporary Jumano perspectives need deeper review.",
-          "No current population estimate, exhaustive identity or descent claim, or federal recognition determination is made.",
-          "No historical map was specifically inspected in this source batch; no new map-to-profile link was added."
-        ]
-      }
-    },
-    {
-      "originalId": 38,
-      "name": "Caddo",
-      "inspectedSources": 17,
-      "supportingInspectedReferences": 2,
+      "substantiveWorksInspected": 12,
+      "supportingReferencesExcluded": 8,
       "sections": 6,
       "initialAdequacy": {
         "status": "Still unfinished",
-        "reviewedAt": "2026-10-22",
-        "rationale": "Seventeen distinct substantive works were inspected across Caddo Nation program material, Caddo-authored oral-history synthesis and testimony, archaeology and public history, a treaty text, and a historical governance document. This supports an accessible initial account of identity, homeland, archaeology, displacement, language work, and continuity. The collection remains unfinished because the post-removal era and current community/government perspectives are still thin, the region and named communities require more comparative review, and further primary and specialist works need direct inspection.",
+        "reviewedAt": "2026-10-23",
+        "rationale": "This review brings the collection to twelve distinct substantive works with actual content inspected. The source target is reached for now, but the evidence remains weighted toward historical and archaeological interpretation derived from colonial records. Current community-authored historical and cultural material, broader community perspectives, and direct inspection of key archival records are still insufficient for an adequate initial introduction.",
         "remainingLimits": [
-          "Additional Caddo Nation-authored histories and current government materials need inspection.",
-          "Post-removal history, including Civil War, allotment, federal policy, and 1860–1902, needs deeper review.",
-          "The 1835 treaty’s manuscript, ratification record, later agreements, and implementation were not inspected.",
-          "Caddo Archeology Journal volume 23 remains unread after automated access failure.",
-          "The northern Arkansas Basin’s relationship to Caddo identity remains debated; no fixed boundary is asserted.",
-          "No present population, speaker count, exhaustive community list, or community endorsement is claimed."
+          "No community review or endorsement is recorded. Jumano Nation of Texas and People of La Junta for Preservation are distinct organizations and are not treated as interchangeable or representative of every person connected to historic Jumano labels.",
+          "The collection has twelve substantive works, but many analyze the same uneven Spanish documentary record; source quantity does not resolve the historical identity debate.",
+          "The 1986 Kelley monograph and 1988 Hickerson linguistic article remain partially inspected or abstract-only; the full texts were not reviewed.",
+          "Spanish and Mexican archival manuscripts discussed in the secondary literature, including the 1683–84 Domínguez de Mendoza diary, were not independently read.",
+          "The range of contemporary Jumano community publications, family histories, language evidence, and cultural transmission remains limited and needs further review.",
+          "The relationships among historical Jumano labels, Taovayas/Wichita, Tompiro Pueblo communities, and La Junta peoples remain contested; no exhaustive descent, identity, population, or federal recognition claim is made.",
+          "Historical maps described or reproduced in secondary pages were not independently inspected for this batch; no map-to-profile connection was added."
         ]
       }
     }
   ],
-  "leadUpdate": {
-    "originalId": 151,
-    "name": "Jumano",
-    "contributedStudy": "Jumano_History_Culture_and_Timeline.docx",
-    "newDistinctURLs": 18,
-    "matchedPreviouslyInspectedSources": 5,
-    "unreviewedSuggestedLeads": 13
-  },
-  "nextOriginalId": 151,
-  "nextName": "Jumano",
+  "nextOriginalId": 95,
+  "nextName": "Dakota (Minnesota coverage)",
   "contributedStudies": 18,
   "contributedURLs": 346
 }
