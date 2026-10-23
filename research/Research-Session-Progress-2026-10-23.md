@@ -1,3 +1,12 @@
+# Texas research follow-up — Atakapa / Ishak, October 23, 2026
+
+Published version 61 adds Darensbourg’s 2021 CC BY 4.0 essay on composing Ishakkoy poetry and songs from dictionary examples. Read the complete two-page article. Atakapa now has 11 substantive works, four supporting references, five cited sections, and Still unfinished initial adequacy. No map added. Review: `outputs/Atakapa-Texas-Research-Followup-2026-10-23.md`; receipt: `outputs/Atakapa-Followup-Publication-Record.json`.
+
+Next: continue Texas, Minnesota and Idaho research where an existing community profile has concrete source gaps. Map work remains paused unless a specific map relation emerges in substantive source review. The Jumano study’s 18 URLs remain catalogued as leads; no duplicate extraction or evidence checks were made in this pass.
+
+Usage: five-hour 27%, weekly 29%, credits 53.8894195; ordinary use available; no credits spent.
+
+---
 # Texas research update — Atakapa / Ishak, October 23, 2026
 
 Atakapa (original 21) was reviewed across 10 substantive sources and four supporting references. Five cited sections cover naming/community scope, the colonial record, Ishakkoy documentation, cultural memory and arts, and distinct present community contexts. Initial adequacy remains **Still unfinished** because primary records, the Smithsonian field-card collection, archaeology, and broader community coverage remain incomplete. No map added. Review: `outputs/Atakapa-Texas-Research-Review-2026-10-23.md`.
@@ -34,3 +43,7 @@ Usage after publication: five-hour window 4% consumed, weekly 25% consumed, ordi
 Updated original entry 394 with seven substantive inspected works, six supporting/context references excluded, eight cited sections and a dated Still unfinished assessment. Rewrote the overview and reading path to center the current Tonkawa Tribe of Oklahoma and distinguish its own history/language publications, government and scholarly summaries, and 1837/1891 treaty records. The 1907 council-adopted memorial is presented as direct evidence of the Tribe’s later claim, not as a court finding. Open issues include the 1846 treaty text, 1862 accounts, earlier geography and broader community-authored material. No map added. The Jumano study’s eighteen URLs were already catalogued; no duplicate leads or source checks were created.
 
 
+
+## Kickapoo (original 165) — community policy supplement, Site version 76
+
+Read selected portions of two official primary texts: the 2025 Tribal Transportation Safety Plan (printed pp. 1–4, 34–41) and Chapter 20 of the public Indian Child Welfare Code (pp. 1–2, 5–6, 10–12). The plan documents a consultant-assisted planning process, data limitations, and proposed outreach strategies; it does not establish outcomes. The code states goals for maintaining family/Tribal ties and access to cultural learning; its date and current legal status remain unverified. The profile now has 14 substantive works, 6 supporting-only references, 7 cited sections, and initial adequacy Still unfinished. No map added. Review: outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. Version 76 successfully deployed and inspected live. Next: Texas gaps, then Minnesota and Idaho.

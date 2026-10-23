@@ -1,6 +1,10 @@
-# Prepared research checkpoint — Kickapoo (original 165), October 23, 2026
+# Published research checkpoint — Kickapoo (original 165), October 23, 2026
 
-Reviewed the Kickapoo Traditional Tribe of Texas's public 2025 Strategic Tribal Transportation Safety Plan and selected sections of its posted Chapter 20 Indian Child Welfare Code. The profile now has 14 substantive inspected works, six supporting references excluded, seven cited sections, and initial adequacy **Still unfinished**. The plan documents a consultant-assisted planning process and proposed safety/outreach strategies; the code copy states dated policy goals but its enactment/current status is unverified. No crash data, precise locations, confidential cases, or map associations were added. Review: outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. Next continue Texas source gaps, then Minnesota and Idaho.
+Public Site version 76 is live: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/kickapoo/?v=76#sources. Added selected, inspected sections of the Tribe-hosted 2025 Strategic Tribal Transportation Safety Plan and the public Chapter 20 Indian Child Welfare Code. Kickapoo now has 14 substantive inspected works, six supporting references excluded, seven cited sections, and initial adequacy **Still unfinished**. The plan records a consultant-assisted planning process and proposed strategies; the code copy’s enactment/current status remains unverified. No crash data, precise locations, confidential cases, or map associations were added. Full review: outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. Receipt: outputs/Kickapoo-Community-Policy-Publication-Record.json.
+
+Source commit `42c1fe407cba640a2a85e041d2ab2c5aebad13ca`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_5ada340410788191936c9723a49b9f44`; deployment `appgdep_6adb725050288191920a77f354590190` succeeded at 2026-10-23T14:42:34.802500Z. Site-wide citations, internal links, regional mapping and historical-map preservation checks passed. Live profile verified. No retry pending.
+
+Next: continue Texas community-specific source gaps, then Minnesota and Idaho. The Jumano study’s 18 URLs remain catalogued reading leads; no inspections are inferred from the DOCX.
 # Published checkpoint — Ysleta del Sur Pueblo, version 75, October 23, 2026
 
 Version 75 is live at https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ysleta-del-sur-pueblo/?v=75#sources. A stale evidence-note sentence was corrected to reflect the source count chronology (eight before the new language-preservation source; nine after). This was not new research and did not change the count. Validation passed and the corrected line was checked live. Receipt: outputs/Ysleta-Evidence-Note-Correction-Publication-Record.json.
@@ -571,6 +575,7 @@ Publication receipt: outputs/Tonkawa-Publication-Record.json. Rendered QA also c
 Usage checkpoint after publication: ordinary five-hour use 19% consumed, weekly 28% consumed, ordinary use available, shared credit balance 53.8894195. No credits spent. Preserve a safe margin for the short-window checkpoint and the weekly 85% ceiling.
 
 ---
+
 
 
 

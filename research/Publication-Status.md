@@ -1,3 +1,10 @@
+## Kickapoo community-policy supplement — public version 76 (October 23, 2026)
+
+Published a cited Kickapoo update: https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/kickapoo/?v=76#sources. Two primary documents were added: the Tribe’s 2025 transportation safety plan and selected sections of its public Chapter 20 Indian Child Welfare Code. Kickapoo now has 14 substantive inspected works, six supporting references, and seven cited sections; initial adequacy remains **Still unfinished**. The plan describes planning and proposed strategies, not demonstrated outcomes. The code’s current legal status is unverified. No map was added.
+
+All site checks passed: 471 profiles, 21,508 internal links, 9,930 citation anchors, zero errors, 103 regional targets, and all 17 historical maps / 14 reviewed routes preserved. The live source section, citations, source counts, and open-gap assessment were inspected. Version 76 archive and research exports were refreshed. Full review: `outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md`; publication receipt: `outputs/Kickapoo-Community-Policy-Publication-Record.json`.
+
+Source commit `42c1fe407cba640a2a85e041d2ab2c5aebad13ca`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_5ada340410788191936c9723a49b9f44`; successful deployment `appgdep_6adb725050288191920a77f354590190` at `2026-10-23T14:42:34.802500Z`. No retry pending.
 # Latest publication — Ysleta evidence-note count correction, version 75
 
 Published October 23, 2026: [Ysleta del Sur Pueblo profile](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ysleta-del-sur-pueblo/?v=75#sources). Corrected an old evidence-note sentence so it accurately says the profile had eight substantive works before the 2026-10-23 addition and nine afterward. This was a consistency fix only; no research count changed. The live page shows the corrected chronology. Source commit `76e19ba709dee5342af0241e50bc3207cbec65e9`; version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_8014cedc63248191a6150b597b1dbeda`; deployment `appgdep_6adb6f34bedc819184c782996fdd9a41` succeeded. Receipt: outputs/Ysleta-Evidence-Note-Correction-Publication-Record.json. No retry pending.
@@ -322,6 +329,7 @@ Source commit 15c91929a2a30d8a58cbb37d8d28833e01aaa824; saved version appgprj_6a
 Usage after publication: five-hour 19%, weekly 28%, ordinary use available, shared credit balance 53.8894195; no credits spent.
 
 ---
+
 
 
 
