@@ -1,0 +1,3 @@
+# Atakapa / Ishak — source review note, 2026-10-23
+
+Added p21-s18, Pauly Denetclaw's September 3, 2021 Texas Observer interview with Mary LeBlanc, identified in the article as Akokisa and a retired Atakapa-Ishak Nation council member. Full visible article text and byline/project context were inspected. Treat as a reported first-person perspective; statements about deep-time continuity, mound form/use, and historical movement are not independently established here. Do not reproduce sensitive ceremonial locations or the companion map. Counts toward the profile target because the full interview provides substantive, directly relevant community evidence. See outputs/Atakapa-Texas-Research-Followup-2026-10-23-interview.md.
