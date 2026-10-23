@@ -15764,68 +15764,385 @@
     "name": "Coeur d'Alene",
     "region": "Pacific Northwest / Idaho",
     "kind": "People / community",
-    "overview": "The Coeur d’Alene Tribe has homelands in the inland Northwest and publishes language and historical resources.",
+    "overview": "The Coeur d’Alene Tribe identifies itself as Schitsu’umsh, “Those who were found here.” This guide follows the Tribe’s own public accounts of homeland, governance and language alongside historical agreements, a Supreme Court decision, a tribal-authored history and environmental records. The sources describe different periods and kinds of evidence; none of the regional or legal summaries is a complete map of community history.",
     "sections": [
       {
-        "title": "Identity and context",
-        "text": "The Coeur d’Alene Tribe has homelands in the inland Northwest and publishes language and historical resources.",
+        "title": "Names, community and living government",
+        "text": "The Tribe’s public “Our Tribe” page uses Schitsu’umsh and explains the English name “Coeur d’Alene” as a French label applied by outsiders. The Tribe describes a continuing people with its own government and language. These are the community’s own public descriptions. A 1947 constitution scan records an earlier formal government structure; its text is a historical document, and current government or membership rules should be checked against current tribal publications rather than inferred from this edition.",
         "sourceIds": [
+          "cd-our-tribe",
+          "p81-s2"
+        ]
+      },
+      {
+        "title": "Homeland, waterways and historical change",
+        "text": "The Tribe describes a homeland organized around waterways, villages, trade and seasonal relationships. Its ancestral-lands page and 2012 Integrated Resource Management Plan emphasize continuing relationships with land and water while recounting later cessions and the loss of land access. The Tribe’s acreage descriptions vary by document and method; they should be read as attributed community or planning statements, not fixed boundaries. Public historical agreements also record proposed or conditional arrangements. Read together, these records show colonial-era legal changes without implying that a document alone captures consent, lived experience or the full extent of homeland.",
+        "sourceIds": [
+          "cd-ancestral-lands",
+          "cd-irmp",
+          "cd-agreement-1873",
+          "cd-agreement-1889"
+        ]
+      },
+      {
+        "title": "Language, writing and teaching",
+        "text": "The Tribe’s language materials distinguish the Coeur d’Alene language from the larger Salish language family and from neighboring languages. A tribal account describes documentation and orthography work by Lawrence G. Nicodemus and Joseph N. Bitar, and the Tribe’s elementary curriculum page describes a four-year STEP grant and a Tribe-created social-studies curriculum. These sources document published approaches and a dated program; they do not measure present language fluency or establish current program availability. The brief language overview is retained as a starting point but is not counted as a substantive work.",
+        "sourceIds": [
+          "cd-reading-writing",
+          "cd-language-questions",
+          "cd-elementary",
           "p81-s1"
         ]
       },
       {
-        "title": "A path for deeper reading",
-        "text": "Focus the next stage of research on: Schitsu’umsh naming, language, land and contemporary sovereignty. The sources below are selected reading paths; their authorship, dates and community scope should guide how they are used.",
+        "title": "Agreements, reservation history and a defined legal holding",
+        "text": "The July 1873 agreement proposed a reservation and included terms subject to further federal action; the archive records it as not ratified. The September 1889 agreement described a northern land cession and made its operation conditional on ratification of an earlier agreement. These are primary texts, useful for studying what their signatories and drafters wrote, not self-explanatory accounts of consent. In Idaho v. United States (2001), the Supreme Court held that the United States holds specified submerged lands within the current reservation in trust for the Tribe. That decision concerns submerged-land title within reservation boundaries; it does not decide ownership of the entire lake or every water and land interest in the basin.",
         "sourceIds": [
-          "p81-s1",
+          "cd-agreement-1873",
+          "cd-agreement-1889",
+          "cd-idaho-v-us"
+        ]
+      },
+      {
+        "title": "Stewardship, mining and environmental history",
+        "text": "The Tribe’s resource plan and its public lake-management account describe relationships among land, water, health and cultural resources, as well as the effects of mining and dam operations. A 1995 federal environmental review preserves a tribal position statement and a history attributed to Bingo Sijohn; these are important, specifically attributed tribal perspectives inside a government compilation. The EPA’s Bunker Hill record independently documents mining-related contamination, cleanup actions and continuing risks across the basin. EPA figures and work status change over time, so its live site and its July 2024 bulletin are dated snapshots. The compiled exhibits contain sensitive cultural-resource details; this guide does not reproduce those locations.",
+        "sourceIds": [
+          "cd-irmp",
+          "p81-s3",
+          "cd-lake-challenges",
+          "cd-epa-site",
+          "cd-epa-bulletin"
+        ]
+      },
+      {
+        "title": "How to read this collection",
+        "text": "Begin with the Tribe’s own identity, land and language pages, then compare its planning documents with the agreements and court opinion. Use the EPA records for environmental cleanup history and the 1995 exhibits for the Tribe’s position as it was submitted in that review. The constitution, agreements and court decision each answer different legal or historical questions. Dates, authorship and selected-page limits matter throughout; none of these works alone represents every family, period or current community perspective.",
+        "sourceIds": [
+          "cd-our-tribe",
+          "cd-ancestral-lands",
+          "cd-reading-writing",
+          "cd-irmp",
           "p81-s2",
-          "p81-s3"
+          "p81-s3",
+          "cd-agreement-1873",
+          "cd-agreement-1889",
+          "cd-idaho-v-us",
+          "cd-epa-site",
+          "cd-epa-bulletin"
         ]
       }
     ],
     "sources": [
       {
-        "id": "p81-s1",
-        "title": "Language – Coeur d'Alene Tribe",
-        "publisher": "cdatribe-nsn.gov",
-        "url": "https://www.cdatribe-nsn.gov/our-tribe/language/",
+        "id": "cd-our-tribe",
+        "title": "Our Tribe",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/our-tribe/",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
+          "Community",
+          "Governance"
+        ],
+        "annotation": "Read the Tribe’s public self-description and naming account. It identifies the people as Schitsu’umsh, explains the French-derived English label, and describes continuing government, community and language. This is a concise community-authored introduction, not a legal history or full account of internal diversity.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "cd-history",
+        "title": "History",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/our-tribe/history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Homelands"
+        ],
+        "annotation": "Community historical overview covering place, naming, government and changes in land ownership. Its acreage and timeline statements are attributed to the Tribe’s page and should be compared with dated treaties, court records and planning documents; no old population estimate is reused as current.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "cd-ancestral-lands",
+        "title": "Ancestral Lands",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/our-tribe/tribal-lands/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Homelands",
+          "Stewardship",
+          "History"
+        ],
+        "annotation": "Community account of homeland connections to waterways and villages, stewardship, land loss and later legal developments. Read as the Tribe’s public perspective, not a survey boundary. Specific sensitive sites are not reproduced.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "p81-s1",
+        "title": "Language — Coeur d’Alene Tribe",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/our-tribe/language/",
+        "type": "Indigenous-led",
+        "topics": [
           "Language"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Language – Coeur d'Alene Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Brief community language orientation, reviewed in full. Useful as a direct entry point to the Tribe’s language materials, but too short to count as a substantive inspected work.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "cd-reading-writing",
+        "title": "Reading and Writing in the Coeur d’Alene Language",
+        "publisher": "Coeur d’Alene Tribe, Culture Department",
+        "url": "https://www.cdatribe-nsn.gov/culture/language/reading-and-writing-in-the-coeur-dalene-language/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Writing",
+          "Community history"
+        ],
+        "annotation": "Read the complete public article and its alphabet/lesson material. The Tribe recounts a 1973 documentation effort and credits Lawrence G. Nicodemus and Joseph N. Bitar with language documentation and orthography work. This community narrative and teaching resource describes a particular language project, not a fluency survey.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "cd-language-questions",
+        "title": "Questions about our Schitsu’umsh Language",
+        "publisher": "Coeur d’Alene Tribe, Culture Department",
+        "url": "https://www.cdatribe-nsn.gov/culture/language/questions-about-our-schitsuumsh-language/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Names",
+          "Linguistic classification"
+        ],
+        "annotation": "Read the full Q&A, including the Tribe’s distinction between its language and the broader Salish language family and its account of writing conventions. This is an attributed community explanation; linguistic classifications should be read at the language level, not as a single shared language across the family.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "cd-elementary",
+        "title": "Elementary School: Coeur d’Alene Tribe Department of Education",
+        "publisher": "Coeur d’Alene Tribe, Department of Education",
+        "url": "https://www.cdatribe-nsn.gov/education/elementary-school/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Education",
+          "Language",
+          "Sovereignty"
+        ],
+        "annotation": "Read the page’s curriculum and STEP-grant sections. The Tribe describes a four-year project and its own elementary social-studies curriculum, linking education with sovereignty and cultural continuity. Program details are a dated account, not an evaluation of current course availability or outcomes.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "2015 grant period"
+      },
+      {
+        "id": "cd-irmp",
+        "title": "Integrated Resource Management Plan",
+        "publisher": "Coeur d’Alene Tribe, Natural Resources Department",
+        "url": "https://www.cdatribe-nsn.gov/nr/wp-content/uploads/sites/5/2023/12/CDA-Tribe-IRMP-for-Tribal-website.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Governance",
+          "Stewardship",
+          "Land",
+          "History"
+        ],
+        "annotation": "Tribal planning document, 319 pages. Inspected printed pp. 15–16, 66 and 188–190 for sovereignty, the Tribe’s resource philosophy and land-history discussion, including 1867/1873 reservation records and later cessions. Only these selected pages were read; acreage descriptions are plan-specific estimates and not mapped boundaries.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "2012"
       },
       {
         "id": "p81-s2",
-        "title": "Constitution and Bylaws of the Coeur D'Alene Tribe",
-        "publisher": "tile.loc.gov",
+        "title": "Constitution and Bylaws of the Coeur d’Alene Tribe",
+        "publisher": "Coeur d’Alene Tribe; Library of Congress digital copy",
         "url": "https://tile.loc.gov/storage-services/service/ll/llscd/57060910/57060910.pdf",
-        "type": "Government",
+        "type": "Primary document",
         "topics": [
-          "Identity",
-          "Government"
+          "Governance",
+          "History"
         ],
-        "annotation": "Context and further reading linked for this entry. The publisher’s “Constitution and Bylaws of the Coeur D'Alene Tribe” is a starting point; verify the geographical and community scope before applying its account more broadly.",
-        "accessed": "2026-10-19"
+        "annotation": "Inspected the complete six-page scan, printed constitution approved August 8, 1947, with later reproduction/imprint details. This is a historical constitution text, including period-specific membership language; it must not be presented as the current constitution or used to state present membership rules.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "1947; scan/imprint includes later reproductions"
+      },
+      {
+        "id": "cd-agreement-1873",
+        "title": "Agreement with the Coeur d’Alene, 1873",
+        "publisher": "Oklahoma State University, Indian Affairs: Laws and Treaties; underlying record cited to NARA RG 75",
+        "url": "https://treaties.okstate.edu/treaties/agreement-with-the-coeur-d-alene-1873-22674",
+        "type": "Primary document",
+        "topics": [
+          "Treaties",
+          "Land",
+          "History"
+        ],
+        "annotation": "Read the complete digitized agreement record and text. Dated July 28, 1873, it proposed a reservation and contains terms conditioned on additional federal action; the database identifies it as not ratified. Classify as an agreement, not a ratified treaty. The text documents proposed terms, not a complete account of consent or lived effects.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "1873-07-28"
+      },
+      {
+        "id": "cd-agreement-1889",
+        "title": "Agreement with the Coeur d’Alene, 1889",
+        "publisher": "Oklahoma State University, Indian Affairs: Laws and Treaties; underlying record cited to NARA RG 75",
+        "url": "https://treaties.okstate.edu/treaties/agreement-with-the-coeur-d-alene-1889-22334",
+        "type": "Primary document",
+        "topics": [
+          "Treaties",
+          "Land",
+          "History"
+        ],
+        "annotation": "Read the complete digitized agreement record and text dated September 9, 1889. It records a proposed cession and payment terms, and states that it would bind only if an earlier agreement were ratified. Read its conditions alongside the ratification record and later court history; do not treat the document alone as proof of consent.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "1889-09-09"
+      },
+      {
+        "id": "cd-idaho-v-us",
+        "title": "Idaho v. United States, 533 U.S. 262",
+        "publisher": "Supreme Court of the United States",
+        "url": "https://www.supremecourt.gov/opinions/boundvolumes/533bv.pdf",
+        "type": "Primary legal decision",
+        "topics": [
+          "Law",
+          "Reservation",
+          "Water",
+          "History"
+        ],
+        "annotation": "Read the opinion in volume 533, pp. 262–280 (bound PDF pp. 265–280 in an 868-page volume). The Court held that the United States holds in trust for the Tribe the specified submerged lands within the reservation, including portions of the lake and river. The holding is limited to title in the disputed submerged lands; it is not a ruling that the Tribe owns the whole lake or every basin interest.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "2001"
       },
       {
         "id": "p81-s3",
-        "title": "COEUR D'ALENE TRIBAL HISTORY",
-        "publisher": "bpa.gov",
+        "title": "Coeur d’Alene Tribal History, Cultural Resources & Position Statement (1995 EIS exhibits)",
+        "publisher": "Bureau of Reclamation, Bonneville Power Administration and U.S. Army Corps of Engineers, System Operation Review Final EIS exhibits; includes Tribe-submitted material",
         "url": "https://www.bpa.gov/-/media/Aep/efw/nepa/completed/system-operations-review/Final-EIS/sys-op-review-final-eis-main-report-exhibits.pdf",
+        "type": "Indigenous-led / government archive",
+        "topics": [
+          "History",
+          "Cultural resources",
+          "Water",
+          "Community perspectives"
+        ],
+        "annotation": "Inspected selected exhibit pages 143–165 in the 175-page PDF: Ernest L. Stensgar’s November 1994 comments, a 1995 Coeur d’Alene position statement, and a history attributed to Bingo Sijohn. These are tribal-submitted perspectives preserved in a federal review, not neutral editorial findings; OCR and framing are uneven. Sensitive site details are intentionally omitted.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "1994–1995"
+      },
+      {
+        "id": "cd-lake-challenges",
+        "title": "Lake Management: Challenges",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/lake/challenges/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Water",
+          "Environmental history",
+          "Stewardship"
+        ],
+        "annotation": "Read the complete public page, including its discussion of the lake’s spiritual and material importance, mining pollution, the 1991–95 management plan and hydropower licensing. The page explicitly dates several conditions and procedural details to 2005; use it as historical context, not a current status report.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "cd-epa-site",
+        "title": "Bunker Hill Mining & Metallurgical Complex: Cleanup Activities",
+        "publisher": "U.S. Environmental Protection Agency",
+        "url": "https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=1000195",
         "type": "Government",
         "topics": [
-          "Identity",
-          "History"
+          "Environmental history",
+          "Cleanup",
+          "Health"
         ],
-        "annotation": "Historical context for this entry. Read “COEUR D'ALENE TRIBAL HISTORY” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Inspected the live EPA site profile’s background, cleanup and status sections. It describes the Superfund area across northern Idaho and eastern Washington, mining-related heavy-metal contamination, cleanup actions and remaining risks. EPA’s current figures and status are date-sensitive and do not substitute for the Tribe’s account of cultural effects or priorities.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23"
+      },
+      {
+        "id": "cd-epa-bulletin",
+        "title": "Basin Bulletin: Updates on the Coeur d’Alene River Basin Cleanup",
+        "publisher": "U.S. Environmental Protection Agency, Region 10",
+        "url": "https://semspub.epa.gov/work/10/100562482.pdf",
+        "type": "Government",
+        "topics": [
+          "Environmental history",
+          "Cleanup",
+          "Community participation"
+        ],
+        "annotation": "Inspected the complete eight-page July 2024 bulletin. It records the 50th-anniversary event with Coeur d’Alene Tribe representatives, cleanup and lead-exposure information, and then-planned community-involvement work. Its property totals, schedules and risk notices are explicitly a July 2024 snapshot, not current measurements.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "2024-07"
+      },
+      {
+        "id": "cd-language-overview",
+        "title": "Language — Culture Department overview",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/culture/language/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language"
+        ],
+        "annotation": "Short program page describing dated internal language-lesson plans and teaching tools. Read as a historical project snapshot, not evidence of current enrollment or present-day fluency; kept as support rather than counted as a substantive work.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "publicationDate": "2004–2007 project plans",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "cd-natural-resources",
+        "title": "Natural Resources Department",
+        "publisher": "Coeur d’Alene Tribe",
+        "url": "https://www.cdatribe-nsn.gov/nr/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Stewardship",
+          "Governance"
+        ],
+        "annotation": "Brief departmental mission and program overview, including a 1992 program-consolidation note. Useful orientation only; detailed historical and environmental evidence is cited to the Tribe’s plan and EPA records, so this brief page is excluded from the substantive count.",
+        "accessed": "2026-10-23",
+        "contentReviewedAt": "2026-10-23",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "coverageLevel": "reviewed-source-guide",
+    "reviewedAt": "2026-10-23",
+    "researchComplete": false,
+    "communityReview": false,
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-23",
+      "rationale": "Fifteen substantive works were inspected, including multiple Coeur d’Alene Tribe publications, two agreement texts, a Supreme Court opinion, a tribal-authored position preserved in a federal EIS, and EPA cleanup records. The collection now supports a useful, cited introduction to identity, language, land, governance and environmental history, but the evidence is uneven across periods and subjects. Source quantity alone does not make the research complete or community-reviewed.",
+      "remainingLimits": [
+        "The Tribe’s history, history-page acreage descriptions and older legal records need fuller comparison with community-authored histories and archival records.",
+        "Archaeology, family histories, foodways, arts, and community perspectives beyond the selected public materials remain underrepresented.",
+        "The 1995 EIS contains sensitive cultural-resource detail and dated governmental framing; the public summary omits locations and should not be treated as a full account.",
+        "Current constitutional and governmental details should be verified against current Tribe publications before being stated as current.",
+        "Environmental cleanup figures and schedules change; this guide preserves a 2024 bulletin as a dated snapshot and EPA’s live status as reviewed October 23, 2026."
+      ]
+    },
+    "researchGaps": [
+      "The Tribe’s history, history-page acreage descriptions and older legal records need fuller comparison with community-authored histories and archival records.",
+      "Archaeology, family histories, foodways, arts, and community perspectives beyond the selected public materials remain underrepresented.",
+      "The 1995 EIS contains sensitive cultural-resource detail and dated governmental framing; the public summary omits locations and should not be treated as a full account.",
+      "Current constitutional and governmental details should be verified against current Tribe publications before being stated as current.",
+      "Environmental cleanup figures and schedules change; this guide preserves a 2024 bulletin as a dated snapshot and EPA’s live status as reviewed October 23, 2026."
+    ],
+    "evidenceNotes": [
+      "Reviewed 15 substantive works and three short supporting references on 2026-10-23. The substantive count is separate from adequacy, completion, and community review.",
+      "Source roles are intentionally distinguished: the Tribe’s own accounts describe community perspective; agreements and the 1947 constitution are historical texts; Idaho v. United States is a narrow legal holding; EPA records describe cleanup administration and status.",
+      "The 2012 IRMP was inspected only on selected pages 15–16, 66, and 188–190. The 1995 EIS exhibits were inspected on selected PDF pages 143–165. Neither review represents reading every page.",
+      "No new historical map association was added. Existing map and regional records remain unchanged."
+    ]
   },
   {
     "originalId": 82,
@@ -31531,11 +31848,11 @@
     ],
     "coverageLevel": "reviewed-source-guide",
     "evidenceNotes": [
-    "Thirteen substantive works and eight supporting resources are counted separately. Supporting cards and unread leads do not meet the source target.",
+      "Thirteen substantive works and eight supporting resources are counted separately. Supporting cards and unread leads do not meet the source target.",
       "The six Minnesota Chippewa Tribe Bands and Red Lake Nation are treated as distinct governments. Minnesota’s state lines and the regional map are navigation aids, not Indigenous homeland boundaries.",
       "Community histories, government pages, educational modules, a state-hosted historical page and NPS research answer different questions. Claims stay attributed to source, community, time and place.",
       "The 2025 White Earth Climate Action Plan is a contemporary planning source; its survey and modeled future outcomes are not population measurements or evidence of an all-Ojibwe consensus.",
-    "The existing Grand Portage map-profile association remains linked with its prior evidence; this source pass did not inspect a map object or create a new association."
+      "The existing Grand Portage map-profile association remains linked with its prior evidence; this source pass did not inspect a map object or create a new association."
     ]
   },
   {

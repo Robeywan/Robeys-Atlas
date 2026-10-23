@@ -1,3 +1,10 @@
+# Latest source batch — Coeur d’Alene / Schitsu’umsh (original 81), October 23, 2026
+
+The Coeur d’Alene profile now has 15 substantive inspected works, three short supporting references excluded, six cited sections, and a dated **Still unfinished** assessment. The research combines Tribe-published identity, land, language, education and planning material with the 1947 Constitution, 1873 and 1889 agreement records, the narrow 2001 *Idaho v. United States* holding, tribal-submitted 1995 EIS exhibits, and dated EPA environmental records. Selected-page limits and source perspective are disclosed. No map association was added. See outputs/Coeur-dAlene-Idaho-Research-Review-2026-10-23.md.
+
+Next: continue Idaho research with the broad Shoshone entry (original 347), checking Shoshone-Bannock and Shoshone-Paiute community sources separately and keeping their governments and constituent people labels distinct. Preserve Texas and Minnesota gaps; maps remain paused unless a source directly supports a specific connection.
+
+Usage after source review: five-hour usage 56%, weekly usage 24%, ordinary included usage available, shared balance 53.8894195 credits; no credits spent. Save a checkpoint before the short window is exhausted and preserve the weekly 85% ceiling.
 # Jumano profile review — October 23, 2026
 
 Ojibwe (original 265) now has a Minnesota-focused review with 13 substantive inspected works, eight supporting references excluded, seven cited sections and initial adequacy **Still unfinished**. The source guide distinguishes the six separately sovereign Minnesota Chippewa Tribe Bands from Red Lake Nation, and includes community accounts plus place-specific historical research. Depth across the seven governments is uneven; no new profile access points or historical map associations were added. Full review: `outputs/Ojibwe-Minnesota-Research-Review-2026-10-23.md`.

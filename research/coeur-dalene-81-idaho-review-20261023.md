@@ -1,0 +1,22 @@
+# Coeur d’Alene / Schitsu’umsh — Idaho research review (2026-10-23)
+
+The Coeur d’Alene profile (original access point 81) was expanded from three general reading links into a six-section cited guide. It contains 15 substantive inspected works and three short supporting references excluded from the substantive count. Initial adequacy is **Still unfinished**; this is a researched starting guide, not comprehensive coverage, completion, or community review. No new historical-map association was added.
+
+## Evidence reviewed
+
+The Tribe’s public pages were read for identity and naming (“Our Tribe”), historical account, ancestral lands, language writing and questions, elementary education, natural resources, and lake-management challenges. These are community-authored sources. The ancestral-lands and history pages provide important community perspectives, but their acreage descriptions and historical summaries are not boundaries or independently resolved legal findings. The 2012 Integrated Resource Management Plan is 319 pages; selected pages 15–16, 66, and 188–190 were read for sovereignty, resource philosophy and land history. The plan’s date and selected-page scope are explicit.
+
+Primary and legal records include the complete six-page scanned 1947 Constitution and Bylaws, the digitized 1873 and 1889 agreements, and the Supreme Court’s 2001 opinion in *Idaho v. United States*. The 1873 database record classifies the agreement as not ratified; the 1889 text itself makes its terms conditional. Neither text is presented alone as proof of consent or as a present boundary. The Court’s holding is limited to the specified submerged lands within the current reservation; it is not a decision on title to the entire lake or every basin interest. The 1947 constitution is a historical edition, not the current governing document.
+
+The 1995 System Operation Review Final EIS exhibits were inspected on PDF pages 143–165 of a 175-page compilation. They include tribal-submitted comments, a position statement and a history attributed to Bingo Sijohn. The guide identifies their authorship and federal compilation context and omits sensitive site locations. EPA’s live Bunker Hill page was read for background, cleanup and current-status sections; an eight-page July 2024 Basin Bulletin was read in full as a dated cleanup snapshot. EPA sources describe cleanup administration and environmental history, not the Tribe’s full cultural account or priorities. No historic cleanup measurements from the bulletin are presented as current.
+
+## Synthesis and remaining coverage
+
+The new profile distinguishes the Tribe’s own name and self-description from the French-derived English label, preserves the distinction between the Coeur d’Alene language and the Salish language family, and separates current community identity from period-specific agreements and court holdings. It joins tribal descriptions of land and water relationships with legal and environmental evidence without collapsing those sources into a single territorial or consent narrative.
+
+Major gaps remain in archaeological scholarship, family histories, foodways and arts, comparative review of early records and the Tribe’s account, current constitutional/governance details, and perspectives beyond the selected public materials. The 1995 EIS requires particular care because its government setting and attached cultural-resource detail shape what is visible; restricted or sensitive locations should not be reproduced. Current environmental status is date-sensitive. Continue with Idaho profiles after this meaningful Coeur d’Alene batch; do not treat its map route or regional geography as proof of additional identity.
+
+## Source review log
+
+Fifteen substantive works were read to the scopes stated on the page; three supporting resources (the Tribe’s short language overview, dated language-program overview, and Natural Resources mission page) are explicitly excluded from that count. Review date: October 23, 2026. Access was through public Tribe, Library of Congress, Oklahoma State University treaty-database, Supreme Court, Bonneville Power Administration and EPA pages/PDFs. The full 2012 plan and full 1995 EIS were not read; only the specified pages were inspected. No private or restricted material was used, no map image was reviewed or assigned, and no owner-supplied URL was treated as verified evidence without inspecting the original work.
+
