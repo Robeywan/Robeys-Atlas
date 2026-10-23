@@ -46,4 +46,10 @@ This first-party account expands the Leech Lake reading path beyond the Smithson
 
 The synthesis is cited in the treaty/land-tenure, contemporary-priorities, and scope sections. The profile has 14 substantive works and remains **Still unfinished** because depth across seven Minnesota governments and the wider Ojibwe peoples is uneven. No map association was added.
 
+## Leech Lake judicial opinions follow-up — October 23, 2026
+
+Added p265-s24 and p265-s25 after reading the complete reported opinions reproduced by Justia: *Leech Lake Band of Chippewa Indians v. Herbst*, 334 F. Supp. 1001 (D. Minn. 1971), and *State v. Forge*, 262 N.W.2d 341 (Minn. 1977), including the opinions’ notes. Together they clarify that the 1971 federal district court recognized treaty rights to hunt, fish, and gather wild rice on public reservation lands and waters, but did not recognize the Band’s asserted exclusive regulatory authority. The 1977 Minnesota Supreme Court then reviewed a 1973 negotiated/statutory fishing-stamp compromise, recognized the retained rights and upheld the legal arrangement in the specific case before it. These dated holdings are not current regulatory advice. Treaty originals, trial exhibits, the settlement document, subsequent case law and current regulatory texts were not independently checked.
+
+The profile now has **16 substantive inspected works** and remains **Still unfinished**. Court citations were added to the treaty/land-tenure synthesis. No historical map was added.
+
 Next: continue Minnesota community coverage, then Idaho, preserving the outstanding Texas gaps. Add a map only if regular source research directly supports a specific people, community and period.
