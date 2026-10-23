@@ -1,0 +1,11 @@
+# Mescalero Apache (original entry 209) Texas source review
+
+Reviewed October 23, 2026. Five distinct substantive works now support an adequate initial introduction; the collection remains open for further research and community review. No historical map was added.
+
+The synthesis separates the contemporary Mescalero Apache Tribe from changing Spanish and later Apache classifications. First-party Mescalero Apache Tribe pages describe the present community as comprising Mescalero, Lipan, and Chiricahua bands. The posted constitutional text is explicitly amended through October 18, 1988; it is cited as a dated government framework rather than current policy. The Tribe’s 2023 anniversary article quotes then-President Edward Martinez and presents the Tribe’s interpretation of the 1873 reservation boundaries. A 2020 TxDOT research report focuses on geographic and chronological Mescalero Apache presence in Texas. Its introduction states that the source set was recommended and approved by the Tribe’s Historic Preservation Officer and that her draft comments were addressed. This supports describing the report as government research developed with the THPO, not as Tribe-authored prose. The NPS Fort Davis page supplies a briefer regional chronology and is attributed as institutional interpretation.
+
+The Tribe’s 2023 article says Lipan members joined the reservation in 1905, while its undated “Our Culture” page says “about 1903.” This remains unresolved. The NPS wording about a historical end to free-roaming Trans-Pecos presence is not used to imply that Mescalero people disappeared. TxDOT report maps and figures were not visually inspected. Its page 50 section on culturally sensitive resources was not opened.
+
+Profile source IDs p209-s1–p209-s5 record five substantive works; all five are annotated with actual inspection scope, perspective, review date, and limits. The profile has five cited sections and an **Adequate initial introduction** assessment. Quantity, adequacy, deep-dive completion, and community review remain separate.
+
+The owner-attached Jumano study was checked in this session. Its 18 unique public URLs match the URLs already in `data/owner-reading-leads.json` for Jumano (original entry 151). No URL or source-count duplication was made.
