@@ -1,3 +1,10 @@
+# Latest Texas source batch — Coushatta Koasati dictionary, October 23, 2026
+
+Coushatta (original 89) now has 13 substantive inspected works, two supporting references excluded, and an **Adequate initial introduction** assessment with open gaps. This batch adds one community-backed digital Koasati dictionary after reading its landing page and four actual entries. Claims stay scoped to the Coushatta Tribe of Louisiana; Texas and Oklahoma governments remain distinct. No map was added. Review: outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md.
+
+The Jumano study’s 18 URLs remain preserved leads; no Jumano conclusions or source checks were inferred from that attachment.
+
+Next: continue Texas only where the inspected inventory/profile evidence shows specific gaps, then Minnesota and Idaho. Add maps only if normal source research directly supports a people, community and period.
 ## Latest Idaho review — Kootenai / Ktunaxa (October 23, 2026)
 
 The Kootenai Tribe of Idaho profile received two inspected works: its then-chairman’s 2003 statement on behalf of the five-government Upper Columbia United Tribes, and a 2025 USGS report prepared in cooperation with the Tribe on one Kootenai River restoration reach. Eight substantive works now support the profile; it remains **Still unfinished** because cross-border community representation, language perspectives and additional community history remain uneven. Review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md.

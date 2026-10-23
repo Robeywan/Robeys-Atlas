@@ -1,0 +1,15 @@
+# Coushatta: Koasati digital dictionary review — October 23, 2026
+
+The Coushatta profile now has thirteen substantive inspected works, two supporting references excluded from the count, and an **Adequate initial introduction** assessment with open gaps. This batch adds one community-backed dictionary to the existing language path and narrows its claims to the Louisiana Coushatta community. The Texas and Oklahoma governments remain distinct. No map was added.
+
+## Work reviewed
+
+**Coushatta Tribe of Louisiana Koasati Digital Dictionary**, a collaborative public resource involving the Tribe, McNeese State University, and the College of William & Mary, with a named Koasati Language Committee, community guides, editor and other contributors. I read the complete landing-page text for the stated purpose, collaborators and language-team credits. I also inspected four actual public dictionary records: *aibachilka*, *ahoobalaho*, *chaihalaho* and *chinto palki*. The selected records show listed word forms, definitions, English reversals and, in one record, an example sentence. These pages establish that this is more than a general project announcement. The resource describes itself as a living-language dictionary for the Coushatta Tribe of Louisiana and explains an intergenerational teaching purpose. [Dictionary home](https://koasati.azurewebsites.net/) · [aibachilka](https://koasati.azurewebsites.net/Browse/Details/088460d1-b2b7-4b0c-882a-8710cee15125) · [ahoobalaho](https://koasati.azurewebsites.net/Browse/Details/0068210e-1e46-46e4-be86-8926ec8c907f) · [chaihalaho](https://koasati.azurewebsites.net/Browse/Details/66fe7277-67ee-469e-b0ea-926b1817bf60) · [chinto palki](https://koasati.azurewebsites.net/Browse/Details/c63126e3-acbe-4aa3-83d0-7e4469aa82cc).
+
+## Synthesis and limits
+
+The new entries deepen the existing account of the Louisiana Tribe’s Koasati documentation project. The profile links the dictionary to the previously inspected AILDI chapter on community language workshops and to a brief Tribe language orientation. Those works retain their original authorship, scope and counts; the four dictionary entries are one resource, not four separate books or a reason to raise the count beyond thirteen substantive works.
+
+The revised section attributes the digital dictionary to its named community and university collaboration. It does not use the selected entries to estimate speakers, proficiency, program reach or language vitality. The dictionary records Louisiana Coushatta language work and does not establish identical present-day practice across the Alabama-Coushatta Tribe of Texas or Alabama-Quassarte Tribal Town in Oklahoma. The full dictionary, audio, specialist grammar, additional teaching resources and learning outcomes remain unreviewed. The profile remains an initial educational introduction rather than a completed history or community-reviewed account.
+
+No research conclusions were inferred from the title of the attached Jumano study. Its 18 distinct public URLs remain preserved as leads; the two unread items remain outside inspected-source counts.

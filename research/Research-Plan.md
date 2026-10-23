@@ -261,3 +261,7 @@ Use only currently available ordinary usage, save a safe checkpoint before five-
 ---
 
 
+
+## Latest published-work note — Coushatta (October 23, 2026)
+
+One Louisiana Coushatta community-backed digital dictionary was added after inspecting the landing page and four entries. The profile has 13 substantive works and retains its dated initial-adequacy rationale with explicit open limits. This is evidence for Louisiana community language documentation, not automatic evidence about Texas or Oklahoma institutions. The current research queue remains Texas, Minnesota, then Idaho; map additions are paused unless ordinary source review substantiates a specific connection.

@@ -1,3 +1,21 @@
+# Latest checkpoint — Coushatta Koasati dictionary, October 23, 2026
+
+Coushatta (original 89) has 13 substantive inspected works, two supporting references excluded, and a bounded **Adequate initial introduction** judgment. Added the Coushatta Tribe of Louisiana’s collaborative Koasati Digital Dictionary: complete landing text and four actual entries inspected. The revised synthesis describes Louisiana-centered language documentation without generalizing across Texas and Oklahoma Coushatta governments. Full dictionary coverage, audio, grammar, current usage and learning outcomes remain open. No map added. Review: outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md.
+
+Next regional work: continue evidence-led Texas gaps, then Minnesota and Idaho. The Jumano attachment’s 18 URLs remain preserved as leads; no new Jumano content checks were made. Usage before publication validation: five-hour 16%, weekly 33%, ordinary usage available; credits 53.8894195 unchanged. Keep the 85% weekly ceiling and stop with a safe short-window checkpoint.
+
+---
+# Published checkpoint — Kootenai (Ktunaxa), October 23, 2026
+
+Kootenai (original 174) was published in public Site version 72. It now has eight substantive inspected works, one supporting reference, seven cited synthesis sections, and initial adequacy **Still unfinished**. Added the 2003 Aitken/UCUT hearing statement and the 2025 USGS technical study, both with actual inspection limits and source-scoped claims. No map was added. The live page, source count and restoration-section citations were inspected.
+
+Review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md; receipt: outputs/Kootenai-Idaho-Research-Publication-Record.json. Source 38eb7543ed8b95db1d75b8bbd91e97e8b0fb89b, saved version appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_0b771ff46e7c8191ae4c6cf18fd56889, deployment appgdep_6adb6718e7908191a225533876404af8 succeeded.
+
+Next regional entry: Texas Coushatta (original 89), then Minnesota and Idaho. The Jumano DOCX’s 18 distinct URLs remain preserved as leads; unread items do not count as content checks.
+
+Usage at publication: five-hour 15%, weekly 33%, ordinary usage available, shared credits 53.8894195 unchanged; zero credits spent.
+---
+
 # Current research checkpoint — Kootenai (Ktunaxa), October 23, 2026
 
 Added two inspected works to Kootenai (original 174): Gary Aitken Sr.’s June 4, 2003 oral statement in the Senate hearing record (printed pp. 14–16; delivered on behalf of the Upper Columbia United Tribes) and the 2025 USGS Kootenai River restoration report (selected PDF sections read). The profile now has eight substantive works and seven synthesis sections. Initial adequacy: **Still unfinished**, with uneven cross-border community coverage and further language, Montana Ksanka/Kootenai, 2009 master-plan and technical-method research open. No map association.
