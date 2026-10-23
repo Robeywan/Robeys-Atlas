@@ -1,4 +1,12 @@
-# Latest Minnesota source follow-up — Dakota (original 95), October 23, 2026
+# Latest Texas source review — Atakapa / Ishak, October 23, 2026
+
+Atakapa (original 21) now has 10 substantive works, four support-only records, five cited sections, and initial adequacy **Still unfinished**. The added source set includes the Atakapa-Ishak Nation’s Culture page, a public-history entry by an Atakapa-Ishak Nation member, his extended interview and reflective essay. Grand Bayou coverage remains separately scoped. The Smithsonian finding aid is supporting-only because the manuscript cards were not inspected. Review: `outputs/Atakapa-Texas-Research-Review-2026-10-23.md`.
+
+Jumano (original 151) remains at 12 substantive and 13 supporting references, six cited sections, and **Still unfinished**; the owner study’s 18 URLs remain catalogued with provenance. No additional source counts or map association were inferred from unread links.
+
+Next: review Coushatta (original 89) for the distinct Texas and Louisiana government histories; then continue Minnesota and Idaho. No map work beyond a naturally supported connection in routine source review.
+
+---# Latest Minnesota source follow-up — Dakota (original 95), October 23, 2026
 
 Published research batch adds three substantive community-government sources: Prairie Island Dakota language programming, Shakopee Dakota language programs, and Prairie Island cultural-preservation work. Dakota now has twelve substantive works and twelve cited sections, but initial adequacy remains **Still unfinished** because broader Dakota community and specialist-language evidence is incomplete. No map association was added. Review: `outputs/Dakota-Minnesota-Research-Review-2026-10-23-followup.md`.
 
@@ -179,4 +187,5 @@ Tonkawa has seven substantive inspected works, six supporting references exclude
 The owner-supplied Jumano study’s eighteen URLs were already catalogued; they remain suggested leads unless separately inspected. Resume Texas research by addressing substantive gaps in an existing people’s profile, then Minnesota and Idaho. For Tonkawa, the 1846 Council Springs treaty text, more direct community history and contrasting primary accounts of the 1862 massacre remain useful leads. Add a map only when ordinary source research directly supports a specific community and period.
 
 ---
+
 

@@ -1,3 +1,13 @@
+# Current research checkpoint — Atakapa / Ishak (original 21), October 23, 2026
+
+The Atakapa profile has a reviewed batch of 10 substantive inspected works and four supporting references excluded from the count, five cited sections, and dated initial adequacy **Still unfinished**. New work includes a Nation Culture page, a community-member public-history essay, an extended first-person interview, and a community-member reflective essay. Grand Bayou evidence remains specific to that community; no map was added. Detailed review: outputs/Atakapa-Texas-Research-Review-2026-10-23.md. Jumano remains at 12 substantive and 13 supporting references; its supplied study has 18 catalogued public URLs with original provenance.
+
+Build and verification passed: 471 directory profiles; 21,413 internal links; 9,859 citation anchors; 103 selectable regions and 565 associations; all 17 historical-map records and reciprocal links preserved. Research exports refreshed. At the pre-publication checkpoint, five-hour usage was 22%, weekly 28%, ordinary use available, balance 53.8894195 shared credits; no credits spent.
+
+Next: continue Texas with Coushatta (original 89) where six substantive works leave a clear government-history gap; then Minnesota and Idaho. Keep maps paused unless ordinary source work directly supports a specific connection. Preserve the weekly 85% ceiling and stop before five-hour exhaustion with a safe checkpoint.
+
+---
+
 # Latest continuation checkpoint — October 23, 2026, Ysleta del Sur Pueblo follow-up
 
 Ysleta del Sur Pueblo (supported addition) is now published in Site version 55 with eight substantive inspected works, two supporting references excluded, one unread suggested dissertation lead, six cited sections, and a dated **Adequate initial introduction** assessment. New research covers the first nine pages of S. Rept. 100-90 and selected non-sensitive sections of TxDOT’s 2021 Pueblo-consulted historical report. The sensitive planning-location section was deliberately excluded. No map was added. Full review: `outputs/Ysleta-del-Sur-Pueblo-Research-Review-2026-10-23-followup.md`; receipt: `outputs/Ysleta-del-Sur-Pueblo-Followup-Publication-Record.json`.
@@ -367,13 +377,15 @@ Next: return to the Texas queue with Lipan Apache (original 185), then continue 
 ---
 # Latest Texas source batch — Tonkawa (original 394), October 23, 2026
 
-Tonkawa now has seven substantive inspected works, six supporting references excluded from the count, and eight cited sections. The research guide is stronger but explicitly remains **Still unfinished**. New synthesis sets the present-day Tonkawa Tribe of Oklahoma alongside its own public history and language material, a limited-page TxDOT historical report and Smithsonian study, the 1837 treaty, and the contrasting 1892 federal agreement record and 1907 council-adopted Tonkawa memorial. The memorial is direct evidence of the Tribe’s claim, not a court finding. Unresolved chronology, early geography, 1862 massacre accounts, treaty implementation, and broader community-authored material remain open. No map was added.
+Tonkawa now has seven substantive inspected works, six supporting references excluded from the count, and eight cited sections. Its research guide is published in Site version 58 but explicitly remains **Still unfinished**. New synthesis sets the present-day Tonkawa Tribe of Oklahoma alongside its own public history and language material, a limited-page TxDOT historical report and Smithsonian study, the 1837 treaty, and the contrasting 1892 federal agreement record and 1907 council-adopted Tonkawa memorial. The memorial is direct evidence of the Tribe’s claim, not a court finding. Unresolved chronology, early geography, 1862 massacre accounts, treaty implementation, and broader community-authored material remain open. No map was added.
 
 Full review: outputs/Tonkawa-Texas-Research-Review-2026-10-23.md. The owner-supplied Jumano DOCX’s eighteen URLs were already in the reading-lead catalog; no duplicate extraction or source-count change resulted.
 
 Next: continue Texas research where there is a distinct evidence gap, then Minnesota and Idaho. For Tonkawa, pursue the unread 1846 treaty text, additional Tonkawa-authored material and primary evidence on the 1862 massacre without relying on unread or access-blocked files. Keep historical maps paused unless regular source work directly substantiates a specific people, community and period.
 
-Usage checkpoint before publication: ordinary five-hour use 18% consumed, weekly 27% consumed, ordinary use available, shared credit balance 53.8894195. No credits spent. Preserve a safe margin for the short-window checkpoint and the weekly 85% ceiling.
+Publication receipt: outputs/Tonkawa-Publication-Record.json. Rendered QA also corrected an existing filter-count issue: source cards whose descriptive type begins “Indigenous-led” now register in the profile filter. The Tonkawa profile renders five matching cards.
+
+Usage checkpoint after publication: ordinary five-hour use 19% consumed, weekly 28% consumed, ordinary use available, shared credit balance 53.8894195. No credits spent. Preserve a safe margin for the short-window checkpoint and the weekly 85% ceiling.
 
 ---
 

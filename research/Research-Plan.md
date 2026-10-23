@@ -1,4 +1,14 @@
-# Latest Minnesota source batch — Dakota (original 95), October 23, 2026
+# Latest Texas source review — Atakapa / Ishak, October 23, 2026
+
+Atakapa (original 21) now has 10 substantive inspected works and four supporting references excluded from the count, with five cited sections. Its dated initial adequacy remains **Still unfinished**: the new reading adds Nation-published cultural material, an Ishak community-member public-history essay and interview, and a reflective essay, while keeping Grand Bayou community evidence specific to that community. Historical group relationships, original colonial records, archival field cards, and the range of present community perspectives remain open. No map was added. Full review: `outputs/Atakapa-Texas-Research-Review-2026-10-23.md`.
+
+The supplied Jumano study remains integrated with 18 distinct public URLs and original provenance. Jumano has 12 substantive works and 13 supporting records; its updated review and source notes exclude the new short archive/context records from the substantive count.
+
+Next: continue Texas source gaps with Coushatta (original 89; six substantive works and important Texas/Louisiana government distinctions), then Minnesota and Idaho. Add maps only when regular source review directly supports a specific people, community and period.
+
+Usage before publication: five-hour 22% consumed, weekly 28% consumed, ordinary included usage available; shared credit balance 53.8894195. No credits spent. Continue under the weekly 85% ceiling and stop the five-hour work before exhaustion, preserving checkpoint and publication capacity.
+
+---# Latest Minnesota source batch — Dakota (original 95), October 23, 2026
 
 The Dakota profile now includes twelve substantive inspected works and remains **Still unfinished**. Three newly reviewed community-government pages document separate Prairie Island and Shakopee language programs and Prairie Island cultural-preservation work. The profile keeps those accounts scoped to their governments, notes an outdated anticipated language-app launch without asserting present availability, and excludes sensitive burial details. Seven supporting references stay outside the substantive count. See `outputs/Dakota-Minnesota-Research-Review-2026-10-23-followup.md`.
 
@@ -238,4 +248,5 @@ Continue high-value educational source research for Texas, Minnesota and Idaho, 
 Use only currently available ordinary usage, save a safe checkpoint before five-hour exhaustion, and preserve the weekly 85% ceiling. Do not spend credits to bypass an exhausted short window. Historical map expansion stays paused; add a map only when ordinary source research directly establishes a specific relationship, period and provenance. See the dated continuation checkpoint, Tonkawa review and Regional Research Queue for the current handoff.
 
 ---
+
 
