@@ -1,14 +1,30 @@
 {
-  "reviewedAt": "2026-10-23",
+  "reviewedAt": "2026-10-22",
   "priority": "Texas, Minnesota and Idaho source research; add maps only when supported by source review",
-  "originalIds": [
-    151
-  ],
-  "names": [
-    "Jumano"
-  ],
-  "sourceLinks": 12,
+  "originalIds": [76, 151],
+  "names": ["Coahuiltecan", "Jumano"],
+  "sourceLinks": 18,
   "profiles": [
+    {
+      "originalId": 76,
+      "name": "Coahuiltecan",
+      "inspectedSources": 12,
+      "supportingInspectedReferences": 3,
+      "sections": 6,
+      "initialAdequacy": {
+        "status": "Still unfinished",
+        "reviewedAt": "2026-10-22",
+        "rationale": "Twelve substantive resources have actual-content inspection records, including first-party Tāp Pīlam and Miakan/Garza materials, a peer-reviewed study of one Miakan-Band program, scholarly and educational syntheses, and targeted mission research. They support a careful introductory profile and document major disagreements. The source target is a quantity measure, not a finding that the broad umbrella entry is complete or that these communities endorse the synthesis.",
+        "remainingLimits": [
+          "The entry covers a broad historical umbrella; the evidence cannot stand in for separate research on the many named peoples and contemporary communities placed under it.",
+          "The origin and scope of the term Coahuiltecan conflict across sources and remain unresolved.",
+          "Mission registers and language records are incomplete; group-to-language and group-to-place identifications need further primary-source and specialist review.",
+          "No community review or endorsement is recorded; Tāp Pīlam and Miakan/Garza sources remain distinct.",
+          "The Institute language page contains an internally inconsistent status statement; no current speaker count is asserted.",
+          "No present population, exhaustive descendant list, legal-status determination or specific map association is asserted."
+        ]
+      }
+    },
     {
       "originalId": 151,
       "name": "Jumano",
@@ -31,8 +47,16 @@
       }
     }
   ],
-  "nextOriginalId": 76,
-  "nextName": "Coahuiltecan",
-  "contributedStudies": 17,
-  "contributedURLs": 328
+  "leadUpdate": {
+    "originalId": 151,
+    "name": "Jumano",
+    "contributedStudy": "Jumano_History_Culture_and_Timeline.docx",
+    "newDistinctURLs": 18,
+    "matchedPreviouslyInspectedSources": 5,
+    "unreviewedSuggestedLeads": 13
+  },
+  "nextOriginalId": 38,
+  "nextName": "Caddo",
+  "contributedStudies": 18,
+  "contributedURLs": 346
 }
