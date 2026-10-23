@@ -1,10 +1,17 @@
+# Latest source batch — Shoshone (original 347), October 23, 2026
+
+The Shoshone source guide has 12 substantive inspected works, one inspected supporting reference, and one unread supporting lead excluded from the count. Seven cited sections distinguish Fort Hall Shoshone-Bannock, Duck Valley Shoshone-Paiute, Eastern Shoshone and Northwestern Band sources, while describing the entry as an umbrella access point with uneven coverage. A treaty chronology conflict is attributed to the source accounts. Initial adequacy remains **Still unfinished**; no map was assigned by inference. Detailed review: `outputs/Shoshone-Idaho-Research-Review-2026-10-23.md`.
+
+Next: return to Texas research by deepening Lipan Apache (original 185), which has ten substantive inspected works and open legal/chronology gaps. Then revisit Minnesota community coverage and continue Idaho inventory work. Keep maps paused unless a source naturally supports a specific community and period.
+
+Usage checkpoint before publication: five-hour window 1% consumed, weekly window 25% consumed, ordinary use available; shared balance 53.8894195 credits. No credits spent. Stop before five-hour exhaustion and preserve the 85% weekly ceiling.
 # Latest source batch — Coeur d’Alene / Schitsu’umsh (original 81), October 23, 2026
 
-The Coeur d’Alene profile now has 15 substantive inspected works, three short supporting references excluded, six cited sections, and a dated **Still unfinished** assessment. The research combines Tribe-published identity, land, language, education and planning material with the 1947 Constitution, 1873 and 1889 agreement records, the narrow 2001 *Idaho v. United States* holding, tribal-submitted 1995 EIS exhibits, and dated EPA environmental records. Selected-page limits and source perspective are disclosed. No map association was added. See outputs/Coeur-dAlene-Idaho-Research-Review-2026-10-23.md.
+The Coeur d’Alene profile was published in version 50 on October 23, 2026, and now has 15 substantive inspected works, three short supporting references excluded, six cited sections, and a dated **Still unfinished** assessment. The research combines Tribe-published identity, land, language, education and planning material with the 1947 Constitution, 1873 and 1889 agreement records, the narrow 2001 *Idaho v. United States* holding, tribal-submitted 1995 EIS exhibits, and dated EPA environmental records. Selected-page limits and source perspective are disclosed. No map association was added. See outputs/Coeur-dAlene-Idaho-Research-Review-2026-10-23.md.
 
 Next: continue Idaho research with the broad Shoshone entry (original 347), checking Shoshone-Bannock and Shoshone-Paiute community sources separately and keeping their governments and constituent people labels distinct. Preserve Texas and Minnesota gaps; maps remain paused unless a source directly supports a specific connection.
 
-Usage after source review: five-hour usage 56%, weekly usage 24%, ordinary included usage available, shared balance 53.8894195 credits; no credits spent. Save a checkpoint before the short window is exhausted and preserve the weekly 85% ceiling.
+Usage after source review: five-hour usage 57%, weekly usage 25%, ordinary included usage available, shared balance 53.8894195 credits; no credits spent. Save a checkpoint before the short window is exhausted and preserve the weekly 85% ceiling.
 # Current owner priority — source-first Texas, Minnesota and Idaho (October 22, 2026)
 
 The owner paused significant historical-map expansion and map QA to prioritize low-usage, high-value source research for the directory. Work Texas first, then Minnesota, then Idaho. Add a historical map only when ordinary source review directly supports an individual people/community association; retain provenance, period, rights and inspection limits. Keep the existing map room and interactive map intact. Do not spend substantial usage on map hunting or visual QA.
