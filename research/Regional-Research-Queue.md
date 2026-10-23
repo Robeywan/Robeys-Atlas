@@ -1,8 +1,12 @@
 # Jumano profile review — October 23, 2026
 
-Dakota (original 95) now has a Minnesota-focused review with nine substantive inspected works, seven supporting references excluded, ten cited sections, and initial adequacy **Still unfinished**. New work inspects the 2025 Upper Sioux Community profile in Minnesota's state Tribal Government guide, a Dakota Wicohan curriculum overview, and named Dakota speakers' Our Home exhibition transcript. Supporting DNR and statutory records document the Upper Sioux Agency land-return process. Dated land and membership figures are preserved as source snapshots, not current measurements. Full review: `outputs/Dakota-Regional-Research-Review.md`. No map was added.
+Ojibwe (original 265) now has a Minnesota-focused review with 13 substantive inspected works, eight supporting references excluded, seven cited sections and initial adequacy **Still unfinished**. The source guide distinguishes the six separately sovereign Minnesota Chippewa Tribe Bands from Red Lake Nation, and includes community accounts plus place-specific historical research. Depth across the seven governments is uneven; no new profile access points or historical map associations were added. Full review: `outputs/Ojibwe-Minnesota-Research-Review-2026-10-23.md`.
 
-Next: review Minnesota's distinct Ojibwe governments through community-specific sources, then continue Idaho coverage. This follows the owner's Texas, Minnesota, Idaho priority; add maps only when regular source research documents a specific association.
+Next: begin Idaho coverage from the five governments in the reviewed inventory. Verify constituent peoples, bands and historical labels through community sources before changing access points. Preserve the Texas and Minnesota gaps. Follow the owner’s Texas, Minnesota, Idaho priority and add maps only when ordinary source research supports a specific association.
+
+## Previous Minnesota batch — Dakota (original 95)
+
+Dakota received an initial Minnesota-focused review with nine substantive works and remains unfinished. See `outputs/Dakota-Minnesota-Research-Review-2026-10-23.md`.
 
 ## Previous source-focused batch — Jumano (original 151)
 
@@ -85,7 +89,7 @@ The following are existing saved records, not new source inspections. They do no
 | Idaho | Bannock | 28 | 13 |
 | Idaho | Coeur d'Alene | 81 | 0 |
 | Idaho | Northern Paiute | 255 | 0 |
-| Minnesota | Ojibwe | 265 | 0 |
+| Minnesota | Ojibwe | 265 | 13 |
 | Minnesota | Dakota | 95 | 9 |
 | Texas | Lenape | 182 | 0 |
 | Texas | Alabama | 9 | 15 |

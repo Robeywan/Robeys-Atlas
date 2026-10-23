@@ -2,7 +2,7 @@
 
 Static research directory for Indigenous North America. Every entry in the original list is preserved as a separate access point. Additional supported entries are labeled. Entry counts are not a count of distinct nations.
 
-An earlier release contained 30 expanded profiles, 35 brief cited overviews, and 404 source guides. Eight collections then contained at least 12 inspected resources, including four of the 27 A entries. It does **not** contain completed comprehensive deep dives for every entry. Expanded profiles record a source-review date, section citations, and explicit research gaps. Source-guide research and community review remain ongoing work.
+The October 23, 2026 release contains 31 expanded profiles, 37 brief cited overviews, five reviewed source guides, and 403 source guides. Twenty-two collections contain at least 12 substantive inspected works, including twelve of the 27 A entries. This does **not** mean those collections are complete or community-reviewed. Current regional research prioritizes Texas, Minnesota, and Idaho. Ojibwe (original entry 265) now has a Minnesota-focused guide with 13 substantive works, eight supporting references, seven cited sections, and an explicit **Still unfinished** adequacy assessment. Research and community review remain ongoing work.
 
 ## Files
 
