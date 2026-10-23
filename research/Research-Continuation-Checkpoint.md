@@ -1,3 +1,15 @@
+# Published checkpoint — Ysleta del Sur Pueblo, version 74, October 23, 2026
+
+Site version 74 is live. The Pueblo’s Cultural Development Division page on Southern Tiwa language preservation is one new substantive community source; the broader Cultural Preservation overview is a support-only record. Ysleta del Sur Pueblo has nine substantive works, three support references, six cited sections, and **Adequate initial introduction** with open research gaps. No map or member-restricted content was used. Full review and receipt: outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md and outputs/Ysleta-Cultural-Preservation-Publication-Record.json.
+
+Source `b2dfb1c8410a93b39ec9b91cf0990c1c541b364e`; version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_04613574754081918d8a377695beb54d`; deployment `appgdep_6adb6d777eac8191a412b16a760555f6` succeeded. The live source section was inspected. One obsolete “eight works” sentence in an older evidence note was identified and corrected in the next prepared change; no additional research is claimed by that follow-up.
+
+---
+# Correction prepared — Ysleta source-count note, October 23, 2026
+
+Live review found an old evidence-note sentence that said the profile had eight substantive works. That count was correct before the Cultural Development Division addition but stale afterward. Updated the sentence to explain the chronology: eight at the prior review, nine after the 2026-10-23 Southern Tiwa language-preservation page. This small correction is being rebuilt and republished; no new research or source count is added.
+
+---
 # Latest research checkpoint — Ysleta del Sur Pueblo language-program review, October 23, 2026
 
 A second Texas-focused source review is prepared. The Ysleta del Sur Pueblo profile received its own Cultural Development Division description of the Southern Tiwa language-preservation program as one substantive community work; a brief Department of Cultural Preservation overview is support-only. Profile: nine substantive works, three support-only, six cited synthesis sections, **Adequate initial introduction**. These undated pages describe program design and cultural safeguards; the actual curriculum/materials, present schedule, fluency and outcomes remain unreviewed. No restricted material or map added. Review: outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md.
