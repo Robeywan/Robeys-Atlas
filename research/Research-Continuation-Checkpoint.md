@@ -1,3 +1,15 @@
+# Prepared research checkpoint — Kickapoo (original 165), October 23, 2026
+
+Reviewed the Kickapoo Traditional Tribe of Texas's public 2025 Strategic Tribal Transportation Safety Plan and selected sections of its posted Chapter 20 Indian Child Welfare Code. The profile now has 14 substantive inspected works, six supporting references excluded, seven cited sections, and initial adequacy **Still unfinished**. The plan documents a consultant-assisted planning process and proposed safety/outreach strategies; the code copy states dated policy goals but its enactment/current status is unverified. No crash data, precise locations, confidential cases, or map associations were added. Review: outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. Next continue Texas source gaps, then Minnesota and Idaho.
+# Published checkpoint — Ysleta del Sur Pueblo, version 75, October 23, 2026
+
+Version 75 is live at https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ysleta-del-sur-pueblo/?v=75#sources. A stale evidence-note sentence was corrected to reflect the source count chronology (eight before the new language-preservation source; nine after). This was not new research and did not change the count. Validation passed and the corrected line was checked live. Receipt: outputs/Ysleta-Evidence-Note-Correction-Publication-Record.json.
+
+Latest research addition remains the version 74 Cultural Development Division language-preservation source; the profile has nine substantive works, three support references, six sections and **Adequate initial introduction**. Next: Texas Kickapoo (original 165), then Minnesota and Idaho. The Jumano DOCX’s 18 links remain leads, not new source inspections.
+
+Usage: five-hour20%, weekly33%, ordinary usage available, credits53.8894195 unchanged. No credits were spent. Maintain the 85% weekly ceiling and checkpoint before the short window is exhausted.
+
+---
 # Published checkpoint — Ysleta del Sur Pueblo, version 74, October 23, 2026
 
 Site version 74 is live. The Pueblo’s Cultural Development Division page on Southern Tiwa language preservation is one new substantive community source; the broader Cultural Preservation overview is a support-only record. Ysleta del Sur Pueblo has nine substantive works, three support references, six cited sections, and **Adequate initial introduction** with open research gaps. No map or member-restricted content was used. Full review and receipt: outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md and outputs/Ysleta-Cultural-Preservation-Publication-Record.json.
@@ -559,6 +571,7 @@ Publication receipt: outputs/Tonkawa-Publication-Record.json. Rendered QA also c
 Usage checkpoint after publication: ordinary five-hour use 19% consumed, weekly 28% consumed, ordinary use available, shared credit balance 53.8894195. No credits spent. Preserve a safe margin for the short-window checkpoint and the weekly 85% ceiling.
 
 ---
+
 
 
 

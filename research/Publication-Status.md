@@ -1,4 +1,14 @@
-# Latest publication — Coushatta Koasati digital dictionary update, version 73
+# Latest publication — Ysleta evidence-note count correction, version 75
+
+Published October 23, 2026: [Ysleta del Sur Pueblo profile](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ysleta-del-sur-pueblo/?v=75#sources). Corrected an old evidence-note sentence so it accurately says the profile had eight substantive works before the 2026-10-23 addition and nine afterward. This was a consistency fix only; no research count changed. The live page shows the corrected chronology. Source commit `76e19ba709dee5342af0241e50bc3207cbec65e9`; version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_8014cedc63248191a6150b597b1dbeda`; deployment `appgdep_6adb6f34bedc819184c782996fdd9a41` succeeded. Receipt: outputs/Ysleta-Evidence-Note-Correction-Publication-Record.json. No retry pending.
+
+---# Latest publication — Ysleta del Sur Pueblo language-preservation sources, version 74
+
+Published October 23, 2026: [Ysleta del Sur Pueblo profile](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/ysleta-del-sur-pueblo/?v=74#sources). Added the Pueblo’s Southern Tiwa language-preservation description as one substantive source, plus a separate short Department of Cultural Preservation page as support-only. The profile has nine substantive inspected works, three supporting references excluded, and remains **Adequate initial introduction** with gaps open. The public pages’ program and access descriptions are attributed to the Pueblo; curriculum, current schedule, fluency and outcomes are not claimed. No restricted material or map added. The live profile and new citations were inspected. Review: outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md; receipt: outputs/Ysleta-Cultural-Preservation-Publication-Record.json.
+
+Source commit `b2dfb1c8410a93b39ec9b91cf0990c1c541b364e`; saved version `appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_04613574754081918d8a377695beb54d`; successful deployment `appgdep_6adb6d777eac8191a412b16a760555f6` at 2026-10-23T14:21:54.411669Z. No retry pending.
+
+---# Latest publication — Coushatta Koasati digital dictionary update, version 73
 
 Published October 23, 2026: [Coushatta profile](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/coushatta/?v=73#sources). The Louisiana Coushatta community’s Koasati Digital Dictionary was added as one substantive inspected work after reading the landing page and four actual entries. The profile now has 13 substantive works and two supporting references excluded; its initial adequacy remains **Adequate initial introduction** with open gaps disclosed. Texas, Louisiana and Oklahoma community/government scopes remain distinct. No map added. Live source cards and cited language section were inspected; all validation checks passed. Review: outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md; receipt: outputs/Coushatta-Koasati-Digital-Dictionary-Publication-Record.json.
 

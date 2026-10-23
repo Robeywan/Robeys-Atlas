@@ -36,3 +36,5 @@ Fifteen substantive inspected works, one excluded short language-relationship or
 
 Alabama has a recorded adequate initial educational introduction with remaining gaps, rather than completed research or community endorsement. Aleut (Unangax̂), original entry10, is next. The current owner plans are synchronized: broad selectable states/provinces/territories/countries replace the earlier town pilot; the weekly85%-consumed conservation hold is independent of shorter usage resets. No map implementation or decorative expansion was undertaken in this research batch.
 
+
+Kickapoo (original 165) has a new Texas policy supplement prepared October 23, 2026: 14 substantive works, six supporting references, seven cited sections, initial adequacy Still unfinished. Review outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. No map added.

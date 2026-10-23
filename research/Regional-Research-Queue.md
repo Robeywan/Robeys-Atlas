@@ -2,7 +2,7 @@
 
 Ysleta del Sur Pueblo (added access point) now has nine substantive inspected works and three supporting references, with **Adequate initial introduction** retained. The Pueblo’s Cultural Development Division page on Southern Tiwa preservation was read in full and counted once; a short Cultural Preservation overview is support-only. The pages describe educational-program design and cultural safeguards, not current fluency or measured outcomes. No member-restricted material or map was accessed. Review: `outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md`.
 
-Next Texas target: Kickapoo (original 165), focusing on the named gaps in substantive Texas community-authored history and language/education work. Then Minnesota and Idaho. Maps remain paused unless an ordinary source directly supports a particular relationship and period.
+Latest Texas source supplement — Kickapoo (original 165), October 23, 2026: added selected, inspected sections of the Tribe-hosted 2025 Strategic Tribal Transportation Safety Plan and the public Chapter 20 Indian Child Welfare Code. The profile now has 14 substantive works and 7 cited sections, while initial adequacy remains Still unfinished. See outputs/Kickapoo-Texas-Research-Review-2026-10-23-community-policy.md. No map was added. Next, continue Texas gaps, then Minnesota and Idaho.
 ## Latest Texas source batch — Coushatta Koasati dictionary, October 23, 2026
 
 Coushatta (original 89) is published in Site version 73 with 13 substantive inspected works, two supporting references excluded, 12 cited sections and an **Adequate initial introduction** assessment with open gaps. The Louisiana Coushatta digital Koasati dictionary’s landing page and four actual entries were reviewed as one resource. Its language-project scope is not generalized to Texas or Oklahoma governments. No map was added. Full report: `outputs/Coushatta-Koasati-Digital-Dictionary-Research-Review-2026-10-23.md`.
@@ -254,5 +254,6 @@ Tonkawa has seven substantive inspected works, six supporting references exclude
 The owner-supplied Jumano study’s eighteen URLs were already catalogued; they remain suggested leads unless separately inspected. Resume Texas research by addressing substantive gaps in an existing people’s profile, then Minnesota and Idaho. For Tonkawa, the 1846 Council Springs treaty text, more direct community history and contrasting primary accounts of the 1862 massacre remain useful leads. Add a map only when ordinary source research directly supports a specific community and period.
 
 ---
+
 
 
