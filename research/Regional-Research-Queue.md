@@ -1,14 +1,16 @@
-## Current regional batch — October 23, 2026
+## Current regional batch — October 22, 2026
 
 Texas-first source review: the broad Kickapoo entry (original ID 165) now has a focused supplement on the Kickapoo Traditional Tribe of Texas. Five substantive works were inspected (1983 federal act; 2020 Interior Solicitor memorandum; 2017 Texas intertribal public-safety report; 2020 Mager Hois article on Texas/Coahuila border history; undated HUD housing case feature). Four supporting cards are excluded (two government homepages, a brief Tribal education page, and a 2025 thesis whose abstract but not full text was read). The page has five cited sections and remains explicitly unfinished. It does not represent every Kickapoo community. No historical map association was added: the report’s schematic map is contextual, not treated as a homeland boundary.
 
-Next Texas step: verify whether Ysleta del Sur Pueblo merits a distinct directory access point through the Pueblo’s own public sources and federal records, keeping it distinct from Isleta Pueblo in New Mexico and from broader Tiwa/Pueblo labels. Then continue Texas profile research before Minnesota and Idaho. Add maps only when relevant research sources directly support a specific association; map-library expansion and map QA remain paused.
+Ysleta del Sur Pueblo, previously an unverified access-point candidate, now has a distinct added directory entry. Six substantive works support an adequate initial introduction, with two supporting references excluded. The new profile distinguishes the Pueblo and Tigua community from Isleta Pueblo in New Mexico and the broader Tiwa/Pueblo groupings, records conflicting historical migration counts without choosing one, and remains open to deeper research and community review. Its Texas map route is a current community/government location, not a homeland boundary. Full review: `outputs/Ysleta-del-Sur-Pueblo-Research-Review-2026-10-22.md`.
+
+Next: deepen Texas research with the Coushatta entry (original ID 89), focusing on the Alabama-Coushatta Tribe of Texas and distinguishing it from the Coushatta Tribe of Louisiana and the Alabama people. Then continue other Texas entries before Minnesota and Idaho. Add maps only when ordinary source research directly supports a specific association; map-library expansion and map QA remain paused.
 
 ## Current regional batch — October 21, 2026
 
-Kootenai/Ktunaxa, Dakota and Coushatta each now have six substantive inspected works in a prepared regional batch. Kootenai adequacy is not yet assessed, Dakota remains unfinished beyond the initial Minnesota-focused coverage, and Coushatta has an adequate initial introduction with open gaps. All three states need further individual-community research. The Kootenai Idaho map gap is corrected in the prepared source. Do not claim publication until the native receipt confirms.
+Kootenai/Ktunaxa, Dakota and Coushatta each now have six substantive inspected works in a published regional batch. Kootenai adequacy is not yet assessed, Dakota remains unfinished beyond the initial Minnesota-focused coverage, and Coushatta has an adequate initial introduction with open gaps. All three states need further individual-community research. The Kootenai Idaho map gap is corrected in the published source. Publication is confirmed in Regional-Batch-Publication-Record.json.
 
-Next regional coverage priorities: Nez Perce and Coeur d'Alene collections in Idaho; Ojibwe and individual Minnesota communities; Texas collections still needing foundational reading, with Ysleta del Sur Pueblo a candidate access point to verify rather than silently conflate with broad Tiwa/Pueblo entries. Check current inventory and saved evidence before selecting the next bounded collection. Do not add names solely from a consultation list or assume all entries on it share a specific homeland.
+Next regional coverage priorities: current Texas communities and historical connections, then Minnesota communities, then Idaho communities. Ysleta del Sur Pueblo is now a distinct added access point, verified through Pueblo publications and federal law; it is not interchangeable with Isleta Pueblo in New Mexico or broader Tiwa/Pueblo labels. Check current inventory and saved evidence before adding further names. Do not add names solely from a consultation list or assume all entries on it share a specific homeland.
 
 ## Latest credit reserve — leave about 50 credits
 
@@ -64,3 +66,6 @@ Exact existing seed evidence and scope are recorded in work/regional-research-pr
 ## Usage authorization
 
 The latest owner authorization permits useful work using all remaining existing account credits, superseding the earlier 100-credit reserve and 180-credit hold. Preserve the weekly conservation rule and save reviewed work incrementally. No purchases or manual resets are authorized.
+
+
+Final allowance checkpoint (2026-10-21T23:47:03Z): 65.196012 account credits remain; weekly consumed usage 75%; included five-hour usage exhausted. The owner's about50-credit reserve is preserved. No further credit-funded batch starts inside the finishing margin. Shared-account balance changes are not isolated Atlas billing. Scheduled continuation stays active for quiet availability checks and included-usage resumption.

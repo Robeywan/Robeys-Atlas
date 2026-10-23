@@ -38,6 +38,22 @@ for(const m of c.maps)for(const l of m.profileLinks||[])assert(html.includes('..
 // independent map/reading-lead/geometry datasets from accidental replacement.
 for(const file of ['data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson']){
  const baseline=execFileSync('git',['show','630330214d9a85c2b9802c971f335d2cf9cb21ac:'+file],{maxBuffer:50e6});
- assert.deepEqual(JSON.parse(baseline),read(file),file+' preserved');
+ const priorData=JSON.parse(baseline),currentData=read(file);
+ if(file==='data/region-associations.json'){
+  // A reviewed research batch may add a directly sourced modern community
+  // location route. Preserve every prior route exactly and permit only the
+  // documented Ysleta del Sur Pueblo addition in this batch; geometry and
+  // historical-map associations remain independently checked above/below.
+  for(const oldAssociation of priorData.associations)
+   assert(currentData.associations.some(a=>JSON.stringify(a)===JSON.stringify(oldAssociation)), 'Prior regional association preserved');
+  const added=currentData.associations.filter(a=>!priorData.associations.some(old=>JSON.stringify(old)===JSON.stringify(a)));
+  assert.deepEqual(added,[{
+   regionId:'US-TX',name:'Ysleta del Sur Pueblo',associationType:'Present community/government location',
+   period:'Current community connection, documented in Pueblo publications reviewed 2026-10-22',
+   sourceUrl:'https://www.ysletadelsurpueblo.org/about-us',
+   evidenceNote:'The Pueblo identifies Ysleta, Texas, in the El Paso area as home to its Tigua community and publishes its own current tribal-government and community information. This is a present-day community/government location route only, not a homeland boundary or a complete account of Tigua historical geography.',
+   reviewDate:'2026-10-22'
+  }], 'Only the evidence-reviewed Ysleta present-location route was added');
+ }else assert.deepEqual(priorData,currentData,file+' preserved');
 }
 console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));

@@ -1,4 +1,12 @@
-# Historical maps and individual profile connections — October 22, 2026
+# Current map status and research priority — October 22, 2026
+
+The basic region map and Historical maps room are published and remain in place. The owner has paused significant map expansion and map QA to focus on valuable profile research: Texas first, then Minnesota, then Idaho. Add regional or historical map links only when a normal source review directly supports the association, period, community scope, and source. Do not conduct separate map-hunting batches now.
+
+Ysleta del Sur Pueblo has been added as a distinct directory access point after review of its own publications, federal statute, and contextual National Park Service histories. Its Texas map route means present community/government location only, not a homeland boundary. Current map and coverage counts are generated during the next validated build; the unresolved Yocona identity must remain explicit.
+
+The longer-term map design remains simple: selectable modern states, provinces, and countries/territories show sourced directory names and direct profile links. Regional boundaries are navigation aids, never Indigenous territory boundaries; associations can overlap and must show period, scope, and evidence. Keep a readable text/list route, and disclose incomplete coverage. No map library or external maps integration has been selected.
+
+## Historical-map collection and profile links — preserved project record
 
 Current pilot:14 authentic archive map records,5 complete-frame local previews and9 archive-link records. Four maps have8 reviewed map-to-entry routes covering7 directory access points: Catawba42, Cherokee51, Chickasaw55, Delaware(Lenape)97, Lenape182, Munsee231 and Seminole340. The two Lenape labels are overlapping reading routes, not separately established peoples or governments. Ten map records still await specific profile-connection review.
 
@@ -8,7 +16,7 @@ Two newly inspected University of Georgia/Digital Library of Georgia records hav
 
 Catawba associations are grounded in Nasaw, Cherrikies and Chickisa labels interpreted by LOC/Newberry. The supplied scan bears a British Museum Add.MS4723 mark; its identity as the LOC1929photostat is not established. Credits distinguish underlying authorship, manuscript/copy history, the owner-supplied scan and explanatory archives. The ca1721 design,1724catalogue indexing and1929reproduction remain separate. Manatvs uses the exact Techkonis village bridge to Munsee archival identification, with broader Lenape/Delaware reading context supported by a situated community account. No unique modern-government descent is asserted.
 
-Preserve all470 directory entries,454 originals,16 additions,564regional map records,562region/profile pairs,103targets,194lakes,17 supplied studies/328URLs, original source counts/depth labels and homepage photographs/backgrounds. No generated maps/images. Remaining gap lists and unlinked-map notes are not evidence of absence.
+Preserve all454 original names and every supported addition, all evidence-backed region associations, geometry, lakes, citations and photo/map credits. Do not expand map coverage by geography or name alone. No generated maps/images. Remaining gap lists and unlinked-map notes are not evidence of absence.
 
 Owner's October22 authorization: one-time up to40existing credits and currently available5-hour usage after the weeklyhold was explained. This is a scoped resumption for this map pilot, not a recurring allowance. Starting shared balance55.8464025; maximum authorized shared decline40, floor15.8464025, with finishing reserve. Included usage remains available and balance has not declined at the91%weekly checkpoint. No purchases/manual resets. Finish a reviewed publication, save progress, then restore the normal85%weekly hold; do not start research merely to spend the allowance.
 

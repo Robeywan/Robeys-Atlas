@@ -1,8 +1,8 @@
-# Current owner priority — source-first Texas, Minnesota and Idaho (October 23, 2026)
+# Current owner priority — source-first Texas, Minnesota and Idaho (October 22, 2026)
 
 The owner paused significant historical-map expansion and map QA to prioritize low-usage, high-value source research for the directory. Work Texas first, then Minnesota, then Idaho. Add a historical map only when ordinary source review directly supports an individual people/community association; retain provenance, period, rights and inspection limits. Keep the existing map room and interactive map intact. Do not spend substantial usage on map hunting or visual QA.
 
-The first Texas-first profile supplement is Kickapoo (original entry165), focused on the Kickapoo Traditional Tribe of Texas. It has five substantive inspected works and four supporting references, five cited sections, and an explicit “Still unfinished” assessment. See Regional-Research-Queue.md for coverage and the next candidate. Quantity does not establish completeness, adequacy or community review.
+The Kickapoo (original entry165) Texas supplement has five substantive inspected works, four supporting references, five cited sections, and an explicit “Still unfinished” assessment. Ysleta del Sur Pueblo is now a distinct added access point verified through Pueblo publications and federal law. Six substantive works support an adequate initial introduction; two supporting references remain outside the count. Its profile distinguishes the Pueblo from Isleta in New Mexico and wider Tiwa/Pueblo groupings. See Regional-Research-Queue.md and Ysleta-del-Sur-Pueblo-Research-Review-2026-10-22.md for scope, evidence and the next Texas entry. Counts and initial adequacy do not establish comprehensive research or community review.
 
 # Resumed historical-map work — October 22, 2026
 

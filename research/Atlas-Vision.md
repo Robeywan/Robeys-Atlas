@@ -1,6 +1,14 @@
-# Historical maps and individual profile connections — October 22, 2026
+# Current focus — directory research before more map development (October 22, 2026)
 
-Current pilot:14 authentic archive map records,5 complete-frame local previews and9 archive-link records. Four maps have8 reviewed map-to-entry routes covering7 directory access points: Catawba42, Cherokee51, Chickasaw55, Delaware(Lenape)97, Lenape182, Munsee231 and Seminole340. The two Lenape labels are overlapping reading routes, not separately established peoples or governments. Ten map records still await specific profile-connection review.
+The owner has paused significant historical-map expansion and map QA to prioritize low-usage, high-value source research. Continue Texas first, Minnesota next, then Idaho. Keep the published historical map room, interactive map, and authentic images intact. Add a map connection only when ordinary source research directly supports a specific people/community, period, and relationship; do not spend substantial usage on map hunting.
+
+The Texas queue has verified and added Ysleta del Sur Pueblo as a distinct access point. Six substantive inspected works support an adequate initial introduction, not a completed deep dive. The current route is a present community/government location only. Coushatta (original89), focused on the Alabama-Coushatta Tribe of Texas and its distinct Louisiana namesake community, is next. See the regional queue and dated review for evidence and gaps.
+
+The longer-term vision below remains in force: authentic imagery only, with verified attribution and rights; culturally appropriate presentation reviewed in context; and maps that help readers discover documented communities while distinguishing modern regions from Indigenous homelands. No new design phase or major map implementation is underway.
+
+## Historical-map collection and profile links — preserved project record
+
+Current library at the October22 checkpoint:17 authentic archive map records,6 local previews and11 archive-link records. Eight maps have14 reviewed map-to-entry routes across12 directory entries. See the current publication status for later updates. The two Lenape labels are overlapping reading routes, not separately established peoples or governments. Unassociated maps remain pending review.
 
 A single catalogue generates the room, its people filter, profile Historical maps sections and reciprocal links. Each connection retains a period, type, short relevance explanation, specific archive/community evidence and review date. Full image links, archive viewers and the complete two-page Seminole PDF remain accessible. Connections are not source-target promotions or completion claims.
 
@@ -8,7 +16,7 @@ Two newly inspected University of Georgia/Digital Library of Georgia records hav
 
 Catawba associations are grounded in Nasaw, Cherrikies and Chickisa labels interpreted by LOC/Newberry. The supplied scan bears a British Museum Add.MS4723 mark; its identity as the LOC1929photostat is not established. Credits distinguish underlying authorship, manuscript/copy history, the owner-supplied scan and explanatory archives. The ca1721 design,1724catalogue indexing and1929reproduction remain separate. Manatvs uses the exact Techkonis village bridge to Munsee archival identification, with broader Lenape/Delaware reading context supported by a situated community account. No unique modern-government descent is asserted.
 
-Preserve all470 directory entries,454 originals,16 additions,564regional map records,562region/profile pairs,103targets,194lakes,17 supplied studies/328URLs, original source counts/depth labels and homepage photographs/backgrounds. No generated maps/images. Remaining gap lists and unlinked-map notes are not evidence of absence.
+Preserve the original454 access points and every supported addition, region route, lake, supplied URL, source count/depth label, homepage photograph, and credit. Do not treat map expansion as the current research task. No generated maps/images. Remaining gap lists and unlinked-map notes are not evidence of absence.
 
 Owner's October22 authorization: one-time up to40existing credits and currently available5-hour usage after the weeklyhold was explained. This is a scoped resumption for this map pilot, not a recurring allowance. Starting shared balance55.8464025; maximum authorized shared decline40, floor15.8464025, with finishing reserve. Included usage remains available and balance has not declined at the91%weekly checkpoint. No purchases/manual resets. Finish a reviewed publication, save progress, then restore the normal85%weekly hold; do not start research merely to spend the allowance.
 
