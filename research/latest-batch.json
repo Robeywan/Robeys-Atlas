@@ -1,8 +1,8 @@
 {
   "reviewedAt": "2026-10-22",
   "priority": "Texas, Minnesota and Idaho source research; add maps only when supported by source review",
-  "originalIds": [76, 151],
-  "names": ["Coahuiltecan", "Jumano"],
+  "originalIds": [76, 151, 38],
+  "names": ["Coahuiltecan", "Jumano", "Caddo"],
   "sourceLinks": 18,
   "profiles": [
     {
@@ -45,6 +45,26 @@
           "No historical map was specifically inspected in this source batch; no new map-to-profile link was added."
         ]
       }
+    },
+    {
+      "originalId": 38,
+      "name": "Caddo",
+      "inspectedSources": 17,
+      "supportingInspectedReferences": 2,
+      "sections": 6,
+      "initialAdequacy": {
+        "status": "Still unfinished",
+        "reviewedAt": "2026-10-22",
+        "rationale": "Seventeen distinct substantive works were inspected across Caddo Nation program material, Caddo-authored oral-history synthesis and testimony, archaeology and public history, a treaty text, and a historical governance document. This supports an accessible initial account of identity, homeland, archaeology, displacement, language work, and continuity. The collection remains unfinished because the post-removal era and current community/government perspectives are still thin, the region and named communities require more comparative review, and further primary and specialist works need direct inspection.",
+        "remainingLimits": [
+          "Additional Caddo Nation-authored histories and current government materials need inspection.",
+          "Post-removal history, including Civil War, allotment, federal policy, and 1860–1902, needs deeper review.",
+          "The 1835 treaty’s manuscript, ratification record, later agreements, and implementation were not inspected.",
+          "Caddo Archeology Journal volume 23 remains unread after automated access failure.",
+          "The northern Arkansas Basin’s relationship to Caddo identity remains debated; no fixed boundary is asserted.",
+          "No present population, speaker count, exhaustive community list, or community endorsement is claimed."
+        ]
+      }
     }
   ],
   "leadUpdate": {
@@ -55,8 +75,8 @@
     "matchedPreviouslyInspectedSources": 5,
     "unreviewedSuggestedLeads": 13
   },
-  "nextOriginalId": 38,
-  "nextName": "Caddo",
+  "nextOriginalId": 151,
+  "nextName": "Jumano",
   "contributedStudies": 18,
   "contributedURLs": 346
 }

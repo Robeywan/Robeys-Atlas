@@ -1,3 +1,9 @@
+# Caddo Texas research â€” October 22, 2026
+
+Caddo (original 38) now has 17 substantive inspected works, two supporting references excluded from the count, six cited sections, and a dated **Still unfinished** adequacy assessment. The profile distinguishes the living Caddo people and present Caddo Nation government from historical Caddo-speaking confederacies, the narrower Kadohadacho label, and separate linguistically related Nations. The synthesis combines Caddo Nation language-program material, Caddo-authored oral histories and named testimony, archaeological/public-history interpretations, the 1835 treaty text, and a dated 1938 constitution. No map connection was added. Full review: `outputs/Caddo-Texas-Research-Review-2026-10-22.md`.
+
+Next: continue with Jumano (original 151), including the thirteen unread URLs contributed by the owner’s study, then proceed to remaining Texas connections before Minnesota and Idaho as capacity allows. Treat suggested leads separately from inspected sources. Add maps only when ordinary source review directly supports a particular community and period.
+
 # Karankawa Texas research â€” October 22, 2026
 
 The existing Karankawa entry (original 157) now has 12 substantive inspected works, six supporting/further-reading records excluded from the count, six cited sections and initial adequacy Not assessed. Research spans dated community statements and testimony, scholarly histories, archaeology education, journalism and selected government meeting pages. Distinct community names and the 2026 marker update are presented with dated attribution; unresolved official-record and archival questions remain. No map association was added. Full review: outputs/Karankawa-Texas-Research-Review-2026-10-22.md. Public version 41 is live at https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/karankawa/; no retry pending.
@@ -74,11 +80,11 @@ The following are existing saved records, not new source inspections. They do no
 | Texas | Coushatta | 89 | 0 |
 | Texas | Yaqui | 441 | 0 |
 | Texas | Kickapoo | 165 | 0 |
-| Texas | Caddo | 38 | 0 |
-| Texas | Jumano | 151 | 0 |
-| Texas | Lipan Apache | 185 | 0 |
-| Texas | Karankawa | 157 | 0 |
-| Texas | Coahuiltecan | 76 | 0 |
+| Texas | Caddo | 38 | 17 |
+| Texas | Jumano | 151 | 7 |
+| Texas | Lipan Apache | 185 | 10 |
+| Texas | Karankawa | 157 | 12 |
+| Texas | Coahuiltecan | 76 | 12 |
 
 Exact existing seed evidence and scope are recorded in work/regional-research-priority.json. Overlapping umbrella labels and present-day government connections do not define state-wide homelands or substitute for community-level research.
 

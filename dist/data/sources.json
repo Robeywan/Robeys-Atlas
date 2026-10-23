@@ -415,7 +415,8 @@
       "Community voices",
       "Identity",
       "History",
-      "Faith"
+      "Faith",
+      "Name clarification"
     ],
     "annotation": "Read the complete substantive history page, including its contemporary self-description and church affiliations. It presents the organization’s own account of identity and continuity alongside quotations from older writers. Useful as community public history, with historical priority, land-title, genealogy and broad Caddoan-language claims requiring separate verification. The general About directory is not an additional resource.",
     "accessed": "2026-10-20",
@@ -3661,18 +3662,43 @@
     ]
   },
   {
-    "id": "p38-s3",
-    "title": "Caddo Archeology",
-    "publisher": "caddoconference.org",
+    "id": "p38-s19",
+    "title": "Caddo Archeology Journal, volume 23",
     "url": "https://www.caddoconference.org/library/CAJ23.pdf",
+    "publisher": "Caddo Conference Organization",
+    "type": "Scholarly journal / conference publication",
+    "topics": [
+      "Archaeology",
+      "History"
+    ],
+    "annotation": "Potentially useful specialist reading, retained as a lead. The PDF could not be inspected in this review, so no contents are summarized and it does not count toward the substantive target.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "Automated open returned an internal error. This is not evidence of a reader paywall and no access control was bypassed; the work remains unread.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": false,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s2",
+    "title": "Language Preservation",
+    "url": "https://mycaddonation.com/language-preservation",
+    "publisher": "Caddo Nation of Oklahoma Language Program",
     "type": "Indigenous-led",
     "topics": [
-      "Identity",
-      "History",
-      "Contemporary life"
+      "Language",
+      "Contemporary life",
+      "Identity"
     ],
-    "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Caddo Archeology” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-    "accessed": "2026-10-19",
+    "annotation": "The Caddo Nation language program describes Hasinai/Caddo language work, the historical confederacies, community archiving, and the distinction between linguistic relationship and separate Nations. This is the Nation program’s own account of its work and language history.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full visible page was inspected, including the program lead, goals, language-history section, linked dated news items, and statement of continuing community work. No current speaker count was inferred from older media links.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
     "nations": [
       {
         "name": "Caddo",
@@ -16873,6 +16899,29 @@
     ]
   },
   {
+    "id": "p38-s1",
+    "title": "Early Caddo History",
+    "url": "https://www.nps.gov/articles/000/early-caddo-history.htm",
+    "publisher": "National Park Service",
+    "type": "Government",
+    "topics": [
+      "History",
+      "Homeland",
+      "Identity"
+    ],
+    "annotation": "A concise NPS exhibit locates historic Caddo communities in the Piney Woods and distinguishes Hasinai, Kadohadacho, and Natchitoches areas. Its chronology and population statements are institutional summaries, not current community counts; consult the cited oral-history and archaeological works for nuance.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete visible article, including its 1687 map caption, related-page links, and 2020 update date, was read. The linked map itself was not added to the historical-map room or assessed for reuse in this batch.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
     "id": "p10-s3",
     "title": "Evacuation and Internment",
     "publisher": "National Park Service",
@@ -18776,26 +18825,6 @@
     ]
   },
   {
-    "id": "p38-s1",
-    "title": "Early Caddo History (U.S. National Park Service)",
-    "url": "https://www.nps.gov/articles/000/early-caddo-history.htm",
-    "publisher": "nps.gov",
-    "type": "Government",
-    "topics": [
-      "Identity",
-      "History",
-      "Language"
-    ],
-    "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
-    "accessed": "2026-10-19",
-    "nations": [
-      {
-        "name": "Caddo",
-        "slug": "caddo"
-      }
-    ]
-  },
-  {
     "id": "p241-s2",
     "title": "Early Choctaw History - Natchez Trace Parkway (U.S. National Park Service)",
     "publisher": "nps.gov",
@@ -19593,6 +19622,29 @@
     ]
   },
   {
+    "id": "p38-s14",
+    "title": "Caddo (Kadohadacho)",
+    "url": "https://www.okhistory.org/publications/enc/entry?entry=CA003",
+    "publisher": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture; Howard Meredith",
+    "type": "Scholarly reference",
+    "topics": [
+      "Identity",
+      "History",
+      "Governance"
+    ],
+    "annotation": "Howard Meredith’s entry concerns Kadohadacho in particular and describes its Red River villages and later participation in the 1938 Caddo government. Its narrower subject is valuable for distinguishing a historical community from the broader Caddo people, but it must not be generalized to all Caddo communities.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete visible encyclopedia article, author attribution, publication date, and bibliography were read. Its references are not independently inspected here.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
     "id": "p16-s1",
     "title": "Apache Tribe of Oklahoma",
     "author": "Dianna Everett",
@@ -19644,6 +19696,30 @@
       {
         "name": "Iowa (Ioway)",
         "slug": "iowa-ioway"
+      }
+    ]
+  },
+  {
+    "id": "p38-s15",
+    "title": "Caddo Nation of Oklahoma Tribal Guide",
+    "url": "https://oklahoma.gov/content/dam/ok/en/osde/documents/resources/american-indian-education/Caddo%20Nation%20of%20Oklahoma%20Tribal%20Guide%20no%20standards.pdf",
+    "publisher": "Oklahoma State Department of Education, Oklahoma Indian Education",
+    "type": "Government educational guide",
+    "topics": [
+      "Identity",
+      "History",
+      "Language",
+      "Culture"
+    ],
+    "annotation": "A 15-page education guide compiles Caddo history, removal, government, language, and cultural information. Its leadership and enrollment details are dated and must not be used as current facts; it serves here as a broad educational reference with historical scope.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete 15-page PDF was reviewed. Page 11 identifies membership and leadership material dated to October 2010 and older estimates; those figures are excluded from the current synthesis. The guide does not identify a Caddo Nation author in the inspected pages.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
       }
     ]
   },
@@ -26839,6 +26915,189 @@
     ]
   },
   {
+    "id": "p38-s11",
+    "title": "Reviving a Lost Tradition",
+    "url": "https://www.texasbeyondhistory.net/tejas/clay/reviving.html",
+    "publisher": "Texas Beyond History; interview within the Created in Clay exhibit",
+    "type": "Indigenous-led",
+    "topics": [
+      "Culture",
+      "Art",
+      "Contemporary life"
+    ],
+    "annotation": "Caddo potter Jeri Redcorn describes her own process of learning and reviving pottery practice and reflects on removals and boarding schools. This is a named person’s first-person account, not a claim that one maker speaks for all Caddo people.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete visible interview page and credited contextual material were read. The profile attributes its reflections to Redcorn and does not reproduce restricted or unpublished material.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s8",
+    "title": "Caddo Homeland",
+    "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+    "publisher": "Texas Beyond History; researched and written by Cecile Elkins Carter",
+    "type": "Indigenous-led",
+    "topics": [
+      "Identity",
+      "Homeland",
+      "History"
+    ],
+    "annotation": "Cecile Elkins Carter, an enrolled Caddo historian, presents a Caddo-centered synthesis using oral history, archival records, and historical group names. The page distinguishes broad Caddo use from the narrower historical Cadohadacho label; these are attributed historical interpretations rather than a universal current naming rule.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full visible page and the separate credits page were read. Its account is Carter’s researched and written synthesis; underlying cited archives and all referenced books were not independently reviewed.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s9",
+    "title": "Twenty Years Without a Home, 1836–1859",
+    "url": "https://www.texasbeyondhistory.net/tejas/voices/without.html",
+    "publisher": "Texas Beyond History; researched and written by Cecile Elkins Carter",
+    "type": "Indigenous-led",
+    "topics": [
+      "History",
+      "Removal",
+      "Oral history"
+    ],
+    "annotation": "This page follows displacement and movement among Louisiana, Texas, the Brazos area, and Indian Territory using archival records and named Caddo testimony. Testimony from Fallis Elkins (1973) and Sadie Bedoka Weller (1968) is identified by speaker and date; it is situated family memory, not a generic or interchangeable Caddo story.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full visible page, narrative, map caption, archival references, and attributed oral-history excerpts were read. The complete recordings and all referenced primary records were not inspected.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s6",
+    "title": "Caddo Ancestors: Uncovering Early Caddo History",
+    "url": "https://www.texasbeyondhistory.net/tejas/ancestors/",
+    "publisher": "Texas Beyond History; Texas Archeological Research Laboratory and partners",
+    "type": "Scholarly public-history exhibit",
+    "topics": [
+      "History",
+      "Archaeology"
+    ],
+    "annotation": "This exhibit overview explains its archaeological and historical questions, the long chronology it covers, and the uncertainty in reconstructing pre-written history. Its linked chapters offer a deeper reading path; only the overview was inspected for this review.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full visible overview and chapter descriptions were inspected; individual linked chapter pages were not read and are not claimed as inspected.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s5",
+    "title": "Caddo Homeland: the Land and its Resources",
+    "url": "https://www.texasbeyondhistory.net/tejas/fundamentals/homeland.html",
+    "publisher": "Texas Beyond History; Texas Archeological Research Laboratory and partners",
+    "type": "Scholarly public-history exhibit",
+    "topics": [
+      "Homeland",
+      "History",
+      "Archaeology"
+    ],
+    "annotation": "A detailed exhibit places Caddo communities within river systems and landscapes while explaining that territorial reach changed through time. Its map and text also distinguish a broad northern Arkansas Basin area where identity and archaeological classification are debated.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete visible homeland page, its map caption, geographic description, and discussion of changing extent and disputed northern affiliation were read. The map is a scholarly exhibit, not a legal or present-day territorial boundary.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s7",
+    "title": "Caddo Timeline",
+    "url": "https://www.texasbeyondhistory.net/tejas/fundamentals/timeline.html",
+    "publisher": "Texas Beyond History; Texas Archeological Research Laboratory and partners",
+    "type": "Scholarly public-history synthesis",
+    "topics": [
+      "History",
+      "Archaeology",
+      "Method"
+    ],
+    "annotation": "A chronological overview explains that archaeological timelines are useful scholarly tools but cannot capture most individual experiences or all events. It identifies the need to compare archaeology with oral, written, linguistic, and community evidence.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete visible timeline page and its methodological caveats, chronology, captions, and cited source leads were read. Cited books and records were not independently inspected unless separately listed.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s10",
+    "title": "Created in Clay: the Caddo Pottery Tradition",
+    "url": "https://www.texasbeyondhistory.net/tejas/clay/",
+    "publisher": "Texas Beyond History; Texas Archeological Research Laboratory and partners",
+    "type": "Scholarly public-history exhibit",
+    "topics": [
+      "Culture",
+      "Art",
+      "Archaeology"
+    ],
+    "annotation": "This exhibit explains the archaeological importance of Caddo pottery and directs readers to a separate account of contemporary Caddo potter Jeri Redcorn’s practice. The archaeological framing and present-day artistic work are connected but should not be collapsed into a claim that cultural practices are unchanged.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full visible exhibit introduction and its described pottery galleries and linked sections were read. Gallery images and the separate pages are not counted as independently inspected here.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s12",
+    "title": "Learning About the Caddo Past",
+    "url": "https://www.texasbeyondhistory.net/tejas/fundamentals/learning.html",
+    "publisher": "Texas Beyond History; Texas Archeological Research Laboratory and partners",
+    "type": "Scholarly methods overview",
+    "topics": [
+      "History",
+      "Archaeology",
+      "Source criticism"
+    ],
+    "annotation": "This methods essay describes the strengths and limitations of oral history, archaeology, linguistics, ethnography, and European accounts. It directly cautions that missionary and explorer records can reflect the authors’ motives and prejudices, a useful guide for interpreting older documentary sources.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The complete visible essay, named source traditions, image captions, and bibliography leads were inspected. The books and archival documents it describes remain separate leads unless listed as inspected.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
     "id": "p157-s9",
     "url": "https://www.texasbeyondhistory.net/coast/peoples/index.html",
     "title": "Coastal Prairies and Marshes: Native Peoples of the Texas Coast",
@@ -26888,6 +27147,29 @@
       {
         "name": "Coushatta",
         "slug": "coushatta"
+      }
+    ]
+  },
+  {
+    "id": "p38-s3",
+    "title": "Caddo Mounds History",
+    "url": "https://thc.texas.gov/state-historic-sites/caddo-mounds/caddo-mounds-history",
+    "publisher": "Texas Historical Commission",
+    "type": "Government / archaeology and historic-site interpretation",
+    "topics": [
+      "History",
+      "Archaeology",
+      "Homeland"
+    ],
+    "annotation": "A site history summarizes the settlement and ceremonial center at Caddo Mounds and later Hasinai and Caddo movement. Its account is useful for this particular site and institutional chronology, not a complete history of the Caddo people.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full visible history article and its listed chronology were read. Interpretations of why the center was vacated remain attributed to the site’s archaeological account.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
       }
     ]
   },
@@ -26962,6 +27244,52 @@
       {
         "name": "Coushatta",
         "slug": "coushatta"
+      }
+    ]
+  },
+  {
+    "id": "p38-s17",
+    "title": "Plan Your Visit to Caddo Mounds",
+    "url": "https://thc.texas.gov/state-historic-sites/caddo-mounds/plan-your-visit-caddo-mounds",
+    "publisher": "Texas Historical Commission and Caddo Nation of Oklahoma",
+    "type": "Government and community partnership",
+    "topics": [
+      "Contemporary life",
+      "Caddo Mounds",
+      "Public history"
+    ],
+    "annotation": "The state’s current visitor page documents the 2024 reopening and says the site is held in trust and actively managed by the Texas Historical Commission and Caddo Nation. This is a site-management and visitor account, not a general statement about Caddo government or land title elsewhere.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The page sections on reopening, site management, public interpretation, and visits were read. Admission and schedule details are not reproduced because they can change.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
+    "id": "p38-s4",
+    "title": "Caddo Voices interactive exhibit",
+    "url": "https://learning.thc.texas.gov/caddo-culture/interactive-illustration/",
+    "publisher": "Texas Historical Commission, in collaboration with Caddo citizens",
+    "type": "Community-collaborative public history",
+    "topics": [
+      "Culture",
+      "Contemporary life",
+      "Caddo Mounds"
+    ],
+    "annotation": "This public exhibit says it was designed with Caddo citizens and features Caddo artist Chase Kahwinhut Earles. It connects selected knowledge about Caddo Mounds, the High Temple Mound, gardens, the grass house, and present gatherings; it is one collaborative interpretation, not a statement by every Caddo citizen.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The visible exhibit text and chapters for High Temple Mound, prairie/garden, grass house, Low Platform Mound, and burial mound were inspected. Embedded external material and any cultural knowledge outside the public exhibit were not accessed.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
       }
     ]
   },
@@ -28540,6 +28868,28 @@
     ]
   },
   {
+    "id": "p38-s16",
+    "title": "Constitution and By-Laws of the Caddo Indian Tribe of Oklahoma, ratified 1938",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I20-f5189fed66c13c5625939aabeea6a24f/pdf/GOVPUB-I20-f5189fed66c13c5625939aabeea6a24f.pdf",
+    "publisher": "U.S. Office of Indian Affairs / GovInfo",
+    "type": "Primary governance record",
+    "topics": [
+      "History",
+      "Governance"
+    ],
+    "annotation": "This primary document records the 1938 constitutional organization and its ratification. It is useful for a dated account of political reorganization, not a description of the Nation’s current constitution or government structure.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "The full seven-page document was read, including its preamble, membership/governance provisions, election rules, approval, and ratification certification.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
+      }
+    ]
+  },
+  {
     "id": "ap16-h3",
     "title": "Papers Relative to the Education of the Apaches in Florida — Senate Executive Document 73",
     "author": "U.S. Department of the Interior, Secretary L. Q. C. Lamar’s transmittal, with collected official correspondence",
@@ -29290,6 +29640,29 @@
       {
         "name": "Coushatta",
         "slug": "coushatta"
+      }
+    ]
+  },
+  {
+    "id": "p38-s13",
+    "title": "Treaty with the Caddoes, 1835 (7 Stat. 470)",
+    "url": "https://www.govinfo.gov/content/pkg/STATUTE-7/pdf/STATUTE-7-Pg472.pdf",
+    "publisher": "United States Statutes at Large, hosted by GovInfo",
+    "type": "Primary legal record",
+    "topics": [
+      "History",
+      "Treaty",
+      "Removal"
+    ],
+    "annotation": "The printed federal treaty text records the 1835 agreement, parties, cession, and supplementary articles. It is evidence of the document and federal legal framing; it cannot establish the views or experiences of every Caddo community, or by itself verify implementation.",
+    "accessed": "2026-10-22",
+    "contentReviewScope": "Both pages of the treaty text and supplementary articles were inspected. This is the published statutory transcription, not an examination of the signed manuscript or separate ratification and implementation files.",
+    "contentReviewedAt": "2026-10-22",
+    "countsTowardMinimum": true,
+    "nations": [
+      {
+        "name": "Caddo",
+        "slug": "caddo"
       }
     ]
   },
