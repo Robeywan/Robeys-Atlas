@@ -15,3 +15,9 @@ Selected sections of the official 20-page opinion were read: case facts; text of
 Source: https://www.ca5.uscourts.gov/opinions/pub/94/94-50369.CV1.wpd.pdf
 
 The two sources raise the substantive count from 9 to 11 and the cited-section count from 9 to 10. The 1846 treaty’s metadata and scan are one source; its separate linked ratification documents are not counted. Five short/context references remain excluded. The profile remains **Still unfinished**; the new records do not resolve the 1862 massacre’s causes, 1891 cession or claim history, or the full range of contemporary Tonkawa perspectives. No map connection was reviewed or added.
+
+## Fort Griffin federal correspondence (1872–1876)
+
+On October 23, 2026, I read all eight pages of the searchable GovInfo text for H. Ex. Doc. 44-102, *Tonkawa Indians at Fort Griffin, Texas* (Feb. 1, 1876): https://www.govinfo.gov/app/details/SERIALSET-01689_00_00-020-0102-0000/. The source compiles military and Interior Department correspondence. Officers describe 1875 ration stoppages and temporary relief; the Interior Department reports authorizing a small Lipan group to move from Fort Sill to Fort Griffin in 1874 and discusses proposed reservation locations. These are government records and policy proposals, not Tonkawa testimony or proof that recommendations were carried out. The scan imagery, handwriting, signatures, and underlying correspondence files were not inspected; the OCR has transcription artifacts. No access restriction was encountered.
+
+This is one additional substantive work, bringing Tonkawa to 12; initial adequacy remains **Still unfinished**. It is cited in the Fort Cobb / government-response section and does not resolve open Tonkawa-authored, archival, massacre, or legal-history gaps. No map was added.
