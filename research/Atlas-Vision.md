@@ -79,6 +79,12 @@ Begin with a community-led regional coverage inventory so the existing broad map
 
 Read outputs/Regional-Research-Queue.md. Budget and weekly conservation rules remain unchanged. This is a saved priority change during the existing usage hold, not a new research publication or credit authorization. Synchronize these plans and the regional queue into the Site's research notes at the next normal source-opening flow and meaningful publication; do not redeploy solely for this planning change.
 
+## Initial directory cards now — October 24, 2026
+
+Latest owner instruction: give every initial directory card its own simple visual treatment like Apache before further research. The owner confirmed styling all cards now with distinctive decorative backdrops and adding authentic photographs as available. This pass covers all471 initial cards, with a stable palette/composition per entry and specifically credited photographs where ready. Abstract art is interface decoration, not an invented cultural motif. Keep the opened profile pages as they are; Apache's full-page collage remains the later prototype. After this bounded rollout, resume Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan. Details: outputs/Directory-Cards-Design-Update-2026-10-24.md and Directory-Profile-Design-Blueprint.md.
+
+---
+
 ## Owner-approved directory visual blueprint — October 24, 2026
 
 Apache's published version87 collage is now the approved reference for the eventual look of every directory profile. Apply its full-page photographic setting, overlapping opening images, readable cream panels and discreet expandable credits gradually, using imagery that is individually appropriate to each people or community. See outputs/Directory-Profile-Design-Blueprint.md and work/directory-profile-design-blueprint.json for the preserved reference and implementation guidance. Labels belong discreetly with the visual arrangement where needed; full creator, source, rights and uncertainty notes remain accessible.

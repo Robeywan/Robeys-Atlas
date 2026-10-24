@@ -1,3 +1,9 @@
+# Immediate directory-card priority — October 24, 2026
+
+The owner explicitly moved styling every initial directory card ahead of further research. They confirmed: style every card now and add authentic images as available. This is a bounded directory-card pass, not a request to decorate all opened profile pages now. All471 card treatments are prepared with stable individual palettes/compositions, retaining Apache's authentic basket and adding the credited Diné weaving photograph to Navajo. Other cards use neutral abstract interface decoration without claims of cultural authenticity. See outputs/Directory-Cards-Design-Update-2026-10-24.md, the saved blueprint and the separate card-design register. Publish this completed card pass, then resume Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan. Research data, counts, maps, saved drafts and the original Apache full-page prototype remain intact.
+
+---
+
 # Owner-approved directory design blueprint — October 24, 2026
 
 The owner approved the published Apache collage (version87) as the standing visual blueprint for every directory profile, to be applied gradually in future design work. See outputs/Directory-Profile-Design-Blueprint.md and work/directory-profile-design-blueprint.json. Use a full-page backdrop of authentic, individually relevant photographs, overlapping opening images, neutral visual filler, readable cream panels, discreet labels and expandable creator/source/rights credits. Select imagery and cultural context separately for each people; do not reuse Apache identity or objects as generic decoration. Optional AI decorative filler is permitted by the owner, but the approved Apache example uses none; documentary photographs and objects remain authentic and attributed. This supersedes earlier blanket no-generated-visual wording only for optional decorative filler, not documentary content.
