@@ -79,6 +79,16 @@ Begin with a community-led regional coverage inventory so the existing broad map
 
 Read outputs/Regional-Research-Queue.md. Budget and weekly conservation rules remain unchanged. This is a saved priority change during the existing usage hold, not a new research publication or credit authorization. Synchronize these plans and the regional queue into the Site's research notes at the next normal source-opening flow and meaningful publication; do not redeploy solely for this planning change.
 
+## Owner-approved directory visual blueprint — October 24, 2026
+
+Apache's published version87 collage is now the approved reference for the eventual look of every directory profile. Apply its full-page photographic setting, overlapping opening images, readable cream panels and discreet expandable credits gradually, using imagery that is individually appropriate to each people or community. See outputs/Directory-Profile-Design-Blueprint.md and work/directory-profile-design-blueprint.json for the preserved reference and implementation guidance. Labels belong discreetly with the visual arrangement where needed; full creator, source, rights and uncertainty notes remain accessible.
+
+The owner permits optional AI decorative filler around authentic photographs. The approved Apache version uses neutral CSS gradients and no generated imagery. Do not present generated decoration as documentary evidence or an authentic cultural design. Do not transfer Apache objects or identity to other peoples. This dated permission revises earlier blanket generated-visual restrictions only for decorative filler.
+
+This is a future gradual rollout, not a request to redesign every profile now. Substantive research continues Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan. Synchronize the blueprint and updated plans at the next meaningful Site update; the current public page remains version87.
+
+---
+
 ## Current owner authorization and priority — October 21, 2026
 
 The owner has added credits. The account balance was verified at 1,000 and the owner authorizes up to 900 of those credits for useful Atlas work, preserving at least 100. This is one cumulative authorization, not a fresh allowance every run. Check the shared balance before each batch/delegation and at publication checkpoints; stop research conservatively before the reserve is threatened. Do not buy credits or use manual reset credits. Read work/atlas-900-credit-authorization.json and work/atlas-credit-budget.json. Earlier low-credit holds and smaller credit caps are superseded by this authorization. Use ordinary allowance when available; do not manufacture spending merely to reach 900.

@@ -1,3 +1,11 @@
+# Owner-approved directory design blueprint — October 24, 2026
+
+The owner approved the published Apache collage (version87) as the standing visual blueprint for every directory profile, to be applied gradually in future design work. See outputs/Directory-Profile-Design-Blueprint.md and work/directory-profile-design-blueprint.json. Use a full-page backdrop of authentic, individually relevant photographs, overlapping opening images, neutral visual filler, readable cream panels, discreet labels and expandable creator/source/rights credits. Select imagery and cultural context separately for each people; do not reuse Apache identity or objects as generic decoration. Optional AI decorative filler is permitted by the owner, but the approved Apache example uses none; documentary photographs and objects remain authentic and attributed. This supersedes earlier blanket no-generated-visual wording only for optional decorative filler, not documentary content.
+
+No immediate redesign of all profiles is requested. Research order remains Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan. Preserve the version87 reference and synchronize this blueprint and updated planning notes into the Site research directory at the next meaningful authorized update.
+
+---
+
 # Latest Idaho source review — Kootenai (Ktunaxa), October 23, 2026
 
 Kootenai (Ktunaxa; original 174) now has **eight substantive inspected works** and seven cited synthesis sections. Two distinct works deepen its Idaho-focused coverage: Kootenai Tribe of Idaho chairman Gary Aitken Sr.’s 2003 statement for the five-government Upper Columbia United Tribes coalition, and a 2025 USGS technical report prepared in cooperation with the Tribe. The profile is explicitly **Still unfinished**. The technical study concerns a bounded restoration reach and selected physical indicators; the testimony is attributed to its speaker and coalition scope. No map association was added. Full review: outputs/Kootenai-Idaho-Research-Review-2026-10-23.md.
@@ -265,3 +273,10 @@ Use only currently available ordinary usage, save a safe checkpoint before five-
 ## Latest published-work note — Coushatta (October 23, 2026)
 
 One Louisiana Coushatta community-backed digital dictionary was added after inspecting the landing page and four entries. The profile has 13 substantive works and retains its dated initial-adequacy rationale with explicit open limits. This is evidence for Louisiana community language documentation, not automatic evidence about Texas or Oklahoma institutions. The current research queue remains Texas, Minnesota, then Idaho; map additions are paused unless ordinary source review substantiates a specific connection.
+## Owner priority update — October 23, 2026
+
+After the Idaho, Texas, and Minnesota tribal/community research priority is adequately covered, research the Blackfeet tribe next. Preserve the current regional work and unfinished evidence gaps. When beginning Blackfeet, verify the intended community scope and distinguish the Blackfeet Tribe in Montana from the wider Blackfoot Confederacy and its distinct member nations; do not merge their identities or treat an umbrella source collection as completion of the Tribe’s research. This instruction sets the next priority after the three-state work, not a requirement to postpone all other work until every possible historical connection is exhaustively researched.
+
+## Current owner research order — October 24, 2026
+
+The owner explicitly set this sequence: (1) Texas Indigenous peoples and communities; (2) Idaho; (3) Minnesota; (4) the Blackfeet Tribe in Montana; (5) all Michigan Indigenous peoples and communities, including verified current governments and documented historical connections. This supersedes earlier Texas–Minnesota–Idaho ordering. Preserve all completed research and saved drafts; assess adequate initial coverage and document remaining gaps rather than interpreting a source count as completion. Blackfeet remains distinct from the broader Blackfoot Confederacy. Michigan includes the newly supplied Tittabawassee study's queued leads, with Saginaw Chippewa/Ojibwe connections verified before identity assignment. Do not restrict Michigan research to that document or assume existing map listings are exhaustive. Continue the established quality, source-inspection and usage-conservation rules.
