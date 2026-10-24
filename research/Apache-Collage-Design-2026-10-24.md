@@ -1,0 +1,7 @@
+# Apache backdrop trial — October 24, 2026
+
+Owner requested one Apache-only full-page collage trial. Three authentic photographs now introduce the profile and continue as a fixed, softly toned backdrop behind readable cream panels. Neutral CSS gradients fill gaps; no generated cultural imagery or invented Apache motifs were used. Other profiles and the homepage remain unchanged.
+
+Image metadata, inspected scope, credit, rights and source URLs are recorded in data/apache-collage-images.json and in the profile's expandable “Backdrop photographs & credits” panel. Met storage basket: Apache artist unrecorded, specific nation unidentified, CC0/Public Domain. Edward S. Curtis's staged Apache still life, c.1907: Library of Congress reproduction LC-USZ62-130198, no known restrictions on publication. USGS-575123: photograph by USGS Museum Staff, Public Domain, only probably Apache; acquisition and catalogue-title dating are distinguished. Photographs were inspected as full images. Layout scales photographs proportionally; background reuse may crop through CSS. None of these images adds to substantive research-source counts.
+
+Build, internal citations/links, original data preservation, regional routes and historical-map reciprocity checks passed. Narrow browser-pane collage and reading panels visually inspected. No full device matrix claimed. Full study downloads and existing credits retained.
