@@ -59,14 +59,15 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
   // owner-supplied study whose original URLs remain leads pending inspection.
   assert.equal(currentData.addedAt,priorData.addedAt);
   assert.equal(currentData.status,priorData.status);
-  assert.equal(currentData.documents.length,priorData.documents.length+1);
+  assert.equal(currentData.documents.length,priorData.documents.length+2);
   for(let i=0;i<priorData.documents.length;i++)
    assert.deepEqual(currentData.documents[i],priorData.documents[i],'Prior owner-study document preserved: '+priorData.documents[i].key);
   const added=currentData.documents.at(-1);
-  assert.equal(added.key,'Jumano_History_Culture_and_Timeline');
-  assert.deepEqual(added.originalIds,[151]);
-  assert.equal(added.links.length,18);
-  assert.equal(new Set(added.links.map(x=>x.url)).size,18);
+  assert.equal(currentData.documents.at(-2).key,'Jumano_History_Culture_and_Timeline');
+  assert.equal(added.key,'Tittabawassee_History_Culture_and_Timeline');
+  assert.deepEqual(added.originalIds,[265]);
+  assert.equal(added.links.length,19);
+  assert.equal(new Set(added.links.map(x=>x.url)).size,19);
   assert(added.links.every(x=>x.documentKey===added.key&&x.reviewStatus),'New owner study provenance retained');
  }else assert.deepEqual(priorData,currentData,file+' preserved');
 }
