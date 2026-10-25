@@ -62,3 +62,12 @@ input[type=checkbox]{accent-color:#24675f}.toast{background:#24565b;border:1px s
 @media print{.page-hero h1 em{color:#111}.prose>h1{background:white;color:#111;border-color:#aaa;padding:12px 0}}
 @media(min-width:701px) and (max-width:1100px){.masthead-wrap .nav{width:100%;display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media print{:root{--paper:white;--white:white;--ink:#111;--muted:#333;--line:#aaa;--wash:white;--sand:white}body,body>main>.wrap,body:not(.custom-profile-page):not(.apache-collage-page)>main.wrap,body.custom-profile-page>main.wrap,.apache-collage-page .profile-content{background:white!important;color:#111!important}.page-hero,.profile-hero,.profile-section,.source-card,.lead-group,.relationship,.coverage-note,.research-gaps,.prose details,.profile-content>section{background:white!important;box-shadow:none!important;color:#111!important;border-color:#aaa!important}.page-hero h1,.page-hero p,.page-hero .eyebrow{color:#111}.page-hero::before,.site-footer::before{display:none}.contents,.site-footer,.filters{display:none!important}.profile-section,.source-card{padding:12px 0}}
+
+/* Homepage totals belong to the directory, rather than a separate statistics band. */
+.directory-scenic .directory-heading{align-items:center;flex-wrap:wrap;gap:20px 32px}
+.directory-heading-copy>span{display:block;margin-top:6px;color:#fff1d5}
+.directory-totals{display:flex;gap:28px;margin:0;flex-wrap:wrap}
+.directory-totals>div{display:flex;flex-direction:column;gap:3px;padding-left:22px;border-left:1px solid #e8d09870}
+.directory-totals dt{order:2;font-size:10px;line-height:1.5;letter-spacing:1px;text-transform:uppercase;color:#fff1d5}
+.directory-totals dd{order:1;margin:0;font-family:var(--serif);font-size:32px;line-height:1.1;color:#ffe2a2;font-variant-numeric:tabular-nums}
+@media(max-width:700px){.directory-scenic .directory-heading{align-items:flex-start;gap:20px}.directory-totals{gap:24px;width:100%;padding-top:16px;border-top:1px solid #e8d09870}.directory-totals>div{padding:0;border:0}.directory-totals dd{font-size:29px}}
