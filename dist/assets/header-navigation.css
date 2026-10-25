@@ -1,0 +1,35 @@
+/* Original contemporary interface decoration; no traditional motif attribution. */
+body > .masthead-wrap{
+  position:relative;isolation:isolate;overflow:hidden;
+  background:radial-gradient(ellipse at 93% -30%,#ce805969,transparent 54%),linear-gradient(112deg,#102f39 0%,#235552 57%,#633f49 100%);
+  border:1px solid #b59358;border-bottom:3px solid #dcb470;
+  border-radius:7px 7px 3px 3px;box-shadow:0 8px 24px #172e3529;
+}
+.masthead-wrap::before{content:"";position:absolute;inset:0 0 auto;height:22px;background:url('header-stepped-pattern.svg') repeat-x center top;opacity:.58;pointer-events:none;z-index:0}
+.masthead-wrap::after{content:"";position:absolute;inset:auto 0 0;height:5px;background:repeating-linear-gradient(90deg,#e9bf73 0 34px,#b96c50 34px 68px,#76a9a2 68px 102px,#977b9c 102px 136px);pointer-events:none;z-index:0}
+.masthead-wrap .site-header{position:relative;z-index:1;height:auto;min-height:132px;gap:24px;padding:34px 0 25px;border:0;flex-wrap:wrap}
+.masthead-wrap .brand{color:#fff4dc;gap:14px;flex:0 1 auto;max-width:100%;min-width:0}
+.masthead-wrap .brand:hover{text-decoration:none}
+.masthead-wrap .brand-name{color:#fff4dc;text-shadow:0 2px 5px #031f2b66;font-size:29px;line-height:1.15}
+.masthead-wrap .brand-small{color:#efcc8e;font-size:8px;line-height:1.5;letter-spacing:1.45px;margin-top:7px}
+.masthead-wrap .brand-photo-mark{box-shadow:0 0 0 3px #ffffff0c,0 3px 9px #08252e80;border-color:#e9c382;border-radius:5px}
+.masthead-wrap .nav{width:auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-end;gap:9px;font-size:11px;line-height:1.2}
+.masthead-wrap .nav-tile{--tile-bg:#315a62;--tile-accent:#a1d0c9;display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:45px;padding:11px 12px 10px;background:var(--tile-bg);color:#fff8e8;border:1px solid #ffffff37;border-top:3px solid var(--tile-accent);border-radius:8px 2px 8px 2px;box-shadow:0 3px 8px #051e2a45;text-decoration:none;font-weight:600;letter-spacing:.1px;transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+.masthead-wrap .nav-map{--tile-bg:#216863;--tile-accent:#a0d5c6}
+.masthead-wrap .nav-directory{--tile-bg:#86432f;--tile-accent:#f6b087}
+.masthead-wrap .nav-historical-maps{--tile-bg:#474e70;--tile-accent:#bdc6f2}
+.masthead-wrap .nav-sources{--tile-bg:#67531e;--tile-accent:#f2d080}
+.masthead-wrap .nav-about{--tile-bg:#664367;--tile-accent:#e0b0d5}
+.masthead-wrap .nav-saved{--tile-bg:#365c72;--tile-accent:#9fcee1}
+.masthead-wrap .nav-icon{display:inline-flex;flex:none;color:var(--tile-accent)}
+.masthead-wrap .nav-icon svg{display:block;width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.masthead-wrap .nav-label{white-space:nowrap}
+.masthead-wrap .nav-tile:hover{transform:translateY(-2px);border-color:#f6d698;box-shadow:0 5px 12px #041d2c66;text-decoration:none}
+.masthead-wrap .nav-tile[aria-current="page"]{color:#fff8e8;border-color:#ffe0a3;box-shadow:inset 0 -3px #ffe0a3,0 3px 8px #051e2a45}
+.masthead-wrap a:focus-visible{outline:3px solid #fff1b6;outline-offset:4px}
+.masthead-wrap .saved-count{display:inline-grid;place-items:center;min-width:18px;height:18px;margin-left:0;background:#102f3990;border:1px solid #ffffff59;border-radius:50%;font-size:9px;color:#fff8e8}
+@media(max-width:1200px){.masthead-wrap .site-header{gap:20px}.masthead-wrap .nav{justify-content:flex-start}}
+@media(max-width:700px){body > .masthead-wrap{padding-left:5%;padding-right:5%}.masthead-wrap .site-header{min-height:0;gap:20px;padding:34px 0 24px}.masthead-wrap .brand-name{font-size:27px}.masthead-wrap .brand-small{font-size:7px}.masthead-wrap .nav{width:100%;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}.masthead-wrap .nav-tile{padding:10px 7px;min-height:48px;gap:6px;font-size:11px}.masthead-wrap .nav-icon svg{width:16px;height:16px}}
+@media(max-width:520px){.masthead-wrap .brand{gap:12px}.masthead-wrap .brand-name{font-size:25px}.masthead-wrap .brand-small{font-size:6px;letter-spacing:1.1px}.masthead-wrap .nav{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.masthead-wrap .nav-tile{min-height:45px;font-size:11px;justify-content:flex-start;padding-left:12px}}
+@media(prefers-reduced-motion:reduce){.masthead-wrap .nav-tile{transition:none}.masthead-wrap .nav-tile:hover{transform:none}}
+@media print{body > .masthead-wrap{display:none}}
