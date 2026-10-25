@@ -1,0 +1,22 @@
+# Research and visuals together
+
+Owner instruction, October24,2026: catch up the existing expanded/adequate introductions visually before starting new tribe research. Thereafter, update the directory card and opened-page visual treatment with each substantive researched profile update.
+
+The first visual catch-up selects33 developed or explicitly adequate-introduction profiles, including the existing Apache prototype. This is a visual eligibility rule, not a research-completion claim. No entry currently has a recorded researchComplete:true flag. Six legacy expanded profiles still need actual evidence-review records, and all stated research gaps remain intact.
+
+The catch-up adds32 coordinated page treatments. Ten have newly inspected, credited authentic images;22 use individual decorative compositions with authentic photographs explicitly pending. Apache retains its original three-image collage. The same verified imagery is carried into corresponding directory cards. Two proposed images remain deferred: the Alutiiq Old Harbor image needs stronger community identification, and the Amuzgo textile photograph does not establish separate rights in the textile. They are not published as backdrops.
+
+## Each future batch
+
+1. Inspect relevant sources and update the cited profile, actual reading scope, adequacy judgment and open gaps.
+2. Review its directory card and opened-page appearance together. Use authentic relevant imagery with verified identification, context, rights, creator/archive credit and scope. Keep a coherent decorative treatment where images are not cleared; record that image gap honestly.
+3. Keep visual status separate from research status. Abstract forms are interface decoration, not claimed traditional artwork. Do not invent culturally authoritative motifs or fabricate historical photographs. Preserve the Apache blueprint's readable panels and discreet expandable credits.
+4. Build and review both card and page, including representative small-screen layout, links, credits and readability, before publishing the batch. Refresh the visual progress register and research checkpoint together.
+
+## Build support
+
+`data/profile-visual-targets.json` retains selected slugs and a baseline digest of inspected-source content and synthesis. `profile-visuals.mjs` automatically enrolls an existing or new profile when meaningful inspected research changes, using its directory palette for a coordinated page. This prevents a research update from silently retaining a plain opened page. It does not automatically certify research adequacy, clear image rights or replace visual review. Reading-lead or map changes alone do not alter the inspected-source digest.
+
+`data/profile-visual-assets.json` stores accepted image evidence and deferred candidates; `data/profile-visual-progress.json` records treatments, image coverage, eligibility and unchanged research status. `directory-designs.mjs` reuses cleared page images in matching cards. Use `verify-profile-visuals.mjs` and `verify-directory-cards.mjs` with the existing citation/link/map preservation checks. Baseline/manifest changes must be committed with the exact reviewed research batch. Do not rerun old integration scripts over newer data.
+
+After this catch-up publication, continue Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan with this paired workflow. Preserve the Yaqui Texas review and Northern Paiute draft for their next source batches. Use ordinary available allowance, preserve the weekly85% policy and a finishing reserve; do not start more discovery when the short window is near exhaustion.

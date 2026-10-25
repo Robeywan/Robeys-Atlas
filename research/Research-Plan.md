@@ -286,3 +286,9 @@ After the Idaho, Texas, and Minnesota tribal/community research priority is adeq
 ## Current owner research order — October 24, 2026
 
 The owner explicitly set this sequence: (1) Texas Indigenous peoples and communities; (2) Idaho; (3) Minnesota; (4) the Blackfeet Tribe in Montana; (5) all Michigan Indigenous peoples and communities, including verified current governments and documented historical connections. This supersedes earlier Texas–Minnesota–Idaho ordering. Preserve all completed research and saved drafts; assess adequate initial coverage and document remaining gaps rather than interpreting a source count as completion. Blackfeet remains distinct from the broader Blackfoot Confederacy. Michigan includes the newly supplied Tittabawassee study's queued leads, with Saginaw Chippewa/Ojibwe connections verified before identity assignment. Do not restrict Michigan research to that document or assume existing map listings are exhaustive. Continue the established quality, source-inspection and usage-conservation rules.
+
+
+## Latest owner workflow — October24,2026
+
+Visual catch-up for33 developed/adequate profiles takes priority before new tribe research. Thereafter pair every substantive research update with its directory-card and opened-page visuals, Apache blueprint, cleared authentic imagery where available, explicit image gaps and separate research/visual status. See outputs/Research-and-Visuals-Workflow.md. The build now automatically enrols changed inspected profiles into coordinated page treatments; human image/context/rights and rendered review remain necessary. Preserve Texas→Idaho→Minnesota→Blackfeet→Michigan as the source sequence after this catch-up.
+
