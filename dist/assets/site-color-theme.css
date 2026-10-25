@@ -71,3 +71,28 @@ input[type=checkbox]{accent-color:#24675f}.toast{background:#24565b;border:1px s
 .directory-totals dt{order:2;font-size:10px;line-height:1.5;letter-spacing:1px;text-transform:uppercase;color:#fff1d5}
 .directory-totals dd{order:1;margin:0;font-family:var(--serif);font-size:32px;line-height:1.1;color:#ffe2a2;font-variant-numeric:tabular-nums}
 @media(max-width:700px){.directory-scenic .directory-heading{align-items:flex-start;gap:20px}.directory-totals{gap:24px;width:100%;padding-top:16px;border-top:1px solid #e8d09870}.directory-totals>div{padding:0;border:0}.directory-totals dd{font-size:29px}}
+
+/* Decorative directory navigation: abstract interface accents, not attributed cultural motifs. */
+.atlas-home-page #directory .directory-heading{padding:26px 30px;gap:24px 32px}
+.atlas-home-page #directory .directory-heading-copy h2{font-family:var(--serif);font-size:clamp(42px,4.5vw,56px);font-weight:600;line-height:1.05;letter-spacing:.2px;text-shadow:0 2px 0 #123e3b}
+.atlas-home-page #directory .directory-heading-copy>span{font-size:18px;line-height:1.5;font-weight:600;letter-spacing:.45px;margin-top:10px;color:#fff1d5}
+.atlas-home-page #directory .directory-totals dd{font-size:38px}
+.atlas-home-page #directory .directory-totals dt{font-size:12px;letter-spacing:.8px}
+.atlas-home-page #directory .alphabet{display:grid;grid-template-columns:repeat(14,minmax(0,1fr));gap:8px;padding:15px 0 22px;border:0}
+.atlas-home-page #directory .alphabet button{--letter-ink:#285b50;position:relative;width:100%;min-width:0;min-height:54px;height:auto;padding:9px 5px 11px;border:1px solid var(--letter-ink);border-top:4px solid var(--letter-ink);border-radius:8px 2px 8px 2px;background:linear-gradient(135deg,#fff6dc,#edd4a4);box-shadow:0 3px 0 #573d2629,inset 0 0 0 3px #fff9e780;color:var(--letter-ink);font-family:var(--serif);font-size:26px;font-weight:700;line-height:1;letter-spacing:.3px;cursor:pointer}
+.atlas-home-page #directory .alphabet button:first-child{width:100%;font-size:22px}
+.atlas-home-page #directory .alphabet button:nth-child(5n+2){--letter-ink:#85452b}
+.atlas-home-page #directory .alphabet button:nth-child(5n+3){--letter-ink:#6d5121}
+.atlas-home-page #directory .alphabet button:nth-child(5n+4){--letter-ink:#365971}
+.atlas-home-page #directory .alphabet button:nth-child(5n+5){--letter-ink:#6b4360}
+.atlas-home-page #directory .alphabet button::after{content:'';position:absolute;right:5px;bottom:5px;width:4px;height:4px;background:currentColor;transform:rotate(45deg);opacity:.6;pointer-events:none}
+.atlas-home-page #directory .alphabet button:hover{background:#f8dda5;color:var(--letter-ink);box-shadow:0 3px 0 #573d2633,inset 0 0 0 2px var(--letter-ink)}
+.atlas-home-page #directory .alphabet button.active,.atlas-home-page #directory .alphabet button.active:hover{background:var(--letter-ink);color:#fff6dd;border-color:#edca80;box-shadow:0 3px 0 #573d2640,inset 0 0 0 1px #f6deb6}
+.atlas-home-page #directory .alphabet button:focus-visible{outline:3px solid #143e3b;outline-offset:3px;z-index:1}
+.atlas-home-page #directory #search{font-size:18px}
+.atlas-home-page #directory .filter-label{font-size:13px;line-height:1.5}
+.atlas-home-page #directory .filters select,.atlas-home-page #directory .result-toolbar,.atlas-home-page #directory .result-toolbar select{font-size:16px}
+.atlas-home-page #directory .filter-help{font-size:14px;line-height:1.7}
+@media(max-width:1000px){.atlas-home-page #directory .alphabet{grid-template-columns:repeat(10,minmax(0,1fr))}}
+@media(max-width:700px){.atlas-home-page #directory .directory-heading{padding:22px;gap:22px}.atlas-home-page #directory .directory-heading-copy h2{font-size:42px}.atlas-home-page #directory .directory-heading-copy>span{font-size:17px}.atlas-home-page #directory .directory-totals{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.atlas-home-page #directory .directory-totals dd{font-size:34px}.atlas-home-page #directory .directory-totals dt{font-size:11px}.atlas-home-page #directory .alphabet{grid-template-columns:repeat(5,minmax(0,1fr));gap:7px}.atlas-home-page #directory .alphabet button{width:100%;min-height:50px;font-size:25px}.atlas-home-page #directory .alphabet button:first-child{width:100%;font-size:21px}}
+@media print{.atlas-home-page #directory .alphabet button{box-shadow:none}}
