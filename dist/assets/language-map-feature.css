@@ -1,0 +1,14 @@
+/* Authentic architectural photo used only for the homepage map invitation. */
+.language-map-feature.temple-language-feature{position:relative;isolation:isolate;display:flex;flex-direction:column;align-items:stretch;min-height:610px;border:1px solid #d7b572;background:#132b27 url('language-map-osario-chichen-itza.webp') center 48%/cover no-repeat;box-shadow:0 14px 35px #192b3533;scroll-margin-top:24px}
+.temple-language-feature::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,#092322f5 0%,#092322e8 34%,#092322ad 54%,#09232226 85%)}
+.temple-language-feature .language-feature-copy{align-self:flex-start;width:min(57%,610px);padding:clamp(28px,4vw,55px);padding-bottom:20px}
+.temple-language-feature h2{font-size:clamp(2.3rem,3.6vw,3.8rem);line-height:1.08;color:#fff7e7;margin:0 0 1.3rem;text-wrap:balance}
+.temple-language-feature .language-feature-copy>p{color:#fff2d9;max-width:46ch}
+.temple-language-feature .language-feature-button{color:#18332d!important;background:#f8dda3;border-color:#f8dda3;max-width:400px}
+.temple-language-feature .language-feature-button:hover{background:#fff2d4;border-color:#fff2d4}
+.temple-language-feature .language-feature-note{line-height:1.65;font-size:.82rem}
+.temple-language-feature .temple-photo-credit{align-self:flex-end;max-width:100%;margin:auto 20px 18px;padding:9px 13px;background:#082421eb;border:1px solid #f1d49b66;border-radius:3px;color:#fff1d9;font-size:.72rem;line-height:1.65;text-align:right}
+.temple-language-feature .temple-photo-credit a{color:#ffe1a4;text-decoration:underline;text-underline-offset:3px}
+.temple-language-feature .temple-photo-credit a:focus-visible{outline:3px solid #fff;outline-offset:3px}
+@media(max-width:700px){.language-map-feature.temple-language-feature{min-height:690px;background-position:58% center}.temple-language-feature::before{background:linear-gradient(180deg,#092322ef 0%,#092322d9 55%,#09232255 85%)}.temple-language-feature .language-feature-copy{width:100%;padding:28px 24px 20px}.temple-language-feature h2{font-size:2.35rem;max-width:15ch}.temple-language-feature .temple-photo-credit{margin:50px 14px 14px;font-size:.7rem}}
+@media print{.language-map-feature.temple-language-feature{background:white;min-height:0;color:#111;border:1px solid #777}.temple-language-feature::before{display:none}.temple-language-feature .language-feature-copy{width:100%}.temple-language-feature h2,.temple-language-feature .language-feature-copy>p,.temple-language-feature .temple-photo-credit,.temple-language-feature .temple-photo-credit a{color:#111}.temple-language-feature .temple-photo-credit{background:white}}

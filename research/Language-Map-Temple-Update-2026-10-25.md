@@ -1,0 +1,11 @@
+# Smithsonian language-map invitation
+
+The homepage invitation now uses one full-panel photograph of El Osario at Chichén Itzá. The heading is “Explore the Smithsonian language map,” with the original language-map link, PDF explanation and coverage note retained. “A continent of languages” and the wampum figure/caption have been removed from this homepage section. The wampum image file, source record and About credits remain saved for later use.
+
+Photograph: Álvaro de la Paz Franco, January 19, 2025. The image-specific [Commons record](https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_-_Osario_02.jpg) identifies the subject and photographer and dedicates the photograph under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The actual complete original image was downloaded and visually inspected. Its 5184 × 3456 frame was proportionally reduced to 1920 × 1280 and compressed to WebP; CSS applies viewport-dependent cropping and a dark readability overlay. No generated or retouched photographic content. Visible source/license/photographer credits appear at the bottom of the panel and in About > Photography & credits. Public data/language-map-feature-photo.json records inspection, dimensions, checksums and display changes.
+
+The photograph decorates this invitation; it does not establish the language map’s coverage. No nation-level substantive source counts, historical map records, research text, community associations, study collections or profile imagery changed. Branding and the shared illustrated background remain.
+
+Validation: rebuilt after source and asset preparation; internal link/citation checks and existing directory/profile/map checks passed. Desktop rendered panel reviewed for the photograph, readable text, functional destination link and visible photo credits. No narrow device matrix claimed.
+
+Funding: owner expressly permitted available existing credits for this small pending update. Starting balance 53.423492; shared account moved to 47.101572 when ordinary included usage became unavailable. This is a shared-account measurement, not isolated Atlas billing. No purchase or manual reset. Finish this prepared publication, then restore ordinary-usage-only work after adequate availability; do not treat this exception as a recurring credit allowance.
