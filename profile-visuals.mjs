@@ -71,7 +71,11 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
     for (const slug of image.profileSlugs) {
       if (!currentSlugs.has(slug)) throw Error(`Unknown image association ${slug}: ${image.id}.`);
     }
-    return {...image, asset};
+    const contextSources=(image.contextSources||[]).map(source=>{
+      if(!isHTTP(source.url)||!source.title)throw Error('Invalid profile image context source: '+image.id);
+      return source;
+    });
+    return {...image, asset, contextSources};
   });
   const imageIds = images.map(image => image.id);
   if (new Set(imageIds).size !== imageIds.length) throw Error('Duplicate profile visual image ids.');
@@ -146,7 +150,7 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
     const record = bySlug.get(p.slug);
     if (!record || record.preserveExistingApache) return '';
     const content = record.images.length
-      ? `<p>These photographs have individual, documented connections to this entry. Their captions and source records define the people, place, object, and period shown; no one photograph represents every community within a broader label.</p>${record.images.map(image => `<div class="profile-visual-credit-record"><p><strong>${e(image.title)}</strong><br>${e(image.credit)}</p><p><a href="${e(image.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source &amp; image record ↗</a> · <a href="${e(image.rightsUrl)}" target="_blank" rel="noopener noreferrer">${e(image.rightsLabel)}</a></p><p>${e(image.scope)}</p><p class="profile-visual-review">Image, association, and reuse record reviewed ${e(image.reviewedAt)}.</p></div>`).join('')}<p>Full photographs are displayed proportionally above. A translucent background copy may be cropped by the viewport; it does not replace the complete image or its record.</p>`
+      ? `<p>These photographs have individual, documented connections to this entry. Their captions and source records define the people, place, object, and period shown; no one photograph represents every community within a broader label.</p>${record.images.map(image => `<div class="profile-visual-credit-record"><p><strong>${e(image.title)}</strong><br>${e(image.credit)}</p><p><a href="${e(image.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source &amp; image record ↗</a> · <a href="${e(image.rightsUrl)}" target="_blank" rel="noopener noreferrer">${e(image.rightsLabel)}</a></p><p>${e(image.scope)}</p>${image.contextSources.length?`<p class="profile-visual-context"><strong>Context and identification sources</strong></p><ul>${image.contextSources.map(source=>`<li><a href="${e(source.url)}" target="_blank" rel="noopener noreferrer">${e(source.title)} ↗</a></li>`).join('')}</ul>`:''}<p class="profile-visual-review">Image, association, and reuse record reviewed ${e(image.reviewedAt)}.</p></div>`).join('')}<p>Full photographs are displayed proportionally above. A translucent background copy may be cropped by the viewport; it does not replace the complete image or its record.</p>`
       : '<p>This page uses a neutral abstract backdrop coordinated with its directory card. It is interface decoration, not an attributed traditional design or historical reconstruction. Nation-specific photographs are not yet included; they will be added when their identity, relevance, and reuse terms are verified.</p>';
     return `<details class="profile-image-credits" id="profile-image-credits"><summary>${record.images.length ? 'Backdrop photographs &amp; credits' : 'Backdrop design &amp; future photographs'}</summary>${content}<p>The visual treatment does not change the research status, evidence, or remaining gaps recorded in this profile.</p></details>`;
   }

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
     "selectedProfiles": 33,
     "existingApache": 1,
     "newProfileTreatments": 32,
-    "newTreatmentsWithPhotographs": 10,
-    "decorativeTreatmentsAwaitingPhotographs": 22,
+    "newTreatmentsWithPhotographs": 13,
+    "decorativeTreatmentsAwaitingPhotographs": 19,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -38,7 +38,8 @@
           "scope": "Contemporary public language signage in Odanak, Quebec; does not represent all Abenaki communities. Actual Commons description, creator, source and file license read; 960px archive derivative downloaded and visually inspected. Original photograph not modified; CSS cropping, if applied, must be disclosed. This is signage, not a basket or cultural artwork. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "2017-08-26",
-          "alt": "Full frame shows red trilingual CHANNA/ARRET/STOP sign against trees and houses. No people or restricted activity visible."
+          "alt": "Full frame shows red trilingual CHANNA/ARRET/STOP sign against trees and houses. No people or restricted activity visible.",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -104,7 +105,8 @@
           "scope": "Tribal members cooking fry bread at a public Absentee Shawnee Culture Camp event, Camp Horseshoe, Monongahela National Forest, West Virginia. Actual Commons body, original agency attribution, event caption and federal-work license read. 960px archive derivative downloaded and visually inspected; no contemporary facts inferred from the photograph. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "2018-07-19",
-          "alt": "Full frame shows fry bread cooking in a cast-iron pan over a fire; no faces or private activities visible."
+          "alt": "Full frame shows fry bread cooking in a cast-iron pan over a fire; no faces or private activities visible.",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -170,7 +172,8 @@
           "scope": "Museum record explicitly identifies culture as Acoma Pueblo. Ceramic water jar; does not identify a named artist or assign universal meanings to its painted motifs. Actual museum item page and API fields read, including Public Domain, culture, date, credit and image URL. 600x472 official web image downloaded unchanged and visually inspected. Object date is approximate. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "about 1880",
-          "alt": "Full frame shows a painted ceramic jar on a neutral gray ground, including red, black and cream surface patterns."
+          "alt": "Full frame shows a painted ceramic jar on a neutral gray ground, including red, black and cream surface patterns.",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -236,7 +239,8 @@
           "scope": "Exterior of Ahtna Cultural Center at Copper Center, Alaska; source explicitly names the Ahtna-operated cultural center. A place image, not a claim that architecture represents all Ahtna culture. Actual NPS page, photo caption and NPS ownership policy read. Official 1300x975 web image downloaded and visually inspected. Individual photographer and exact photo date are not supplied; do not guess. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "Photograph date unrecorded; source page updated September 25, 2026",
-          "alt": "Full frame shows the public cultural-center exterior and entrance with trees and autumn foliage; no visitors or restricted interior material visible."
+          "alt": "Full frame shows the public cultural-center exterior and entrance with trees and autumn foliage; no visitors or restricted interior material visible.",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -325,7 +329,8 @@
           "scope": "Museum catalogue culture: Arctic, Aleut, late 19th-early 20th century. Specific island/community and maker not identified; do not assign one. Actual museum item page, Open Access policy and official API fields read. Official 900x863 web photograph downloaded unchanged and visually inspected. Lid and body records are parts of the same basket, not separate works for counting purposes. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "late 1800s–early 1900s",
-          "alt": "Full frame shows a cylindrical covered basket with red, tan, green and blue wool decoration against neutral gray."
+          "alt": "Full frame shows a cylindrical covered basket with red, tan, green and blue wool decoration against neutral gray.",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
@@ -373,14 +378,47 @@
       "hue": 310,
       "angle": -2,
       "composition": "ribbon",
-      "images": [],
+      "images": [
+        {
+          "id": "alutiiq-old-harbor-salmon-1889",
+          "profileSlugs": [
+            "alutiiq"
+          ],
+          "asset": "assets/profile-visuals/alutiiq-old-harbor-salmon-1889.jpg",
+          "cardAsset": "assets/profile-visuals/alutiiq-old-harbor-salmon-1889-card.jpg",
+          "title": "Salmon drying at Old Harbor, 1889",
+          "credit": "Photograph by N. B. Miller, 1889. National Archives and Records Administration, NAID 513089, local identifier 22-FA-264.",
+          "creator": "N. B. Miller",
+          "sourceUrl": "https://www.archives.gov/research/native-americans/pictures",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Salmon_drying._Alutiiq_village%2C_Old_Harbor%2C_Alaska%2C_1889_-_NARA_-_513089.jpg",
+          "rightsLabel": "Public domain; NARA's Pictures of Native Americans page expressly states that its selected photographs are in the public domain.",
+          "rightsUrl": "https://www.archives.gov/research/native-americans/pictures",
+          "scope": "Historical food-preservation scene at Old Harbor (Nuniaq), an Alutiiq/Sugpiaq community on Kodiak Island. Placement is based on documented community/geography and locally explained naming history. It does not identify the ethnicity, name, status or descent of any person in the photograph, claim continuity of a pictured structure, or depict all Alutiiq communities. Old Harbor is an Alutiiq/Sugpiaq community. The archive preserves the historical label Aleut; Old Harbor Native Corporation explains that Alutiiq, Aleut and Sugpiaq are all names used locally. This image documents a historical place and activity, rather than identifying the individual pictured. Retain the archive's original Aleut wording as historical catalogue terminology. Do not describe the 1889 caption as necessarily an error, and do not reassign this Kodiak community image to the Unangan/Aleut profile solely from that term. The 3000x2449 Commons-hosted NARA reproduction was downloaded unchanged and visually inspected in the first pass. In this follow-up, NARA's own 552x440 reference image was downloaded unchanged and visually inspected; it shows the same scene and frame. The NARA item catalogue returned no readable body, so date/photographer/rights confirmation comes from the actual NARA curated page, item 62 and its introduction. Museum and community bodies were read for scope and naming evidence. No claim is made about the ethnicity of the distant person or details that cannot be read. No private or restricted material was accessed. Any subsequent CSS crop/overlay should be disclosed as presentation treatment. Web copies proportionally resized/recompressed without retouching; CSS crops and overlays are presentation only. Complete image displayed proportionally in the page banner.",
+          "reviewedAt": "2026-10-25",
+          "date": "1889",
+          "alt": "Salmon drying on outdoor racks beside houses at Old Harbor, photographed in 1889.",
+          "contextSources": [
+            {
+              "title": "Alutiiq Museum and Archaeological Repository — Old Harbor — Nuniaq, Word of the Week AM888.295",
+              "url": "https://alutiiqmuseum.org/collection/Detail/word/371",
+              "inspectionScope": "Actual article body and photo caption, lines 45–62 of extracted page."
+            },
+            {
+              "title": "Old Harbor Native Corporation — Culture",
+              "url": "https://www.oldharbornativecorp.com/community/culture/",
+              "inspectionScope": "Actual Culture body, especially naming paragraph at line 113."
+            }
+          ],
+          "cardCredit": "N. B. Miller / National Archives, 1889"
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:310;--profile-angle:-2deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:310;--profile-angle:-2deg;--profile-photo:url(\"../../assets/profile-visuals/alutiiq-old-harbor-salmon-1889.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -419,14 +457,42 @@
       "hue": 98,
       "angle": 7,
       "composition": "ribbon",
-      "images": [],
+      "images": [
+        {
+          "id": "anishinaabe-bandolier-bag-slam",
+          "profileSlugs": [
+            "anishinaabe"
+          ],
+          "asset": "assets/profile-visuals/anishinaabe-bandolier-bag-slam.jpg",
+          "cardAsset": "assets/profile-visuals/anishinaabe-bandolier-bag-slam-card.jpg",
+          "title": "Bandolier Bag, Anishinaabe (Ojibwe) artist",
+          "credit": "Saint Louis Art Museum, Gift of Elizabeth B. and Robert Wells Streett, 20:2022; Anishinaabe (Ojibwe) artist, name unrecorded",
+          "creator": "Unrecorded Anishinaabe (Ojibwe) artist; individual photographer not identified in inspected record",
+          "sourceUrl": "https://www.slam.org/collection/objects/66012/",
+          "sourceImageUrl": "https://www.slam.org/wp-content/uploads/piction/image-cache/110952.jpg",
+          "rightsLabel": "Public Domain, as designated by the museum; its Terms of Use explicitly permit unrestricted use of Public-domain Content. No Creative Commons license asserted.",
+          "rightsUrl": "https://www.slam.org/terms-of-use/",
+          "scope": "One Anishinaabe (Ojibwe) artist's nineteenth-century bandolier bag, c. 1860. Suitable for the broad Anishinaabe profile only with the precise Ojibwe attribution retained. Do not imply one object represents all Anishinaabe nations or governments, copy its beadwork as generated filler, or infer symbolism beyond the inspected museum record.   RISD 43.119 remains an image-retrieval gap. Used one bounded museum alternative: SLAM object 20:2022. Actual museum page read, Public Domain link and Terms of Use read, image URL extracted from the official page HTML, original 1057 x 1600 JPEG downloaded and visually inspected in full. Object attribution is explicitly Anishinaabe (Ojibwe), not merely geographic. No maker biography, separate community review, or detailed design meanings established. Web copies proportionally resized/recompressed without retouching; CSS crops and overlays are presentation only. Complete image displayed proportionally in the page banner.",
+          "reviewedAt": "2026-10-25",
+          "date": "c. 1860 (artwork); photography date not established",
+          "alt": "Complete beaded bandolier bag with a long decorated strap, pouch and beaded tabs.",
+          "contextSources": [
+            {
+              "title": "Saint Louis Art Museum — Public Domain and Open Access",
+              "url": "https://www.slam.org/public-domain-and-open-access/",
+              "inspectionScope": "Museum rights policy inspected alongside the object record and Terms of Use."
+            }
+          ],
+          "cardCredit": "Saint Louis Art Museum · Ojibwe artist unrecorded"
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:98;--profile-angle:7deg;--profile-photo:none",
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:98;--profile-angle:7deg;--profile-photo:url(\"../../assets/profile-visuals/anishinaabe-bandolier-bag-slam.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -506,7 +572,8 @@
           "scope": "A modern reconstruction at a public living-history museum, not a surviving seventeenth-century structure. Visible caption must say reconstructed/replica. Institutional description reproduced on Commons, licensing and full 600px original photo visually inspected. Florida Memory original record https://www.floridamemory.com/items/show/16978 returned403 in this review; no bypass attempted. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "June 2007 (photograph)",
-          "alt": "Reconstructed Apalachee council house at Mission San Luis"
+          "alt": "Reconstructed Apalachee council house at Mission San Luis",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
@@ -549,7 +616,8 @@
           "scope": "A specific Arapaho artist's drawing in pencil and colored pencil,ca.1882. Use the whole artwork or disclosed CSS cropping; do not imply contemporary photograph or a general tribal emblem. Met actual object page and Open Access API read;API isPublicDomain:true and official primaryImageSmall URL verified. Entire provided image visually inspected. No meaning of depicted clothing or marks inferred. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "ca.1882 (artwork)",
-          "alt": "Two Riders Leading Horses (Henderson Ledger Artist B)"
+          "alt": "Two Riders Leading Horses (Henderson Ledger Artist B)",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
@@ -753,7 +821,8 @@
           "scope": "Contemporary landscape of Babine Lake. Cabins are not identified as Indigenous buildings or a particular First Nation community. Use only as geographic context, with existing profile evidence confirming regional association. Commons record, Flickr license-review record and full original photograph visually inspected. Photographer supplied location only; exact shore location and cabin ownership unverified. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner. Regional connection is supported by the existing Babine profile, section A nation of connected communities, sources p27-s1/p27-s2. Cabins are not attributed to a First Nation.",
           "reviewedAt": "2026-10-24",
           "date": "9 October 2005",
-          "alt": "Babine Lake, British Columbia"
+          "alt": "Babine Lake, British Columbia",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -796,7 +865,8 @@
           "scope": "Museum object labelled Bannock-Shoshone, not assigned exclusively to Bannock or a specific modern government. Use this exact shared attribution in visible caption. Commons description, licensing and full original photograph visually inspected. Museum identifier present; original object catalogue not independently read. No meaning of patterns inferred. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "Photographed 16 September 2014; object date not established by inspected record",
-          "alt": "Salmon-skin bag, catalogued as Bannock-Shoshone"
+          "alt": "Salmon-skin bag, catalogued as Bannock-Shoshone",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -839,7 +909,8 @@
           "scope": "Museum display identified as Beothuk objects; not a depiction of contemporary people or evidence of cultural disappearance. Commons description, licensing and full original photograph visually inspected. Individual collection histories and object identifications not established; display label obscured. Image shows comb, paddle and containers; no human remains visible. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
           "reviewedAt": "2026-10-24",
           "date": "Photographed 29 July 2009",
-          "alt": "Beothuk objects displayed at the British Museum"
+          "alt": "Beothuk objects displayed at the British Museum",
+          "contextSources": []
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -956,14 +1027,42 @@
       "hue": 212,
       "angle": 56,
       "composition": "fold",
-      "images": [],
+      "images": [
+        {
+          "id": "ysleta-mission",
+          "profileSlugs": [
+            "ysleta-del-sur-pueblo"
+          ],
+          "asset": "assets/profile-visuals/ysleta-mission.jpg",
+          "cardAsset": "assets/profile-visuals/ysleta-mission-card.jpg",
+          "title": "Ysleta Mission exterior, El Paso, Texas",
+          "credit": "James Reyes / Wikimedia Commons; JPEG derivative by Materialscientist",
+          "creator": "James Reyes, photographer; JPEG derivative by Materialscientist",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:YsletaMission.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/YsletaMission.JPG",
+          "rightsLabel": "CC BY 3.0 Unported",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "scope": "Public exterior of Ysleta Mission in El Paso, Texas, associated with Ysleta del Sur Pueblo and the Tigua community. The existing profile's ydsp-s6 National Park Service account specifically identifies this mission as a continuing spiritual hub of the Tigua. This is not the Pueblo of Isleta mission in New Mexico, a reservation-boundary illustration, or a portrayal of every Tigua religious practice. Do not label the present photographed building as the original 1682 structure.   Commons exact JPEG derivative record, creator/license and original-upload provenance read; original JPEG downloaded and visually inspected in full. Existing Ysleta del Sur profile evidence and https://www.nps.gov/places/ysleta-mission.htm were checked for community relationship. No church interior, ceremonies, private sites or people shown. No historical source count or profile claims added. Web copies proportionally resized/recompressed without retouching; CSS crops and overlays are presentation only. Complete image displayed proportionally in the page banner.",
+          "reviewedAt": "2026-10-25",
+          "date": "Photograph originally published 2009; JPEG derivative 11 April 2010, as recorded in Commons provenance",
+          "alt": "White facade and bell tower of Ysleta Mission in El Paso, framed by trees.",
+          "contextSources": [
+            {
+              "title": "National Park Service — Ysleta Mission and Tigua community context",
+              "url": "https://www.nps.gov/places/ysleta-mission.htm",
+              "inspectionScope": "Actual historical/community body, especially lines42–45; current exterior is not labelled the original1682structure."
+            }
+          ],
+          "cardCredit": "James Reyes · derivative by Materialscientist"
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:212;--profile-angle:56deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:212;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/ysleta-mission.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
