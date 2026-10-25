@@ -1,3 +1,13 @@
+# Renewed funding allowance — October 25, 2026
+
+Owner explicitly permits up to900 existing credits for the project, preferring ordinary five-hour included usage whenever available. Verified shared-account baseline1002.5233885; one cumulative900-credit ceiling leaves at least102.5233885. This replaces earlier no-credit-fallback holds and older allowance/reserve instructions. It does not renew per run, and later top-ups do not automatically expand it. Never buy credits or use manual resets. Account changes are shared measurements, not isolated Atlas charges.
+
+Check actual usage windows and balance before batches/delegation/publication. Retain weekly85% safeguard, except small useful batches in final48h before reset. Save incremental progress and keep finishing buffer. Do not start new credit-funded discovery within80credits of the reserve; within40 preserve/checkpoint or safely finish already prepared work. Ordinary included usage can resume independently after reset when weekly rules permit. No spending quota: use only what advances useful work.
+
+Saved work priority remains17 pending authentic-image treatments for already developed profiles, then Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan with paired research/visual review. Current PUBLIC publication remains version102; no retry. Read work/atlas-900-credit-authorization.json and work/atlas-credit-budget.json. Synchronize this revised funding policy into Site research notes at the next meaningful authorized publication.
+
+---
+
 # Immediate directory-card priority — October 24, 2026
 
 The owner explicitly moved styling every initial directory card ahead of further research. They confirmed: style every card now and add authentic images as available. This is a bounded directory-card pass, not a request to decorate all opened profile pages now. All471 card treatments are prepared with stable individual palettes/compositions, retaining Apache's authentic basket and adding the credited Diné weaving photograph to Navajo. Other cards use neutral abstract interface decoration without claims of cultural authenticity. See outputs/Directory-Cards-Design-Update-2026-10-24.md, the saved blueprint and the separate card-design register. Publish this completed card pass, then resume Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan. Research data, counts, maps, saved drafts and the original Apache full-page prototype remain intact.

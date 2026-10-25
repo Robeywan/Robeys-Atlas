@@ -6,8 +6,8 @@
     "selectedProfiles": 33,
     "existingApache": 1,
     "newProfileTreatments": 32,
-    "newTreatmentsWithPhotographs": 15,
-    "decorativeTreatmentsAwaitingPhotographs": 17,
+    "newTreatmentsWithPhotographs": 17,
+    "decorativeTreatmentsAwaitingPhotographs": 15,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -152,14 +152,49 @@
       "hue": 132,
       "angle": -39,
       "composition": "arc",
-      "images": [],
+      "images": [
+        {
+          "id": "achumawi-curtis-basket-maker-carter",
+          "profileSlugs": [
+            "achumawi"
+          ],
+          "title": "Achomawi Basket-Maker",
+          "creator": "Edward S. Curtis, photographer; Suffolk Engraving Co., printer; individual basketmaker’s name unrecorded",
+          "credit": "Edward S. Curtis, 1923, printed 1924 by Suffolk Engraving Co. Amon Carter Museum of American Art, Fort Worth, Texas, Purchase with the assistance of an anonymous donor, P2009.3.13.2.29.",
+          "cardCredit": "Edward S. Curtis · Amon Carter Museum",
+          "sourceUrl": "https://www.cartermuseum.org/collection/achomawi-basket-maker-p2009313229",
+          "sourceImageUrl": "https://d2ujpqfu85jxzw.cloudfront.net/website/panth-live/styles/full_width_varied_height/s3/artwork/P2009-3-13-2-29/carter_p2009-3-13-2-29_o2_13.jpg?itok=_fnsAAgb",
+          "fullSheetImageUrl": "https://d2ujpqfu85jxzw.cloudfront.net/website/panth-live/styles/full_width_varied_height/s3/artwork/P2009-3-13-2-29/carter_p2009-3-13-2-29_o2_14.jpg?itok=a9oGjhMz",
+          "rightsLabel": "Public domain — item-specific museum Copyright field",
+          "rightsUrl": "https://www.cartermuseum.org/collection/achomawi-basket-maker-p2009313229",
+          "date": "Photographed 1923; printed 1924",
+          "alt": "Sepia photogravure of an unnamed Achomawi basketmaker seated with a basket in progress and a finished basket in front of a shelter.",
+          "scope": "Actual complete museum catalogue body read, including title, Curtis authorship, photograph and print dates, Suffolk engraving credit, accession, inscriptions, public-domain designation and disclaimer about historical titles. Both exact archive-delivered linked JPEGs downloaded unchanged and visually inspected. The selected display image retains the complete photographic composition and printed title/credits; the second sheet-record image includes a calibration target at right. Treat this as Curtis’s historical portrayal, not a current or universally representative scene, and do not identify the unnamed sitter or assign meanings to motifs. Achomawi is the museum’s explicit people identification, not inferred from Pit River geography. No image retouching or generative content. Delivery copies are proportionally resized/recompressed from the complete archive-delivered frame. Card and page-background CSS may crop or overlay; the page banner preserves the full composition. This visual review does not increase substantive source counts or establish research completion.",
+          "reviewedAt": "2026-10-25",
+          "asset": "assets/profile-visuals/achumawi-curtis-basket-maker-carter.jpg",
+          "cardAsset": "assets/profile-visuals/achumawi-curtis-basket-maker-carter-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1400,
+              "height": 1133,
+              "sha256": "d8e5aaa05ea57fc197205b6d22980ec89136ea9d28fbc8fa1b5a1309115e6dd3"
+            },
+            "cardAsset": {
+              "width": 900,
+              "height": 728,
+              "sha256": "8cc04edc9b4629f4199797eac902e9db4d3b811d0ea93b63c9307128d91143cc"
+            }
+          },
+          "contextSources": []
+        }
+      ],
       "eligibilityBasis": "Published developed profile",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:132;--profile-angle:-39deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:132;--profile-angle:-39deg;--profile-photo:url(\"../../assets/profile-visuals/achumawi-curtis-basket-maker-carter.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -765,14 +800,54 @@
       "hue": 328,
       "angle": 31,
       "composition": "sweep",
-      "images": [],
+      "images": [
+        {
+          "id": "atsugewi-selena-lamarr-basketry-nps",
+          "profileSlugs": [
+            "atsugewi"
+          ],
+          "title": "Selena LaMarr practicing Atsugewi basketry",
+          "creator": "Selena LaMarr (Atsugewi), basketmaker and public cultural demonstrator; individual photographer unrecorded",
+          "credit": "National Park Service, Lassen Volcanic National Park; Hat Creek Atsugewi Historic Photograph Collection. The gallery credit field names Selena LaMarr; this is not treated as evidence that she photographed herself.",
+          "cardCredit": "Selena LaMarr · NPS historic collection",
+          "sourceUrl": "https://www.nps.gov/media/photo/gallery-item.htm?gid=DF54713D-C527-4A60-900C-904DC340455E&id=54833991-d212-4bed-895e-dcd34d3e138c",
+          "sourceImageUrl": "https://www.nps.gov/npgallery/GetAsset/54833991-d212-4bed-895e-dcd34d3e138c",
+          "rightsLabel": "Public domain — item-specific NPS gallery API states Constraint: Public domain and GrantingRights: Full",
+          "rightsUrl": "https://www.nps.gov/npgallery/api/search/execute/albumid/DF54713D-C527-4A60-900C-904DC340455E?pagesize=500&primarytype=image",
+          "date": "Historic photograph, exact photographic date unrecorded; NPS descriptive biography dates her public demonstrations from 1952 through 1972. API metadata creation date 2019 is not the photograph date.",
+          "alt": "Black-and-white close-up of Selena LaMarr’s hands weaving a coiled basket, with completed baskets and materials beside her.",
+          "scope": "Actual NPS people-page body read and complete album API read. Exact asset explicitly identifies Selena LaMarr and Hat Creek Atsugewi basketry and carries item-specific public-domain designation. Downloaded the official original JPEG unchanged and visually inspected complete available frame. It is already a close-up excluding her face; this is the archive-delivered composition, not a crop made here. No ceremony or restricted designation identified. Neither the design nor the one demonstrator is claimed to represent all Atsugewi cultural life. API PhotoCredit repeats the subject name; individual photographer remains unrecorded. Delivery copies are proportionally resized/recompressed from the complete archive-delivered frame. Card and page-background CSS may crop or overlay; the page banner preserves the full composition. This visual review does not increase substantive source counts or establish research completion.",
+          "contextSources": [
+            {
+              "url": "https://www.nps.gov/people/selena-lamarr.htm",
+              "title": "NPS — Selena LaMarr",
+              "inspectionScope": "Actual full body read; identifies Atsugewi membership and basket-weaving demonstrations for park visitors."
+            }
+          ],
+          "reviewedAt": "2026-10-25",
+          "asset": "assets/profile-visuals/atsugewi-selena-lamarr-basketry-nps.jpg",
+          "cardAsset": "assets/profile-visuals/atsugewi-selena-lamarr-basketry-nps-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1600,
+              "height": 1572,
+              "sha256": "4f208604b040cf1fc05aa26f90a2abd1f05b06f2f60f39e8fa85ac0f163ea2be"
+            },
+            "cardAsset": {
+              "width": 900,
+              "height": 884,
+              "sha256": "6467f1b24e48950c512496922d87b10d5920f22b22f26f7faff35e08223e66f1"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Legacy developed profile; inspected-source assessment pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:328;--profile-angle:31deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:328;--profile-angle:31deg;--profile-photo:url(\"../../assets/profile-visuals/atsugewi-selena-lamarr-basketry-nps.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,

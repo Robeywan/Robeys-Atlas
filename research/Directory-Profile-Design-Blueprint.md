@@ -8,7 +8,7 @@ Approved by the owner October 24, 2026. The published Apache page is the visual 
 
 [Approved Apache reference](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/apache/?v=87)
 
-[Approved visual reference](https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/nations/apache/?v=87)
+![Approved Apache collage](C:/Users/georg/Documents/Codex/2026-10-19/native-american-tribes-and-indigenous-nations/outputs/Apache-Collage-Preview.png)
 
 ## The shared design
 

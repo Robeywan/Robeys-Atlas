@@ -257,15 +257,26 @@ The owner-supplied Jumano study’s eighteen URLs were already catalogued; they 
 
 
 
-## Texas source update — Lipan Apache, October 23, 2026
+## Latest source batch — Lipan Apache, October 23, 2026
 
-The Lipan Apache (185) guide adds one full-text Marfa Public Radio feature on the completed Presidio cemetery protection and public-history project. The profile now has fourteen substantive inspected works and remains **Still unfinished**. The story is used as a dated, attributed local case study; its audio and photographs were not used, sensitive burial details were omitted, and no map association was made. Review: `lipan-apache-185-presidio-cemetery-review-20261023.md`.
+Lipan Apache (original 185) now has fourteen substantive inspected works. The newest is a full-text read of Annie Rosenthal’s 2024 Marfa Public Radio report on the Presidio cemetery protection/public-history project; it contributes one attributed local case study and does not resolve broader Lipan history or related-community coverage. Initial adequacy remains **Still unfinished**. See `Lipan-Apache-Presidio-Cemetery-Research-Review-2026-10-23.md` and version 78 receipt. The Jumano document’s 18 URLs were already catalogued; no extra content checks were inferred.
 
-The Jumano DOCX’s eighteen public URLs remain catalogued leads. A fresh check found no uncatalogued URLs; the remaining original manuscripts/full texts have not been inspected. Do not infer content checks from the DOCX or its metadata records. Continue source-first coverage in Texas, then Minnesota, then Idaho; next check the Minnesota Ojibwe government coverage for source-level gaps before deciding whether to expand it, and preserve the Idaho five-government review. Add a map only if ordinary source research directly supports a particular community and period.
+Next: continue the regional source priority Texas → Minnesota → Idaho. Check distinct Ojibwe government coverage for a concrete evidence gap before selecting a Minnesota profile. Keep historical-map work paused except where an ordinary source directly supports a specific people/community and period.
 
-## Latest Minnesota source update — Ojibwe / Grand Portage, October 23, 2026
 
-Added one substantive Band-authored news release on Grand Portage’s 2026 land return to the Minnesota-focused Ojibwe guide (original 265). The full article body was read; the Band’s historical framing is attributed and the underlying title/treaty/allotment records were not independently examined. No map was added. Eighteen substantive works are now recorded; adequacy remains **Still unfinished** because source depth varies across seven Minnesota government routes and broader Ojibwe communities remain uncovered. Review: `ojibwe-265-grand-portage-land-return-review-20261023.md`.
+---
 
-Next Minnesota target: Dakota (original 95), with attention to distinct governments and direct community sources. Continue Idaho’s five-government review afterward; preserve remaining Texas gaps. The Jumano DOCX’s 18 URLs are already catalogued as leads, not content checks.
+## October 23, 2026 — Dakota Lower Sioux community-source follow-up
 
+Inspected selected substantive sections of the Lower Sioux Indian Community’s 19-page *Ehaŋna k’a Dehan: Past and Present* booklet, hosted by Minnesota Department of Education. Added it to Dakota original95 with attributed Lower Sioux-specific synthesis on Caŋṡayapi, stewardship, treaty history, sovereignty, community continuity, Wacipi and language renewal. Dakota now has13 substantive inspected works, 21 annotated resources and remains **Still unfinished**; the booklet’s maps were not separately reviewed or catalogued. Dean Blue’s short oral-history excerpt remains outside the substantive count because the full linked interview was unavailable. See outputs/Dakota-Lower-Sioux-Community-Research-Review-2026-10-23.md and its publication receipt.
+
+Next research: continue Minnesota government/community coverage where a distinct evidence gap exists; then proceed through Idaho’s government inventory. Preserve Texas’s unfinished topics. Historical maps remain paused unless an ordinary source directly supports a specific community-period connection.
+
+
+## Owner priority update — October 23, 2026
+
+After the Idaho, Texas, and Minnesota tribal/community research priority is adequately covered, research the Blackfeet tribe next. Preserve the current regional work and unfinished evidence gaps. When beginning Blackfeet, verify the intended community scope and distinguish the Blackfeet Tribe in Montana from the wider Blackfoot Confederacy and its distinct member nations; do not merge their identities or treat an umbrella source collection as completion of the Tribe’s research. This instruction sets the next priority after the three-state work, not a requirement to postpone all other work until every possible historical connection is exhaustively researched.
+
+## Current owner research order — October 24, 2026
+
+The owner explicitly set this sequence: (1) Texas Indigenous peoples and communities; (2) Idaho; (3) Minnesota; (4) the Blackfeet Tribe in Montana; (5) all Michigan Indigenous peoples and communities, including verified current governments and documented historical connections. This supersedes earlier Texas–Minnesota–Idaho ordering. Preserve all completed research and saved drafts; assess adequate initial coverage and document remaining gaps rather than interpreting a source count as completion. Blackfeet remains distinct from the broader Blackfoot Confederacy. Michigan includes the newly supplied Tittabawassee study's queued leads, with Saginaw Chippewa/Ojibwe connections verified before identity assignment. Do not restrict Michigan research to that document or assume existing map listings are exhaustive. Continue the established quality, source-inspection and usage-conservation rules.

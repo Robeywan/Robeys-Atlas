@@ -1,3 +1,7 @@
+## October 25, 2026 — visual catch-up batch 4
+
+Achumawi and Atsugewi receive individually identified, public-domain basketry images on both directory cards and opened pages, with archive/creator/rights links and full-frame inspection notes. Alsea stays pending after a wrongly captioned candidate was rejected. Current visual scope: 33 targets, 17 non-Apache photographic treatments, the existing Apache collage and 15 remaining authentic-image gaps. No research completion or source-count advancement is implied. Preserve the regional research sequence Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan after useful visual catch-up.
+
 # Research and visuals together
 
 Owner instruction, October24,2026: catch up the existing expanded/adequate introductions visually before starting new tribe research. Thereafter, update the directory card and opened-page visual treatment with each substantive researched profile update.
@@ -20,3 +24,8 @@ The catch-up adds32 coordinated page treatments. Ten have newly inspected, credi
 `data/profile-visual-assets.json` stores accepted image evidence and deferred candidates; `data/profile-visual-progress.json` records treatments, image coverage, eligibility and unchanged research status. `directory-designs.mjs` reuses cleared page images in matching cards. Use `verify-profile-visuals.mjs` and `verify-directory-cards.mjs` with the existing citation/link/map preservation checks. Baseline/manifest changes must be committed with the exact reviewed research batch. Do not rerun old integration scripts over newer data.
 
 After this catch-up publication, continue Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan with this paired workflow. Preserve the Yaqui Texas review and Northern Paiute draft for their next source batches. Use ordinary available allowance, preserve the weekly85% policy and a finishing reserve; do not start more discovery when the short window is near exhaustion.
+
+## Next continuation checkpoint
+
+The owner asked to continue the visual catch-up after version90. All22remaining authentic-image gaps are queued in work/visual-catchup/next-queue.json. At93%short-window use (weekly39%,credits53.423492unchanged), preserve progress and resume after included availability refreshes. No new discovery or publication was started in this near-exhaustion checkpoint.
+
