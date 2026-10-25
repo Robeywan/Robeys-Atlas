@@ -22,24 +22,45 @@
       "composition": "sweep",
       "images": [
         {
-          "id": "abenaki-odanak-language-sign",
+          "id": "abenaki-caroline-masta-basketry-1904",
           "profileSlugs": [
             "abenaki"
           ],
-          "asset": "assets/profile-visuals/abenaki-odanak-language-sign.jpg",
-          "cardAsset": "assets/profile-visuals/abenaki-odanak-language-sign-card.jpg",
-          "title": "Abenaki-language stop sign at Odanak",
-          "credit": "Ken Ratcliff, via Wikimedia Commons (CC BY 2.0)",
-          "creator": "Ken Ratcliff",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abenaki_stop_sign_odanak.jpg",
-          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Abenaki_stop_sign_odanak.jpg/960px-Abenaki_stop_sign_odanak.jpg",
-          "rightsLabel": "CC BY 2.0",
-          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
-          "scope": "Contemporary public language signage in Odanak, Quebec; does not represent all Abenaki communities. Actual Commons description, creator, source and file license read; 960px archive derivative downloaded and visually inspected. Original photograph not modified; CSS cropping, if applied, must be disclosed. This is signage, not a basket or cultural artwork. Web copies proportionally resized/recompressed; display backgrounds may be cropped by CSS. Full image remains proportional in the page banner.",
-          "reviewedAt": "2026-10-24",
-          "date": "2017-08-26",
-          "alt": "Full frame shows red trilingual CHANNA/ARRET/STOP sign against trees and houses. No people or restricted activity visible.",
-          "contextSources": []
+          "asset": "assets/profile-visuals/abenaki-caroline-masta-basketry-1904.jpg",
+          "cardAsset": "assets/profile-visuals/abenaki-caroline-masta-basketry-1904-card.jpg",
+          "title": "Basketry by Caroline Masta (Abenaki), published 1904",
+          "credit": "Caroline Masta, basketmaker; Herbert B. Rowland, photographer. Smithsonian / U.S. National Museum, 1904; UC Libraries / Internet Archive scan.",
+          "cardCredit": "Caroline Masta · Photo H. B. Rowland",
+          "creator": "Caroline Masta (Abenaki), basketmaker; Herbert B. Rowland, photographer",
+          "sourceUrl": "https://archive.org/details/aboriginalbasket00masorich/page/n648/mode/1up",
+          "sourceImageUrl": "https://ia601403.us.archive.org/BookReader/BookReaderImages.php?zip=/27/items/aboriginalbasket00masorich/aboriginalbasket00masorich_jp2.zip&file=aboriginalbasket00masorich_jp2/aboriginalbasket00masorich_0649.jp2&id=aboriginalbasket00masorich",
+          "rightsLabel": "Public domain — 1904 U.S. publication",
+          "rightsUrl": "https://www.loc.gov/item/14019917/",
+          "scope": "Actual Plate 119 and printed page 374 of Otis Tufton Mason’s Aboriginal American Basketry (Government Printing Office, 1904) were visually inspected, together with the title page. The broad plate caption says Algonkin Indian Basketry; page 374 specifically identifies the objects as Caroline Masta’s work, identifies her as Abenaki from Pierreville, Canada, working in Belmar, New Jersey, and credits Herbert B. Rowland. This supports this maker-specific Abenaki association, not a universal design for all Abenaki communities. Exact photograph date is not established. The card is a detail crop of the finished round basket at lower right (source pixels 1200,2800–1950,3540); the complete scanned plate is displayed proportionally on this page. Web copies are resized/recompressed; CSS may crop or overlay background copies. No image content is generated or retouched. The scan is the UC Libraries / Internet Archive copy, not a current Smithsonian object photograph. Current Smithsonian photos with Usage Conditions Apply were not reused. Historical evaluative language surrounding the maker identification is not adopted. This image review does not change substantive research-source counts.",
+          "reviewedAt": "2026-10-25",
+          "date": "Published 1904; photograph earlier, exact date unknown",
+          "alt": "A historical plate of Caroline Masta’s Abenaki baskets and basketry in progress against a dark ground.",
+          "contextSources": [
+            {
+              "title": "Mason, printed page 374 — Caroline Masta and her basketry",
+              "url": "https://archive.org/details/aboriginalbasket00masorich/page/n223/mode/1up",
+              "inspectionScope": "Actual page image inspected; identifies Masta, her Abenaki association, Plate 119 and photographer Rowland."
+            },
+            {
+              "title": "Smithsonian — Caroline Masta basket record",
+              "url": "https://www.si.edu/es/object/unfinished-cylindrical-basket-grass%3Anmnhanthropology_8356194",
+              "inspectionScope": "Indexed item body confirms maker and community context. Its restricted modern image was not reproduced."
+            }
+          ],
+          "derivatives": {
+            "fullPlate": "Proportional resize of complete scanned plate",
+            "cardCropSourcePixels": [
+              1200,
+              2800,
+              1950,
+              3540
+            ]
+          }
         }
       ],
       "eligibilityBasis": "Published developed profile",
@@ -48,7 +69,7 @@
         "available": 1,
         "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:304;--profile-angle:-12deg;--profile-photo:url(\"../../assets/profile-visuals/abenaki-odanak-language-sign.jpg\")",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:304;--profile-angle:-12deg;--profile-photo:url(\"../../assets/profile-visuals/abenaki-caroline-masta-basketry-1904.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
