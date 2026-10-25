@@ -1,2 +1,7 @@
 /* Owner-identified divider between the interactive and historical maps. */
 .atlas-home-page .atlas-map{border-bottom:0}
+
+/* Question belongs inside the map frame, not in a separate introductory panel. */
+.atlas-home-page .map-layout{border-radius:5px}
+.atlas-home-page .map-explore>.map-inline-title{font:clamp(26px,2.7vw,36px)/1.16 var(--serif);letter-spacing:-.4px;color:#214f4e;margin:0;padding:23px 24px 19px;background:transparent}
+@media(max-width:700px){.atlas-home-page .map-explore>.map-inline-title{font-size:28px;padding:20px 18px 17px}}
