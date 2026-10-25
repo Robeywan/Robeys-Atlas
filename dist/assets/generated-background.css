@@ -1,10 +1,15 @@
 /* Owner-requested AI-generated decorative collage; never documentary evidence. */
 :root{--atlas-collage:url('atlas-generated-collage-20261025.png')}
 body{background-color:#d7b278;background-image:linear-gradient(#e8c99614,#e8c99614),var(--atlas-collage);background-position:center,center;background-size:cover,cover;background-repeat:no-repeat;background-attachment:fixed}
-body:not(.custom-profile-page):not(.apache-collage-page)>main.wrap,body>main>.wrap{background-image:linear-gradient(110deg,#fff2d8d9,#f7e9cfe0),var(--atlas-collage);background-size:cover,1200px auto;background-position:center,center top;background-repeat:no-repeat,repeat-y}
+/* Empty page gutters stay transparent, rather than forming long pale side strips. */
+body:not(.custom-profile-page):not(.apache-collage-page)>main.wrap,body>main>.wrap{background:none}
+.prose{background:#fff3daf5;padding:24px 28px;border-radius:4px}
+.historic-landscape-heading,.historic-map-controls,.map-context,.map-coverage-note,.source-result-count{background:#fff3daf2;padding:15px 18px;border-radius:3px}
+.research-leads>p,.profile-content>.source-heading{background:#fff3daf2;padding:14px 18px;border-radius:3px}
 .custom-profile-backdrop{background-image:linear-gradient(90deg,color-mix(in srgb,var(--profile-paper) 66%,transparent),color-mix(in srgb,var(--profile-paper) 84%,transparent) 48%,color-mix(in srgb,var(--profile-paper) 62%,transparent)),var(--profile-photo),var(--atlas-collage);background-size:cover,auto 85vh,cover;background-position:center,right 2vw bottom,center;background-repeat:no-repeat}
 .apache-collage-page .profile-content{background-image:linear-gradient(#faedcfef,#faedcfef),var(--atlas-collage);background-size:cover,1000px auto;background-position:center,center top;background-repeat:no-repeat,repeat-y}
 .generated-background-credit{display:block;margin-top:11px;font-size:9px;line-height:1.5;color:#efd69f}.generated-background-credit a{text-decoration:underline;text-underline-offset:3px}
 .generated-art-preview{display:block;width:100%;max-width:900px;height:auto;border:1px solid #b48a4e;border-radius:4px;margin:20px 0}
 @media(max-width:700px){body{background-attachment:scroll;background-size:auto,1200px auto;background-position:center,center top;background-repeat:no-repeat,repeat-y}.custom-profile-backdrop{background-size:cover,auto 62vh,cover;background-position:center,right -25vw bottom,center}}
-@media print{body,body>main>.wrap,body:not(.custom-profile-page):not(.apache-collage-page)>main.wrap,.apache-collage-page .profile-content{background:white!important}.generated-background-credit,.generated-art-preview{display:none}}
+@media(max-width:700px){.prose{padding:20px}.historic-landscape-heading,.historic-map-controls,.map-context,.map-coverage-note{padding:13px 15px}}
+@media print{body,body>main>.wrap,body:not(.custom-profile-page):not(.apache-collage-page)>main.wrap,.apache-collage-page .profile-content,.prose{background:white!important}.generated-background-credit,.generated-art-preview{display:none}}
