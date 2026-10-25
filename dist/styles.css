@@ -135,3 +135,9 @@ body>.wrap:first-of-type{margin-top:20px;border-radius:5px 5px 0 0}
 .atlas-home-page .historic-map-figure .historic-image-open a:focus-visible{outline:3px solid #fff8df;outline-offset:5px}
 @media(max-width:700px){.atlas-home-page .historic-map-figure .historic-image-open{min-height:140px;padding:18px 16px}.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{left:0;width:76px;height:80px}.atlas-home-page .historic-image-open::after{left:auto;right:0}.atlas-home-page .historic-map-figure .historic-image-open a{width:calc(100% - 110px);font-size:16px;padding:12px 10px}}
 @media print{.atlas-home-page .historic-map-figure .historic-image-open{background:none;box-shadow:none;min-height:0;padding:12px}.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{display:none}.atlas-home-page .historic-map-figure .historic-image-open a{background:none;color:#000;border:0;box-shadow:none}}
+
+
+/* Existing Apache basket details replace the eagle decorations; link styling is unchanged. */
+.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{background-image:linear-gradient(#142e2a14,#142e2a14),url('assets/home-apache-storage-basket-met.webp');background-repeat:no-repeat;background-size:cover,480px auto;background-position:center,center 42%;mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent);transform:translateY(-50%)}
+@media(max-width:700px){.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{background-size:cover,320px auto;background-position:center,center 42%}}
+@media print{.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{display:none}}
