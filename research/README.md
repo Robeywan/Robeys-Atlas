@@ -1,3 +1,5 @@
+Latest name-only addition: ten further Alaska community routes; see alaska-name-outlines-20261026b.md/json. No substantive source count changes.
+
 # Individual community directory outlines — October26,2026
 
 The owner wants individual communities to be findable by their own names, without requiring readers to know the broader people or umbrella label. The Atlas will continue adding verified communities, bands, villages, governments and clearly identified community organizations. Broad people-level entries remain useful related reading; they do not replace individual names. The directory is incomplete and absence is a research gap.

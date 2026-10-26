@@ -1,0 +1,13 @@
+# Ten further Alaska community outlines — October26,2026
+
+Added ten individually findable, name-only queued outlines: Native Village of Goodnews Bay; Native Village of Hamilton; Native Village of Hooper Bay; Native Village of Kanatak; Native Village of Karluk; Native Village of Kiana; Native Village of Kipnuk; Native Village of Kivalina; Native Village of Kobuk; Native Village of Kongiganak.
+
+The actual indexed primary FederalRegister.gov name labels at lines973–992 and Alaska section heading at789 were inspected. The Kluti Kaah aka variant was deferred instead of making a duplicate. Native Request Access was not bypassed; the official PDF was not inspected. This is identification-only work, with no history, ethnicity, ancestry, jurisdiction or recognition analysis. Names retain their own community/government scope; no broader affiliation was guessed.
+
+All ten have zero reading-source cards, zero substantive works, Queued for research status, Not assessed adequacy, an image gap and a static HTML page. Ten narrow Alaska listing routes accompany them. This brings the directory to744 access points (454original+290added),272queued entries including263name-only outlines. The reading catalogue remains1608unique URLs/1733profile-source occurrences. Twenty-nine collections still reach the source quantity target; no adequacy or research-completion claim is added.
+
+All734 prior raw profiles and825 prior map records are exactly unchanged. New modern-map totals:103targets,835scoped records,833region/profile pairs,79populated regions,194lakes;735mapped and9pending(Yocona+eightOhlone outlines). Historical maps, owner studies/leads, photographs/credits and brand assets remain unchanged. Thirty directory cards are pictured overall. All744cards retain the existing neutral decorative treatment; new queued cards do not claim authentic imagery.
+
+Nine preservation/outline contracts passed, along with the native build, directory-card and map checks. Final internal-link results and native deployment are recorded in the publication receipt. No new local visual/device matrix was necessary for this data-only extension of the previously reviewed outline renderer; live proof records a representative new page.
+
+The same additional500-credit allowance remains cumulative from2693.0138715, floor2193.0138715. Near the2273.0138715discovery stop, preserve finishing capacity and prefer included usage after its actual reset; never buy credits, reset manually, renew the allowance perrun or spend to quota. Further names remain queued for later verification. Do not rerun the one-time integration script over newer data.
