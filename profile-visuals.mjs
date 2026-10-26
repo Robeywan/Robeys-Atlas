@@ -45,7 +45,7 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
   // The root baseline records the existing state, so old guides are not promoted.
   for (const p of profiles) {
     const digest = researchDigest(p);
-    if (inspected(p).length && baseline[p.slug] !== digest) {
+    if (p.researchStatus !== 'queued' && inspected(p).length && baseline[p.slug] !== digest) {
       if (!selected.has(p.slug)) enrolled.push(p.slug);
       selected.add(p.slug);
     }
