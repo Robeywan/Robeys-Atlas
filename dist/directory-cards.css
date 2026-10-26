@@ -39,3 +39,9 @@
 .directory-card-art.has-photo::after{background:linear-gradient(90deg,var(--card-surface) 0%,var(--card-surface) 38%,transparent 100%)}
 @media(max-width:700px){.directory-card-art::after{background:linear-gradient(90deg,var(--card-surface) 0%,var(--card-surface) 45%,transparent 100%)}.directory-card-art.has-photo::after{background:linear-gradient(90deg,var(--card-surface) 0%,var(--card-surface) 45%,transparent 100%)}}
 @media print{.nation-row.directory-visual-card{--card-surface:white;background:white}}
+/* Keep card imagery and decorative artwork clear, with text in its own space. */
+.directory-visual-card .directory-card-art{width:38%;opacity:1}
+.directory-visual-card .directory-card-art::after{background:linear-gradient(90deg,var(--card-surface),transparent 12%)}
+.nation-row.directory-visual-card .nation-link>div:first-child{max-width:66%}
+.nation-row.directory-visual-card .row-meta{max-width:66%}
+@media(max-width:700px){.directory-visual-card .directory-card-art{width:40%;opacity:1}.directory-visual-card .directory-card-art::after{background:linear-gradient(90deg,var(--card-surface),transparent 12%)}.nation-row.directory-visual-card .nation-link>div:first-child{max-width:75%}.nation-row.directory-visual-card .row-meta{max-width:80%}}
