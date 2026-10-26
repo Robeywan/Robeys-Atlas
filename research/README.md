@@ -1,3 +1,11 @@
+## October26,2026 — Our approach and paired Texas review
+
+Our approach now states the Atlas’s purpose for students, teachers and curious readers, preserving the original explanation while removing the requested hero/heading/count qualifiers. Jumano adds one inspected textual-history study (thirteen substantive works, seven sections, Still unfinished); Coahuiltecan’s limited INAH review stays supporting-only (twelve substantive, Still unfinished). Their cards/pages now use credited, narrowly contextual NPS images. See Our-Approach-Texas-Review-2026-10-26.md and latest receipt. Source count1,602URLs/1,726occurrences;480entries; broad card audit51/28pictured/23gaps. No new map or research-completion claim.
+
+Continue foundational Texas source work with Wichita (current three links/zero substantive checks before its new draft), paired with a specifically cleared picture. Preserve all older evidence and source-critical limits. Then Idaho, Minnesota, Blackfeet Tribe Montana and Michigan. 
+
+---
+
 # Current research and directory plan — October26,2026
 
 Prioritize Texas, then Idaho, Minnesota, the Blackfeet Tribe in Montana (distinct from the wider Blackfoot Confederacy), then Michigan. Strengthen substantive source evidence and paired card/profile imagery. Aim around twelve excellent works, with flexible documented adequacy after careful search; quantity does not establish completeness. Preserve original source text links, actual selected-page inspection limits, perspective and access notes. Public full texts, library/subscription works, inspected excerpts, supporting records and unread leads must be distinguished. No contact or restricted material.
