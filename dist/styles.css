@@ -100,17 +100,24 @@ body>.wrap:first-of-type{margin-top:20px;border-radius:5px 5px 0 0}
 
 /* Separate small owner-selected header emblem; large collage remains full-frame. */
 .brand-photo-mark{display:block;width:52px;height:52px;aspect-ratio:1;object-fit:contain;flex:none;border:1px solid #b58e4c;background:#142c33;border-radius:3px}
-.hero.brand-home{display:block;min-height:0;padding:0;background:#132b33;border:1px solid #b58e4c;overflow:hidden}
-.brand-home .brand-home-image{display:block;width:100%;height:auto;max-width:none;object-fit:contain;aspect-ratio:1280/837}
+/* Homepage brand and entry links: original contemporary SVG interface patterns. */
+.hero.brand-home{display:block;min-height:0;padding:0;background:transparent;border:0;overflow:visible}
+.brand-home .brand-home-image{display:block;width:80%;height:auto;max-width:none;margin:0 auto;object-fit:contain;aspect-ratio:1280/837}
 .hero.brand-home .brand-accessible-title{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
-.hero.brand-home .brand-home-intro{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:15px 32px;align-items:center;max-width:none;padding:25px 32px 18px;background:#132b33}
-.hero.brand-home p{margin:9px 0 0;max-width:620px;font-size:13px;color:#f2ead7}
-.hero.brand-home .hero-links{display:grid;margin:0;gap:8px}
-.hero.brand-home .hero-links a{display:block;text-align:center}
-.hero.brand-home .brand-image-credit{grid-column:1/-1;margin:0;font-size:9px;color:#dfd1b5}
+.hero.brand-home .brand-home-intro{display:block;max-width:none;padding:24px 0 28px;background:transparent}
+.hero.brand-home .hero-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));margin:0;gap:18px}
+.hero.brand-home .hero-links a{display:flex;align-items:center;justify-content:center;gap:12px;min-width:0;min-height:140px;padding:25px 22px;border:2px solid #c8a96a;border-radius:9px;box-shadow:0 6px 16px #132b3326;color:#fff7df;font:700 clamp(20px,1.7vw,24px)/1.35 var(--serif);text-align:center;text-wrap:balance;text-shadow:0 2px 4px #071e28;background-color:#173f45;background-size:auto,240px 160px;transition:box-shadow .18s ease,border-color .18s ease}
+.hero.brand-home .hero-links .home-entry-ocean{background-image:linear-gradient(#0b26292b,#0b262959),url('assets/home-entry-ocean.svg')}
+.hero.brand-home .hero-links .home-entry-ice{background-color:#15364f;background-image:linear-gradient(#0a23302b,#0a233059),url('assets/home-entry-ice.svg')}
+.hero.brand-home .hero-links .home-entry-weave{background-color:#503a2d;background-image:linear-gradient(#211a1359,#211a1380),url('assets/home-entry-weave.svg')}
+.hero.brand-home .hero-links a span{font:700 26px/1 var(--sans);flex:0 0 auto;color:#f3d889}
+.hero.brand-home .hero-links a:hover{border-color:#f5d68e;box-shadow:0 8px 22px #132b3350;text-decoration:underline;text-underline-offset:5px}
+.hero.brand-home .hero-links a:focus-visible{outline:3px solid #fff7df;outline-offset:4px;box-shadow:0 0 0 7px #15364f}
+.hero.brand-home .brand-image-credit{margin:0;font-size:9px;color:#dfd1b5}
 .brand-image-credit a{text-decoration:underline;text-underline-offset:3px}
-@media(max-width:1000px){.hero.brand-home .brand-home-intro{grid-template-columns:1fr}.hero.brand-home .hero-links{display:flex;flex-wrap:wrap}.hero.brand-home .hero-links a{flex:1 1 auto}}
-@media(max-width:700px){.brand-photo-mark{width:46px;height:46px}.hero.brand-home{padding:0;min-height:0}.hero.brand-home .brand-home-intro{padding:20px 20px 16px;gap:16px}.hero.brand-home .hero-links{display:flex}.hero.brand-home .hero-links a{font-size:10px;line-height:1.5}.hero.brand-home p{font-size:12px}}
+@media(max-width:700px){.brand-photo-mark{width:46px;height:46px}.hero.brand-home{padding:0;min-height:0}.hero.brand-home .brand-home-intro{padding:18px 0 24px}.hero.brand-home .hero-links{grid-template-columns:1fr;gap:12px}.hero.brand-home .hero-links a{min-height:110px;padding:22px;font-size:22px}}
+@media(prefers-reduced-motion:reduce){.hero.brand-home .hero-links a{transition:none}}
+
 @media(max-width:390px){.brand-photo-mark{width:40px;height:40px}.brand-name{font-size:23px}.brand-small{font-size:6px;letter-spacing:1.1px}}
 
 /* Keep the archive invitation's map open, with its copy at the left. */

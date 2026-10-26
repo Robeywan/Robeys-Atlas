@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" aria-labelledby="title description">
+  <title id="title">Ocean waves and leaves</title>
+  <desc id="description">Original contemporary interface decoration using abstract teal ocean waves and leaves with gold accents. Not a replica or attribution of a traditional Hawaiian motif, and not cultural or historical evidence.</desc>
+  <defs>
+    <g id="leaf" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-23 13C-26-5-9-20 20-16 25 4 9 21-23 13Z" fill="#3d7b70" stroke="#bca566" stroke-width="1.4"/>
+      <path d="m-25 16 43-30M-13 7l-1-12M-2-1l1-10M-5 2l15 2" fill="none" stroke="#dbc381" stroke-width="1.2" opacity=".8"/>
+    </g>
+  </defs>
+  <rect width="240" height="160" fill="#173f45"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M-60 34C-40 8-20 60 0 34S40 8 60 34 100 60 120 34 160 8 180 34 220 60 240 34 280 8 300 34M-60 114C-40 88-20 140 0 114S40 88 60 114 100 140 120 114 160 88 180 114 220 140 240 114 280 88 300 114" stroke="#bda567" stroke-width="2.1" opacity=".8"/>
+    <path d="M-60 43C-40 17-20 69 0 43S40 17 60 43 100 69 120 43 160 17 180 43 220 69 240 43 280 17 300 43M-60 123C-40 97-20 149 0 123S40 97 60 123 100 149 120 123 160 97 180 123 220 149 240 123 280 97 300 123" stroke="#5b9a91" stroke-width="1.2" opacity=".58"/>
+  </g>
+  <use href="#leaf" transform="translate(56 79) rotate(-13)"/>
+  <use href="#leaf" transform="translate(177 79) rotate(15)" opacity=".72"/>
+</svg>
