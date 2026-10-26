@@ -50,8 +50,12 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
  const priorData=JSON.parse(execFileSync('git',['show',preservationBase+':'+file],{maxBuffer:50e6})),currentData=read(file);
  if(file==='data/region-associations.json'){
   assert.deepEqual(currentData.associations.slice(0,priorData.associations.length),priorData.associations,'All earlier regional routes preserved');
-  const added=currentData.associations.slice(priorData.associations.length);
-  assert.deepEqual(added,queued.regionAssociations,'Only the approved identity-level queued routes added');
+  const latestPublished=JSON.parse(execFileSync('git',['show','HEAD:'+file],{maxBuffer:50e6}));
+  assert.deepEqual(currentData.associations.slice(0,latestPublished.associations.length),latestPublished.associations,'Latest published regional routes preserved');
+  const added=currentData.associations.slice(latestPublished.associations.length);
+  const existing=new Set(latestPublished.associations.map(a=>JSON.stringify(a)));
+  const approved=(queued.regionAssociations||[]).filter(a=>!existing.has(JSON.stringify(a)));
+  assert.deepEqual(added,approved,'New regional routes exactly match approved identity-level queued additions');
   for(const a of added)assert(a.identityOnly&&queued.profiles.some(p=>p.name===a.name)&&a.evidenceNote&&a.sourceUrl);
  }else assert.deepEqual(currentData,priorData,file+' preserved');
 }

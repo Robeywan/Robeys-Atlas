@@ -7,8 +7,10 @@
   "profiles": "profiles.json",
   "researchProgress": "research-progress.json",
   "ownerReadingLeads": "owner-reading-leads.json",
+  "communityOutlineRegister": "queued-directory-entries.json",
   "counts": {
-    "directoryAccessPoints": 481,
+    "directoryAccessPoints": 734,
+    "nameOnlyOutlines": 253,
     "sourceUrls": 1608,
     "profileSourceOccurrences": 1733
   },
@@ -17,6 +19,9 @@
     "profileSlug": "Directory access-point route, which may be an alias or broader label rather than a distinct nation."
   },
   "fieldGuide": {
+    "entryStage": "name-only-outline means a separately findable queued entry with zero reading-source cards, zero substantive works and no completed history.",
+    "identificationEvidence": "Name/location verification provenance only. These records are separate from reading sources and do not establish historical coverage, legal status, territorial boundaries or endorsement.",
+    "existingNameAliases": "Verified longer or alternate government names can be searchable on an already represented community rather than duplicate its card.",
     "profileContexts": "Every profile-specific source occurrence: local citation anchor, annotation, review/access scope and counting flags. Shared URLs can have different inspection limits.",
     "contentReviewedAt": "Date of the recorded review; scope may be a selected excerpt, metadata/identity check or supporting record. Read the scope and status.",
     "accessed": "Recorded access date, not proof of content review or current availability.",
