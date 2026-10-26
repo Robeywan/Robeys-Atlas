@@ -38,7 +38,9 @@ for(const m of c.maps)for(const l of m.profileLinks||[])assert(html.includes('..
 // independent map/reading-lead/geometry datasets from accidental replacement.
 const preservationBase='b892024566cbf35e51d76c73688ad7ff1aff8bb6';
 const queued=read('data/queued-directory-entries.json');
-assert.equal(queued.profiles.length,5);
+const earlierQueued=JSON.parse(execFileSync('git',['show','735b0fc72f9a221b7d913478680fcbf2ed970141:data/queued-directory-entries.json'],{maxBuffer:20e6}));
+assert.deepEqual(queued.profiles.slice(0,earlierQueued.profiles.length),earlierQueued.profiles,'Earlier queued entries preserved');
+assert(queued.profiles.length>=earlierQueued.profiles.length);
 for(const item of queued.profiles){
  const p=profiles.find(p=>p.slug===item.slug);
  assert(p&&p.name===item.name&&p.researchStatus==='queued');

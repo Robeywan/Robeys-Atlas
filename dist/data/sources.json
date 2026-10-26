@@ -14363,18 +14363,24 @@
     "topics": [
       "Identity",
       "History",
-      "Culture"
+      "Culture",
+      "Names",
+      "Texas"
     ],
     "annotation": "The Texas Tribe’s official homepage was checked for the site’s own identification and current contact/navigation context. This brief landing page does not count as a substantive historical or educational work.",
     "accessed": "2026-10-19",
     "countsTowardMinimum": false,
     "countReason": "Homepage/access point only; excluded from the substantive inspected-work count.",
-    "contentReviewedAt": "2026-10-23",
-    "contentReviewScope": "Homepage identification statement and navigation only; no linked history or programs used.",
+    "contentReviewedAt": "2026-10-26",
+    "contentReviewScope": "Homepage identification statement and navigation rechecked; directly linked Tribal Education Canva publication establishes its departmental connection. Undated enrollment total and linked member services not used.",
     "nations": [
       {
         "name": "Kickapoo",
         "slug": "kickapoo"
+      },
+      {
+        "name": "Kickapoo Traditional Tribe of Texas",
+        "slug": "kickapoo-traditional-tribe-of-texas"
       }
     ]
   },
@@ -14397,6 +14403,50 @@
     "accessNotes": "Public page; no linked program materials inspected.",
     "countsTowardMinimum": false,
     "countReason": "Useful supporting context, but not a substantive work for the profile target.",
+    "nations": [
+      {
+        "name": "Kickapoo",
+        "slug": "kickapoo"
+      }
+    ]
+  },
+  {
+    "id": "p165-s21",
+    "title": "Tribal Education Department — mission, Language Department and Head Start program collection",
+    "publisher": "Kickapoo Traditional Tribe of Texas, Tribal Education Department",
+    "url": "https://ktttribal-education.my.canva.site/",
+    "type": "Indigenous-led",
+    "topics": [
+      "Education",
+      "Language",
+      "Texas",
+      "Early childhood",
+      "Community programs"
+    ],
+    "annotation": "The Tribe-linked departmental publication supplies a direct account of its language curriculum, learning materials, Head Start resources and family supports. The Language page dates its curriculum work to 2017 and describes classes and integration with other education programs; Head Start lists a Kickapoo immersion-language resource book and family-engagement resources. These are the department’s descriptions and aims, not independently evaluated participation, fluency or learning outcomes. The three selected public pages are one continuing collection, not three separate works.",
+    "publicationDate": "Undated public pages; reviewed 2026-10-26",
+    "accessed": "2026-10-26",
+    "contentReviewedAt": "2026-10-26",
+    "countsTowardMinimum": true,
+    "contentReviewScope": "Read actual rendered public Home Page mission and program navigation, the complete Language Department body, and Head Start program/resources, curriculum platforms, family services, health/disability and food-service descriptions. The official kickapootexas.org homepage links directly to this Canva-hosted department site. Text was read in the normal browser because automated extraction returned no body. Personal staff/contact details, schedules, numerical health deadlines and promotional quality claims were not used in synthesis. No member-only material, classes, lesson books, student records or software were accessed; no photographs reproduced.",
+    "accessNotes": "Publicly readable in the browser without an account. Automated web extraction returned an empty body; this is not evidence of a reader paywall.",
+    "inspectedSubresources": [
+      {
+        "title": "Home Page — department mission",
+        "url": "https://ktttribal-education.my.canva.site/",
+        "scope": "Mission and public program navigation; linked by the Tribe’s official homepage."
+      },
+      {
+        "title": "Language Department",
+        "url": "https://ktttribal-education.my.canva.site/language",
+        "scope": "Complete public body, including curriculum work dated to 2017, program integration and stated learning routes; no classes or teaching materials inspected."
+      },
+      {
+        "title": "Head Start",
+        "url": "https://ktttribal-education.my.canva.site/head-start",
+        "scope": "Complete public program description and listed resources/supports; no underlying immersion book, software, child records or outcomes reviewed."
+      }
+    ],
     "nations": [
       {
         "name": "Kickapoo",

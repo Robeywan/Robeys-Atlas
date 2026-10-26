@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 36,
+    "selectedProfiles": 37,
     "existingApache": 1,
-    "newProfileTreatments": 35,
-    "newTreatmentsWithPhotographs": 21,
+    "newProfileTreatments": 36,
+    "newTreatmentsWithPhotographs": 22,
     "decorativeTreatmentsAwaitingPhotographs": 14,
     "autoEnrolledThisBuild": []
   },
@@ -1212,6 +1212,52 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 13
+    },
+    {
+      "slug": "kickapoo",
+      "name": "Kickapoo",
+      "originalId": 165,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 244,
+      "angle": 60,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "kickapoo-catlin-kee-an-ne-kuk-1830",
+          "profileSlugs": [
+            "kickapoo"
+          ],
+          "asset": "assets/profile-visuals/kickapoo-catlin-kee-an-ne-kuk-1830.jpg",
+          "cardAsset": "assets/profile-visuals/kickapoo-catlin-kee-an-ne-kuk-1830-card.jpg",
+          "title": "Kee-án-ne-kuk, Foremost Man, Chief of the Tribe (1830)",
+          "credit": "George Catlin, 1830. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.240. Public domain.",
+          "cardCredit": "George Catlin · SAAM",
+          "creator": "George Catlin",
+          "mediaType": "painting",
+          "sourceUrl": "https://americanart.si.edu/artwork/kee-ne-kuk-foremost-man-chief-tribe-4061",
+          "sourceImageUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.240_1&max=2600",
+          "rightsLabel": "Public domain — museum marks Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/kee-ne-kuk-foremost-man-chief-tribe-4061",
+          "scope": "The museum identifies the sitter as Kickapoo. Its contextual note places the probable sitting at Fort Leavenworth, in present-day Kansas. Appropriate for the broad Kickapoo reading profile; it does not identify a present-day Texas government member or establish territorial boundaries. Read the primary item record, object metadata, museum contextual note, visible reuse label and item-specific HTML rights metadata. Visually inspected both the 793×960 preview and complete 2148×2600 source frame. The museum's historical note quotes Catlin; those attributed religious descriptions and trader anecdotes are not independently corroborated research in this review. The museum’s public-domain/Free to use designation is retained without inventing a CC0 license. Complete source frame proportionally resized and compressed for web copies; CSS crops/overlays apply to background/card copies, while the page banner retains the full frame. No generated or retouched image content. No community endorsement or documentary photograph claim.",
+          "reviewedAt": "2026-10-26",
+          "date": "1830",
+          "alt": "Catlin's painted bust portrait of Kee-án-ne-kuk against a blue-green background.",
+          "contextSources": []
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:244;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/kickapoo-catlin-kee-an-ne-kuk-1830.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 15
     },
     {
       "slug": "mescalero-apache",

@@ -1,0 +1,21 @@
+# Kickapoo: community education and a separate Texas-government route
+
+One new substantive, community-published work strengthens the Texas-focused Kickapoo introduction: the Tribe-linked Education Department collection. Its mission, Language Department and Head Start pages were read in the normal browser on October 26, 2026. The official Tribal homepage links directly to this Canva-hosted publication; automated extraction returned no body, while the public browser pages were readable without an account.
+
+The Language Department describes curriculum work since 2017, learning materials, classes and integration with Head Start, tutorial and summer programs. Head Start describes its program approach, lists a Kickapoo immersion-language resource book and family-engagement resources, and explains family/disability and other supports. These are attributed institutional descriptions, not independent evaluations of fluency, participation, school readiness or service outcomes. No classes, underlying resource book/software, member-only materials or student records were accessed. Staff contacts, health deadlines, personal details and promotional quality claims were excluded from the synthesis. The three selected pages count as one continuing departmental collection.
+
+Kickapoo now has fifteen substantive inspected works and six supporting references, seven cited sections, and an explicit **Still unfinished** assessment. The new publication improves direct community representation for education; broader community-authored history, cross-community perspectives and outcomes evidence remain gaps. No research-completion or community-endorsement claim is made.
+
+## An individual card for the Texas Tribe
+
+The Kickapoo Traditional Tribe of Texas now has a separate queued card linked to the broad Kickapoo reading collection. The Tribe’s own homepage was checked for its name, broader Kickapoo relationship and location south of Eagle Pass in Maverick County. Its undated enrollment number was not used. The new card has one supporting identity reference, zero substantive history works, initial adequacy Not assessed and a clearly recorded image gap. It does not replace the broader people-level entry or represent Kansas, Oklahoma or Mexican communities. One narrowly scoped Texas navigation route was added; no territorial boundary is inferred.
+
+## Historical portrait on the broad Kickapoo card and page
+
+George Catlin’s 1830 portrait of Kee-án-ne-kuk (SAAM 1985.66.240) is identified as Kickapoo by the Smithsonian American Art Museum. The item visibly states Free to use and its item-specific rights metadata says Unrestricted (Public Domain). Its probable sitting is located by the museum at Fort Leavenworth, in present-day Kansas. The image is used only for the broad Kickapoo profile, not the present Texas-government card. It is an outside artist’s historical painting, not a photograph or territorial evidence.
+
+The complete 2148×2600 source frame was inspected. Web copies preserve the full frame with proportional resizing/compression; CSS crops/overlays apply to card/backdrop copies. The full frame appears in the opened-page banner. Credit retains George Catlin, Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr. No CC0 license, sitter’s present-government affiliation or community endorsement is invented. The museum’s quoted religious descriptions and trader anecdotes are not treated as independently verified historical research. No image contributes to substantive-source counts.
+
+Sources: [Official Tribal homepage](https://kickapootexas.org/), [Education Department](https://ktttribal-education.my.canva.site/), [Language](https://ktttribal-education.my.canva.site/language), [Head Start](https://ktttribal-education.my.canva.site/head-start), [Museum portrait and reuse record](https://americanart.si.edu/artwork/kee-ne-kuk-foremost-man-chief-tribe-4061).
+
+The short Mexico Services operations listing was also inspected but was too brief to count as substantive. No map search, outreach or restricted material was used. Future research remains Texas, Idaho, Minnesota, Blackfeet Tribe Montana, then Michigan, with individually verified smaller communities added as encountered.
