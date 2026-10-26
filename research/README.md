@@ -1,3 +1,5 @@
+Latest reviewed foundation: Wichita; see wichita-foundation-review-20261026.md. Research remains open and individual community/government scope stays explicit.
+
 ## October26,2026 — Our approach and paired Texas review
 
 Our approach now states the Atlas’s purpose for students, teachers and curious readers, preserving the original explanation while removing the requested hero/heading/count qualifiers. Jumano adds one inspected textual-history study (thirteen substantive works, seven sections, Still unfinished); Coahuiltecan’s limited INAH review stays supporting-only (twelve substantive, Still unfinished). Their cards/pages now use credited, narrowly contextual NPS images. See Our-Approach-Texas-Review-2026-10-26.md and latest receipt. Source count1,602URLs/1,726occurrences;480entries; broad card audit51/28pictured/23gaps. No new map or research-completion claim.

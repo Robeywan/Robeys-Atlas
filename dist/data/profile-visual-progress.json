@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 40,
+    "selectedProfiles": 41,
     "existingApache": 1,
-    "newProfileTreatments": 39,
-    "newTreatmentsWithPhotographs": 27,
+    "newProfileTreatments": 40,
+    "newTreatmentsWithPhotographs": 28,
     "decorativeTreatmentsAwaitingPhotographs": 12,
     "autoEnrolledThisBuild": []
   },
@@ -1608,6 +1608,61 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 12
+    },
+    {
+      "slug": "wichita",
+      "name": "Wichita",
+      "originalId": 431,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 278,
+      "angle": -61,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "wichita-lodge-catlin-saam",
+          "profileSlugs": [
+            "wichita"
+          ],
+          "title": "Wichita Lodge, Thatched with Prairie Grass",
+          "mediaType": "historical-painting",
+          "creator": "George Catlin, painter; digital photographer not individually identified",
+          "credit": "George Catlin, 1834–1835. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.492 · Public domain",
+          "cardCredit": "George Catlin, 1834–1835 · SAAM",
+          "date": "1834–1835",
+          "medium": "oil on canvas",
+          "holdingInstitution": "Smithsonian American Art Museum",
+          "objectNumber": "1985.66.492",
+          "sourceUrl": "https://americanart.si.edu/artwork/wichita-lodge-thatched-prairie-grass-4461",
+          "sourceImageUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.492_1&max=2600",
+          "rightsLabel": "Public domain — Smithsonian American Art Museum item designation",
+          "rightsUrl": "https://americanart.si.edu/artwork/wichita-lodge-thatched-prairie-grass-4461",
+          "alt": "Catlin painting of a large rounded grass-thatched lodge, with several figures and a horse beside it and trees in the background.",
+          "contextSources": [
+            {
+              "title": "Wichita Lodge, Thatched with Prairie Grass — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/wichita-lodge-thatched-prairie-grass-4461",
+              "scope": "Item-specific Wichita identification and historical Oklahoma context. This visual identification check adds no substantive research work."
+            }
+          ],
+          "asset": "assets/profile-visuals/wichita-lodge-catlin-saam.jpg",
+          "cardAsset": "assets/profile-visuals/wichita-lodge-catlin-saam-card.jpg",
+          "reviewedAt": "2026-10-26",
+          "scope": "A museum-identified historical depiction of a Wichita grass lodge. The museum places the expedition context in present-day Oklahoma. This is Catlin's outside artistic representation, not a documentary photograph, Wichita-made artwork, a surveyed homeland or an image of a present government. Its title does not establish the identity of every depicted figure or speak for every affiliated people. Read the primary item title, creator/date/medium/object number and gift credit, visible reuse designation, HTML rights metadata and museum interpretive paragraph. Visually inspected the complete available 2599×2121 source frame. The exact max=2600 URL was obtained from the item's HTML srcset; no image filename was guessed. Catlin's quoted village estimates and observations were not independently corroborated or added to research synthesis. The complete available frame was proportionally resized/compressed without generation, retouching or upscaling. CSS crops and overlays apply to directory/background displays; the opened-page banner preserves the complete frame."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:278;--profile-angle:-61deg;--profile-photo:url(\"../../assets/profile-visuals/wichita-lodge-catlin-saam.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 5
     },
     {
       "slug": "yaqui",

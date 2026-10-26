@@ -7735,6 +7735,32 @@
     "slug": "wichita",
     "regions": [
       {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 3,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": "2026-10-22"
+  },
+  {
+    "originalId": null,
+    "name": "Wichita and Affiliated Tribes",
+    "slug": "wichita-and-affiliated-tribes",
+    "regions": [
+      {
         "id": "US-OK",
         "name": "Oklahoma",
         "key": "us-ok"
