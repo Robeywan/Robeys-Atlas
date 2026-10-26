@@ -1,0 +1,18 @@
+/* Source reading aids: explicit review/access labels and compact data discovery. */
+.source-card>p{font-size:14px;line-height:1.75}
+.source-card .source-meta{font-size:11px;line-height:1.65;gap:7px 11px}
+.source-card .source-url{font-size:12px;line-height:1.6;overflow-wrap:anywhere}
+.source-review-block{background:#fff5de;border-left:3px solid #537568;padding:12px 15px;margin:15px 0;color:#294a42}
+.source-card .source-review-block p{font-size:14px;line-height:1.7;margin:0 0 9px}
+.source-card .source-review-block p:last-child{margin-bottom:0}
+.source-card .source-review-block strong{font-weight:750;color:#244e48}
+.source-contexts{background:#faf0db;border:1px solid #b3bda7;border-radius:5px;padding:13px 15px;margin:15px 0}
+.source-contexts summary{font-size:15px;line-height:1.6;font-weight:700;cursor:pointer;color:#244f4a}
+.source-contexts summary:focus-visible,.source-data-links a:focus-visible{outline:3px solid #174d50;outline-offset:4px}
+.source-contexts>p,.source-context p{font-size:14px;line-height:1.7}
+.source-context{margin-top:18px}.source-context h4{font-size:16px;line-height:1.5;margin:0 0 8px}
+.source-card .source-shared-note{font-size:14px;font-weight:600;color:#3c5146}
+.source-data-links{font-size:14px;line-height:1.8;background:#fff4dceF;padding:12px 17px;border-radius:4px;color:#294c44;margin:12px 0}
+.source-data-links a{font-weight:650;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:700px){.source-review-block{padding:11px 12px}.source-card .source-review-block p,.source-card>p,.source-contexts>p,.source-context p{font-size:14px}}
+@media print{.source-review-block,.source-contexts,.source-data-links{background:white;color:black;box-shadow:none}.source-review-block{border-color:#555}.source-contexts summary{color:black}}

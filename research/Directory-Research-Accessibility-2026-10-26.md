@@ -1,0 +1,33 @@
+# Directory research, pictures and source accessibility — October 26, 2026
+
+This reviewed batch adds two scholarly works to Yaqui, a Frank A. Rinehart portrait to Tonkawa and two credited coastal landscapes, and individually identified queued cards for the Alabama-Coushatta Tribe of Texas and Texas Band of Yaqui Indians. It also makes recorded source access and inspection limits visible in the reading room and profile source lists.
+
+## Research and names
+
+Yaqui now has eight substantive inspected works, four supporting references, two unread/navigation leads and ten cited sections. Initial adequacy remains **Still unfinished**. Esther Padilla Calderón’s 2017 Culturales study contributes selected pages about river change, settlement, farming and hydraulic infrastructure in Sonora (printed 67–69, 75–80, 97–99). Edna Lucía García Rivera’s 2023 Alteridades article contributes its actual narrative and notes (printed 9–18), focused on two older women in Pótam. Interview accounts and the researcher’s interpretation are attributed; neither work establishes Texas migration, present water rights or a survey of all Yaqui people. Both publisher PDFs are public Spanish full texts with English abstracts; original works remain linked rather than republished. Bibliographies and cited archives do not become additional inspected works.
+
+The Alabama-Coushatta government and Texas Band of Yaqui Indians have separate queued access cards with brief primary name/relationship checks. They remain at zero substantive historical works, Not assessed adequacy and explicit image gaps. Alabama and Coushatta peoples are distinguished from their shared Texas government. The Texas Band publisher’s Yaqui Nation of Texas name is an alias, and a 2015 Senate resolution is only supporting name evidence; no federal-recognition, jurisdiction or migration determination is inferred. Existing broader reading collections remain linked.
+
+## Paired pictures
+
+The Tonkawa directory card and opened-page backdrop use Frank A. Rinehart’s 1898 portrait *Chief Grant Richards, Tonkawa*, Boston Public Library Print Department record09_06_000019/Rinehart1057. The primary BPL Flickr record explicitly links CC BY2.0. The available full-frame copy was inspected, proportionally resized/compressed, and displayed with disclosed CSS crops/overlays. This is an Omaha exposition-era portrait, not a Texas photo location, current government portrait or territorial boundary. Creator, archive, source and license remain in visible/expandable credits. Tonkawa research counts are unchanged. Coushatta basket and Lipan candidates remain deferred where image reuse terms were not cleared.
+
+Atakapa now uses Steve Hillebrand’s Sabine marsh photograph from USFWS (explicit item-level public domain), scoped to southwest Louisiana coastal environmental context. Karankawa uses Thomas DiGiovannangelo’s NPS Malaquite Beach photograph, with the NPS ownership policy and the specific northern Padre Island historical connection inspected. These are modern regional scenery, not photographs of people, present communities, historical reconstructions or boundaries. Both full available frames were inspected; web copies preserve proportional framing with disclosed CSS crops/overlays and credits.
+
+Atakapa also adds Margaret Swett Henson’s 1991 Houston Review mission/trade-history article, printed115–126, visually read in seven scan frames. One cited section distinguishes colonial plans from participation and keeps historical names within their period. This is secondary historical interpretation; underlying colonial records and present affiliations remain unresolved. Thirteen substantive works and six cited sections remain **Still unfinished**. The public English original is an image-only PDF, explicitly labeled as inaccessible to ordinary text extraction/search; the accessible cited synthesis provides orientation. No reuse license was established and no article/map is republished. A blocked original archival dossier remains an unread, uncounted private lead.
+
+## Reading and machine access
+
+Source cards now show recorded inspection status, scope (including legacy excerpt scopes), review/access dates and access notes. Shared URLs retain every profile occurrence’s original metadata in profileContexts; expandable notes separate different annotations, dates, access limits and counting decisions. Perspective filters use the union of recorded classifications rather than discarding a classification when one URL is shared. These navigation groups do not establish endorsement.
+
+The reading room exposes the source catalogue JSON, a data/field guide and JSON Schema, with catalogue-only Dataset discovery metadata. Stable URL-derived record keys identify catalogue records; the linked originals keep their own rights. Missing information is unknown. A review date may describe a selected excerpt, supporting record or identity check. Source quantity, initial adequacy, completeness and community review remain separate. Ten-source batches and 25-entry directory batches are preserved; loading ten more sources moves keyboard focus to the first newly revealed title. No new source-specific human permalinks or sitemap were implemented in this batch.
+
+## Verification and preservation
+
+Build and internal checks passed for480 entries,28,185 internal links and11,138 citation anchors. Directory-card/profile-image checks passed. Independent read-only contract audit passed558 preservation/access assertions, including all478 earlier entries with only the documented Yaqui, Atakapa and two parent-link changes, complete1,725 source contexts and1,601 distinct URLs. Direct JSON/schema contracts were checked; no external formal JSON Schema validator was installed or claimed.
+
+Modern-map and historical reciprocal/preservation checks passed:103 modern targets,577 scoped associations/575 pairs,79 populated regions and194 lakes;17 historical maps,6 previews and14 reciprocal profile routes across12 entries. All454 original access points,19 owner-study copies/downloads and365 contributed URL leads remain. There are480 access points, not480 distinct nations. No profile is research complete.
+
+Broad researched-card audit:51 qualifying entries,26 pictured,25 gaps. Opened-profile subset:39 targets,25 non-Apache pictured treatments plus the existing Apache layout,13 image gaps. All480 cards styled;27 pictured overall including Navajo outside the audit scope. Picture coverage is separate from research adequacy.
+
+Rendered checks are recorded in the publication receipt. The bounded research/visual queue continues under the owner’s saved cumulative funding and weekly safeguards; no map hunt or outreach occurred.

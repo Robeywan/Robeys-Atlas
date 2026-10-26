@@ -1,3 +1,15 @@
+# Current research and directory plan — October26,2026
+
+Prioritize Texas, then Idaho, Minnesota, the Blackfeet Tribe in Montana (distinct from the wider Blackfoot Confederacy), then Michigan. Strengthen substantive source evidence and paired card/profile imagery. Aim around twelve excellent works, with flexible documented adequacy after careful search; quantity does not establish completeness. Preserve original source text links, actual selected-page inspection limits, perspective and access notes. Public full texts, library/subscription works, inspected excerpts, supporting records and unread leads must be distinguished. No contact or restricted material.
+
+Individually verified communities, bands, governments and historical groups may receive queued access cards as research encounters them, with documented broader relationships and honest name/identity scope. Identity-only cards remain excluded from substantive counts and may retain an explicit image gap. Researched publications require accurately identified, rights-cleared and credited pictures. Do not substitute another community’s objects. Missing imagery and research remain separate gaps. No profile is researchComplete.
+
+Use accessible HTML, citation anchors and source/profile JSON with a field guide and documented review scope. Keep the modern map, compact historical room, source links, owner-study provenance and current visual identity intact. Historical-map hunting remains deferred; add only specifically supported maps naturally encountered during source research.
+
+Current batch adds two Yaqui scholarly works (eight substantive total, Still unfinished), a historical Tonkawa portrait, two identity-only Texas access cards, and clearer source access/inspection display and machine-readable context. See Directory-Research-Accessibility-2026-10-26.md. Later dated plan entries are authoritative over older queue notes.
+
+---
+
 # Research records
 
 ## Latest regional source supplement — Dakota, original 95 (October 23, 2026)

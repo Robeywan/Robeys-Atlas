@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0.0",
+  "title": "Robey’s Atlas source and profile data",
+  "description": "Human-annotated links, not full source texts. Missing information is unknown, not a negative finding.",
+  "sourceCatalogue": "sources.json",
+  "sourceSchema": "source-catalogue.schema.json",
+  "profiles": "profiles.json",
+  "researchProgress": "research-progress.json",
+  "ownerReadingLeads": "owner-reading-leads.json",
+  "counts": {
+    "directoryAccessPoints": 480,
+    "sourceUrls": 1601,
+    "profileSourceOccurrences": 1725
+  },
+  "identifiers": {
+    "sourceKey": "Deterministic SHA-256 digest prefix of the exact source URL; record identity, not a claim that editions/mirrors are different works.",
+    "profileSlug": "Directory access-point route, which may be an alias or broader label rather than a distinct nation."
+  },
+  "fieldGuide": {
+    "profileContexts": "Every profile-specific source occurrence: local citation anchor, annotation, review/access scope and counting flags. Shared URLs can have different inspection limits.",
+    "contentReviewedAt": "Date of the recorded review; scope may be a selected excerpt, metadata/identity check or supporting record. Read the scope and status.",
+    "accessed": "Recorded access date, not proof of content review or current availability.",
+    "accessNotes": "Reported access conditions and inspection limits. A failed automated request is not proof of a reader paywall.",
+    "countsTowardMinimum": "False excludes a supporting or identity record. Absence is a legacy quantity convention, not proof of adequacy or full-work inspection.",
+    "quantityRule": "Recorded substantive quantity uses contentReviewedAt and countsTowardMinimum !== false; completeness, initialAdequacy and community review are separate.",
+    "perspectives": "Navigation groups derived from the recorded source type; mixed types can appear in several groups. Original type/annotation remain authoritative for scope.",
+    "reuse": "Original works and images keep their individual terms. No blanket source-text/image permission is granted by this catalogue."
+  }
+}

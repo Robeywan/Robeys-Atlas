@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://indigenous-nations-reading-atlas.calmlamp34.chatgpt.site/data/source-catalogue.schema.json",
+  "title": "Atlas source catalogue version1",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "sourceKey",
+      "url",
+      "title",
+      "publisher",
+      "profileContexts",
+      "perspectives"
+    ],
+    "properties": {
+      "sourceKey": {
+        "type": "string",
+        "pattern": "^ref-[a-f0-9]{16}$"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "title": {
+        "type": "string"
+      },
+      "publisher": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string"
+      },
+      "perspectives": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "profileContexts": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "profileName",
+            "profileSlug",
+            "sourceId",
+            "profileAnchor"
+          ],
+          "properties": {
+            "profileName": {
+              "type": "string"
+            },
+            "profileSlug": {
+              "type": "string"
+            },
+            "sourceId": {
+              "type": "string"
+            },
+            "profileAnchor": {
+              "type": "string"
+            },
+            "contentReviewedAt": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "countsTowardMinimum": {
+              "type": "boolean"
+            },
+            "identificationOnly": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": true
+        }
+      }
+    },
+    "additionalProperties": true
+  }
+}

@@ -49,6 +49,22 @@
       "slug": "kickapoo-traditional-tribe-of-texas",
       "supportingIdentificationReferences": 1,
       "substantiveWorks": 0
+    },
+    {
+      "name": "Alabama-Coushatta Tribe of Texas",
+      "entryType": "tribal-government",
+      "researchStatus": "queued",
+      "slug": "alabamacoushatta-tribe-of-texas",
+      "supportingIdentificationReferences": 1,
+      "substantiveWorks": 0
+    },
+    {
+      "name": "Texas Band of Yaqui Indians",
+      "entryType": "contemporary-community",
+      "researchStatus": "queued",
+      "slug": "texas-band-of-yaqui-indians",
+      "supportingIdentificationReferences": 2,
+      "substantiveWorks": 0
     }
   ],
   "regionAssociations": [
@@ -161,6 +177,26 @@
       "evidenceNote": "The Tribe’s own identification places its community south of Eagle Pass in Maverick County, near the Rio Grande. This is a named community/government route, not a homeland boundary, exclusive occupancy claim or inference of presence throughout Texas. Full community-specific research remains queued.",
       "reviewDate": "2026-10-26",
       "identityOnly": true
+    },
+    {
+      "regionId": "US-TX",
+      "name": "Alabama-Coushatta Tribe of Texas",
+      "associationType": "Named Texas community/government — identification route",
+      "period": "Published identity context; inspected2026-10-26",
+      "sourceUrl": "https://www.alabama-coushatta.com/about-us/our-history/",
+      "evidenceNote": "The Tribe’s own page identifies its named government in East Texas. This is a community/government navigation route, not a homeland boundary or a claim to represent every Alabama/Coushatta community.",
+      "reviewDate": "2026-10-26",
+      "identityOnly": true
+    },
+    {
+      "regionId": "US-TX",
+      "name": "Texas Band of Yaqui Indians",
+      "associationType": "Named Texas community/government — identification route",
+      "period": "Published identity context; inspected2026-10-26",
+      "sourceUrl": "https://www.tbyi.gov/about-1-1",
+      "evidenceNote": "The publisher describes a Texas Yaqui community and the2015 Texas Senate resolution addresses its name. This supports a narrowly scoped reading route, not federal status, jurisdiction, independently verified migration history or territorial boundaries.",
+      "reviewDate": "2026-10-26",
+      "identityOnly": true
     }
   ],
   "identitySources": [
@@ -196,6 +232,39 @@
       "evidence": "The government’s own name, broader Kickapoo connection and Maverick County location. No current enrollment total or historical chronology adopted.",
       "countsTowardMinimum": false,
       "countReason": "Identification-only supporting reference; full history and adequacy remain queued."
+    },
+    {
+      "id": "alabama-coushatta-tx-identity",
+      "title": "Our History — government and people identification",
+      "url": "https://www.alabama-coushatta.com/about-us/our-history/",
+      "publisher": "Alabama-Coushatta Tribe of Texas",
+      "reviewedAt": "2026-10-26",
+      "inspectionScope": "Selected present-government identification at web line20 and separate Alabama/Coushatta peoples statement at24; wider historical claims, current officeholders, enrollment and acreage were not used for this queue card.",
+      "evidence": "The Tribe’s own page identifies its named government in East Texas and the Alabama and Coushatta peoples. Supporting identity only; broader community histories remain distinct.",
+      "countsTowardMinimum": false,
+      "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
+    },
+    {
+      "id": "texas-yaqui-self-identification",
+      "title": "Who we are — community name and alternate-name identification",
+      "url": "https://www.tbyi.gov/about-1-1",
+      "publisher": "Texas Band of Yaqui Indians",
+      "reviewedAt": "2026-10-26",
+      "inspectionScope": "Selected name/relationship statements at web lines21–35, reinspected2026-10-26. Government-recognition, jurisdiction, descent and migration claims are not independently established by this identity check.",
+      "evidence": "The publisher uses Texas Band of Yaqui Indians and Yaqui Nation of Texas for the same community. Self-description is attributed, and no federal or state legal-status determination is made.",
+      "countsTowardMinimum": false,
+      "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
+    },
+    {
+      "id": "texas-sr989-name",
+      "title": "Senate Resolution989 — enrolled naming record",
+      "url": "https://capitol.texas.gov/tlodocs/84R/billtext/html/SR00989F.htm",
+      "publisher": "Texas Senate",
+      "reviewedAt": "2026-10-26",
+      "inspectionScope": "Enrolled text and May27,2015 adoption record read. Used only to verify the named community is addressed by the Senate; historical recitals and legal effects are not independently corroborated.",
+      "evidence": "A2015 resolution honors the named Texas Band. This is supporting name evidence, not federal recognition or proof of the recited migration history.",
+      "countsTowardMinimum": false,
+      "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
     }
   ]
 }

@@ -5268,6 +5268,9 @@
         "linkNote": "Indexed opening only; repository challenge/direct-PDF failure. Full-work content review is pending; not counted as a substantive inspected work."
       }
     ],
+    "relatedProfileSlugs": [
+      "alabamacoushatta-tribe-of-texas"
+    ],
     "added": false,
     "slug": "alabama",
     "regionGroups": [
@@ -5290,6 +5293,93 @@
         "name": "Oklahoma",
         "key": "us-ok"
       },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ]
+  },
+  {
+    "name": "Alabama-Coushatta Tribe of Texas",
+    "originalId": null,
+    "added": true,
+    "kind": "Tribal government / contemporary community",
+    "directoryEntryType": "tribal-government",
+    "researchStatus": "queued",
+    "coverageLevel": "queued-entry",
+    "directoryQueueStatus": "Identity checked; full research queued",
+    "compiled": "2026-10-26",
+    "reviewedAt": null,
+    "identityReviewedAt": "2026-10-26",
+    "overview": "The Alabama-Coushatta Tribe of Texas has its own named government and community route in the directory. The broader Alabama and Coushatta entries also concern other communities and historical contexts.",
+    "overviewSourceIds": [
+      "alabama-coushatta-tx-identity"
+    ],
+    "relationshipNote": "This Texas government brings together Alabama and Coushatta people. It does not represent every Alabama or Coushatta/Koasati community; the two broader reading entries remain separate.",
+    "region": "Texas",
+    "sections": [
+      {
+        "title": "Research queued",
+        "text": "This card preserves an individually documented name and its related reading routes. Fuller community-specific history, source review and individually relevant imagery remain queued. Use the related entries for existing evidence and its recorded limits.",
+        "sourceIds": [
+          "alabama-coushatta-tx-identity"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "alabama-coushatta-tx-identity",
+        "title": "Our History — government and people identification",
+        "publisher": "Alabama-Coushatta Tribe of Texas",
+        "url": "https://www.alabama-coushatta.com/about-us/our-history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Names",
+          "Texas"
+        ],
+        "annotation": "The Tribe’s own page identifies its named government in East Texas and the Alabama and Coushatta peoples. Supporting identity only; broader community histories remain distinct.",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Selected present-government identification at web line20 and separate Alabama/Coushatta peoples statement at24; wider historical claims, current officeholders, enrollment and acreage were not used for this queue card.",
+        "accessed": "2026-10-26",
+        "identificationOnly": true,
+        "countsTowardMinimum": false,
+        "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
+      }
+    ],
+    "relatedOriginalIds": [
+      9,
+      89
+    ],
+    "relatedProfileSlugs": [],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only queued entry; no standalone substantive history assessment completed.",
+      "remainingLimits": [
+        "Full history/source review and specifically relevant imagery remain queued."
+      ]
+    },
+    "researchGaps": [
+      "Develop individually scoped historical/community evidence before expanding the account.",
+      "Verify a relevant authentic reusable picture before substantive standalone publication."
+    ],
+    "searchTerms": [
+      "Alabama-Coushatta",
+      "Alabama",
+      "Coushatta",
+      "Koasati"
+    ],
+    "evidenceNotes": [
+      "Supporting identification does not establish complete history, legal status, territorial boundaries or community endorsement."
+    ],
+    "compiledAt": "2026-10-26",
+    "slug": "alabamacoushatta-tribe-of-texas",
+    "regionGroups": [],
+    "mapRegions": [
       {
         "id": "US-TX",
         "name": "Texas",
@@ -10013,6 +10103,13 @@
           "p21-s10",
           "p21-s18"
         ]
+      },
+      {
+        "title": "Trade and conditional participation around a mission",
+        "text": "Margaret Swett Henson places El Orcoquisac within competing French and Spanish efforts to control trade in southeastern Texas. Her account distinguishes colonial plans for a mission and presidio from local people’s participation: offers of supplies, disagreements and conditions on settlement shaped their encounters. Read its names, including Orcoquisa and Attakapa, in that eighteenth-century setting. The article is a historian’s reconstruction through earlier documentary scholarship, not a first-person Indigenous account or proof of present affiliations. Its underlying colonial manuscripts still need direct review.",
+        "sourceIds": [
+          "p21-s19"
+        ]
       }
     ],
     "sources": [
@@ -10365,13 +10462,38 @@
         "contentReviewedAt": "2026-10-23",
         "contentReviewScope": "Read the complete visible article, including author/interviewee identification, project context and interview through the final learning-resources question. The interviewee’s statements about ancient continuity, mound dimensions and functions, and historical movement are retained only as her attributed account, not independently checked. Potentially sensitive ceremonial-location details are not repeated. The accompanying map image and its underlying geographic evidence were not separately inspected or reused.",
         "countsTowardMinimum": true
+      },
+      {
+        "id": "p21-s19",
+        "title": "\"El Orcoquisac\" 1756–1771: The Mission Nuestra Señora de la Luz del Orcoquisac, the Presidio San Agustín de Ahumada, and the Rivalry between the Spanish and the French for the Indian Trade in Southeastern Texas",
+        "url": "https://houstonhistorymagazine.org/wp-content/uploads/2014/02/13.3-El-Orcoquisac-1756-1771-The-Mission-Nuestra-Senora-de-la-Luz-del-Orcoquisac-Margaret-Scott-Henson.pdf",
+        "publisher": "The Houston Review; public archive at Houston History, University of Houston",
+        "author": "Margaret Swett Henson",
+        "type": "Academic / regional colonial history",
+        "topics": [
+          "Southeast Texas",
+          "Mission history",
+          "Colonial trade",
+          "Historical labels",
+          "Source perspective"
+        ],
+        "publicationDate": "1991",
+        "citation": "Henson, Margaret Swett. 1991. The Houston Review 13(3): 115–126.",
+        "annotation": "A historian’s account of a Spanish mission and presidio amid French–Spanish trading rivalry. It helps contextualize named Orcoquisa, Bedais and Attakapa actors, but relies heavily on older documentary scholarship. Its historical labels and interpretations do not establish present community identity, descent or consent to colonial rule.",
+        "accessed": "2026-10-26",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Complete article body and footnotes, printed pp. 115–126, read visually in all seven PDF scan frames. The preceding map page 114 was encountered but not evaluated for evidence, rights or reuse. Original colonial manuscripts and works cited in the footnotes were not independently inspected.",
+        "countsTowardMinimum": true,
+        "countReason": "One new substantive regional historical study actually read, addressing the mission-history gap; not another count for its bibliography or source documents.",
+        "accessNotes": "Public English PDF, no account/paywall encountered. Image-only scan: pypdf returned no extractable article text, so all narrative pages were rendered and read visually. This limits screen-reader/text-search access; use the Atlas’s cited plain-language synthesis and existing readable Handbook route as orientation. No reuse license established; link-only. No map, site coordinates, cemetery detail or archaeological material reproduced.",
+        "accessStatus": "Public image-only PDF; not searchable text"
       }
     ],
     "relationshipNote": "Atakapa is a historical outside label; Ishak is a self-designation. The people and their associated historical groups are broader than any single present-day Ishak organization. A Louisiana Attakapas Eagle Band page is included as its own contemporary self-description, alongside an official state roster. The Band’s webpage states an affiliation using the name “Four Winds Tribe Louisiana Cherokee Confederation” and asserts state recognition for its Calcasieu/Eagle band; the Governor’s roster uses “Four Winds Cherokee” and does not list “Louisiana Attakapas Eagle Band” separately. These records do not resolve whether the names refer to the same listed body, so no equivalence or separate recognition determination is inferred.",
     "relatedOriginalIds": [],
     "researchStatus": "researched",
     "coverageLevel": "developed-profile",
-    "reviewedAt": "2026-10-23",
+    "reviewedAt": "2026-10-26",
     "researchGaps": [
       "The colonial and early ethnographic record needs closer review in French, Spanish and original archival materials; broad labels such as Atakapa, Akokisa and Deadose are not always used consistently.",
       "The language guide relies on historical documentation alongside a collaborative online resource. The full Kimball grammar was not accessed, and present learning activity or outcomes should not be inferred from resource availability.",
@@ -10382,8 +10504,8 @@
     ],
     "initialAdequacy": {
       "status": "Still unfinished",
-      "reviewedAt": "2026-10-23",
-      "rationale": "Twelve substantive resources have now been inspected, including two distinct first-party Nation pages, a collaborative language resource, historical linguistic material and a bounded specialist-grammar excerpt, the Handbook of Texas synthesis, a detailed public-history essay, first-person work by a Nation member, a community-informed reported interview with an Akokisa elder, and a reported Grand Bayou account. Six short or unread supporting records remain excluded. The new Texas Observer interview adds a perspective from one named Akokisa community member and supports careful discussion of names and local history, but its archaeological and ancient-continuity statements remain attributed recollections; it does not settle relationships among historical groups or represent all contemporary communities. Direct colonial archival, archaeological and broader community-source gaps remain. This is a useful multi-perspective educational starting guide, not a complete history or community review.",
+      "reviewedAt": "2026-10-26",
+      "rationale": "One newly read regional mission-history study adds useful Texas context to the twelve-work guide, bringing the substantive count to thirteen. It does not resolve inconsistent historical names or replace direct colonial-record, archaeological and broader community review. The additional archival dossier located in this pass remains unread and uncounted.",
       "remainingLimits": [
         "Original Spanish/French records, mission files, specialist archaeology and the Smithsonian’s Swanton/Morse manuscript cards remain unread.",
         "Current community perspectives are meaningful but not comprehensive across all groups connected to the historical label.",
@@ -10399,6 +10521,10 @@
       "A 2013 Louisiana Folklife overview and an Inter-Tribal Council booklet were examined as leads but not adopted as substantive evidence: they are brief and/or repeat older group and disappearance narratives without enough transparent support for current educational synthesis. A legacy Atakapa-Ishak site result contained unrelated pharmacy spam and is excluded as compromised.",
       "No historical map is added in this batch: no map-to-community connection and reuse terms were independently reviewed.",
       "The Texas Observer interview adds one Akokisa elder’s account, but claims about ancient continuity and mound form/function were not independently checked against archaeological publications; the accompanying map was not reviewed for reuse or connection evidence."
+    ],
+    "researchComplete": false,
+    "evidenceNotes": [
+      "October26,2026: Henson1991 scanned article printed115–126 visually read; adds one secondary mission-history work, not direct colonial-manuscript review. Image-only reader-access limit recorded. Historical names do not establish modern identity. No additional maps or archival leads counted."
     ],
     "added": false,
     "slug": "atakapa",
@@ -19031,6 +19157,9 @@
     "relationshipNote": "Some sources use “Koasati” for the language associated with Coushatta communities; here, “Coushatta” names the people/community collection and “Koasati” primarily names the language. Neither label is a synonym for Alabama. The Coushatta Tribe of Louisiana, Alabama-Coushatta Tribe of Texas and Alabama-Quassarte Tribal Town in Oklahoma are distinct governments and communities. Their connections do not make every family’s route, language use or political history identical. A joint Texas government is not evidence that Alabama and Coushatta were originally one people. The 1987 federal act and the Texas Tribe’s constitution describe one joint legal/governmental status for the Alabama-Coushatta Tribe of Texas while also recognizing that Alabama and Coushatta were formerly distinct peoples; this legal arrangement does not make the three present governments interchangeable.",
     "overviewSourceIds": [
       "p89-s1"
+    ],
+    "relatedProfileSlugs": [
+      "alabamacoushatta-tribe-of-texas"
     ],
     "added": false,
     "slug": "coushatta",
@@ -48796,6 +48925,116 @@
     ]
   },
   {
+    "name": "Texas Band of Yaqui Indians",
+    "originalId": null,
+    "added": true,
+    "kind": "Contemporary community / band-name route",
+    "directoryEntryType": "contemporary-community",
+    "researchStatus": "queued",
+    "coverageLevel": "queued-entry",
+    "directoryQueueStatus": "Identity checked; full research queued",
+    "compiled": "2026-10-26",
+    "reviewedAt": null,
+    "identityReviewedAt": "2026-10-26",
+    "overview": "The Texas Band of Yaqui Indians, whose publisher also uses Yaqui Nation of Texas, now has an individual Texas community reading route. Its fuller historical and institutional assessment remains queued.",
+    "overviewSourceIds": [
+      "texas-yaqui-self-identification",
+      "texas-sr989-name"
+    ],
+    "relationshipNote": "The publisher describes this community within the broader Yaqui/Yoeme context. Yaqui Nation of Texas is an alternate name for this same publisher/community, not another distinct people here. This route is separate from the Pascua Yaqui Tribe in Arizona. The2015 Senate resolution is used as name evidence; federal status, jurisdiction and the specific migration/descent account are not established by this queued entry.",
+    "region": "Texas",
+    "sections": [
+      {
+        "title": "Research queued",
+        "text": "This card preserves an individually documented name and its related reading routes. Fuller community-specific history, source review and individually relevant imagery remain queued. Use the related entries for existing evidence and its recorded limits.",
+        "sourceIds": [
+          "texas-yaqui-self-identification",
+          "texas-sr989-name"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "texas-yaqui-self-identification",
+        "title": "Who we are — community name and alternate-name identification",
+        "publisher": "Texas Band of Yaqui Indians",
+        "url": "https://www.tbyi.gov/about-1-1",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Names",
+          "Texas"
+        ],
+        "annotation": "The publisher uses Texas Band of Yaqui Indians and Yaqui Nation of Texas for the same community. Self-description is attributed, and no federal or state legal-status determination is made.",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Selected name/relationship statements at web lines21–35, reinspected2026-10-26. Government-recognition, jurisdiction, descent and migration claims are not independently established by this identity check.",
+        "accessed": "2026-10-26",
+        "identificationOnly": true,
+        "countsTowardMinimum": false,
+        "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
+      },
+      {
+        "id": "texas-sr989-name",
+        "title": "Senate Resolution989 — enrolled naming record",
+        "publisher": "Texas Senate",
+        "url": "https://capitol.texas.gov/tlodocs/84R/billtext/html/SR00989F.htm",
+        "type": "Government",
+        "topics": [
+          "Identity",
+          "Names",
+          "Texas"
+        ],
+        "annotation": "A2015 resolution honors the named Texas Band. This is supporting name evidence, not federal recognition or proof of the recited migration history.",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Enrolled text and May27,2015 adoption record read. Used only to verify the named community is addressed by the Senate; historical recitals and legal effects are not independently corroborated.",
+        "accessed": "2026-10-26",
+        "identificationOnly": true,
+        "countsTowardMinimum": false,
+        "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
+      }
+    ],
+    "relatedOriginalIds": [
+      441,
+      281
+    ],
+    "relatedProfileSlugs": [],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only queued entry; no standalone substantive history assessment completed.",
+      "remainingLimits": [
+        "Full history/source review and specifically relevant imagery remain queued."
+      ]
+    },
+    "researchGaps": [
+      "Develop individually scoped historical/community evidence before expanding the account.",
+      "Verify a relevant authentic reusable picture before substantive standalone publication."
+    ],
+    "searchTerms": [
+      "Yaqui Nation of Texas",
+      "Texas Yaqui",
+      "TBYI",
+      "Yoeme",
+      "Yaqui"
+    ],
+    "evidenceNotes": [
+      "Supporting identification does not establish complete history, legal status, territorial boundaries or community endorsement."
+    ],
+    "sharedReadingProfileSlug": "yaqui",
+    "compiledAt": "2026-10-26",
+    "slug": "texas-band-of-yaqui-indians",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ]
+  },
+  {
     "originalId": 382,
     "name": "Texistepequeño",
     "region": "Mexico / Veracruz",
@@ -55632,11 +55871,27 @@
       },
       {
         "title": "Scope and the next reading steps",
-        "text": "This is a foundational source guide, not an adequate wider Yaqui history. Continue with Sonora community-authored history, documented migration records, language scholarship and independent context for disputed Texas claims. The museum sheet provides a brief geographic orientation. The retained INPI ethnography route could not be read directly and does not count as an inspected work. Cultural material should be followed through its community publisher and stated scope.",
+        "text": "This is a foundational source guide, not an adequate wider Yaqui history. The selected river-history and Pótam oral-history works add Sonora perspectives but do not settle the Texas migration account. Continue with community-directed history, documented migration records and language scholarship. The museum sheet is brief orientation; the retained INPI route remains unread. Follow cultural materials through the relevant community publisher and stated scope.",
         "sourceIds": [
           "p441-s4",
           "p441-s7",
-          "p441-s12"
+          "p441-s12",
+          "p441-s13",
+          "p441-s14"
+        ]
+      },
+      {
+        "title": "A river landscape that changed over time",
+        "text": "Historian Esther Padilla Calderón explains how the Yaqui River’s floods supported cultivation while sometimes damaging or relocating settlements. Her selected historical account describes a major channel change in 1833 and later attempts to control the river through irrigation works and dams. This helps readers see the Sonora homeland as a changing lived landscape. Her explanation combines archival material with earlier scholarship; the underlying archival files were not inspected for this guide. It does not establish present water allocations or Texas settlement history.",
+        "sourceIds": [
+          "p441-s13"
+        ]
+      },
+      {
+        "title": "Listening to women’s memories in Pótam",
+        "text": "Edna Lucía García Rivera’s 2023 study follows the memories of two older women living in Pótam. They recall ancestors’ displacement, survival and return, and connect those memories with responsibilities to family and community. García Rivera interprets their accounts through oral history and postcolonial feminist scholarship. These are named individual perspectives shaped by remembrance and the research encounter. They enrich the history without standing for every Yaqui woman or independently confirming each event recalled.",
+        "sourceIds": [
+          "p441-s14"
         ]
       }
     ],
@@ -55865,6 +56120,78 @@
         "countsTowardMinimum": true,
         "publicationDate": "2016",
         "accessNotes": "Public PDF supplied through the Tribal Library. Copyright statements retained; no image/text reproduction or reuse license claimed. Hosting is not blanket endorsement of every passage."
+      },
+      {
+        "id": "p441-s13",
+        "title": "Los yaquis y las crecientes del río. Una historia del control hidráulico del río Yaqui — selected pages",
+        "url": "https://culturales.uabc.mx/index.php/Culturales/article/view/527",
+        "publisher": "Esther Padilla Calderón; Culturales, Universidad Autónoma de Baja California",
+        "author": "Esther Padilla Calderón",
+        "type": "Academic / environmental history",
+        "topics": [
+          "Sonora",
+          "River history",
+          "Agriculture",
+          "Source perspective"
+        ],
+        "publicationDate": "2017-09-29",
+        "citation": "Padilla Calderón, Esther. 2017. Culturales 5(2): 67–106.",
+        "annotation": "A historian’s analysis of changing relationships among river floods, cultivation and hydraulic infrastructure. The selected pages connect Yaqui settlement and farming with river change; this is a Sonora historical study, not Texas migration evidence. Its arguments and cited archival documents should be distinguished from directly inspected primary records.",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Publisher record plus actual publisher PDF: printed pp. 67–69, 75–80 and 97–99 (PDF pages 1–3, 9–14 and 31–33 of 40). Title page visually inspected. Remaining narrative and bibliography were not content-reviewed; figure captions in selected text were read, but maps/figures were not visually evaluated or reused.",
+        "accessed": "2026-10-26",
+        "countsTowardMinimum": true,
+        "countReason": "Substantive selected narrative inspected in the actual publication; one work, not separate counts for record, PDF and mirrors.",
+        "inspectedSubresources": [
+          {
+            "url": "https://culturales.uabc.mx/index.php/Culturales/article/download/527/331/1794",
+            "title": "Publisher full-text PDF",
+            "scope": "Selected printed pages 67–69, 75–80 and 97–99; complete available PDF downloaded for private reading, not fully reviewed."
+          }
+        ],
+        "accessNotes": "Public Spanish full text, with English abstract; no account or paywall encountered. Web-tool PDF retrieval failed, but the publisher PDF downloaded normally with PowerShell; the PDF text and title frame were inspected. Publisher states CC BY 4.0 and PDF title page bears CC BY; link-only use proposed. Historical generalizations are attributed; present water rights, allocation and conditions were not established.",
+        "language": "es",
+        "abstractLanguages": [
+          "es",
+          "en"
+        ]
+      },
+      {
+        "id": "p441-s14",
+        "title": "La recuperación de la memoria de la mujer yaqui: una mirada a la solidaridad, colectividad y agencia",
+        "url": "https://alteridades.izt.uam.mx/index.php/Alte/article/view/1315",
+        "publisher": "Edna Lucía García Rivera; Alteridades, Universidad Autónoma Metropolitana",
+        "author": "Edna Lucía García Rivera",
+        "type": "Academic / oral-history research",
+        "topics": [
+          "Sonora",
+          "Pótam",
+          "Oral history",
+          "Women",
+          "Community memory"
+        ],
+        "publicationDate": "2023-04-11",
+        "doi": "10.24275/uam/izt/dcsh/alteridades/2023v33n65/Garcia",
+        "citation": "García Rivera, Edna Lucía. 2023. “La recuperación de la memoria de la mujer yaqui: una mirada a la solidaridad, colectividad y agencia.” Alteridades 33(65): 9–19. https://doi.org/10.24275/uam/izt/dcsh/alteridades/2023v33n65/Garcia",
+        "annotation": "An oral-history study centered on two older women living in Pótam, Sonora. Their family memories and the author’s analysis address displacement, return and community responsibility. It supplies attributed individual perspectives and an explicit method, not a representative survey of all Yaqui women or independent verification of every remembered event.",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Actual publisher PDF narrative and notes, printed pp. 9–18 (PDF pages 1–10 of 11), including introduction/method, historical context, both interview cases and final considerations. Bibliography on pp. 18–19 inspected as references only; cited books/articles not separately reviewed. Title page visually inspected.",
+        "accessed": "2026-10-26",
+        "countsTowardMinimum": true,
+        "countReason": "Substantive published oral-history narrative actually inspected; interviewees’ accounts and scholarly interpretation remain attributed.",
+        "inspectedSubresources": [
+          {
+            "url": "https://alteridades.izt.uam.mx/index.php/Alte/article/download/1315/1429/4073",
+            "title": "Publisher full-text PDF",
+            "scope": "Narrative and notes on printed pp. 9–18; references are leads rather than additional checked works."
+          }
+        ],
+        "accessNotes": "Public Spanish full text with English abstract; no account/paywall encountered. The researcher identifies herself as non-Indigenous and describes a Yaqui intermediary and family participation. No interview transcript, audio, private records, restricted cultural material or documentary photographs reproduced; original publication remains linked.",
+        "language": "es",
+        "abstractLanguages": [
+          "es",
+          "en"
+        ]
       }
     ],
     "relatedOriginalIds": [
@@ -55878,7 +56205,7 @@
     ],
     "relationshipNote": "This is a broad people-level reading route. The Texas Band of Yaqui Indians, Pascua Yaqui Tribe and Sonora communities are not treated as one government. A source about one community does not establish another community’s affiliation, legal status or territorial boundaries.",
     "coverageLevel": "reviewed-source-guide",
-    "reviewedAt": "2026-10-25",
+    "reviewedAt": "2026-10-26",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "researchGaps": [
@@ -55888,26 +56215,29 @@
       "The 1936 book and 2016 dictionary were inspected only in the selected front matter/introduction, not in full.",
       "Program descriptions establish stated activities/aims, not outcomes, speaker counts or universal practice.",
       "The INPI original page remained unavailable to direct retrieval; indexed search text was not counted.",
-      "Authentic profile photography is still pending; neutral decorative treatment is not ethnographic art.",
-      "No community review or endorsement is recorded."
+      "No community review or endorsement is recorded.",
+      "The new 2017 river-history work was read only in selected pages, and its underlying archival files were not inspected.",
+      "The 2023 Pótam study offers two women’s memories and a scholar’s interpretation, not a representative survey or independent verification of every recalled event.",
+      "The existing Sonora river photograph provides landscape context; a specifically relevant Texas Band picture remains a separate gap."
     ],
     "initialAdequacy": {
       "status": "Still unfinished",
-      "reviewedAt": "2026-10-25",
-      "rationale": "Six substantive inspected works now support a foundational guide: one Texas Band institutional account, selected 1936 research introduction, 1978 Arizona statute, two distinct Pascua Yaqui educational accounts, and a selected 2016 dictionary foreword. Four inspected supporting references and two unread/navigation leads are excluded. This bounded search adds relevant foundations but has not established balanced Texas/Sonora historical coverage or exhausted stronger-source searches. A count of six does not establish adequacy or completion.",
+      "reviewedAt": "2026-10-26",
+      "rationale": "Two newly inspected scholarly works broaden the six-work foundation with selected Sonora environmental history and attributed Pótam oral-history research. Eight substantive works do not yet provide balanced Texas migration history or comprehensive Sonora coverage. Existing supporting references and unread leads remain excluded; selected excerpt review is explicit.",
       "remainingLimits": [
-        "Substantive Texas migration history still rests mainly on one institutional account; primary records and distinct community perspectives remain needed.",
-        "No comprehensive Sonora community-history, land/water-history or language review has been completed.",
-        "The 2015 resolution’s broader legal effects, the older About page’s reservation/treaty assertion and related certificates remain unassessed; no federal-status equivalence is inferred.",
-        "The 1936 book and 2016 dictionary were inspected only in the selected front matter/introduction, not in full.",
-        "Program descriptions establish stated activities/aims, not outcomes, speaker counts or universal practice.",
-        "The INPI original page remained unavailable to direct retrieval; indexed search text was not counted.",
-        "Authentic profile photography is still pending; neutral decorative treatment is not ethnographic art.",
+        "Independent Texas migration records and fuller Sonora community-directed historical publications remain needed; the new scholarly works do not corroborate the Texas Band’s specific Presidio/Fort Davis narrative.",
+        "The 2017 environmental-history article was inspected only in the selected pages; its underlying archives were not inspected. Current land and water questions remain outside this bounded review.",
+        "The 2023 oral-history study concerns two women in Pótam and the researcher’s interpretations. It is not a survey or community endorsement.",
+        "The earlier 1936 book and 2016 dictionary remain selected-excerpt reviews; existing legal-status uncertainties and the unavailable INPI route remain open.",
         "No community review or endorsement is recorded."
       ]
     },
     "evidenceNotes": [
-      "2026-10-25: integrated the saved Texas Yaqui review after reinspection and added public educational sources. Existing three source URLs and all prior directory/map routes retained. The two Texas Band routes count once; SR 989 and the museum/cultural orientations are supporting. The 1978 act is read as a dated enactment. Selected 1936 and 2016 excerpt scopes are explicit. Six works count; four supporting content checks and two unread/navigation leads do not. No map or documentary image added."
+      "2026-10-25: integrated the saved Texas Yaqui review after reinspection and added public educational sources. Existing three source URLs and all prior directory/map routes retained. The two Texas Band routes count once; SR 989 and the museum/cultural orientations are supporting. The 1978 act is read as a dated enactment. Selected 1936 and 2016 excerpt scopes are explicit. Six works count; four supporting content checks and two unread/navigation leads do not. No map or documentary image added.",
+      "2026-10-26: added two actually inspected scholarly works for selected Sonora river history and attributed oral-history research. Eight substantive works now count, while supporting references/unread leads remain excluded and adequacy remains Still unfinished. Texas migration claims were not independently corroborated. The existing credited Sonora river image is preserved; the stale claim that no photo existed was corrected. A new Texas Band identity-only route is separate from the Pascua Yaqui Tribe and does not imply a legal-status finding."
+    ],
+    "relatedProfileSlugs": [
+      "texas-band-of-yaqui-indians"
     ],
     "added": false,
     "slug": "yaqui",
