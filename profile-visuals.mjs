@@ -9,6 +9,7 @@ const readJSON = (filename, fallback) => fs.existsSync(filename)
 const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g,
   c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const isHTTP = value => /^https?:\/\//.test(String(value || ''));
+const imageWord = record => record.images.some(image => image.mediaType && image.mediaType !== 'photograph') ? 'images' : 'photographs';
 const inspected = p => (p.sources || []).filter(s => s.contentReviewedAt);
 const researchDigest = p => createHash('sha256').update(JSON.stringify({
   overview:p.overview, sections:p.sections, sources:inspected(p)
@@ -106,7 +107,7 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
       images:selectedImages, eligibilityBasis,
       imageCoverage:{
         status:apache ? 'Existing Apache collage retained'
-          : selectedImages.length ? 'Verified photographs with scoped credits' : 'Decorative treatment; authentic imagery pending',
+          : selectedImages.length ? (selectedImages.some(image => image.mediaType && image.mediaType !== 'photograph') ? 'Verified images with scoped credits' : 'Verified photographs with scoped credits') : 'Decorative treatment; authentic imagery pending',
         available:available.length, used:selectedImages.length
       },
       style, preserveExistingApache:apache,
@@ -139,8 +140,9 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
     const record = bySlug.get(p.slug);
     if (!record || record.preserveExistingApache) return '';
     const composition = /^[a-z-]+$/.test(record.composition) ? record.composition : 'arc';
+    const noun = imageWord(record), label = noun === 'images' ? 'Images' : 'Photographs';
     if (record.images.length) {
-      return `<div class="profile-visual-banner has-photographs composition-${composition}" aria-label="${e(p.name)} photographs"><div class="profile-visual-photographs photo-count-${record.images.length}">${record.images.map(image => `<figure><img src="${e(assetURL(base, image.asset))}" alt="${e(image.alt)}" loading="lazy" decoding="async"><figcaption>${e(image.title)}<span>${e(image.credit)}</span></figcaption></figure>`).join('')}</div><a class="profile-visual-credit-link" href="#profile-image-credits">Photographs &amp; credits ↓</a></div>`;
+      return `<div class="profile-visual-banner has-photographs composition-${composition}" aria-label="${e(p.name)} ${noun}"><div class="profile-visual-photographs photo-count-${record.images.length}">${record.images.map(image => `<figure><img src="${e(assetURL(base, image.asset))}" alt="${e(image.alt)}" loading="lazy" decoding="async"><figcaption>${e(image.title)}<span>${e(image.credit)}</span></figcaption></figure>`).join('')}</div><a class="profile-visual-credit-link" href="#profile-image-credits">${label} &amp; credits ↓</a></div>`;
     }
     const initial = [...p.name][0] || '';
     return `<div class="profile-visual-banner is-decorative composition-${composition}"><div class="profile-visual-intro"><span class="eyebrow">A space for discovery</span><p>${e(p.name)}</p><a class="profile-visual-credit-link" href="#profile-image-credits">About this backdrop ↓</a></div><div class="profile-visual-composition" aria-hidden="true"><span>${e(initial)}</span><i></i><b></b></div></div>`;
@@ -149,10 +151,11 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
   function credits(p, base='../../', e=escapeHTML) {
     const record = bySlug.get(p.slug);
     if (!record || record.preserveExistingApache) return '';
+    const noun = imageWord(record), singular = noun === 'images' ? 'image' : 'photograph';
     const content = record.images.length
-      ? `<p>These photographs have individual, documented connections to this entry. Their captions and source records define the people, place, object, and period shown; no one photograph represents every community within a broader label.</p>${record.images.map(image => `<div class="profile-visual-credit-record"><p><strong>${e(image.title)}</strong><br>${e(image.credit)}</p><p><a href="${e(image.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source &amp; image record ↗</a> · <a href="${e(image.rightsUrl)}" target="_blank" rel="noopener noreferrer">${e(image.rightsLabel)}</a></p><p>${e(image.scope)}</p>${image.contextSources.length?`<p class="profile-visual-context"><strong>Context and identification sources</strong></p><ul>${image.contextSources.map(source=>`<li><a href="${e(source.url)}" target="_blank" rel="noopener noreferrer">${e(source.title)} ↗</a></li>`).join('')}</ul>`:''}<p class="profile-visual-review">Image, association, and reuse record reviewed ${e(image.reviewedAt)}.</p></div>`).join('')}<p>Full photographs are displayed proportionally above. A translucent background copy may be cropped by the viewport; it does not replace the complete image or its record.</p>`
+      ? `<p>These ${noun} have individual, documented connections to this entry. Their captions and source records define the people, place, object, and period shown; no one ${singular} represents every community within a broader label.</p>${record.images.map(image => `<div class="profile-visual-credit-record"><p><strong>${e(image.title)}</strong><br>${e(image.credit)}</p><p><a href="${e(image.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source &amp; image record ↗</a> · <a href="${e(image.rightsUrl)}" target="_blank" rel="noopener noreferrer">${e(image.rightsLabel)}</a></p><p>${e(image.scope)}</p>${image.contextSources.length?`<p class="profile-visual-context"><strong>Context and identification sources</strong></p><ul>${image.contextSources.map(source=>`<li><a href="${e(source.url)}" target="_blank" rel="noopener noreferrer">${e(source.title)} ↗</a></li>`).join('')}</ul>`:''}<p class="profile-visual-review">Image, association, and reuse record reviewed ${e(image.reviewedAt)}.</p></div>`).join('')}<p>Full ${noun} are displayed proportionally above. A translucent background copy may be cropped by the viewport; it does not replace the complete image or its record.</p>`
       : '<p>This page uses a neutral abstract backdrop coordinated with its directory card. It is interface decoration, not an attributed traditional design or historical reconstruction. Nation-specific photographs are not yet included; they will be added when their identity, relevance, and reuse terms are verified.</p>';
-    return `<details class="profile-image-credits" id="profile-image-credits"><summary>${record.images.length ? 'Backdrop photographs &amp; credits' : 'Backdrop design &amp; future photographs'}</summary>${content}<p>The visual treatment does not change the research status, evidence, or remaining gaps recorded in this profile.</p></details>`;
+    return `<details class="profile-image-credits" id="profile-image-credits"><summary>${record.images.length ? `Backdrop ${noun} &amp; credits` : 'Backdrop design &amp; future photographs'}</summary>${content}<p>The visual treatment does not change the research status, evidence, or remaining gaps recorded in this profile.</p></details>`;
   }
   return {catalogue, bySlug, byName, banner, credits};
 }
