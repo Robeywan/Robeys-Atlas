@@ -40,9 +40,9 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
  const baseline=execFileSync('git',['show','630330214d9a85c2b9802c971f335d2cf9cb21ac:'+file],{maxBuffer:50e6});
  const priorData=JSON.parse(baseline),currentData=read(file);
  if(file==='data/region-associations.json'){
-  // A reviewed research batch may add a directly sourced modern community
-  // location route. Preserve every prior route exactly and permit only the
-  // documented Ysleta del Sur Pueblo addition in this batch; geometry and
+  // Preserve every prior route exactly and permit only the documented
+  // Ysleta location and Tittabawassee historical/regional reading routes;
+  // each has its own reviewed evidence. Geometry and
   // historical-map associations remain independently checked above/below.
   for(const oldAssociation of priorData.associations)
    assert(currentData.associations.some(a=>JSON.stringify(a)===JSON.stringify(oldAssociation)), 'Prior regional association preserved');
@@ -53,7 +53,14 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
    sourceUrl:'https://www.ysletadelsurpueblo.org/about-us',
    evidenceNote:'The Pueblo identifies Ysleta, Texas, in the El Paso area as home to its Tigua community and publishes its own current tribal-government and community information. This is a present-day community/government location route only, not a homeland boundary or a complete account of Tigua historical geography.',
    reviewDate:'2026-10-22'
-  }], 'Only the evidence-reviewed Ysleta present-location route was added');
+  },{
+   regionId:'US-MI',name:'Tittabawassee Ojibwe communities',associationType:'Historical regional community connection',
+   period:'Nineteenth-century river accounts; present watershed context separately described',
+   sourceUrl:'https://ojibwegrammar.langsci.wisc.edu/Assets/Pdfs/BookBlackbird.pdf',
+   supportingSourceUrls:['https://www.sagchip.org/ziibiwing/aboutus/history.htm','https://www.fws.gov/rivers/carp/carp/story/tittabawassee-river-saginaw-chippewa-indian-tribe-restoration'],
+   evidenceNote:'Blackbird’s selected first-person passage names the Tittabawassee as a Saginaw tributary and describes riverside camps. Present Saginaw Chippewa sources and the FWS restoration account supply broader community/watershed context, not an exclusive descent chain or precise territory. Michigan listing is a regional reading route; no sensitive locations or boundary asserted.',
+   reviewDate:'2026-10-25'
+  }], 'Only the two specifically evidence-reviewed regional additions are allowed');
  }else if(file==='data/owner-reading-leads.json'){
   // Preserve the full existing catalogue and allow only a newly documented
   // owner-supplied study whose original URLs remain leads pending inspection.
@@ -66,6 +73,7 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
   assert.equal(currentData.documents.at(-2).key,'Jumano_History_Culture_and_Timeline');
   assert.equal(added.key,'Tittabawassee_History_Culture_and_Timeline');
   assert.deepEqual(added.originalIds,[265]);
+  assert.deepEqual(added.profileSlugs,['tittabawassee-ojibwe-communities']);
   assert.equal(added.links.length,19);
   assert.equal(new Set(added.links.map(x=>x.url)).size,19);
   assert(added.links.every(x=>x.documentKey===added.key&&x.reviewStatus),'New owner study provenance retained');
