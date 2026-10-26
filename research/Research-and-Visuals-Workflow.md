@@ -1,3 +1,7 @@
+## October 25, 2026 — pictures on researched directory cards
+
+The owner reaffirmed that every researched tribe/nation needs an actual picture on its directory card. Apply this as a standing requirement for future source publications, and catch up existing gaps across all entries with substantive checks or legacy developed labels, not only the smaller opened-profile visual subset. Keep visible creator/photographer credit, source and verified reuse terms. Neutral letter/pattern decoration alone does not satisfy the picture requirement. See Directory-Card-Picture-Requirement.md and Directory-Card-Picture-Audit.json for exact scope and open gaps. Research quality, image rights and community identification remain independent checks.
+
 ## October 25, 2026 — substantive research resumed
 
 The owner asked to return to research after the homepage and map-room cosmetic updates. Resume substantive source research in the standing sequence: Texas, Idaho, Minnesota, Blackfeet Tribe in Montana, then Michigan. Keep the remaining authentic-image gaps queued, and review each updated card and profile alongside its research. Use neutral decoration where no individually relevant image is cleared. Image status is separate from research adequacy; no completion is inferred.
