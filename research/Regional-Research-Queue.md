@@ -1,3 +1,9 @@
+## October 25, 2026 — substantive research resumed
+
+The owner asked to return to research after the homepage and map-room cosmetic updates. Resume substantive source research in the standing sequence: Texas, Idaho, Minnesota, Blackfeet Tribe in Montana, then Michigan. Keep the remaining authentic-image gaps queued, and review each updated card and profile alongside its research. Use neutral decoration where no individually relevant image is cleared. Image status is separate from research adequacy; no completion is inferred.
+
+Current bounded target: Yaqui original 441. The saved Texas review has been reinspected and expanded into a foundational guide with six substantive works, four inspected supporting references and two unread/navigation leads. Initial adequacy remains Still unfinished. Seek stronger Texas migration evidence, Sonora community-authored history and broader scholarship next; do not force a twelve-link count or repeat the initial institutional account as independent evidence. Publication status and the continuation checkpoint hold the current exact version.
+
 ## Latest Texas cultural preservation review — Ysleta del Sur Pueblo, October 23, 2026
 
 Ysleta del Sur Pueblo (added access point) now has nine substantive inspected works and three supporting references, with **Adequate initial introduction** retained. The Pueblo’s Cultural Development Division page on Southern Tiwa preservation was read in full and counted once; a short Cultural Preservation overview is support-only. The pages describe educational-program design and cultural safeguards, not current fluency or measured outcomes. No member-restricted material or map was accessed. Review: `outputs/Ysleta-Cultural-Preservation-Research-Review-2026-10-23.md`.

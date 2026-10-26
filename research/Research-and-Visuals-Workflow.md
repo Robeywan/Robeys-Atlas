@@ -1,3 +1,9 @@
+## October 25, 2026 — substantive research resumed
+
+The owner asked to return to research after the homepage and map-room cosmetic updates. Resume substantive source research in the standing sequence: Texas, Idaho, Minnesota, Blackfeet Tribe in Montana, then Michigan. Keep the remaining authentic-image gaps queued, and review each updated card and profile alongside its research. Use neutral decoration where no individually relevant image is cleared. Image status is separate from research adequacy; no completion is inferred.
+
+Current bounded target: Yaqui original 441. The saved Texas review has been reinspected and expanded into a foundational guide with six substantive works, four inspected supporting references and two unread/navigation leads. Initial adequacy remains Still unfinished. Seek stronger Texas migration evidence, Sonora community-authored history and broader scholarship next; do not force a twelve-link count or repeat the initial institutional account as independent evidence. Publication status and the continuation checkpoint hold the current exact version.
+
 ## October 25, 2026 — visual catch-up batch 4
 
 Achumawi and Atsugewi receive individually identified, public-domain basketry images on both directory cards and opened pages, with archive/creator/rights links and full-frame inspection notes. Alsea stays pending after a wrongly captioned candidate was rejected. Current visual scope: 33 targets, 17 non-Apache photographic treatments, the existing Apache collage and 15 remaining authentic-image gaps. No research completion or source-count advancement is implied. Preserve the regional research sequence Texas → Idaho → Minnesota → Blackfeet Tribe in Montana → Michigan after useful visual catch-up.

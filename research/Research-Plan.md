@@ -1,10 +1,16 @@
+## October 25, 2026 — substantive research resumed
+
+The owner asked to return to research after the homepage and map-room cosmetic updates. Resume substantive source research in the standing sequence: Texas, Idaho, Minnesota, Blackfeet Tribe in Montana, then Michigan. Keep the remaining authentic-image gaps queued, and review each updated card and profile alongside its research. Use neutral decoration where no individually relevant image is cleared. Image status is separate from research adequacy; no completion is inferred.
+
+Current bounded target: Yaqui original 441. The saved Texas review has been reinspected and expanded into a foundational guide with six substantive works, four inspected supporting references and two unread/navigation leads. Initial adequacy remains Still unfinished. Seek stronger Texas migration evidence, Sonora community-authored history and broader scholarship next; do not force a twelve-link count or repeat the initial institutional account as independent evidence. Publication status and the continuation checkpoint hold the current exact version.
+
 # Renewed funding allowance — October 25, 2026
 
 Owner explicitly permits up to900 existing credits for the project, preferring ordinary five-hour included usage whenever available. Verified shared-account baseline1002.5233885; one cumulative900-credit ceiling leaves at least102.5233885. This replaces earlier no-credit-fallback holds and older allowance/reserve instructions. It does not renew per run, and later top-ups do not automatically expand it. Never buy credits or use manual resets. Account changes are shared measurements, not isolated Atlas charges.
 
 Check actual usage windows and balance before batches/delegation/publication. Retain weekly85% safeguard, except small useful batches in final48h before reset. Save incremental progress and keep finishing buffer. Do not start new credit-funded discovery within80credits of the reserve; within40 preserve/checkpoint or safely finish already prepared work. Ordinary included usage can resume independently after reset when weekly rules permit. No spending quota: use only what advances useful work.
 
-Saved work priority remains17 pending authentic-image treatments for already developed profiles, then Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan with paired research/visual review. Current PUBLIC publication remains version102; no retry. Read work/atlas-900-credit-authorization.json and work/atlas-credit-budget.json. Synchronize this revised funding policy into Site research notes at the next meaningful authorized publication.
+The owner resumed substantive regional source research on October 25. Keep image gaps queued and pair card/page visual review with research updates. Check Publication-Status.md for the current publication. The renewed cumulative funding policy remains in force and is synchronized in Site research notes.
 
 ---
 
