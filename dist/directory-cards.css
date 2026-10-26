@@ -45,3 +45,11 @@
 .nation-row.directory-visual-card .nation-link>div:first-child{max-width:66%}
 .nation-row.directory-visual-card .row-meta{max-width:66%}
 @media(max-width:700px){.directory-visual-card .directory-card-art{width:40%;opacity:1}.directory-visual-card .directory-card-art::after{background:linear-gradient(90deg,var(--card-surface),transparent 12%)}.nation-row.directory-visual-card .nation-link>div:first-child{max-width:75%}.nation-row.directory-visual-card .row-meta{max-width:80%}}
+/* Larger wording on every directory card, including the Apache reference card. */
+.atlas-home-page .nation-row .nation-title{font-size:42px;line-height:1.12;margin-bottom:9px}
+.atlas-home-page .nation-row .nation-alt{font-size:16px;line-height:1.5}
+.atlas-home-page .nation-row .row-meta{font-size:16px;line-height:1.55}
+.atlas-home-page .nation-row .tiny-label{font-size:14px;line-height:1.5}
+.atlas-home-page .nation-row .directory-card-credit,.atlas-home-page .nation-row .apache-card-credit{font-size:13px;line-height:1.55;margin-top:12px}
+.atlas-home-page .nation-row .nation-link{min-height:220px;padding-top:24px;padding-bottom:24px}
+@media(max-width:700px){.atlas-home-page .nation-row .nation-title{font-size:34px;line-height:1.15}.atlas-home-page .nation-row .nation-alt,.atlas-home-page .nation-row .row-meta{font-size:16px}.atlas-home-page .nation-row .directory-card-credit,.atlas-home-page .nation-row .apache-card-credit{font-size:13px}.nation-row.directory-visual-card .nation-link>div:first-child,.nation-row.directory-visual-card .row-meta{max-width:88%}.atlas-home-page .nation-row .nation-link{min-height:240px;padding-top:22px;padding-bottom:22px}}
