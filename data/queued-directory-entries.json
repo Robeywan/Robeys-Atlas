@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-10-26",
+  "reviewedAt": "2026-10-27",
   "policy": "Individually verified communities, governments, villages, bands and community organizations may have separate name-only queued outlines. Broad names and aliases are contextual routes, not interchangeable identities. Name checks and administrative lists do not add substantive source works or completion claims.",
   "profiles": [
     {
@@ -8869,6 +8869,93 @@
         }
       ],
       "dedupNote": "No exact normalized name, preferred label, explicit search alias or queued-name match in the current data."
+    },
+    {
+      "name": "Waco",
+      "slug": "waco",
+      "entryType": "historically-named-community",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 2,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://wichitatribe.com/culture/history/in-the-beginning-1540-1750/",
+          "publisher": "Wichita and Affiliated Tribes",
+          "scope": "Selected institutional history identity sentence (main narrative line 30) names Wichita Proper, Waco, Taovaya, Tawakoni and Kichai. Used only for names and the publisher’s included-peoples relationship. No origin narrative, archaeological identity, legal status or current individual-government claim adopted.",
+          "reviewedAt": "2026-10-27",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.okhistory.org/publications/enc/entry?entry=WA001",
+          "publisher": "Oklahoma Historical Society; Carolyn Garrett Pool",
+          "scope": "Selected Waco entry paragraphs (lines 98–102), author and January 15, 2010 publication metadata read. Names Waco within Wichita and Affiliated Tribes and documents a mid-eighteenth-century Texas connection; individual historical identity is not treated as a separate current government. Underlying cited works not inspected.",
+          "reviewedAt": "2026-10-27",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "dedupNote": "All 869 existing raw/generated names and search aliases checked. This individually named route is absent; it is not a duplicate of the broader Wichita route or the present Wichita and Affiliated Tribes government."
+    },
+    {
+      "name": "Tawakoni",
+      "slug": "tawakoni",
+      "entryType": "historically-named-community",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 2,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://wichitatribe.com/culture/history/in-the-beginning-1540-1750/",
+          "publisher": "Wichita and Affiliated Tribes",
+          "scope": "Selected institutional history identity sentence (main narrative line 30) names Wichita Proper, Waco, Taovaya, Tawakoni and Kichai. Used only for names and the publisher’s included-peoples relationship. No origin narrative, archaeological identity, legal status or current individual-government claim adopted.",
+          "reviewedAt": "2026-10-27",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.tshaonline.org/handbook/entries/tawakoni-indians",
+          "publisher": "Texas State Historical Association; Margery H. Krieger",
+          "scope": "Selected opening historical paragraphs (lines 6–9), byline and publication metadata read. Names Tawakoni as a Wichita-related group and locates communities in Texas in the later eighteenth century. No current-government, archaeological-identity, treaty implementation or population claim adopted.",
+          "reviewedAt": "2026-10-27",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "dedupNote": "All 869 existing raw/generated names and search aliases checked. This individually named route is absent; it is not a duplicate of the broader Wichita route or the present Wichita and Affiliated Tribes government."
+    },
+    {
+      "name": "Taovaya",
+      "slug": "taovaya",
+      "entryType": "historically-named-community",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 2,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://wichitatribe.com/culture/history/in-the-beginning-1540-1750/",
+          "publisher": "Wichita and Affiliated Tribes",
+          "scope": "Selected institutional history identity sentence (main narrative line 30) names Wichita Proper, Waco, Taovaya, Tawakoni and Kichai. Used only for names and the publisher’s included-peoples relationship. No origin narrative, archaeological identity, legal status or current individual-government claim adopted.",
+          "reviewedAt": "2026-10-27",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.tshaonline.org/handbook/entries/taovaya-indians",
+          "publisher": "Texas State Historical Association; Edward B. Jelks",
+          "scope": "Selected opening paragraphs (lines 6–8), byline and publication metadata read. Names Taovaya and explicit Tawehash variant; describes eighteenth-century southern Oklahoma/northern Texas connections and a 1759 Red River settlement. Later legal/outcome statements and underlying cited works not adopted or reviewed.",
+          "reviewedAt": "2026-10-27",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "dedupNote": "All 869 existing raw/generated names and search aliases checked. This individually named route is absent; it is not a duplicate of the broader Wichita route or the present Wichita and Affiliated Tribes government."
     }
   ],
   "regionAssociations": [
@@ -12827,6 +12914,36 @@
       "evidenceNote": "The source explicitly places this entry under its dated Alaska section. Administrative state navigation only; not homeland boundaries, current jurisdiction, service area or presence throughout Alaska.",
       "reviewDate": "2026-10-26",
       "identityOnly": true
+    },
+    {
+      "regionId": "US-TX",
+      "name": "Waco",
+      "associationType": "Historical connection — named community",
+      "period": "Mid-eighteenth century",
+      "sourceUrl": "https://www.okhistory.org/publications/enc/entry?entry=WA001",
+      "evidenceNote": "The OHS entry places Waco communities with Tawakoni on the Sabine River in Texas by the mid-eighteenth century. Narrow historical connection only; no present jurisdiction or homeland boundary inferred.",
+      "reviewDate": "2026-10-27",
+      "identityOnly": true
+    },
+    {
+      "regionId": "US-TX",
+      "name": "Tawakoni",
+      "associationType": "Historical connection — named community",
+      "period": "Later eighteenth century",
+      "sourceUrl": "https://www.tshaonline.org/handbook/entries/tawakoni-indians",
+      "evidenceNote": "The TSHA entry describes Tawakoni communities in the area between present Waco and Palestine in the later eighteenth century. Historical navigation connection, not a fixed territory or current jurisdiction.",
+      "reviewDate": "2026-10-27",
+      "identityOnly": true
+    },
+    {
+      "regionId": "US-TX",
+      "name": "Taovaya",
+      "associationType": "Historical connection — named community",
+      "period": "Eighteenth century; settlement described in 1759",
+      "sourceUrl": "https://www.tshaonline.org/handbook/entries/taovaya-indians",
+      "evidenceNote": "The TSHA entry explicitly places Taovaya in northern Texas/southern Oklahoma in the eighteenth century, including an upper Red River settlement near present Spanish Fort by 1759. Historical connection only, not a modern border or jurisdiction.",
+      "reviewDate": "2026-10-27",
+      "identityOnly": true
     }
   ],
   "identitySources": [
@@ -12895,6 +13012,39 @@
       "evidence": "A2015 resolution honors the named Texas Band. This is supporting name evidence, not federal recognition or proof of the recited migration history.",
       "countsTowardMinimum": false,
       "countReason": "Narrow supporting identity/relationship check; standalone history and adequacy remain queued."
+    },
+    {
+      "id": "waco-identity-20261027",
+      "title": "Waco — selected name and historical-connection check",
+      "url": "https://www.okhistory.org/publications/enc/entry?entry=WA001",
+      "publisher": "Oklahoma Historical Society; Carolyn Garrett Pool",
+      "reviewedAt": "2026-10-27",
+      "inspectionScope": "Selected Waco entry paragraphs (lines 98–102), author and January 15, 2010 publication metadata read. Names Waco within Wichita and Affiliated Tribes and documents a mid-eighteenth-century Texas connection; individual historical identity is not treated as a separate current government. Underlying cited works not inspected.",
+      "evidence": "The OHS entry places Waco communities with Tawakoni on the Sabine River in Texas by the mid-eighteenth century. Narrow historical connection only; no present jurisdiction or homeland boundary inferred.",
+      "countsTowardMinimum": false,
+      "countReason": "Identity-only outline evidence, separate from substantive reading-source counts."
+    },
+    {
+      "id": "tawakoni-identity-20261027",
+      "title": "Tawakoni — selected name and historical-connection check",
+      "url": "https://www.tshaonline.org/handbook/entries/tawakoni-indians",
+      "publisher": "Texas State Historical Association; Margery H. Krieger",
+      "reviewedAt": "2026-10-27",
+      "inspectionScope": "Selected opening historical paragraphs (lines 6–9), byline and publication metadata read. Names Tawakoni as a Wichita-related group and locates communities in Texas in the later eighteenth century. No current-government, archaeological-identity, treaty implementation or population claim adopted.",
+      "evidence": "The TSHA entry describes Tawakoni communities in the area between present Waco and Palestine in the later eighteenth century. Historical navigation connection, not a fixed territory or current jurisdiction.",
+      "countsTowardMinimum": false,
+      "countReason": "Identity-only outline evidence, separate from substantive reading-source counts."
+    },
+    {
+      "id": "taovaya-identity-20261027",
+      "title": "Taovaya — selected name and historical-connection check",
+      "url": "https://www.tshaonline.org/handbook/entries/taovaya-indians",
+      "publisher": "Texas State Historical Association; Edward B. Jelks",
+      "reviewedAt": "2026-10-27",
+      "inspectionScope": "Selected opening paragraphs (lines 6–8), byline and publication metadata read. Names Taovaya and explicit Tawehash variant; describes eighteenth-century southern Oklahoma/northern Texas connections and a 1759 Red River settlement. Later legal/outcome statements and underlying cited works not adopted or reviewed.",
+      "evidence": "The TSHA entry explicitly places Taovaya in northern Texas/southern Oklahoma in the eighteenth century, including an upper Red River settlement near present Spanish Fort by 1759. Historical connection only, not a modern border or jurisdiction.",
+      "countsTowardMinimum": false,
+      "countReason": "Identity-only outline evidence, separate from substantive reading-source counts."
     }
   ],
   "existingNameAliases": [
@@ -12978,6 +13128,15 @@
       "reviewedAt": "2026-10-26",
       "sourceUrl": "https://www.federalregister.gov/documents/2026/01/30/2026-01899/indian-entities-recognized-by-and-eligible-to-receive-services-from-the-united-states-bureau-of",
       "scope": "Listed government name compared with an existing government-centered reading route; search alias only, not another community or substantive source work."
+    },
+    {
+      "existingName": "Kitsai",
+      "existingOriginalId": 171,
+      "alias": "Kichai",
+      "identityOnly": true,
+      "reviewedAt": "2026-10-27",
+      "sourceUrl": "https://www.texasbeyondhistory.net/tejas/fundamentals/languages.html",
+      "scope": "Texas Beyond History, Caddoan Languages and Peoples: selected Northern Caddoan Peoples paragraph (line 71) explicitly states Kitsai is also spelled Kichai. Only the spelling bridge is used; language loss is not treated as disappearance, and archaeological speculation or broad affiliation is not adopted."
     }
   ]
 }

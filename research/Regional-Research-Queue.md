@@ -1,3 +1,9 @@
+# Wichita and individually named community routes — October 27, 2026
+
+Wichita original 431 now has nine substantive inspected works, fourteen source cards and twelve cited sections, with Still unfinished adequacy. Its new primary collection distinguishes 1859 arrival/handover and an attributed 1882 petition. Waco, Tawakoni and Taovaya now have separately findable zero-source queued outlines; Kichai is a verified search alias on Kitsai 171. Existing Wichita imagery is retained and reviewed on card/page. See Wichita-Community-Routes-Update-2026-10-27.md and the latest native publication receipt. All remaining history, imagery and community-name gaps stay explicit. Continue Texas → Idaho → Minnesota → Blackfeet Tribe Montana → Michigan using available ordinary usage only; the old 800-credit research allowance is exhausted. Older entries below are historical.
+
+---
+
 # Latest Kiowa, image and community follow-up — October 26, 2026
 
 Kiowa original 167 now has nine inspected works, twelve source cards and thirteen cited sections, Still unfinished. Cree and Assiniboine receive specifically identified, credited authentic images on their cards/opened pages, adding no history checks. Six older expanded guides without inspection records now display pending inspection status. Twenty more Alaska name-only outlines remain queued and unassessed, bringing the directory to 869 entries. See Kiowa-Visuals-Communities-Update-2026-10-26.md/json and latest publication/checkpoint. Continue the same single 800-credit mixed task and Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan order after checking actual shared usage. Do not repeat completed source/image searches or one-time integrations. Earlier dated entries below are historical.
