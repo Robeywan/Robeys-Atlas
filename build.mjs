@@ -136,6 +136,19 @@ function sourceCard(s,{index=0,profile=false,base=''}={}){
 
 const leadCatalog=JSON.parse(fs.readFileSync(path.join(cwd,'data/owner-reading-leads.json'),'utf8'));
 const ownerStudies=JSON.parse(fs.readFileSync(path.join(cwd,'data/owner-studies.json'),'utf8').replace(/^\uFEFF/,''));
+// Link only exact URLs retained in the supplied catalogue; preserve all prose.
+function studyText(text,key){
+ const urls=[...new Set((leadCatalog.documents.find(d=>d.key===key)?.links||[]).map(s=>s.url))].sort((a,b)=>b.length-a.length);
+ let output='',position=0;
+ while(position<text.length){
+  let hit=null;
+  for(const url of urls){const index=text.indexOf(url,position);if(index>=0&&(!hit||index<hit.index))hit={index,url};}
+  if(!hit){output+=e(text.slice(position));break;}
+  output+=e(text.slice(position,hit.index))+'<a href="'+e(hit.url)+'" target="_blank" rel="noopener noreferrer">'+e(hit.url)+'</a>';
+  position=hit.index+hit.url.length;
+ }
+ return output;
+}
 const studyLinks=(key,base='../')=>{const d=ownerStudies.find(x=>x.key===key);return d?'<p class="study-actions"><a href="'+base+'studies/'+slug(key)+'/">Read the full study →</a> · <a href="'+base+e(d.download)+'" download>Download Word (.docx)</a></p>':'';};
 const leadURLKey=url=>{const u=new URL(url);u.hash='';u.hostname=u.hostname.replace(/^www\./,'');return u.href.replace(/\/$/,'');};
 function researchLeadSection(p){
@@ -145,7 +158,7 @@ function researchLeadSection(p){
  return '<section class="research-leads" id="reading-leads"><div class="eyebrow">Continue the research</div><h2>Suggested reading and supporting references</h2><p>These collections preserve links from supplied studies and further research leads. The collection notes explain their provenance and review status. Links already used above point to their source cards. Supporting references and unread leads are excluded from the substantive inspected-source count.</p>'+[...groups.values()].map(items=>'<details class="lead-group" open><summary>'+e(items[0].documentTitle)+' · '+items.length+' links</summary><p class="lead-context">'+e(items[0].contextNote)+'</p><ul class="lead-list">'+items.map(s=>{
  const idx=p.sources.findIndex(t=>t.id===s.matchedSourceId||leadURLKey(t.url)===leadURLKey(s.url));
  const status=s.supportingReview?'Supporting material inspected — outside substantive inspected count':idx<0?'Awaiting original-source review':p.sources[idx].contentReviewedAt?'Content checked — see the annotation’s scope':'Already listed — content review pending';
- return '<li><a href="'+e(idx<0?s.url:'#source-'+(idx+1))+'"'+(idx<0?' target="_blank" rel="noopener noreferrer"':'')+'>'+e(s.title)+'</a><span class="lead-status">'+e(status)+'</span><a class="source-url" href="'+e(s.url)+'" target="_blank" rel="noopener noreferrer">'+e(s.url)+'</a>'+(s.linkNote?'<p class="lead-access">'+e(s.linkNote)+'</p>':'')+'</li>';
+ return '<li><a href="'+e(idx<0?s.url:'#source-'+(idx+1))+'"'+(idx<0?' target="_blank" rel="noopener noreferrer"':'')+'>'+e(s.title)+'</a><span class="lead-status">'+e(status)+'</span><a class="source-url" href="'+e(s.url)+'" target="_blank" rel="noopener noreferrer">'+e(s.url)+'</a>'+(s.suppliedAnnotation?'<p class="lead-access"><strong>Supplied bibliography note:</strong> '+e(s.suppliedAnnotation)+'</p>':'')+(s.linkNote?'<p class="lead-access">'+e(s.linkNote)+'</p>':'')+'</li>';
  }).join('')+'</ul>'+((p.studyKeys||[]).includes(items[0].documentKey)?studyLinks(items[0].documentKey,'../../'):'')+'</details>').join('')+'<p><a href="../../reading-leads/">Browse all supplied reading collections →</a></p></section>';
 }
 const leadPage=document('Suggested reading collections','Source links supplied through owner studies, organized by nation and historical topic.',
@@ -159,7 +172,7 @@ function write(name,content){const p=path.join(dist,name);fs.mkdirSync(path.dirn
 write('index.html',document('Indigenous nations & peoples','Explore Indigenous nations and peoples of North America through cited profiles, naming notes, and annotated sources.',home));
 write('reading-leads/index.html',leadPage);write('data/owner-reading-leads.json',JSON.stringify(leadCatalog,null,2));
 write('sources/index.html',sourcePage);
-for(const d of ownerStudies){const blocks=d.blocks.map(b=>b.type==='table'?'<div style="overflow:auto"><table>'+b.rows.map(row=>'<tr>'+row.map(c=>'<td>'+e(c)+'</td>').join('')+'</tr>').join('')+'</table></div>':(/^Heading[1-6]$/i.test(b.style)?'<h2>'+e(b.text)+'</h2>':'<p>'+e(b.text)+'</p>')).join('');write('studies/'+slug(d.key)+'/index.html',document(d.title,'Read the owner-supplied study and follow its original source links.','<main id="main" class="wrap"><article class="prose"><p><a href="../../reading-leads/">← All supplied studies and collections</a></p><h1>'+e(d.title)+'</h1><p>Owner-supplied research study. The study’s assertions and citations have not all been independently checked by the Atlas. This is supplementary reading, separate from the profile’s inspected-source collection.</p><p><a href="../../'+e(d.download)+'" download>Download Word (.docx)</a> · <a href="../../reading-leads/#'+e(d.key)+'">Study source collection</a></p><details><summary>About this reading copy</summary><p>'+e(d.wordDownloadNote)+'</p></details>'+blocks+'</article></main>','../../','sources'));}
+for(const d of ownerStudies){const blocks=d.blocks.map(b=>b.type==='table'?'<div style="overflow:auto"><table>'+b.rows.map(row=>'<tr>'+row.map(c=>'<td>'+studyText(c,d.key)+'</td>').join('')+'</tr>').join('')+'</table></div>':(/^Heading[1-6]$/i.test(b.style)?'<h2>'+studyText(b.text,d.key)+'</h2>':'<p>'+studyText(b.text,d.key)+'</p>')).join('');write('studies/'+slug(d.key)+'/index.html',document(d.title,'Read the owner-supplied study and follow its original source links.','<main id="main" class="wrap"><article class="prose"><p><a href="../../reading-leads/">← All supplied studies and collections</a></p><h1>'+e(d.title)+'</h1><p>Owner-supplied research study. The study’s assertions and citations have not all been independently checked by the Atlas. This is supplementary reading, separate from the profile’s inspected-source collection.</p><p><a href="../../'+e(d.download)+'" download>Download Word (.docx)</a> · <a href="../../reading-leads/#'+e(d.key)+'">Study source collection</a></p><details><summary>About this reading copy</summary><p>'+e(d.wordDownloadNote)+'</p></details>'+blocks+'</article></main>','../../','sources'));}
 write('about/index.html',about);write('language-map/index.html',document('North American language map','A zoomable Smithsonian PDF map of Native North American languages and language families, with a clear explanation of its approximate and non-synchronous first-contact scope.',languageMapPage,'../','directory'));
 for(const p of profiles)write('nations/'+p.slug+'/index.html',profilePage(p));
 write('data/directory-card-designs.json',JSON.stringify(directoryDesigns.catalogue,null,2));

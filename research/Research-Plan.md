@@ -1,3 +1,9 @@
+# Latest supplied-document update — October 26, 2026
+
+Alsea16 and Maya25 supplied URLs are added to their own directory reading-lead sections, with full study/Word reading routes. All19 prior studies were audited: all372 document-level URLs remain present. Current total21 studies/402 distinct URLs/413 document URL entries. Original-source reviews, substantive counts and adequacy are unchanged. Exact URLs in online reading copies are clickable. See Owner-Study-URL-Integration-2026-10-26.md/json for scope and verification. Earlier dated entries below are historical.
+
+---
+
 # Current mixed research and directory plan — October 26, 2026
 
 The owner has resumed substantive source research, credited directory-card/opened-page imagery and verified individual community additions together. The earlier name-only expansion phase is no longer the sole task. Keep new outlines explicitly queued and unassessed until detailed research is performed. Review exact names, aliases, community/government/organization kinds and narrow dated relationships before adding routes. Students should be able to find a local name without knowing its broader grouping first.

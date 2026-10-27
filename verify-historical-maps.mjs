@@ -65,6 +65,22 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
     assert(a.associationType&&a.reviewedScope,'New research route states association and inspection scope');
    }
   }
+ }else if(file==='data/owner-reading-leads.json'){
+  // Owner-approved appended studies preserve every earlier bibliography verbatim.
+  assert.deepEqual(currentData.documents.slice(0,priorData.documents.length),priorData.documents,'Earlier owner-study records and exact URLs preserved');
+  const latestPublished=JSON.parse(execFileSync('git',['show','HEAD:'+file],{maxBuffer:20e6}));
+  assert.deepEqual(currentData.documents.slice(0,latestPublished.documents.length),latestPublished.documents,'Latest published owner studies preserved');
+  const added=currentData.documents.slice(latestPublished.documents.length);
+  const seen=new Set(latestPublished.documents.map(d=>d.key));
+  for(const d of added){
+   assert(!seen.has(d.key),'No duplicate owner-study key');seen.add(d.key);
+   assert(d.links.length&&d.originalIds?.length,'Appended study has a bibliography and reviewed directory route');
+   for(const id of d.originalIds){
+    const p=profiles.find(p=>p.originalId===id);assert(p,'Study directory target exists');
+    assert(d.links.every(s=>p.researchLeads?.some(t=>t.documentKey===d.key&&t.url===s.url)),'Every new study URL is routed to its directory entry');
+   }
+   assert(d.links.every(s=>s.documentKey===d.key&&s.reviewStatus==='Awaiting original-source review'&&!s.contentReviewedAt),'Extraction does not imply content review');
+  }
  }else assert.deepEqual(currentData,priorData,file+' preserved');
 }
 console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));

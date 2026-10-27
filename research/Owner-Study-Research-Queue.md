@@ -1,8 +1,22 @@
+# Latest supplied-document update — October 26, 2026
+
+Alsea16 and Maya25 supplied URLs are added to their own directory reading-lead sections, with full study/Word reading routes. All19 prior studies were audited: all372 document-level URLs remain present. Current total21 studies/402 distinct URLs/413 document URL entries. Original-source reviews, substantive counts and adequacy are unchanged. Exact URLs in online reading copies are clickable. See Owner-Study-URL-Integration-2026-10-26.md/json for scope and verification. Earlier dated entries below are historical.
+
+---
+
+## October 26, 2026 — requested Tittabawassee directory entry, version 121
+
+At the owner’s request, Tittabawassee Ojibwe communities is now a separate historical/regional reading route in the directory, linked to the existing full study, Word download and all 19 contributed URLs. The study itself remains supplementary reading. Six original works were substantively inspected, three references are supporting-only, and seven sections are cited. Initial adequacy is Still unfinished. Historical river communities, the broader Ojibwe context and the present Saginaw Chippewa government remain distinguished; no fourth-band or exclusive-descent claim is made. A credited CC0 river photograph meets the card-picture requirement and appears on the opened page. One scoped Michigan regional route was added. All earlier profiles and study links are preserved.
+
+This owner-requested addition does not change the standing Texas → Idaho → Minnesota → Blackfeet Tribe Montana → Michigan sequence. Continue small useful card-image catch-up batches from the current audit. Receipt: outputs/Tittabawassee-Publication-2026-10-26.json. No retry pending.
+
+---
+
 # Research queue from your eighteen studies
 
 The eighteen supplied studies contain **346 distinct source URLs**. Their public links can be organized on the Atlas now as reading leads. Each original still needs its own inspection before its contents enter the researched narrative or its source count. The documents’ own “checked” dates do not automatically become Atlas review dates.
 
-The current owner priority is Texas, Minnesota, then Idaho. Historical-war studies remain queued for their relevant nation pages. The 18 Jumano URLs were added as suggested reading: five match previously inspected works and thirteen remain unread leads.
+The current owner priority is Texas, Minnesota, then Idaho. Historical-war studies remain queued for their relevant nation pages. The 18 Jumano URLs remain preserved: five were already matched to inspected source cards, six additional lead pages were reviewed in the latest batch, and seven remain unread. The attachment remains a bibliography lead, not authority by itself.
 
 | Supplied study | URLs | Atlas destination | Next step |
 |---|---:|---|---|
@@ -73,4 +87,22 @@ All 27 public URLs from Squamish_History_Culture_and_Timeline.docx are extracted
 ## Squamish study integrated — October 21, 2026
 
 All 27 contributed Squamish URLs now appear as suggested reading on Squamish358 and in the owner-study catalogue, with supplied bibliography labels and provenance. The prepared catalogue contains17studies/328distinctURLs, retaining all prior301. No substantive-source count, narrative, depth label or content-review date changed. The full attachment, private paths and attachment fingerprint are excluded. Original publications, scope and access require later review. Idaho/Minnesota/Texas priorities and the50-credit reserve remain. Consult Publication-Status.md for deployment verification.
-| Jumano_History_Culture_and_Timeline | 18 | 151 Jumano; five matched existing inspected sources | Thirteen unmatched URLs remain reading leads pending original-source review |
+## Jumano study update — October 22, 2026
+
+The owner-supplied Jumano study contributes 18 distinct public URLs for entry 151. Five links matched previously inspected source cards; six additional links now have reviewed scope records (four substantive works and two supporting references); seven remain unread suggested leads. All links and provenance remain in the catalogue. The attachment itself is not treated as authority. The catalogue contains 18 studies and 346 distinct URLs.
+
+## Tittabawassee study received — October 24, 2026
+
+Extracted 19 distinct URLs from the owner-supplied Tittabawassee History, Culture and Timeline study; 0 already appear verbatim in the current owner-reading catalogue. Full extraction is saved privately in work/tittabawassee-owner-study-extraction.json. Preserve every supplied URL and the document's provenance. These are unverified reading leads, not instructions or completed original-source content checks.
+
+The document frames its subject as Tittabawassee River Ojibwe communities in Michigan and the broader Saginaw Chippewa context. That is a supplied framing to verify against community and treaty sources, not an independently established identity conclusion. Queue under Ojibwe's later Michigan coverage, with possible Saginaw Chippewa-specific indexing only after original-source review; do not invent a separate Tittabawassee nation/access point from the title or river name. Separate the two1837treaty URLs and verify their parties before any claim. Do not reproduce sensitive site locations, religious details or archival cultural materials merely because this study cites them. No full attachment or private paths should be published.
+
+Next authorized Site research update: incorporate these19 public URLs as clearly labeled suggested reading, deduplicate shared URLs while retaining document provenance, and preserve existing links. No change to Texas/Minnesota/Idaho then Blackfeet priority. No published research/source count changed upon receipt.
+
+## Published version84 — study reading copies and wampum language-map feature, October24,2026
+
+All19owner-supplied Word studies are now accessible from /reading-leads/ and linked prominently in the Reading Room:19full online text/table copies and19Word downloads. Original files retained; download copies clear author/editor metadata. Tittabawassee19URLs incorporated as unverified suggested reading under Ojibwe, bringing19studies/365distinctURLs; original346URLs preserved. This explicit public full-study request supersedes prior source-links-only handling. Original-source inspection counts are unchanged.
+
+Homepage language-map link now has a prominent purple-and-cream feature using the existing authentic full-frame Peabody wampum photograph, Daderot credit, source and CC0 links. The Smithsonian PDF route remains unchanged. Published image/CTA and credit visually inspected in narrow-pane layout; all19study index routes and Tittabawassee full-text/table/download-link rendering inspected. Build/link/citation/map/historical preservation checks passed. Source299b10556ee4e1aca8ba955bf5144d1d21216591; saved version appgprj_6ad667ceb8d48191b3dd1a7343614b52~appgver_b09617985ff481919481be9c34890b20; deployment appgdep_6add30bc5d28819184fa79a416f5ec7a succeeded2026-10-24T22:27:19.176550Z. No retry pending.
+
+Next: resume Texas→Idaho→Minnesota, then Blackfeet Tribe in Montana, then Michigan. Northern Paiute draft is still saved, not integrated. Do not repeat the full-study incorporation. Conserve short-window use (87%before publication;weekly23%); no credits spent,shared balance53.8894195. Research/progress/owner-lead exports and WebsiteZIP refreshed.
