@@ -1,3 +1,9 @@
+# Current owner workflow — twenty useful starting guides, October27,2026
+
+Work on20 directory profiles per cohort, with a few strong actual-content sources and a credited individually relevant picture on each card/opened page. No fixed12-source requirement remains. Larger peoples may need more context; smaller communities may have limited public material. Preserve all prior research and explicit gaps, with no padding, fabricated images, false completion or implied endorsement. First cohort:16Texas-connected and4Idaho-connected existing profiles;20curated reading paths are under publication review. See Twenty-Profile-Workflow.md and Twenty-Profile-Batch-01.json. New individual community outlines continue on reviewed identity evidence; full histories are separate. Existing credits are newly authorized as needed within the saved reserve/weekly safeguards; old800quota is not renewed. Earlier notes below are historical.
+
+---
+
 # Current mixed research and directory plan — October 26, 2026
 
 The owner has resumed substantive source research, credited directory-card/opened-page imagery and verified individual community additions together. The earlier name-only expansion phase is no longer the sole task. Keep new outlines explicitly queued and unassessed until detailed research is performed. Review exact names, aliases, community/government/organization kinds and narrow dated relationships before adding routes. Students should be able to find a local name without knowing its broader grouping first.

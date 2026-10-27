@@ -81,6 +81,13 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
    }
    assert(d.links.every(s=>s.documentKey===d.key&&s.reviewStatus==='Awaiting original-source review'&&!s.contentReviewedAt),'Extraction does not imply content review');
   }
+ }else if(file==='data/historical-maps.json'){
+  // Reviewed additions may extend the catalogue; every earlier source record
+  // must remain unchanged, including rights and copying/inspection limits.
+  assert.deepEqual(currentData.maps.slice(0,priorData.maps.length),priorData.maps,'Earlier historical map records preserved');
+  const latestPublished=JSON.parse(execFileSync('git',['show','HEAD:'+file],{maxBuffer:50e6}));
+  assert.deepEqual(currentData.maps.slice(0,latestPublished.maps.length),latestPublished.maps,'Latest published historical maps preserved');
+  for(const [key,value] of Object.entries(priorData))if(!['maps','updatedAt'].includes(key))assert.deepEqual(currentData[key],value,'Historical catalogue context preserved: '+key);
  }else assert.deepEqual(currentData,priorData,file+' preserved');
 }
 console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));

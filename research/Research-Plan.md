@@ -1,3 +1,9 @@
+# Current owner workflow — twenty useful starting guides, October27,2026
+
+Work on20 directory profiles per cohort, with a few strong actual-content sources and a credited individually relevant picture on each card/opened page. No fixed12-source requirement remains. Larger peoples may need more context; smaller communities may have limited public material. Preserve all prior research and explicit gaps, with no padding, fabricated images, false completion or implied endorsement. First cohort:16Texas-connected and4Idaho-connected existing profiles;20curated reading paths are under publication review. See Twenty-Profile-Workflow.md and Twenty-Profile-Batch-01.json. New individual community outlines continue on reviewed identity evidence; full histories are separate. Existing credits are newly authorized as needed within the saved reserve/weekly safeguards; old800quota is not renewed. Earlier notes below are historical.
+
+---
+
 # Latest Kiowa, image and community follow-up — October 26, 2026
 
 Kiowa original 167 now has nine inspected works, twelve source cards and thirteen cited sections, Still unfinished. Cree and Assiniboine receive specifically identified, credited authentic images on their cards/opened pages, adding no history checks. Six older expanded guides without inspection records now display pending inspection status. Twenty more Alaska name-only outlines remain queued and unassessed, bringing the directory to 869 entries. See Kiowa-Visuals-Communities-Update-2026-10-26.md/json and latest publication/checkpoint. Continue the same single 800-credit mixed task and Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan order after checking actual shared usage. Do not repeat completed source/image searches or one-time integrations. Earlier dated entries below are historical.

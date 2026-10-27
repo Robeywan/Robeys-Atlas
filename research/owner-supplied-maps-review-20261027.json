@@ -1,0 +1,112 @@
+{
+  "reviewedAt": "2026-10-27",
+  "scope": "Exactly four owner-supplied OU item catalogue pages read. No map images, downloads, linked source documents, or rights pages inspected. Proposals are archive-link-only catalogue identifications, not image verification or profile associations.",
+  "canonicalRecordCount": 17,
+  "duplicateAssessment": "None of these four catalogue titles/dates matches an existing canonical work. The three reservation maps are separately dated catalogue entries in an annual series; image-level differences and relationships have not been verified. Only the 1895 edition is proposed here to avoid adding three similar catalogue-only records at once.",
+  "proposedRecords": [
+    {
+      "id": "historical-kiowa-range-mooney-1899",
+      "title": "The Kiowa Range Showing the Location of the Plains Tribes in 1832 with their Kiowa Names and the Principal Military and Trading Posts",
+      "creator": "James Mooney (attributed in the catalogue description; Creator field is empty)",
+      "dateLabel": "1898 map; 1899 catalogue creation date",
+      "year": 1899,
+      "dateNote": "The item lists Creation Date 1899; its description dates Mooney's map to 1898. The title refers to the represented year 1832.",
+      "archive": "University of Oklahoma College of Law Digital Commons, American Indian and Alaskan Native Documents Maps and Illustrations",
+      "recordUrl": "https://digitalcommons.law.ou.edu/maps/35/",
+      "viewerUrl": "https://digitalcommons.law.ou.edu/maps/35/",
+      "credit": "OU College of Law Digital Commons; Johnson's bibliographic reference 1899-96.",
+      "rights": {
+        "statement": "No item-specific rights statement was present in the catalogue text inspected. Reproduction permission has not been established; archive link only.",
+        "url": "https://digitalcommons.law.ou.edu/maps/35/"
+      },
+      "annotation": "The archive describes a historical depiction of Plains peoples, Kiowa names, and military and trading posts. It places the represented Kiowa range between the Arkansas and Brazos rivers. The catalogue credits Mooney; use of Kiowa names does not establish Indigenous authorship. Map image uninspected; no present boundaries inferred.",
+      "perspective": "Historical ethnographic cartography",
+      "regions": [
+        "Great Plains"
+      ],
+      "subjects": [
+        "Historical cartography",
+        "Kiowa",
+        "Plains peoples"
+      ],
+      "preview": null,
+      "inspection": {
+        "reviewedAt": "2026-10-27",
+        "recordRead": true,
+        "imageViewed": false,
+        "scope": "Read actual item catalogue Title, Creator, Johnson's Bibliographic Reference, Source Document Title, Creation Date, and Description. Creator field is empty. No image or linked source document inspected."
+      },
+      "profileLinks": []
+    },
+    {
+      "id": "historical-us-reservations-1895-ou",
+      "title": "Map Showing Indian Reservations within the Limits of the United States, 1895",
+      "creator": "Compiler unnamed; compiled under D. M. Browning, Commissioner of Indian Affairs (catalogue description; Creator field is empty)",
+      "dateLabel": "1895",
+      "year": 1895,
+      "archive": "University of Oklahoma College of Law Digital Commons, American Indian and Alaskan Native Documents Maps and Illustrations",
+      "recordUrl": "https://digitalcommons.law.ou.edu/maps/21/",
+      "viewerUrl": "https://digitalcommons.law.ou.edu/maps/21/",
+      "credit": "OU College of Law Digital Commons; Johnson's bibliographic reference 1895-127.",
+      "rights": {
+        "statement": "No item-specific rights statement was present in the catalogue text inspected. Reproduction permission has not been established; archive link only.",
+        "url": "https://digitalcommons.law.ou.edu/maps/21/"
+      },
+      "annotation": "A reservation map catalogued with the Commissioner's 1895 report. The archive identifies federal supervision of compilation and provides contextual discussion of coercion, cession, and removal. Its administrative viewpoint concerns the historical reservation system. The map image remains uninspected; no present boundaries or community identities are inferred.",
+      "perspective": "Federal reservation administration",
+      "regions": [
+        "United States"
+      ],
+      "subjects": [
+        "Historical cartography",
+        "Reservations"
+      ],
+      "preview": null,
+      "inspection": {
+        "reviewedAt": "2026-10-27",
+        "recordRead": true,
+        "imageViewed": false,
+        "scope": "Read actual item catalogue Title, Creator, Johnson's Bibliographic Reference, Source Document Title, Creation Date, and Description. Creator field is empty. No image or linked source document inspected."
+      },
+      "profileLinks": []
+    }
+  ],
+  "catalogueEvidence": [
+    {
+      "url": "https://digitalcommons.law.ou.edu/maps/35/",
+      "locator": "Title and descriptive fields, displayed lines 26–51",
+      "sourceDocument": "Seventeenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution 1895-96",
+      "decision": "Proposed new catalogue-only record; no existing-title/date match among 17 canonical works."
+    },
+    {
+      "url": "https://digitalcommons.law.ou.edu/maps/21/",
+      "locator": "Title and descriptive fields, displayed lines 19–43",
+      "sourceDocument": "Report of the Commissioner of Indian Affairs, 1895.",
+      "decision": "Proposed new catalogue-only record; no existing-title/date match among 17 canonical works."
+    },
+    {
+      "url": "https://digitalcommons.law.ou.edu/maps/22/",
+      "title": "Map Showing Indian Reservations within the Limits of the United States, 1894",
+      "creationDate": "1894",
+      "creatorEvidence": "Creator field empty; description says compiled under D. M. Browning, Commissioner of Indian Affairs.",
+      "sourceDocumentSummary": "1894 Commissioner of Indian Affairs report within the Secretary of the Interior's report to the third session of the Fifty-third Congress.",
+      "johnsonReference": "1894-219",
+      "rights": "No item-specific statement in inspected catalogue text.",
+      "locator": "Title and descriptive fields, displayed lines 19–43",
+      "decision": "Retain as reviewed archive link. Related annual-series entry; no existing canonical-title/date match, but image differences from 1895 have not been checked."
+    },
+    {
+      "url": "https://digitalcommons.law.ou.edu/maps/2/",
+      "title": "Map Showing Indian Reservations within the limits of the United States, 1893",
+      "creationDateAsDisplayed": "12-4-1893",
+      "creatorEvidence": "Creator field empty; no maker attribution observed in inspected text.",
+      "sourceDocumentSummary": "1893 Commissioner of Indian Affairs report within the Secretary of the Interior's report to the second session of the Fifty-third Congress.",
+      "johnsonReference": "1893-136",
+      "descriptiveScope": "United States reservations; catalogue provides contextual discussion of federal reservation policy.",
+      "rights": "No item-specific statement in inspected catalogue text.",
+      "locator": "Title and descriptive fields, displayed lines 19–45",
+      "decision": "Retain as reviewed archive link. Related annual-series entry; no existing canonical-title/date match, but image differences from 1895 have not been checked. Numeric date preserved without interpreting its month/day order."
+    }
+  ],
+  "alternateSourceSuggestions": []
+}

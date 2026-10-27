@@ -1,3 +1,9 @@
+# Current20-profile workflow and supplied map directory — October27,2026
+
+First cohort:20existing Texas/Idaho guides now have78curated starting reading routes with existing credited pictures. No fixed12-source gate; no new content/source counts, histories or completion flags invented. All180supplied archive/map URLs are preserved separately from the19identified map catalogue records;174remain unreviewed, fourcatalogue-only, onecollection index and oneexisting route. Six map previews and allolderdata remain. See Starting-Guides-Map-Links-Update-2026-10-27.md, Twenty-Profile-Workflow.md and native receipt. Once published, select the next20 from the remaining priority queue, preserving Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan and separately findable community routes. New as-needed credit authorization is recorded, with reserve/weekly safeguards; do not renew old quotas or spend to hit a number. Earlier entries below are historical.
+
+---
+
 # Coushatta source, Shoshone image and Caddo names — October27,2026
 
 Coushatta89 now14works/16cards/13sections from one selected2025Texas education packet; no outcomes/eligibility inference. Shoshone gains a credited Met Public Domain/CC0 historical photograph with unidentified individuals/band/location. Hasinai and Cadohadacho are zero-source queued outlines linked to Caddo38, not new present-government assertions; only Hasinai has a narrowly supported Texas navigation route. See Coushatta-Shoshone-Community-Update-2026-10-27.md and matching publication receipt. Finish this bounded ordinary-included batch before further discovery; old800credit allowance stays exhausted. Earlier entries below are historical.
