@@ -41,10 +41,26 @@ const queued=read('data/queued-directory-entries.json');
 const earlierQueued=JSON.parse(execFileSync('git',['show','735b0fc72f9a221b7d913478680fcbf2ed970141:data/queued-directory-entries.json'],{maxBuffer:20e6}));
 assert.deepEqual(queued.profiles.slice(0,earlierQueued.profiles.length),earlierQueued.profiles,'Earlier queued entries preserved');
 assert(queued.profiles.length>=earlierQueued.profiles.length);
+const earlierProfiles=JSON.parse(execFileSync('git',['show','HEAD:data/profiles.json'],{maxBuffer:50e6}));
+const startingRows=fs.readdirSync('data').filter(name=>/^twenty-profile-batch-\d+\.json$/.test(name)).flatMap(name=>read('data/'+name).profiles);
+const visualImages=read('data/profile-visual-assets.json').images;
 for(const item of queued.profiles){
  const p=profiles.find(p=>p.slug===item.slug);
- assert(p&&p.name===item.name&&p.researchStatus==='queued');
- assert(p.sources.every(s=>s.countsTowardMinimum===false&&s.identificationOnly));
+ assert(p&&p.name===item.name);
+ if(p.researchStatus==='queued')assert(p.sources.every(s=>s.countsTowardMinimum===false&&s.identificationOnly));
+ else {
+  // A queued identity route can gain an owner-requested, reviewed starting guide.
+  // Its identity evidence and earlier sources remain protected independently.
+  assert(item.researchStatus==='source-guide'&&item.entryStage==='reviewed-starting-guide');
+  assert(p.researchStatus==='source-guide'&&p.entryStage==='reviewed-starting-guide'&&p.researchComplete===false);
+  assert(startingRows.some(row=>row.slug===p.slug&&row.name===p.name&&row.pictureReviewed&&row.readingPathReviewed));
+  assert(p.startingGuide?.batchId===item.startingGuideBatch&&p.startingGuide.sources.length);
+  assert(visualImages.some(image=>image.id===p.startingGuide.imageRecordId&&image.profileSlugs.includes(p.slug)));
+  assert.equal(item.substantiveWorks,new Set(p.sources.filter(s=>s.contentReviewedAt&&s.countsTowardMinimum!==false).map(s=>s.url)).size);
+  const old=earlierProfiles.find(old=>old.name===p.name);assert(old);
+  assert.deepEqual(p.identificationEvidence||[],old.identificationEvidence||[]);
+  for(const source of old.sources)assert(p.sources.some(current=>JSON.stringify(current)===JSON.stringify(source)),'Earlier identity/source object preserved: '+p.name);
+ }
 }
 for(const file of ['data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson','data/historical-maps.json']){
  const priorData=JSON.parse(execFileSync('git',['show',preservationBase+':'+file],{maxBuffer:50e6})),currentData=read(file);
