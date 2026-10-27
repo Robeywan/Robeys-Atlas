@@ -1,3 +1,9 @@
+# Comanche, Caddo and Kiowa follow-up — October 27, 2026
+
+Comanche83 now10 substantive works/12cards/13sections; Caddo38 now18/20/7; Kiowa167 stays9/12 with14sections. All remain Still unfinished. Selected Smithsonian personal accounts, the Caddo Nation's project process and Kiowa's report communication page add narrowly scoped perspectives; unread originals, governing texts and museum pages remain gaps. Existing credited directory and opened-page images are preserved. No new names, images or maps. See Texas-Community-Research-Update-2026-10-27.md and the matching publication receipt. Continue small ordinary-included batches in the saved regional order; old800research-credit allowance remains exhausted. Earlier entries below are historical.
+
+---
+
 # Yaqui source and Lipan visual follow-up — October 27, 2026
 
 Yaqui441 now has nine substantive works/fifteen cards/eleven cited sections and Still unfinished adequacy. The selected Spicer1940 history contributes an attributed undated El Paso crossing, not corroboration of Texas Band migration or descent. Lipan185 now has a credited NPS historical-print detail on card/opened page; original1857-design reuse basis, crop and uncertain scan lineage are disclosed, and Lipan research counts are unchanged. See Yaqui-Lipan-Update-2026-10-27.md and the latest native publication receipt. All histories/queued names/maps/owner studies are preserved. Continue small ordinary-included batches in the saved regional order; old800research credits remain exhausted. Earlier entries below are historical.

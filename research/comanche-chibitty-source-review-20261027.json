@@ -1,0 +1,93 @@
+{
+  "reviewedAt": "2026-10-27",
+  "targetOriginalId": 83,
+  "oneWorkOnly": true,
+  "actualContentInspections": [
+    {
+      "url": "https://americanindian.si.edu/nk360/code-talkers/boarding-schools/",
+      "selectedSections": "Chapter opening; section3.5, Charles Chibitty – Boarding Schools",
+      "webLines": "14;97–110",
+      "actualScope": "Complete selected biographical paragraph and attributed recollection. Later reflection questions noted, not separate evidence.",
+      "supports": [
+        "His Ft. Sill recollection of stopping Native-language conversation when staff approached.",
+        "Museum explicitly distinguishes Haskell as allowing Native languages while maintaining strict discipline."
+      ],
+      "limits": "No full interview, school files or audio inspected; no universal all-school claim."
+    },
+    {
+      "url": "https://americanindian.si.edu/nk360/code-talkers/code-talking/",
+      "selectedSections": "Comanche portions of4.2Recruitment&Training and4.4CreatingSpecialCodeWords",
+      "webLines": "63–64;88–92;146–156",
+      "actualScope": "Actual explanatory paragraphs and Chibitty’s selected recruitment and code-construction accounts.",
+      "supports": [
+        "His reported wish to volunteer after learning of Comanche recruitment.",
+        "His description of working with fellow participants to develop special terminology."
+      ],
+      "limits": "Do not assign Navajo alphabet-code account to Comanche participants; no audio, whole military record or quantitative success determination."
+    },
+    {
+      "url": "https://americanindian.si.edu/nk360/code-talkers/survival/",
+      "selectedSections": "6.3CharlesChibittyAftertheWar",
+      "webLines": "77–84",
+      "actualScope": "Complete selected biographical text and attributed Carrie Wilson statement via Rudi Williams2005.",
+      "supports": [
+        "Museum describes further education and work as a glazier.",
+        "Museum cites daughter’s account of his willingness to teach Comanche."
+      ],
+      "limits": "Underlying2005article and full interview not independently read; no program-outcome or representative-family inference."
+    },
+    {
+      "url": "https://americanindian.si.edu/nk360/code-talkers/credits/",
+      "selectedSections": "Production/writer/editor and Comanche recording/interview provenance",
+      "webLines": "9–20;67–117",
+      "actualScope": "Actual credits text, not original audio/media.",
+      "supports": [
+        "Edwin Schupman identified as Muscogee project developer/writer.",
+        "NMAI production/copyright2020 and interviews credited2004."
+      ],
+      "limits": "Copyrightdate is not schooling/interview/page-update date. Courtesy/approval statements for recordings do not establish blanket reuse rights."
+    },
+    {
+      "url": "https://americanindian.si.edu/nk360/code-talkers/introduction/",
+      "selectedSections": "1.4CharlesChibitty",
+      "webLines": "99–105",
+      "actualScope": "Actual public orientation text; not counted separately."
+    },
+    {
+      "url": "https://americanindian.si.edu/nk360/code-talkers/native-languages/",
+      "selectedSections": "2.4 and2.6Comanche/Chibitty",
+      "webLines": "89–121;141–147",
+      "actualScope": "Actual text read for context.",
+      "limits": "Current totals, broad hereditary-chief assertions, language spellings/audio and geographic boundaries not adopted; no additional count."
+    }
+  ],
+  "unreadOrExcludedLeads": [
+    {
+      "url": "https://utpress.utexas.edu/9780292778429/",
+      "reason": "Publisher description surfaced, actual book content not inspected; no count."
+    },
+    {
+      "url": "https://digitalrepository.unm.edu/lhnac/158/",
+      "reason": "Clipping-collection catalogue surfaced; actual75MBcollection unread; no count."
+    },
+    {
+      "url": "https://www.comanchenation.com/sites/default/files/fileattachments/communications/page/5904/tcnn_january_2025.pdf",
+      "reason": "Search lead surfaced, actualissue not read; no separate count or invented event date."
+    }
+  ],
+  "exclusions": [
+    "No new image, map, audio or worksheet inspection/reuse.",
+    "No new community/name card or identity inference.",
+    "No full interview, school/military records or originalWilliams2005article inspection.",
+    "No school/general population totals, current speaker numbers, presentlegal/governance determination or programoutcomes.",
+    "No ceremonial material, songs or religious-practice instructions reproduced.",
+    "No wholeexhibition claim; selectedonework only."
+  ],
+  "sourceLayerDistinctions": [
+    "MuseumwriterSchupman is identifiedMuscogee, notautomaticallyComanche.",
+    "CharlesChibitty’s recollections areeditedandindividual.",
+    "CarrieWilson testimony isattributedviamuseumcitationtoWilliams2005.",
+    "Museum institutionalnarrative isnotrawinterviewtranscript."
+  ],
+  "retrievalLimits": "Actual public HTML was read through web extraction. Normal Python retrieval of4URLs returned403, retained inretrieval-record.json; no challenge bypass/retry or paywall inference. Toolbody evidence, not a downloaded originals claim."
+}
