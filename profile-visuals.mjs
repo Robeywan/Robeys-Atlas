@@ -92,7 +92,9 @@ export function buildProfileVisuals(profiles, directoryDesigns, cwd) {
     const eligibilityBasis = adequate ? 'Explicit initial-adequacy assessment'
       : p.coverageLevel === 'developed-profile'
         ? (checks ? 'Published developed profile' : 'Legacy developed profile; inspected-source assessment pending')
-        : 'Evidence-backed research update since the recorded baseline';
+        : !checks && available.length
+          ? 'Reviewed image-only treatment; substantive research assessment remains pending'
+          : 'Evidence-backed research update since the recorded baseline';
     const style = [
       `--profile-paper:${directory.paper}`,
       `--profile-accent:${directory.accent}`,

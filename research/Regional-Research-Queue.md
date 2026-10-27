@@ -1,3 +1,9 @@
+# Lenape and Alaska follow-up — October 26, 2026
+
+Lenape original182 has a six-work/nine-section reviewed foundation with Still unfinished adequacy and a cleared historical portrait shared with the overlapping Delaware label. Original97 research is unchanged. Thirty Alaska name-only outlines are integrated, bringing the current source to829entries. See Lenape-Alaska-Update-2026-10-26.md and the latest native receipt for publication state. All new outlines remain zero-source/queued/unassessed; no new map hunt. Continue the mixed research/imagery/community task and saved regional order after an actual availability check. Older entries below are historical.
+
+---
+
 # Current mixed research and directory plan — October 26, 2026
 
 The owner has resumed substantive source research, credited directory-card/opened-page imagery and verified individual community additions together. The earlier name-only expansion phase is no longer the sole task. Keep new outlines explicitly queued and unassessed until detailed research is performed. Review exact names, aliases, community/government/organization kinds and narrow dated relationships before adding routes. Students should be able to find a local name without knowing its broader grouping first.

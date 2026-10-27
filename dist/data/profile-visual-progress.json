@@ -3,14 +3,12 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 47,
+    "selectedProfiles": 49,
     "existingApache": 1,
-    "newProfileTreatments": 46,
-    "newTreatmentsWithPhotographs": 36,
+    "newProfileTreatments": 48,
+    "newTreatmentsWithPhotographs": 38,
     "decorativeTreatmentsAwaitingPhotographs": 10,
-    "autoEnrolledThisBuild": [
-      "kiowa"
-    ]
+    "autoEnrolledThisBuild": []
   },
   "treatments": [
     {
@@ -1575,6 +1573,74 @@
       "substantiveInspectedSources": 13
     },
     {
+      "slug": "delaware-lenape",
+      "name": "Delaware (Lenape)",
+      "originalId": 97,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 290,
+      "angle": -19,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "lenape-bodasin-catlin-1830",
+          "profileSlugs": [
+            "lenape",
+            "delaware-lenape"
+          ],
+          "mediaType": "painting",
+          "title": "Bód-a-sin, Chief of the Tribe, 1830",
+          "credit": "George Catlin, 1830. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.274. Public domain.",
+          "cardCredit": "George Catlin · Bód-a-sin · 1830",
+          "creator": "George Catlin",
+          "date": "1830",
+          "sourceUrl": "https://americanart.si.edu/artwork/bod-sin-chief-tribe-3931",
+          "sourceImageUrl": "https://ids.si.edu/ids/download?id=SAAM-1985.66.274_1",
+          "rightsLabel": "Public domain — SAAM item marked Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/bod-sin-chief-tribe-3931",
+          "scope": "Smithsonian American Art Museum explicitly identifies Bód-a-sin as a Delaware/Lenape chief. George Catlin’s 1830 oil portrait is an outside artist’s historical portrayal of one named person, not a documentary photograph, Lenape-made art, a generic Native likeness, or an image of a present government. The museum says it was probably painted at Fort Leavenworth in today’s Kansas; that uncertainty is retained. This image does not establish a Texas connection, exact territorial boundaries, current clothing or cultural practice, descent to a particular government, or community endorsement. No meanings are assigned to the sitter’s clothing or ornaments. The museum’s paired Delaware/Lenape identification supports these two overlapping directory reading labels. They do not count as two distinct nations or imply one present government. Complete 2461x3000 museum-delivered source JPEG inspected and preserved. Web copy resized proportionally to 1477x1800 and recompressed at quality 88; no pixel crop, added detail, generated material, retouching or recoloring. Directory cards and opened-page backgrounds may use disclosed CSS crops/overlays. Preserve a full-frame route where possible. CSS crops/overlays apply to cards and backgrounds; the opened image preserves the complete delivered source frame.",
+          "reviewedAt": "2026-10-26",
+          "alt": "George Catlin’s painted portrait of Bód-a-sin, identified by the museum as a Delaware/Lenape chief, wearing a red headwrap and dark clothing against a plain background.",
+          "contextSources": [
+            {
+              "title": "Bód-a-sin, Chief of the Tribe — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/bod-sin-chief-tribe-3931",
+              "inspectionScope": "Actual native item HTML, complete indexed museum body and item-specific API: title, named Delaware/Lenape sitter, painter, 1830 date, oil-on-canvas medium, gift credit, object number 1985.66.274, explicit Delaware subject, probable Fort Leavenworth context, item-specific public-domain status and returned original image URL. No broader Catlin book, exact village, reverse or physical painting inspected."
+            },
+            {
+              "title": "Lenape History — Delaware Tribe of Indians",
+              "url": "https://delawaretribe.org/cultural-education/culture-and-language/lenape-history/",
+              "inspectionScope": "Native HTML body inspected after web-tool timeout. The community page identifies its history as Lenape history beginning in the Delaware Valley and links separately titled publications. Linked PDFs were not inspected in this image check. This gives community-published naming context; it does not establish a present government’s descent from the portrait sitter."
+            }
+          ],
+          "asset": "assets/profile-visuals/lenape-bodasin-catlin-1830.jpg",
+          "cardAsset": "assets/profile-visuals/lenape-bodasin-catlin-1830.jpg",
+          "originalDimensions": [
+            2461,
+            3000
+          ],
+          "width": 1477,
+          "height": 1800,
+          "originalSha256": "3c7bb9261e99091c10959d541461c450c1b53b6f13ab5ee34788795ddb83c6ae",
+          "assetSha256": "9777d6ea975015948c6f33d785e89ba03f58dc8bf236899f7a2943db85403e56",
+          "reproductionNote": "Complete 2461x3000 museum-delivered source JPEG inspected and preserved. Web copy resized proportionally to 1477x1800 and recompressed at quality 88; no pixel crop, added detail, generated material, retouching or recoloring. Directory cards and opened-page backgrounds may use disclosed CSS crops/overlays. Preserve a full-frame route where possible.",
+          "researchSourceCountIncrement": 0
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:290;--profile-angle:-19deg;--profile-photo:url(\"../../assets/profile-visuals/lenape-bodasin-catlin-1830.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "jumano",
       "name": "Jumano",
       "originalId": 151,
@@ -1860,6 +1926,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 8
+    },
+    {
+      "slug": "lenape",
+      "name": "Lenape",
+      "originalId": 182,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 216,
+      "angle": -8,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "lenape-bodasin-catlin-1830",
+          "profileSlugs": [
+            "lenape",
+            "delaware-lenape"
+          ],
+          "mediaType": "painting",
+          "title": "Bód-a-sin, Chief of the Tribe, 1830",
+          "credit": "George Catlin, 1830. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.274. Public domain.",
+          "cardCredit": "George Catlin · Bód-a-sin · 1830",
+          "creator": "George Catlin",
+          "date": "1830",
+          "sourceUrl": "https://americanart.si.edu/artwork/bod-sin-chief-tribe-3931",
+          "sourceImageUrl": "https://ids.si.edu/ids/download?id=SAAM-1985.66.274_1",
+          "rightsLabel": "Public domain — SAAM item marked Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/bod-sin-chief-tribe-3931",
+          "scope": "Smithsonian American Art Museum explicitly identifies Bód-a-sin as a Delaware/Lenape chief. George Catlin’s 1830 oil portrait is an outside artist’s historical portrayal of one named person, not a documentary photograph, Lenape-made art, a generic Native likeness, or an image of a present government. The museum says it was probably painted at Fort Leavenworth in today’s Kansas; that uncertainty is retained. This image does not establish a Texas connection, exact territorial boundaries, current clothing or cultural practice, descent to a particular government, or community endorsement. No meanings are assigned to the sitter’s clothing or ornaments. The museum’s paired Delaware/Lenape identification supports these two overlapping directory reading labels. They do not count as two distinct nations or imply one present government. Complete 2461x3000 museum-delivered source JPEG inspected and preserved. Web copy resized proportionally to 1477x1800 and recompressed at quality 88; no pixel crop, added detail, generated material, retouching or recoloring. Directory cards and opened-page backgrounds may use disclosed CSS crops/overlays. Preserve a full-frame route where possible. CSS crops/overlays apply to cards and backgrounds; the opened image preserves the complete delivered source frame.",
+          "reviewedAt": "2026-10-26",
+          "alt": "George Catlin’s painted portrait of Bód-a-sin, identified by the museum as a Delaware/Lenape chief, wearing a red headwrap and dark clothing against a plain background.",
+          "contextSources": [
+            {
+              "title": "Bód-a-sin, Chief of the Tribe — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/bod-sin-chief-tribe-3931",
+              "inspectionScope": "Actual native item HTML, complete indexed museum body and item-specific API: title, named Delaware/Lenape sitter, painter, 1830 date, oil-on-canvas medium, gift credit, object number 1985.66.274, explicit Delaware subject, probable Fort Leavenworth context, item-specific public-domain status and returned original image URL. No broader Catlin book, exact village, reverse or physical painting inspected."
+            },
+            {
+              "title": "Lenape History — Delaware Tribe of Indians",
+              "url": "https://delawaretribe.org/cultural-education/culture-and-language/lenape-history/",
+              "inspectionScope": "Native HTML body inspected after web-tool timeout. The community page identifies its history as Lenape history beginning in the Delaware Valley and links separately titled publications. Linked PDFs were not inspected in this image check. This gives community-published naming context; it does not establish a present government’s descent from the portrait sitter."
+            }
+          ],
+          "asset": "assets/profile-visuals/lenape-bodasin-catlin-1830.jpg",
+          "cardAsset": "assets/profile-visuals/lenape-bodasin-catlin-1830.jpg",
+          "originalDimensions": [
+            2461,
+            3000
+          ],
+          "width": 1477,
+          "height": 1800,
+          "originalSha256": "3c7bb9261e99091c10959d541461c450c1b53b6f13ab5ee34788795ddb83c6ae",
+          "assetSha256": "9777d6ea975015948c6f33d785e89ba03f58dc8bf236899f7a2943db85403e56",
+          "reproductionNote": "Complete 2461x3000 museum-delivered source JPEG inspected and preserved. Web copy resized proportionally to 1477x1800 and recompressed at quality 88; no pixel crop, added detail, generated material, retouching or recoloring. Directory cards and opened-page backgrounds may use disclosed CSS crops/overlays. Preserve a full-frame route where possible.",
+          "researchSourceCountIncrement": 0
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:216;--profile-angle:-8deg;--profile-photo:url(\"../../assets/profile-visuals/lenape-bodasin-catlin-1830.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 6
     },
     {
       "slug": "mescalero-apache",
