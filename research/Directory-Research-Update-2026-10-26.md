@@ -1,0 +1,23 @@
+# Directory research, pictures and community names — October 26, 2026
+
+Prepared a reviewed update with fifteen new substantive profile-level inspections, eight newly pictured directory cards and fifty-five new name-only access points. A work shared by more than one profile remains the same underlying publication; source cards retain their individual community scope and inspection limits.
+
+| Reading collection | Substantive inspected works now | Cited sections | Initial adequacy |
+| --- | ---: | ---: | --- |
+| Comanche | 6 | 8 | Still unfinished |
+| Kiowa | 6 | 10 | Still unfinished |
+| Wichita | 8 | 11 | Still unfinished |
+
+Comanche now combines the Nation’s own historical account and language-program history with selected consulted Texas research, an edited primary treaty, a dated education study and attributed family-language memories. Kiowa adds community institutional reporting, a first-person educator’s account, collaborative teaching scholarship, art history and the actual treaty text. Wichita adds the Tribe’s removal-history article, the 1846 treaty and selected chapters of a university thesis on community-controlled archives and language learning. Supporting indexes and unread leads remain excluded. Detailed pages, dates, perspectives, access limits and unresolved conflicts appear with the linked sources. The two new foundations and the strengthened Wichita guide remain unfinished; no community endorsement is claimed.
+
+Directory cards and opened pages now have reviewed imagery for Adai, Coushatta, Arikara, Comanche, Coeur d’Alene, Kootenai/Ktunaxa, Ojibwe and Kiowa. Seven new media files are used, plus one specifically supported association to the existing Ojibwe-attributed bandolier bag. Each has creator/archive/gift/source/reuse credits and a complete-frame route. Historical paintings and sculpture remain identified as outside representations. The Adai image is a colonial-site setting, and the Coushatta and Kootenai views are limited regional landscapes; none is a territorial boundary, universal cultural design or present-government portrait. Source-frame and CSS crop/overlay limits are disclosed. Rejected and rights-deferred candidates were not substituted.
+
+Fifty individually named British Columbia First Nation/community-government outlines were added from the actual BC Assembly of First Nations directory. Five historical Comanche band/division names—Penateka, Nokoni, Kotsoteka, Yamparika and Quahadi—have their own outlines and related Comanche reading route. These fifty-five cards have zero reading sources, queued research, unassessed adequacy and explicit picture/history gaps. They do not inflate substantive source counts or imply fifty-five distinct new nations. Published variants are retained only where the inspected source supplies the bridge. The already covered Ontario roster and Lake Babine government were not duplicated. Yamparika has no forced state connection from the Arkansas River name.
+
+The checked source has 799 access points: all 454 original entries and 345 additions. The source catalogue has 1,622 distinct URLs and 1,749 profile-source occurrences. All nineteen owner studies and 365 contributed reading leads remain. Thirty-eight directory cards have actual imagery overall. The broader researched/legacy picture audit is 54 qualifying entries, 37 pictured and 17 explicit gaps; its six legacy developed labels without substantive inspection remain disclosed. No profile is researchComplete.
+
+Modern-map data retain 103 selectable targets, 194 lakes and every prior association. Fifty-seven narrow new connections bring the total to 892 scoped records and 890 region/profile pairs. The map has 789 connected entries and ten unresolved routes: Yocona, eight Ohlone-context outlines and Yamparika. Province listings and dated historical connections are not Indigenous boundaries. The seventeen historical maps, fourteen reciprocal routes, language PDF, branding, top search and existing directory behavior are preserved.
+
+Validation: independent source-alignment and preservation reviews; native build; source/citation/internal-link checks; directory image/credit/contrast checks; profile visual checks; modern-map and historical reciprocal/preservation checks. Representative rendered profile, directory-card and new-outline checks are recorded with the publication receipt. No complete device or source-link availability matrix is claimed.
+
+Continue useful research and visual-gap work alongside verified community outlines. Detailed research order remains Texas, Idaho, Minnesota, the Blackfeet Tribe in Montana, then Michigan. Historical-map hunting stays paused.

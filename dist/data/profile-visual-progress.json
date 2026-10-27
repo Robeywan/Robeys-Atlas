@@ -3,12 +3,14 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 41,
+    "selectedProfiles": 47,
     "existingApache": 1,
-    "newProfileTreatments": 40,
-    "newTreatmentsWithPhotographs": 28,
-    "decorativeTreatmentsAwaitingPhotographs": 12,
-    "autoEnrolledThisBuild": []
+    "newProfileTreatments": 46,
+    "newTreatmentsWithPhotographs": 36,
+    "decorativeTreatmentsAwaitingPhotographs": 10,
+    "autoEnrolledThisBuild": [
+      "kiowa"
+    ]
   },
   "treatments": [
     {
@@ -254,14 +256,55 @@
       "hue": 94,
       "angle": 66,
       "composition": "arc",
-      "images": [],
+      "images": [
+        {
+          "id": "adai-los-adaes-grounds-klotz",
+          "profileSlugs": [
+            "adai"
+          ],
+          "mediaType": "photograph",
+          "title": "Los Adaes State Historic Site grounds, photographed 2007",
+          "credit": "Jerrye & Roy Klotz, MD; Wikimedia Commons, CC BY-SA 3.0. Current Commons source frame cropped by YuviPanda in 2012.",
+          "cardCredit": "Los Adaes · Jerrye & Roy Klotz, MD",
+          "creator": "Jerrye & Roy Klotz, MD (author credit as provided by the photographer-uploaded Commons record)",
+          "date": "May 11, 2007; current Commons crop December 30, 2012",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:LOS_ADAES.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/LOS_ADAES.jpg",
+          "rightsLabel": "CC BY-SA 3.0 — photographer-published image",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "Modern view of the public Los Adaes historic-site grounds and the outlined colonial presidio footprint. The site is historically connected to Adai accounts, but the mission/presidio is not identical to an Adai village or present Adai community. Texas Beyond History explicitly names Adai as the people for whom Los Adaes was named, describes visits/trade, and distinguishes communities north of the mission and presidio. This photograph is a narrowly labeled place/history illustration, not Adai-made architecture, an ancestral territory boundary, a photograph of Adai people, or proof of occupancy throughout the photographed grounds. Its overall image is dark and the modern visitor building and vehicles remain visible; do not mislabel them as Indigenous structures. The current Commons file was cropped by a later editor before this review; the full delivered current frame is preserved, not claimed to be the original uncropped camera frame. Proportional resize/recompression from 5314x3524 to 1800x1194, JPEG quality 88; entire delivered frame retained, no pixel crop or generated material. CSS display crops/overlays must be disclosed with credits. CSS may crop or overlay directory/background copies; the opened-page image preserves the complete delivered source frame.",
+          "alt": "A grassy clearing and marked presidio outline at Los Adaes State Historic Site, with pine trees, a modern visitor building and parked vehicles beyond.",
+          "contextSources": [
+            {
+              "title": "Los Adaes — Cultural Worlds, Adai Indians section",
+              "url": "https://www.texasbeyondhistory.net/adaes/worlds.html",
+              "inspectionScope": "Reinspected selected Adai/place-relationship paragraphs, web lines 40-61, for the distinction between the named people, their settlements and colonial Los Adaes. Older disappearance and speculative language-classification statements were not adopted; no archaeological/sensitive coordinates reproduced."
+            }
+          ],
+          "reviewedAt": "2026-10-26",
+          "researchSourceCountIncrement": 0,
+          "canonicalFilesModified": false,
+          "reproductionNote": "Complete delivered source frame preserved privately. The proposed web JPEG is resized proportionally and recompressed only; no content added, removed, generated, retouched or recolored. Directory and opened-page backgrounds may use disclosed CSS crops/overlays. This record clears only the inspected image and stated context, not unrelated linked works or a community endorsement.",
+          "asset": "assets/profile-visuals/adai-los-adaes-grounds-klotz.jpg",
+          "cardAsset": "assets/profile-visuals/adai-los-adaes-grounds-klotz.jpg",
+          "originalDimensions": [
+            5314,
+            3524
+          ],
+          "width": 1800,
+          "height": 1194,
+          "originalSha256": "482fdfe648a6d25e9a4e7bb481af59076de5b8027c5b78a1ee6d85dd3f619413",
+          "assetSha256": "d7c940c83eee662ccdeeeade21aa5ea76ad007306e0850fe08e706c999d43347",
+          "derivativeDetails": "Proportional resize/recompression from 5314x3524 to 1800x1194, JPEG quality 88; entire delivered frame retained, no pixel crop or generated material. CSS display crops/overlays must be disclosed with credits."
+        }
+      ],
       "eligibilityBasis": "Published developed profile",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:94;--profile-angle:66deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:94;--profile-angle:66deg;--profile-photo:url(\"../../assets/profile-visuals/adai-los-adaes-grounds-klotz.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -553,7 +596,8 @@
         {
           "id": "anishinaabe-bandolier-bag-slam",
           "profileSlugs": [
-            "anishinaabe"
+            "anishinaabe",
+            "ojibwe"
           ],
           "asset": "assets/profile-visuals/anishinaabe-bandolier-bag-slam.jpg",
           "cardAsset": "assets/profile-visuals/anishinaabe-bandolier-bag-slam-card.jpg",
@@ -564,8 +608,8 @@
           "sourceImageUrl": "https://www.slam.org/wp-content/uploads/piction/image-cache/110952.jpg",
           "rightsLabel": "Public Domain, as designated by the museum; its Terms of Use explicitly permit unrestricted use of Public-domain Content. No Creative Commons license asserted.",
           "rightsUrl": "https://www.slam.org/terms-of-use/",
-          "scope": "One Anishinaabe (Ojibwe) artist's nineteenth-century bandolier bag, c. 1860. Suitable for the broad Anishinaabe profile only with the precise Ojibwe attribution retained. Do not imply one object represents all Anishinaabe nations or governments, copy its beadwork as generated filler, or infer symbolism beyond the inspected museum record.   RISD 43.119 remains an image-retrieval gap. Used one bounded museum alternative: SLAM object 20:2022. Actual museum page read, Public Domain link and Terms of Use read, image URL extracted from the official page HTML, original 1057 x 1600 JPEG downloaded and visually inspected in full. Object attribution is explicitly Anishinaabe (Ojibwe), not merely geographic. No maker biography, separate community review, or detailed design meanings established. Web copies proportionally resized/recompressed without retouching; CSS crops and overlays are presentation only. Complete image displayed proportionally in the page banner.",
-          "reviewedAt": "2026-10-25",
+          "scope": "One Anishinaabe (Ojibwe) artist's nineteenth-century bandolier bag, c. 1860. Suitable for the broad Anishinaabe profile only with the precise Ojibwe attribution retained. Do not imply one object represents all Anishinaabe nations or governments, copy its beadwork as generated filler, or infer symbolism beyond the inspected museum record.   RISD 43.119 remains an image-retrieval gap. Used one bounded museum alternative: SLAM object 20:2022. Actual museum page read, Public Domain link and Terms of Use read, image URL extracted from the official page HTML, original 1057 x 1600 JPEG downloaded and visually inspected in full. Object attribution is explicitly Anishinaabe (Ojibwe), not merely geographic. No maker biography, separate community review, or detailed design meanings established. Web copies proportionally resized/recompressed without retouching; CSS crops and overlays are presentation only. Complete image displayed proportionally in the page banner. The same precisely identified Ojibwe artist’s bag may accompany the broad Ojibwe collection as well as Anishinaabe. The maker’s individual name and particular Ojibwe government/community are unrecorded in the inspected item. It must not be assigned specifically to one Minnesota Band, used as a universal Ojibwe design, or copied into invented traditional motifs.",
+          "reviewedAt": "2026-10-26",
           "date": "c. 1860 (artwork); photography date not established",
           "alt": "Complete beaded bandolier bag with a long decorated strap, pouch and beaded tabs.",
           "contextSources": [
@@ -573,6 +617,11 @@
               "title": "Saint Louis Art Museum — Public Domain and Open Access",
               "url": "https://www.slam.org/public-domain-and-open-access/",
               "inspectionScope": "Museum rights policy inspected alongside the object record and Terms of Use."
+            },
+            {
+              "title": "Rechecked explicit Ojibwe attribution and public-domain use",
+              "url": "https://www.slam.org/collection/objects/66012/",
+              "inspectionScope": "Actual museum record explicitly attributes the c.1860 bandolier bag to Anishinaabe (Ojibwe) artist, gives Object20:2022 and Gift of Elizabeth B. and Robert Wells Streett, and designates Public Domain. Actual Terms of Use section B permits unrestricted use of Public-domain Content. Museum specificity supports an Ojibwe association; broader Anishinaabe identity was not equated with every related people."
             }
           ],
           "cardCredit": "Saint Louis Art Museum · Ojibwe artist unrecorded"
@@ -724,6 +773,70 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 11
+    },
+    {
+      "slug": "arikara",
+      "name": "Arikara",
+      "originalId": 19,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 356,
+      "angle": -61,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "arikara-village-catlin-1832",
+          "profileSlugs": [
+            "arikara"
+          ],
+          "mediaType": "painting",
+          "title": "Arikara Village of Earth-Covered lodges, 1600 Miles above St. Louis, 1832",
+          "credit": "George Catlin, 1832. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.386. Public domain.",
+          "cardCredit": "George Catlin · 1832 · SAAM",
+          "creator": "George Catlin",
+          "date": "1832",
+          "sourceUrl": "https://americanart.si.edu/artwork/arikara-village-earth-covered-lodges-1600-miles-above-st-louis-3876",
+          "sourceImageUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.66.386_1&max=2600",
+          "rightsLabel": "Public domain — SAAM item marked Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/arikara-village-earth-covered-lodges-1600-miles-above-st-louis-3876",
+          "scope": "Smithsonian American Art Museum explicitly identifies this 1832 George Catlin oil painting as an Arikara village. Its description attributes to Catlin a view made from the deck of a steamer. This is an outside artist’s historical depiction, not Arikara-made art, a documentary photograph, an exact village survey, the modern MHA government or a view of all present Arikara communities. No more precise village identification, people’s names or territorial boundary is inferred. Museum attribution and date are retained, with Catlin’s viewpoint distinguished from independent archaeological evidence. Proportional resize/recompression from 1993x1528 to 1800x1380, JPEG quality 88; entire delivered frame retained, no pixel crop or generated material. CSS display crops/overlays must be disclosed with credits. CSS may crop or overlay directory/background copies; the opened-page image preserves the complete delivered source frame.",
+          "alt": "George Catlin’s painting of an Arikara riverside village, with earth-covered lodges and small figures beneath rolling green prairie hills.",
+          "contextSources": [
+            {
+              "title": "Arikara Village of Earth-Covered lodges, 1600 Miles above St. Louis — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/arikara-village-earth-covered-lodges-1600-miles-above-st-louis-3876",
+              "inspectionScope": "Actual item identification, object number, date/medium, gift credit, Arikara subject classification and attributed Catlin description inspected in the primary museum page/API. No wider Catlin text or linked work was read for this image clearance."
+            }
+          ],
+          "reviewedAt": "2026-10-26",
+          "researchSourceCountIncrement": 0,
+          "canonicalFilesModified": false,
+          "reproductionNote": "Complete delivered source frame preserved privately. The proposed web JPEG is resized proportionally and recompressed only; no content added, removed, generated, retouched or recolored. Directory and opened-page backgrounds may use disclosed CSS crops/overlays. This record clears only the inspected image and stated context, not unrelated linked works or a community endorsement.",
+          "asset": "assets/profile-visuals/arikara-village-catlin-1832.jpg",
+          "cardAsset": "assets/profile-visuals/arikara-village-catlin-1832.jpg",
+          "originalDimensions": [
+            1993,
+            1528
+          ],
+          "width": 1800,
+          "height": 1380,
+          "originalSha256": "66af77f068f6e6013cb71bedad6f9e54c96ce56cb3348a2181fa1cd92ec7c554",
+          "assetSha256": "ee12b19f2dbca5c0c336dd8d362c27979940d901cb59e940d22eb08a17827c7d",
+          "derivativeDetails": "Proportional resize/recompression from 1993x1528 to 1800x1380, JPEG quality 88; entire delivered frame retained, no pixel crop or generated material. CSS display crops/overlays must be disclosed with credits."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:356;--profile-angle:-61deg;--profile-photo:url(\"../../assets/profile-visuals/arikara-village-catlin-1832.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "assiniboine",
@@ -1274,6 +1387,130 @@
       "substantiveInspectedSources": 12
     },
     {
+      "slug": "coeur-dalene",
+      "name": "Coeur d'Alene",
+      "originalId": 81,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 333,
+      "angle": 56,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "coeur-dalene-seltice-warner-1891",
+          "profileSlugs": [
+            "coeur-dalene"
+          ],
+          "mediaType": "sculpture",
+          "title": "Seltice, Chief of the Coeur D’Alênes, 1891",
+          "credit": "Olin Levi Warner, 1891. Smithsonian American Art Museum, A Gift of Alison Warner Waterman in memory of her mother, Frances D. Warner, 1985.76.3. Public domain.",
+          "cardCredit": "Olin Levi Warner · Seltice · SAAM",
+          "creator": "Olin Levi Warner; museum photographer not individually named in the inspected record",
+          "date": "1891 (bronze relief); photograph date not established",
+          "sourceUrl": "https://americanart.si.edu/artwork/seltice-chief-coeur-dalenes-26769",
+          "sourceImageUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1985.76.3_2&max=2600",
+          "rightsLabel": "Public domain — SAAM item marked Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/seltice-chief-coeur-dalenes-26769",
+          "scope": "Museum photograph of Olin Levi Warner’s 1891 bronze portrait relief of the specifically identified Coeur d’Alene leader Seltice. This is an outside sculptor’s historical portrait, not Coeur d’Alene-made art, a photograph of the living sitter, or a present government representation. The museum’s curators place Warner’s portraits in the context of racial classification and an erroneous expectation that Native peoples would disappear, and note that the sitters’ perspectives are poorly documented. That context is retained; no essential cultural or physical trait is inferred from the portrait. No traditional design meanings or community endorsement are claimed. Complete delivered 2600x2600 source frame preserved. Web JPEG resized proportionally to 1800x1800 and recompressed at quality 88; no pixel crop, generated material, retouching or added detail. Cards and opened-page backgrounds may use disclosed CSS crops/overlays. Visual review does not add substantive research counts or community endorsement. The original download endpoint returned a short Request Rejected HTML page instead of an image. No retry or challenge bypass was attempted. The separate public display URL returned directly by the same item API worked and supplied the inspected complete display frame. No claim that the original full-resolution file was inspected.",
+          "alt": "A round bronze relief with a right-facing portrait of Seltice and lettering identifying him as a Coeur d’Alene chief.",
+          "contextSources": [
+            {
+              "title": "Seltice, Chief of the Coeur D’Alênes — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/seltice-chief-coeur-dalenes-26769",
+              "inspectionScope": "Actual item identification, date, bronze medium, gift credit, object number, Coeur d’Alene subject and curatorial historical-perspective note, web lines 178–246. No further sitter biography or related portrait inspected."
+            }
+          ],
+          "asset": "assets/profile-visuals/coeur-dalene-seltice-warner-1891.jpg",
+          "cardAsset": "assets/profile-visuals/coeur-dalene-seltice-warner-1891.jpg",
+          "originalDimensions": [
+            2600,
+            2600
+          ],
+          "width": 1800,
+          "height": 1800,
+          "originalSha256": "cf2e137ed2b852eacd20048824aed78f342c1c305d6169d9597a7eb36ea25332",
+          "assetSha256": "99c7512b1e8d76c6ebbfc9b5231d4563e31f06c5aa29cb78248fab702350ff78",
+          "reviewedAt": "2026-10-26",
+          "reproductionNote": "Complete delivered 2600x2600 source frame preserved. Web JPEG resized proportionally to 1800x1800 and recompressed at quality 88; no pixel crop, generated material, retouching or added detail. Cards and opened-page backgrounds may use disclosed CSS crops/overlays. Visual review does not add substantive research counts or community endorsement."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:333;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/coeur-dalene-seltice-warner-1891.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 15
+    },
+    {
+      "slug": "comanche",
+      "name": "Comanche",
+      "originalId": 83,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 285,
+      "angle": -10,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "comanche-village-catlin-1834-1835",
+          "profileSlugs": [
+            "comanche"
+          ],
+          "mediaType": "painting",
+          "title": "Comanche Village, Women Dressing Robes and Drying Meat, 1834–1835",
+          "credit": "George Catlin, 1834–1835. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.346. Public domain.",
+          "cardCredit": "George Catlin · 1834–1835 · SAAM",
+          "creator": "George Catlin",
+          "date": "1834–1835; museum describes a sketch made at a Comanche village in 1834",
+          "sourceUrl": "https://americanart.si.edu/artwork/comanche-village-women-dressing-robes-and-drying-meat-4011",
+          "sourceImageUrl": "https://ids.si.edu/ids/download?id=SAAM-1985.66.346_1",
+          "rightsLabel": "Public domain — SAAM item marked Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/comanche-village-women-dressing-robes-and-drying-meat-4011",
+          "scope": "Smithsonian American Art Museum identifies this George Catlin oil painting specifically as a Comanche village and gives its date as 1834–1835. Its description attributes the 1834 village sketch and the foreground work interpretation to Catlin. This is an outside artist’s historical representation, not a documentary photograph, Comanche-made artwork, a present government depiction, or evidence that every Comanche community lived or worked identically. No exact present-state location, village name, named individual, current cultural practice or territorial boundary is inferred from the scene. Catlin’s quoted village-size claims and stereotypes are not adopted. Complete 3000x1979 delivered museum source JPEG preserved. Proposed web copy resized proportionally to 1800x1187 and recompressed at JPEG quality 88; no pixel crop, retouching, recoloring, generated content or added detail. Card/page CSS crops and overlays must be disclosed. CSS may crop or overlay directory/background copies; the opened-page image preserves the complete delivered source frame.",
+          "reviewedAt": "2026-10-26",
+          "alt": "George Catlin’s historical painting of a Comanche village with skin-covered lodges, people, horses, and hide-working and meat-drying activity.",
+          "contextSources": [
+            {
+              "title": "Comanche Village, Women Dressing Robes and Drying Meat — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/comanche-village-women-dressing-robes-and-drying-meat-4011",
+              "inspectionScope": "Actual museum item identification and date, gift credit, object number, Comanche subject classification and attributed Catlin description, web lines178–243, plus item-specific rights API. No wider Catlin publication or other village history inspected for this image use."
+            }
+          ],
+          "asset": "assets/profile-visuals/comanche-village-catlin-1834-1835.jpg",
+          "cardAsset": "assets/profile-visuals/comanche-village-catlin-1834-1835.jpg",
+          "originalDimensions": [
+            3000,
+            1979
+          ],
+          "width": 1800,
+          "height": 1187,
+          "originalSha256": "2f2baf7fb6462e24edf6884d4d91f098c989de8ce36c113c22c7db97b3d8e50f",
+          "assetSha256": "aca4a76ce75fed26e4cf4b08b454c6d404f315ae655bff516c32a255e6d69b6c",
+          "reproductionNote": "Complete 3000x1979 delivered museum source JPEG preserved. Proposed web copy resized proportionally to 1800x1187 and recompressed at JPEG quality 88; no pixel crop, retouching, recoloring, generated content or added detail. Card/page CSS crops and overlays must be disclosed.",
+          "researchSourceCountIncrement": 0,
+          "canonicalFilesModified": false
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:285;--profile-angle:-10deg;--profile-photo:url(\"../../assets/profile-visuals/comanche-village-catlin-1834-1835.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 6
+    },
+    {
       "slug": "coushatta",
       "name": "Coushatta",
       "originalId": 89,
@@ -1282,14 +1519,55 @@
       "hue": 279,
       "angle": 19,
       "composition": "wash",
-      "images": [],
+      "images": [
+        {
+          "id": "coushatta-big-thicket-longleaf-sharaga",
+          "profileSlugs": [
+            "coushatta"
+          ],
+          "mediaType": "photograph",
+          "title": "Young longleaf pines in Big Thicket National Preserve, Texas",
+          "credit": "NPS Photo / Scott Sharaga. Big Thicket National Preserve, U.S. National Park Service.",
+          "cardCredit": "Big Thicket · NPS / Scott Sharaga",
+          "creator": "Scott Sharaga, National Park Service",
+          "date": "Photograph date not given on the inspected page; page updated April 28, 2025",
+          "sourceUrl": "https://www.nps.gov/bith/learn/nature/longleaf-pine.htm",
+          "sourceImageUrl": "https://www.nps.gov/bith/learn/images/IMG_1840-3.JPG",
+          "rightsLabel": "Public domain in the United States — NPS work",
+          "rightsUrl": "https://www.nps.gov/aboutus/disclaimer.htm",
+          "scope": "Modern Big Thicket National Preserve longleaf-pine landscape, explicitly credited to NPS photographer Scott Sharaga. The Alabama-Coushatta Tribe of Texas history locates its shared Texas community in the Big Thicket and distinguishes Alabama and Coushatta as separate peoples. This supports limited Texas regional/environmental context within the broader Coushatta collection; it does not depict Louisiana or Oklahoma Coushatta communities, a named community member, a cultural object, reservation land, all Coushatta homelands or a historic territorial boundary. No claim is made that the pictured pines supplied a particular basket or that a style or technique belongs to all Coushatta communities. The photographed national-preserve stand is not asserted to lie on the Tribe’s reservation. Proportional resize/recompression from 4103x1511 to 1800x663, JPEG quality 88; entire delivered frame retained, no pixel crop or generated material. CSS display crops/overlays must be disclosed with credits. CSS may crop or overlay directory/background copies; the opened-page image preserves the complete delivered source frame.",
+          "alt": "Long green needles of young longleaf pines stand among taller pine trunks under a blue sky in Big Thicket National Preserve.",
+          "contextSources": [
+            {
+              "title": "Alabama-Coushatta Tribe of Texas — Our History",
+              "url": "https://www.alabama-coushatta.com/about-us/our-history/",
+              "inspectionScope": "Reinspected opening Big Thicket location statement at web line 20 and separate Alabama/Coushatta peoples statement at line 24. Current officials, acreage/enrollment and broad cultural similarity claims were not copied or independently checked for this image use."
+            }
+          ],
+          "reviewedAt": "2026-10-26",
+          "researchSourceCountIncrement": 0,
+          "canonicalFilesModified": false,
+          "reproductionNote": "Complete delivered source frame preserved privately. The proposed web JPEG is resized proportionally and recompressed only; no content added, removed, generated, retouched or recolored. Directory and opened-page backgrounds may use disclosed CSS crops/overlays. This record clears only the inspected image and stated context, not unrelated linked works or a community endorsement.",
+          "asset": "assets/profile-visuals/coushatta-big-thicket-longleaf-sharaga.jpg",
+          "cardAsset": "assets/profile-visuals/coushatta-big-thicket-longleaf-sharaga.jpg",
+          "originalDimensions": [
+            4103,
+            1511
+          ],
+          "width": 1800,
+          "height": 663,
+          "originalSha256": "32e53d33d2f6907fa47e53a253af89ca57ce7c4623d039ce31c0a45e43b524f6",
+          "assetSha256": "cf3a00c305e692a3941e095578d7473c47a311f0e8cf1f364cc5d9d7ef615b0a",
+          "derivativeDetails": "Proportional resize/recompression from 4103x1511 to 1800x663, JPEG quality 88; entire delivered frame retained, no pixel crop or generated material. CSS display crops/overlays must be disclosed with credits."
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:279;--profile-angle:19deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:279;--profile-angle:19deg;--profile-photo:url(\"../../assets/profile-visuals/coushatta-big-thicket-longleaf-sharaga.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -1455,6 +1733,135 @@
       "substantiveInspectedSources": 15
     },
     {
+      "slug": "kiowa",
+      "name": "Kiowa",
+      "originalId": 167,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 114,
+      "angle": -11,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "kiowa-tohausen-catlin-1834",
+          "profileSlugs": [
+            "kiowa"
+          ],
+          "mediaType": "painting",
+          "title": "Téh-tóot-sah (better known as Tohausen, Little Bluff), First Chief, 1834",
+          "credit": "George Catlin, 1834. Smithsonian American Art Museum, Gift of Mrs. Joseph Harrison, Jr., 1985.66.62. Public domain.",
+          "cardCredit": "George Catlin · Tohausen · 1834",
+          "creator": "George Catlin",
+          "date": "1834",
+          "sourceUrl": "https://americanart.si.edu/artwork/teh-toot-sah-better-known-tohausen-little-bluff-first-chief-4408",
+          "sourceImageUrl": "https://ids.si.edu/ids/download?id=SAAM-1985.66.62_1",
+          "rightsLabel": "Public domain — SAAM item marked Free to use",
+          "rightsUrl": "https://americanart.si.edu/artwork/teh-toot-sah-better-known-tohausen-little-bluff-first-chief-4408",
+          "scope": "Smithsonian American Art Museum identifies the sitter as Téh-tóot-sah, also known as Tohausen or Little Bluff, a Kiowa chief, and dates George Catlin’s oil portrait to 1834. Its actual subject classification explicitly names Kiowa. This is an outside artist’s historical portrait of an individually identified person, not a generic Native likeness, a documentary photograph, Kiowa-made art, or a current tribal-government representative. Exact portrait location, clothing/design meanings, current cultural practice and community endorsement are not established by this image check. The named leader and date are retained without claiming that one person represents all Kiowa communities or periods. Complete 2466x3000 museum-delivered source JPEG inspected and preserved. Web copy resized proportionally to 1480x1800 and recompressed at quality 88; no pixel crop, added detail, generated material, retouching or recoloring. Cards and opened-page backgrounds may use disclosed CSS crops/overlays. Preserve a full-frame route where possible. CSS crops and overlays apply to directory/background copies; the opened-page image retains the complete delivered frame.",
+          "reviewedAt": "2026-10-26",
+          "alt": "George Catlin’s waist-length painted portrait of the Kiowa chief Tohausen, with long dark hair, ornaments and a light background.",
+          "contextSources": [
+            {
+              "title": "Téh-tóot-sah (better known as Tohausen, Little Bluff), First Chief — Smithsonian American Art Museum",
+              "url": "https://americanart.si.edu/artwork/teh-toot-sah-better-known-tohausen-little-bluff-first-chief-4408",
+              "inspectionScope": "Actual native museum HTML and item-specific API: sitter/title, 1834 date, painter, oil-on-canvas medium, gift credit, object number 1985.66.62, explicit Kiowa subject and selected sitter-identification description. No broader Catlin publication or exact village location inspected."
+            }
+          ],
+          "asset": "assets/profile-visuals/kiowa-tohausen-catlin-1834.jpg",
+          "cardAsset": "assets/profile-visuals/kiowa-tohausen-catlin-1834.jpg",
+          "originalDimensions": [
+            2466,
+            3000
+          ],
+          "width": 1480,
+          "height": 1800,
+          "originalSha256": "eb7bda9907030f054b630b451879870e26edef28ecac38afb749f1c845a1e7aa",
+          "assetSha256": "2a40c6635ba7e77f2308181e93f15f32cd6ce9d497e725d75a8111a6bb7edb5c",
+          "reproductionNote": "Complete 2466x3000 museum-delivered source JPEG inspected and preserved. Web copy resized proportionally to 1480x1800 and recompressed at quality 88; no pixel crop, added detail, generated material, retouching or recoloring. Cards and opened-page backgrounds may use disclosed CSS crops/overlays. Preserve a full-frame route where possible.",
+          "researchSourceCountIncrement": 0,
+          "canonicalFilesModified": false
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:114;--profile-angle:-11deg;--profile-photo:url(\"../../assets/profile-visuals/kiowa-tohausen-catlin-1834.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 6
+    },
+    {
+      "slug": "kootenai-ktunaxa",
+      "name": "Kootenai (Ktunaxa)",
+      "originalId": 174,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 332,
+      "angle": -79,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "kootenai-refuge-scenic-hardt-2022",
+          "profileSlugs": [
+            "kootenai-ktunaxa"
+          ],
+          "mediaType": "photograph",
+          "title": "Kootenai National Wildlife Refuge wetlands, Idaho, 2022",
+          "credit": "Carlene Hardt, June 29, 2022. U.S. Fish & Wildlife Service media collection; item designated Public Domain.",
+          "cardCredit": "Carlene Hardt · Kootenai wetlands",
+          "creator": "Carlene Hardt",
+          "date": "June 29, 2022",
+          "sourceUrl": "https://www.fws.gov/media/kootenai-nwr-scenic",
+          "sourceImageUrl": "https://www.fws.gov/sites/default/files/2023-05/2022-06-29%2C%20Carlene%20Hardt%2C%20Kootenai%20NWR%2C%20Idaho%203500.jpg",
+          "rightsLabel": "Public Domain — explicit FWS item designation; no CC0 license asserted",
+          "rightsUrl": "https://www.fws.gov/media/kootenai-nwr-scenic",
+          "scope": "Modern public-refuge wetland scene in the Kootenai River valley near Bonners Ferry, Idaho. The Kootenai Tribe of Idaho’s history places its continuing community and allotments along the Kootenai River and surrounding uplands. The FWS refuge account locates the photographed facility near Bonners Ferry, adjacent to the river’s west banks. This supports narrow Idaho regional/environmental context in the broader cross-border Kootenai/Ktunaxa collection; the photograph is not a picture of tribal members, reservation land, an identified cultural site, all Ktunaxa communities or a homeland boundary. The relationship comes from those inspected accounts, not merely the refuge sharing the name Kootenai. No legal rights or jurisdiction determination is made. Complete delivered 3500x2333 source frame preserved. Web JPEG resized proportionally to 1800x1200 and recompressed at quality 88; no pixel crop, generated material, retouching or added detail. Cards and opened-page backgrounds may use disclosed CSS crops/overlays. Visual review does not add substantive research counts or community endorsement.",
+          "alt": "Green wetland vegetation surrounds open water in Kootenai National Wildlife Refuge, with a wooded valley and mountains beneath a cloudy blue sky.",
+          "contextSources": [
+            {
+              "title": "Tribal History — Kootenai Tribe of Idaho",
+              "url": "https://www.kootenai.org/tribal-history",
+              "inspectionScope": "Actual primary HTML body read for its selected Bonners Ferry and Kootenai River/upland community-location paragraphs; only regional relationship used. Its broader treaty, spiritual and political account was not adopted for this visual record or counted as a new substantive check."
+            },
+            {
+              "title": "About Us — Kootenai National Wildlife Refuge, U.S. Fish & Wildlife Service",
+              "url": "https://www.fws.gov/refuge/kootenai/about-us",
+              "inspectionScope": "Selected place/habitat paragraph at web lines 174–176 identifies northern Idaho, proximity to Bonners Ferry, and west banks of the Kootenai River. Current figures and other facilities not copied."
+            }
+          ],
+          "asset": "assets/profile-visuals/kootenai-refuge-scenic-hardt-2022.jpg",
+          "cardAsset": "assets/profile-visuals/kootenai-refuge-scenic-hardt-2022.jpg",
+          "originalDimensions": [
+            3500,
+            2333
+          ],
+          "width": 1800,
+          "height": 1200,
+          "originalSha256": "7c820e556735f068f65b62e412bfc17a443191c9eda467f8726b0dcfe9501c0c",
+          "assetSha256": "187582a628e497aadc23bccd91bb72b7fd3b9692919f08cba0de4fe45da6a667",
+          "reviewedAt": "2026-10-26",
+          "reproductionNote": "Complete delivered 3500x2333 source frame preserved. Web JPEG resized proportionally to 1800x1200 and recompressed at quality 88; no pixel crop, generated material, retouching or added detail. Cards and opened-page backgrounds may use disclosed CSS crops/overlays. Visual review does not add substantive research counts or community endorsement."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:332;--profile-angle:-79deg;--profile-photo:url(\"../../assets/profile-visuals/kootenai-refuge-scenic-hardt-2022.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 8
+    },
+    {
       "slug": "mescalero-apache",
       "name": "Mescalero Apache",
       "originalId": 209,
@@ -1509,6 +1916,63 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 8
+    },
+    {
+      "slug": "ojibwe",
+      "name": "Ojibwe",
+      "originalId": 265,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 247,
+      "angle": -25,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "anishinaabe-bandolier-bag-slam",
+          "profileSlugs": [
+            "anishinaabe",
+            "ojibwe"
+          ],
+          "asset": "assets/profile-visuals/anishinaabe-bandolier-bag-slam.jpg",
+          "cardAsset": "assets/profile-visuals/anishinaabe-bandolier-bag-slam-card.jpg",
+          "title": "Bandolier Bag, Anishinaabe (Ojibwe) artist",
+          "credit": "Saint Louis Art Museum, Gift of Elizabeth B. and Robert Wells Streett, 20:2022; Anishinaabe (Ojibwe) artist, name unrecorded",
+          "creator": "Unrecorded Anishinaabe (Ojibwe) artist; individual photographer not identified in inspected record",
+          "sourceUrl": "https://www.slam.org/collection/objects/66012/",
+          "sourceImageUrl": "https://www.slam.org/wp-content/uploads/piction/image-cache/110952.jpg",
+          "rightsLabel": "Public Domain, as designated by the museum; its Terms of Use explicitly permit unrestricted use of Public-domain Content. No Creative Commons license asserted.",
+          "rightsUrl": "https://www.slam.org/terms-of-use/",
+          "scope": "One Anishinaabe (Ojibwe) artist's nineteenth-century bandolier bag, c. 1860. Suitable for the broad Anishinaabe profile only with the precise Ojibwe attribution retained. Do not imply one object represents all Anishinaabe nations or governments, copy its beadwork as generated filler, or infer symbolism beyond the inspected museum record.   RISD 43.119 remains an image-retrieval gap. Used one bounded museum alternative: SLAM object 20:2022. Actual museum page read, Public Domain link and Terms of Use read, image URL extracted from the official page HTML, original 1057 x 1600 JPEG downloaded and visually inspected in full. Object attribution is explicitly Anishinaabe (Ojibwe), not merely geographic. No maker biography, separate community review, or detailed design meanings established. Web copies proportionally resized/recompressed without retouching; CSS crops and overlays are presentation only. Complete image displayed proportionally in the page banner. The same precisely identified Ojibwe artist’s bag may accompany the broad Ojibwe collection as well as Anishinaabe. The maker’s individual name and particular Ojibwe government/community are unrecorded in the inspected item. It must not be assigned specifically to one Minnesota Band, used as a universal Ojibwe design, or copied into invented traditional motifs.",
+          "reviewedAt": "2026-10-26",
+          "date": "c. 1860 (artwork); photography date not established",
+          "alt": "Complete beaded bandolier bag with a long decorated strap, pouch and beaded tabs.",
+          "contextSources": [
+            {
+              "title": "Saint Louis Art Museum — Public Domain and Open Access",
+              "url": "https://www.slam.org/public-domain-and-open-access/",
+              "inspectionScope": "Museum rights policy inspected alongside the object record and Terms of Use."
+            },
+            {
+              "title": "Rechecked explicit Ojibwe attribution and public-domain use",
+              "url": "https://www.slam.org/collection/objects/66012/",
+              "inspectionScope": "Actual museum record explicitly attributes the c.1860 bandolier bag to Anishinaabe (Ojibwe) artist, gives Object20:2022 and Gift of Elizabeth B. and Robert Wells Streett, and designates Public Domain. Actual Terms of Use section B permits unrestricted use of Public-domain Content. Museum specificity supports an Ojibwe association; broader Anishinaabe identity was not equated with every related people."
+            }
+          ],
+          "cardCredit": "Saint Louis Art Museum · Ojibwe artist unrecorded"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:247;--profile-angle:-25deg;--profile-photo:url(\"../../assets/profile-visuals/anishinaabe-bandolier-bag-slam.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 19
     },
     {
       "slug": "tittabawassee-ojibwe-communities",
@@ -1662,7 +2126,7 @@
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
-      "substantiveInspectedSources": 5
+      "substantiveInspectedSources": 8
     },
     {
       "slug": "yaqui",

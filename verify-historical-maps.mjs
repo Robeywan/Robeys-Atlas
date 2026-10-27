@@ -55,8 +55,16 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
   const added=currentData.associations.slice(latestPublished.associations.length);
   const existing=new Set(latestPublished.associations.map(a=>JSON.stringify(a)));
   const approved=(queued.regionAssociations||[]).filter(a=>!existing.has(JSON.stringify(a)));
-  assert.deepEqual(added,approved,'New regional routes exactly match approved identity-level queued additions');
-  for(const a of added)assert(a.identityOnly&&queued.profiles.some(p=>p.name===a.name)&&a.evidenceNote&&a.sourceUrl);
+  assert.deepEqual(added.filter(a=>a.identityOnly),approved,'New identity routes exactly match approved queued additions');
+  for(const a of added){
+   assert(a.evidenceNote&&a.sourceUrl&&a.period&&a.reviewDate,'Every new route retains scoped dated evidence');
+   if(a.identityOnly)assert(queued.profiles.some(p=>p.name===a.name));
+   else {
+    const p=profiles.find(p=>p.name===a.name);
+    assert(p&&p.sources.some(s=>s.url===a.sourceUrl&&s.contentReviewedAt&&s.contentReviewScope&&s.countsTowardMinimum!==false),'New research route cites actual inspected profile content');
+    assert(a.associationType&&a.reviewedScope,'New research route states association and inspection scope');
+   }
+  }
  }else assert.deepEqual(currentData,priorData,file+' preserved');
 }
 console.log(JSON.stringify({historicalMaps:c.maps.length,reusablePreviews:c.maps.filter(m=>m.preview).length,linkOnlyRecords:c.maps.filter(m=>!m.preview).length,reviewedProfileConnections:connections,profilesWithMaps:new Set(c.maps.flatMap(m=>(m.profileLinks||[]).map(l=>l.profileSlug))).size,originalDataAndGeometry:'preserved',reciprocalLinks:'passed',noJSSourceLinks:'passed'}));
