@@ -1,3 +1,9 @@
+# Latest Kiowa, image and community follow-up — October 26, 2026
+
+Kiowa original 167 now has nine inspected works, twelve source cards and thirteen cited sections, Still unfinished. Cree and Assiniboine receive specifically identified, credited authentic images on their cards/opened pages, adding no history checks. Six older expanded guides without inspection records now display pending inspection status. Twenty more Alaska name-only outlines remain queued and unassessed, bringing the directory to 869 entries. See Kiowa-Visuals-Communities-Update-2026-10-26.md/json and latest publication/checkpoint. Continue the same single 800-credit mixed task and Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan order after checking actual shared usage. Do not repeat completed source/image searches or one-time integrations. Earlier dated entries below are historical.
+
+---
+
 # Latest Comanche and Alaska follow-up — October 26, 2026
 
 Comanche original83 now has9 inspected substantive works/11 source cards/11 cited sections, Still unfinished; retained image and credits reviewed. Twenty additional Alaska name-only outlines are queued, zero-source and unassessed, bringing the directory to849 entries. Lipan’s newly inspected museum candidate has restricted media reuse, so its image gap remains. See Comanche-Alaska-Update-2026-10-26.md/json and the latest checkpoint/receipt. Continue the same cumulative800-credit mixed research/imagery/community plan and Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan order, checking actual shared usage and finishing reserve first. No map hunt, quota spending or repeat of completed one-time integrations. Earlier dated sections below are historical.
