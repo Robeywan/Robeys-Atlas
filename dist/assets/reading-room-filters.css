@@ -1,6 +1,6 @@
 /* Reading-room controls: larger type, solid contrast and contemporary geometric trim. */
 .source-page-layout{grid-template-columns:minmax(250px,280px) minmax(0,1fr);gap:32px}
-.source-page-layout>.filters{position:sticky;top:26px;align-self:start;box-sizing:border-box;max-height:calc(100vh - 52px);max-height:calc(100dvh - 52px);overflow-y:auto;overscroll-behavior-y:contain;scrollbar-gutter:stable;display:block;min-width:0;padding:32px 22px 24px;background:#fff1d5;border:2px solid #47736a;border-top:7px solid #245b55;border-radius:10px;box-shadow:0 5px 18px #243d3820}
+.source-page-layout>.filters{position:sticky;top:26px;align-self:start;box-sizing:border-box;max-height:calc(100vh - 52px);max-height:calc(100dvh - 52px);overflow-y:auto;overscroll-behavior-y:auto;scrollbar-gutter:stable;display:block;min-width:0;padding:32px 22px 24px;background:#fff1d5;border:2px solid #47736a;border-top:7px solid #245b55;border-radius:10px;box-shadow:0 5px 18px #243d3820}
 .source-page-layout>.filters::before{content:"";display:block;height:22px;margin:-21px -10px 22px;background:#245b55 url('header-stepped-pattern.svg') repeat-x center;border-radius:3px;pointer-events:none}
 .source-page-layout .filter-group{margin:0 0 26px}
 .source-page-layout .filter-group:last-child{margin-bottom:0}
