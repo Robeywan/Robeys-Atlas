@@ -1,3 +1,9 @@
+# Latest Comanche and Alaska follow-up — October 26, 2026
+
+Comanche original83 now has9 inspected substantive works/11 source cards/11 cited sections, Still unfinished; retained image and credits reviewed. Twenty additional Alaska name-only outlines are queued, zero-source and unassessed, bringing the directory to849 entries. Lipan’s newly inspected museum candidate has restricted media reuse, so its image gap remains. See Comanche-Alaska-Update-2026-10-26.md/json and the latest checkpoint/receipt. Continue the same cumulative800-credit mixed research/imagery/community plan and Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan order, checking actual shared usage and finishing reserve first. No map hunt, quota spending or repeat of completed one-time integrations. Earlier dated sections below are historical.
+
+---
+
 # Latest supplied-document update — October 26, 2026
 
 Alsea16 and Maya25 supplied URLs are added to their own directory reading-lead sections, with full study/Word reading routes. All19 prior studies were audited: all372 document-level URLs remain present. Current total21 studies/402 distinct URLs/413 document URL entries. Original-source reviews, substantive counts and adequacy are unchanged. Exact URLs in online reading copies are clickable. See Owner-Study-URL-Integration-2026-10-26.md/json for scope and verification. Earlier dated entries below are historical.

@@ -1,3 +1,9 @@
+# Latest Comanche and Alaska follow-up — October 26, 2026
+
+Comanche original83 now has9 inspected substantive works/11 source cards/11 cited sections, Still unfinished; retained image and credits reviewed. Twenty additional Alaska name-only outlines are queued, zero-source and unassessed, bringing the directory to849 entries. Lipan’s newly inspected museum candidate has restricted media reuse, so its image gap remains. See Comanche-Alaska-Update-2026-10-26.md/json and the latest checkpoint/receipt. Continue the same cumulative800-credit mixed research/imagery/community plan and Texas→Idaho→Minnesota→Blackfeet Tribe Montana→Michigan order, checking actual shared usage and finishing reserve first. No map hunt, quota spending or repeat of completed one-time integrations. Earlier dated sections below are historical.
+
+---
+
 # Lenape and Alaska follow-up — October 26, 2026
 
 Lenape original182 has a six-work/nine-section reviewed foundation with Still unfinished adequacy and a cleared historical portrait shared with the overlapping Delaware label. Original97 research is unchanged. Thirty Alaska name-only outlines are integrated, bringing the current source to829entries. See Lenape-Alaska-Update-2026-10-26.md and the latest native receipt for publication state. All new outlines remain zero-source/queued/unassessed; no new map hunt. Continue the mixed research/imagery/community task and saved regional order after an actual availability check. Older entries below are historical.
