@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 51,
+    "selectedProfiles": 52,
     "existingApache": 1,
-    "newProfileTreatments": 50,
-    "newTreatmentsWithPhotographs": 41,
+    "newProfileTreatments": 51,
+    "newTreatmentsWithPhotographs": 42,
     "decorativeTreatmentsAwaitingPhotographs": 9,
     "autoEnrolledThisBuild": []
   },
@@ -1610,7 +1610,7 @@
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
-      "substantiveInspectedSources": 13
+      "substantiveInspectedSources": 14
     },
     {
       "slug": "cree",
@@ -2275,6 +2275,82 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 19
+    },
+    {
+      "slug": "shoshone",
+      "name": "Shoshone",
+      "originalId": 347,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 28,
+      "angle": 43,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "shoshone-osullivan-met-1867-72",
+          "profileSlugs": [
+            "shoshone"
+          ],
+          "asset": "assets/profile-visuals/shoshone-osullivan-met-1867-72.jpg",
+          "cardAsset": "assets/profile-visuals/shoshone-osullivan-met-1867-72-card.jpg",
+          "title": "Shoshone, photograph by Timothy H. O’Sullivan, 1867–72",
+          "creator": "Timothy H. O’Sullivan",
+          "credit": "Timothy H. O’Sullivan. The Metropolitan Museum of Art, Gilman Collection, Purchase, Marlene Nathan Meyerson Family Foundation Gift, 2005; 2005.100.104.",
+          "cardCredit": "Timothy H. O’Sullivan · The Met · Public Domain",
+          "sourceUrl": "https://www.metmuseum.org/art/collection/search/283214",
+          "sourceImageUrl": "https://images.metmuseum.org/CRDImages/ph/original/DP-16204-001.jpg",
+          "rightsLabel": "Public Domain / CC0 through The Met Open Access; item page labels the photograph Public Domain and object API isPublicDomain is true",
+          "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+          "scope": "An archival group portrait catalogued by The Met as Shoshone. The inspected record does not establish individual names, a precise location, or a particular band or present-day government. Do not assign it specifically to Idaho, Eastern Shoshone, Washakie, Fort Hall, Duck Valley, or the Northwestern Band, or imply that it represents all Shoshone people. Museum narrative interpretations and historical evaluative language are not adopted. Actual item page, object API and media policy were inspected; media clearance is explicit and does not rest on metadata CC0. The exact API primaryImage was downloaded unchanged and the complete frame visually inspected, including its margins and existing print damage. No retouching or generated restoration. Proportional web resizing/recompression is permitted. Show the complete image proportionally on the opened page; use contain for the card where practical to retain the group. Disclose any CSS crop or overlay as presentation treatment. No community endorsement is recorded. Delivered page and card files are proportional resizes/JPEG recompressions of the complete4000×3083API original. Card and background CSS may crop or overlay; the opened-page banner preserves the complete composition.",
+          "reviewedAt": "2026-10-27",
+          "date": "1867–72 (museum dating)",
+          "alt": "Sepia archival group portrait catalogued as Shoshone, with tents and crossed flagpoles behind the group; the complete print has worn edges.",
+          "contextSources": [
+            {
+              "title": "The Met Open Access policy",
+              "url": "https://www.metmuseum.org/hubs/open-access",
+              "inspectionScope": "Actual policy distinguishes image availability under CC0; inspected with the photograph’s Public Domain item label."
+            },
+            {
+              "title": "The Met Terms and Conditions, Open Access materials",
+              "url": "https://www.metmuseum.org/policies/terms-and-conditions",
+              "inspectionScope": "Sections 3(a) and 7 confirm Open Access image use under CC0, including commercial and noncommercial use; no endorsement implied."
+            },
+            {
+              "title": "CC0 1.0 Universal",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "inspectionScope": "Copying/modification permitted; CC0 does not waive unrelated privacy, publicity or trademark rights or imply endorsement."
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1800,
+              "height": 1387,
+              "sha256": "9131767defb1f41cd3c4f70c2e561a5fc8662734553d8ab89f077a891d9679fc",
+              "treatment": "Complete source frame proportionally resized and JPEG recompressed; no retouching, pixel crop or generated restoration."
+            },
+            "cardAsset": {
+              "width": 1000,
+              "height": 771,
+              "sha256": "c8e1b6410e34b8e68748c7dcd060df6c154f59a26d561bd98262aab4a2825add",
+              "treatment": "Complete source frame proportionally resized and JPEG recompressed; no retouching, pixel crop or generated restoration."
+            }
+          },
+          "mediaType": "historical photograph"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:43deg;--profile-photo:url(\"../../assets/profile-visuals/shoshone-osullivan-met-1867-72.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 12
     },
     {
       "slug": "tittabawassee-ojibwe-communities",

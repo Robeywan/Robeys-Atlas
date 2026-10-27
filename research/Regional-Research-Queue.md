@@ -1,3 +1,9 @@
+# Coushatta source, Shoshone image and Caddo names — October27,2026
+
+Coushatta89 now14works/16cards/13sections from one selected2025Texas education packet; no outcomes/eligibility inference. Shoshone gains a credited Met Public Domain/CC0 historical photograph with unidentified individuals/band/location. Hasinai and Cadohadacho are zero-source queued outlines linked to Caddo38, not new present-government assertions; only Hasinai has a narrowly supported Texas navigation route. See Coushatta-Shoshone-Community-Update-2026-10-27.md and matching publication receipt. Finish this bounded ordinary-included batch before further discovery; old800credit allowance stays exhausted. Earlier entries below are historical.
+
+---
+
 # Comanche, Caddo and Kiowa follow-up — October 27, 2026
 
 Comanche83 now10 substantive works/12cards/13sections; Caddo38 now18/20/7; Kiowa167 stays9/12 with14sections. All remain Still unfinished. Selected Smithsonian personal accounts, the Caddo Nation's project process and Kiowa's report communication page add narrowly scoped perspectives; unread originals, governing texts and museum pages remain gaps. Existing credited directory and opened-page images are preserved. No new names, images or maps. See Texas-Community-Research-Update-2026-10-27.md and the matching publication receipt. Continue small ordinary-included batches in the saved regional order; old800research-credit allowance remains exhausted. Earlier entries below are historical.

@@ -16562,6 +16562,10 @@
     ],
     "reviewedAt": "2026-10-27",
     "compiledAt": "2026-10-27",
+    "relatedProfileSlugs": [
+      "hasinai",
+      "cadohadacho"
+    ],
     "added": false,
     "slug": "caddo",
     "regionGroups": [
@@ -16628,6 +16632,56 @@
         "key": "us-ok"
       }
     ]
+  },
+  {
+    "name": "Cadohadacho",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-27",
+    "kind": "Historical Caddo community grouping",
+    "region": "Red River great bend (historical)",
+    "overview": "Cadohadacho has its own name-only directory outline. Cadohadacho is individually named in the Caddo Voices account as a historical Caddo branch along the great bend of Red River. This separate name-only reading route does not identify a separate present-day tribal government, fix a boundary or establish individual descent. The broader Caddo guide remains related reading. Detailed research and imagery remain queued.",
+    "relationshipNote": "Cadohadacho is individually named in the Caddo Voices account as a historical Caddo branch along the great bend of Red River. This separate name-only reading route does not identify a separate present-day tribal government, fix a boundary or establish individual descent. The broader Caddo guide remains related reading.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-27",
+    "identificationEvidence": [
+      {
+        "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+        "publisher": "Texas Beyond History / Texas Archeological Research Laboratory; Caddo Voices account by Cecile Elkins Carter",
+        "reviewedAt": "2026-10-27",
+        "scope": "Selected actual main-body paragraphs on named Caddo communities and three branches (page lines24–28), plus context through31. Names Cadohadacho along the great bend of Red River and Hasinai in east Texas. This is a community-authored historical synthesis, not a current government list or a territorial survey. Original colonial records, images and map boundaries not reviewed. Authorship is retained from the existing inspected Caddo source/credits record; the page-relative credits link returned404 in this follow-up.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [
+      38
+    ],
+    "relatedProfileSlugs": [
+      "caddo"
+    ],
+    "researchGaps": [
+      "Detailed history, a reviewed reading collection and a cleared community-specific picture remain queued.",
+      "Historical names and community relationships require further period-specific study; this outline does not establish present citizenship, jurisdiction or territorial boundaries."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name and narrow historical relationship verified only; no substantive research collection or adequacy review completed.",
+      "remainingLimits": [
+        "Detailed history, a reviewed reading collection and a cleared community-specific picture remain queued.",
+        "Historical names and community relationships require further period-specific study; this outline does not establish present citizenship, jurisdiction or territorial boundaries."
+      ]
+    },
+    "slug": "cadohadacho",
+    "regionGroups": [],
+    "mapRegions": []
   },
   {
     "originalId": 39,
@@ -24220,6 +24274,13 @@
           "co89-aildi",
           "co89-digital-dictionary"
         ]
+      },
+      {
+        "title": "A Texas higher-education application route",
+        "text": "A scholarship packet posted by the Alabama-Coushatta Tribe of Texas in October 2025 shows how its education office organized an application process for college support. It connects admission records, transcripts, a student's study plans and a college financial-aid assessment; its agreement ties funds to educational expenses. This dated administrative source offers a route into the Texas government's institutional life. Student experiences and results remain unexamined, and the packet does not describe the Louisiana or Oklahoma governments.",
+        "sourceIds": [
+          "co89-texas-scholarship-2025"
+        ]
       }
     ],
     "sources": [
@@ -24543,11 +24604,43 @@
         ],
         "countsTowardMinimum": true,
         "countReason": "The community-backed dictionary has actual substantive lexicographic entries and named authorship/oversight; counted as one resource, not as four separate word pages or a bare homepage."
+      },
+      {
+        "id": "co89-texas-scholarship-2025",
+        "title": "Alabama-Coushatta Scholarship Application — selected higher-education procedures and agreements",
+        "author": "Institutional packet; individual byline not supplied",
+        "publisher": "Alabama-Coushatta Tribe of Texas",
+        "url": "https://www.alabama-coushatta.com/uploads/blog/7476aa17d461b449b2222e8eb3965b835fc43ef7.pdf",
+        "sourcePage": "https://www.alabama-coushatta.com/blog/post/alabama-coushatta-scholarship-application",
+        "type": "Indigenous-led / public institutional application packet",
+        "topics": [
+          "Texas",
+          "Higher education",
+          "Contemporary institutions"
+        ],
+        "annotation": "A substantial first-party administrative packet documenting an education-support process. Read as a dated institutional publication, not a report of awards, student experiences or outcomes. The Texas government's joint name does not collapse the Alabama and Coushatta peoples or extend this process to Louisiana or Oklahoma governments.",
+        "publicationDate": "2025-10-27 posting date; PDF revision date unstated",
+        "dateBasis": "Hosting post supplies the October 27, 2025 date; the PDF has no inspected explicit revision date. Site footer excluded as dating evidence.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Selected actual text in the 10-page PDF: p. 1 and p. 4 procedure lists; p. 5 educational-use paragraph; p. 6 academic-progress agreement; p. 7 educational-purpose and no-award-guarantee paragraphs; p. 8 financial-aid coordination; p. 10 intent directions. Page numbers are one-based PDF pages, not printed folios. Blank personal-information fields were encountered but are not evidence about any person. No full-packet verification claimed.",
+        "perspective": "The Texas Tribe's own administrative voice; blank forms supply no applicant testimony or independent evaluation.",
+        "accessStatus": "Public English HTML post and text-extractable PDF read through web research tool without a login or paywall encountered",
+        "accessNotes": "No application submitted, fields filled, office contacted or personal records accessed. Internal rules may change; no current deadline, amount, eligibility determination, citizenship rule, tax interpretation or legal advice is supplied. No original scans, images or maps reused.",
+        "countsTowardMinimum": true,
+        "countReason": "One substantive institutional packet actually inspected in selected procedural passages. Hosting post and multiple form pages count together once, not as independent sources.",
+        "inspectedSubresources": [
+          {
+            "title": "Dated hosting post",
+            "url": "https://www.alabama-coushatta.com/blog/post/alabama-coushatta-scholarship-application",
+            "scope": "Actual title, institutional byline, date and attachment link; web lines 18–29. Provenance only, no separate count."
+          }
+        ]
       }
     ],
     "relatedOriginalIds": [],
     "researchStatus": "researched",
-    "reviewedAt": "2026-10-23",
+    "reviewedAt": "2026-10-27",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "initialAdequacy": {
@@ -24569,7 +24662,8 @@
       "Inspect the 1954 proclamation, relevant state records and original treaty/ratification documents where accessible; keep statutory text distinct from later implementation.",
       "Resolve contradictions in chief dates and organizational chronology through further evidence; do not silently choose whichever source sounds convenient.",
       "Restore legitimate archive access if available later, with collection-level cultural permissions respected; no contact or restricted-material access attempted.",
-      "No present population, language vitality census, private genealogy or program outcome has been established."
+      "No present population, language vitality census, private genealogy or program outcome has been established.",
+      "The selected2025 Texas higher-education packet is an administrative publication, not a study of student experiences, awards or outcomes. Current program operation and other Coushatta governments require separate review."
     ],
     "coverageLevel": "developed-profile",
     "evidenceNotes": [
@@ -24587,6 +24681,7 @@
     "relatedProfileSlugs": [
       "alabamacoushatta-tribe-of-texas"
     ],
+    "compiledAt": "2026-10-27",
     "added": false,
     "slug": "coushatta",
     "regionGroups": [
@@ -30628,6 +30723,62 @@
         "id": "US-MI",
         "name": "Michigan",
         "key": "us-mi"
+      }
+    ]
+  },
+  {
+    "name": "Hasinai",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-27",
+    "kind": "Historical Caddo community grouping",
+    "region": "East Texas (historical)",
+    "overview": "Hasinai has its own name-only directory outline. Hasinai is individually named in the Caddo Voices account as a historical Caddo branch in east Texas. This separate name-only reading route does not identify a separate present-day tribal government, fix a boundary or establish individual descent. The broader Caddo guide remains related reading. Detailed research and imagery remain queued.",
+    "relationshipNote": "Hasinai is individually named in the Caddo Voices account as a historical Caddo branch in east Texas. This separate name-only reading route does not identify a separate present-day tribal government, fix a boundary or establish individual descent. The broader Caddo guide remains related reading.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-27",
+    "identificationEvidence": [
+      {
+        "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+        "publisher": "Texas Beyond History / Texas Archeological Research Laboratory; Caddo Voices account by Cecile Elkins Carter",
+        "reviewedAt": "2026-10-27",
+        "scope": "Selected actual main-body paragraphs on named Caddo communities and three branches (page lines24–28), plus context through31. Names Cadohadacho along the great bend of Red River and Hasinai in east Texas. This is a community-authored historical synthesis, not a current government list or a territorial survey. Original colonial records, images and map boundaries not reviewed. Authorship is retained from the existing inspected Caddo source/credits record; the page-relative credits link returned404 in this follow-up.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [
+      38
+    ],
+    "relatedProfileSlugs": [
+      "caddo"
+    ],
+    "researchGaps": [
+      "Detailed history, a reviewed reading collection and a cleared community-specific picture remain queued.",
+      "Historical names and community relationships require further period-specific study; this outline does not establish present citizenship, jurisdiction or territorial boundaries."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name and narrow historical relationship verified only; no substantive research collection or adequacy review completed.",
+      "remainingLimits": [
+        "Detailed history, a reviewed reading collection and a cleared community-specific picture remain queued.",
+        "Historical names and community relationships require further period-specific study; this outline does not establish present citizenship, jurisdiction or territorial boundaries."
+      ]
+    },
+    "slug": "hasinai",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
       }
     ]
   },

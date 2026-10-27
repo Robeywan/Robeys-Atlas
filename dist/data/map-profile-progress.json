@@ -1452,6 +1452,16 @@
     "reviewedAt": "2026-10-22"
   },
   {
+    "originalId": null,
+    "name": "Cadohadacho",
+    "slug": "cadohadacho",
+    "regions": [],
+    "status": "Awaiting regional evidence",
+    "connectionRecords": 0,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": null
+  },
+  {
     "originalId": 39,
     "name": "Cahuilla",
     "slug": "cahuilla",
@@ -4314,6 +4324,22 @@
         "id": "US-MI",
         "name": "Michigan",
         "key": "us-mi"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": "2026-10-22"
+  },
+  {
+    "originalId": null,
+    "name": "Hasinai",
+    "slug": "hasinai",
+    "regions": [
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
       }
     ],
     "status": "Has sourced regional connection",

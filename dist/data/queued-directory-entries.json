@@ -8956,6 +8956,49 @@
         }
       ],
       "dedupNote": "All 869 existing raw/generated names and search aliases checked. This individually named route is absent; it is not a duplicate of the broader Wichita route or the present Wichita and Affiliated Tribes government."
+    },
+    {
+      "name": "Hasinai",
+      "slug": "hasinai",
+      "entryType": "historically-named-community-grouping",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+          "publisher": "Texas Beyond History / Texas Archeological Research Laboratory; Caddo Voices account by Cecile Elkins Carter",
+          "reviewedAt": "2026-10-27",
+          "scope": "Selected actual main-body paragraphs on named Caddo communities and three branches (page lines24–28), plus context through31. Names Cadohadacho along the great bend of Red River and Hasinai in east Texas. This is a community-authored historical synthesis, not a current government list or a territorial survey. Original colonial records, images and map boundaries not reviewed. Authorship is retained from the existing inspected Caddo source/credits record; the page-relative credits link returned404 in this follow-up.",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "dedupNote": "All872 pre-batch names, preferred names and search terms checked; absent as an individual access point. Distinct route within Caddo context, not another current government or an automatic alias of all Caddo."
+    },
+    {
+      "name": "Cadohadacho",
+      "slug": "cadohadacho",
+      "entryType": "historically-named-community-grouping",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+          "publisher": "Texas Beyond History / Texas Archeological Research Laboratory; Caddo Voices account by Cecile Elkins Carter",
+          "reviewedAt": "2026-10-27",
+          "scope": "Selected actual main-body paragraphs on named Caddo communities and three branches (page lines24–28), plus context through31. Names Cadohadacho along the great bend of Red River and Hasinai in east Texas. This is a community-authored historical synthesis, not a current government list or a territorial survey. Original colonial records, images and map boundaries not reviewed. Authorship is retained from the existing inspected Caddo source/credits record; the page-relative credits link returned404 in this follow-up.",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "dedupNote": "All872 pre-batch names, preferred names and search terms checked; absent as an individual access point. Distinct route within Caddo context, not another current government or an automatic alias of all Caddo.",
+      "mapGap": "Source supplies a historical Red River great-bend description. No modern administrative region is assigned without a separately reviewed connection."
     }
   ],
   "regionAssociations": [
@@ -12944,6 +12987,16 @@
       "evidenceNote": "The TSHA entry explicitly places Taovaya in northern Texas/southern Oklahoma in the eighteenth century, including an upper Red River settlement near present Spanish Fort by 1759. Historical connection only, not a modern border or jurisdiction.",
       "reviewDate": "2026-10-27",
       "identityOnly": true
+    },
+    {
+      "regionId": "US-TX",
+      "name": "Hasinai",
+      "associationType": "Historical connection — named community grouping",
+      "period": "Historical branch in the account of colonial-era Caddo communities",
+      "sourceUrl": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+      "evidenceNote": "Carter’s account explicitly identifies Hasinai in east Texas. Historical navigation connection only; no precise territory or current jurisdiction inferred.",
+      "reviewDate": "2026-10-27",
+      "identityOnly": true
     }
   ],
   "identitySources": [
@@ -13045,6 +13098,28 @@
       "evidence": "The TSHA entry explicitly places Taovaya in northern Texas/southern Oklahoma in the eighteenth century, including an upper Red River settlement near present Spanish Fort by 1759. Historical connection only, not a modern border or jurisdiction.",
       "countsTowardMinimum": false,
       "countReason": "Identity-only outline evidence, separate from substantive reading-source counts."
+    },
+    {
+      "id": "hasinai-identity-20261027",
+      "title": "Hasinai — selected historical name and relationship check",
+      "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+      "publisher": "Texas Beyond History / Texas Archeological Research Laboratory; Caddo Voices account by Cecile Elkins Carter",
+      "reviewedAt": "2026-10-27",
+      "inspectionScope": "Selected actual main-body paragraphs on named Caddo communities and three branches (page lines24–28), plus context through31. Names Cadohadacho along the great bend of Red River and Hasinai in east Texas. This is a community-authored historical synthesis, not a current government list or a territorial survey. Original colonial records, images and map boundaries not reviewed. Authorship is retained from the existing inspected Caddo source/credits record; the page-relative credits link returned404 in this follow-up.",
+      "evidence": "Hasinai is individually named in the Caddo Voices account as a historical Caddo branch in east Texas. This separate name-only reading route does not identify a separate present-day tribal government, fix a boundary or establish individual descent. The broader Caddo guide remains related reading.",
+      "countsTowardMinimum": false,
+      "countReason": "Identity-only outline, not a substantive reading-source review."
+    },
+    {
+      "id": "cadohadacho-identity-20261027",
+      "title": "Cadohadacho — selected historical name and relationship check",
+      "url": "https://www.texasbeyondhistory.net/tejas/voices/images/homeland.html",
+      "publisher": "Texas Beyond History / Texas Archeological Research Laboratory; Caddo Voices account by Cecile Elkins Carter",
+      "reviewedAt": "2026-10-27",
+      "inspectionScope": "Selected actual main-body paragraphs on named Caddo communities and three branches (page lines24–28), plus context through31. Names Cadohadacho along the great bend of Red River and Hasinai in east Texas. This is a community-authored historical synthesis, not a current government list or a territorial survey. Original colonial records, images and map boundaries not reviewed. Authorship is retained from the existing inspected Caddo source/credits record; the page-relative credits link returned404 in this follow-up.",
+      "evidence": "Cadohadacho is individually named in the Caddo Voices account as a historical Caddo branch along the great bend of Red River. This separate name-only reading route does not identify a separate present-day tribal government, fix a boundary or establish individual descent. The broader Caddo guide remains related reading.",
+      "countsTowardMinimum": false,
+      "countReason": "Identity-only outline, not a substantive reading-source review."
     }
   ],
   "existingNameAliases": [
