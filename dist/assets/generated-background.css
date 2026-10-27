@@ -1,6 +1,6 @@
-/* Owner-requested AI-generated decorative collage; never documentary evidence. */
-:root{--atlas-collage:url('atlas-generated-collage-20261025.png')}
-body{background-color:#d7b278;background-image:linear-gradient(#e8c99614,#e8c99614),var(--atlas-collage);background-position:center,center;background-size:cover,cover;background-repeat:no-repeat;background-attachment:fixed}
+/* Owner-requested collage of identified archival portraits; full credits in About. */
+:root{--atlas-collage:url('archival-portrait-collage-20261026.svg')}
+body{background-color:#b99569;background-image:linear-gradient(#e8c99617,#e8c99617),var(--atlas-collage);background-position:center,center top;background-size:auto,1800px auto;background-repeat:repeat,repeat-y;background-attachment:scroll}
 /* Empty page gutters stay transparent, rather than forming long pale side strips. */
 body:not(.custom-profile-page):not(.apache-collage-page)>main.wrap,body>main>.wrap{background:none}
 .prose{background:#fff3daf5;padding:24px 28px;border-radius:4px}
