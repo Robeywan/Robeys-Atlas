@@ -1,3 +1,9 @@
+# Yaqui source and Lipan visual follow-up — October 27, 2026
+
+Yaqui441 now has nine substantive works/fifteen cards/eleven cited sections and Still unfinished adequacy. The selected Spicer1940 history contributes an attributed undated El Paso crossing, not corroboration of Texas Band migration or descent. Lipan185 now has a credited NPS historical-print detail on card/opened page; original1857-design reuse basis, crop and uncertain scan lineage are disclosed, and Lipan research counts are unchanged. See Yaqui-Lipan-Update-2026-10-27.md and the latest native publication receipt. All histories/queued names/maps/owner studies are preserved. Continue small ordinary-included batches in the saved regional order; old800research credits remain exhausted. Earlier entries below are historical.
+
+---
+
 # Wichita and individually named community routes — October 27, 2026
 
 Wichita original 431 now has nine substantive inspected works, fourteen source cards and twelve cited sections, with Still unfinished adequacy. Its new primary collection distinguishes 1859 arrival/handover and an attributed 1882 petition. Waco, Tawakoni and Taovaya now have separately findable zero-source queued outlines; Kichai is a verified search alias on Kitsai 171. Existing Wichita imagery is retained and reviewed on card/page. See Wichita-Community-Routes-Update-2026-10-27.md and the latest native publication receipt. All remaining history, imagery and community-name gaps stay explicit. Continue Texas → Idaho → Minnesota → Blackfeet Tribe Montana → Michigan using available ordinary usage only; the old 800-credit research allowance is exhausted. Older entries below are historical.

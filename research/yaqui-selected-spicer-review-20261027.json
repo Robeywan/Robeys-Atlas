@@ -1,0 +1,71 @@
+{
+  "reviewedAt": "2026-10-27",
+  "targetOriginalId": 441,
+  "inspected": [
+    {
+      "url": "https://open.uapress.arizona.edu/read/pascua/section/391fe65f-4b65-4716-bb84-54d667a0438d",
+      "publisher": "University of Arizona Press / Open Arizona",
+      "work": "Pascua (Spicer 1940)",
+      "method": "Substantial indexed primary-publisher chapter body, not only result summary; normal HTML shell separately retained. Noncontinuous selection explicitly disclosed.",
+      "scope": "Chapter I: History opening paragraph (including Francisco Valencia’s reported El Paso crossing), following historical-context/migration paragraphs, and selected Yaquis in Arizona/local-founding paragraphs; Population opening establishes the May 1937 study context, and Summary opening was read. The indexed body omits intervening text, so this is noncontinuous selected content, not a complete chapter or book review. No printed pagination was available in the inspected HTML; none is invented.",
+      "countedOnce": true
+    },
+    {
+      "url": "https://uapress.arizona.edu/book/pascua",
+      "scope": "Actual publisher record lines 12–26",
+      "countedAsSeparateWork": false,
+      "metadata": {
+        "author": "Edward H. Spicer",
+        "originalPublisher": "University of Chicago Press",
+        "originalYear": 1940,
+        "openAccessEdition": "May 2019",
+        "ISBN": "9780816540327",
+        "pages": 325
+      }
+    },
+    {
+      "url": "https://www.tbyi.gov/history",
+      "publisher": "Texas Band of Yaqui Indians",
+      "scope": "Actual public page body lines 23–113 broad historical narrative attributed to John P. Schmal; captions encountered at 118–128 and 148–152. Underlying genealogy/archive/photo records were not opened.",
+      "counted": false,
+      "reason": "The new Texas migration/photo captions lack inspected underlying records, and another institutional route does not independently corroborate the already-counted Texas account."
+    },
+    {
+      "url": "https://scholarworks.utep.edu/finding_aid/190/",
+      "publisher": "University of Texas at El Paso",
+      "scope": "Finding-aid catalogue record, author Abbie Weiser; Guide to MS111 Joe K. Parish papers. Associated finding-aid PDF and archival papers not opened.",
+      "counted": false,
+      "reason": "Catalogue lead, not inspected historical papers or substantive Texas migration narrative."
+    }
+  ],
+  "claimChecks": [
+    {
+      "claim": "Spicer reports a story about Francisco Valencia crossing at El Paso as part of a circus troupe.",
+      "support": "History opening complete paragraph in retained selected text.",
+      "scopeLimit": "Attributed recollection, no crossing date; no same-name current identity, permanent settlement, Texas Band ancestry or legal status inferred."
+    },
+    {
+      "claim": "Study context includes May 1937 Pascua/adjacent Barrio Belen observations.",
+      "support": "Population opening in retained indexed chapter body.",
+      "scopeLimit": "Used only to establish historical study context; no population/racial categories adopted."
+    },
+    {
+      "claim": "First publication1940, open-access reprintMay2019.",
+      "support": "Actual publisher record lines20and26.",
+      "scopeLimit": "Different from observation date; not new independent work."
+    }
+  ],
+  "exclusions": [
+    "No full-book or continuous whole-chapter inspection claimed.",
+    "No original crossing records, full interview transcripts, private records, maps or images inspected.",
+    "No current legal-status, territorial, enrollment or descent finding.",
+    "No dated crossing invented.",
+    "No blanket adoption of source racial classifications, motives, language generalizations or culturally governed material.",
+    "No claim that the El Paso recollection corroborates the1870sPresidio/FortDavis account."
+  ],
+  "integrity": {
+    "retainedChapterBody": "Selected indexed chapter body; unrelated modern same-name search result removed at result separator.",
+    "abridgmentNote": "Index exposes noncontinuous body sections: the Yaquis in Arizona passage skips intervening prose. Do not present the selection as a complete continuous transcript or infer omitted events.",
+    "publicationUse": "Link-only and modest attributed paraphrase. Private evidence is not a public download."
+  }
+}

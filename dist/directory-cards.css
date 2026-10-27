@@ -53,3 +53,5 @@
 .atlas-home-page .nation-row .directory-card-credit,.atlas-home-page .nation-row .apache-card-credit{font-size:13px;line-height:1.55;margin-top:12px}
 .atlas-home-page .nation-row .nation-link{min-height:220px;padding-top:24px;padding-bottom:24px}
 @media(max-width:700px){.atlas-home-page .nation-row .nation-title{font-size:34px;line-height:1.15}.atlas-home-page .nation-row .nation-alt,.atlas-home-page .nation-row .row-meta{font-size:16px}.atlas-home-page .nation-row .directory-card-credit,.atlas-home-page .nation-row .apache-card-credit{font-size:13px}.nation-row.directory-visual-card .nation-link>div:first-child,.nation-row.directory-visual-card .row-meta{max-width:88%}.atlas-home-page .nation-row .nation-link{min-height:240px;padding-top:22px;padding-bottom:22px}}
+/* Preserve the rider’s head in this square archival detail. */
+body.atlas-home-page .nation-row[data-slug="lipan-apache"] .directory-card-art.has-photo{background-position:center top!important}
