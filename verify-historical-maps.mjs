@@ -39,9 +39,21 @@ for(const m of c.maps)for(const l of m.profileLinks||[])assert(html.includes('..
 const preservationBase='b892024566cbf35e51d76c73688ad7ff1aff8bb6';
 const queued=read('data/queued-directory-entries.json');
 const earlierQueued=JSON.parse(execFileSync('git',['show','735b0fc72f9a221b7d913478680fcbf2ed970141:data/queued-directory-entries.json'],{maxBuffer:20e6}));
-assert.deepEqual(queued.profiles.slice(0,earlierQueued.profiles.length),earlierQueued.profiles,'Earlier queued entries preserved');
 assert(queued.profiles.length>=earlierQueued.profiles.length);
+// Research may promote an earlier identity-only route into a reviewed guide.
+// Preserve its original identity fields and position; the cohort, source,
+// image and content-count contracts below validate each such promotion.
+const queuePromotionFields=new Set(['researchStatus','substantiveWorks','entryStage','imageStatus','listedReadingSources','reviewedAt','startingGuideBatch']);
+for(const [i,old] of earlierQueued.profiles.entries()){
+ const item=queued.profiles[i];
+ if(item.researchStatus==='queued')assert.deepEqual(item,old,'Earlier queued identity row preserved');
+ else {
+  const identity=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!queuePromotionFields.has(key)));
+  assert.deepEqual(identity(item),identity(old),'Promoted route retains every original identity field');
+ }
+}
 const earlierProfiles=JSON.parse(execFileSync('git',['show','HEAD:data/profiles.json'],{maxBuffer:50e6}));
+const currentRawProfiles=read('data/profiles.json');
 const startingRows=fs.readdirSync('data').filter(name=>/^twenty-profile-batch-\d+\.json$/.test(name)).flatMap(name=>read('data/'+name).profiles);
 const visualImages=read('data/profile-visual-assets.json').images;
 for(const item of queued.profiles){
@@ -59,7 +71,14 @@ for(const item of queued.profiles){
   assert.equal(item.substantiveWorks,new Set(p.sources.filter(s=>s.contentReviewedAt&&s.countsTowardMinimum!==false).map(s=>s.url)).size);
   const old=earlierProfiles.find(old=>old.name===p.name);assert(old);
   assert.deepEqual(p.identificationEvidence||[],old.identificationEvidence||[]);
-  for(const source of old.sources)assert(p.sources.some(current=>JSON.stringify(current)===JSON.stringify(source)),'Earlier identity/source object preserved: '+p.name);
+  const raw=currentRawProfiles.find(current=>current.name===p.name);assert(raw);
+  for(const source of old.sources){
+   // Compare the canonical objects exactly. Built source cards may add default
+   // presentation fields (for example topics:[]) without changing evidence.
+   assert.deepEqual(raw.sources.find(current=>current.id===source.id),source,'Earlier raw identity/source object preserved: '+p.name);
+   const rendered=p.sources.find(current=>current.id===source.id);assert(rendered);
+   for(const [key,value] of Object.entries(source))assert.deepEqual(rendered[key],value,'Earlier source field rendered: '+p.name+' '+key);
+  }
  }
 }
 for(const file of ['data/owner-reading-leads.json','data/region-associations.json','data/map-regions.geojson','data/map-lakes.geojson','data/historical-maps.json']){
