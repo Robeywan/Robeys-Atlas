@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 251,
+    "selectedProfiles": 271,
     "existingApache": 1,
-    "newProfileTreatments": 250,
-    "newTreatmentsWithPhotographs": 244,
+    "newProfileTreatments": 270,
+    "newTreatmentsWithPhotographs": 264,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -6893,6 +6893,85 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "jemez-pueblo",
+      "name": "Jemez Pueblo",
+      "originalId": 150,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 294,
+      "angle": -64,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Red Rocks at Walatowa — USGS landscape",
+          "creator": "Annette L. Olson / USGS",
+          "archive": "U.S. Geological Survey",
+          "date": "2005-10-26 (USGS record date)",
+          "rightsLabel": "Public Domain — exact USGS item designation",
+          "rightsUrl": "https://www.usgs.gov/media/images/jemez-red-rocks-walatowa",
+          "scope": "USGS identifies this natural Red Rocks landscape at Walatowa. The frame shows cliffs, vegetation, a trail and a distant person; no village, shrine, kiva, grave or ceremony is identified. This is regional natural-landscape context, not a tribal boundary or permission to visit/capture new photographs. Present village-photo restrictions remain explicit. The chosen1800×1350 full-frame web JPEG was imported unchanged; the separately hashed3072×2304 source original was proportionally resized as described above. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Red cliffs rise beside a sandy path, grasses and scattered trees beneath a wide blue sky; a distant person stands on the path.",
+          "id": "c13-jemez-pueblo-photo",
+          "profileSlugs": [
+            "jemez-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://www.usgs.gov/media/images/jemez-red-rocks-walatowa",
+          "sourceImageUrl": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/Biomes_AridandDesertEnvironments_00037.jpg",
+          "credit": "Annette L. Olson / USGS / U.S. Geological Survey · Public Domain — exact USGS item designation",
+          "cardCredit": "Annette L. Olson / USGS · Public Domain — exact USGS item designation",
+          "contextSources": [
+            {
+              "title": "About Jemez Pueblo — brief identity context (supporting)",
+              "url": "https://www.jemezpueblo.org/about/",
+              "inspectionScope": "Actual public About body, selected identity, language and government paragraphs and quick-fact labels."
+            },
+            {
+              "title": "Visitor Etiquette — cultural privacy and photography rules (supporting)",
+              "url": "https://www.jemezpueblo.org/visit/visitor-etiquette/",
+              "inspectionScope": "Actual public policy body: closed-village statement, residential privacy, no-photography/recording rule, restricted areas and final village/shrine/event notice. Ceremonial procedure details not republished."
+            }
+          ],
+          "asset": "assets/profile-visuals/c13-jemez-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-jemez-pueblo-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "recordInspection": "Exact identity, creator and media-specific reuse terms inspected; complete delivered local frame independently viewed with view_image. Not a metadata CC0 inference.",
+          "reproductionNote": "Exact USGS Original 3072×2304 frame delivered normally HTTP200 and viewed; proportionally resized to 1800×1350 and JPEG-compressed at quality 88 for the web, preserving the full frame. Initial 220×165 medium was not used as the asset. No pixel crop, retouching, colorization or generation. Background/card CSS may crop or overlay presentation while the complete delivered frame remains available. The chosen1800×1350 full-frame web JPEG was imported unchanged; the separately hashed3072×2304 source original was proportionally resized as described above.",
+          "width": 1800,
+          "height": 1350,
+          "bytes": 533248,
+          "inputFileSha256": "000c298fac508d0369e0fb6fbfcf6438cbde74ed138ca032a9e28a0b2cf4b4e2",
+          "retrievedSourceSha256": "d935f5eebc080e3b169bc1003bbaa30cbb57c3b6a835c39613731679675ea510",
+          "assetSha256": "000c298fac508d0369e0fb6fbfcf6438cbde74ed138ca032a9e28a0b2cf4b4e2",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact USGS Original link exposed on item page",
+            "sha256": "000c298fac508d0369e0fb6fbfcf6438cbde74ed138ca032a9e28a0b2cf4b4e2"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:294;--profile-angle:-64deg;--profile-photo:url(\"../../assets/profile-visuals/c13-jemez-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "jumano",
       "name": "Jumano",
       "originalId": 151,
@@ -7142,6 +7221,82 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "kewa-pueblo",
+      "name": "Kewa Pueblo",
+      "originalId": 164,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 205,
+      "angle": 50,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Distant Kewa/Santo Domingo view — Hillers historical photograph",
+          "creator": "John Karl Hillers",
+          "archive": "National Archives, Bureau of American Ethnology records; NAID 523760",
+          "date": "circa 1871–1907 (catalogue range)",
+          "rightsLabel": "Public domain — U.S. federal-government work",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Santo_Domingo,_New_Mexico_-_NARA_-_523760.jpg#Licensing",
+          "scope": "The exact archival item identifies Santo Domingo/Kewa Pueblo. Its distant settlement, open landscape and horse-drawn wagons are an outside historical view, not present community conditions or an exact exposure date. No visible ceremony or identifiable sacred structure is interpreted. Unidentified figures are not named; original consent and present access are not established. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A black-and-white historical view shows a distant settlement across open ground, with horse-drawn wagons and several small figures in the foreground.",
+          "id": "c13-kewa-pueblo-photo",
+          "profileSlugs": [
+            "kewa-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santo_Domingo,_New_Mexico_-_NARA_-_523760.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Santo_Domingo%2C_New_Mexico_-_NARA_-_523760.jpg/960px-Santo_Domingo%2C_New_Mexico_-_NARA_-_523760.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "credit": "John Karl Hillers / National Archives, Bureau of American Ethnology records; NAID 523760 · Public domain — U.S. federal-government work",
+          "cardCredit": "John Karl Hillers · Public domain — U.S. federal-government work",
+          "contextSources": [
+            {
+              "title": "Pueblo of Santo Domingo (Kewa Pueblo) — selected historical context",
+              "url": "https://home.nps.gov/places/pueblo-of-santo-domingo-kewa-pueblo.htm",
+              "inspectionScope": "Actual main body: introductory name/place context; selected destructive-flood and rebuilding paragraph; nineteenth-century railway and twentieth-century Route 66 craft-trade paragraphs."
+            }
+          ],
+          "asset": "assets/profile-visuals/c13-kewa-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-kewa-pueblo-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "recordInspection": "Exact identity, creator and media-specific reuse terms inspected; complete delivered local frame independently viewed with view_image. Not a metadata CC0 inference.",
+          "reproductionNote": "Complete available 960×753 provider-listed 960px preview delivered normally HTTP200 and viewed. Larger original pixels remain uninspected; no Atlas pixel crop, retouching, colorization or generation. Background/card CSS may crop or overlay presentation while the complete delivered frame remains available. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 753,
+          "bytes": 178597,
+          "inputFileSha256": "d5a61f2483a62ccf2c6df209ddc27068dd70de7fd98f8817aa99208a77e956f0",
+          "retrievedSourceSha256": "d5a61f2483a62ccf2c6df209ddc27068dd70de7fd98f8817aa99208a77e956f0",
+          "assetSha256": "d5a61f2483a62ccf2c6df209ddc27068dd70de7fd98f8817aa99208a77e956f0",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-exposed960px preview",
+            "sha256": "d5a61f2483a62ccf2c6df209ddc27068dd70de7fd98f8817aa99208a77e956f0"
+          },
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Santo_Domingo%2C_New_Mexico_-_NARA_-_523760.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Santo_Domingo%2C_New_Mexico_-_NARA_-_523760.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:205;--profile-angle:50deg;--profile-photo:url(\"../../assets/profile-visuals/c13-kewa-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "keweenaw-bay-indian-community",
@@ -8017,6 +8172,87 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:68;--profile-angle:78deg;--profile-photo:url(\"../../assets/profile-visuals/lac-vieux-desert-markheffron2-2007-preview.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "laguna-pueblo",
+      "name": "Laguna Pueblo",
+      "originalId": 179,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 19,
+      "angle": -73,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Laguna water-carrier photograph, 1902",
+          "creator": "Detroit Photo Co. (copyright credit); individual photographer unidentified",
+          "archive": "Library of Congress Prints and Photographs, LCCN 2005691771, via Wikimedia Commons",
+          "date": "1902 (catalogue date)",
+          "rightsLabel": "Public domain — pre-1931 published/registered photograph; archive states no known publication restrictions",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Indian_women_with_large_water_pots_in_front_of_Pueblo_of_Laguna,_New_Mexico_LCCN2005691771.jpg#Licensing",
+          "scope": "The catalogued 1902 cyanotype identifies women with water pots at Laguna. It is an outside commercial historical photograph; subjects are unidentified, not named or current representatives. Past consent is not inferred. Current Pueblo photography/privacy restrictions still apply and this reproduction conveys no permission to visit or capture. The jars are not extracted, separately licensed or used as Atlas motifs. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A faded historical print shows two women beside adobe buildings, one holding a decorated pot and another balancing a pot on her head.",
+          "id": "c13-laguna-pueblo-photo",
+          "profileSlugs": [
+            "laguna-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_women_with_large_water_pots_in_front_of_Pueblo_of_Laguna,_New_Mexico_LCCN2005691771.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Indian_women_with_large_water_pots_in_front_of_Pueblo_of_Laguna%2C_New_Mexico_LCCN2005691771.jpg/960px-Indian_women_with_large_water_pots_in_front_of_Pueblo_of_Laguna%2C_New_Mexico_LCCN2005691771.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "credit": "Detroit Photo Co. (copyright credit); individual photographer unidentified / Library of Congress Prints and Photographs, LCCN 2005691771, via Wikimedia Commons · Public domain — pre-1931 published/registered photograph; archive states no known publication restrictions",
+          "cardCredit": "Detroit Photo Co. (copyright credit); individual photographer unidentified · Public domain — pre-1931 published/registered photograph; archive states no known publication restrictions",
+          "contextSources": [
+            {
+              "title": "Pueblo of Laguna — selected villages, history and Route 66 account",
+              "url": "https://home.nps.gov/places/pueblo-of-laguna.htm",
+              "inspectionScope": "Actual main body: six-village and Keres/Kawaik introduction; selected older presence versus 1699 settlement discussion; village development and Route 66 realignment paragraphs; final privacy/photography caution."
+            },
+            {
+              "title": "Cultural Resources / Tribal Historic Preservation Program — selected public programme account",
+              "url": "https://www.lagunapueblo-nsn.gov/departments/environmental-and-natural-resources/cultural-resources-tribal-historic-preservation-program/",
+              "inspectionScope": "Actual public Program Overview: mission, Scope of Work and Summary paragraphs on leadership advice, cultural surveys, interdepartmental work, consultation, repatriation and stated future ambitions."
+            }
+          ],
+          "asset": "assets/profile-visuals/c13-laguna-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-laguna-pueblo-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "recordInspection": "Exact identity, creator and media-specific reuse terms inspected; complete delivered local frame independently viewed with view_image. Not a metadata CC0 inference.",
+          "reproductionNote": "Complete provider-listed960×1268 preview delivered normally HTTP200 and viewed. Commons records its parent raster as upscaled from485×640 to 1163×1536; this is not newly resolved detail. Full available print borders, fading and marks remain; original LoC scan uninspected after normal403/reader failure. No Atlas crop, retouching or colorization. Background/card CSS may crop or overlay presentation while the complete delivered frame remains available. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 1268,
+          "bytes": 176385,
+          "inputFileSha256": "99520d74b7b1b2bbe1decbe3bd5e727c5a056b6d58a91ec1db47aa2a1bbd7870",
+          "retrievedSourceSha256": "99520d74b7b1b2bbe1decbe3bd5e727c5a056b6d58a91ec1db47aa2a1bbd7870",
+          "assetSha256": "99520d74b7b1b2bbe1decbe3bd5e727c5a056b6d58a91ec1db47aa2a1bbd7870",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-exposed960px preview",
+            "sha256": "99520d74b7b1b2bbe1decbe3bd5e727c5a056b6d58a91ec1db47aa2a1bbd7870"
+          },
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Indian_women_with_large_water_pots_in_front_of_Pueblo_of_Laguna%2C_New_Mexico_LCCN2005691771.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Indian_women_with_large_water_pots_in_front_of_Pueblo_of_Laguna%2C_New_Mexico_LCCN2005691771.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:19;--profile-angle:-73deg;--profile-photo:url(\"../../assets/profile-visuals/c13-laguna-pueblo-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -10014,6 +10250,87 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "nambe-pueblo",
+      "name": "Nambé Pueblo",
+      "originalId": 236,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 340,
+      "angle": -68,
+      "composition": "ribbon",
+      "images": [
+        {
+          "title": "Nambé Falls recreation-landscape photograph, 2008",
+          "creator": "kenkopal",
+          "archive": "Flickr photograph, media license reviewed on Wikimedia Commons",
+          "date": "2008-05-16",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "scope": "Falls-only view of the explicitly named public recreation landscape; no ceremony, private home or restricted structure visible. Pueblo sources connect the named falls and reservoir with resource stewardship and public recreation. Current on-location photography requires permits and may be restricted. Original 2008 permit/consent was not inspected, and reuse gives no permission to visit/capture or claim current water safety. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Water drops between rough rock walls into a dark pool, with another cascade and sparse plants in the foreground.",
+          "id": "c13-nambe-pueblo-photo",
+          "profileSlugs": [
+            "nambe-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nambe_Falls.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Nambe_Falls.jpg/960px-Nambe_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "credit": "kenkopal / Flickr photograph, media license reviewed on Wikimedia Commons · CC BY-SA 2.0",
+          "cardCredit": "kenkopal · CC BY-SA 2.0",
+          "contextSources": [
+            {
+              "title": "Environmental & Natural Resources — selected water and community-farm account",
+              "url": "https://www.nambepueblo.org/environmental-natural-resources/",
+              "inspectionScope": "Actual department purpose and resource-use introduction; selected Surface Water Quality Program goals and Rio Nambé/Falls Reservoir context; Community Farm paragraph. Ceremonial/bison-slaughter details excluded."
+            },
+            {
+              "title": "Visiting Nambé Pueblo — photography and residential privacy (supporting)",
+              "url": "https://www.nambepueblo.org/visitors-nambe-pueblo/",
+              "inspectionScope": "Actual visitor body: closures and living-community statement; code paragraphs on homes, location-photo permits, restricted areas, signage and artifacts. Ceremonial procedure details excluded from synthesis."
+            }
+          ],
+          "asset": "assets/profile-visuals/c13-nambe-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-nambe-pueblo-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "recordInspection": "Exact identity, creator and media-specific reuse terms inspected; complete delivered local frame independently viewed with view_image. Not a metadata CC0 inference.",
+          "reproductionNote": "Complete available 960×1440 provider-listed 960px preview delivered normally HTTP200 and viewed. Larger original pixels remain uninspected; no Atlas pixel crop, retouching, colorization or generation. Background/card CSS may crop or overlay presentation while the complete delivered frame remains available. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 1440,
+          "bytes": 544627,
+          "inputFileSha256": "740c9355cb801c5530c148b0a80697bc6b55093674edf6945aa5db60f430350f",
+          "retrievedSourceSha256": "740c9355cb801c5530c148b0a80697bc6b55093674edf6945aa5db60f430350f",
+          "assetSha256": "740c9355cb801c5530c148b0a80697bc6b55093674edf6945aa5db60f430350f",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-exposed960px preview",
+            "sha256": "740c9355cb801c5530c148b0a80697bc6b55093674edf6945aa5db60f430350f"
+          },
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nambe_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nambe_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:340;--profile-angle:-68deg;--profile-photo:url(\"../../assets/profile-visuals/c13-nambe-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "narragansett",
       "name": "Narragansett",
       "originalId": 238,
@@ -11124,6 +11441,82 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "ohkay-owingeh",
+      "name": "Ohkay Owingeh",
+      "originalId": 264,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 223,
+      "angle": -23,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Rio Chama near Abiquiú — upstream regional context, 2023",
+          "creator": "Matt Walter",
+          "archive": "Flickr photograph via Wikimedia Commons",
+          "date": "2023-02-24",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "scope": "The photographer explicitly identifies the Rio Chama in/around Abiquiú. Ohkay’s own public introduction names the Rio Chama/Rio Grande confluence. This is an upstream regional waterway view, NOT the Pueblo, exact confluence, a former village, current reservation land or access permission. No relationship to another community is inferred from proximity. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "The Rio Chama flows past bare riverside trees below a rugged sunlit hill and a clear blue sky.",
+          "id": "c13-ohkay-owingeh-photo",
+          "profileSlugs": [
+            "ohkay-owingeh"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_Chama_River.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rio_Chama_River.jpg/960px-Rio_Chama_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "credit": "Matt Walter / Flickr photograph via Wikimedia Commons · CC BY 2.0",
+          "cardCredit": "Matt Walter · CC BY 2.0",
+          "contextSources": [
+            {
+              "title": "Home — brief own-community river context (supporting)",
+              "url": "https://ohkay.org/home/",
+              "inspectionScope": "Actual indexed Our History and public community-introduction paragraphs, specifically Tewa and Rio Grande/Rio Chama confluence wording."
+            }
+          ],
+          "asset": "assets/profile-visuals/c13-ohkay-owingeh-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-ohkay-owingeh-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "recordInspection": "Exact identity, creator and media-specific reuse terms inspected; complete delivered local frame independently viewed with view_image. Not a metadata CC0 inference.",
+          "reproductionNote": "Complete available 960×720 provider-listed 960px preview delivered normally HTTP200 and viewed. Larger original pixels remain uninspected; no Atlas pixel crop, retouching, colorization or generation. Background/card CSS may crop or overlay presentation while the complete delivered frame remains available. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 720,
+          "bytes": 269060,
+          "inputFileSha256": "df366861c9d0549d857bb113c4520856d224fb13a6abca905ac3cfd18acc6de0",
+          "retrievedSourceSha256": "df366861c9d0549d857bb113c4520856d224fb13a6abca905ac3cfd18acc6de0",
+          "assetSha256": "df366861c9d0549d857bb113c4520856d224fb13a6abca905ac3cfd18acc6de0",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-exposed960px preview",
+            "sha256": "df366861c9d0549d857bb113c4520856d224fb13a6abca905ac3cfd18acc6de0"
+          },
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rio_Chama_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Rio_Chama_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:223;--profile-angle:-23deg;--profile-photo:url(\"../../assets/profile-visuals/c13-ohkay-owingeh-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "ojibways-of-garden-river-first-nation",
       "name": "Ojibways of Garden River First Nation",
       "originalId": null,
@@ -12120,6 +12513,76 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "pecos-pueblo",
+      "name": "Pecos Pueblo",
+      "originalId": 285,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 233,
+      "angle": 59,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Exterior mission church remains at Pecos, July 18, 2016",
+          "creator": "Travellover",
+          "date": "2016-07-18",
+          "archive": "Photographer’s own work, via Wikimedia Commons",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "cardCredit": "Photo: Travellover · CC BY-SA 4.0",
+          "scope": "Public exterior remains of a colonial mission at the historical Pecos site. Not precontact Pueblo architecture, a present-community portrait, a claim that Pecos descendants disappeared or permission to photograph restricted spaces. Jemez-published history supplies the living descendant context. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Adobe colonial mission walls behind low foundation walls under a cloudy sky at the historic Pecos site.",
+          "contextSources": [
+            {
+              "title": "Pecos Pueblo – Pueblo of Jemez",
+              "url": "https://www.jemezpueblo.org/about/pecos-pueblo/",
+              "inspectionScope": "Christopher Toya article’s selected public history, 1838 movement to Jemez and continuing Pecos descendant connection."
+            }
+          ],
+          "recordInspection": "Exact Commons Mission Church record, Travellover own-work attribution, date and media-specific CC BY-SA 4.0 licence read. Only date used; differing descriptive/EXIF time-of-day fields are not reconciled.",
+          "id": "c13-pecos-pueblo-photo",
+          "profileSlugs": [
+            "pecos-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mission_Church,_Pecos_National_Park,_Pecos,_New_Mexico_03.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mission_Church%2C_Pecos_National_Park%2C_Pecos%2C_New_Mexico_03.jpg/960px-Mission_Church%2C_Pecos_National_Park%2C_Pecos%2C_New_Mexico_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mission_Church%2C_Pecos_National_Park%2C_Pecos%2C_New_Mexico_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-pecos-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-pecos-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 640,
+          "credit": "Travellover / Photographer’s own work, via Wikimedia Commons · CC BY-SA 4.0",
+          "reproductionNote": "Exact provider-exposed 960-pixel JPEG preview retrieved normally HTTP 200. Complete available delivered frame personally inspected with view_image; preview retained byte-for-byte with no Atlas pixel crop, retouching, colourization or generation. Provider resizing/compression and any TIFF-to-JPEG conversion remain. CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels were not retrieved or inspected. Complete available exterior frame retained: mission adobe walls, low foundations and clouded sky. No people, burials, ceremony or restricted interior shown. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "2a8e4545ccdfc680250e7c4bfc1bd3f9671a8ffe330792ea89e892f4eb5971d9",
+          "retrievedSourceSha256": "2a8e4545ccdfc680250e7c4bfc1bd3f9671a8ffe330792ea89e892f4eb5971d9",
+          "assetSha256": "2a8e4545ccdfc680250e7c4bfc1bd3f9671a8ffe330792ea89e892f4eb5971d9",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "2a8e4545ccdfc680250e7c4bfc1bd3f9671a8ffe330792ea89e892f4eb5971d9"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:233;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/c13-pecos-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "penateka",
       "name": "Penateka",
       "originalId": null,
@@ -12259,6 +12722,229 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "picuris-pueblo",
+      "name": "Picuris Pueblo",
+      "originalId": 292,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 218,
+      "angle": -48,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Gerald Nailor Jr. — individually identified portrait, 2008",
+          "creator": "Uyvsdi",
+          "archive": "Wikimedia Commons, photographer’s own work",
+          "date": "2008",
+          "rightsLabel": "Public domain — photographer’s worldwide release",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Gerald_nailor_jr.jpg#Licensing",
+          "scope": "The photographer identifies Gerald Nailor Jr. as an artist and Picuris governor in this dated record. This is one named individual, not a current-officeholder assertion, universal portrait or documentary proof of every community practice. Partial background artworks are incidental to the person; their creators/rights are not separately established and designs are neither extracted nor interpreted. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A man in sunglasses, a black Western hat and a white shirt stands before partially visible art panels.",
+          "id": "c13-picuris-pueblo-photo",
+          "profileSlugs": [
+            "picuris-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerald_nailor_jr.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gerald_nailor_jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "credit": "Uyvsdi / Wikimedia Commons, photographer’s own work · Public domain — photographer’s worldwide release",
+          "cardCredit": "Uyvsdi · Public domain — photographer’s worldwide release",
+          "contextSources": [
+            {
+              "title": "Tribal Programs — selected museum and stewardship accounts",
+              "url": "https://www.picurispueblo.org/tribal-programs",
+              "inspectionScope": "Actual selected body: Bison Program mission/community-learning paragraphs; Museum and Interpretive Center mission, exhibit introduction and museum-history paragraphs; public photo-permit notice encountered."
+            }
+          ],
+          "asset": "assets/profile-visuals/c13-picuris-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-picuris-pueblo-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "recordInspection": "Exact identity, creator and media-specific reuse terms inspected; complete delivered local frame independently viewed with view_image. Not a metadata CC0 inference.",
+          "reproductionNote": "Complete available 291×432 provider-listed original delivered normally HTTP200 and viewed. Low resolution is retained, not AI-upscaled. No Atlas pixel crop, retouching or generation. Background/card CSS may crop or overlay presentation while the complete delivered frame remains available. Complete available retrieved JPEG imported unchanged.",
+          "width": 291,
+          "height": 432,
+          "bytes": 151146,
+          "inputFileSha256": "c0ae8a2c1940d72e70956b2ea8162924e07c4fd8f3df3f6e5b1869e295008819",
+          "retrievedSourceSha256": "c0ae8a2c1940d72e70956b2ea8162924e07c4fd8f3df3f6e5b1869e295008819",
+          "assetSha256": "c0ae8a2c1940d72e70956b2ea8162924e07c4fd8f3df3f6e5b1869e295008819",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "complete available original",
+            "sha256": "c0ae8a2c1940d72e70956b2ea8162924e07c4fd8f3df3f6e5b1869e295008819"
+          },
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gerald_nailor_jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gerald_nailor_jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:-48deg;--profile-photo:url(\"../../assets/profile-visuals/c13-picuris-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "pima-akimel-oodham",
+      "name": "Pima (Akimel O'odham)",
+      "originalId": 293,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 35,
+      "angle": -66,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Sacaton Dam and Bridge, downstream side from north end, 1995",
+          "creator": "Bob Knotts",
+          "date": "1995",
+          "archive": "Library of Congress, Prints and Photographs Division; Historic American Engineering Record, AZ-50-D / ARIZ,11-COOL,1D-1, via Wikimedia Commons",
+          "rightsLabel": "Public domain — item-specific Commons PD-USGov-NPS designation",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NPS",
+          "cardCredit": "Photo: Bob Knotts · HAER / Public domain",
+          "scope": "Modern San Carlos Irrigation Project infrastructure at the Gila River/Sacaton Dam and Bridge, specifically identified by the HAER record. Community publications document the Gila River farming and water-history connection. Not traditional Akimel O’odham architecture, a portrait of all Pima communities, evidence of restored flow or a legal/territorial claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Black-and-white photograph of a long concrete bridge receding above a dry, scrub-filled river channel, with the archive border and identification marks visible.",
+          "contextSources": [
+            {
+              "title": "Pima-Maricopa Irrigation Project, Education Initiative",
+              "url": "https://www.gilariver.com/lessons/waterlosslesson01.pdf",
+              "inspectionScope": "Selected four-page lesson’s community, agriculture and Gila River water-loss account."
+            },
+            {
+              "title": "History — Gila River Indian Community perspective",
+              "url": "https://www.gilariver.org/index.php/about/history",
+              "inspectionScope": "Selected community history connecting farming and Gila River water."
+            }
+          ],
+          "recordInspection": "Exact Commons HAER Summary, Knotts/Bob author, 1995 date, AZ-50-D identification and media-specific PD-USGov-NPS designation read. Reuse basis is the item-specific designation, not metadata CC0, inferred personal NPS employment or a new permission grant.",
+          "rightsInspectionLimits": "Linked Library of Congress item was not separately opened; no direct Library clearance or underlying employment contract is claimed.",
+          "id": "c13-pima-akimel-oodham-photo",
+          "profileSlugs": [
+            "pima-akimel-oodham"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:DOWNSTREAM_SIDE_OF_DAM_AND_BRIDGE_TAKEN_FROM_NORTH_END_-_San_Carlos_Irrigation_Project,_Sacaton_Dam_and_Bridge,_Gila_River,_T4S_R6E_S12-13,_Coolidge,_Pinal_County,_AZ_HAER_ARIZ,11-COOL,1D-1.tif",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/DOWNSTREAM_SIDE_OF_DAM_AND_BRIDGE_TAKEN_FROM_NORTH_END_-_San_Carlos_Irrigation_Project%2C_Sacaton_Dam_and_Bridge%2C_Gila_River%2C_T4S_R6E_S12-13%2C_Coolidge%2C_Pinal_County%2C_AZ_HAER_ARIZ%2C11-COOL%2C1D-1.tif/lossy-page1-960px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/DOWNSTREAM_SIDE_OF_DAM_AND_BRIDGE_TAKEN_FROM_NORTH_END_-_San_Carlos_Irrigation_Project%2C_Sacaton_Dam_and_Bridge%2C_Gila_River%2C_T4S_R6E_S12-13%2C_Coolidge%2C_Pinal_County%2C_AZ_HAER_ARIZ%2C11-COOL%2C1D-1.tif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-pima-akimel-oodham-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-pima-akimel-oodham-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 773,
+          "credit": "Bob Knotts / Library of Congress, Prints and Photographs Division; Historic American Engineering Record, AZ-50-D / ARIZ, 11-COOL, 1D-1, via Wikimedia Commons · Public domain — item-specific Commons PD-USGov-NPS designation",
+          "reproductionNote": "Exact provider-exposed 960-pixel JPEG preview retrieved normally HTTP 200. Complete available delivered frame personally inspected with view_image; preview retained byte-for-byte with no Atlas pixel crop, retouching, colourization or generation. Provider resizing/compression and any TIFF-to-JPEG conversion remain. CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels were not retrieved or inspected. Complete available black-and-white frame retained including border, top dark scan mark and right-edge HAER identification. Channel beneath bridge looks dry; no flow restoration inferred. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "b35be0e1ab1ddda1225e384faff2c2b0feca002e6d1afa35a25c495d0684a51a",
+          "retrievedSourceSha256": "b35be0e1ab1ddda1225e384faff2c2b0feca002e6d1afa35a25c495d0684a51a",
+          "assetSha256": "b35be0e1ab1ddda1225e384faff2c2b0feca002e6d1afa35a25c495d0684a51a",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "b35be0e1ab1ddda1225e384faff2c2b0feca002e6d1afa35a25c495d0684a51a"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:35;--profile-angle:-66deg;--profile-photo:url(\"../../assets/profile-visuals/c13-pima-akimel-oodham-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "pojoaque-pueblo",
+      "name": "Pojoaque Pueblo",
+      "originalId": 299,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 43,
+      "angle": 60,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c13-pojoaque-pueblo-photo",
+          "profileSlugs": [
+            "pojoaque-pueblo"
+          ],
+          "mediaType": "photograph",
+          "title": "Poeh Cultural Center exterior, 10 May 2014",
+          "creator": "Thomson M",
+          "date": "2014-05-10",
+          "archive": "Panoramio, preserved by Wikimedia Commons",
+          "rightsLabel": "CC BY 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poeh_Center_-_panoramio.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Poeh_Center_-_panoramio.jpg/960px-Poeh_Center_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Poeh_Center_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "scope": "Public cultural-center exterior viewed across a road, specifically connected to Pojoaque by its institutional history. Small Tower Gallery sign/art is incidental; no isolated artwork licence or permission for photography throughout the Pueblo asserted. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Poeh Cultural Center — institutional history and community-guided arts",
+              "url": "https://poehcenter.org/about/",
+              "inspectionScope": "Actual About body and institutional timeline, reader lines 0–12, 23–39, 54–90. Founding, planning participants, studios, archives and museum functions; no individual collection items inspected."
+            }
+          ],
+          "alt": "Adobe-style cultural-center buildings and tower beyond a road, with a mountain skyline and small gallery sign.",
+          "credit": "Thomson M / Panoramio, preserved by Wikimedia Commons · CC BY 3.0",
+          "cardCredit": "Photo: Thomson M · CC BY 3.0",
+          "recordInspection": "Exact item description, creator, date and media-specific reuse block read in normally retrieved HTTP200 Commons record. Copyright clearance is specific to this photograph, not metadata CC0 or a new community permission grant.",
+          "rightsInspectionLimits": "No larger original pixels, physical print/negative or unpublished source records inspected.",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-pojoaque-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-pojoaque-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "reproductionNote": "Exact record-exposed960px preview normally retrieved HTTP200 and full delivered frame actually viewed with view_image on 2026-10-28. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop/overlay cards and backdrops while complete frame remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 693,
+          "inputFileSha256": "910402aacd2742c1c0259cef1b26ecfd9c1a0ec64e50bf79c5689d8e00ccc78b",
+          "retrievedSourceSha256": "910402aacd2742c1c0259cef1b26ecfd9c1a0ec64e50bf79c5689d8e00ccc78b",
+          "assetSha256": "910402aacd2742c1c0259cef1b26ecfd9c1a0ec64e50bf79c5689d8e00ccc78b",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "910402aacd2742c1c0259cef1b26ecfd9c1a0ec64e50bf79c5689d8e00ccc78b"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:43;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/c13-pojoaque-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "pokagon-band-of-potawatomi-indians",
@@ -12619,6 +13305,77 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:281;--profile-angle:55deg;--profile-photo:url(\"../../assets/profile-visuals/prairie-island-wacipi-shaull-2017.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "pueblo",
+      "name": "Pueblo",
+      "originalId": 310,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 168,
+      "angle": 46,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c13-pueblo-solar-photo",
+          "title": "Solar canopy at the Indian Pueblo Cultural Center, October 25, 2012",
+          "date": "2012-10-25",
+          "scope": "A specifically identified public institutional setting at the jointly Pueblo-owned Center in Albuquerque. This is a modern parking/solar installation, not an image of any Pueblo village, ceremony, sacred site or universal traditional art. It supplies a shared-institution example for the broader reading route, not separate imagery for every Pueblo. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Solar panels shade parked vehicles beside trees and an institutional building under a clear blue sky.",
+          "creator": "Chris English",
+          "archive": "Panoramio photograph via Wikimedia Commons",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Chris English / Panoramio via Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Photo: Chris English · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solar_Power,_Indian_Pueblo_Cultural_Center_-_panoramio.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Solar_Power%2C_Indian_Pueblo_Cultural_Center_-_panoramio.jpg/960px-Solar_Power%2C_Indian_Pueblo_Cultural_Center_-_panoramio.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "originalImageUrl": null,
+          "profileSlugs": [
+            "pueblo"
+          ],
+          "mediaType": "photograph",
+          "asset": "assets/profile-visuals/c13-pueblo-solar-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-pueblo-solar-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 720,
+          "recordInspection": "Exact Commons Summary, date, photographer and media-specific CC BY-SA 3.0 licensing block read. Original Panoramio licence review is recorded by Commons; no separate photographer permission or underlying current condition is inferred.",
+          "rightsInspectionLimits": "Specific photograph licence used, not sitewide metadata CC0. Complete delivered960px preview inspected; larger original and physical location uninspected.",
+          "reproductionNote": "Exact provider-exposed960px JPEG preview retrieved normallyHTTP200 and visually inspected by root with view_image. Complete delivered frame retained byte-for-byte; no pixel crop, retouching, generation or colour changes. Provider resizing/compression retained. Card/backdrop CSS crops and overlays affect presentation; complete frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "contextSources": [
+            {
+              "title": "About Us — a jointly owned cultural institution",
+              "url": "https://indianpueblo.org/about-us/",
+              "inspectionScope": "Selected opening body lines47–48, 53 and65: campus context, cultural/educational facilities and community governance."
+            }
+          ],
+          "inputFileSha256": "8ecc6696dd55ff03d52b6fe74796f6b4faaa3120b3e70d12bcae53ff5ac6b6eb",
+          "retrievedSourceSha256": "8ecc6696dd55ff03d52b6fe74796f6b4faaa3120b3e70d12bcae53ff5ac6b6eb",
+          "assetSha256": "8ecc6696dd55ff03d52b6fe74796f6b4faaa3120b3e70d12bcae53ff5ac6b6eb",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "8ecc6696dd55ff03d52b6fe74796f6b4faaa3120b3e70d12bcae53ff5ac6b6eb"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:168;--profile-angle:46deg;--profile-photo:url(\"../../assets/profile-visuals/c13-pueblo-solar-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -13512,6 +14269,290 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:148;--profile-angle:38deg;--profile-photo:url(\"../../assets/profile-visuals/c9-samish-fidalgo-bay.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "san-ildefonso-pueblo",
+      "name": "San Ildefonso Pueblo",
+      "originalId": 332,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 83,
+      "angle": 30,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c13-san-ildefonso-pueblo-photo",
+          "profileSlugs": [
+            "san-ildefonso-pueblo"
+          ],
+          "mediaType": "photograph",
+          "title": "Black Mesa viewed from Road502, 4 August 2014",
+          "creator": "MARELBU",
+          "date": "2014-08-04",
+          "archive": "Panoramio, preserved by Wikimedia Commons",
+          "rightsLabel": "CC BY 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Mesa,_Road_502_near_San_Ildefonso_Pueblo,_New_Mexico_USA_-_panoramio.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Black_Mesa%2C_Road_502_near_San_Ildefonso_Pueblo%2C_New_Mexico_USA_-_panoramio.jpg/960px-Black_Mesa%2C_Road_502_near_San_Ildefonso_Pueblo%2C_New_Mexico_USA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Black_Mesa%2C_Road_502_near_San_Ildefonso_Pueblo%2C_New_Mexico_USA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "scope": "Named roadside landscape linked to the mesa identified in the Pueblo’s public history. No cemetery, ceremony or people visible. No boundary, sacred-place interpretation, access entitlement or permission to photograph elsewhere inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Visiting the Pueblo — attributed community history and arts",
+              "url": "https://sanipueblo.org/visiting-the-pueblo/",
+              "inspectionScope": "Actual HISTORY and Arts/Artists body: community-attributed Mesa Verde/Bandelier/Rio Grande movement, Tewa name, named Black Mesa and Maria/Julian Martinez account. Colonial/legal chronology and generalized lost-art claims not adopted."
+            }
+          ],
+          "alt": "A flat-topped dark mesa beyond green trees under a cloudy sky.",
+          "credit": "MARELBU / Panoramio, preserved by Wikimedia Commons · CC BY 3.0",
+          "cardCredit": "Photo: MARELBU · CC BY 3.0",
+          "recordInspection": "Exact item description, creator, date and media-specific reuse block read in normally retrieved HTTP200 Commons record. Copyright clearance is specific to this photograph, not metadata CC0 or a new community permission grant.",
+          "rightsInspectionLimits": "No larger original pixels, physical print/negative or unpublished source records inspected.",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-san-ildefonso-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-san-ildefonso-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "reproductionNote": "Exact record-exposed960px preview normally retrieved HTTP200 and full delivered frame actually viewed with view_image on 2026-10-28. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop/overlay cards and backdrops while complete frame remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 638,
+          "inputFileSha256": "a752312660821423fe85a99888886864f69900825ccefd91d56bfab6a5ac5d03",
+          "retrievedSourceSha256": "a752312660821423fe85a99888886864f69900825ccefd91d56bfab6a5ac5d03",
+          "assetSha256": "a752312660821423fe85a99888886864f69900825ccefd91d56bfab6a5ac5d03",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "a752312660821423fe85a99888886864f69900825ccefd91d56bfab6a5ac5d03"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:83;--profile-angle:30deg;--profile-photo:url(\"../../assets/profile-visuals/c13-san-ildefonso-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "sandia-pueblo",
+      "name": "Sandia Pueblo",
+      "originalId": 330,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 125,
+      "angle": -50,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c13-sandia-pueblo-photo",
+          "profileSlugs": [
+            "sandia-pueblo"
+          ],
+          "mediaType": "photograph",
+          "title": "Sandia Mountains from Albuquerque, 13 June 2008",
+          "creator": "Nightscream",
+          "date": "2008-06-13",
+          "archive": "Wikimedia Commons, photographer’s own work",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:6.13.08SandiaMountainsByLuigiNovi1.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/6.13.08SandiaMountainsByLuigiNovi1.jpg/960px-6.13.08SandiaMountainsByLuigiNovi1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/6.13.08SandiaMountainsByLuigiNovi1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "scope": "Named Sandia Mountains from Albuquerque. Pueblo introduction identifies the mountain connection. Roads, commercial signs and parking remain in the full frame; not Pueblo buildings, ownership, boundary or current conditions. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Pueblo of Sandia — supporting identity and mountain context",
+              "url": "https://www.sandiapueblo.nsn.us/",
+              "inspectionScope": "Actual main introductory body: central New Mexico identity and named Sandia Mountain resource connection only. Aztec-lineage assertion, current totals and general chronology not adopted."
+            }
+          ],
+          "alt": "The Sandia Mountains beyond Albuquerque roads, buildings, vehicles and a parking area.",
+          "credit": "Nightscream / Wikimedia Commons, photographer’s own work · CC BY-SA 3.0",
+          "cardCredit": "Photo: Nightscream · CC BY-SA 3.0",
+          "recordInspection": "Exact item description, creator, date and media-specific reuse block read in normally retrieved HTTP200 Commons record. Copyright clearance is specific to this photograph, not metadata CC0 or a new community permission grant.",
+          "rightsInspectionLimits": "No larger original pixels, physical print/negative or unpublished source records inspected.",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-sandia-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-sandia-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "reproductionNote": "Exact record-exposed960px preview normally retrieved HTTP200 and full delivered frame actually viewed with view_image on 2026-10-28. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop/overlay cards and backdrops while complete frame remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 720,
+          "inputFileSha256": "02120ffe09071de9fda49475d7cf3d1ca15246319f2bb25880f9ce0317ab8e4b",
+          "retrievedSourceSha256": "02120ffe09071de9fda49475d7cf3d1ca15246319f2bb25880f9ce0317ab8e4b",
+          "assetSha256": "02120ffe09071de9fda49475d7cf3d1ca15246319f2bb25880f9ce0317ab8e4b",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "02120ffe09071de9fda49475d7cf3d1ca15246319f2bb25880f9ce0317ab8e4b"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:125;--profile-angle:-50deg;--profile-photo:url(\"../../assets/profile-visuals/c13-sandia-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "santa-ana-pueblo",
+      "name": "Santa Ana Pueblo",
+      "originalId": 333,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 41,
+      "angle": 15,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c13-santa-ana-pueblo-photo",
+          "profileSlugs": [
+            "santa-ana-pueblo"
+          ],
+          "mediaType": "photograph",
+          "title": "Santa Ana village archival print, 1884/c 1885",
+          "creator": "Edwin A. Bass",
+          "date": "1884; copyrighted 1885",
+          "archive": "Library of Congress, Prints and Photographs Division, LCCN97511749; via Wikimedia Commons",
+          "rightsLabel": "Public domain — original 1884/c 1885 publication; Commons Public Domain Mark1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Indian_pueblo_of_Santa_Ana_LCCN97511749.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/The_Indian_pueblo_of_Santa_Ana_LCCN97511749.jpg/960px-The_Indian_pueblo_of_Santa_Ana_LCCN97511749.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_Indian_pueblo_of_Santa_Ana_LCCN97511749.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "scope": "Dated outside village photograph catalogued as a boudoir-card print. Entire mount, print borders and original caption retained. No named residents, ceremony, current conditions or territorial conclusion inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Tribal Historic Preservation Office — Tamaya’s public account",
+              "url": "https://santaana-nsn.gov/thpo/",
+              "inspectionScope": "Actual mission/goals, overview and selected activities, reader lines 82–108: 2011 office creation, advisory guidance, outreach and document preservation. Artifact images, burial duties and restricted places not reproduced/analyzed."
+            }
+          ],
+          "alt": "A mounted black-and-white village photograph beyond an open field, preserving its wide mount and print borders.",
+          "credit": "Edwin A. Bass / Library of Congress, Prints and Photographs Division, LCCN97511749; via Wikimedia Commons · Public domain — original 1884/c 1885 publication; Commons Public Domain Mark1.0",
+          "cardCredit": "Photo: Edwin A. Bass · Public domain — original 1884/c 1885 publication; Commons Public Domain Mark1.0",
+          "recordInspection": "Exact item description, creator, date and media-specific reuse block read in normally retrieved HTTP200 Commons record. Copyright clearance is specific to this photograph, not metadata CC0 or a new community permission grant. Primary LOC JSON normally retrieved200 and actually read: E.A.Bass;1884, c 1885; boudoir-card print; Copyright Office25672 and original named copyright claim. Basis is expired original publication, not federal authorship or an item-specific LOC permission grant.",
+          "rightsInspectionLimits": "No larger original pixels, physical print/negative or unpublished source records inspected. LOC JSON has no rights-advisory field. Commons history records4x upscale from 1024×818; this960px preview adds no original detail.",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-santa-ana-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-santa-ana-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "reproductionNote": "Exact record-exposed960px preview normally retrieved HTTP200 and full delivered frame actually viewed with view_image on 2026-10-28. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop/overlay cards and backdrops while complete frame remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 766,
+          "inputFileSha256": "e2e489e393fbd745c6405d06fa09511d1baf22209843e88ec2814f0e6e8ecdb4",
+          "retrievedSourceSha256": "e2e489e393fbd745c6405d06fa09511d1baf22209843e88ec2814f0e6e8ecdb4",
+          "assetSha256": "e2e489e393fbd745c6405d06fa09511d1baf22209843e88ec2814f0e6e8ecdb4",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "e2e489e393fbd745c6405d06fa09511d1baf22209843e88ec2814f0e6e8ecdb4"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:41;--profile-angle:15deg;--profile-photo:url(\"../../assets/profile-visuals/c13-santa-ana-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "santa-clara-pueblo",
+      "name": "Santa Clara Pueblo",
+      "originalId": 334,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 190,
+      "angle": 73,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c13-santa-clara-pueblo-photo",
+          "profileSlugs": [
+            "santa-clara-pueblo"
+          ],
+          "mediaType": "photograph",
+          "title": "Santa Clara Pueblo and USFWS biologists preparing trout fieldwork",
+          "creator": "Chris Kitcheyan / U.S. Fish and Wildlife Service",
+          "date": "Capture date unestablished; file record dated22 September 2010",
+          "archive": "USFWS Headquarters Flickr account, via Wikimedia Commons",
+          "rightsLabel": "Public domain — item-specific USFWS official-duty designation; record also offers CC BY 2.0",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Sacred_Lands,_Sacred_Trout_(5014914585).jpg",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacred_Lands,_Sacred_Trout_(5014914585).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Sacred_Lands%2C_Sacred_Trout_%285014914585%29.jpg/960px-Sacred_Lands%2C_Sacred_Trout_%285014914585%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sacred_Lands%2C_Sacred_Trout_%285014914585%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "scope": "Exact USFWS caption names federal and Santa Clara Pueblo biologists preparing Rio Grande cutthroat-trout fieldwork in northern New Mexico. Individual names/membership, precise location and present ecology not inferred. Caption points to spring 2009 Eddies; file’s 2010 date is not verified capture date. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Tribal Forestry — post-fire watershed restoration",
+              "url": "https://www.santaclarapueblo.org/programs/community-services/tribal-forestry/",
+              "inspectionScope": "Actual What We Do, selected project types, Strategic Goals and Partnerships, reader lines 125–147. 2011 fire and recovery activities; financial/structure counts, imagery and monitoring results excluded."
+            }
+          ],
+          "alt": "Biologists and fieldwork vehicles beside a forested lake, with one person at the water’s edge.",
+          "credit": "Chris Kitcheyan / U.S. Fish and Wildlife Service / USFWS Headquarters Flickr account, via Wikimedia Commons · Public domain — item-specific USFWS official-duty designation; record also offers CC BY 2.0",
+          "cardCredit": "Photo: Chris Kitcheyan / U.S. Fish and Wildlife Service · Public domain — item-specific USFWS official-duty designation; record also offers CC BY 2.0",
+          "recordInspection": "Exact item description, creator, date and media-specific reuse block read in normally retrieved HTTP200 Commons record. Copyright clearance is specific to this photograph, not metadata CC0 or a new community permission grant. Caption credits Chris Kitcheyan/USFWS. Exact record includes reviewed CC BY 2.0 and USFWS official-duty public-domain blocks; agency-account membership alone not treated as clearance.",
+          "rightsInspectionLimits": "No larger original pixels, physical print/negative or unpublished source records inspected.",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-santa-clara-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-santa-clara-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "reproductionNote": "Exact record-exposed960px preview normally retrieved HTTP200 and full delivered frame actually viewed with view_image on 2026-10-28. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop/overlay cards and backdrops while complete frame remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 720,
+          "inputFileSha256": "6641d856e0b8a923783708c2b0e99f90e55b50378aec62a6c99eec12eb6ca0f0",
+          "retrievedSourceSha256": "6641d856e0b8a923783708c2b0e99f90e55b50378aec62a6c99eec12eb6ca0f0",
+          "assetSha256": "6641d856e0b8a923783708c2b0e99f90e55b50378aec62a6c99eec12eb6ca0f0",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "6641d856e0b8a923783708c2b0e99f90e55b50378aec62a6c99eec12eb6ca0f0"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:190;--profile-angle:73deg;--profile-photo:url(\"../../assets/profile-visuals/c13-santa-clara-pueblo-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -15207,6 +16248,76 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "taos-pueblo",
+      "name": "Taos Pueblo",
+      "originalId": 373,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 338,
+      "angle": 2,
+      "composition": "wash",
+      "images": [
+        {
+          "title": "Rio Pueblo de Taos and morning mist in Taos Valley, December 1941",
+          "creator": "Irving Rusinow",
+          "date": "1941-12",
+          "archive": "National Archives and Records Administration, NAID 521818; Record Group 83, 83-G-41582; U.S. Department of Agriculture, Bureau of Agricultural Economics",
+          "rightsLabel": "Public domain — item-specific U.S. government work designation; Public Domain Mark 1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "cardCredit": "Photo: Irving Rusinow · NARA / Public domain",
+          "scope": "Dated Rio Pueblo de Taos/Taos Valley landscape. UNM’s selected account explicitly documents Taos Pueblo’s connection to the named river. This is not Blue Lake, a Pueblo village portrait, identification of a private building, a current condition, ownership or boundary claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Black-and-white view of a winding stream through fields beneath low morning mist, with bare trees, a grazing animal and distant hills.",
+          "contextSources": [
+            {
+              "title": "Abeyta: Taos Adjudication — named river context only",
+              "url": "https://uttoncenter.unm.edu/ombudsman/taos-adjudication.html",
+              "inspectionScope": "Actual History & Importance opening paragraph, ordinary web-reader lines 5–7, especially the named parties and Rio Pueblo de Taos/Rio Hondo connection. The later Current Status section was not used for current facts."
+            }
+          ],
+          "recordInspection": "Exact Commons Summary, photographer/date/agency, NARA 521818 and media-specific U.S. government/Public Domain Mark licensing blocks read. Irving Rusinow attribution, not Ansel Adams. Normal provider JPEG preview of TIFF personally inspected.",
+          "id": "c13-taos-pueblo-photo",
+          "profileSlugs": [
+            "taos-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taos_County,_New_Mexico._The_Rio_Pueblo_de_Taos_-_mist_in_Taos_Valley_in_the_a.m._-_NARA_-_521818.tif",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Taos_County%2C_New_Mexico._The_Rio_Pueblo_de_Taos_-_mist_in_Taos_Valley_in_the_a.m._-_NARA_-_521818.tif/lossy-page1-960px-Taos_County%2C_New_Mexico._The_Rio_Pueblo_de_Taos_-_mist_in_Taos_Valley_in_the_a.m._-_NARA_-_521818.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Taos_County%2C_New_Mexico._The_Rio_Pueblo_de_Taos_-_mist_in_Taos_Valley_in_the_a.m._-_NARA_-_521818.tif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-taos-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-taos-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 779,
+          "credit": "Irving Rusinow / National Archives and Records Administration, NAID 521818; Record Group 83, 83-G-41582; U.S. Department of Agriculture, Bureau of Agricultural Economics · Public domain — item-specific U.S. government work designation; Public Domain Mark 1.0",
+          "reproductionNote": "Exact provider-exposed 960-pixel JPEG preview retrieved normally HTTP 200. Complete available delivered frame personally inspected with view_image; preview retained byte-for-byte with no Atlas pixel crop, retouching, colourization or generation. Provider resizing/compression and any TIFF-to-JPEG conversion remain. CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels were not retrieved or inspected. Complete delivered frame includes narrow white border and an upper white blemish, retained; stream, fields, animal, trees, distant low mist and hills. No private Pueblo-site identity inferred. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "9952c78e0fbee410719046e5faf6428aff721fe0f3c25b44dcda2033d29001b0",
+          "retrievedSourceSha256": "9952c78e0fbee410719046e5faf6428aff721fe0f3c25b44dcda2033d29001b0",
+          "assetSha256": "9952c78e0fbee410719046e5faf6428aff721fe0f3c25b44dcda2033d29001b0",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "9952c78e0fbee410719046e5faf6428aff721fe0f3c25b44dcda2033d29001b0"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:338;--profile-angle:2deg;--profile-photo:url(\"../../assets/profile-visuals/c13-taos-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "taovaya",
       "name": "Taovaya",
       "originalId": null,
@@ -15363,6 +16474,76 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:153;--profile-angle:64deg;--profile-photo:url(\"../../assets/profile-visuals/tawakoni-fort-belknap-context.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "tesuque-pueblo",
+      "name": "Tesuque Pueblo",
+      "originalId": 380,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 79,
+      "angle": 74,
+      "composition": "wash",
+      "images": [
+        {
+          "title": "Rio Tesuque looking east at Pojoaque, August 9, 2012",
+          "creator": "National Trails Office, National Park Service",
+          "date": "2012-08-09",
+          "archive": "National Park Service, NPGallery 02ffbaae-1f80-4eb5-a7b0-4dc16ed106c4, via Wikimedia Commons",
+          "rightsLabel": "Public domain — item-specific U.S. government/NPS designation",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NPS",
+          "cardCredit": "Photo: NPS National Trails Office · Public domain",
+          "scope": "The specifically identified Rio Tesuque reach at downstream Pojoaque supplies shared named-waterbody context only. Pueblo history documents the Rio Tesuque connection. This is NOT Tesuque Pueblo, its village, a reservation portrait, another community’s cultural object or a boundary claim. No river-health, restoration-success or photography-access permission is inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A broad sandy streambed with a narrow trace of water at the right edge, grasses and green trees, distant low hills and blue sky.",
+          "contextSources": [
+            {
+              "title": "HISTORY | Pueblo of Tesuque",
+              "url": "https://www.tesuquepueblo.org/history",
+              "inspectionScope": "Selected Rio Tesuque/place connection in the Pueblo’s actual History body."
+            }
+          ],
+          "recordInspection": "Exact Commons Summary/date, National Trails Office author, NPGallery identifier and item-specific PD-USGov-NPS block read. Record explicitly identifies Pojoaque, not Tesuque Pueblo. The distinct similarly titled e5e2557f image was not substituted.",
+          "id": "c13-tesuque-pueblo-photo",
+          "profileSlugs": [
+            "tesuque-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_greener_photo_of_Rio_Tesuque_looking_east_at_Pojoaque_Pueblo_near_Santa_Fe,_NM_(02ffbaae-1f80-4eb5-a7b0-4dc16ed106c4).JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/A_greener_photo_of_Rio_Tesuque_looking_east_at_Pojoaque_Pueblo_near_Santa_Fe%2C_NM_%2802ffbaae-1f80-4eb5-a7b0-4dc16ed106c4%29.JPG/960px-A_greener_photo_of_Rio_Tesuque_looking_east_at_Pojoaque_Pueblo_near_Santa_Fe%2C_NM_%2802ffbaae-1f80-4eb5-a7b0-4dc16ed106c4%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_greener_photo_of_Rio_Tesuque_looking_east_at_Pojoaque_Pueblo_near_Santa_Fe%2C_NM_%2802ffbaae-1f80-4eb5-a7b0-4dc16ed106c4%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-tesuque-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-tesuque-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 638,
+          "credit": "National Trails Office, National Park Service / National Park Service, NPGallery 02ffbaae-1f80-4eb5-a7b0-4dc16ed106c4, via Wikimedia Commons · Public domain — item-specific U.S. government/NPS designation",
+          "reproductionNote": "Exact provider-exposed 960-pixel JPEG preview retrieved normally HTTP 200. Complete available delivered frame personally inspected with view_image; preview retained byte-for-byte with no Atlas pixel crop, retouching, colourization or generation. Provider resizing/compression and any TIFF-to-JPEG conversion remain. CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels were not retrieved or inspected. Complete mostly dry sandy riverbed frame retained. Do not call it a healthy/restored or broadly flowing river. No village, cultural object or ceremony is visible. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "6e1d0983967950de69429148d14740d9b6e0af930eaa81aad79eba45faa7d57e",
+          "retrievedSourceSha256": "6e1d0983967950de69429148d14740d9b6e0af930eaa81aad79eba45faa7d57e",
+          "assetSha256": "6e1d0983967950de69429148d14740d9b6e0af930eaa81aad79eba45faa7d57e",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "6e1d0983967950de69429148d14740d9b6e0af930eaa81aad79eba45faa7d57e"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:79;--profile-angle:74deg;--profile-photo:url(\"../../assets/profile-visuals/c13-tesuque-pueblo-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -15675,6 +16856,76 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "tohono-oodham",
+      "name": "Tohono O'odham",
+      "originalId": 390,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 161,
+      "angle": -25,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Saguaro cactus at Sells — archival landscape, photograph date not stated",
+          "creator": "Photographer not identified in archive record",
+          "date": "Not stated; agency-record period 1950 is not a verified photograph date",
+          "archive": "National Archives and Records Administration, NAID 295244; Record Group 75, Publicity Photographs; Bureau of Indian Affairs, Phoenix Area Office, Papago Agency (historical record wording)",
+          "rightsLabel": "Public domain — item-specific U.S. government work designation; Public Domain Mark 1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "cardCredit": "Photographer unidentified · NARA / Public domain",
+          "scope": "Historical archive identifies a saguaro landscape at Sells using the period title “Sells Indian Reservation.” Read beside the Nation’s Sonoran Desert account. Not a ceremonial harvest, current land boundary, permission to visit/photograph, or generic substitute for all O’odham communities. The archive’s 1950 agency metadata is not assigned as the photograph date. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "Black-and-white portrait-oriented desert landscape with a tall saguaro, low scrub, a dirt track and hills beneath open sky.",
+          "contextSources": [
+            {
+              "title": "History & Culture - Tohono O'odham Nation",
+              "url": "https://www.tonation-nsn.gov/about-tohono-oodham-nation/history-culture/",
+              "inspectionScope": "Selected Nation History & Culture body on Sonoran Desert history and community setting."
+            }
+          ],
+          "recordInspection": "Exact Commons/NARA Summary read: unknown/not-provided author, NAID 295244, record group/series and BIA Papago Agency (1950) record-creator wording. Summary has no photograph Date field. Item-specific U.S. government work/PDM blocks read; no date or photographer invented.",
+          "id": "c13-tohono-oodham-photo",
+          "profileSlugs": [
+            "tohono-oodham"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saguaro_cactus_on_Sells_Indian_Reservation,_Sells,_Arizona_-_NARA_-_295244.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Saguaro_cactus_on_Sells_Indian_Reservation%2C_Sells%2C_Arizona_-_NARA_-_295244.jpg/960px-Saguaro_cactus_on_Sells_Indian_Reservation%2C_Sells%2C_Arizona_-_NARA_-_295244.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saguaro_cactus_on_Sells_Indian_Reservation%2C_Sells%2C_Arizona_-_NARA_-_295244.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-tohono-oodham-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-tohono-oodham-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 1648,
+          "credit": "Photographer not identified in archive record / National Archives and Records Administration, NAID 295244; Record Group 75, Publicity Photographs; Bureau of Indian Affairs, Phoenix Area Office, Papago Agency (historical record wording) · Public domain — item-specific U.S. government work designation; Public Domain Mark 1.0",
+          "reproductionNote": "Exact provider-exposed 960-pixel JPEG preview retrieved normally HTTP 200. Complete available delivered frame personally inspected with view_image; preview retained byte-for-byte with no Atlas pixel crop, retouching, colourization or generation. Provider resizing/compression and any TIFF-to-JPEG conversion remain. CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels were not retrieved or inspected. Complete tall delivered frame retained including outer white border: one prominent saguaro, scrub, dirt track, hills and sky. No people, ceremony or harvest visible. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "f0f351dedcdb53a5ff4639b56e3a7c2b36577eebf8d19f0d660770440154f1b1",
+          "retrievedSourceSha256": "f0f351dedcdb53a5ff4639b56e3a7c2b36577eebf8d19f0d660770440154f1b1",
+          "assetSha256": "f0f351dedcdb53a5ff4639b56e3a7c2b36577eebf8d19f0d660770440154f1b1",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "f0f351dedcdb53a5ff4639b56e3a7c2b36577eebf8d19f0d660770440154f1b1"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:161;--profile-angle:-25deg;--profile-photo:url(\"../../assets/profile-visuals/c13-tohono-oodham-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "tolowa",
@@ -16976,6 +18227,148 @@
       "substantiveInspectedSources": 9
     },
     {
+      "slug": "yavapai",
+      "name": "Yavapai",
+      "originalId": 442,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 248,
+      "angle": -49,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c13-yavapai-photo",
+          "title": "Verde River looking north at Fort McDowell Yavapai Nation, April 28, 2014",
+          "date": "2014-04-28",
+          "scope": "Photographer-identified river landscape at Fort McDowell Yavapai Nation. Its own history locates the Orme Dam proposal at the Verde/Salt confluence; this is a specifically scoped Fort McDowell example on a broader Yavapai reading route, not every Yavapai community, a territorial boundary, exact dam location or proof of ecological outcomes. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A river winds between wooded banks and exposed gravel beneath a muted evening sky with distant mountains.",
+          "creator": "Chris English",
+          "archive": "Panoramio photograph via Wikimedia Commons",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Chris English / Panoramio via Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Photo: Chris English · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014,_View_North,_Verde_River,_Fort_McDowell_Yavapai_Nation_-_panoramio.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2014%2C_View_North%2C_Verde_River%2C_Fort_McDowell_Yavapai_Nation_-_panoramio.jpg/960px-2014%2C_View_North%2C_Verde_River%2C_Fort_McDowell_Yavapai_Nation_-_panoramio.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "originalImageUrl": null,
+          "profileSlugs": [
+            "yavapai"
+          ],
+          "mediaType": "photograph",
+          "asset": "assets/profile-visuals/c13-yavapai-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-yavapai-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 640,
+          "recordInspection": "Exact Commons Summary, date, photographer and media-specific CC BY-SA 3.0 licensing block read. Original Panoramio licence review is recorded by Commons; no separate photographer permission or underlying current condition is inferred.",
+          "rightsInspectionLimits": "Specific photograph licence used, not sitewide metadata CC0. Complete delivered960px preview inspected; larger original and physical location uninspected.",
+          "reproductionNote": "Exact provider-exposed960px JPEG preview retrieved normallyHTTP200 and visually inspected by root with view_image. Complete delivered frame retained byte-for-byte; no pixel crop, retouching, generation or colour changes. Provider resizing/compression retained. Card/backdrop CSS crops and overlays affect presentation; complete frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "contextSources": [
+            {
+              "title": "History — Fort McDowell community and Orme Dam opposition",
+              "url": "https://fmyn.org/about-fmyn/history/",
+              "inspectionScope": "Selected actual body lines64–77: executive-order date and Orme proposal, organizing, 1976 referendum and 1981 cancellation account."
+            }
+          ],
+          "inputFileSha256": "bdd5b53d15a688b03221201329201a26a73fc835948622ccf21143ad33427e54",
+          "retrievedSourceSha256": "bdd5b53d15a688b03221201329201a26a73fc835948622ccf21143ad33427e54",
+          "assetSha256": "bdd5b53d15a688b03221201329201a26a73fc835948622ccf21143ad33427e54",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "bdd5b53d15a688b03221201329201a26a73fc835948622ccf21143ad33427e54"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:248;--profile-angle:-49deg;--profile-photo:url(\"../../assets/profile-visuals/c13-yavapai-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "yavapai-apache",
+      "name": "Yavapai Apache",
+      "originalId": 443,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 129,
+      "angle": 21,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c13-yavapai-apache-photo",
+          "title": "Verde River in the Camp Verde area, May 28, 2014",
+          "date": "2014-05-28",
+          "scope": "Photographer-identified Verde River landscape with Camp Verde and Yavapai-Apache Nation tags. The Nation’s account places its historical reservation and return in the Verde Valley. Precise bank ownership is not established; this is regional river context, not a present boundary, Tribal village, historic reconstruction or access permission. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A river flows between tall green trees and reeds under a pale sky, with exposed rocks near the foreground.",
+          "creator": "Chris English",
+          "archive": "Panoramio photograph via Wikimedia Commons",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Chris English / Panoramio via Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Photo: Chris English · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014,_On_the_Rio_Verde_-_panoramio.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/2014%2C_On_the_Rio_Verde_-_panoramio.jpg/960px-2014%2C_On_the_Rio_Verde_-_panoramio.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "originalImageUrl": null,
+          "profileSlugs": [
+            "yavapai-apache"
+          ],
+          "mediaType": "photograph",
+          "asset": "assets/profile-visuals/c13-yavapai-apache-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-yavapai-apache-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 640,
+          "recordInspection": "Exact Commons Summary, date, photographer and media-specific CC BY-SA 3.0 licensing block read. Original Panoramio licence review is recorded by Commons; no separate photographer permission or underlying current condition is inferred.",
+          "rightsInspectionLimits": "Specific photograph licence used, not sitewide metadata CC0. Complete delivered960px preview inspected; larger original and physical location uninspected.",
+          "reproductionNote": "Exact provider-exposed960px JPEG preview retrieved normallyHTTP200 and visually inspected by root with view_image. Complete delivered frame retained byte-for-byte; no pixel crop, retouching, generation or colour changes. Provider resizing/compression retained. Card/backdrop CSS crops and overlays affect presentation; complete frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "contextSources": [
+            {
+              "title": "Land Exchange — selected removal and return account",
+              "url": "https://yavapai-apache.org/land-exchange/",
+              "inspectionScope": "Selected historical body lines68–79:1871 reservation, 1875 forced removal and dissolution, eventual return and 1909 trust acquisition."
+            }
+          ],
+          "inputFileSha256": "53b01fa110b14ef422d6b63b9e26855d0311b9c1890c438b2e1b8852d229e57e",
+          "retrievedSourceSha256": "53b01fa110b14ef422d6b63b9e26855d0311b9c1890c438b2e1b8852d229e57e",
+          "assetSha256": "53b01fa110b14ef422d6b63b9e26855d0311b9c1890c438b2e1b8852d229e57e",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "53b01fa110b14ef422d6b63b9e26855d0311b9c1890c438b2e1b8852d229e57e"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:129;--profile-angle:21deg;--profile-photo:url(\"../../assets/profile-visuals/c13-yavapai-apache-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "ysleta-del-sur-pueblo",
       "name": "Ysleta del Sur Pueblo",
       "originalId": null,
@@ -17165,6 +18558,76 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:81;--profile-angle:-45deg;--profile-photo:url(\"../../assets/profile-visuals/c07-zhiibaahaasing-place.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "zia-pueblo",
+      "name": "Zia Pueblo",
+      "originalId": 452,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 291,
+      "angle": -29,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Jemez River downstream from Jemez Pueblo, November 15, 2008",
+          "creator": "Sharon Phelan Evans (Stphelan)",
+          "date": "2008-11-15",
+          "archive": "Photographer’s own work, via Wikimedia Commons",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "cardCredit": "Photo: Sharon Phelan Evans · CC BY-SA 3.0",
+          "scope": "Another specifically identified reach of the shared Jemez River, downstream from Jemez Pueblo. The selected USACE paragraph documents Zia’s Jemez-watershed connection. This is NOT a photograph of Zia Pueblo, a Zia reservation shore, a Zia-made object or evidence of jurisdiction. Exact coordinates were not established; no water-quality or access claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "alt": "A narrow river flowing over a low step with bare trees, red rock in the distance and clear blue sky.",
+          "contextSources": [
+            {
+              "title": "Zia Watershed Assessment — selected project description",
+              "url": "https://www.spa.usace.army.mil/Missions/Civil-Works/Tribal-Program/Zia-Watershed/",
+              "inspectionScope": "Actual indexed agency body of approximately 130 words: proposed watershed management for Pueblo lands in the Jemez River watershed and listed sediment, erosion, habitat and resource concerns."
+            }
+          ],
+          "recordInspection": "Exact Commons Summary/date/creator/own-work statement and CC BY-SA 3.0 media licence read. Record title identifies downstream-from-Jemez-Pueblo reach, not a Zia village or reservation.",
+          "id": "c13-zia-pueblo-photo",
+          "profileSlugs": [
+            "zia-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jemez_River,_down_stream_from_Jemez_Pueblo_New_Mexico.JPEG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Jemez_River%2C_down_stream_from_Jemez_Pueblo_New_Mexico.JPEG/960px-Jemez_River%2C_down_stream_from_Jemez_Pueblo_New_Mexico.JPEG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jemez_River%2C_down_stream_from_Jemez_Pueblo_New_Mexico.JPEG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c13-zia-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c13-zia-pueblo-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 1280,
+          "credit": "Sharon Phelan Evans (Stphelan) / Photographer’s own work, via Wikimedia Commons · CC BY-SA 3.0",
+          "reproductionNote": "Exact provider-exposed 960-pixel JPEG preview retrieved normally HTTP 200. Complete available delivered frame personally inspected with view_image; preview retained byte-for-byte with no Atlas pixel crop, retouching, colourization or generation. Provider resizing/compression and any TIFF-to-JPEG conversion remain. CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels were not retrieved or inspected. Complete portrait-oriented available frame retained: moving water over low step/log, bare branches, red-rock background. No ceremonial/private material or Pueblo buildings. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "102ce26b23f6a8337161570c98c5a2bc6cf9125dd8eac8bc71691f2188e57caf",
+          "retrievedSourceSha256": "102ce26b23f6a8337161570c98c5a2bc6cf9125dd8eac8bc71691f2188e57caf",
+          "assetSha256": "102ce26b23f6a8337161570c98c5a2bc6cf9125dd8eac8bc71691f2188e57caf",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "102ce26b23f6a8337161570c98c5a2bc6cf9125dd8eac8bc71691f2188e57caf"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:291;--profile-angle:-29deg;--profile-photo:url(\"../../assets/profile-visuals/c13-zia-pueblo-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,

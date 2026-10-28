@@ -9,7 +9,7 @@
   "ownerReadingLeads": "owner-reading-leads.json",
   "communityOutlineRegister": "queued-directory-entries.json",
   "starterGuidePolicy": "starter-guide-policy.json",
-  "currentStartingCohort": "twenty-profile-batch-12.json",
+  "currentStartingCohort": "twenty-profile-batch-13.json",
   "startingCohorts": [
     "twenty-profile-batch-01.json",
     "twenty-profile-batch-02.json",
@@ -22,15 +22,16 @@
     "twenty-profile-batch-09.json",
     "twenty-profile-batch-10.json",
     "twenty-profile-batch-11.json",
-    "twenty-profile-batch-12.json"
+    "twenty-profile-batch-12.json",
+    "twenty-profile-batch-13.json"
   ],
   "ownerMapLinks": "owner-map-links.json",
   "historicalMapCatalogue": "historical-maps.json",
   "counts": {
     "directoryAccessPoints": 948,
     "nameOnlyOutlines": 383,
-    "sourceUrls": 1943,
-    "profileSourceOccurrences": 2171
+    "sourceUrls": 1970,
+    "profileSourceOccurrences": 2199
   },
   "identifiers": {
     "sourceKey": "Deterministic SHA-256 digest prefix of the exact source URL; record identity, not a claim that editions/mirrors are different works.",

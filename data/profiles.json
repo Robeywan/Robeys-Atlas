@@ -27300,7 +27300,7 @@
     "name": "Jemez Pueblo",
     "region": "New Mexico",
     "kind": "Pueblo nation",
-    "overview": "The Pueblo of Jemez, Walatowa, is a sovereign nation in north-central New Mexico, northwest of Albuquerque.",
+    "overview": "The Pueblo of Jemez, Walatowa, presents a continuing Towa-speaking community and government. This path compares its attributed historical publication with a state account of Gisewa, while keeping the Pueblo’s cultural privacy rules explicit.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -27322,44 +27322,151 @@
         "sourceIds": [
           "p150-s2"
         ]
+      },
+      {
+        "title": "Walatowa and historical upheaval",
+        "text": "The Pueblo-hosted history describes Spanish missionization, forced concentration into fewer settlements and resistance culminating in the Pueblo Revolt. New Mexico Historic Sites separately recounts the mission at Gisewa and attributes its abandonment partly to forced labor and religious persecution. These are published interpretations, not newly inspected colonial records.",
+        "sourceIds": [
+          "p13-jemez-history",
+          "p150-s2"
+        ]
+      },
+      {
+        "title": "Pecos connections and a living community",
+        "text": "The Pueblo’s historical account describes Pecos people resettling at Jemez in 1838 and maintaining a continuing connection. It should not be read as disappearance of Pecos identity. The Pueblo’s public rules also emphasize that Walatowa is a residential community, with restrictions on village and ceremonial photography.",
+        "sourceIds": [
+          "p13-jemez-history",
+          "p13-jemez-visitor-policy"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p150-s1",
-        "url": "https://www.jemezpueblo.org/about/",
-        "title": "About Jemez Pueblo",
+        "title": "About Jemez Pueblo — brief identity context (supporting)",
         "publisher": "Pueblo of Jemez",
+        "url": "https://www.jemezpueblo.org/about/",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
-          "History",
-          "Culture"
+          "Supporting context"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo identifies Walatowa, Towa language and its continuing government. This brief introduction supports naming and institutional context, rather than another full historical-work count.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual public About body, selected identity, language and government paragraphs and quick-fact labels.",
+        "accessNotes": "Normal HTTP200. Current population/acreage, officeholders and underlying historical documents not verified. Brief introduction excluded from substantive counts. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       },
       {
         "id": "p150-s2",
+        "title": "Jemez Historic Site — selected Gisewa and mission history",
+        "publisher": "New Mexico Historic Sites / Department of Cultural Affairs",
         "url": "https://www.nmhistoricsites.dca.nm.gov/jemez/history/",
-        "title": "Jemez Historic Site — History",
-        "publisher": "New Mexico Historic Sites",
         "type": "Government",
         "topics": [
-          "Identity",
-          "History",
-          "Culture"
+          "Historical interpretation",
+          "Colonialism",
+          "Gisewa"
         ],
-        "annotation": "Institutional reading to place the entry in historical or linguistic context; read alongside community voices.",
-        "accessed": "2026-10-19"
+        "annotation": "The state site explains Gisewa, forced mission labor and religious suppression, and the Pueblo Revolt. It offers an outside institutional account to compare with the Pueblo’s own publication.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public history body: introductory Gisewa identification, Franciscan mission/construction and forced-labor/religious-persecution discussion, abandonment and 1680 relocation account, and description of Jemez-perspective interpretation.",
+        "accessNotes": "Normal HTTP200. Reconstruction image, kiva, religious details, interiors, artifact collections, visitor access and architectural measurements not inspected or reproduced. Causal wording such as likely remains the institution’s interpretation. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
+      },
+      {
+        "id": "p13-jemez-history",
+        "title": "History and Culture — selected community-published account",
+        "publisher": "Pueblo of Jemez; William Whatley text with Pueblo administration editing",
+        "url": "https://www.jemezpueblo.org/about/history-and-culture/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Walatowa",
+          "Pecos relationships"
+        ],
+        "annotation": "The Pueblo-hosted history connects Walatowa with colonial pressure, the Pueblo Revolt and the arrival of Pecos people. Its named author and older publication date matter when assessing the account.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual body: Walatowa/location and secular-government introduction; selected Spanish missionization, revolt and concentration at Walatowa paragraphs; 1838 Pecos relocation account; copyright/byline credit to William Whatley, 1993, with Pueblo administration editing.",
+        "accessNotes": "Normal HTTP200. Origin narrative, religious leadership details, archaeological-site locations, exact early population/room totals, superlatives and the uninspected 1936 Act are not adopted. The historical narrative is attributed, not original-record verification. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed.",
+        "author": "William Whatley; edited by Pueblo of Jemez administration"
+      },
+      {
+        "id": "p13-jemez-visitor-policy",
+        "title": "Visitor Etiquette — cultural privacy and photography rules (supporting)",
+        "publisher": "Pueblo of Jemez",
+        "url": "https://www.jemezpueblo.org/visit/visitor-etiquette/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Cultural privacy",
+          "Photography policy"
+        ],
+        "annotation": "The Pueblo’s public rules distinguish a living residential community from a museum and restrict village, religious-site and event photography. A landscape credit does not authorize a new visit or recording.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual public policy body: closed-village statement, residential privacy, no-photography/recording rule, restricted areas and final village/shrine/event notice. Ceremonial procedure details not republished.",
+        "accessNotes": "Normal HTTP200. Supporting policy reference, excluded from historical source counts. No interpretation of penalties or legal advice; no claim that the landscape photographer’s original on-site permission was reviewed. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       }
     ],
     "relatedOriginalIds": [
       285,
       396
     ],
-    "researchStatus": "researched",
-    "originalId": 150
+    "researchStatus": "source-guide",
+    "originalId": 150,
+    "overviewSourceIds": [
+      "p13-jemez-history",
+      "p150-s2",
+      "p150-s1"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read original colonial and Pecos relocation records alongside the attributed narratives.",
+      "Develop public community language and education sources without entering restricted materials.",
+      "The USGS Red Rocks landscape is not a village, shrine or ceremonial image and conveys no visitor or photography permission."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original colonial and Pecos relocation records alongside the attributed narratives.",
+        "Develop public community language and education sources without entering restricted materials.",
+        "The USGS Red Rocks landscape is not a village, shrine or ceremonial image and conveys no visitor or photography permission."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p13-jemez-history",
+          "reason": "Begin with the Pueblo-hosted history, including its named author, older date and Pecos context."
+        },
+        {
+          "sourceId": "p150-s2",
+          "reason": "Compare the state site’s selected account of Gisewa and colonial missionization."
+        }
+      ],
+      "imageRecordId": "c13-jemez-pueblo-photo"
+    }
   },
   {
     "name": "Jumano",
@@ -29757,7 +29864,7 @@
     "name": "Kewa Pueblo",
     "region": "New Mexico / Rio Grande",
     "kind": "Pueblo nation",
-    "overview": "Kewa Pueblo, also known in historical sources as Santo Domingo Pueblo, is a Keres-speaking community between Albuquerque and Santa Fe.",
+    "overview": "Kewa, also recorded as Santo Domingo Pueblo, is a distinct Pueblo community. This path pairs selected outside historical context with an Indigenous cultural centre’s curatorial account of named jewelry makers and family teaching. It does not treat one artwork or artist as representative of everyone.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -29779,22 +29886,40 @@
         "sourceIds": [
           "p164-s2"
         ]
+      },
+      {
+        "title": "Floods, routes and public trade",
+        "text": "The NPS account connects Kewa’s rebuilding after Rio Grande floods with later railway and highway tourism. Its discussion of pottery and jewelry trade provides historical context, while its ceremonial descriptions are outside the scope of this guide. A broad archival village view is not documentation of present access or boundaries.",
+        "sourceIds": [
+          "p164-s1"
+        ]
+      },
+      {
+        "title": "Artists adapting and teaching",
+        "text": "Amy G. Johnson’s collection essay describes jewelry makers adapting materials during economic hardship and recounts Martine Lovato’s memories of family learning. Those memories are attributed to named people through the essay. The article is a reading source, not permission to reproduce its jewelry photographs or interpret designs as universal tradition.",
+        "sourceIds": [
+          "p13-kewa-jewelry"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p164-s1",
-        "url": "https://home.nps.gov/places/pueblo-of-santo-domingo-kewa-pueblo.htm",
-        "title": "Pueblo of Santo Domingo (Kewa Pueblo)",
+        "title": "Pueblo of Santo Domingo (Kewa Pueblo) — selected historical context",
         "publisher": "National Park Service",
+        "url": "https://home.nps.gov/places/pueblo-of-santo-domingo-kewa-pueblo.htm",
         "type": "Government",
         "topics": [
-          "Identity",
-          "History",
-          "Culture"
+          "Names",
+          "Public historical interpretation",
+          "Transportation"
         ],
-        "annotation": "Institutional reading to place the entry in historical or linguistic context; read alongside community voices.",
-        "accessed": "2026-10-19"
+        "annotation": "The NPS connects Kewa/Santo Domingo naming with Rio Grande floods, rebuilding, transportation and craft trade. It is an outside historical account rather than community authority on ceremonial practice.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual main body: introductory name/place context; selected destructive-flood and rebuilding paragraph; nineteenth-century railway and twentieth-century Route 66 craft-trade paragraphs.",
+        "accessNotes": "Normal HTTP200. Ceremonial/theological descriptions, kiva locations, generalized political alliances, present economy and visitor-event claims excluded. Original flood, railway, treaty and architectural records not reviewed. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       },
       {
         "id": "p164-s2",
@@ -29809,13 +29934,79 @@
         ],
         "annotation": "Institutional reading to place the entry in historical or linguistic context; read alongside community voices.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p13-kewa-jewelry",
+        "title": "Thunderbird Jewelry of Santo Domingo Pueblo — selected curatorial and family account",
+        "publisher": "Indian Pueblo Cultural Center",
+        "url": "https://indianpueblo.org/thunderbird-jewelry-of-santo-domingo-pueblo/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Artist accounts",
+          "Jewelry",
+          "Museum interpretation"
+        ],
+        "annotation": "Curator Amy G. Johnson recounts a donated jewelry collection and relates makers’ adaptation to economic hardship and tourism. Attributed family memories show knowledge passed between individual artists, not a universal Kewa design rule.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual article body: collection donation and family account; selected railway/automobile-tourism and Depression-era adaptation paragraphs; Martine Lovato/Reyes Pacheco teaching recollection; author biography.",
+        "accessNotes": "Normal HTTP200. No jewelry image, design interpretation, reproduction instruction or object rights adopted. Economic chronology and family recollections remain the author’s attributed account; collection-size totals and wider community uniformity not asserted. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed.",
+        "author": "Amy G. Johnson"
       }
     ],
     "relatedOriginalIds": [
       163
     ],
     "researchStatus": "source-guide",
-    "originalId": 164
+    "originalId": 164,
+    "overviewSourceIds": [
+      "p164-s1",
+      "p13-kewa-jewelry"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Seek additional Kewa-published historical and educational works with explicit public access.",
+      "Read primary transport/flood records and fuller artist histories before extending chronology.",
+      "The Hillers photograph is a distant outside historical view; unidentified people, past consent, present access and precise exposure date are not established."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Seek additional Kewa-published historical and educational works with explicit public access.",
+        "Read primary transport/flood records and fuller artist histories before extending chronology.",
+        "The Hillers photograph is a distant outside historical view; unidentified people, past consent, present access and precise exposure date are not established."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p164-s1",
+          "reason": "Read selected flood, rebuilding and transportation context with an outside-interpretation caution."
+        },
+        {
+          "sourceId": "p13-kewa-jewelry",
+          "reason": "Follow a named curator’s account of a collection, individual makers and intergenerational learning."
+        }
+      ],
+      "imageRecordId": "c13-kewa-pueblo-photo"
+    }
   },
   {
     "name": "Kickapoo",
@@ -32396,7 +32587,7 @@
     "name": "Laguna Pueblo",
     "region": "New Mexico",
     "kind": "Pueblo nation",
-    "overview": "Laguna, or Kawaik, is a Keres-speaking Pueblo nation west of Albuquerque, encompassing six villages.",
+    "overview": "Laguna, or Kawaik, encompasses distinct village communities. This starting path compares selected NPS historical context with the Pueblo’s own preservation-office account. It keeps contemporary community stewardship separate from outside mission and highway narratives.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -32418,43 +32609,128 @@
         "sourceIds": [
           "p179-s2"
         ]
+      },
+      {
+        "title": "Older presence and later settlement changes",
+        "text": "The NPS account distinguishes a much older Kawaik presence from the settlement changes associated with 1699 and identifies six villages. Its railway/highway perspective is useful context, but does not define the beginning of the people’s history or establish present boundaries.",
+        "sourceIds": [
+          "p179-s1"
+        ]
+      },
+      {
+        "title": "Preservation described by the Pueblo",
+        "text": "The Pueblo’s preservation office explains advising leadership, recording cultural resources, consultation and coordinating repatriation. These are public responsibilities described by the institution. Protected surveys and locations are not reproduced, and its plans for additional museum or language work should not be treated as completed projects.",
+        "sourceIds": [
+          "p13-laguna-preservation"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p179-s1",
-        "url": "https://home.nps.gov/places/pueblo-of-laguna.htm",
-        "title": "Pueblo of Laguna",
+        "title": "Pueblo of Laguna — selected villages, history and Route 66 account",
         "publisher": "National Park Service",
+        "url": "https://home.nps.gov/places/pueblo-of-laguna.htm",
         "type": "Government",
         "topics": [
-          "Identity",
-          "History",
-          "Culture"
+          "Community context",
+          "Historical interpretation",
+          "Transportation"
         ],
-        "annotation": "Institutional reading to place the entry in historical or linguistic context; read alongside community voices.",
-        "accessed": "2026-10-19"
+        "annotation": "The NPS distinguishes a much older Kawaik presence from the settlement changes associated with 1699 and lists six named villages. Its transport-focused history is an outside institutional perspective.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual main body: six-village and Keres/Kawaik introduction; selected older presence versus 1699 settlement discussion; village development and Route 66 realignment paragraphs; final privacy/photography caution.",
+        "accessNotes": "Normal HTTP200. Largest-community claims, precise archaeological dating, contemporary economic summaries, current event schedules and mission interiors not adopted. Underlying archaeology and records uninspected; no present land-boundary inference. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       },
       {
         "id": "p179-s2",
-        "url": "https://www.lagunapueblo-nsn.gov/history/",
-        "title": "History",
+        "title": "History — currently a navigation page (supporting)",
         "publisher": "Pueblo of Laguna",
+        "url": "https://www.lagunapueblo-nsn.gov/history/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Culture"
+          "Navigation",
+          "Inspection limits"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "The retained History URL presently exposes headings and navigation rather than a substantive historical body. The separately inspected preservation-programme page provides a community-published counterpart to the NPS account.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual normal HTTP200 page text inspected: History headings, site navigation and page footer; no substantive historical narrative exposed in the delivered body.",
+        "accessNotes": "No claim to reading linked church pages, images, embedded documents or a full Pueblo history. This landing route is excluded from substantive counts. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
+      },
+      {
+        "id": "p13-laguna-preservation",
+        "title": "Cultural Resources / Tribal Historic Preservation Program — selected public programme account",
+        "publisher": "Pueblo of Laguna",
+        "url": "https://www.lagunapueblo-nsn.gov/departments/environmental-and-natural-resources/cultural-resources-tribal-historic-preservation-program/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Cultural preservation",
+          "Community institutions"
+        ],
+        "annotation": "The Pueblo explains its own preservation office’s advisory, recording, consultation and repatriation responsibilities. It gives a community institutional perspective without exposing protected inventories or treating plans as completed facilities.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public Program Overview: mission, Scope of Work and Summary paragraphs on leadership advice, cultural surveys, interdepartmental work, consultation, repatriation and stated future ambitions.",
+        "accessNotes": "Normal HTTP200. Individual advisors/staff, legal entitlements, survey locations, cultural inventories and underlying consultations not verified. No protected records or site coordinates reproduced. Hoped-for museum/language elements are not claimed as existing outcomes. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       }
     ],
     "relatedOriginalIds": [
       163
     ],
     "researchStatus": "source-guide",
-    "originalId": 179
+    "originalId": 179,
+    "overviewSourceIds": [
+      "p179-s1",
+      "p13-laguna-preservation"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Develop separately scoped, community-verified reading routes for the named Laguna villages.",
+      "Read stronger community-led historical works and original records beyond the current navigation-only History page.",
+      "The 1902 water-carrier print is outside commercial photography; its unidentified subjects are not named or treated as current representatives, and original consent is unverified."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop separately scoped, community-verified reading routes for the named Laguna villages.",
+        "Read stronger community-led historical works and original records beyond the current navigation-only History page.",
+        "The 1902 water-carrier print is outside commercial photography; its unidentified subjects are not named or treated as current representatives, and original consent is unverified."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p179-s1",
+          "reason": "Distinguish long community presence from later settlement and transportation history."
+        },
+        {
+          "sourceId": "p13-laguna-preservation",
+          "reason": "Read the Pueblo’s public explanation of its own preservation responsibilities."
+        }
+      ],
+      "imageRecordId": "c13-laguna-pueblo-photo"
+    }
   },
   {
     "name": "Lakota",
@@ -39000,7 +39276,7 @@
     "name": "Nambé Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Nambé Pueblo is a living Pueblo nation in New Mexico.",
+    "overview": "Nambé, or Nanbé Owingeh, is a Tewa-speaking Pueblo community. Its own historical and natural-resource publications provide this guide’s foundation, with present photography rules and the limits of a dated falls image stated separately.",
     "sections": [
       {
         "title": "Identity and context",
@@ -39016,6 +39292,21 @@
           "p236-s1",
           "p236-s2",
           "p236-s3"
+        ]
+      },
+      {
+        "title": "A community’s account of continuity and change",
+        "text": "The Pueblo’s About account explains its naming and Tewa context and describes colonial pressure and later changes in housing and settlement. This is the community’s published narrative; its compressed legal and numerical claims require original-record comparison before more detailed conclusions.",
+        "sourceIds": [
+          "p13-nambe-about"
+        ]
+      },
+      {
+        "title": "Water, farming and public information",
+        "text": "The environmental department describes water-monitoring goals and community farming, explicitly naming the Rio Nambé, falls and reservoir. These published programme descriptions do not establish current water safety or outcomes. The 2008 falls-only photograph is a public recreation landscape, while current location-photo permits and restrictions remain the Pueblo’s rules.",
+        "sourceIds": [
+          "p236-s3",
+          "p13-nambe-visitors"
         ]
       }
     ],
@@ -39035,37 +39326,127 @@
       },
       {
         "id": "p236-s2",
-        "title": "Nambé Pueblo | Nambé Falls – Tewa Language Program",
-        "publisher": "nambepueblo.org",
+        "title": "Tewa Language Program — under construction (supporting)",
+        "publisher": "Nambé Pueblo",
         "url": "https://www.nambepueblo.org/tewa-program/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "Language"
+          "Language lead",
+          "Inspection limits"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Nambé Pueblo | Nambé Falls – Tewa Language Program” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The public programme page currently says Under Construction. It remains a supporting route and supplies no substantive language-programme account.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual public programme heading and complete very short body: Under Construction; contact/footer text only.",
+        "accessNotes": "No language lesson, programme operation, speaker total or outcome inferred from the title. Excluded from substantive counts. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       },
       {
         "id": "p236-s3",
-        "title": "Nambé Pueblo | Nambé Falls – Department of Environmental & Natural Resources",
-        "publisher": "nambepueblo.org",
+        "title": "Environmental & Natural Resources — selected water and community-farm account",
+        "publisher": "Nambé Pueblo",
         "url": "https://www.nambepueblo.org/environmental-natural-resources/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Environmental stewardship",
+          "Water",
+          "Community agriculture"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Nambé Pueblo | Nambé Falls – Department of Environmental & Natural Resources” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo describes natural-resource stewardship, water monitoring and community farming. Its named Rio Nambé, falls and reservoir context supports a carefully limited public recreation landscape.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual department purpose and resource-use introduction; selected Surface Water Quality Program goals and Rio Nambé/Falls Reservoir context; Community Farm paragraph. Ceremonial/bison-slaughter details excluded.",
+        "accessNotes": "Normal HTTP200. No underlying samples, present water safety, current staff, bison count, legal certification or programme outcomes verified. The page’s ecological evaluations remain attributed; no current environmental assurance. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
+      },
+      {
+        "id": "p13-nambe-about",
+        "title": "About Nambé Pueblo — selected community historical account",
+        "publisher": "Nambé Pueblo",
+        "url": "https://www.nambepueblo.org/about-nambe-pueblo/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Names",
+          "Housing"
+        ],
+        "annotation": "The Pueblo connects Nanbé Owingeh naming, Tewa context, colonial pressure and changes in housing and land use. It is a community account to read alongside fuller original-record research.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected public body: naming/language/location paragraph; colonial taxation/religious-suppression and revolt account; twentieth-century housing/settlement change; public recreation-area opening. Sacred/kiva/origin and ceremonial material not used.",
+        "accessNotes": "Normal HTTP200. Exact early chronology, legal land-claim outcomes, population/acreage and current visitor schedules are not independently verified. No sacred-site photographs, artifact images or present entitlements reproduced. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
+      },
+      {
+        "id": "p13-nambe-visitors",
+        "title": "Visiting Nambé Pueblo — photography and residential privacy (supporting)",
+        "publisher": "Nambé Pueblo",
+        "url": "https://www.nambepueblo.org/visitors-nambe-pueblo/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Cultural privacy",
+          "Photography policy"
+        ],
+        "annotation": "The Pueblo distinguishes public recreation from a living community’s private and restricted spaces and requires location-photography permits. The landscape image supplies no permission to enter or capture new photographs.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual visitor body: closures and living-community statement; code paragraphs on homes, location-photo permits, restricted areas, signage and artifacts. Ceremonial procedure details excluded from synthesis.",
+        "accessNotes": "Normal HTTP200. Supporting policy reference, not another historical-work count. No original 2008 photographer permit/consent inspected; no explicit retrospective republication prohibition found in the selected public rules. No travel-access or legal assurance. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       }
     ],
     "relatedOriginalIds": [
       310,
       381
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p13-nambe-about",
+      "p236-s3"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Inspect public Tewa learning resources when substantive programme content becomes available; the existing page is under construction.",
+      "Read original housing, colonial and land-history documents before extending compressed chronology or legal claims.",
+      "The falls image is dated and does not prove original capture permission, current access, water safety or a territorial boundary."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Inspect public Tewa learning resources when substantive programme content becomes available; the existing page is under construction.",
+        "Read original housing, colonial and land-history documents before extending compressed chronology or legal claims.",
+        "The falls image is dated and does not prove original capture permission, current access, water safety or a territorial boundary."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p13-nambe-about",
+          "reason": "Begin with the Pueblo’s naming, history and housing narrative, with its scope limits."
+        },
+        {
+          "sourceId": "p236-s3",
+          "reason": "Read the Pueblo’s own stewardship, water-programme and community-farm account."
+        }
+      ],
+      "imageRecordId": "c13-nambe-pueblo-photo"
+    }
   },
   {
     "originalId": 237,
@@ -41852,7 +42233,7 @@
     "name": "Ohkay Owingeh",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Ohkay Owingeh is a living Pueblo nation whose preferred name replaces the older San Juan Pueblo label in many sources.",
+    "overview": "Ohkay Owingeh is a living Tewa-speaking community. This bounded path examines community housing and preservation through a hosted reported feature and an outside federal case study. The Rio Chama image shows an upstream regional waterway, not the Pueblo or an exact confluence.",
     "sections": [
       {
         "title": "Identity and context",
@@ -41869,22 +42250,41 @@
           "p264-s2",
           "p264-s3"
         ]
+      },
+      {
+        "title": "Preserving homes as places to live",
+        "text": "The community-hosted feature reports residents, housing staff and architects working together to retain housing while adding contemporary amenities. Its interviews and project narrative are attributed accounts, with a Winter 2015 layout marker. They should not be read as a current census of renovated homes or a complete community history.",
+        "sourceIds": [
+          "p264-s1"
+        ]
+      },
+      {
+        "title": "Documentation and community participation",
+        "text": "The federal case study describes youth documentation, consultation and a housing-authority project balancing preservation with contemporary living. Read it alongside the hosted feature, keeping process descriptions separate from uninspected agreements and later outcomes. The Pueblo’s own introduction supplies the river connection; an upstream Abiquiú view does not establish Pueblo boundaries or access.",
+        "sourceIds": [
+          "p264-s3",
+          "p13-ohkay-place-context"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p264-s1",
-        "title": "History – Ohkay Owingeh",
+        "title": "It Takes a Village: The Story of Ohkay Owingeh — selected community-hosted feature",
+        "publisher": "Pueblo of Ohkay Owingeh; hosts reported preservation feature",
         "url": "https://ohkay.org/history/",
-        "publisher": "ohkay.org",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Language"
+          "Community-hosted reporting",
+          "Housing",
+          "Preservation"
         ],
-        "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
-        "accessed": "2026-10-19"
+        "annotation": "The hosted feature describes community-led housing preservation through reported interviews with residents, housing staff and architects. It is a retrospective project account, not a complete Pueblo history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual substantial indexed article body: selected housing-authority/architect partnership, youth documentation, resident/advisory participation, and traditional materials/modern amenities discussion. Winter 2015 layout marker encountered; original byline not established.",
+        "accessNotes": "Direct normal HTTPS retrieval failed expired-certificate validation and ordinary reader retrieval timed out; substantial indexed body was available and read. No bypass, full original magazine/PDF or underlying interviews reviewed. Sacred descriptions, family property details, original photos, precise site coordinates and numerical outcomes excluded. Interview statements remain attributed. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       },
       {
         "id": "p264-s2",
@@ -41902,23 +42302,92 @@
       },
       {
         "id": "p264-s3",
-        "title": "Ohkay Owingeh | Advisory Council on Historic Preservation",
-        "publisher": "achp.gov",
+        "title": "Ohkay Owingeh — selected preservation-project case study",
+        "publisher": "Advisory Council on Historic Preservation",
         "url": "https://www.achp.gov/success-stories/ohkay-owingeh",
         "type": "Government",
         "topics": [
-          "Identity",
-          "History"
+          "Housing",
+          "Public preservation case study"
         ],
-        "annotation": "Historical context for this entry. Read “Ohkay Owingeh | Advisory Council on Historic Preservation” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "The federal case study explains youth documentation, intergovernmental consultation and the housing authority’s effort to combine preservation with contemporary living. It supplies an outside project interpretation to compare with the hosted feature.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual case-study main body: selected Story naming bridge; Project, process and construction/consultation explanations; consulting-parties list. Private traditional knowledge and ritual detail excluded.",
+        "accessNotes": "Normal HTTP200 and ordinary web reader. No original agreement, underlying surveys, private records or current-law determination. Retrospective Now wording, family/funding/job totals and awards are not used as current outcomes. Project process is the institution’s account. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
+      },
+      {
+        "id": "p13-ohkay-place-context",
+        "title": "Home — brief own-community river context (supporting)",
+        "publisher": "Pueblo of Ohkay Owingeh",
+        "url": "https://ohkay.org/home/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Place context",
+          "Supporting community introduction"
+        ],
+        "annotation": "The Pueblo’s short public introduction identifies Ohkay Owingeh as a Tewa-speaking community at the Rio Grande and Chama rivers. This supports the named-waterway image context, not another substantive history count.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual indexed Our History and public community-introduction paragraphs, specifically Tewa and Rio Grande/Rio Chama confluence wording.",
+        "accessNotes": "Direct domain HTTPS has an expired certificate; actual indexed body was read without bypass. Brief home introduction excluded from substantive counts. No precise petroglyph/archaeological locations, present officials or visitor-event schedules adopted. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       }
     ],
     "relatedOriginalIds": [
       310,
       381
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p13-ohkay-place-context",
+      "p264-s1",
+      "p264-s3"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Develop broader community-authored history and substantive public Tewa educational sources beyond the preservation-project focus.",
+      "Read underlying agreements and later public project reports before claiming current outcomes.",
+      "The direct community-site certificate has expired; no bypass was used. The river photograph is upstream near Abiquiú, not the village, exact confluence or reservation land."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop broader community-authored history and substantive public Tewa educational sources beyond the preservation-project focus.",
+        "Read underlying agreements and later public project reports before claiming current outcomes.",
+        "The direct community-site certificate has expired; no bypass was used. The river photograph is upstream near Abiquiú, not the village, exact confluence or reservation land."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p264-s1",
+          "reason": "Read selected reported community and housing-authority perspectives with retrospective limits."
+        },
+        {
+          "sourceId": "p264-s3",
+          "reason": "Compare the federal case study’s explanation of documentation, consultation and housing work."
+        }
+      ],
+      "imageRecordId": "c13-ohkay-owingeh-photo"
+    }
   },
   {
     "originalId": 265,
@@ -45228,7 +45697,7 @@
     "name": "Pecos Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Pecos Pueblo is an ancestral Pueblo place whose descendants continue at Jemez Pueblo.",
+    "overview": "Pecos Pueblo is both a historical community/place and part of living descendant histories. Christopher Toya’s Pueblo of Jemez account describes the 1838 movement to Jemez and continuing ties; the National Park Service supplies a complementary history of trade and change at the site. Leaving a village does not mean that a people disappeared.",
     "sections": [
       {
         "title": "Identity and context",
@@ -45245,13 +45714,37 @@
           "p285-s2",
           "p285-s3"
         ]
+      },
+      {
+        "title": "Trade and a meeting place",
+        "text": "Both accounts place Pecos within exchange between Plains communities and the Rio Grande/Pueblo world. They describe a historical centre shaped by trade and its river-and-pass setting. These are selected interpretations of a long history, rather than a map of present jurisdiction or a complete account of every trading relationship.",
+        "sourceIds": [
+          "p285-s1",
+          "p285-s2"
+        ]
+      },
+      {
+        "title": "Movement to Jemez and continuing people",
+        "text": "Toya’s Jemez-published account describes movement to Jemez in 1838 and explains that Pecos descendants and community connections continue there. The park likewise frames the site’s history through continuing stories and traditions. The historic village and a living descendant community must not be collapsed into a claim that Pecos people vanished.",
+        "sourceIds": [
+          "p285-s1",
+          "p285-s2"
+        ]
+      },
+      {
+        "title": "Read a colonial ruin with context",
+        "text": "The selected photograph shows the exterior remains of a colonial mission at the historic site. It is not a reconstruction of precontact Pueblo architecture or a portrait of a present community. Read the image beside the Jemez account of Pecos continuity, rather than using an unoccupied ruin as evidence of human absence.",
+        "sourceIds": [
+          "p285-s1",
+          "p285-s2"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p285-s1",
         "title": "Pecos Pueblo – Pueblo of Jemez",
-        "publisher": "jemezpueblo.org",
+        "publisher": "Pueblo of Jemez; Christopher Toya, Tribal Historic Preservation Office",
         "url": "https://www.jemezpueblo.org/about/pecos-pueblo/",
         "type": "Indigenous-led",
         "topics": [
@@ -45259,27 +45752,35 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Pecos Pueblo – Pueblo of Jemez” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Christopher Toya of the Pueblo of Jemez Tribal Historic Preservation Office presents a community account of Pecos history and living descendant connections at Jemez.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public article main body, especially trade, colonial disruption, the 1838 movement to Jemez and continuing descendant/community ties. Christopher Toya and Tribal Historic Preservation Office attribution read. Origin and ceremonial passages are not reproduced.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. A community historical interpretation, not a claim of unanimous individual memory. Exact mortality totals, original manuscripts and consultation files were not independently verified. Its 1541 Coronado date differs from NPS 1540; the synthesis does not choose an exact arrival year."
       },
       {
         "id": "p285-s2",
         "title": "Pecos Pueblo - Pecos National Historical Park (U.S. National Park Service)",
-        "publisher": "nps.gov",
+        "publisher": "National Park Service",
         "url": "https://www.nps.gov/peco/learn/historyculture/pecospueblo.htm",
-        "type": "Government",
+        "type": "Government / archive",
         "topics": [
           "Identity",
           "History",
           "Culture"
         ],
-        "annotation": "Historical context for this entry. Read “Pecos Pueblo - Pecos National Historical Park (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "The park’s historical account describes Pecos as a place of trade and change and explicitly distinguishes departure from the site from the continuation of people, stories and traditions.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual substantive History & Culture body: Pecos River/Glorieta Creek setting, trade connections, consolidation, colonial change and occupation until 1838; continuity framing in the introduction.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Institutional park interpretation. No current land boundary, visitor access recommendation, burial/ceremonial information or disappearance claim. NPS 1540 and Toya 1541 arrival dates remain unresolved; linked archaeology and underlying records were not inspected."
       },
       {
         "id": "p285-s3",
         "title": "Pecos – Pueblo of Jemez",
-        "publisher": "jemezpueblo.org",
+        "publisher": "Pueblo of Jemez; Christopher Toya, Tribal Historic Preservation Office",
         "url": "https://www.jemezpueblo.org/places/pecos/",
         "type": "Indigenous-led",
         "topics": [
@@ -45287,15 +45788,66 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Pecos – Pueblo of Jemez” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Another Pueblo of Jemez route reproducing the same Christopher Toya Pecos history. Kept as contextual navigation, not counted as a second independent work.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual Places/Pecos article body read and compared with p285-s1: same Christopher Toya attribution and matching historical narrative, including trade, 1838 movement and living descendant connection.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Same article at a second URL; excluded duplicate. Both inherited IDs and exact URLs are retained. Differences in site navigation do not make another historical work."
       }
     ],
     "relatedOriginalIds": [
       150,
       396
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p285-s1",
+      "p285-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Still unfinished: deeper descendant-authored histories, original documents and additional historical perspectives remain useful.",
+      "The sources give different Coronado arrival years; no exact year is asserted here.",
+      "The second Jemez URL repeats the same work and is excluded from the count."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Still unfinished: deeper descendant-authored histories, original documents and additional historical perspectives remain useful.",
+        "The sources give different Coronado arrival years; no exact year is asserted here.",
+        "The second Jemez URL repeats the same work and is excluded from the count."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p285-s1",
+          "reason": "Begin with Christopher Toya’s Jemez-published account and living Pecos descendant connection."
+        },
+        {
+          "sourceId": "p285-s2",
+          "reason": "Compare the park’s account of trade, change and continuity at the historic place."
+        }
+      ],
+      "imageRecordId": "c13-pecos-pueblo-photo"
+    }
   },
   {
     "originalId": 286,
@@ -45800,7 +46352,7 @@
     "name": "Picuris Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Picuris Pueblo is a living Pueblo nation in northern New Mexico.",
+    "overview": "Picuris Pueblo’s public museum and programme accounts provide one foundation for learning about its continuing community institutions. This guide compares them with a bounded outside historical interpretation. The 2008 portrait identifies one named artist, not a current officeholder or a representative of every Picuris person.",
     "sections": [
       {
         "title": "Identity and context",
@@ -45816,50 +46368,136 @@
           "p292-s1",
           "p292-s2"
         ]
+      },
+      {
+        "title": "Community institutions tell their own story",
+        "text": "The Pueblo’s programme page describes the museum as a place for its own voice and community engagement, tracing an opening in 1969, a later closure and reopening in 2025. Its plans for more galleries and collection space remain plans. The public stewardship and learning descriptions likewise state institutional aims rather than measured outcomes.",
+        "sourceIds": [
+          "p292-s1"
+        ]
+      },
+      {
+        "title": "Compare an outside historical account",
+        "text": "The NPS interpretation discusses varied livelihoods and regional relationships, Spanish mission pressure, the Pueblo Revolt and displacement and return. Read this mission-centered narrative alongside the Pueblo’s own institutional publications. Its numerical and superlative claims are not adopted here, and colonial disruption is not treated as disappearance.",
+        "sourceIds": [
+          "p13-picuris-history"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p292-s1",
-        "title": "Tribal Programs :: Picuris Pueblo",
-        "publisher": "picurispueblo.org",
+        "title": "Tribal Programs — selected museum and stewardship accounts",
+        "publisher": "Picuris Pueblo",
         "url": "https://www.picurispueblo.org/tribal-programs",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Community institutions",
+          "Museum history",
+          "Stewardship"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tribal Programs :: Picuris Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "This substantial programme page includes the Pueblo’s museum history and public stewardship descriptions. The selected museum account describes reopening and continuing development through community-centered interpretation.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected body: Bison Program mission/community-learning paragraphs; Museum and Interpretive Center mission, exhibit introduction and museum-history paragraphs; public photo-permit notice encountered.",
+        "accessNotes": "Normal HTTP200. No current staffing, fee/schedule, membership/population, radiocarbon figure, medical guidance or programme outcome verified. Collection images and restricted knowledge not reproduced. Reopening is the page’s stated 2025 history, not proof that all planned expansions are complete. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       },
       {
         "id": "p292-s2",
-        "title": "Museum Gift Shop | Picuris Pueblo",
-        "publisher": "picurispueblo.org",
+        "title": "Museum Gift Shop — supporting public mission",
+        "publisher": "Picuris Pueblo",
         "url": "https://www.picurispueblo.org/programs/museum-gift-shop",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Supporting museum context",
+          "Artists"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Museum Gift Shop | Picuris Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The shop’s short reopening notice describes support for Native artists and meaningful handcrafted work. It supplies supporting public-institution context rather than another full historical-work count.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual opening paragraphs on reopening, planned artist participation and the shop’s stated goals; retail inventory and contact headings encountered.",
+        "accessNotes": "Normal HTTP200. Current stock, prices, opening hours, artist eligibility and future expansion not verified or advertised. Artwork photographs and products not copied. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
+      },
+      {
+        "id": "p13-picuris-history",
+        "title": "San Lorenzo de Picuris — selected outside historical interpretation",
+        "publisher": "National Park Service",
+        "url": "https://www.nps.gov/subjects/travelspanishmissions/san-lorenzo-de-picuris.htm",
+        "type": "Government",
+        "topics": [
+          "Outside historical interpretation",
+          "Colonialism",
+          "Movement"
+        ],
+        "annotation": "The NPS mission-focused account discusses varied livelihoods, colonial pressure, the Pueblo Revolt and return after displacement. It is an outside interpretation to read alongside the Pueblo’s museum and community accounts.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected body: Between the mountains and the plains; selected missionaries/conflict/1680–1696 movement discussion; community restoration paragraph. Sacred, grave, interior and ceremonial material excluded.",
+        "accessNotes": "Normal HTTP200. Exact origin/occupation dates, casualty/population totals, smallest/largest claims, original colonial records and current visitor guidance not adopted. The mission-centered framing does not define the whole people or prove disappearance; no source photographs reused. No outreach or access bypass. Linked media, original records and additional collections were not automatically inspected or licensed."
       }
     ],
     "relatedOriginalIds": [
       310,
       386
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p292-s1",
+      "p13-picuris-history"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Add stronger community-authored historical and public Tiwa-language works as access permits.",
+      "Inspect original historical records and later museum reports before extending chronology or claiming completed projects.",
+      "Gerald Nailor Jr.’s low-resolution portrait is one individual dated image; background art is incidental, unlicensed separately and not extracted or interpreted."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add stronger community-authored historical and public Tiwa-language works as access permits.",
+        "Inspect original historical records and later museum reports before extending chronology or claiming completed projects.",
+        "Gerald Nailor Jr.’s low-resolution portrait is one individual dated image; background art is incidental, unlicensed separately and not extracted or interpreted."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p292-s1",
+          "reason": "Begin with the Pueblo’s museum history and public institutional descriptions."
+        },
+        {
+          "sourceId": "p13-picuris-history",
+          "reason": "Compare selected outside historical interpretation without adopting its numerical or mission-centered generalizations."
+        }
+      ],
+      "imageRecordId": "c13-picuris-pueblo-photo"
+    }
   },
   {
     "originalId": 293,
     "name": "Pima (Akimel O'odham)",
     "region": "Southwest / Arizona",
     "kind": "People / community",
-    "overview": "Akimel O’odham is a people’s name encountered alongside Pima. The Gila River Indian Community includes distinct constituent peoples.",
+    "overview": "Akimel O’odham, often encountered under the historical reading label Pima, should not be reduced to one present government. Salt River Pima-Maricopa Indian Community and Gila River Indian Community publish distinct accounts of their O’odham and Piipaash/Pee Posh communities. Together with an irrigation education lesson, they provide starting points for farming, water loss and community history.",
     "sections": [
       {
         "title": "Identity and context",
@@ -45876,39 +46514,72 @@
           "p293-s2",
           "p293-s3"
         ]
+      },
+      {
+        "title": "Read particular communities within a broader label",
+        "text": "The Salt River and Gila River accounts each identify distinct O’odham and Piipaash/Pee Posh peoples within a particular community. Their histories are related reading routes, not interchangeable government names or evidence that all these peoples are one group. Keep the speaker and community scope attached to each account.",
+        "sourceIds": [
+          "p293-s1",
+          "c13-pima-gila-history"
+        ]
+      },
+      {
+        "title": "Farming and the loss of river water",
+        "text": "The community histories and irrigation lesson connect farming with river water and describe the consequences of diversion. The lesson is especially useful for an introductory account of water loss, but its future-looking project language belongs to the document’s own period. It does not establish that later irrigation plans were completed or resolve present legal rights.",
+        "sourceIds": [
+          "p293-s1",
+          "p293-s3",
+          "c13-pima-gila-history"
+        ]
+      },
+      {
+        "title": "Archaeology and community accounts need context",
+        "text": "The education lesson distinguishes archaeological interpretations from community histories and asks readers to consider where interpretations differ. Labels such as Hohokam should therefore be read within their scholarly and community contexts, not used as proof that a people vanished or as an automatic identity assignment. The underlying archaeological works require separate inspection.",
+        "sourceIds": [
+          "p293-s3",
+          "p293-s1"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p293-s1",
         "title": "History | Salt River Pima-Maricopa Indian Community",
-        "publisher": "srpmic-nsn.gov",
+        "publisher": "Salt River Pima-Maricopa Indian Community",
         "url": "https://www.srpmic-nsn.gov/about/history/",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History | Salt River Pima-Maricopa Indian Community” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A Salt River Pima-Maricopa Indian Community history introduces its distinct O’odham and Piipaash peoples, farming and the consequences of river diversion. It is one government/community perspective within a wider Akimel O’odham reading route.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual main History body, ordinary web-reader lines 49–71: two distinct peoples, community history, archaeology/ancestry interpretation, irrigation and diversion. The timeline included farther down the page overlaps p293-s2 and is not counted again.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Normal HTTP 200 redirected www to non-www; inherited ID and original URL retained. Archaeological labels are not treated as vanished ethnic groups or automatic proof of a single descent line. Present legal boundaries, totals and current project outcomes are not established."
       },
       {
         "id": "p293-s2",
         "title": "Timeline of O'odham Piipaash History | Salt River Pima-Maricopa Indian Community",
-        "publisher": "srpmic-nsn.gov",
+        "publisher": "Salt River Pima-Maricopa Indian Community",
         "url": "https://srpmic-nsn.gov/about/history/timeline/",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Timeline of O'odham Piipaash History | Salt River Pima-Maricopa Indian Community” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A timeline presented separately and also included within the Community History page. Retained as a navigation aid, excluded as a duplicate component of the same inspected community history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual timeline body read and compared with the timeline embedded in p293-s1. Shared sequence and entries establish component duplication, not another independent historical work.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Same ID/URL preserved. Supporting duplicate only; no additional substantive source count."
       },
       {
         "id": "p293-s3",
         "title": "Pima-Maricopa Irrigation Project, Education Initiative",
-        "publisher": "gilariver.com",
+        "publisher": "Pima-Maricopa Irrigation Project, Education Initiative",
         "url": "https://www.gilariver.com/lessons/waterlosslesson01.pdf",
         "type": "Indigenous-led",
         "topics": [
@@ -45916,14 +46587,88 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Pima-Maricopa Irrigation Project, Education Initiative” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A Pima-Maricopa Irrigation Project education lesson introduces Akimel O’otham and Pee Posh histories and water loss. Read its historical overview and its distinction between archaeological interpretations and community memory.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual extracted text of all four PDF pages inspected. Selected use: p.1 opening identifies two distinct peoples; p.2 farming/water-loss narrative; p.3 educational objectives and the explicit limits of archaeological agreement. The p.4 chart was text-extracted, not visually rendered.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Four-page PDF normally retrieved HTTP 200. Undated legacy lesson includes future-looking irrigation/settlement language; no project completion or current acreage is asserted. Underlying quotations and archaeological publications were not inspected. No full visual chart inspection claimed."
+      },
+      {
+        "id": "c13-pima-gila-history",
+        "title": "History — Gila River Indian Community perspective",
+        "publisher": "Gila River Indian Community",
+        "url": "https://www.gilariver.org/index.php/about/history",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Agriculture",
+          "Water"
+        ],
+        "annotation": "The Community’s historical account connects its Akimel O’otham and Pee Posh peoples with farming, irrigation and the effects of river diversion. It complements rather than replaces the separate Salt River account.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual substantial main History body: community self-description, irrigation/agriculture, selected colonial-observer narrative and water loss. Conflicting/qualified arrival chronology and future-looking irrigation plans were read but not adopted as settled/current facts.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. This is a particular community perspective, not all Pima-speaking people or proof that Pee Posh are the same people. Original colonial texts were not inspected. Future-looking project language is treated as legacy; no current irrigation outcome, legal entitlement or boundary is inferred."
       }
     ],
     "relatedOriginalIds": [
       390
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p293-s1",
+      "p293-s3",
+      "c13-pima-gila-history"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Still unfinished: additional Akimel O’odham-authored history, original water records and dated contemporary accounts remain useful.",
+      "The Salt River timeline duplicates a component of its main history and is not another counted work.",
+      "The Sacaton image depicts modern federal irrigation infrastructure and a dry channel, not traditional architecture or evidence of restored water."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Still unfinished: additional Akimel O’odham-authored history, original water records and dated contemporary accounts remain useful.",
+        "The Salt River timeline duplicates a component of its main history and is not another counted work.",
+        "The Sacaton image depicts modern federal irrigation infrastructure and a dry channel, not traditional architecture or evidence of restored water."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p293-s1",
+          "reason": "Begin with the particular Salt River community’s historical perspective."
+        },
+        {
+          "sourceId": "p293-s3",
+          "reason": "Use the short education lesson to examine water loss and the limits of interpretation."
+        },
+        {
+          "sourceId": "c13-pima-gila-history",
+          "reason": "Compare the distinct Gila River community’s own history."
+        }
+      ],
+      "imageRecordId": "c13-pima-akimel-oodham-photo"
+    }
   },
   {
     "originalId": 294,
@@ -46267,7 +47012,7 @@
     "name": "Pojoaque Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Pojoaque Pueblo is a living Pueblo nation in New Mexico.",
+    "overview": "Pojoaque is a distinct Tewa Pueblo in northern New Mexico. Its language department and tribally operated Poeh Cultural Center offer starting points into community-led teaching, art and cultural preservation.",
     "sections": [
       {
         "title": "Identity and context",
@@ -46284,54 +47029,143 @@
           "p299-s2",
           "p299-s3"
         ]
+      },
+      {
+        "title": "Learning Téwa across generations",
+        "text": "Pojoaque dates its language department’s establishment to a 2018 Tribal Council resolution. Its public account describes second-language learners working with first-language speakers, developing immersion-based curriculum and training teachers. These are specific efforts and aims; the page does not establish proficiency throughout the community.",
+        "sourceIds": [
+          "p299-s1"
+        ]
+      },
+      {
+        "title": "The Poeh as a community institution",
+        "text": "The Poeh dates its establishment to 1988 and describes planning involving Tribal Council, artists, staff and community members. Its account brings arts teaching, archives, exhibitions and collections together. The timeline distinguishes the 1991 original museum, later buildings and the 2005 permanent collection unveiling.",
+        "sourceIds": [
+          "c13-pojoaque-poeh"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p299-s1",
-        "title": "Tewa Language – Pueblo of Pojoaque",
-        "publisher": "pojoaque.org",
+        "title": "Téwa Language Department — intergenerational learning and curriculum",
+        "publisher": "Pojoaque Pueblo",
         "url": "https://pojoaque.org/tewalanguage/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "Language"
+          "Language",
+          "Education"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tewa Language – Pueblo of Pojoaque” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo describes its 2018 language department, learner/speaker collaboration and curriculum work. This is a community-led account of language renewal rather than a proficiency evaluation.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual department opening, Mission Statement and Services Provided; reader lines 4–6, 36–44. Staff schedules and linked recordings excluded.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       },
       {
         "id": "p299-s2",
-        "title": "History - Nuestra Senora de Guadalupe del Valle de Pojoaque",
+        "title": "Nuestra Señora parish history — uninspected parish perspective",
         "publisher": "pojoaquecatholics.com",
         "url": "https://www.pojoaquecatholics.com/OurParish/History",
-        "type": "Indigenous-led",
+        "type": "Religious / community publication",
         "topics": [
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History - Nuestra Senora de Guadalupe del Valle de Pojoaque” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "An inherited Catholic parish link. It has not been verified as a Pueblo-government publication.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Metadata/reading-status clarification only; actual historical body not inspected in this batch.",
+        "accessNotes": "Existing ID and URL retained as an unread or supporting lead. No new actual-content inspection, contentReviewedAt date or substantive count claimed."
       },
       {
         "id": "p299-s3",
-        "title": "Arts & Culture – Pueblo of Pojoaque",
-        "publisher": "pojoaque.org",
+        "title": "Arts & Culture — supporting Poeh and visitor context",
+        "publisher": "Pojoaque Pueblo",
         "url": "https://pojoaque.org/visit/arts-culture/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "Culture"
+          "Museums",
+          "Source context"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Arts & Culture – Pueblo of Pojoaque” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Supporting account overlaps the center’s fuller history. Visitor guidance distinguishes photography and reproduction restrictions from general public access.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual Poeh paragraphs, reader lines 3–9, 21–23; selected etiquette/photo restrictions lines 33–47. Ceremonial descriptions not used.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
+      },
+      {
+        "id": "c13-pojoaque-poeh",
+        "url": "https://poehcenter.org/about/",
+        "title": "Poeh Cultural Center — institutional history and community-guided arts",
+        "publisher": "Poeh Cultural Center, a center of the Pueblo of Pojoaque",
+        "type": "Indigenous-led",
+        "topics": [
+          "Museums",
+          "Institutional history"
+        ],
+        "annotation": "The Pueblo’s center describes its 1988 establishment and later studios, archives and museum development. Its timeline separates founding from later museum openings.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual About body and institutional timeline, reader lines 0–12, 23–39, 54–90. Founding, planning participants, studios, archives and museum functions; no individual collection items inspected.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       }
     ],
     "relatedOriginalIds": [
       310,
       381
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p299-s1",
+      "c13-pojoaque-poeh"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "A useful institutional introduction, not a comprehensive history or community endorsement.",
+      "Underlying resolutions, original historical records and learning outcomes remain uninspected.",
+      "Individual artworks need separate rights review; the selected image shows a public institutional exterior."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "A useful institutional introduction, not a comprehensive history or community endorsement.",
+        "Underlying resolutions, original historical records and learning outcomes remain uninspected.",
+        "Individual artworks need separate rights review; the selected image shows a public institutional exterior."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p299-s1",
+          "reason": "Begin with the Pueblo’s language learning and curriculum account."
+        },
+        {
+          "sourceId": "c13-pojoaque-poeh",
+          "reason": "Follow the cultural center’s institutional history and community-guided work."
+        }
+      ],
+      "imageRecordId": "c13-pojoaque-pueblo-photo"
+    }
   },
   {
     "originalId": 300,
@@ -47470,7 +48304,7 @@
     "name": "Pueblo",
     "region": "Southwest / New Mexico / Arizona",
     "kind": "Wider grouping / peoples",
-    "overview": "Pueblo is a broad grouping of distinct peoples, languages and nations, rather than one tribe.",
+    "overview": "Pueblo is a broad route into distinct peoples and communities, rather than a single government. The Indian Pueblo Cultural Center offers a New Mexico-centered introduction and guidance for reading about living communities respectfully.",
     "sections": [
       {
         "title": "Identity and context",
@@ -47487,22 +48321,46 @@
           "p310-s2",
           "p310-s3"
         ]
+      },
+      {
+        "title": "Begin with individual communities",
+        "text": "The Pueblo-owned Center distinguishes nineteen New Mexico Pueblos. This is a regional frame within a wider Pueblo world, including Arizona communities; it does not make them one nation or erase differences in language and history. Follow individual directory entries for community-specific reading.",
+        "sourceIds": [
+          "p310-s1"
+        ]
+      },
+      {
+        "title": "An institution for public learning",
+        "text": "The Albuquerque Center describes museum, education, library and archival resources under the nineteen New Mexico Pueblos. It provides a shared public introduction while individual communities retain their own governments and accounts.",
+        "sourceIds": [
+          "c13-pueblo-center"
+        ]
+      },
+      {
+        "title": "Reading does not grant access",
+        "text": "The Center’s guidance treats Pueblos as living homes. Photography may require permits or be prohibited, and restricted spaces remain restricted. Read each community’s rules; a published image or online source is not permission to visit, record people or enter private spaces.",
+        "sourceIds": [
+          "c13-pueblo-visiting"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p310-s1",
-        "title": "FAQs · Indian Pueblo Cultural Center",
+        "title": "FAQs — distinct Pueblo communities and cultural context",
+        "publisher": "Indian Pueblo Cultural Center",
         "url": "https://indianpueblo.org/faqs/",
-        "publisher": "indianpueblo.org",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Language"
+          "Names and identities",
+          "Pueblo diversity"
         ],
-        "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo-owned Center distinguishes the nineteen New Mexico Pueblos and introduces language and cultural diversity. Its geographic scope does not exhaust the wider Pueblo world.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected FAQ body lines50–56, 102–111, 129–131 and144–146: distinct nations, Center ownership, language diversity, Arizona relationship and arts.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. Population totals, categorical language taxonomy, superlative revolt claim and ceremonial explanations excluded. Neither the nineteen-community frame nor a shared label creates one government. Logo is expressly copyrighted; it is not reproduced."
       },
       {
         "id": "p310-s2",
@@ -47529,6 +48387,42 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Laguna Church | Pueblo of Laguna” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c13-pueblo-visiting",
+        "title": "Visiting a Pueblo — community-specific access and photography",
+        "publisher": "Indian Pueblo Cultural Center",
+        "url": "https://indianpueblo.org/visiting-a-pueblo/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community guidance",
+          "Photography",
+          "Respectful access"
+        ],
+        "annotation": "Community guidance treats Pueblos as living homes and distinguishes permission to visit from permission to photograph.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected public guidance lines54–67, 78–81, 96–107: private homes, permits or photography bans, restricted spaces, signage and artifacts.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. Not a current opening/permit directory or permission grant. No ceremony description, restricted-space instructions or contact with communities. Individual rules govern; historic publication does not establish consent."
+      },
+      {
+        "id": "c13-pueblo-center",
+        "title": "About Us — a jointly owned cultural institution",
+        "publisher": "Indian Pueblo Cultural Center",
+        "url": "https://indianpueblo.org/about-us/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Public institutions",
+          "Education",
+          "Archives"
+        ],
+        "annotation": "The Center describes its Albuquerque campus and educational, museum, library and archival work under the nineteen New Mexico Pueblos.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected opening body lines47–48, 53 and65: campus context, cultural/educational facilities and community governance.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. Only the institutional introduction inspected; no linked videos, collection items or underlying governance records. Current acreage, leadership biographies and financial claims omitted. The institution is not a replacement for individual Pueblo governments."
       }
     ],
     "relatedOriginalIds": [
@@ -47554,7 +48448,56 @@
       452,
       454
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p310-s1",
+      "c13-pueblo-center"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Individual Pueblo histories and languages need separate sources; this is a regional introduction.",
+      "Underlying archives, historical interpretations and community review remain open."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Individual Pueblo histories and languages need separate sources; this is a regional introduction.",
+        "Underlying archives, historical interpretations and community review remain open."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p310-s1",
+          "reason": "Start with the distinct-community frame, without treating Pueblo as one government."
+        },
+        {
+          "sourceId": "c13-pueblo-center",
+          "reason": "Locate a Pueblo-owned educational and archival institution."
+        },
+        {
+          "sourceId": "c13-pueblo-visiting",
+          "reason": "Keep public learning separate from access and photography permission."
+        }
+      ],
+      "imageRecordId": "c13-pueblo-solar-photo"
+    }
   },
   {
     "originalId": 311,
@@ -49419,7 +50362,7 @@
     "name": "Sandia Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Sandia Pueblo is a living Pueblo nation in New Mexico.",
+    "overview": "Sandia is a distinct Tiwa Pueblo in central New Mexico. Its public accounts connect community continuity with agriculture, water and habitat work. A dated EPA restoration report provides a second perspective on one Rio Grande project.",
     "sections": [
       {
         "title": "Identity and context",
@@ -49436,26 +50379,43 @@
           "p330-s2",
           "p330-s3"
         ]
+      },
+      {
+        "title": "Water and habitat responsibilities",
+        "text": "Sandia’s Environment Department describes agricultural water delivery, water-quality protection, wildlife habitat and cottonwood bosque restoration. It also explains partnerships and practical challenges. These are stated responsibilities and priorities, not proof of water safety or completed ecological recovery.",
+        "sourceIds": [
+          "c13-sandia-environment"
+        ]
+      },
+      {
+        "title": "A restoration project described in 2004",
+        "text": "EPA’s October 2004 account describes Sandia Pueblo removing invasive plants, replanting native vegetation and monitoring Rio Grande habitat with partners. Read it as a dated project description. It does not establish all planned work succeeded or characterize current conditions throughout the river.",
+        "sourceIds": [
+          "c13-sandia-epa2004"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p330-s1",
-        "title": "Pueblo Of Sandia | Albuquerque NM",
+        "title": "Pueblo of Sandia — supporting identity and mountain context",
         "url": "https://www.sandiapueblo.nsn.us/",
-        "publisher": "sandiapueblo.nsn.us",
+        "publisher": "Sandia Pueblo",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Language"
+          "Identity context",
+          "Landscape context"
         ],
-        "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
-        "accessed": "2026-10-19"
+        "annotation": "Supporting identity/landscape context. An uncorroborated lineage statement and current numerical claims are not reproduced.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual main introductory body: central New Mexico identity and named Sandia Mountain resource connection only. Aztec-lineage assertion, current totals and general chronology not adopted.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       },
       {
         "id": "p330-s2",
-        "title": "Sandia Pueblo Archaeological Survey",
+        "title": "Sandia archaeological survey — unread inherited lead",
         "publisher": "epa.gov",
         "url": "https://www.epa.gov/sites/default/files/2015-11/documents/sandia-archaeological-survey.pdf",
         "type": "Government",
@@ -49464,28 +50424,133 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Historical context for this entry. Read “Sandia Pueblo Archaeological Survey” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Inherited EPA-hosted report; full archaeology/site contents not inspected in this batch.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Metadata/reading-status clarification only; actual historical body not inspected in this batch.",
+        "accessNotes": "Existing ID and URL retained as an unread or supporting lead. No new actual-content inspection, contentReviewedAt date or substantive count claimed."
       },
       {
         "id": "p330-s3",
-        "title": "MS 614 Language of the Sandía Pueblo or Nafin ab, in the central parts of New Mexico. Tewa [sic] linguistic … | NAA.MS614 | SOVA, Smithsonian Institution",
+        "title": "Smithsonian archival catalogue — unread inherited lead",
         "publisher": "sova.si.edu",
         "url": "https://sova.si.edu/record/naa.ms614?i=0&n=100&q=America+Online&s=0&t=W",
-        "type": "Museum / archive",
+        "type": "Archive / primary collection",
         "topics": [
           "Identity",
           "Language"
         ],
-        "annotation": "A language reference linked for this entry. Read “MS 614 Language of the Sandía Pueblo or Nafin ab, in the central parts of New Mexico. Tewa [sic] linguistic … | NAA.MS614 | SOVA, Smithsonian Institution” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-        "accessed": "2026-10-19"
+        "annotation": "Inherited catalogue link; no manuscript body or media inspected in this batch.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Metadata/reading-status clarification only; actual historical body not inspected in this batch.",
+        "accessNotes": "Existing ID and URL retained as an unread or supporting lead. No new actual-content inspection, contentReviewedAt date or substantive count claimed."
+      },
+      {
+        "id": "c13-sandia-environment",
+        "url": "https://www.sandiapueblo.nsn.us/environment/",
+        "title": "Environment Department — water, habitat and bosque stewardship",
+        "publisher": "Sandia Pueblo",
+        "type": "Indigenous-led",
+        "topics": [
+          "Environment",
+          "Water",
+          "Stewardship"
+        ],
+        "annotation": "The Pueblo outlines environmental responsibilities, projects and challenges. This account does not demonstrate ecological outcomes or current water safety.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Environment body, reader lines 51–72: water/agriculture, habitat, cottonwood bosque, analysis and partnerships. Personnel and legal/regulatory advice omitted.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
+      },
+      {
+        "id": "c13-sandia-epa2004",
+        "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/ef45c56005a4c7b8852570d6005e7ebd.html",
+        "title": "Rio Grande restoration at Sandia — EPA’s 2004 project account",
+        "publisher": "U.S. Environmental Protection Agency",
+        "type": "Government / archive",
+        "topics": [
+          "Environmental history",
+          "Restoration"
+        ],
+        "annotation": "A dated federal account of Sandia Pueblo’s restoration partnership. It complements the Pueblo’s department account without assessing today’s river.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual complete October28, 2004 press-release body, reader lines 53–64: invasive-plant removal, native replanting and monitoring then. Linked material, datasets and subsequent results uninspected.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
+      },
+      {
+        "id": "c13-sandia-language",
+        "url": "https://www.sandiapueblo.nsn.us/language-and-culture-program/",
+        "title": "Language and Culture — brief supporting mission",
+        "publisher": "Sandia Pueblo",
+        "type": "Indigenous-led",
+        "topics": [
+          "Tiwa language",
+          "Education"
+        ],
+        "annotation": "A short Pueblo mission provides language context, not a substantial programme history or measured outcomes.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual single mission paragraph, reader lines 51–52, linking Tiwa, stories/history and agriculture. Brief context excluded from substantive count.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       }
     ],
     "relatedOriginalIds": [
       310,
       386
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c13-sandia-environment",
+      "c13-sandia-language"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "A fuller community-authored language/educational history remains needed.",
+      "No archaeology report, original language material, monitoring dataset or current health finding inspected.",
+      "Image is a 2008 view from Albuquerque, not a Pueblo settlement, boundary or current condition."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "A fuller community-authored language/educational history remains needed.",
+        "No archaeology report, original language material, monitoring dataset or current health finding inspected.",
+        "Image is a 2008 view from Albuquerque, not a Pueblo settlement, boundary or current condition."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c13-sandia-environment",
+          "reason": "Begin with the Pueblo’s environmental account."
+        },
+        {
+          "sourceId": "c13-sandia-epa2004",
+          "reason": "Compare a clearly dated federal project report."
+        }
+      ],
+      "imageRecordId": "c13-sandia-pueblo-photo"
+    }
   },
   {
     "originalId": 331,
@@ -49536,7 +50601,7 @@
     "name": "San Ildefonso Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "San Ildefonso Pueblo is a living Pueblo nation in New Mexico.",
+    "overview": "San Ildefonso is a distinct Tewa Pueblo whose public accounts connect community history, art and the Rio Grande landscape. Its preservation and environmental departments offer ways to study how cultural responsibilities and environmental work are organized.",
     "sections": [
       {
         "title": "Identity and context",
@@ -49552,49 +50617,146 @@
           "p332-s1",
           "p332-s2"
         ]
+      },
+      {
+        "title": "Community history and artists",
+        "text": "The Pueblo’s visitor page relates an ancestral movement through Mesa Verde and Bandelier into the Rio Grande valley. It also credits Maria and Julian Martinez in its account of black-on-black pottery. This is an attributed Pueblo narrative; the guide has not independently reconstructed the full migration chronology or the artists’ careers.",
+        "sourceIds": [
+          "p332-s1"
+        ]
+      },
+      {
+        "title": "Preservation guided by the community",
+        "text": "San Ildefonso’s THPO describes working with an advisory board and cultural authorities to guide preservation according to Pueblo values. Public responsibilities include outreach and identifying historically significant places. This explanation does not open private knowledge or sites to unrestricted access.",
+        "sourceIds": [
+          "p332-s2"
+        ]
+      },
+      {
+        "title": "Environmental work as an institution",
+        "text": "The DECP traces its development through a 1992 accord, staffing and funding in 1996, and a move into a Natural Resources Building in 2002. It describes planning and risk assessment as foundations of its work. Those descriptions do not establish current environmental conditions.",
+        "sourceIds": [
+          "c13-san-ildefonso-decp"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p332-s1",
-        "title": "Visiting the Pueblo – San Ildefonso Pueblo",
-        "publisher": "sanipueblo.org",
+        "title": "Visiting the Pueblo — attributed community history and arts",
+        "publisher": "San Ildefonso Pueblo",
         "url": "https://sanipueblo.org/visiting-the-pueblo/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Community history",
+          "Arts",
+          "Place"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Visiting the Pueblo – San Ildefonso Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo presents its own historical narrative and credits Maria and Julian Martinez in black-on-black pottery. Attribution preserves the account’s perspective without independently resolving every chronology.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual HISTORY and Arts/Artists body: community-attributed Mesa Verde/Bandelier/Rio Grande movement, Tewa name, named Black Mesa and Maria/Julian Martinez account. Colonial/legal chronology and generalized lost-art claims not adopted.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       },
       {
         "id": "p332-s2",
-        "title": "Tribal Historic Preservation Office (THPO) – San Ildefonso Pueblo",
-        "publisher": "sanipueblo.org",
+        "title": "Tribal Historic Preservation Office — community-guided preservation",
+        "publisher": "San Ildefonso Pueblo",
         "url": "https://sanipueblo.org/tribal-historic-preservation-office-thpo/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Preservation",
+          "Institutions"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tribal Historic Preservation Office (THPO) – San Ildefonso Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo explains its office’s work with cultural authorities and community guidance. Public explanation is not permission to access or photograph places.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual responsibilities body, reader lines 122–126: advisory guidance, ancestral-place protection and outreach. Linked code and inventories uninspected.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
+      },
+      {
+        "id": "c13-san-ildefonso-decp",
+        "url": "https://sanipueblo.org/department-of-enviromental-and-cultural-preservation-decp-overview/",
+        "title": "Environmental and Cultural Preservation — selected departmental history",
+        "publisher": "San Ildefonso Pueblo",
+        "type": "Indigenous-led",
+        "topics": [
+          "Environment",
+          "Institutional history"
+        ],
+        "annotation": "The department recounts its development from the 1990s into a programme linking planning, data quality and risk assessment. This institutional history is not a finding about contamination or health.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual mission and History of the DECP, reader lines 151–163: 1992 accord, 1996 staffing/funding, 2002 building, planning and risk-assessment rationale. Linked PDF, boundary graphic and sampling datasets uninspected.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       }
     ],
     "relatedOriginalIds": [
       310,
       381
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p332-s1",
+      "p332-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Original historical records and artists’ biographies need fuller review.",
+      "Colonial chronology and legal rights are not independently settled here.",
+      "First Black Mesa photo with cemetery crosses was rejected; selected alternative is a roadside landscape without access or territory inference."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Original historical records and artists’ biographies need fuller review.",
+        "Colonial chronology and legal rights are not independently settled here.",
+        "First Black Mesa photo with cemetery crosses was rejected; selected alternative is a roadside landscape without access or territory inference."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p332-s1",
+          "reason": "Start with the Pueblo’s historical and arts narrative."
+        },
+        {
+          "sourceId": "p332-s2",
+          "reason": "Read its community-guided preservation account."
+        },
+        {
+          "sourceId": "c13-san-ildefonso-decp",
+          "reason": "Follow the environmental department’s selected institutional history."
+        }
+      ],
+      "imageRecordId": "c13-san-ildefonso-pueblo-photo"
+    }
   },
   {
     "originalId": 333,
     "name": "Santa Ana Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Santa Ana Pueblo, also known as Tamaya, is a living Pueblo nation in New Mexico.",
+    "overview": "Santa Ana Pueblo, called Tamaya in its own publications, is a distinct New Mexico Pueblo. Its preservation and education departments provide starting points into community-guided heritage work, Keres learning and support across generations.",
     "sections": [
       {
         "title": "Identity and context",
@@ -49611,40 +50773,62 @@
           "p333-s2",
           "p333-s3"
         ]
+      },
+      {
+        "title": "Preserving Tamaya’s past for the future",
+        "text": "Santa Ana’s THPO dates its creation to 2011 and describes guidance from an advisory board of community cultural authorities. Public work includes preservation education and protecting historical documents. The account outlines responsibilities while leaving private knowledge and individual cultural places outside this guide.",
+        "sourceIds": [
+          "p333-s1"
+        ]
+      },
+      {
+        "title": "Education across community life",
+        "text": "The Education Department describes early learning with Keres classes, school-family liaison work, scholarships and a community library. Its after-school and summer programmes combine academic support, creative activities and language/culture learning. These are the Pueblo’s service descriptions rather than an evaluation of participation or outcomes.",
+        "sourceIds": [
+          "p333-s2"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p333-s1",
-        "title": "THPO Front page – Santa Ana Pueblo",
-        "publisher": "santaana-nsn.gov",
+        "title": "Tribal Historic Preservation Office — Tamaya’s public account",
+        "publisher": "Santa Ana Pueblo",
         "url": "https://santaana-nsn.gov/thpo/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Preservation",
+          "Institutions",
+          "Public education"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “THPO Front page – Santa Ana Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Santa Ana explains its preservation-office creation and community-guided responsibilities. It supplies neither a site inventory nor cultural-item permission.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual mission/goals, overview and selected activities, reader lines 82–108: 2011 office creation, advisory guidance, outreach and document preservation. Artifact images, burial duties and restricted places not reproduced/analyzed.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       },
       {
         "id": "p333-s2",
-        "title": "Education Front page – Santa Ana Pueblo",
-        "publisher": "santaana-nsn.gov",
+        "title": "Education — Tamaya learning, library and family support",
+        "publisher": "Santa Ana Pueblo",
         "url": "https://santaana-nsn.gov/education/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Education",
+          "Keres language",
+          "Library"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Education Front page – Santa Ana Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo connects learning and Tamayame identity through early education, Keres classes, family support and a library. These descriptions state activities and goals rather than measured results.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Vision/Mission, Learning Center, liaison, scholarship and library/after-school/summer body, reader lines 17–58. Registration, contact data and collection totals excluded.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       },
       {
         "id": "p333-s3",
-        "title": "Documentation:RelLex/The Language of Santa Ana Pueblo - UBC Wiki",
+        "title": "RelLex Santa Ana language entry — uninspected lead",
         "publisher": "wiki.ubc.ca",
         "url": "https://wiki.ubc.ca/Documentation%3ARelLex/The_Language_of_Santa_Ana_Pueblo",
         "type": "Academic / reference",
@@ -49652,22 +50836,72 @@
           "Identity",
           "Language"
         ],
-        "annotation": "A language reference linked for this entry. Read “Documentation:RelLex/The Language of Santa Ana Pueblo - UBC Wiki” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
-        "accessed": "2026-10-19"
+        "annotation": "Inherited reference entry; underlying language publication not read in this batch.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Metadata/reading-status clarification only; actual historical body not inspected in this batch.",
+        "accessNotes": "Existing ID and URL retained as an unread or supporting lead. No new actual-content inspection, contentReviewedAt date or substantive count claimed."
       }
     ],
     "relatedOriginalIds": [
       310,
       163
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p333-s1",
+      "p333-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "A fuller community-authored history and original institutional records remain needed.",
+      "No artifact imagery, private ceremonial material, original language text or programme evaluations inspected.",
+      "Complete archival village print is dated 1884/c 1885; it does not show contemporary conditions or imply disappearance."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "A fuller community-authored history and original institutional records remain needed.",
+        "No artifact imagery, private ceremonial material, original language text or programme evaluations inspected.",
+        "Complete archival village print is dated 1884/c 1885; it does not show contemporary conditions or imply disappearance."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p333-s1",
+          "reason": "Read the Pueblo’s public preservation mission and office history."
+        },
+        {
+          "sourceId": "p333-s2",
+          "reason": "Explore Tamaya’s education, family support and library account."
+        }
+      ],
+      "imageRecordId": "c13-santa-ana-pueblo-photo"
+    }
   },
   {
     "originalId": 334,
     "name": "Santa Clara Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Santa Clara Pueblo is a living Pueblo nation in New Mexico.",
+    "overview": "Santa Clara is a distinct Tewa Pueblo in northern New Mexico. Its own historical account connects the living community with ancestral Puje, while its Forestry Department describes sustained work on forests and the Santa Clara Canyon watershed after the 2011 Las Conchas fire.",
     "sections": [
       {
         "title": "Identity and context",
@@ -49684,12 +50918,26 @@
           "p334-s2",
           "p334-s3"
         ]
+      },
+      {
+        "title": "Ancestral places and a living community",
+        "text": "Santa Clara’s About page relates the present Pueblo to ancestral Puje and emphasizes respect for language, history and the surrounding landscape. This is its public account of continuity and community values. It neither opens private cultural knowledge nor replaces a fuller history based on additional community sources.",
+        "sourceIds": [
+          "c13-santa-clara-about"
+        ]
+      },
+      {
+        "title": "Restoring a fire-damaged watershed",
+        "text": "The Forestry Department describes watershed effects of the 2011 Las Conchas fire followed by erosion, debris flows and flooding. It explains forest health, reforestation, channel stability and flood-mitigation work with partners. Reported goals and activities do not establish complete recovery or current canyon access.",
+        "sourceIds": [
+          "c13-santa-clara-forestry"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p334-s1",
-        "title": "Governor's Office | Santa Clara Pueblo",
+        "title": "Governor’s Office — uninspected supporting route",
         "publisher": "santaclarapueblo.org",
         "url": "https://www.santaclarapueblo.org/programs/tribal-government/governors-office/",
         "type": "Indigenous-led",
@@ -49697,42 +50945,135 @@
           "Identity",
           "Government"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Governor's Office | Santa Clara Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The inherited office route is preserved; no substantive history review claimed.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Metadata/reading-status clarification only; actual historical body not inspected in this batch.",
+        "accessNotes": "Existing ID and URL retained as an unread or supporting lead. No new actual-content inspection, contentReviewedAt date or substantive count claimed."
       },
       {
         "id": "p334-s2",
-        "title": "Tewa Language | Santa Clara Pueblo",
-        "publisher": "santaclarapueblo.org",
+        "title": "Tewa Language page — placeholder and programme route",
+        "publisher": "Santa Clara Pueblo",
         "url": "https://www.santaclarapueblo.org/programs/department-of-youth-and-learning/tewa-language/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "Language"
+          "Language",
+          "Unfinished research"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tewa Language | Santa Clara Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A placeholder retained for later checking; it is not evidence of programme absence or language loss.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual body reader lines 120–123 is Information/Coming Soon. No substantive programme body inspected at this URL.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       },
       {
         "id": "p334-s3",
-        "title": "Santa Clara Pueblo",
+        "title": "Santa Clara 2013 legislative presentation — unread lead",
         "publisher": "nmlegis.gov",
         "url": "https://www.nmlegis.gov/handouts/ERDT%20101013%20Item%201%20Santa%20Clara%20Gov.%20Presentation.pdf",
-        "type": "Government",
+        "type": "Government / archive",
         "topics": [
           "Identity",
           "History",
           "Contemporary life"
         ],
-        "annotation": "Historical context for this entry. Read “Santa Clara Pueblo” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Inherited presentation remains unread; no slide-deck/underlying-figure review claimed.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Metadata/reading-status clarification only; actual historical body not inspected in this batch.",
+        "accessNotes": "Existing ID and URL retained as an unread or supporting lead. No new actual-content inspection, contentReviewedAt date or substantive count claimed."
+      },
+      {
+        "id": "c13-santa-clara-about",
+        "url": "https://www.santaclarapueblo.org/about-us/",
+        "title": "About Santa Clara — community and ancestral-place account",
+        "publisher": "Santa Clara Pueblo",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Place",
+          "Tewa context"
+        ],
+        "annotation": "Santa Clara presents its ancestral Puje connection and continuing Tewa community. This attributed Pueblo account omits unverified population, boundary and legal claims.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected History/Values, First Contact and Current Day, reader lines 123–130, 136–138. Tewa context, Puje connection and stewardship values; current totals, 1905 legal claim and religious detail not adopted.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
+      },
+      {
+        "id": "c13-santa-clara-forestry",
+        "url": "https://www.santaclarapueblo.org/programs/community-services/tribal-forestry/",
+        "title": "Tribal Forestry — post-fire watershed restoration",
+        "publisher": "Santa Clara Pueblo",
+        "type": "Indigenous-led",
+        "topics": [
+          "Environment",
+          "Restoration",
+          "Institutions"
+        ],
+        "annotation": "The Pueblo explains how the 2011 Las Conchas fire and watershed damage shape forestry and flood-mitigation work. Activities and goals do not establish completed recovery.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual What We Do, selected project types, Strategic Goals and Partnerships, reader lines 125–147. 2011 fire and recovery activities; financial/structure counts, imagery and monitoring results excluded.",
+        "accessNotes": "Actual selected public body read in ordinary web reader and matching cached HTML/text on 2026-10-28.  No linked media, original institutional records, private knowledge or programme evaluations inspected; descriptions and aims are not measured outcomes or current service guarantees. No outreach or access bypass."
       }
     ],
     "relatedOriginalIds": [
       310,
       381
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c13-santa-clara-about",
+      "c13-santa-clara-forestry"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Fuller history, original records and independent restoration monitoring remain uninspected.",
+      "Tewa page is a placeholder; no programme or language absence inferred.",
+      "USFWS image explicitly names Santa Clara Pueblo fieldwork; individual identities, membership and exact capture date unestablished."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Fuller history, original records and independent restoration monitoring remain uninspected.",
+        "Tewa page is a placeholder; no programme or language absence inferred.",
+        "USFWS image explicitly names Santa Clara Pueblo fieldwork; individual identities, membership and exact capture date unestablished."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c13-santa-clara-about",
+          "reason": "Start with the Pueblo’s community and ancestral-place account."
+        },
+        {
+          "sourceId": "c13-santa-clara-forestry",
+          "reason": "Follow its public watershed-restoration explanation."
+        }
+      ],
+      "imageRecordId": "c13-santa-clara-pueblo-photo"
+    }
   },
   {
     "originalId": 335,
@@ -54143,7 +55484,7 @@
     "name": "Taos Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Taos Pueblo is a living Pueblo nation in northern New Mexico.",
+    "overview": "Taos Pueblo is a living Tiwa-speaking Pueblo community in northern New Mexico. Pueblo-published accounts of Blue Lake and community-directed language education provide two different ways to begin: a history of land recovery and a record of teaching across generations.",
     "sections": [
       {
         "title": "Identity and context",
@@ -54160,6 +55501,20 @@
           "p373-s2",
           "p373-s3"
         ]
+      },
+      {
+        "title": "Blue Lake and a public history of land recovery",
+        "text": "The Pueblo’s account identifies December 15, 1970 as the date of the Blue Lake return and places that event within a longer struggle for self-determination. This public historical account is a starting point for understanding the community’s land recovery; it does not provide permission to visit restricted places or establish present legal boundaries.",
+        "sourceIds": [
+          "c13-taos-blue-lake"
+        ]
+      },
+      {
+        "title": "Tiwa teaching across generations",
+        "text": "The Department of Education describes school partnerships, adult classes and instructor development. Its account names school milestones in 2019, 2021 and 2022 and reports a transition to online adult classes in 2020. These are the programme’s reported activities, rather than an independent measure of language proficiency or a promise that particular classes are currently offered.",
+        "sourceIds": [
+          "c13-taos-tiwa"
+        ]
       }
     ],
     "sources": [
@@ -54173,8 +55528,12 @@
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “HISTORY – Taos Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A short Pueblo-published introduction connects adobe homes, family life and recurring maintenance. It is supporting orientation rather than another substantial history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Complete brief main History body: adobe homes, annual maintenance and family/ancestral continuity; not navigation or linked pages.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Undated ownership rules, superlatives and exact occupation-length assertions are not adopted as independently verified current facts. This brief page is excluded from substantive work counts."
       },
       {
         "id": "p373-s2",
@@ -54203,13 +55562,113 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “FAQ – Taos Pueblo CMS” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c13-taos-blue-lake",
+        "title": "Blue Lake — Pueblo account of the 1970 land return",
+        "publisher": "Taos Pueblo",
+        "url": "https://taospueblo.com/blue-lake/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Land return",
+          "Public memory"
+        ],
+        "annotation": "The Pueblo places the December 1970 Blue Lake return within its public account of self-determination and a long effort to recover land taken in the early twentieth century.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual complete public main body, ordinary web-reader lines 0–11: December 15, 1970 account, Public Law 91-550 reference and attributed Nixon statement. Selected historical narrative only.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. The underlying statute, litigation files and presidential record were not inspected. No present legal entitlement, acreage calculation, access permission or mapped boundary is established. Ceremonial details are not reproduced."
+      },
+      {
+        "id": "c13-taos-tiwa",
+        "title": "Tiwa Language Program — public education and instructor development",
+        "publisher": "Taos Pueblo Department of Education",
+        "url": "https://taospuebloeducation.com/tiwa-language-program/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community institutions"
+        ],
+        "annotation": "A community education account describes school partnerships, adult classes and instructor mentoring, with selected milestones from 2019–2022.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public main body, ordinary web-reader lines 24–28 and 36–40: programme aims, school partnerships, adult classes, instructor development and mentoring.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. The page is an institutional account, not an independent fluency evaluation. Dates are reported milestones; current class availability, eligibility and funding are not verified. No language lessons, recordings or private cultural material were inspected or reproduced."
+      },
+      {
+        "id": "c13-taos-river-context",
+        "title": "Abeyta: Taos Adjudication — named river context only",
+        "publisher": "University of New Mexico, Utton Center",
+        "url": "https://uttoncenter.unm.edu/ombudsman/taos-adjudication.html",
+        "type": "Academic / reference",
+        "topics": [
+          "Place context",
+          "Supporting reference"
+        ],
+        "annotation": "The opening historical paragraph explicitly connects Taos Pueblo with the Rio Pueblo de Taos and Rio Hondo stream systems. Included narrowly to document the photographed river connection.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual History & Importance opening paragraph, ordinary web-reader lines 5–7, especially the named parties and Rio Pueblo de Taos/Rio Hondo connection. The later Current Status section was not used for current facts.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Supporting image/place context only, excluded from substantive history counts. This legacy ombudsman account is not current legal advice or a finding about present rights, boundaries, implementation or access. Linked agreements and court files were not inspected."
       }
     ],
     "relatedOriginalIds": [
       310,
       386
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c13-taos-blue-lake",
+      "c13-taos-tiwa"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Still unfinished: fuller Pueblo-authored historical work and independently inspected archival records remain useful.",
+      "Underlying legislation, present legal implementation and language outcomes were not investigated.",
+      "The photograph is a dated Rio Pueblo de Taos landscape, not Blue Lake or a portrait of the Pueblo village."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Still unfinished: fuller Pueblo-authored historical work and independently inspected archival records remain useful.",
+        "Underlying legislation, present legal implementation and language outcomes were not investigated.",
+        "The photograph is a dated Rio Pueblo de Taos landscape, not Blue Lake or a portrait of the Pueblo village."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c13-taos-blue-lake",
+          "reason": "Begin with the Pueblo’s public account of a major land-return milestone."
+        },
+        {
+          "sourceId": "c13-taos-tiwa",
+          "reason": "Then follow community-directed language teaching and instructor development."
+        }
+      ],
+      "imageRecordId": "c13-taos-pueblo-photo"
+    }
   },
   {
     "originalId": 374,
@@ -54641,7 +56100,7 @@
     "name": "Tesuque Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Tesuque Pueblo is a living Pueblo nation in northern New Mexico.",
+    "overview": "Tesuque Pueblo is a Tewa-speaking community whose own history connects people, farming and the Rio Tesuque. Read that account alongside an attributed environmental profile about water scarcity, riparian work and fire management, while keeping the dates and limits of each source in view.",
     "sections": [
       {
         "title": "Identity and context",
@@ -54656,6 +56115,20 @@
         "sourceIds": [
           "p380-s1"
         ]
+      },
+      {
+        "title": "Community history and the Rio Tesuque",
+        "text": "The Pueblo’s history identifies the Rio Tesuque as an important part of community life and describes farming and artistic work. This is the Pueblo’s account of its own setting, rather than a complete history of every Tewa-speaking community. The page’s undated population figures and uncertain site chronology are not used as current facts.",
+        "sourceIds": [
+          "p380-s1"
+        ]
+      },
+      {
+        "title": "Environmental work in a dated institutional account",
+        "text": "The ITEP profile reports Pueblo staff observations about reduced snow and changing seasonal conditions. It also describes water monitoring, riparian restoration, forest treatment and firewood distribution. These activities belong to an undated legacy account that discusses the 2011 Pacheco fire; their current status and ecological results need further documentation.",
+        "sourceIds": [
+          "c13-tesuque-water-fire"
+        ]
       }
     ],
     "sources": [
@@ -54669,15 +56142,84 @@
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “HISTORY | Pueblo of Tesuque” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo’s own history connects a Tewa-speaking community, Rio Tesuque, farming and arts. Its river account is a community perspective on place.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual complete substantive main History body: Tewa-speaking identity, foothill setting, Rio Tesuque and other named streams, agriculture and artists. Opening site chronology and undated statistics were read but are not adopted.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Inconsistent or ambiguous founding chronology, undated population/acreage/bird totals and ecological-health claims are not treated as verified current facts. The Pueblo homepage expressly forbids photography at the Pueblo; no village, ceremonial or private-site photograph is used."
+      },
+      {
+        "id": "c13-tesuque-water-fire",
+        "title": "Water Scarcity and Fire Management in a Changing Environment",
+        "publisher": "Cristina Gonzalez-Maddux; Institute for Tribal Environmental Professionals, Northern Arizona University",
+        "url": "https://itep.nau.edu/tw7g/tribes/southwest/sw_tesuque/",
+        "type": "Academic / reference",
+        "topics": [
+          "Environment",
+          "Community programme",
+          "Water and fire"
+        ],
+        "annotation": "A substantial environmental profile draws on Pueblo department staff accounts of changing snow, water monitoring, riparian work and fire management. It is an attributed legacy programme narrative.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected complete profile body, ordinary web-reader lines 145–218: staff observations, water monitoring, riparian work, forest treatment, community firewood and the 2011 Pacheco fire account. Author and institutional acknowledgments inspected.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Undated legacy account with references to 2010–2011. Observations and programme reports are attributed, not independently verified present conditions or outcomes. Linked plans, measurements and photographs were not independently inspected. Courtesy/all-rights-reserved Pueblo photographs are not reproduced."
       }
     ],
     "relatedOriginalIds": [
       310,
       381
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p380-s1",
+      "c13-tesuque-water-fire"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Still unfinished: a fuller Tewa/Pueblo-authored historical bibliography and more recent environmental accounts remain useful.",
+      "Current programme status and measured environmental outcomes are unverified.",
+      "The selected Rio Tesuque image is downstream at Pojoaque, not a photograph of Tesuque Pueblo or its reservation."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Still unfinished: a fuller Tewa/Pueblo-authored historical bibliography and more recent environmental accounts remain useful.",
+        "Current programme status and measured environmental outcomes are unverified.",
+        "The selected Rio Tesuque image is downstream at Pojoaque, not a photograph of Tesuque Pueblo or its reservation."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p380-s1",
+          "reason": "Start with the Pueblo’s own place and community history."
+        },
+        {
+          "sourceId": "c13-tesuque-water-fire",
+          "reason": "Add an attributed account of water and fire management, retaining its legacy date limits."
+        }
+      ],
+      "imageRecordId": "c13-tesuque-pueblo-photo"
+    }
   },
   {
     "originalId": 381,
@@ -55613,7 +57155,7 @@
     "name": "Tohono O'odham",
     "region": "Southwest / Arizona / Mexico",
     "kind": "People / community",
-    "overview": "Tohono O’odham people have homelands across the modern U.S.–Mexico border.",
+    "overview": "The Tohono O’odham Nation’s public account connects its history with the Sonoran Desert and communities divided by an international border. Tohono O’odham Community College adds a different institutional perspective on local higher education and community-guided learning. Related O’odham communities and governments retain their own histories.",
     "sections": [
       {
         "title": "Identity and context",
@@ -55629,26 +57171,51 @@
           "p390-s1",
           "p390-s2"
         ]
+      },
+      {
+        "title": "Desert history and a divided homeland",
+        "text": "The Nation’s public history describes farming and seasonal adaptation in the Sonoran Desert and explains how nineteenth-century border making divided communities. This is historical context, not guidance about present border-crossing documents, citizenship or individual legal rights. Related O’odham governments should not be treated as aliases for the Nation.",
+        "sourceIds": [
+          "p390-s2"
+        ]
+      },
+      {
+        "title": "A community college’s institutional history",
+        "text": "TOCC describes community leaders’ efforts toward a local college, a charter from the Nation in 1998 and classes beginning in 2000 through Pima Community College. Its later institutional timeline provides further reading. These are the college’s reported historical milestones; current accreditation and enrolment arrangements need their own checks.",
+        "sourceIds": [
+          "c13-tohono-college-history"
+        ]
+      },
+      {
+        "title": "Community-guided education",
+        "text": "The college’s public Himdag account describes a committee involving community members, students, faculty and staff and explains how language and cultural learning inform its educational work. This introduces one institution’s approach without reproducing restricted knowledge or claiming that every O’odham person shares an identical interpretation.",
+        "sourceIds": [
+          "c13-tohono-himdag-college"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p390-s1",
         "title": "history - Tohono O'odham Nation",
-        "publisher": "tonation-nsn.gov",
+        "publisher": "Tohono O’odham Nation",
         "url": "https://www.tonation-nsn.gov/history/",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “history - Tohono O'odham Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "An inherited History link currently yields a heading, post date and site navigation without a substantive historical body. Retained as an excluded route rather than a reviewed history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual normally retrieved page inspected: History heading, September 19, 2016 post date, navigation/footer and no substantive historical paragraphs.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. An actual page inspection, not a substantive historical work. The empty route is excluded; the separate History & Culture page supplies the body content."
       },
       {
         "id": "p390-s2",
         "title": "History & Culture - Tohono O'odham Nation",
-        "publisher": "tonation-nsn.gov",
+        "publisher": "Tohono O’odham Nation",
         "url": "https://www.tonation-nsn.gov/about-tohono-oodham-nation/history-culture/",
         "type": "Indigenous-led",
         "topics": [
@@ -55656,14 +57223,106 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History & Culture - Tohono O'odham Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Nation’s public history and culture account introduces a Sonoran Desert homeland, farming and the effects of an international border. It is a Nation-published perspective, not every related O’odham government’s history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual main body, ordinary web-reader lines 76–94: Sonoran setting, farming/seasonal adaptation, attributed ancestry interpretation and the historical border-division narrative.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Present passport/border-crossing rules, citizenship, membership totals and all-group legal status are not adopted. Archaeological ancestry claims remain attributed interpretations. No sacred narrative, ceremony or restricted knowledge reproduced."
+      },
+      {
+        "id": "c13-tohono-college-history",
+        "title": "History of TOCC — community college development",
+        "publisher": "Tohono O’odham Community College",
+        "url": "https://www.tocc.edu/history-of-tocc",
+        "type": "Indigenous-led",
+        "topics": [
+          "Education",
+          "Community institutions",
+          "Public history"
+        ],
+        "annotation": "The college’s history describes community efforts toward a local institution, the Nation’s 1998 charter and classes beginning in 2000, followed by institutional milestones.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public History body, ordinary web-reader lines 173–219: community leaders’ efforts, 1998 charter, 2000 classes through Pima Community College and reported 2005 accreditation; selected institutional timeline.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Institutional self-history. Underlying charter and accreditation records were not inspected; no current accreditation, officeholder, enrolment or service-availability claim is made."
+      },
+      {
+        "id": "c13-tohono-himdag-college",
+        "title": "Himdag at TOCC — public educational approach",
+        "publisher": "Tohono O’odham Community College",
+        "url": "https://www.tocc.edu/himdag-at-tocc",
+        "type": "Indigenous-led",
+        "topics": [
+          "Education",
+          "Language",
+          "Institutional perspective"
+        ],
+        "annotation": "The college explains how a community/faculty/student committee and language/cultural learning inform its public educational approach. Read this as an institutional account of teaching.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public main body, ordinary web-reader lines 175–207: college educational approach, Himdag committee and language/cultural curriculum. Public values were encountered but no restricted knowledge, songs or ceremonial instruction was copied.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. No assertion that one institution speaks for every O’odham person. Graduation requirements and current enrolment advice are not supplied. Linked lessons, recordings and underlying curricula were not inspected."
       }
     ],
     "relatedOriginalIds": [
       293
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p390-s2",
+      "c13-tohono-college-history",
+      "c13-tohono-himdag-college"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Still unfinished: fuller community-authored histories and original educational records remain useful.",
+      "The inherited History route is empty and is not a counted work.",
+      "The archival saguaro image has no stated photograph date or named photographer; agency-period metadata is not treated as the photograph date."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Still unfinished: fuller community-authored histories and original educational records remain useful.",
+        "The inherited History route is empty and is not a counted work.",
+        "The archival saguaro image has no stated photograph date or named photographer; agency-period metadata is not treated as the photograph date."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p390-s2",
+          "reason": "Begin with the Nation’s own historical and geographical account."
+        },
+        {
+          "sourceId": "c13-tohono-college-history",
+          "reason": "Follow the development of a community-directed higher education institution."
+        },
+        {
+          "sourceId": "c13-tohono-himdag-college",
+          "reason": "Read the college’s public explanation of its educational approach."
+        }
+      ],
+      "imageRecordId": "c13-tohono-oodham-photo"
+    }
   },
   {
     "originalId": 391,
@@ -62396,7 +64055,7 @@
     "name": "Yavapai",
     "region": "Southwest / Arizona",
     "kind": "People / community",
-    "overview": "Yavapai people continue through distinct contemporary tribal communities in Arizona.",
+    "overview": "Yavapai is a people-level reading route, not a substitute for distinct governments. The Yavapai-Apache Nation and Fort McDowell Yavapai Nation publish differently situated accounts of community life, displacement and collective action in Arizona.",
     "sections": [
       {
         "title": "Identity and context",
@@ -62413,22 +64072,47 @@
           "p442-s2",
           "p442-s3"
         ]
+      },
+      {
+        "title": "One Nation, two peoples",
+        "text": "The Yavapai-Apache Nation identifies Yavapai and Apache as distinct peoples within its government and names five Verde Valley communities. These are not five separate governments or a census of every Yavapai community.",
+        "sourceIds": [
+          "p442-s1"
+        ]
+      },
+      {
+        "title": "Fort McDowell’s Orme Dam account",
+        "text": "Fort McDowell’s history traces its community establishment to 1903. It describes residents organizing against the proposed Orme Dam and records a 1976 referendum before the 1981 cancellation announcement. This is the Nation’s account of a specific struggle, not a history of all Yavapai people.",
+        "sourceIds": [
+          "c13-yavapai-fmyn-history"
+        ]
+      },
+      {
+        "title": "Displacement and return in the Verde Valley",
+        "text": "The Yavapai-Apache Nation describes the 1875 forced removal to San Carlos, dissolution of the earlier reservation and families’ eventual return. Its historical section places a 1909 trust acquisition within recovery from dispossession. Proposed exchanges elsewhere on the page do not establish present title or boundaries.",
+        "sourceIds": [
+          "c13-yavapai-land-history"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p442-s1",
-        "title": "Yavapai-Apache Nation – Yavapai-Apache Nation",
-        "publisher": "yavapai-apache.org",
+        "title": "Yavapai-Apache Nation — two peoples and five communities",
+        "publisher": "Yavapai-Apache Nation",
         "url": "https://yavapai-apache.org/yavapai-apache-nation/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Community identity",
+          "Government",
+          "Verde Valley"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Yavapai-Apache Nation – Yavapai-Apache Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Nation introduces its Verde Valley communities, distinguishes Yavapai and Apache peoples and outlines public services.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected body lines15–30: two peoples/language distinctions, five named communities and reported services.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. April 2019 membership figures omitted. This is one government, not all Yavapai communities; language-family labels are the publisher’s. Services listed are not independently verified current delivery or outcomes."
       },
       {
         "id": "p442-s2",
@@ -62457,19 +64141,104 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “County History - Yavapai, AZ” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c13-yavapai-fmyn-history",
+        "title": "History — Fort McDowell community and Orme Dam opposition",
+        "publisher": "Fort McDowell Yavapai Nation",
+        "url": "https://fmyn.org/about-fmyn/history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Orme Dam",
+          "Public memory"
+        ],
+        "annotation": "A specific Nation account connects its 1903 community history with opposition to the proposed Orme Dam.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected actual body lines64–77: executive-order date and Orme proposal, organizing, 1976 referendum and 1981 cancellation account.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. Current membership/acreage and gaming/legal passages excluded. Executive order, referendum records and cancellation documents uninspected. The Nation’s account is attributed, not independently adjudicated legal analysis."
+      },
+      {
+        "id": "c13-yavapai-land-history",
+        "title": "Land Exchange — selected removal and return account",
+        "publisher": "Yavapai-Apache Nation",
+        "url": "https://yavapai-apache.org/land-exchange/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Removal",
+          "Return",
+          "Nation perspective"
+        ],
+        "annotation": "The Nation’s historical section explains displacement from the Verde Valley in 1875 and families’ later return. Its account is distinct from the page’s proposed-exchange material.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected historical body lines68–79:1871 reservation, 1875 forced removal and dissolution, eventual return and 1909 trust acquisition.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. Proposal/current acreages, projected benefits, legal process, exact distance, maps and linked PDFs not adopted. Page mixes proposal language and a finalization link; no present title, trust status or boundary conclusion. Original orders and deeds uninspected."
       }
     ],
     "relatedOriginalIds": [
       443
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p442-s1",
+      "c13-yavapai-fmyn-history"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Yavapai-Prescott and other individual community histories need dedicated source review.",
+      "Original executive orders, removal records and community-specific language sources remain uninspected."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Yavapai-Prescott and other individual community histories need dedicated source review.",
+        "Original executive orders, removal records and community-specific language sources remain uninspected."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p442-s1",
+          "reason": "Distinguish the Nation, its two peoples and its named communities."
+        },
+        {
+          "sourceId": "c13-yavapai-fmyn-history",
+          "reason": "Compare a separate government’s account of community organizing."
+        },
+        {
+          "sourceId": "c13-yavapai-land-history",
+          "reason": "Read the attributed removal/return account separately from current land proposals."
+        }
+      ],
+      "imageRecordId": "c13-yavapai-photo"
+    }
   },
   {
     "originalId": 443,
     "name": "Yavapai Apache",
     "region": "Southwest / Arizona",
     "kind": "People / community",
-    "overview": "The Yavapai-Apache Nation is a contemporary nation whose Yavapai and Apache communities retain distinct histories and identities.",
+    "overview": "The Yavapai-Apache Nation is a distinct Verde Valley government comprising Yavapai and Apache peoples. Its own account names five communities and describes removal and return; this route does not stand for every Yavapai or Apache community.",
     "sections": [
       {
         "title": "Identity and context",
@@ -62486,22 +64255,40 @@
           "p443-s2",
           "p443-s3"
         ]
+      },
+      {
+        "title": "A government with two peoples",
+        "text": "The Nation distinguishes its Yavapai and Apache peoples and names Tunlii, Middle Verde, Rimrock, Camp Verde and Clarkdale as its five communities. These community names are not presented as separate governments. Its service overview gives an institutional introduction, not verified present programme outcomes.",
+        "sourceIds": [
+          "p443-s1"
+        ]
+      },
+      {
+        "title": "An attributed history of removal and return",
+        "text": "The Nation’s historical account describes forced removal to San Carlos in 1875 and families returning to the Verde Valley later. It places the 1909 trust acquisition within recovery from dispossession. The page’s separate exchange proposals are not treated as present land-title findings.",
+        "sourceIds": [
+          "c13-yavapai-apache-land-history"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p443-s1",
-        "title": "Yavapai-Apache Nation – Yavapai-Apache Nation",
-        "publisher": "yavapai-apache.org",
+        "title": "Yavapai-Apache Nation — two peoples and five communities",
+        "publisher": "Yavapai-Apache Nation",
         "url": "https://yavapai-apache.org/yavapai-apache-nation/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Community identity",
+          "Government",
+          "Verde Valley"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Yavapai-Apache Nation – Yavapai-Apache Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Nation introduces its Verde Valley communities, distinguishes Yavapai and Apache peoples and outlines public services.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected body lines15–30: two peoples/language distinctions, five named communities and reported services.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. April 2019 membership figures omitted. This is one government, not all Yavapai communities; language-family labels are the publisher’s. Services listed are not independently verified current delivery or outcomes."
       },
       {
         "id": "p443-s2",
@@ -62530,6 +64317,24 @@
         ],
         "annotation": "Historical context for this entry. Read “Historical and cultural reference for Yavapai Apache” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c13-yavapai-apache-land-history",
+        "title": "Land Exchange — selected removal and return account",
+        "publisher": "Yavapai-Apache Nation",
+        "url": "https://yavapai-apache.org/land-exchange/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Removal",
+          "Return",
+          "Nation perspective"
+        ],
+        "annotation": "The Nation’s historical section explains displacement from the Verde Valley in 1875 and families’ later return. Its account is distinct from the page’s proposed-exchange material.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected historical body lines68–79:1871 reservation, 1875 forced removal and dissolution, eventual return and 1909 trust acquisition.",
+        "accessNotes": "Actual selected public web-reader body inspected on October 28, 2026. Proposal/current acreages, projected benefits, legal process, exact distance, maps and linked PDFs not adopted. Page mixes proposal language and a finalization link; no present title, trust status or boundary conclusion. Original orders and deeds uninspected. This review is reused from the same selected Nation account on the broader Yavapai reading route; original inspection scope/date retained, not a globally new work."
       }
     ],
     "relatedOriginalIds": [
@@ -62616,7 +64421,51 @@
         "availabilityCheckedAt": "2026-10-20",
         "availabilityStatus": null
       }
-    ]
+    ],
+    "overviewSourceIds": [
+      "p443-s1"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Underlying executive orders, removal records, oral-history comparison and community review remain open.",
+      "Current programme delivery, title and boundary matters require separate dated evidence."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Underlying executive orders, removal records, oral-history comparison and community review remain open.",
+        "Current programme delivery, title and boundary matters require separate dated evidence."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p443-s1",
+          "reason": "Begin with the Nation’s distinction between its government, peoples and named communities."
+        },
+        {
+          "sourceId": "c13-yavapai-apache-land-history",
+          "reason": "Read its historical removal and return account with proposal and legal limits kept separate."
+        }
+      ],
+      "imageRecordId": "c13-yavapai-apache-photo"
+    }
   },
   {
     "originalId": 444,
@@ -63349,7 +65198,7 @@
     "name": "Zia Pueblo",
     "region": "Southwest / New Mexico",
     "kind": "People / community",
-    "overview": "Zia Pueblo is a living Pueblo nation in New Mexico.",
+    "overview": "Zia Pueblo is a Keres-speaking community in New Mexico. Its own public historical introduction and language programme account offer a compact starting path through farming, community history and teaching, without treating a short guide as a complete account of Zia life.",
     "sections": [
       {
         "title": "Identity and context",
@@ -63366,6 +65215,20 @@
           "p452-s2",
           "p452-s3"
         ]
+      },
+      {
+        "title": "A Pueblo-published historical introduction",
+        "text": "The Pueblo’s public account describes a Keres-speaking community, adobe construction and the cultivation of corn, beans and squash. These selected paragraphs provide an introduction rather than a settled chronology of every phase of Zia history. Ceremonial material and the permission-restricted Zia sun symbol are not reproduced.",
+        "sourceIds": [
+          "p452-s1"
+        ]
+      },
+      {
+        "title": "Language teaching as a community programme",
+        "text": "The language programme describes instruction for young children, youth and adults, including educational partnerships. Its stated aims connect learning with community identity and persistence. The undated description reports goals and activities; it does not establish current class schedules or independently measured language outcomes.",
+        "sourceIds": [
+          "p452-s2"
+        ]
       }
     ],
     "sources": [
@@ -63380,8 +65243,12 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Zia Pueblo” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo homepage contains an actual public historical introduction about its Keres-speaking community, adobe architecture and farming. Only that substantive body is counted.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected History main-body paragraphs: Keres-speaking identity, settlement/architecture descriptions and corn-bean-squash agriculture. Navigation, ceremonial descriptions and symbol permissions are not historical evidence for this synthesis.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Exact founding chronology is not resolved. No present population, boundary or universal cultural practice is inferred. The page restricts use of the Zia sun symbol; no emblem or protected motif is copied."
       },
       {
         "id": "p452-s2",
@@ -63394,8 +65261,12 @@
           "Language",
           "Culture"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Pueblo of Zia Language and Cultural Program — Pueblo of Zia” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Pueblo’s public language programme account describes work with early childhood, youth and adult learners and partnerships with educational settings.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual complete substantive programme body, ordinary web-reader lines 13–17: early childhood/youth/adult teaching, school partnerships, Head Start/childcare lessons and stated programme aims.",
+        "accessNotes": "Actual selected public content inspected on 2026-10-28. No access bypass or outreach. Linked media are not cleared by this textual review. Undated programme description. Goals and reported activities do not establish current availability, participation or measured fluency outcomes. No lessons, ceremonies or restricted knowledge reproduced."
       },
       {
         "id": "p452-s3",
@@ -63409,13 +65280,78 @@
         ],
         "annotation": "Context and further reading linked for this entry. The publisher’s “Zia Pueblo - eHRAF World Cultures” is a starting point; verify the geographical and community scope before applying its account more broadly.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c13-zia-watershed-context",
+        "title": "Zia Watershed Assessment — selected project description",
+        "publisher": "U.S. Army Corps of Engineers, Albuquerque District",
+        "url": "https://www.spa.usace.army.mil/Missions/Civil-Works/Tribal-Program/Zia-Watershed/",
+        "type": "Government / archive",
+        "topics": [
+          "Place context",
+          "Watershed planning",
+          "Supporting reference"
+        ],
+        "annotation": "A short agency project description explicitly places Zia’s watershed planning within the Jemez River watershed. It supplies narrow shared-waterbody image context.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual indexed agency body of approximately 130 words: proposed watershed management for Pueblo lands in the Jemez River watershed and listed sediment, erosion, habitat and resource concerns.",
+        "accessNotes": "Direct normal retrieval returned HTTP 403; actual substantial indexed project paragraph was read, not the full report, maps or underlying assessment. No bypass. Supporting place/project context only and excluded from substantive work counts. Goals are not verified outcomes; no image coordinates or reservation location are inferred."
       }
     ],
     "relatedOriginalIds": [
       310,
       163
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p452-s1",
+      "p452-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Still unfinished: fuller Pueblo-authored history and dated language-programme documentation remain useful.",
+      "No rights-cleared Pueblo village, cultural-object or symbol image was selected.",
+      "The image shows another documented reach of the shared Jemez River, downstream from Jemez Pueblo, not a view of Zia Pueblo or its reservation."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Still unfinished: fuller Pueblo-authored history and dated language-programme documentation remain useful.",
+        "No rights-cleared Pueblo village, cultural-object or symbol image was selected.",
+        "The image shows another documented reach of the shared Jemez River, downstream from Jemez Pueblo, not a view of Zia Pueblo or its reservation."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort13: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-13",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p452-s1",
+          "reason": "Read the Pueblo’s own substantive historical introduction."
+        },
+        {
+          "sourceId": "p452-s2",
+          "reason": "Follow the Pueblo’s account of language teaching across age groups."
+        }
+      ],
+      "imageRecordId": "c13-zia-pueblo-photo"
+    }
   },
   {
     "originalId": 453,
