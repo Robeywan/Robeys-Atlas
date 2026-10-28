@@ -3,11 +3,11 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 161,
+    "selectedProfiles": 170,
     "existingApache": 1,
-    "newProfileTreatments": 160,
-    "newTreatmentsWithPhotographs": 152,
-    "decorativeTreatmentsAwaitingPhotographs": 8,
+    "newProfileTreatments": 169,
+    "newTreatmentsWithPhotographs": 164,
+    "decorativeTreatmentsAwaitingPhotographs": 5,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -888,14 +888,82 @@
       "hue": 239,
       "angle": 39,
       "composition": "sweep",
-      "images": [],
+      "images": [
+        {
+          "id": "c8-alsea-upper-bay-2009",
+          "profileSlugs": [
+            "alsea"
+          ],
+          "mediaType": "photograph",
+          "title": "Upper Alsea Bay east of Waldport, September10,2009",
+          "creator": "Finetooth",
+          "archive": "Wikimedia Commons; photographer’s own work or attributed original Flickr work",
+          "date": "2009-09-10",
+          "credit": "Finetooth / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Finetooth · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Upper_alsea_bay.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Upper_alsea_bay.jpg/960px-Upper_alsea_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Upper_alsea_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Tidal wetland and Upper Alsea Bay, with evergreen trees and a red-roofed building at left.",
+          "scope": "Specifically named Alsea estuary/rivervalley landscape context. The Siletz educational place-name source connects Alsea people with their Alsea river valley; the retained earlier image-context review also inspected the Alsea Bay government estuary chapter. This is a modern view of a named waterway, not Alsea-made architecture, a precise village site, present Siletz reserve land, current access permission or a territorial boundary. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "asset": "assets/profile-visuals/c8-alsea-upper-bay-2009.jpg",
+          "cardAsset": "assets/profile-visuals/c8-alsea-upper-bay-2009.jpg",
+          "contextSources": [
+            {
+              "title": "Selected English Place Names with Indigenous Origins in Western Oregon",
+              "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf",
+              "inspectionScope": "Existing p11-s1 review dated2026-10-21; actual first two pages rechecked for narrow image-context support on2026-10-28. PDFp1 Alsea Language and Homelands explicitly connects the people with their river valley. This image-context check adds no substantive-source count."
+            },
+            {
+              "title": "Saved prior Alsea Bay context review",
+              "url": "https://www.oregon.gov/lcd/OCMP/SiteAssets/Pages/Estuary-Planning/FINAL_LincolnCountyERAP_2025.pdf",
+              "inspectionScope": "Prior2026-10-25 ledger records selected Alsea Bayp102 context actually read. Reused as recorded earlier context only; no new full-plan reading or image permission inferred."
+            }
+          ],
+          "recordInspection": "Actual exact media summary, creator/date, media-specific license or personal worldwide public-domain release, and file history read. MetadataCC0 footer was not used as media permission.",
+          "reproductionNote": "Exact record-listed960px preview retrieved normally with HTTP200; actual delivery960×638JPEG. Complete available preview frame retained unchanged, without pixel crop, retouching, recoloring or generated content. Larger camera/archive original was not retrieved or visually inspected, and its hash is not claimed. CSS may crop/overlay directory and background displays; the opened image must keep the complete available frame proportionally. Any later proportional web resizing or recompression must be recorded separately.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "reviewedAt": "2026-10-28",
+            "dimensions": [
+              960,
+              638
+            ],
+            "reviewers": [
+              "root",
+              "cohort8 visual-catchup"
+            ],
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "3506a58f9f048b29abdee1b0a9bfaff4c1b3cd3ae1bff072c1fa3cd507b12c49"
+          },
+          "status": "actual-available-preview-inspected-ready",
+          "width": 960,
+          "height": 638,
+          "dimensions": {
+            "width": 960,
+            "height": 638
+          },
+          "bytes": 196368,
+          "retrievedSourceSha256": "3506a58f9f048b29abdee1b0a9bfaff4c1b3cd3ae1bff072c1fa3cd507b12c49",
+          "inputFileSha256": "3506a58f9f048b29abdee1b0a9bfaff4c1b3cd3ae1bff072c1fa3cd507b12c49",
+          "assetSha256": "3506a58f9f048b29abdee1b0a9bfaff4c1b3cd3ae1bff072c1fa3cd507b12c49",
+          "pixelReview": "Complete960×638 preview viewed: shallow tidal water, marsh grasses and shrubs, open bay, trees, a red-roofed modern building and birds against a clear sky. No people, focal artwork or ceremony. The building is not identified as an Indigenous structure.",
+          "accessLimits": "Root serialized the exact provider-listed preview URL; no original retry, guessed transform, challenge bypass or new request by this reviewer. Original pixel inspection remains limited to this delivered preview."
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:239;--profile-angle:39deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:239;--profile-angle:39deg;--profile-photo:url(\"../../assets/profile-visuals/c8-alsea-upper-bay-2009.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -1047,14 +1115,82 @@
       "hue": 102,
       "angle": 7,
       "composition": "ribbon",
-      "images": [],
+      "images": [
+        {
+          "id": "c8-anishininew-island-lake-2003",
+          "profileSlugs": [
+            "anishininew"
+          ],
+          "mediaType": "photograph",
+          "title": "Island Lake/Garden Hill, viewed from the east, August14,2003",
+          "creator": "Timkal",
+          "archive": "Wikimedia Commons; photographer’s own work or attributed original Flickr work",
+          "date": "2003-08-14",
+          "credit": "Timkal / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Timkal · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Island_Lake_First_Nations_Community.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Island_Lake_First_Nations_Community.jpg/960px-Island_Lake_First_Nations_Community.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Island_Lake_First_Nations_Community.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Aerial view of Island Lake/Garden Hill with settlement roads and buildings, forest, water and an airstrip.",
+          "scope": "One specifically identified Island Lake/Garden Hill place example on the broader Anishininew reading route. The original photographer caption explicitly names Island Lake/Garden Hill; the already inspected Garden Hill study and Island Lake community readings supply the relation. No ethnicity is inferred from a visible person or building, and this view does not represent every Anishininew community, preferred spelling or boundary. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "asset": "assets/profile-visuals/c8-anishininew-island-lake-2003.jpg",
+          "cardAsset": "assets/profile-visuals/c8-anishininew-island-lake-2003.jpg",
+          "contextSources": [
+            {
+              "title": "Garden Hill community-partnered food-systems education study",
+              "url": "https://canadianfoodstudies.uwaterloo.ca/index.php/cfs/article/view/446",
+              "inspectionScope": "Reuse existing ani15-f3 actual selected printedpp111,117–121,126–129 review dated2026-10-21: community-specific Garden Hill context and participant-defined limits, not new image-period research."
+            },
+            {
+              "title": "Welcome to Wasagamack Anisininew Nation — community guide",
+              "url": "https://teachforcanada.ca/en/wp-content/uploads/2024/02/Wasagamack-Anisininew-Nation-2024_Pages-1.pdf",
+              "inspectionScope": "Reuse existing p15-s1 selected community welcome/location/naming scope, reviewed2026-10-21. Wasagamack is a distinct Island Lake community, not another name for the photographed Garden Hill example."
+            }
+          ],
+          "recordInspection": "Actual exact media summary, creator/date, media-specific license or personal worldwide public-domain release, and file history read. MetadataCC0 footer was not used as media permission.",
+          "reproductionNote": "Exact record-listed960px preview retrieved normally with HTTP200; actual delivery960×720JPEG. Complete available preview frame retained unchanged, without pixel crop, retouching, recoloring or generated content. Larger camera/archive original was not retrieved or visually inspected, and its hash is not claimed. CSS may crop/overlay directory and background displays; the opened image must keep the complete available frame proportionally. Any later proportional web resizing or recompression must be recorded separately.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "reviewedAt": "2026-10-28",
+            "dimensions": [
+              960,
+              720
+            ],
+            "reviewers": [
+              "root",
+              "cohort8 visual-catchup"
+            ],
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "d09de100cd04e693042906db6f1c76b9477d46f3d886a2568f919d197842bf89"
+          },
+          "status": "actual-available-preview-inspected-ready",
+          "width": 960,
+          "height": 720,
+          "dimensions": {
+            "width": 960,
+            "height": 720
+          },
+          "bytes": 176371,
+          "retrievedSourceSha256": "d09de100cd04e693042906db6f1c76b9477d46f3d886a2568f919d197842bf89",
+          "inputFileSha256": "d09de100cd04e693042906db6f1c76b9477d46f3d886a2568f919d197842bf89",
+          "assetSha256": "d09de100cd04e693042906db6f1c76b9477d46f3d886a2568f919d197842bf89",
+          "pixelReview": "Complete960×720 preview viewed: aerial settlement with houses and roads among forested islands/peninsulas, substantial water and an airstrip. No individual identity, occupancy, current service or exact boundary is inferred.",
+          "accessLimits": "Root serialized the exact provider-listed preview URL; no original retry, guessed transform, challenge bypass or new request by this reviewer. Original pixel inspection remains limited to this delivered preview."
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:102;--profile-angle:7deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:102;--profile-angle:7deg;--profile-photo:url(\"../../assets/profile-visuals/c8-anishininew-island-lake-2003.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -2209,14 +2345,82 @@
       "hue": 154,
       "angle": -61,
       "composition": "wash",
-      "images": [],
+      "images": [
+        {
+          "id": "c8-biloxi-pascagoula-bridge-2014",
+          "profileSlugs": [
+            "biloxi"
+          ],
+          "mediaType": "photograph",
+          "title": "Mississippi26 bridge at the Pascagoula River, December5,2014",
+          "creator": "formulanone",
+          "archive": "Wikimedia Commons; photographer’s own work or attributed original Flickr work",
+          "date": "2014-12-05",
+          "credit": "formulanone / Wikimedia Commons · CC BY-SA 2.0",
+          "cardCredit": "formulanone · CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MS26_East_-_Pascagoula_River_Truss_Bridge_(28308366358).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/MS26_East_-_Pascagoula_River_Truss_Bridge_%2828308366358%29.jpg/960px-MS26_East_-_Pascagoula_River_Truss_Bridge_%2828308366358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/MS26_East_-_Pascagoula_River_Truss_Bridge_%2828308366358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Roadway and vehicles passing through the steel trusses of the Mississippi26 Pascagoula River bridge; little river water is visible.",
+          "scope": "Modern named-waterway/infrastructure context for Biloxi’s historical Pascagoula River connection. The Tribe’s own substantial history explicitly places Biloxis in that river region in1699; this association is not inferred from Biloxi city’s name. The modern bridge is not Indigenous-built, a Biloxi village, a present community, proof of a government’s current territory or a complete depiction of historical land use. Actual pixels show the modern bridge roadway and steel trusses with little river visible; label this infrastructure at the named waterway, not a river panorama. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "asset": "assets/profile-visuals/c8-biloxi-pascagoula-bridge-2014.jpg",
+          "cardAsset": "assets/profile-visuals/c8-biloxi-pascagoula-bridge-2014.jpg",
+          "contextSources": [
+            {
+              "title": "General Profile — Tunica-Biloxi Tribe of Louisiana",
+              "url": "https://www.tunicabiloxi.org/history/",
+              "inspectionScope": "Existing p30-history actual review dated2026-10-19 preserved. Rechecked exact public paragraph at web line39 on2026-10-28 for image association: Biloxis inhabited the Pascagoula River region when French explorers encountered them in1699. The speculative earlier Pardo identification and unrelated Tunica passages are not used for this relation."
+            },
+            {
+              "title": "Original photographer Flickr item",
+              "url": "https://www.flickr.com/photos/formulanone/28308366358/",
+              "inspectionScope": "Actual item read: named Pascagoula River bridge, captureDecember5,2014 and original some-rights-reserved CC link. Commons exact media license identifies CC BY-SA2.0; credit and link retained."
+            }
+          ],
+          "recordInspection": "Actual exact media summary, creator/date, media-specific license or personal worldwide public-domain release, and file history read. MetadataCC0 footer was not used as media permission.",
+          "reproductionNote": "Exact record-listed960px preview retrieved normally with HTTP200; actual delivery960×640JPEG. Complete available preview frame retained unchanged, without pixel crop, retouching, recoloring or generated content. Larger camera/archive original was not retrieved or visually inspected, and its hash is not claimed. CSS may crop/overlay directory and background displays; the opened image must keep the complete available frame proportionally. Any later proportional web resizing or recompression must be recorded separately.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "reviewedAt": "2026-10-28",
+            "dimensions": [
+              960,
+              640
+            ],
+            "reviewers": [
+              "root",
+              "cohort8 visual-catchup"
+            ],
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "9f13165b37800950f78008fae48b3d3194ec915195080b2e2ef75398bb7f869d"
+          },
+          "status": "actual-available-preview-inspected-ready",
+          "width": 960,
+          "height": 640,
+          "dimensions": {
+            "width": 960,
+            "height": 640
+          },
+          "bytes": 164759,
+          "retrievedSourceSha256": "9f13165b37800950f78008fae48b3d3194ec915195080b2e2ef75398bb7f869d",
+          "inputFileSha256": "9f13165b37800950f78008fae48b3d3194ec915195080b2e2ef75398bb7f869d",
+          "assetSha256": "9f13165b37800950f78008fae48b3d3194ec915195080b2e2ef75398bb7f869d",
+          "pixelReview": "Complete960×640 preview viewed: roadway, a few vehicles, steel truss framework, ordinary clearance sign and roadside trees. The river is not meaningfully visible; the photograph is bridge-road infrastructure context, not a river vista or historic Biloxi settlement.",
+          "accessLimits": "Root serialized the exact provider-listed preview URL; no original retry, guessed transform, challenge bypass or new request by this reviewer. Original pixel inspection remains limited to this delivered preview."
+        }
+      ],
       "eligibilityBasis": "Published developed profile",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:154;--profile-angle:-61deg;--profile-photo:none",
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:154;--profile-angle:-61deg;--profile-photo:url(\"../../assets/profile-visuals/c8-biloxi-pascagoula-bridge-2014.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -3469,8 +3673,8 @@
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
-      "initialAdequacy": "Not assessed",
-      "substantiveInspectedSources": 1
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "curve-lake-first-nation",
@@ -3995,6 +4199,78 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "gitxsan",
+      "name": "Gitxsan",
+      "originalId": 113,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 105,
+      "angle": 33,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c8-gitxsan-skeena",
+          "profileSlugs": [
+            "gitxsan"
+          ],
+          "mediaType": "photograph",
+          "title": "Skeena River at New Hazelton,2008",
+          "creator": "Amy Jean Nichols",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skeena_River_in_New_Hazelton,_BC.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Skeena_River_in_New_Hazelton%2C_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Skeena_River_in_New_Hazelton%2C_BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2008-08-03",
+          "credit": "Amy Jean Nichols / Wikimedia Commons · CC BY 2.0",
+          "cardCredit": "Amy Jean Nichols · CC BY 2.0",
+          "alt": "A river flows between a broad stony foreground bank and a steep tree-topped slope, with mountains beyond.",
+          "scope": "Exact photographer record identifies Skeena River in New Hazelton. The Huwilp Government describes Gitxsan relationships with the Skeena and tributaries. A named waterbody/regional view, not an identified House fishing site, reserve shore, all Gitxsan communities or evidence of territorial boundaries. The record exposes a950×800 original, smaller than960; no960preview URL was invented. Flickr upload-bot license verification dated September19,2009 is recorded by Commons; original Flickr page was not rechecked in this batch. Unchanged complete950×800 file delivered by the exact Commons Original file link. That record-linked original JPEG was retrieved normally200 and locally inspected; the camera original and earlier editing history were not independently inspected. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY2.0 with creator/source/license credit. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About Gitxsan",
+              "url": "https://gitxsan.ca/about/",
+              "inspectionScope": "Actual body describes Gitxsan Houses and fishing relationships along the Skeena and its tributaries."
+            }
+          ],
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c8-gitxsan-skeena.jpg",
+          "cardAsset": "assets/profile-visuals/c8-gitxsan-skeena.jpg",
+          "recordInspection": "Exact media description, source, creator/date and media-specific license read. Exact URLs extracted from actual provider HTML. Root retrieved normally200; this agent independently inspected all four complete local files with view_image.",
+          "status": "actual-file-inspected-ready",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "c4d756c6233d6bd913e5cf20c441e2560a268d282dce6424b7fede8ec027de5e"
+          },
+          "reproductionNote": "Unchanged complete950×800 file delivered by the exact Commons Original file link. That record-linked original JPEG was retrieved normally200 and locally inspected; the camera original and earlier editing history were not independently inspected. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY2.0 with creator/source/license credit.",
+          "width": 950,
+          "height": 800,
+          "bytes": 401959,
+          "assetSha256": "c4d756c6233d6bd913e5cf20c441e2560a268d282dce6424b7fede8ec027de5e",
+          "inputFileSha256": "c4d756c6233d6bd913e5cf20c441e2560a268d282dce6424b7fede8ec027de5e",
+          "retrievedSourceSha256": "c4d756c6233d6bd913e5cf20c441e2560a268d282dce6424b7fede8ec027de5e",
+          "crop": "Complete available retrieved frame preserved; CSS crops/overlays only."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:105;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/c8-gitxsan-skeena.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "grand-portage-band-of-lake-superior-chippewa",
       "name": "Grand Portage Band of Lake Superior Chippewa",
       "originalId": null,
@@ -4207,6 +4483,151 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "haida",
+      "name": "Haida",
+      "originalId": 121,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 194,
+      "angle": -11,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c08-haida-photo",
+          "profileSlugs": [
+            "haida"
+          ],
+          "mediaType": "photograph",
+          "title": "Rocky Skidegate waterfront, 2011",
+          "creator": "Karen Neoh",
+          "archive": "Wikimedia Commons / original Karen Neoh Flickr photograph",
+          "date": "2011-05-10",
+          "credit": "Karen Neoh; Wikimedia Commons / original Karen Neoh Flickr photograph. CC BY 2.0 Generic.",
+          "cardCredit": "Photo: Karen Neoh · CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skidegate-Waterfront1.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Skidegate-Waterfront1.jpg/960px-Skidegate-Waterfront1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Skidegate-Waterfront1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY2.0 Generic",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "A rocky intertidal shoreline with seaweed, calm water and a forested island beneath clouds.",
+          "scope": "A waterfront view at one specifically identified Haida community. CHN’s institutional account explicitly identifies Skidegate Band Council as a Haida village government. This is not all Haida communities, a boundary or a depiction of every citizen. Actual pixels show a coastal landscape, not a village-building portrait or a cultural object. The item names Skidegate; the Council’s account identifies the village-government context. No named island, surveyed boundary or universal Haida representation inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Council of the Haida Nation — village councils",
+              "url": "https://www.haidanation.ca/about/chn",
+              "inspectionScope": "Actual public body lines 187–189 identifies Skidegate and Old Massett village governments."
+            }
+          ],
+          "asset": "assets/profile-visuals/c08-haida-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c08-haida-photo.jpg",
+          "recordInspection": "Exact item Summary/date/creator/source and media-specific Licensing sections read, including Flickr review when present. Footer metadata CC0 is not the image reuse basis.",
+          "reproductionNote": "Root retrieved the exact item-listed960px preview normally with HTTP 200. Root and this researcher independently viewed the complete available preview frame. Larger originals were not retrieved or inspected. Service resizing/compression is retained; no pixel crop, retouching, generated content or removal of archival margins. Background/card CSS crops and overlays must be disclosed, while the opened page retains the complete available frame proportionally.",
+          "status": "ready-reviewed",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 643,
+            "fullAvailableFrame": true,
+            "sha256": "843f7a587f4032f709b0460fea40314875063dac9826ea4f69419e67cffc9b4f"
+          },
+          "accessLimits": "Exact item identification, creator/archive and media-specific license read. Complete available960px preview decoded and visually inspected. Original-resolution pixels and any unlinked underlying objects remain uninspected; the archive/Flickr photograph license does not license separately owned focal art. No such focal art is adopted here.",
+          "width": 960,
+          "height": 643,
+          "retrievedSourceSha256": "843f7a587f4032f709b0460fea40314875063dac9826ea4f69419e67cffc9b4f",
+          "inputFileSha256": "843f7a587f4032f709b0460fea40314875063dac9826ea4f69419e67cffc9b4f",
+          "assetSha256": "843f7a587f4032f709b0460fea40314875063dac9826ea4f69419e67cffc9b4f"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:194;--profile-angle:-11deg;--profile-photo:url(\"../../assets/profile-visuals/c08-haida-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "haisla",
+      "name": "Haisla",
+      "originalId": 122,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 205,
+      "angle": -55,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c8-haisla-kitamaat",
+          "profileSlugs": [
+            "haisla"
+          ],
+          "mediaType": "photograph",
+          "title": "Channel, forest and mountains in the Kitamaat Village record,2008",
+          "creator": "Sam Beebe/Ecotrust",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitamaat_Village_-_panoramio.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kitamaat_Village_-_panoramio.jpg/960px-Kitamaat_Village_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kitamaat_Village_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "date": "2008-08-01",
+          "credit": "Sam Beebe/Ecotrust / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Sam Beebe/Ecotrust · CC BY-SA 3.0",
+          "alt": "Forested slopes overlook a blue channel, a small distant settled area and snow-covered mountains.",
+          "scope": "Exact photographer record identifies Kitamaat Village. Haisla Nation history explicitly identifies the Haisla with this village and distinguishes Kitamaat Village from the later nearby town Kitimat. A dated settlement view, not the whole people, all Haisla lands or current housing conditions. Commons records Panoramio license verification on June27,2016. Required attribution is Sam Beebe/Ecotrust; EXIF also contains an older CC BY3.0 line, while the explicit file licensing grants CC BY-SA3.0, which is the selected license. Actual inspected frame is a wide forest/channel/mountain landscape with a small distant settled area; it is not a close photograph or comprehensive view of the village or its cultural objects. Unchanged complete provider-listed960px full-frame preview, retrieved normally200 and locally inspected. The larger record original was not inspected or copied by this agent. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY-SA 3.0 with creator/source/license credit. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Haisla History",
+              "url": "https://haisla.ca/haisla-history/",
+              "inspectionScope": "Actual main history body identifies Kitamaat Village and distinguishes its name from nearby Kitimat."
+            }
+          ],
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c8-haisla-kitamaat.jpg",
+          "cardAsset": "assets/profile-visuals/c8-haisla-kitamaat.jpg",
+          "recordInspection": "Exact media description, source, creator/date and media-specific license read. Exact URLs extracted from actual provider HTML. Root retrieved normally200; this agent independently inspected all four complete local files with view_image.",
+          "status": "actual-file-inspected-ready",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "59e90527086a58b3d6ca11d99ca4a32323dbe047e43e87e9ee3dcbee2042ac31"
+          },
+          "reproductionNote": "Unchanged complete provider-listed960px full-frame preview, retrieved normally200 and locally inspected. The larger record original was not inspected or copied by this agent. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY-SA 3.0 with creator/source/license credit.",
+          "width": 960,
+          "height": 719,
+          "bytes": 191345,
+          "assetSha256": "59e90527086a58b3d6ca11d99ca4a32323dbe047e43e87e9ee3dcbee2042ac31",
+          "inputFileSha256": "59e90527086a58b3d6ca11d99ca4a32323dbe047e43e87e9ee3dcbee2042ac31",
+          "retrievedSourceSha256": "59e90527086a58b3d6ca11d99ca4a32323dbe047e43e87e9ee3dcbee2042ac31",
+          "crop": "Complete available retrieved frame preserved; CSS crops/overlays only."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:205;--profile-angle:-55deg;--profile-photo:url(\"../../assets/profile-visuals/c8-haisla-kitamaat.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "hannahville-indian-community",
       "name": "Hannahville Indian Community",
       "originalId": null,
@@ -4351,6 +4772,78 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "heiltsuk",
+      "name": "Heiltsuk",
+      "originalId": 126,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 2,
+      "angle": 35,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c8-heiltsuk-bella-bella",
+          "profileSlugs": [
+            "heiltsuk"
+          ],
+          "mediaType": "photograph",
+          "title": "Bella Bella from a passing ferry,2013",
+          "creator": "Jsayre64",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bella_Bella_panorama.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bella_Bella_panorama.JPG/960px-Bella_Bella_panorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bella_Bella_panorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "date": "2013-03-23",
+          "credit": "Jsayre64 / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Jsayre64 · CC BY-SA 3.0",
+          "alt": "A long coastal settlement stretches across the water below forested hills and a cloudy sky.",
+          "scope": "Exact record identifies the community of Bella Bella as seen from a passing ferry. Nation’s own history identifies Bella Bella on Campbell Island as a central community. A dated public settlement view, not every Heiltsuk village, a reserve boundary or current census. The photographer discloses that this is a five-frame stitched panorama made with ArcSoft Panorama Maker6, with possible blending/perspective artifacts. Preserve that source manipulation disclosure; it is not generated imagery. Unchanged complete provider-listed960px full-frame preview, retrieved normally200 and locally inspected. The larger record original was not inspected or copied by this agent. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY-SA 3.0 with creator/source/license credit. The creator discloses a five-frame stitched panorama assembled in ArcSoft Panorama Maker6; perspective/blending artifacts are part of the supplied source. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Our History and Stories / Our Resilience",
+              "url": "https://www.heiltsuk.ca/index.html",
+              "inspectionScope": "Selected substantial Nation body explicitly connects Heiltsuk community life with Bella Bella on Campbell Island."
+            }
+          ],
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c8-heiltsuk-bella-bella.jpg",
+          "cardAsset": "assets/profile-visuals/c8-heiltsuk-bella-bella.jpg",
+          "recordInspection": "Exact media description, source, creator/date and media-specific license read. Exact URLs extracted from actual provider HTML. Root retrieved normally200; this agent independently inspected all four complete local files with view_image.",
+          "status": "actual-file-inspected-ready",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "59b12815411939c24842649dfc54ecd595f747c30a2356c39275a8765e0add1c"
+          },
+          "reproductionNote": "Unchanged complete provider-listed960px full-frame preview, retrieved normally200 and locally inspected. The larger record original was not inspected or copied by this agent. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY-SA 3.0 with creator/source/license credit. The creator discloses a five-frame stitched panorama assembled in ArcSoft Panorama Maker6; perspective/blending artifacts are part of the supplied source.",
+          "width": 960,
+          "height": 253,
+          "bytes": 33641,
+          "assetSha256": "59b12815411939c24842649dfc54ecd595f747c30a2356c39275a8765e0add1c",
+          "inputFileSha256": "59b12815411939c24842649dfc54ecd595f747c30a2356c39275a8765e0add1c",
+          "retrievedSourceSha256": "59b12815411939c24842649dfc54ecd595f747c30a2356c39275a8765e0add1c",
+          "crop": "Complete available retrieved frame preserved; CSS crops/overlays only."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:2;--profile-angle:35deg;--profile-photo:url(\"../../assets/profile-visuals/c8-heiltsuk-bella-bella.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "henvey-inlet-first-nation",
@@ -6683,6 +7176,92 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "native-hawaiian-kanaka-maoli",
+      "name": "Native Hawaiian (Kānaka Maoli)",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 110,
+      "angle": 63,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c8-native-hawaiian-heeia-fishpond",
+          "profileSlugs": [
+            "native-hawaiian-kanaka-maoli"
+          ],
+          "mediaType": "photograph",
+          "title": "Heʻeia Fishpond, Kāneʻohe, Oʻahu — Joel Bradshaw photograph",
+          "creator": "Joel Bradshaw",
+          "archive": "Wikimedia Commons; photographer’s own work or attributed original Flickr work",
+          "date": "Item states2010-01-01; EXIF states2009-12-12; exact capture date unresolved",
+          "credit": "Joel Bradshaw / Wikimedia Commons · Public domain — photographer’s worldwide release",
+          "cardCredit": "Joel Bradshaw · Public domain — photographer’s worldwide release",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oahu-Heeia-fishpond%26Koolaus.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Oahu-Heeia-fishpond%26Koolaus.JPG/960px-Oahu-Heeia-fishpond%26Koolaus.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Oahu-Heeia-fishpond%26Koolaus.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — photographer’s worldwide release",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Oahu-Heeia-fishpond%26Koolaus.JPG",
+          "reviewedAt": "2026-10-28",
+          "alt": "Heʻeia fishpond water and vegetation, with houses and the Koʻolau mountains beyond.",
+          "scope": "Specific Heʻeia fishpond example on the Native Hawaiian reading route, directly matching Paepae o Heʻeia’s already inspected public fishpond/education collection. This is one Oʻahu place and its publicly discussed stewardship setting, not every island’s culture, a current ownership determination, an access invitation or a precise territorial boundary. The item-date/EXIF discrepancy is retained rather than silently resolved. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "asset": "assets/profile-visuals/c8-native-hawaiian-heeia-fishpond.jpg",
+          "cardAsset": "assets/profile-visuals/c8-native-hawaiian-heeia-fishpond.jpg",
+          "contextSources": [
+            {
+              "title": "The Fishpond and Education — Heʻeia public learning collection",
+              "url": "https://paepaeoheeia.org/the-fishpond/",
+              "inspectionScope": "Reuse existing hi-guide-stewardship actual Fishpond body54–76 and Education body53–61 review dated2026-10-21; no new full-history reading, program outcome assessment or image permission inferred from that page."
+            }
+          ],
+          "recordInspection": "Actual exact media summary, creator/date, media-specific license or personal worldwide public-domain release, and file history read. MetadataCC0 footer was not used as media permission.",
+          "reproductionNote": "Exact record-listed960px preview retrieved normally with HTTP200; actual delivery960×539JPEG. Complete available preview frame retained unchanged, without pixel crop, retouching, recoloring or generated content. Larger camera/archive original was not retrieved or visually inspected, and its hash is not claimed. CSS may crop/overlay directory and background displays; the opened image must keep the complete available frame proportionally. Any later proportional web resizing or recompression must be recorded separately.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "reviewedAt": "2026-10-28",
+            "dimensions": [
+              960,
+              539
+            ],
+            "reviewers": [
+              "root",
+              "cohort8 visual-catchup"
+            ],
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "15dfbac7aae738029dc647f4a2c0fb1048e1d6d2260d28a215c7a8ec2f7e0cba"
+          },
+          "status": "actual-available-preview-inspected-ready",
+          "width": 960,
+          "height": 539,
+          "dimensions": {
+            "width": 960,
+            "height": 539
+          },
+          "bytes": 130684,
+          "retrievedSourceSha256": "15dfbac7aae738029dc647f4a2c0fb1048e1d6d2260d28a215c7a8ec2f7e0cba",
+          "inputFileSha256": "15dfbac7aae738029dc647f4a2c0fb1048e1d6d2260d28a215c7a8ec2f7e0cba",
+          "assetSha256": "15dfbac7aae738029dc647f4a2c0fb1048e1d6d2260d28a215c7a8ec2f7e0cba",
+          "pixelReview": "Complete960×539 preview viewed: pond water and vegetated pond margin/wall, foreground grass and chain-link fence, houses beyond and mountain ridges under bright clouded sunlight. No people, focal creative artwork or ceremony. Exact construction/date/ownership is not inferred from visible features.",
+          "accessLimits": "Root serialized the exact provider-listed preview URL; no original retry, guessed transform, challenge bypass or new request by this reviewer. Original pixel inspection remains limited to this delivered preview."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:110;--profile-angle:63deg;--profile-photo:url(\"../../assets/profile-visuals/c8-native-hawaiian-heeia-fishpond.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 4
+    },
+    {
       "slug": "netmizaaggamig-nishnaabeg",
       "name": "Netmizaaggamig Nishnaabeg",
       "originalId": null,
@@ -6969,6 +7548,79 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "nisgaa",
+      "name": "Nisga'a",
+      "originalId": 250,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 144,
+      "angle": 43,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c08-nisgaa-photo",
+          "profileSlugs": [
+            "nisgaa"
+          ],
+          "mediaType": "photograph",
+          "title": "Building and hillside at Gingolx, 2015",
+          "creator": "Murray Foubister",
+          "archive": "Wikimedia Commons / original Murray Foubister Flickr photograph",
+          "date": "2015-08-09",
+          "credit": "Murray Foubister; Wikimedia Commons / original Murray Foubister Flickr photograph. CC BY-SA 2.0 Generic.",
+          "cardCredit": "Photo: Murray Foubister · CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gingolx_(Kincolith),_BC_on_the_Kincolith_River_near_the_junction_of_Portland_Inlet_&_Observatory_inlet_(21370177000).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Gingolx_%28Kincolith%29%2C_BC_on_the_Kincolith_River_near_the_junction_of_Portland_Inlet_%26_Observatory_inlet_%2821370177000%29.jpg/960px-Gingolx_%28Kincolith%29%2C_BC_on_the_Kincolith_River_near_the_junction_of_Portland_Inlet_%26_Observatory_inlet_%2821370177000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gingolx_%28Kincolith%29%2C_BC_on_the_Kincolith_River_near_the_junction_of_Portland_Inlet_%26_Observatory_inlet_%2821370177000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA2.0 Generic",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "A large red-timber-and-metal-sided building on a gravel forecourt, with a wooded hillside and cloudy sky beyond.",
+          "scope": "A dated place view of Gingolx, one Nisg̱a’a village-government setting, not all Nisg̱a’a people, present conditions, land ownership or surveyed territory. No smaller artwork in the scene may be extracted or adopted as Atlas branding. The record identifies Gingolx, but the building’s function is not established. No school, community-centre or government-office use is guessed, and no Kincolith River is claimed to be visible. This is a dated place view in one village setting, not all Nisg̱a’a communities or present land rights. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Nisg̱a’a Lisims Government — Ging̱olx",
+              "url": "https://www.nisgaanation.ca/government/nisgaa-village-governments/gingolx/",
+              "inspectionScope": "Actual page body, government navigation and named Village Government link read for place/government identity only, not another substantive bibliography count."
+            }
+          ],
+          "asset": "assets/profile-visuals/c08-nisgaa-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c08-nisgaa-photo.jpg",
+          "recordInspection": "Exact item Summary/date/creator/source and media-specific Licensing sections read, including Flickr review when present. Footer metadata CC0 is not the image reuse basis.",
+          "reproductionNote": "Root retrieved the exact item-listed960px preview normally with HTTP 200. Root and this researcher independently viewed the complete available preview frame. Larger originals were not retrieved or inspected. Service resizing/compression is retained; no pixel crop, retouching, generated content or removal of archival margins. Background/card CSS crops and overlays must be disclosed, while the opened page retains the complete available frame proportionally.",
+          "status": "ready-reviewed",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 640,
+            "fullAvailableFrame": true,
+            "sha256": "28a35f9d55b96b36a79aac98acc3458d04c6d678b7c0c2b27de93e688c9be671"
+          },
+          "accessLimits": "Exact item identification, creator/archive and media-specific license read. Complete available960px preview decoded and visually inspected. Original-resolution pixels and any unlinked underlying objects remain uninspected; the archive/Flickr photograph license does not license separately owned focal art. No such focal art is adopted here.",
+          "width": 960,
+          "height": 640,
+          "retrievedSourceSha256": "28a35f9d55b96b36a79aac98acc3458d04c6d678b7c0c2b27de93e688c9be671",
+          "inputFileSha256": "28a35f9d55b96b36a79aac98acc3458d04c6d678b7c0c2b27de93e688c9be671",
+          "assetSha256": "28a35f9d55b96b36a79aac98acc3458d04c6d678b7c0c2b27de93e688c9be671"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:43deg;--profile-photo:url(\"../../assets/profile-visuals/c08-nisgaa-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "nokoni",
       "name": "Nokoni",
       "originalId": null,
@@ -7187,6 +7839,78 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 1
+    },
+    {
+      "slug": "nuxalk",
+      "name": "Nuxalk",
+      "originalId": 259,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 286,
+      "angle": -75,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c8-nuxalk-bella-coola-valley",
+          "profileSlugs": [
+            "nuxalk"
+          ],
+          "mediaType": "photograph",
+          "title": "Bella Coola Valley,1923",
+          "creator": "Harlan Ingersoll Smith / Canadian Museum of History",
+          "archive": "Wikimedia Commons / Canadian Museum of History, photographic archive58782",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bella_Coola_River_Valley_(58782).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bella_Coola_River_Valley_%2858782%29.jpg/960px-Bella_Coola_River_Valley_%2858782%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bella_Coola_River_Valley_%2858782%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "date": "1923",
+          "credit": "Harlan Ingersoll Smith / Canadian Museum of History / Wikimedia Commons · CC BY-SA 4.0",
+          "cardCredit": "Harlan Ingersoll Smith / Canadian Museum of History · CC BY-SA 4.0",
+          "alt": "A black-and-white historical view shows a curving river and sandbars amid forest, with mountain slopes behind.",
+          "scope": "Museum-sourced exact record58782 identifies a1923 view east up Bella Coola Valley toward a mountain beyond Stewie. Nation’s visitor guide explicitly names Bella Coola Valley within Nuxalk ancestral context. An outside historical landscape photograph, not a portrait of Nuxalk members, exact reserve shoreline, complete homeland depiction or a claim about present land ownership. No sacred-site location is supplied. Credit photographer and Canadian Museum of History source together. The media-specific Commons file license is CC BY-SA4.0, not metadataCC0 or an invented museum permission letter. Unchanged complete provider-listed960px full-frame preview, retrieved normally200 and locally inspected. The larger record original was not inspected or copied by this agent. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY-SA 4.0 with creator/source/license credit. Harlan Ingersoll Smith’s1923 outside landscape photograph is credited with its Canadian Museum of History source; no modern community portrait or source-negative inspection is claimed. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Nuxalk Nation Visitor Guide",
+              "url": "https://nuxalknation.ca/wp-content/uploads/2022/05/Nuxalk_Tourism_Protocols_2022_DRAFT.pdf",
+              "inspectionScope": "Selected PDFp3 explicitly names Bella Coola Valley in the Nuxalk ancestral-territory account; no exact boundary inferred."
+            }
+          ],
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c8-nuxalk-bella-coola-valley.jpg",
+          "cardAsset": "assets/profile-visuals/c8-nuxalk-bella-coola-valley.jpg",
+          "recordInspection": "Exact media description, source, creator/date and media-specific license read. Exact URLs extracted from actual provider HTML. Root retrieved normally200; this agent independently inspected all four complete local files with view_image.",
+          "status": "actual-file-inspected-ready",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "88eb22988843329fe0f4b4b015815da25ed109128e3813a0fa576d587b984bf9"
+          },
+          "reproductionNote": "Unchanged complete provider-listed960px full-frame preview, retrieved normally200 and locally inspected. The larger record original was not inspected or copied by this agent. No new crop, resizing, retouching or generation. CSS display crops/overlays may affect presentation. Image remains CC BY-SA 4.0 with creator/source/license credit. Harlan Ingersoll Smith’s1923 outside landscape photograph is credited with its Canadian Museum of History source; no modern community portrait or source-negative inspection is claimed.",
+          "width": 960,
+          "height": 540,
+          "bytes": 108491,
+          "assetSha256": "88eb22988843329fe0f4b4b015815da25ed109128e3813a0fa576d587b984bf9",
+          "inputFileSha256": "88eb22988843329fe0f4b4b015815da25ed109128e3813a0fa576d587b984bf9",
+          "retrievedSourceSha256": "88eb22988843329fe0f4b4b015815da25ed109128e3813a0fa576d587b984bf9",
+          "crop": "Complete available retrieved frame preserved; CSS crops/overlays only."
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:286;--profile-angle:-75deg;--profile-photo:url(\"../../assets/profile-visuals/c8-nuxalk-bella-coola-valley.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "ojibways-of-garden-river-first-nation",
@@ -9643,6 +10367,79 @@
       "substantiveInspectedSources": 6
     },
     {
+      "slug": "tlingit",
+      "name": "Tlingit",
+      "originalId": 388,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 270,
+      "angle": 3,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c08-tlingit-photo",
+          "profileSlugs": [
+            "tlingit"
+          ],
+          "mediaType": "photograph",
+          "title": "Hubbard Glacier and Yakutat Bay; record dated 2010",
+          "creator": "Alaska ShoreZone Program, NOAA/NMFS/AKFSC; courtesy of Mandy Lindeberg",
+          "archive": "Wikimedia Commons / NOAA Photo Library",
+          "date": "Record dated 2010-11-16; independent capture chronology not checked",
+          "credit": "Alaska ShoreZone Program, NOAA/NMFS/AKFSC; courtesy of Mandy Lindeberg; Wikimedia Commons / NOAA Photo Library. CC BY 2.0; also described as public-domain NOAA official-duty material.",
+          "cardCredit": "Photo: NOAA / Alaska ShoreZone · CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Line5091_-_Flickr_-_NOAA_Photo_Library.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Line5091_-_Flickr_-_NOAA_Photo_Library.jpg/960px-Line5091_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Line5091_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY2.0; also described as public-domain NOAA official-duty material",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "An icy glacier face meeting water, with rocky slopes and snow-covered mountains beyond.",
+          "scope": "Landscape context specifically for the Yakutat regional case, not all Tlingit homelands or a community portrait. The study places Hubbard Glacier within its Yakutat study region and records Yakutat Tlingit concerns about cruise traffic at Hubbard/Disenchantment Bay. No exclusive territory or independently verified wildlife claim inferred. This is landscape context for the Yakutat regional study. Its introduction and selected interview discussion identify Hubbard Glacier and adjacent waters as a Yakutat Tlingit concern. It is not all Tlingit homelands, a community portrait, a boundary or evidence of current glacier extent, climate trends or seal distributions. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Yakutat Tlingit ethnographic overview",
+              "url": "https://www.nps.gov/wrst/learn/historyculture/upload/YakutatTlingit-EOA.pdf",
+              "inspectionScope": "Printedp1/PDF p. 9 identifies Hubbard within study region; printed p. 173/PDF p. 181 explicitly records attributed Yakutat Tlingit concerns about Hubbard Glacier cruise traffic. Sensitive-place details excluded."
+            }
+          ],
+          "asset": "assets/profile-visuals/c08-tlingit-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c08-tlingit-photo.jpg",
+          "recordInspection": "Exact item Summary/date/creator/source and media-specific Licensing sections read, including Flickr review when present. Footer metadata CC0 is not the image reuse basis.",
+          "reproductionNote": "Root retrieved the exact item-listed960px preview normally with HTTP 200. Root and this researcher independently viewed the complete available preview frame. Larger originals were not retrieved or inspected. Service resizing/compression is retained; no pixel crop, retouching, generated content or removal of archival margins. Background/card CSS crops and overlays must be disclosed, while the opened page retains the complete available frame proportionally.",
+          "status": "ready-reviewed",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 638,
+            "fullAvailableFrame": true,
+            "sha256": "cefad2959eda8cffdcae85ea8d16b6d5cb0f1f179391d6c5ba8b6d2360956046"
+          },
+          "accessLimits": "Exact item identification, creator/archive and media-specific license read. Complete available960px preview decoded and visually inspected. Original-resolution pixels and any unlinked underlying objects remain uninspected; the archive/Flickr photograph license does not license separately owned focal art. No such focal art is adopted here.",
+          "width": 960,
+          "height": 638,
+          "retrievedSourceSha256": "cefad2959eda8cffdcae85ea8d16b6d5cb0f1f179391d6c5ba8b6d2360956046",
+          "inputFileSha256": "cefad2959eda8cffdcae85ea8d16b6d5cb0f1f179391d6c5ba8b6d2360956046",
+          "assetSha256": "cefad2959eda8cffdcae85ea8d16b6d5cb0f1f179391d6c5ba8b6d2360956046"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:270;--profile-angle:3deg;--profile-photo:url(\"../../assets/profile-visuals/c08-tlingit-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "tonkawa",
       "name": "Tonkawa",
       "originalId": 394,
@@ -9687,6 +10484,79 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 12
+    },
+    {
+      "slug": "tsimshian",
+      "name": "Tsimshian",
+      "originalId": 402,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 55,
+      "angle": 11,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c08-tsimshian-photo",
+          "profileSlugs": [
+            "tsimshian"
+          ],
+          "mediaType": "photograph",
+          "title": "Port Simpson / Lax Kw’alaams village and church, 1878",
+          "creator": "George M. Dawson, photographer; Canadian Museum of History photographic archives",
+          "archive": "Canadian Museum of History, Historical Photos 269,CD95-800; via Wikimedia Commons",
+          "date": "1878-08-30",
+          "credit": "George M. Dawson, photographer; Canadian Museum of History photographic archives; Canadian Museum of History, Historical Photos 269,CD95-800; via Wikimedia Commons. CC BY-SA 4.0 International — exact archive-supplied digital image.",
+          "cardCredit": "Photo: George M. Dawson · CMH · CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Village_and_church_of_Port_Simpson_(Lax_Kw'Alaams_1),_British_Columbia_(269).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Village_and_church_of_Port_Simpson_%28Lax_Kw%27Alaams_1%29%2C_British_Columbia_%28269%29.jpg/960px-Village_and_church_of_Port_Simpson_%28Lax_Kw%27Alaams_1%29%2C_British_Columbia_%28269%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Village_and_church_of_Port_Simpson_%28Lax_Kw%27Alaams_1%29%2C_British_Columbia_%28269%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA4.0 International — exact archive-supplied digital image",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "An archival black-and-white photograph of a waterfront village and church, shown with its dark mount, print edges and the number 269.",
+          "scope": "Outside historical photograph of the named Lax Kw’alaams/Port Simpson village, not all Tsimshian communities or current conditions. The historical church view does not establish religion, consent or uniform cultural practice among residents. Exact catalogue identification connects old and current place names. The complete available digital frame includes the mount, margins, visible blemishes and the number 269; none is removed. An outside historical view of one named village does not establish residents’ religion, consent, contemporary conditions or a uniform Tsimshian cultural practice. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Lax Kw’alaams public-history release",
+              "url": "https://laxkwalaams.ca/lax-kwalaams-unveils-new-signage-in-traditional-territory-along-highway-16/",
+              "inspectionScope": "Complete actual release identifies the Allied Tsimshian Tribes of Lax Kw’alaams; image record names Port Simpson/Lax Kw’Alaams1 explicitly."
+            }
+          ],
+          "asset": "assets/profile-visuals/c08-tsimshian-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c08-tsimshian-photo.jpg",
+          "recordInspection": "Exact item Summary/date/creator/source and media-specific Licensing sections read, including Flickr review when present. Footer metadata CC0 is not the image reuse basis.",
+          "reproductionNote": "Root retrieved the exact item-listed960px preview normally with HTTP 200. Root and this researcher independently viewed the complete available preview frame. Larger originals were not retrieved or inspected. Service resizing/compression is retained; no pixel crop, retouching, generated content or removal of archival margins. Background/card CSS crops and overlays must be disclosed, while the opened page retains the complete available frame proportionally.",
+          "status": "ready-reviewed",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 639,
+            "fullAvailableFrame": true,
+            "sha256": "bda42d0e78d142e6d8bdd509644ecec65d6ad40b8009c53b9577544f76bfae84"
+          },
+          "accessLimits": "Exact item identification, creator/archive and media-specific license read. Complete available960px preview decoded and visually inspected. Original-resolution pixels and any unlinked underlying objects remain uninspected; the archive/Flickr photograph license does not license separately owned focal art. No such focal art is adopted here.",
+          "width": 960,
+          "height": 639,
+          "retrievedSourceSha256": "bda42d0e78d142e6d8bdd509644ecec65d6ad40b8009c53b9577544f76bfae84",
+          "inputFileSha256": "bda42d0e78d142e6d8bdd509644ecec65d6ad40b8009c53b9577544f76bfae84",
+          "assetSha256": "bda42d0e78d142e6d8bdd509644ecec65d6ad40b8009c53b9577544f76bfae84"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:55;--profile-angle:11deg;--profile-photo:url(\"../../assets/profile-visuals/c08-tsimshian-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "upper-sioux-community",
