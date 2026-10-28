@@ -1,0 +1,424 @@
+{
+  "batchId": "starter-guides-04",
+  "reviewedAt": "2026-10-27",
+  "baselineSourceCommit": "865145a68079505b7cceda56a2c8c5dd974d800f",
+  "profiles": [
+    {
+      "name": "Anishinaabe",
+      "slug": "anishinaabe",
+      "selectedSourceIds": [
+        "an14-c2",
+        "an14-c3",
+        "p14-s6"
+      ],
+      "addedSourceIds": [],
+      "retainedOriginalSources": 14,
+      "retainedSubstantiveSections": 14,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "anishinaabe-bandolier-bag-slam"
+    },
+    {
+      "name": "Huron-Wendat",
+      "slug": "huronwendat",
+      "selectedSourceIds": [
+        "c4-wendat-culture",
+        "c4-wendat-archives"
+      ],
+      "addedSourceIds": [
+        "c4-wendat-culture",
+        "c4-wendat-archives"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "huronwendat-moccasins-met-1850"
+    },
+    {
+      "name": "Menominee",
+      "slug": "menominee",
+      "selectedSourceIds": [
+        "c4-menominee-brief",
+        "c4-menominee-museum"
+      ],
+      "addedSourceIds": [
+        "c4-menominee-brief",
+        "c4-menominee-museum"
+      ],
+      "retainedOriginalSources": 2,
+      "retainedSubstantiveSections": 3,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "menominee-amiskquew-loc-1843"
+    },
+    {
+      "name": "Ojibwe",
+      "slug": "ojibwe",
+      "selectedSourceIds": [
+        "p265-s1",
+        "p265-s10",
+        "p265-s23"
+      ],
+      "addedSourceIds": [],
+      "retainedOriginalSources": 27,
+      "retainedSubstantiveSections": 8,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "anishinaabe-bandolier-bag-slam"
+    },
+    {
+      "name": "Ottawa (Odawa)",
+      "slug": "ottawa-odawa",
+      "selectedSourceIds": [
+        "mg04-ottawa-own-history",
+        "an14-c3",
+        "t5"
+      ],
+      "addedSourceIds": [
+        "mg04-ottawa-own-history",
+        "mg04-ottawa-language-support",
+        "an14-c3",
+        "t5"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "an14-c3",
+          "origin": {
+            "slug": "anishinaabe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        },
+        {
+          "sourceId": "t5",
+          "origin": {
+            "slug": "tittabawassee-ojibwe-communities"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        }
+      ],
+      "imageRecordId": "ottawa-andrew-blackbird-1897"
+    },
+    {
+      "name": "Potawatomi",
+      "slug": "potawatomi",
+      "selectedSourceIds": [
+        "an14-c2",
+        "an14-c4",
+        "mg04-cpn-1861"
+      ],
+      "addedSourceIds": [
+        "mg04-cpn-1861",
+        "an14-c2",
+        "an14-c4",
+        "mg04-simon-pokagon-visual-context"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "an14-c2",
+          "origin": {
+            "slug": "anishinaabe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        },
+        {
+          "sourceId": "an14-c4",
+          "origin": {
+            "slug": "anishinaabe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        }
+      ],
+      "imageRecordId": "potawatomi-simon-pokagon-chicago-history"
+    },
+    {
+      "name": "Wyandot",
+      "slug": "wyandot",
+      "selectedSourceIds": [
+        "c4-wyandot-history"
+      ],
+      "addedSourceIds": [
+        "c4-wyandot-history"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "wyandot-related-ohio-bowl-met-1700"
+    },
+    {
+      "name": "Chippewa",
+      "slug": "chippewa",
+      "selectedSourceIds": [
+        "p14-s6",
+        "p265-s1",
+        "p265-s10"
+      ],
+      "addedSourceIds": [
+        "p14-s6",
+        "p265-s1",
+        "p265-s10"
+      ],
+      "retainedOriginalSources": 2,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p14-s6",
+          "origin": {
+            "slug": "anishinaabe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        },
+        {
+          "sourceId": "p265-s1",
+          "origin": {
+            "slug": "ojibwe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        },
+        {
+          "sourceId": "p265-s10",
+          "origin": {
+            "slug": "ojibwe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object and original dates/scopes retained. Reuse is not a fresh global work or a full-source rereading."
+        }
+      ],
+      "imageRecordId": "chippewa-context-bandolier-bag-slam"
+    },
+    {
+      "name": "Saginaw band (Ojibwe)",
+      "slug": "saginaw-band-ojibwe",
+      "selectedSourceIds": [
+        "mg04-treaty-1855"
+      ],
+      "addedSourceIds": [
+        "mg04-treaty-1855"
+      ],
+      "retainedOriginalSources": 1,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "saginaw-band-ojibwe-context-ziibiwing-strait-2024"
+    },
+    {
+      "name": "Swan Creek band (Ojibwe)",
+      "slug": "swan-creek-band-ojibwe",
+      "selectedSourceIds": [
+        "mg04-treaty-1836-swan-black",
+        "mg04-treaty-1855"
+      ],
+      "addedSourceIds": [
+        "mg04-treaty-1836-swan-black",
+        "mg04-treaty-1855"
+      ],
+      "retainedOriginalSources": 1,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "swan-creek-band-ojibwe-context-ziibiwing-strait-2024"
+    },
+    {
+      "name": "Black River band (Ojibwe)",
+      "slug": "black-river-band-ojibwe",
+      "selectedSourceIds": [
+        "mg04-treaty-1836-swan-black",
+        "mg04-treaty-1855"
+      ],
+      "addedSourceIds": [
+        "mg04-treaty-1836-swan-black",
+        "mg04-treaty-1855"
+      ],
+      "retainedOriginalSources": 1,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "black-river-band-ojibwe-context-ziibiwing-strait-2024"
+    },
+    {
+      "name": "Bad River Band of Lake Superior Chippewa",
+      "slug": "bad-river-band-of-lake-superior-chippewa",
+      "selectedSourceIds": [
+        "c4-br-history",
+        "c4-br-resources"
+      ],
+      "addedSourceIds": [
+        "c4-br-history",
+        "c4-br-resources",
+        "c4-br-sturgeon-context"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "bad-river-sturgeon-habitat-usfws-2010"
+    },
+    {
+      "name": "Forest County Potawatomi Community",
+      "slug": "forest-county-potawatomi-community",
+      "selectedSourceIds": [
+        "c4-fcp-timeline",
+        "c4-fcp-culture"
+      ],
+      "addedSourceIds": [
+        "c4-fcp-timeline",
+        "c4-fcp-culture",
+        "c4-fcp-hotel-context"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "forest-county-potawatomi-hotel-2015"
+    },
+    {
+      "name": "Ho-Chunk Nation",
+      "slug": "hochunk-nation",
+      "selectedSourceIds": [
+        "c4-hochunk-about",
+        "c4-hochunk-heritage"
+      ],
+      "addedSourceIds": [
+        "c4-hochunk-about",
+        "c4-hochunk-heritage"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "hochunk-whiteeagle-walsh-dol-2021"
+    },
+    {
+      "name": "Lac Courte Oreilles Band of Lake Superior Chippewa",
+      "slug": "lac-courte-oreilles-band-of-lake-superior-chippewa",
+      "selectedSourceIds": [
+        "c4-lco-history",
+        "c4-lco-university"
+      ],
+      "addedSourceIds": [
+        "c4-lco-history",
+        "c4-lco-university"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "lac-courte-oreilles-paddlers-nps-2014"
+    },
+    {
+      "name": "Lac du Flambeau Band of Lake Superior Chippewa",
+      "slug": "lac-du-flambeau-band-of-lake-superior-chippewa",
+      "selectedSourceIds": [
+        "c4-ldf-about",
+        "c4-ldf-museum",
+        "c4-ldf-thpo"
+      ],
+      "addedSourceIds": [
+        "c4-ldf-about",
+        "c4-ldf-museum",
+        "c4-ldf-thpo"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "lac-du-flambeau-boys-dormitory-2019"
+    },
+    {
+      "name": "Menominee Indian Tribe of Wisconsin",
+      "slug": "menominee-indian-tribe-of-wisconsin",
+      "selectedSourceIds": [
+        "c4-menominee-brief",
+        "c4-menominee-museum"
+      ],
+      "addedSourceIds": [
+        "c4-menominee-brief",
+        "c4-menominee-museum"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "menominee-amiskquew-loc-1843"
+    },
+    {
+      "name": "Red Cliff Band of Lake Superior Chippewa",
+      "slug": "red-cliff-band-of-lake-superior-chippewa",
+      "selectedSourceIds": [
+        "c4-rc-history",
+        "c4-rc-language"
+      ],
+      "addedSourceIds": [
+        "c4-rc-history",
+        "c4-rc-language"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "red-cliff-fdpir-usda-2023"
+    },
+    {
+      "name": "Sokaogon Chippewa Community",
+      "slug": "sokaogon-chippewa-community",
+      "selectedSourceIds": [
+        "c4-sok-history",
+        "c4-sok-water"
+      ],
+      "addedSourceIds": [
+        "c4-sok-history",
+        "c4-sok-water",
+        "c4-sok-plan-context"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "sokaogon-log-house-2013"
+    },
+    {
+      "name": "St. Croix Chippewa Indians of Wisconsin",
+      "slug": "st-croix-chippewa-indians-of-wisconsin",
+      "selectedSourceIds": [
+        "c4-sc-history",
+        "c4-sc-resources"
+      ],
+      "addedSourceIds": [
+        "c4-sc-history",
+        "c4-sc-resources"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "st-croix-danbury-casino-2018"
+    }
+  ],
+  "sourceContextsAdded": 43,
+  "selectedReadingRoutes": 44,
+  "newImageRecordIds": [
+    "ottawa-andrew-blackbird-1897",
+    "bad-river-sturgeon-habitat-usfws-2010",
+    "red-cliff-fdpir-usda-2023",
+    "lac-courte-oreilles-paddlers-nps-2014",
+    "lac-du-flambeau-boys-dormitory-2019",
+    "sokaogon-log-house-2013",
+    "st-croix-danbury-casino-2018",
+    "forest-county-potawatomi-hotel-2015",
+    "huronwendat-moccasins-met-1850",
+    "wyandot-related-ohio-bowl-met-1700",
+    "menominee-amiskquew-loc-1843",
+    "hochunk-whiteeagle-walsh-dol-2021",
+    "saginaw-band-ojibwe-context-ziibiwing-strait-2024",
+    "swan-creek-band-ojibwe-context-ziibiwing-strait-2024",
+    "black-river-band-ojibwe-context-ziibiwing-strait-2024",
+    "chippewa-context-bandolier-bag-slam",
+    "potawatomi-simon-pokagon-chicago-history"
+  ],
+  "addedNameOnlyOutlines": [
+    "burt-lake-band-of-ottawa-and-chippewa-indians",
+    "grand-river-bands-of-ottawa-indians",
+    "wyandot-of-anderdon-nation"
+  ],
+  "preservation": {
+    "unrelatedRawProfilesObjectEqual": 854,
+    "allOriginalSourcesRetained": true,
+    "allOriginalSubstantiveSectionsRetained": true,
+    "allOriginalIdentityEvidenceRetained": true,
+    "allOriginalImagesRetained": true
+  }
+}
