@@ -14473,7 +14473,7 @@
     "name": "Chehalis",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "Chehalis people have homelands in western Washington. Lower and Upper Chehalis histories and contemporary institutions need distinction.",
+    "overview": "Chehalis histories include distinct villages and bands connected by rivers in western Washington. This guide begins with the Confederated Tribes of the Chehalis Reservation’s account of names and places, then follows its public heritage, language and archive work. The confederated government’s account should not flatten every Chehalis community into one undifferentiated history.",
     "sections": [
       {
         "title": "Identity and context",
@@ -14489,38 +14489,110 @@
           "p49-s1",
           "p49-s2"
         ]
+      },
+      {
+        "title": "Names connected with villages and rivers",
+        "text": "The Tribe’s historical account describes a confederation formed from smaller bands and villages. It explains Chehalis through Tshels, a village name associated with sand, and discusses how outsiders extended that place name to a wider people. The account names river locations including Rainbow Falls and the Black, Chehalis, Newaukum and Satsop rivers. These are historical connections described by the Tribe, not a directory determination of current boundaries or of every listed group’s present identity.",
+        "sourceIds": [
+          "p49-s1"
+        ]
+      },
+      {
+        "title": "Public heritage learning and archives",
+        "text": "The Community & Culture department describes weaving, sewing and beading learning opportunities alongside youth and Elder activities. Its Historic Preservation Office includes language promotion and tribal archive work within its responsibilities. Together these descriptions offer a route into continuing community institutions. The linked forms, archives and program outcomes still need their own review; a public program description does not make every cultural record publicly accessible.",
+        "sourceIds": [
+          "p49-s2"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p49-s1",
-        "title": "People of the Sands - The Chehalis Tribe",
-        "publisher": "chehalistribe.org",
+        "title": "About / Our Story — Confederated Tribes of the Chehalis Reservation",
+        "publisher": "Confederated Tribes of the Chehalis Reservation",
         "url": "https://www.chehalistribe.org/our-story/people-of-the-sands/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Names and communities",
+          "Community history",
+          "Waterways"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “People of the Sands - The Chehalis Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Tribe explains its confederated village and band context, the place-name origin it gives for Chehalis, and connections with river places. Read as the government’s historical interpretation; the named groups are not automatically separate present governments.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual About/Our Story body, web-reader lines 74–98: constituent villages/bands, Chehalis name explanation, and named river places including Rainbow Falls. Mission paragraph also read; original explorer journals and the detailed histories of listed groups not inspected.",
+        "accessNotes": "The existing source URL normally redirected to https://www.chehalistribe.org/about/ and its substantial actual history body was read. Existing ID and URL retained. No login or paywall encountered; source photographs and original historical records not inspected through this review."
       },
       {
         "id": "p49-s2",
         "title": "Community & Culture - Chehalis Tribe",
-        "publisher": "chehalistribe.org",
+        "publisher": "Confederated Tribes of the Chehalis Reservation",
         "url": "https://www.chehalistribe.org/department/community-culture/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "Culture"
+          "Cultural preservation",
+          "Language",
+          "Education",
+          "Archives"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Community & Culture - Chehalis Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Selected program descriptions connect heritage learning, youth activities, language promotion and tribal archives. These are the Tribe’s publicly stated services and responsibilities, not independently measured outcomes or advice about present benefits.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected Community Center/Events facilities body; Heritage & Culture Program; Youth Center/K–12 overview; Historic Preservation Office and Cultural Resources descriptions, approximately reader lines 105–139 and 165–214. Financial benefit rules, staff rosters, forms and ceremonial details were not used in the synthesis.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p49-s1",
+      "p49-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review Upper and Lower Chehalis communities and other named constituent groups individually before adding relationships or distinct government routes.",
+      "Add dated community-authored history and language publications beyond these institutional introductions.",
+      "Consult original historical records separately before adopting explorer dates or outsiders’ labels."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review Upper and Lower Chehalis communities and other named constituent groups individually before adding relationships or distinct government routes.",
+        "Add dated community-authored history and language publications beyond these institutional introductions.",
+        "Consult original historical records separately before adopting explorer dates or outsiders’ labels."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p49-s1",
+          "reason": "Begin with the Tribe’s explanation of names, villages and river connections."
+        },
+        {
+          "sourceId": "p49-s2",
+          "reason": "Then follow public heritage, language and archive programs into continuing community life."
+        }
+      ],
+      "imageRecordId": "c9-chehalis-rainbow-falls"
+    }
   },
   {
     "originalId": 50,
@@ -16350,7 +16422,7 @@
     "name": "Clallam",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "Clallam is an older spelling encountered alongside Klallam and S’Klallam in community names.",
+    "overview": "This broader Clallam reading route leads to distinct S’Klallam communities and governments. Jamestown’s history names Jamestown, Lower Elwha and Port Gamble separately. The Lower Elwha timeline and Jamestown history are community-specific voices, rather than accounts of one merged government.",
     "sections": [
       {
         "title": "Identity and context",
@@ -16365,13 +16437,27 @@
         "sourceIds": [
           "p74-s1"
         ]
+      },
+      {
+        "title": "An Elwha-centered historical timeline",
+        "text": "Lower Elwha’s public timeline places treaty-making, incoming settlement and river homesteads in the same nineteenth-century chronology. Its 1855 and 1859 entries discuss the Point No Point treaty, while its 1874 entry describes Elwha-area homesteads. These are the Tribe’s selected historical entries; original deeds and treaty records need separate examination.",
+        "sourceIds": [
+          "p74-s1"
+        ]
+      },
+      {
+        "title": "Jamestown as a distinct community history",
+        "text": "Jamestown’s history identifies three separate S’Klallam tribal governments and explains its own community’s decision to buy land in 1874. It follows local livelihoods and later institution-building. This reading route helps distinguish a broader people label from individual communities; it does not make one government’s history stand for every S’Klallam community.",
+        "sourceIds": [
+          "p9-clallam-jamestown"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p74-s1",
-        "title": "Elwha Klallam Historical Timeline | Lower Elwha Klallam Tribe",
-        "publisher": "elwha.org",
+        "title": "Elwha Klallam Historical Timeline — selected eighteenth- and nineteenth-century entries",
+        "publisher": "Lower Elwha Klallam Tribe",
         "url": "https://www.elwha.org/culture-history/elwha-klallam-historical-timeline/",
         "type": "Indigenous-led",
         "topics": [
@@ -16379,12 +16465,79 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Elwha Klallam Historical Timeline | Lower Elwha Klallam Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A Lower Elwha community timeline places disruption, treaty-making, settlement and river homesteads in chronological context. Its Elwha-centered perspective complements, rather than replaces, other S’Klallam governments’ histories.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual returned timeline from the 1700–1799 heading through the 1853–1899 portion visible at web lines 3–54; focus on entries 1855/1859 and 1874. Later twentieth-/twenty-first-century entries were not read.",
+        "accessNotes": "Public initial HTML body read; a later request for the lower part timed out and was not retried. No original census, treaty, land record, disease register or current legal analysis was checked. Timeline figures and assertions of present legal status are not adopted."
+      },
+      {
+        "id": "p9-clallam-jamestown",
+        "title": "Jamestown S’Klallam History",
+        "publisher": "Jamestown S’Klallam Tribe",
+        "url": "https://jamestowntribe.org/history-and-culture/jamestown-sklallam-history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Identity",
+          "Community governments"
+        ],
+        "annotation": "Jamestown’s own history identifies three distinct S’Klallam tribal governments and explains its community’s land purchase, livelihood and recognition history. Its perspective is one named community within the wider reading route.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete main historical prose, web lines 89–105, covering named S’Klallam bands, seasonal livelihoods,1874 Jamestown land purchase and the community’s later institutional history. Image permission notices were also read; images were not copied.",
+        "accessNotes": "Actual public HTML body read. No original deeds, treaty text, court records or current legal status analysis checked. Population, acreage, prehistoric date and treaty-rights conclusions are not independently verified or adopted. Page photos expressly say do not reproduce without permission and remain excluded."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p74-s1",
+      "p9-clallam-jamestown"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review Port Gamble and appropriate other S’Klallam community publications individually, without automatic affiliation or alias assumptions.",
+      "Original deeds, treaty records, fuller language publications and later timeline entries remain unreviewed."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review Port Gamble and appropriate other S’Klallam community publications individually, without automatic affiliation or alias assumptions.",
+        "Original deeds, treaty records, fuller language publications and later timeline entries remain unreviewed."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p74-s1",
+          "reason": "Begin with selected Lower Elwha historical chronology."
+        },
+        {
+          "sourceId": "p9-clallam-jamestown",
+          "reason": "Compare Jamestown’s own history and the distinction among named governments."
+        }
+      ],
+      "imageRecordId": "c09-clallam-photo"
+    }
   },
   {
     "originalId": 75,
@@ -17557,7 +17710,7 @@
     "name": "Colville",
     "region": "Pacific Northwest / Washington",
     "kind": "Wider grouping / peoples",
-    "overview": "The Confederated Tribes of the Colville Reservation includes multiple distinct constituent peoples.",
+    "overview": "This starting guide follows cultural-preservation work published by the Confederated Tribes of the Colville Reservation. Its history and archaeology program and its language division offer complementary entry points into records, Elders’ accounts and learning resources. These institutional introductions are not a complete history of the distinct peoples represented within the confederation.",
     "sections": [
       {
         "title": "Identity and context",
@@ -17574,21 +17727,40 @@
           "p82-s2",
           "p82-s3"
         ]
+      },
+      {
+        "title": "A tribal institution for historical research",
+        "text": "The History/Archaeology Program describes work across archaeology, ethnography, history and cultural-resource management on the Columbia Plateau. Its public services include archival research, oral-history review and transcription, traditional-skills research, collections management and museum interpretation. The page explains how an institution approaches evidence and preservation; it does not itself supply the linked films’ full content or the separate histories of every constituent people.",
+        "sourceIds": [
+          "p82-s1"
+        ]
+      },
+      {
+        "title": "Language work across generations",
+        "text": "The Cultural Preservation Division describes a responsibility to preserve and share language, culture and history with coming generations. Its account emphasizes recording and carefully preserving Elders’ stories, and supporting dictionaries, curriculum, translation and access to fluent speakers. Read these as the division’s responsibilities and educational routes. The directory has not assessed the linked lessons, recordings or language outcomes, and restricted community knowledge is not made public by a program listing.",
+        "sourceIds": [
+          "p9-colville-language"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p82-s1",
         "title": "History & Archaeology — Colville Tribes",
-        "publisher": "colvilletribes.com",
+        "publisher": "Confederated Tribes of the Colville Reservation",
         "url": "https://www.colvilletribes.com/history-archaeology/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Historical research",
+          "Cultural preservation",
+          "Archives"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History & Archaeology — Colville Tribes” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The actual program description and services list explain historical research, ethnography, oral-history work, collections care and preservation. Useful for understanding the Tribe’s cultural-resource institution; linked films, place-name documents and archaeological records were not read.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual History/Archaeology body and selected public service descriptions, reader lines 440–542. Multimedia titles were seen only as links and do not constitute inspections of those works. No site locations or restricted collections content reproduced.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       },
       {
         "id": "p82-s2",
@@ -17617,6 +17789,24 @@
         ],
         "annotation": "Historical context for this entry. Read “Historical and cultural reference for Colville” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-colville-language",
+        "title": "About Us — Colville Tribes Language Program",
+        "publisher": "Confederated Tribes of the Colville Reservation, Cultural Preservation Division",
+        "url": "https://www.cct-lan.com/about-us",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Cultural preservation"
+        ],
+        "annotation": "The complete short explanatory body describes preserving Elders’ accounts, supporting language learning and passing culture and history to coming generations. Its stated aims and provision of dictionaries and curriculum are not a measurement of language proficiency or program success.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Colville Language body, reader lines 296–305: Cultural Preservation Division mandate, recording and preserving Elders’ stories, educational media, three language programs, dictionary/curriculum/translation services. Linked recordings, dictionaries, classes and certification forms not reviewed.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       }
     ],
     "relatedOriginalIds": [
@@ -17624,7 +17814,54 @@
       357,
       438
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p82-s1",
+      "p9-colville-language"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Develop separate historical reading paths for the Colville people and other constituent peoples without treating a confederated institution as every community’s voice.",
+      "Read selected tribal historical publications and original records; the linked story-map introduction and multimedia works were not inspected here.",
+      "Review actual language teaching materials separately and retain speaker/community scope."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop separate historical reading paths for the Colville people and other constituent peoples without treating a confederated institution as every community’s voice.",
+        "Read selected tribal historical publications and original records; the linked story-map introduction and multimedia works were not inspected here.",
+        "Review actual language teaching materials separately and retain speaker/community scope."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p82-s1",
+          "reason": "Start with the Tribe’s description of historical research and cultural-resource care."
+        },
+        {
+          "sourceId": "p9-colville-language",
+          "reason": "Then read the language division’s explanation of intergenerational preservation and learning."
+        }
+      ],
+      "imageRecordId": "c9-colville-transit"
+    }
   },
   {
     "originalId": 83,
@@ -19000,7 +19237,7 @@
     "name": "Cowlitz",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Cowlitz Indian Tribe publishes its own history of communities and homelands in southwestern Washington.",
+    "overview": "Cowlitz history includes river communities with varied local practices and relationships. These readings pair Tanna Engdahl’s historical account, published by the Cowlitz Indian Tribe, with the Tribe’s public cultural-resource and language programs. The author’s interpretations and the government’s program aims remain clearly attributed.",
     "sections": [
       {
         "title": "Identity and context",
@@ -19017,21 +19254,41 @@
           "p90-s2",
           "p90-s3"
         ]
+      },
+      {
+        "title": "River communities and complicated names",
+        "text": "Tanna Engdahl’s account places Cowlitz villages within the Columbia River watershed and emphasizes waterways as routes for travel and exchange. She distinguishes Upper, Lower and Lewis River contexts and describes how different local resources shaped daily work. Her warning about multilingual trading relationships is useful when reading historical labels: an outsider’s name does not automatically identify a separate people or a current affiliation. This starting synthesis does not adopt her tentative migration explanations.",
+        "sourceIds": [
+          "p90-s1"
+        ]
+      },
+      {
+        "title": "Historic preservation and language renewal",
+        "text": "The Tribe’s Cultural Resources Department describes historic preservation through record review, consultation and public education. Its language program identifies Cowlitz Coast Salish as the first language in its revitalization work. These are publicly stated responsibilities and priorities. The directory has not independently measured teaching outcomes, established present legal entitlements, or treated the department’s cultural photographs as freely reusable assets.",
+        "sourceIds": [
+          "p9-cowlitz-culture"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p90-s1",
         "title": "Our Story | The Cowlitz Indian Tribe",
-        "publisher": "cowlitz.org",
+        "publisher": "Cowlitz Indian Tribe",
         "url": "https://cowlitz.org/our-story",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Community history",
+          "Waterways",
+          "Historical names"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Our Story | The Cowlitz Indian Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Selected historical paragraphs describe river villages, transport, local resources and differences among Upper, Lower and Lewis River Cowlitz contexts. Engdahl warns that multilingual relationships and outsiders’ labels complicate historical records. Speculative migration statements and ceremonial instructions are not adopted.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected In the Beginning—Cowlitz body: opening river-village/transport paragraphs, Upper and Lower Cowlitz descriptions, and Lewis River/naming paragraphs, reader lines 10–29 and 41–44. Kwalhiokwa migration speculation, health claims and later ceremonial instructions excluded from synthesis.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction.",
+        "author": "Tanna Engdahl"
       },
       {
         "id": "p90-s2",
@@ -19050,19 +19307,87 @@
       {
         "id": "p90-s3",
         "title": "CULTURAL RESOURCES REPORT COVER SHEET",
-        "publisher": "co.cowlitz.wa.us",
+        "publisher": "Hosted at co.cowlitz.wa.us; underlying authorship unverified",
         "url": "https://www.co.cowlitz.wa.us/DocumentCenter/View/33993",
-        "type": "Indigenous-led",
+        "type": "Publisher perspective not yet verified",
         "topics": [
           "Identity",
           "Culture"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “CULTURAL RESOURCES REPORT COVER SHEET” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Uninspected reading lead. This county-hosted cultural-resources cover-sheet route has not established its underlying authorship or community perspective. It is excluded from the substantive reading path until an appropriate source/author review is completed.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "metadataReviewedAt": "2026-10-28",
+        "countReason": "Metadata-only correction of an unsupported Indigenous-led label; no actual-content inspection claimed."
+      },
+      {
+        "id": "p9-cowlitz-culture",
+        "title": "Cultural Resources Department — Culture & Heritage",
+        "publisher": "Cowlitz Indian Tribe",
+        "url": "https://www.cowlitz.org/cultural-resources",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Cultural preservation",
+          "Education"
+        ],
+        "annotation": "Selected department explanations describe historic preservation, public education and a language revitalization program beginning with Cowlitz Coast Salish. They explain responsibilities and intentions, not independently verified results, present legal rights or permission to reproduce cultural objects.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected Purpose, Tribal Historic Preservation Office and Language Revitalization Program body, reader lines 13–42. Other cultural activities were seen in the public page but no ceremonial instructions, forms, linked resources, carvings or photographs used or licensed.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p90-s1",
+      "p9-cowlitz-culture"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Add dated language-program publications and independently inspect selected teaching resources.",
+      "Compare Engdahl’s historical interpretation with original records and scholarship while retaining uncertainty around historical names.",
+      "Review the legacy county-hosted cultural-report card’s authorship and perspective; its old Indigenous-led classification has not been validated by this batch."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add dated language-program publications and independently inspect selected teaching resources.",
+        "Compare Engdahl’s historical interpretation with original records and scholarship while retaining uncertainty around historical names.",
+        "Review the legacy county-hosted cultural-report card’s authorship and perspective; its old Indigenous-led classification has not been validated by this batch."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p90-s1",
+          "reason": "Begin with Engdahl’s account of river communities and the difficulty of outsiders’ names."
+        },
+        {
+          "sourceId": "p9-cowlitz-culture",
+          "reason": "Then read the Tribe’s own cultural-preservation and language-program explanations."
+        }
+      ],
+      "imageRecordId": "c9-cowlitz-river"
+    }
   },
   {
     "originalId": 91,
@@ -20593,7 +20918,7 @@
     "name": "Duwamish",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "Duwamish communities have enduring relationships with the Seattle region. The Tribe publishes its own account of identity and history.",
+    "overview": "Duwamish public accounts connect communities with the waterways of the Seattle region and describe continuing cultural and language work. These readings present the Duwamish Tribe’s own explanations of names, family relationships and learning. They do not resolve contested recognition, enrollment or present legal questions, or speak for every descendant or neighboring government.",
     "sections": [
       {
         "title": "Identity and context",
@@ -20610,22 +20935,41 @@
           "p102-s2",
           "p102-s3"
         ]
+      },
+      {
+        "title": "An account centered on waterways",
+        "text": "The Tribe’s FAQ names the Duwamish, Black and Cedar rivers, Elliott Bay and Lake Washington when explaining its homeland relationships. Culture Today describes Duwamish as an anglicized name associated with people of the inside, while emphasizing distinctions among local groups. These are the Tribe’s own explanations. The directory has not inferred present political affiliation from a waterway, settled recognition disputes, or assumed that one institution represents every descendant’s account.",
+        "sourceIds": [
+          "p102-s1",
+          "p9-duwamish-culture"
+        ]
+      },
+      {
+        "title": "Households, travel and language learning",
+        "text": "Culture Today describes winter households and family connections, followed by seasonal travel for gathering, fishing, visiting and trade. Its public account connects canoes with those water-based routes. The page also describes a Lushootseed program instituted in 2002 and its language-learning aims at the Longhouse. This is an introduction to the Tribe’s interpretation and stated educational work, rather than an independent assessment of language outcomes or a reproduction of ceremonial knowledge.",
+        "sourceIds": [
+          "p9-duwamish-culture"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p102-s1",
         "title": "FAQS — Duwamish Tribe",
-        "publisher": "duwamishtribe.org",
+        "publisher": "Duwamish Tribe",
         "url": "https://www.duwamishtribe.org/faqs",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Names and communities",
+          "Waterways",
+          "Institutional perspectives"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “FAQS — Duwamish Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Selected substantial FAQ answers explain the Tribe’s self-identification, named waterways and the kinds of evidence it uses to describe homeland relationships. Its institutional perspective is attributed; membership figures, recognition litigation and legal interpretations were not adopted as independent conclusions.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected FAQ body: Who are the Duwamish Tribe?; how the Tribe identifies traditional territory; and continuing community/family ties, reader lines 194–208. Other FAQ answers were encountered but no current population, lawsuit status or legal holdings carried into the guide.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       },
       {
         "id": "p102-s2",
@@ -20653,10 +20997,75 @@
         ],
         "annotation": "Historical context for this entry. Read “Duwamish History” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-duwamish-culture",
+        "title": "Culture Today — Duwamish Tribe",
+        "publisher": "Duwamish Tribe",
+        "url": "https://www.duwamishtribe.org/culture-today",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Language",
+          "Waterways"
+        ],
+        "annotation": "Selected substantial sections explain the Tribe’s public account of names, households, water travel and Lushootseed learning. These descriptions are attributed community interpretations; neither ceremonial instructions nor health and longevity claims are reproduced.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Culture Today HTML body read through normal HTTP 200 retrieval and saved privately. Synthesis uses opening name/group explanation, The Home, The Language and Canoeing sections. Linked media and source photographs not inspected/licensed; spiritual, medicinal and ceremony details not used.",
+        "accessNotes": "The web reader confirmed the source page; the substantial body was then read from ordinary HTTP 200 HTML retrieved with Python urllib. No challenge or access bypass, login or paywall. Linked audio/video, underlying linguistic research and photographs were not independently inspected."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p102-s1",
+      "p9-duwamish-culture"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Add dated community publications and selected original historical records beyond institutional introductory pages.",
+      "Review linguistic scholarship and teaching materials separately; do not infer disappearance from language change.",
+      "Inspect recognition-related primary decisions separately before making current legal statements, with other relevant community perspectives clearly distinguished."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add dated community publications and selected original historical records beyond institutional introductory pages.",
+        "Review linguistic scholarship and teaching materials separately; do not infer disappearance from language change.",
+        "Inspect recognition-related primary decisions separately before making current legal statements, with other relevant community perspectives clearly distinguished."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p102-s1",
+          "reason": "Start with the Tribe’s own explanation of names, waterways and evidentiary perspectives."
+        },
+        {
+          "sourceId": "p9-duwamish-culture",
+          "reason": "Then read its substantial public account of households, canoes and Lushootseed learning."
+        }
+      ],
+      "imageRecordId": "c9-duwamish-river"
+    }
   },
   {
     "originalId": 103,
@@ -29262,7 +29671,7 @@
     "name": "Kwakwaka'wakw",
     "region": "Northeastern Vancouver Island / mainland British Columbia",
     "kind": "Related nations",
-    "overview": "Kwakwa̱ka̱ʼwakw means Kwak̓wala-speaking people, encompassing distinct communities and nations rather than one interchangeable tribal identity.",
+    "overview": "U’mista’s institutional history and Chief Waxawidi’s statement offer community voices on cultural continuity and artistic ownership. They connect the return of confiscated belongings with rights held by particular families and nations. This broader reading route does not collapse distinct Kwakwaka’wakw communities or authorize copying their designs.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -29284,13 +29693,27 @@
         "sourceIds": [
           "p177-s2"
         ]
+      },
+      {
+        "title": "U’mista and the return of belongings",
+        "text": "U’mista Cultural Society describes its establishment and the opening of its cultural facility in 1980. Its public account explains that belongings confiscated following a 1921 potlatch were dispersed to collections and that people pursued their return for decades. Read this as the Society’s institutional account, with individual families, belongings and records requiring their own histories and permissions.",
+        "sourceIds": [
+          "p177-s1"
+        ]
+      },
+      {
+        "title": "Artistic rights are specific, not generic motifs",
+        "text": "Chief Waxawidi, identified by U’mista as a ʼNa̱mǥis artist, explains the role of mentorship, inherited family rights and permission in artistic practice. His statement asks readers to respect ownership across neighboring villages and nations. It is a source for learning about responsibility and authenticity, not permission to reproduce or generate ceremonial designs.",
+        "sourceIds": [
+          "p177-s2"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p177-s1",
         "url": "https://www.umista.ca/pages/about-us",
-        "title": "About Us",
+        "title": "U’mista Cultural Society — institutional history and the return of belongings",
         "publisher": "U’mista Cultural Centre",
         "type": "Indigenous-led",
         "topics": [
@@ -29298,27 +29721,80 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "The Society explains its origins, facility and the struggle to return confiscated ceremonial belongings. This is its own institutional account; particular families and nations retain their distinct histories and rights.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete substantive About Us, Meaning of U’mista and Society paragraphs, web lines 9–17. Operational staffing, admissions and shop listings were not adopted. Separate homepage location statement read only for the proposed Alert Bay photograph context.",
+        "accessNotes": "Actual public HTML body read. No confiscation case file, complete museum catalogue, family-held knowledge or object-specific rights clearance inspected. The source does not authorize copying collection photographs, regalia, designs or ceremonies."
       },
       {
         "id": "p177-s2",
         "url": "https://www.umista.ca/pages/authenticity",
-        "title": "Authenticity",
-        "publisher": "U’mista Cultural Centre",
+        "title": "Authenticity — statement by Chief Waxawidi, ʼNa̱mǥis artist",
+        "publisher": "Chief Waxawidi; published by U’mista Cultural Centre",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
           "History",
           "Culture"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "Chief Waxawidi explains how mentorship, inherited family rights and permission matter to artistic practice. This is an attributed statement on authenticity and ownership, not a stock catalogue of reusable motifs.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete signed main statement, web lines 11–23, with particular attention to mentorship, family-held designs and respecting neighboring villages/nations. The artist registry and other linked resources were not separately reviewed.",
+        "accessNotes": "Actual public HTML statement read. No sacred instructions or motifs are reproduced, and no artwork permissions are inferred. This named artist’s statement is not treated as a universal rule for every Indigenous people or as an invitation to generate imitations."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "researched",
-    "originalId": 177
+    "researchStatus": "source-guide",
+    "originalId": 177,
+    "overviewSourceIds": [
+      "p177-s1",
+      "p177-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review individually named community histories and contemporary language publications without treating the broader label as one government.",
+      "Museum objects, family-held knowledge, designs and recordings require separate study and permissions."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review individually named community histories and contemporary language publications without treating the broader label as one government.",
+        "Museum objects, family-held knowledge, designs and recordings require separate study and permissions."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p177-s1",
+          "reason": "Read the Society’s own institutional history and return-of-belongings account."
+        },
+        {
+          "sourceId": "p177-s2",
+          "reason": "Read the named artist’s statement on mentorship, ownership and permission."
+        }
+      ],
+      "imageRecordId": "c09-kwakwakawakw-photo"
+    }
   },
   {
     "name": "Lacandón",
@@ -30845,7 +31321,7 @@
     "name": "Lummi",
     "region": "Northwest Washington / southern British Columbia",
     "kind": "People / tribal nation",
-    "overview": "Lhaq’temish, the Lummi people, are rooted in the northern Puget Sound and neighboring coastal waters.",
+    "overview": "The Lummi Nation’s 2022 community plan and economic strategy offer community-issued starting points into coastal fishing, education and planning. These selected passages show how the Nation frames continuity and development; they are dated planning accounts, not a current statistical survey or a map of legal boundaries.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -30867,6 +31343,20 @@
         "sourceIds": [
           "p189-s2"
         ]
+      },
+      {
+        "title": "Reading a community planning account",
+        "text": "The 2022 Community Plan introduces the Nation through its institutions and enduring coastal fishing relationships. Its public cultural framing describes a distinctive way of life rather than a list of interchangeable regional customs. This selected reading provides an entry into the Nation’s own planning language; it does not establish current treaty rights or surveyed boundaries.",
+        "sourceIds": [
+          "p189-s2"
+        ]
+      },
+      {
+        "title": "Fishing, education and development priorities",
+        "text": "The 2022 economic strategy connects fishing, trading and sharing with later efforts in education and training. Its introduction discusses the Lummi Indian School of Aquaculture, Lummi Community College and Northwest Indian College as parts of that educational story. Read these as the Nation’s dated account of its priorities, with present programs and outcomes checked separately.",
+        "sourceIds": [
+          "p9-lummi-ceds"
+        ]
       }
     ],
     "sources": [
@@ -30887,7 +31377,7 @@
       {
         "id": "p189-s2",
         "url": "https://www.lummi-nsn.gov/userfiles/1034_LummiCommunityPlanFinalDraft20221127-compressed.pdf",
-        "title": "Lummi Nation Community Plan",
+        "title": "Lummi Nation Community Plan — selected introduction and public cultural framing (2022)",
         "publisher": "Lummi Nation",
         "type": "Indigenous-led",
         "topics": [
@@ -30895,13 +31385,80 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "Read this Nation-issued planning account alongside its economic strategy. Selected introductory paragraphs connect institutions and coastal fishing; the public cultural framing emphasizes a distinctive way of life.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "PDF page 2 (zero-based 1), introductory Nation/institution and land/water paragraphs returned as web lines 3–28. Also read the indexed actual Culture / What We Mean By Culture paragraphs; their page placement was not verified. No claim to a full chapter or the 254-page plan.",
+        "accessNotes": "Initial public PDF extraction returned actual page text. Later attempts to open culture-page context timed out; no repeated retrieval or bypass followed. The indexed cultural passage was read, but no page number is asserted for it. No maps, photographs, full plan, underlying statutes or current rights/boundaries were inspected. Planning descriptions are not a legal determination or current demographic survey."
+      },
+      {
+        "id": "p9-lummi-ceds",
+        "title": "Lummi Nation Comprehensive Economic Development Strategy — 2022 introduction",
+        "publisher": "Lummi Indian Business Council; prepared by Teresa Taylor, Office of Economic Policy",
+        "url": "https://www.lummi-nsn.gov/userfiles/975_CEDSUpdate042922tnt.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Contemporary life",
+          "Education",
+          "Economic history"
+        ],
+        "annotation": "The 2022 introduction connects fishing and sharing with education, training and planning. This is a dated account of the Nation’s development priorities, not current business or population data.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Printed/PDF page 5 (zero-based 4), complete Introduction body under We are the Lhaq’temish, Fostering Success through Education and Training, Strengthening the Regional Economy, and Partnering for Prosperity; web lines 90–119. Cover date/authorship read separately.",
+        "accessNotes": "Actual public PDF text read. The remaining 84 pages, underlying economic studies, photographs, artwork and current implementation were not reviewed. Historical/2022 institutional statements are attributed; numerical population, acreage, employment rankings, accreditation and present legal claims are not adopted."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "researched",
-    "originalId": 189
+    "researchStatus": "source-guide",
+    "originalId": 189,
+    "overviewSourceIds": [
+      "p189-s2",
+      "p9-lummi-ceds"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review selected complete community-plan culture pages and later community-led language/history publications; later PDF culture-context retrieval timed out.",
+      "Check later educational/program histories without carrying 2022 figures forward as current."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review selected complete community-plan culture pages and later community-led language/history publications; later PDF culture-context retrieval timed out.",
+        "Check later educational/program histories without carrying 2022 figures forward as current."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p189-s2",
+          "reason": "Begin with selected Nation-issued planning and cultural framing."
+        },
+        {
+          "sourceId": "p9-lummi-ceds",
+          "reason": "Compare the 2022 introduction on fishing, education and community priorities."
+        }
+      ],
+      "imageRecordId": "c09-lummi-photo"
+    }
   },
   {
     "name": "Mactun",
@@ -31038,7 +31595,7 @@
     "name": "Makah",
     "region": "Cape Flattery / Neah Bay, Washington",
     "kind": "People / tribal nation",
-    "overview": "Makah homelands lie around Cape Flattery and Neah Bay, with a strong relationship to the sea and its resources.",
+    "overview": "Makah Tribe publications offer a starting path through coastal village life, maritime knowledge and the Makah Cultural and Research Center. The historical account and museum introduction connect living community interpretation with material recovered at Ozette; fuller archaeology and individual objects require separate review.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -31060,13 +31617,27 @@
         "sourceIds": [
           "p192-s2"
         ]
+      },
+      {
+        "title": "Coastal villages and different kinds of canoes",
+        "text": "The Tribe’s historical account describes permanent shore villages and seasonal movements connected with fishing and gathering. It explains that cedar canoes served different purposes, including transport and several kinds of marine harvesting. This community-authored description connects maritime skill with everyday and extended-family life without reducing Makah history to one activity.",
+        "sourceIds": [
+          "p192-s1"
+        ]
+      },
+      {
+        "title": "A museum interpreted by the community",
+        "text": "The Tribe presents the Makah Cultural and Research Center as a place to learn from material recovered at the Ozette village site. Its account distinguishes archaeological belongings from historic material and replicas used in interpretation. This is a useful introduction to community-led presentation; the excavation record and each displayed object need their own reading and reuse checks.",
+        "sourceIds": [
+          "p9-makah-museum"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p192-s1",
         "url": "https://makah.com/makah-tribal-info/about-history/",
-        "title": "Makah Tribe History",
+        "title": "Makah Tribe history — coastal villages and maritime life",
         "publisher": "Makah Tribe",
         "type": "Indigenous-led",
         "topics": [
@@ -31074,8 +31645,12 @@
           "History",
           "Culture"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "The Tribe describes coastal villages, seasonal movement and the practical diversity of canoes. Begin with its account of relationships between sea, land and family life.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public historical body under Makah Tribe history, Makah Tribe Villages, and Ecological Practices & Mariner Skills; web lines 37–47. Navigation, photographs and later linked subjects are not source readings.",
+        "accessNotes": "Actual HTML body read normally. No underlying archaeological reports, oral-history recordings, maps, present boundary or contemporary population figures checked. This is the Tribe’s own historical synthesis; no universal clothing, ceremony or art-reproduction permission inferred."
       },
       {
         "id": "p192-s2",
@@ -31090,13 +31665,76 @@
         ],
         "annotation": "Institutional reading to place the entry in historical or linguistic context; read alongside community voices.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-makah-museum",
+        "title": "Makah Museum at the Makah Cultural and Research Center",
+        "publisher": "Makah Tribe",
+        "url": "https://makah.com/attractions/museum/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Museum",
+          "Education"
+        ],
+        "annotation": "The Tribe explains how its museum interprets material recovered at Ozette, including the difference between recovered belongings, historic material and replicas. Individual collection objects need their own study and permissions.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete substantive museum-introduction and Visiting the Museum paragraphs, web lines 37–42, plus the historical opening-year statement at 46. Admission and operating information were not adopted.",
+        "accessNotes": "Actual public HTML prose read; no gallery images copied, linked Ozette site publication read, original excavation report checked, or present hours verified. The interpretation is the Tribe’s visitor-facing museum account. The stated archaeological dating is attributed, not independently redated."
       }
     ],
     "relatedOriginalIds": [
       258
     ],
-    "researchStatus": "researched",
-    "originalId": 192
+    "researchStatus": "source-guide",
+    "originalId": 192,
+    "overviewSourceIds": [
+      "p192-s1",
+      "p9-makah-museum"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read selected community-approved archaeological and language publications; no excavation report or individual museum object was reviewed here.",
+      "Keep museum interpretation and current political/legal questions distinct."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read selected community-approved archaeological and language publications; no excavation report or individual museum object was reviewed here.",
+        "Keep museum interpretation and current political/legal questions distinct."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p192-s1",
+          "reason": "Start with the Tribe’s own historical account of villages and maritime life."
+        },
+        {
+          "sourceId": "p9-makah-museum",
+          "reason": "Continue with its museum introduction and Ozette interpretation."
+        }
+      ],
+      "imageRecordId": "c09-makah-photo"
+    }
   },
   {
     "name": "Maleku",
@@ -36239,7 +36877,7 @@
     "name": "Nooksack",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Nooksack Indian Tribe has homelands in northwestern Washington.",
+    "overview": "Nooksack public history connects communities with the Nooksack River watershed and describes continuity through changes in settlement and landholding. This guide pairs the Nooksack Indian Tribe’s historical account with its natural-resource department’s public responsibilities and goals. Those institutional accounts are not a current population census, legal determination or every family’s perspective.",
     "sections": [
       {
         "title": "Identity and context",
@@ -36255,6 +36893,20 @@
           "p254-s1",
           "p254-s2",
           "p254-s3"
+        ]
+      },
+      {
+        "title": "River relationships and continuity through change",
+        "text": "The Tribe’s public historical account places Nooksack life within the river watershed and explains shared access through kin relationships with neighboring communities. It describes a transition from winter villages to small homesteads while fishing, hunting and gathering continued at familiar places. This is the Tribe’s historical interpretation, rather than a directory ruling on land ownership or current affiliation. Original ethnographies, patents and legal records still need separate inspection.",
+        "sourceIds": [
+          "p9-nooksack-history"
+        ]
+      },
+      {
+        "title": "Public goals for fish, water and habitat",
+        "text": "The Natural Resources Department connects its mission with current and future generations. Its public account organizes work through fisheries, habitat restoration and watershed planning, monitoring, and resource protection. The department’s vision includes sustainable fish populations and resilient ecosystems. Those are goals and responsibilities; this introductory reading does not independently establish fish abundance, restoration success or the content of present treaty rights.",
+        "sourceIds": [
+          "p254-s2"
         ]
       }
     ],
@@ -36275,16 +36927,20 @@
       {
         "id": "p254-s2",
         "title": "Natural Resources - Nooksack Indian Tribe",
-        "publisher": "nooksacktribe.org",
+        "publisher": "Nooksack Indian Tribe",
         "url": "https://nooksacktribe.org/natural-resources/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Contemporary life"
+          "Stewardship",
+          "Fisheries",
+          "Environmental monitoring"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Natural Resources - Nooksack Indian Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The actual mission, vision and work categories explain fisheries, habitat restoration, watershed planning, monitoring and resource protection. These are the department’s responsibilities and goals; the guide does not claim that desired ecosystem conditions have been achieved.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Natural Resources body, reader lines 98–122: mission, five vision outcomes, four staff work categories and program organization. Staff directory, RFP notices, fishing rules, historic images and linked technical studies not used for factual outcomes or image clearance.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       },
       {
         "id": "p254-s3",
@@ -36298,10 +36954,75 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Gallery - Nooksack” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-nooksack-history",
+        "title": "About Us — Nooksack Territory and History",
+        "publisher": "Nooksack Indian Tribe",
+        "url": "https://nooksacktribe.org/about/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Waterways",
+          "Historical sources"
+        ],
+        "annotation": "The substantial public History and Territory tab text describes river communities, kin-based shared use and the transition from villages to homesteads while fishing, hunting and gathering continued. Historical and legal interpretations are attributed; population totals, sensitive site details and present ownership claims are not adopted.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual public HTML About, Nooksack Territory and History bodies, including text retained in hidden tabs in the normally retrieved HTML. Selected synthesis uses river relationships, joint-use/kin ties, settlement change and continuing land-based activities. Original ethnographies, cases, patents and underlying archaeological records not inspected.",
+        "accessNotes": "Web-reader rendering exposed only the short About tab. Ordinary Python urllib retrieval returned HTTP 200 and contained the full public Territory and History tab bodies, which were read and saved privately. No challenge/login/paywall or bypass. Underlying citations and precise historical village/site locations not reproduced."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p9-nooksack-history",
+      "p254-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read selected linguistic and historical scholarship with the original records cited by the Tribe.",
+      "Inspect technical monitoring and habitat reports before reporting measurable environmental outcomes.",
+      "Review distinct family/community perspectives and contemporary governance questions carefully; introductory institutional history is not an enrollment or legal determination."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read selected linguistic and historical scholarship with the original records cited by the Tribe.",
+        "Inspect technical monitoring and habitat reports before reporting measurable environmental outcomes.",
+        "Review distinct family/community perspectives and contemporary governance questions carefully; introductory institutional history is not an enrollment or legal determination."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p9-nooksack-history",
+          "reason": "Begin with the Tribe’s actual historical account of river communities and continuity."
+        },
+        {
+          "sourceId": "p254-s2",
+          "reason": "Then read the natural-resource department’s mission, work categories and explicitly stated goals."
+        }
+      ],
+      "imageRecordId": "c9-nooksack-north-fork"
+    }
   },
   {
     "originalId": 255,
@@ -36635,7 +37356,7 @@
     "name": "Nuu-chah-nulth",
     "region": "British Columbia / Vancouver Island",
     "kind": "People / community",
-    "overview": "Nuu-chah-nulth is a wider identity connecting distinct nations on western Vancouver Island.",
+    "overview": "Nuu-chah-nulth connects distinct communities on western Vancouver Island. This small path introduces the Tribal Council’s institutional history and one Tla-o-qui-aht stewardship example; neither stands for every nation, language variety or community experience.",
     "sections": [
       {
         "title": "Identity and context",
@@ -36649,6 +37370,21 @@
         "text": "Focus the next stage of research on: Individual nations, language, maritime homelands and contemporary political institutions. The sources below are selected reading paths; their authorship, dates and community scope should guide how they are used.",
         "sourceIds": [
           "p258-s1"
+        ]
+      },
+      {
+        "title": "An alliance and a shared-service institution",
+        "text": "The Tribal Council’s chronology traces an alliance formed in 1958, incorporation as a society in 1973 and adoption of its present institutional name in 1979. Its own explanation describes shared services and advocacy for participating nations. These organizational arrangements should be distinguished from the wider people and individual governments.",
+        "sourceIds": [
+          "c9-nuuchahnulth-ntc-history",
+          "c9-nuuchahnulth-ntc-context"
+        ]
+      },
+      {
+        "title": "One community’s stewardship account in Clayoquot Sound",
+        "text": "Tla-o-qui-aht Tribal Parks situates its work in Clayoquot Sound and traces the first park declaration to 1984. Its account describes a contemporary Guardians programme established in 2008 and work involving restoration, monitoring and visitor education. These are the programme’s own history and stated activities, not an independent assessment of all outcomes.",
+        "sourceIds": [
+          "c9-nuuchahnulth-tlaoquiaht-parks"
         ]
       }
     ],
@@ -36666,10 +37402,112 @@
         ],
         "annotation": "Historical context for this entry. Read “Nuu-chah-nulth Tribal Council - Province of British Columbia” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c9-nuuchahnulth-ntc-history",
+        "title": "History — Nuu-chah-nulth Tribal Council",
+        "publisher": "Nuu-chah-nulth Tribal Council",
+        "url": "https://nuuchahnulth.org/history",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Language",
+          "Contemporary institutions"
+        ],
+        "annotation": "The Council’s chronology traces an alliance into a shared-service institution. Its timeline concerns this organization rather than one government for every Nuu-chah-nulth community.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete published historical timeline body lines12–69,1958–2011; synthesis selects 1958 alliance,1973 incorporation,1974 newspaper and 1979 name change.",
+        "accessNotes": "Public HTML read normally. Underlying incorporation records, funding agreements and treaty texts were not inspected. Claims to national firsts and present legal powers or service outcomes are not adopted."
+      },
+      {
+        "id": "c9-nuuchahnulth-ntc-context",
+        "title": "About NTC — institutional context",
+        "publisher": "Nuu-chah-nulth Tribal Council",
+        "url": "https://nuuchahnulth.org/about-ntc",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Language",
+          "Contemporary institutions"
+        ],
+        "annotation": "Supporting explanation distinguishes the Council’s shared services and participating nations from the wider people. Membership lists and programme descriptions can change.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual institutional explanation lines14–50, including region lists and three service roles.",
+        "accessNotes": "Undated public page read. Current membership/population totals, availability of individual services and claimed cost savings are not adopted. Supporting institutional context, excluded from the substantive reading-path count."
+      },
+      {
+        "id": "c9-nuuchahnulth-tlaoquiaht-parks",
+        "title": "Our Story — Tla-o-qui-aht Tribal Parks",
+        "publisher": "Tla-o-qui-aht Tribal Parks",
+        "url": "https://www.tribalparks.com/our-story",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Language",
+          "Contemporary institutions"
+        ],
+        "annotation": "One named community’s own stewardship account introduces land protection and Guardians work in Clayoquot Sound. It is a case study within a wider reading route, not all Nuu-chah-nulth histories.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected complete prose sections History of Land Protection and Indigenous Land Care, lines46–81; narrative dates first park declaration to 1984 and contemporary Guardians programme to 2008.",
+        "accessNotes": "Public HTML read. Linked videos,2024 declaration, interactive map and underlying legal/ecological records remain uninspected. Programme aims and self-described interpretations are attributed; animated metrics, legal boundaries and ecological outcomes are not adopted. Site photographs are not licensed by this source review."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c9-nuuchahnulth-ntc-history",
+      "c9-nuuchahnulth-ntc-context",
+      "c9-nuuchahnulth-tlaoquiaht-parks"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Develop separate, community-directed histories and language reading paths across the distinct nations.",
+      "Inspect original organizational and land-protection records before expanding institutional or legal claims.",
+      "Compare community evaluations of stewardship without treating stated goals or counters as demonstrated ecological outcomes."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop separate, community-directed histories and language reading paths across the distinct nations.",
+        "Inspect original organizational and land-protection records before expanding institutional or legal claims.",
+        "Compare community evaluations of stewardship without treating stated goals or counters as demonstrated ecological outcomes."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c9-nuuchahnulth-ntc-history",
+          "reason": "Begin with the Council’s own institutional chronology, distinct from the histories of individual nations."
+        },
+        {
+          "sourceId": "c9-nuuchahnulth-tlaoquiaht-parks",
+          "reason": "Follow one specifically named Tla-o-qui-aht stewardship example; it is not a survey of every Nuu-chah-nulth community."
+        }
+      ],
+      "imageRecordId": "c09-nuuchahnulth-clayoquot"
+    }
   },
   {
     "originalId": 259,
@@ -41512,7 +42350,7 @@
     "name": "Puyallup",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Puyallup Tribe has homelands in the southern Puget Sound region.",
+    "overview": "The Puyallup Tribe’s own history connects its name and village histories with the Puyallup River mouth. A dated tribal-news report offers a second starting point through community efforts to create time and space for Lushootseed learning.",
     "sections": [
       {
         "title": "Identity and context",
@@ -41528,6 +42366,20 @@
           "p312-s1",
           "p312-s2",
           "p312-s3"
+        ]
+      },
+      {
+        "title": "Names and river villages",
+        "text": "The Tribe explains its name through villages near the lower bend and mouth of the Puyallup River. Its account follows community life along rivers, prairies and saltwater before describing colonial settlement and treaty-era disruption. This is a tribal account of place and history, rather than a present-day boundary map or a substitute for the original treaty.",
+        "sourceIds": [
+          "p9-puyallup-story"
+        ]
+      },
+      {
+        "title": "Making room for language practice",
+        "text": "In her 2024 report, Molly Bryant describes the Language Program’s use of a dedicated immersion house. Amber Hayward and Zalmai Zahir explain why a setting separated from office interruptions can support everyday Lushootseed use. The account links conversation with ordinary shared activities; it is a dated report of teaching practice, not an independent measure of present fluency.",
+        "sourceIds": [
+          "p9-puyallup-immersion"
         ]
       }
     ],
@@ -41547,17 +42399,20 @@
       },
       {
         "id": "p312-s2",
-        "title": "Puyallup Tribal Language - Culture",
-        "publisher": "puyalluptriballanguage.org",
+        "title": "Puyallup Tribal Language — earlier resource lead; access caution",
+        "publisher": "Puyallup Tribal Language Program — earlier linked resource",
         "url": "https://www.puyalluptriballanguage.org/about/index.php",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "Language",
-          "Culture"
+          "Earlier resource lead",
+          "Access caution"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Puyallup Tribal Language - Culture” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Earlier URL retained with a caution: the retrieved page includes an anomalous unrelated external footer test link. It is not selected as current community authority or counted as a substantive reviewed work in this update.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Public body and footer observed; no factual synthesis or starting-guide selection depends on this page. This is an access/authority caution, not a finding about the institution or all website content.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. External anomalous link was not followed. Use the Tribe-hosted history and dated Tribal News report in the reviewed path. No attack, compromise cause, present operator identity or permission claim is inferred."
       },
       {
         "id": "p312-s3",
@@ -41572,10 +42427,98 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “LEARN MORE ABOUT THE PUYALLUP TRIBE OF INDIANS” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-puyallup-story",
+        "url": "https://www.puyalluptribe-nsn.gov/about-our-tribe/",
+        "title": "Puyallup Tribe: The Story of Our People",
+        "publisher": "Puyallup Tribe of Indians",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Names",
+          "Waterways"
+        ],
+        "annotation": "The substantive tribal history beneath the navigation explains the people’s name, river villages and colonial disruption. Its treaty interpretation is a community account, not an independently reviewed legal judgment.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete Story of Our People body, web lines118–129, excluding navigation, event listings and linked video. Synthesis uses river-place/name context; contested signatures and legal conclusions are not adopted.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Actual public HTML read and normal HTTP200 copy saved. Linked film, treaties, judgments and settlement texts were not inspected; no present legal advice or boundary map supplied."
+      },
+      {
+        "id": "p9-puyallup-immersion",
+        "url": "https://www.puyalluptribe-nsn.gov/news/language-immersion-house-helps-revitalize-lushootseed/",
+        "title": "Language immersion house helps revitalize Lushootseed",
+        "publisher": "Puyallup Tribal News / Puyallup Tribe of Indians",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community life"
+        ],
+        "annotation": "Molly Bryant’s February15,2024 report describes a language team using a dedicated house to reduce interruptions from English. Statements by Amber Hayward and Zalmai Zahir remain attributed.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete dated news article body, including setting, language nests/domains, participant routines, reported statistics and future aims. Synthesis uses the reported learning setting; numerical speaker claims are not adopted.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Normal HTTP200 HTML saved. No attendance records, classes, recordings or outcome study inspected. A dated report does not verify present availability, participant proficiency or later project success.",
+        "author": "Molly Bryant"
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p9-puyallup-story",
+      "p9-puyallup-immersion"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read original records and further Puyallup-authored histories before extending treaty, settlement or current legal claims.",
+      "Follow community-directed evaluations of language learning rather than adopting reported speaker totals as a current census.",
+      "The 2021 heritagePDF is a directory of leads, not a separately inspected history; linked videos remain unwatched.",
+      "Retain the earlier language-site URL with explicit access caution; do not present its anomalous footer as evidence about the institution itself.",
+      "The modern industrial river-mouth aerial is regional place context, not reconstructed former villages or a reservation boundary."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original records and further Puyallup-authored histories before extending treaty, settlement or current legal claims.",
+        "Follow community-directed evaluations of language learning rather than adopting reported speaker totals as a current census.",
+        "The 2021 heritagePDF is a directory of leads, not a separately inspected history; linked videos remain unwatched.",
+        "Retain the earlier language-site URL with explicit access caution; do not present its anomalous footer as evidence about the institution itself.",
+        "The modern industrial river-mouth aerial is regional place context, not reconstructed former villages or a reservation boundary."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p9-puyallup-story",
+          "reason": "Begin with the Tribe’s river-place and historical account."
+        },
+        {
+          "sourceId": "p9-puyallup-immersion",
+          "reason": "Then read a dated, attributed account of language-learning practice."
+        }
+      ],
+      "imageRecordId": "c9-puyallup-river-mouth"
+    }
   },
   {
     "originalId": 313,
@@ -41855,7 +42798,7 @@
     "name": "Quileute",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Quileute Tribe has homelands on the Olympic Peninsula’s Pacific coast.",
+    "overview": "The Quileute Tribe’s own history and public language-learning introduction provide complementary starting points into maritime community life and language revitalization. These are selected community-published accounts, with linked recordings and deeper historical claims left for their own review.",
     "sections": [
       {
         "title": "Identity and context",
@@ -41872,21 +42815,39 @@
           "p317-s2",
           "p317-s3"
         ]
+      },
+      {
+        "title": "A community-published maritime history",
+        "text": "The Tribe’s history describes fishing, sea-going cedar canoes, basketry and households that could move seasonally between coastal and upriver places. These selected paragraphs are a starting point into its own account of daily life and relationships. They do not replace the perspectives of individual families or establish claims about neighboring peoples.",
+        "sourceIds": [
+          "p317-s1"
+        ]
+      },
+      {
+        "title": "Language used in everyday village life",
+        "text": "The Tribe’s language page quotes its dictionary’s account of a revitalization project begun in 2007. It describes encouraging everyday words and phrases through classes and shared learning materials. The page offers alphabet, vocabulary and audio routes for further study; those linked recordings and the complete dictionary were not themselves reviewed or reproduced here.",
+        "sourceIds": [
+          "p9-quileute-language"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p317-s1",
-        "title": "History | Quileute Tribe",
-        "publisher": "quileutetribe.com",
+        "title": "Quileute Tribe History — selected maritime and community context",
+        "publisher": "Quileute Tribe",
         "url": "https://quileutetribe.com/history/",
         "type": "Indigenous-led",
         "topics": [
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History | Quileute Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Tribe’s history provides a community-published route into maritime life, cedar canoes, household organization and language learning. Read its historical narrative as an attributed account, alongside separate community resources.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected actual body: opening historical framing at 78, maritime/craft and household paragraphs 83–88, and language/teaching paragraphs 93–94. Other returned passages were seen but their ceremonial detail, linguistic superlatives, speculative vessel-design comparisons and claims about other peoples are not adopted.",
+        "accessNotes": "Public HTML actual body read. No complete oral-history archive, underlying interviews, historical demographic figures, archaeology, treaty record or language survey reviewed. Sacred/ceremonial details and burial locations are not reproduced; the page’s outsider comparisons are not used to infer another people’s disappearance."
       },
       {
         "id": "p317-s2",
@@ -41915,17 +42876,80 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “SECTION THREE                                                                 Community Description” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-quileute-language",
+        "title": "The Quileute Language — revitalization account and public learning routes",
+        "publisher": "Quileute Tribe",
+        "url": "https://quileutetribe.com/quileute-language/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Contemporary life"
+        ],
+        "annotation": "A Tribe-published introduction, quoting its dictionary, explains an everyday-language project begun in 2007. The page also directs learners to community-provided alphabet, vocabulary and audio materials.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete introductory prose and quoted dictionary excerpt, web lines 76–85. The linked resource titles and recording list were inspected as navigation only, not as listened-to or downloaded lessons.",
+        "accessNotes": "Actual public HTML read. The complete dictionary, alphabet/font downloads and audio recordings were not inspected or reproduced. This is a bounded historical program account, not a current speaker count or an inference that language change means community disappearance."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p317-s1",
+      "p9-quileute-language"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review appropriate fuller histories, community-approved language publications and present educational work without inferring disappearance from language loss.",
+      "Linked lessons, recordings, dictionary and historic claims about other peoples remain separately unreviewed."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review appropriate fuller histories, community-approved language publications and present educational work without inferring disappearance from language loss.",
+        "Linked lessons, recordings, dictionary and historic claims about other peoples remain separately unreviewed."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p317-s1",
+          "reason": "Read selected Tribe-published historical context on maritime and household life."
+        },
+        {
+          "sourceId": "p9-quileute-language",
+          "reason": "Follow the Tribe’s own account and public routes into language learning."
+        }
+      ],
+      "imageRecordId": "c09-quileute-photo"
+    }
   },
   {
     "originalId": 318,
     "name": "Quinault",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Quinault Indian Nation has homelands on the Pacific coast of Washington and includes distinct community histories.",
+    "overview": "Quinault Indian Nation’s Taholah planning account and Gary S. Morishima’s 2017 essay provide different routes into community decisions and stewardship. One describes a village-relocation planning phase; the other is an attributed argument for reciprocal relationships with public-land agencies. Neither is a current construction report or universal statement for all constituent communities.",
     "sections": [
       {
         "title": "Identity and context",
@@ -41941,6 +42965,20 @@
           "p318-s1",
           "p318-s2",
           "p318-s3"
+        ]
+      },
+      {
+        "title": "Taholah planning and community choices",
+        "text": "The Nation explains that flooding and tsunami concerns motivated planning for Taholah’s lower village. Its project page records adoption of a master plan in June 2017 and describes community meetings, services and infrastructure choices. This reading concerns the planning rationale and participation; it does not claim that the page’s construction-stage statements remain current.",
+        "sourceIds": [
+          "p9-quinault-taholah"
+        ]
+      },
+      {
+        "title": "Stewardship through reciprocal relationships",
+        "text": "In his 2017 essay, Gary S. Morishima argues that stewardship of federal public lands needs substantive Native participation, mutual respect and reciprocity. He distinguishes engagement in decisions from merely gathering cultural information. Read this as a named author’s argument at a particular date, alongside Nation publications and later policy records.",
+        "sourceIds": [
+          "p318-s2"
         ]
       }
     ],
@@ -41961,8 +42999,8 @@
       },
       {
         "id": "p318-s2",
-        "title": "Gary S. Morishima, Quinault Management Center, Quinault Indian Nation - Indigenous Knowledge and Traditional Ecological Knowledge (U.S. National Park Service)",
-        "publisher": "nps.gov",
+        "title": "Open Eyes, Open Minds — Gary S. Morishima (2017)",
+        "publisher": "Gary S. Morishima, Quinault Management Center; published by the National Park Service with permission",
         "url": "https://www.nps.gov/subjects/tek/gary-s-morishima-quinault-management-center-quinault-indian-nation.htm",
         "type": "Government",
         "topics": [
@@ -41970,8 +43008,12 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Historical context for this entry. Read “Gary S. Morishima, Quinault Management Center, Quinault Indian Nation - Indigenous Knowledge and Traditional Ecological Knowledge (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Morishima argues for substantive Native participation, reciprocity and respect in stewardship of federal public lands. Read it as his 2017 argument, distinct from both Nation legislation and a current NPS policy statement.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Author/date framing lines 19–29; selected opening argument 35–41 and stewardship/collaboration discussion 67–89, including the concluding recommendations. Other article sections and linked footnote works were not reviewed independently.",
+        "accessNotes": "Actual public HTML body read. The NPS says printed with the author’s permission; that is not permission to reuse his portrait. Historical policy references are treated as the author’s dated argument; underlying laws, reports, current agency policy and all footnotes were not checked. No disputed generalization about all Indigenous settlement patterns is adopted."
       },
       {
         "id": "p318-s3",
@@ -41985,10 +43027,73 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “QUINAULT INDIAN NATION DISASTER DECLARATION HISTORY” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-quinault-taholah",
+        "title": "Taholah Village Relocation — Project Background",
+        "publisher": "Quinault Indian Nation, Planning Department",
+        "url": "https://quinaultindiannation.com/247/Project-Background",
+        "type": "Indigenous-led",
+        "topics": [
+          "Contemporary life",
+          "Planning",
+          "Environment"
+        ],
+        "annotation": "The Nation explains the relocation-planning rationale for Taholah, community involvement and the master plan adopted in June 2017. This project account should be read as a planning phase, with later construction status checked separately.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete substantive Project Background, The Plan, Process and Outcome prose, web lines 20–55. Staff contact details, population figures, maps and linked master-plan/environmental-assessment files were not adopted or separately inspected.",
+        "accessNotes": "Actual public HTML read. The undated page describes a historical planning phase and expressly records June 2017 master-plan adoption; no assertion that its construction statements remain current in 2026. No independent hazard assessment, engineering advice, geographic boundary or project-completion claim."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p9-quinault-taholah",
+      "p318-s2"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review later community-led Taholah updates, constituent-community histories and language works.",
+      "Later construction status, hazard studies and present agency policies remain unverified."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review later community-led Taholah updates, constituent-community histories and language works.",
+        "Later construction status, hazard studies and present agency policies remain unverified."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p9-quinault-taholah",
+          "reason": "Begin with the Nation’s account of Taholah planning and community involvement."
+        },
+        {
+          "sourceId": "p318-s2",
+          "reason": "Compare Morishima’s dated argument about knowledge and stewardship relationships."
+        }
+      ],
+      "imageRecordId": "c09-quinault-photo"
+    }
   },
   {
     "originalId": 319,
@@ -44757,7 +45862,7 @@
     "name": "Skokomish",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Skokomish Indian Tribe has homelands in the Hood Canal region. Twana is a related people and language name.",
+    "overview": "The Skokomish Tribe places its history within the wider Twana communities of the Hood Canal drainage. Its public sources connect river and shoreline changes with continuing responsibilities for archives, cultural materials and community knowledge.",
     "sections": [
       {
         "title": "Identity and context",
@@ -44773,6 +45878,20 @@
           "p352-s1",
           "p352-s2",
           "p352-s3"
+        ]
+      },
+      {
+        "title": "Twana communities and the river system",
+        "text": "The Tribe’s history identifies Skokomish within the wider Twana community landscape of Hood Canal. It describes how diking, dams and shoreline restrictions affected access to resources and culturally important places. These are the Tribe’s historical explanations; the directory has not independently reviewed each land claim, engineering record or legal outcome.",
+        "sourceIds": [
+          "p9-skokomish-history"
+        ]
+      },
+      {
+        "title": "Caring for archives and cultural materials",
+        "text": "The Cultural Resources Department lists work ranging from archive records and conservation schedules to museum collections, loans and repatriation. These responsibilities make cultural preservation more than the display of objects: records and materials require continuing care. The published list does not establish that individual archives or cultural knowledge are open for unrestricted use.",
+        "sourceIds": [
+          "p9-skokomish-cultural-resources"
         ]
       }
     ],
@@ -44817,12 +45936,97 @@
         ],
         "annotation": "A language reference linked for this entry. Read “Twana Language and the Twana/Skokomish Indian Tribes (Tuwa'duxqucid, Tuwa'duxq, Tuwaduqutsid, Quilcene, Duhlelap)” for terminology and documentation, and distinguish linguistic labels from the names of political communities.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-skokomish-history",
+        "url": "https://skokomish.org/culture-and-history/",
+        "title": "Culture & History — Skokomish Indian Tribe",
+        "publisher": "Skokomish Indian Tribe",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Waterways",
+          "Cultural preservation"
+        ],
+        "annotation": "The Tribe relates Skokomish history to Twana communities of the Hood Canal drainage and describes changes to river-mouth resources, water access and communal life. Legal outcomes are not independently established here.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read Culture and History narrative and Tribal Historic Preservation Office goals. Synthesis uses Twana/Skokomish relationship and named drainage/resource context; present economic totals and legal determinations excluded.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Undated institutional retrospective. Original claims, judgments, dam records, cultural inventories and current regulatory powers were not read; no precise culturally sensitive locations or practices republished."
+      },
+      {
+        "id": "p9-skokomish-cultural-resources",
+        "url": "https://skokomish.org/cultural-resources/",
+        "title": "Cultural Resources — Skokomish Indian Tribe",
+        "publisher": "Skokomish Indian Tribe",
+        "type": "Indigenous-led",
+        "topics": [
+          "Archives",
+          "Cultural preservation",
+          "Cultural institutions"
+        ],
+        "annotation": "The substantive departmental duties describe accession records, conservation, archive management, museum collections and repatriation work. They show institutional responsibilities without establishing public access to every item.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete Duties of the Cultural Resources Department list, web lines53–64; names, contact details and mission boilerplate not used as substantive findings.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. A published responsibilities statement, not evidence every goal has been achieved or every archive is public. No underlying tapes, photographs, museum objects, inventories or repatriation files inspected."
       }
     ],
     "relatedOriginalIds": [
       414
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p9-skokomish-history",
+      "p9-skokomish-cultural-resources"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Broaden community-authored Twana language and family history beyond two institutional accounts.",
+      "Inspect original river, dam and land records alongside tribal histories before making legal, environmental-outcome or current access claims.",
+      "Do not convert historical Twana community names into separate present governments without identity-specific evidence.",
+      "Archive responsibilities are not permission to reproduce cultural objects or sensitive records; seek only appropriate public sources."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Broaden community-authored Twana language and family history beyond two institutional accounts.",
+        "Inspect original river, dam and land records alongside tribal histories before making legal, environmental-outcome or current access claims.",
+        "Do not convert historical Twana community names into separate present governments without identity-specific evidence.",
+        "Archive responsibilities are not permission to reproduce cultural objects or sensitive records; seek only appropriate public sources."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p9-skokomish-history",
+          "reason": "Start with the Tribe’s account of Twana and river relationships."
+        },
+        {
+          "sourceId": "p9-skokomish-cultural-resources",
+          "reason": "Then examine its stated responsibilities for archives and cultural materials."
+        }
+      ],
+      "imageRecordId": "c9-skokomish-south-fork"
+    }
   },
   {
     "originalId": 353,
@@ -44955,7 +46159,7 @@
     "name": "Snoqualmie",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Snoqualmie Indian Tribe has homelands in the Snoqualmie Valley and surrounding region.",
+    "overview": "This starting path follows the Snoqualmie Indian Tribe’s own accounts of political recognition, language learning and advocacy around Snoqualmie Falls. The sources preserve distinct institutional, historical and cultural perspectives; they do not replace a fuller community history.",
     "sections": [
       {
         "title": "Identity and context",
@@ -44972,35 +46176,65 @@
           "p355-s2",
           "p355-s3"
         ]
+      },
+      {
+        "title": "Recognition and commemoration in the Tribe’s own account",
+        "text": "The Tribe’s 2020 Rights Day retrospective distinguishes an initial recognition determination in 1997 from the later affirmation in 1999. It explains how an annual commemoration grew from that history. This is the Tribe’s institutional account; the linked federal records require separate reading.",
+        "sourceIds": [
+          "c9-snoqualmie-sovereignty"
+        ]
+      },
+      {
+        "title": "Language learning through community resources",
+        "text": "The Culture Department describes written materials and recordings as tools for renewing Lushootseed within the community. Its introduction connects earlier speakers’ work with present learning resources. The linked audio, stories and lessons should be approached through the department’s own instructions.",
+        "sourceIds": [
+          "p355-s2"
+        ]
+      },
+      {
+        "title": "A public landscape and a history of advocacy",
+        "text": "The Tribe’s account dates its Salish Lodge and adjacent-land purchase to 2019 and explains its significance after years of advocacy around Snoqualmie Falls. The dated landscape image introduces that named setting. It does not establish land ownership or reproduce the Tribe’s creation narratives.",
+        "sourceIds": [
+          "c9-snoqualmie-salish"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p355-s1",
-        "title": "History | Snoqualmie Indian Tribe",
-        "publisher": "snoqualmietribe.us",
+        "title": "History — introductory statement",
+        "publisher": "Snoqualmie Indian Tribe",
         "url": "https://snoqualmietribe.us/history/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Community history",
+          "Language",
+          "Contemporary institutions"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History | Snoqualmie Indian Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A brief introductory statement and route to the Tribe’s more substantial sovereignty website. Supporting context; this single paragraph is not counted as a historical work.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual public introductory paragraph, web lines41–44. News, calendars and linked material are outside this inspection.",
+        "accessNotes": "Public body read normally. One short statement only; fuller history is reviewed separately."
       },
       {
         "id": "p355-s2",
-        "title": "Language | Snoqualmie Indian Tribe Culture Department",
-        "publisher": "culture.snoqualmietribeweb.us",
+        "title": "Language Program — selected introduction and project explanations",
+        "publisher": "Snoqualmie Indian Tribe Culture Department",
         "url": "https://culture.snoqualmietribeweb.us/language/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
+          "Community history",
           "Language",
-          "Culture"
+          "Contemporary institutions"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Language | Snoqualmie Indian Tribe Culture Department” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "The Culture Department explains language materials and community learning. Its account links recordings and written resources with renewal; outcomes and present speaker totals are not independently measured.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual introduction lines17–30 and selected Resources & Projects explanations43–60 and100–102.",
+        "accessNotes": "Public HTML read. Audio, stories, prayers, videos, downloads and personal-contact information were not inspected or reproduced. The page’s historical naming/dialect claims are not independently resolved; no pronunciation lesson or current proficiency estimate is supplied."
       },
       {
         "id": "p355-s3",
@@ -45015,10 +46249,98 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tribal Codes | Snoqualmie Indian Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c9-snoqualmie-sovereignty",
+        "title": "Snoqualmie Sovereignty — Rights Day retrospective",
+        "publisher": "Snoqualmie Indian Tribe, Governmental Affairs & Special Projects Department",
+        "url": "https://snoqualmierightsday.snoqualmietribeweb.us/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Language",
+          "Contemporary institutions"
+        ],
+        "annotation": "The Tribe’s 2020 retrospective describes recognition advocacy and Rights Day. Read this as its institutional account, distinct from the underlying federal determinations.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected historical body lines20–42: sovereignty framing,1997 determination/1999 affirmation distinction and 2019–2020 commemorations.",
+        "accessNotes": "Public 2020 retrospective read normally. Linked recognition documents, treaty litigation, songs, recordings and original federal decisions were not inspected. No independent legal determination, present rights advice or current programme schedule is claimed."
+      },
+      {
+        "id": "c9-snoqualmie-salish",
+        "title": "Salish Acquisition — the Tribe’s account of its 2019 purchase",
+        "publisher": "Snoqualmie Indian Tribe, Governmental Affairs & Special Projects Department",
+        "url": "https://snoqualmierightsday.snoqualmietribeweb.us/065c0-hestia-front/highlights/salish-acquisition/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Language",
+          "Contemporary institutions"
+        ],
+        "annotation": "The Tribe explains why its 2019 purchase mattered after years of advocacy around Snoqualmie Falls. Its own account supplies community/place relevance for the landscape photograph.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected actual body lines19–26 and34–47: dated purchase, protection concerns and institutional interpretation.",
+        "accessNotes": "Public historical account read. Deeds, title boundaries, planning files, linked press reports and later outcomes were not inspected. Visitor figures, acreage, transaction amounts, burial locations and current ownership/legal conclusions are not adopted."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c9-snoqualmie-sovereignty",
+      "p355-s2",
+      "c9-snoqualmie-salish"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read original recognition documents and compare selected community-authored histories.",
+      "Expand language and family perspectives without reproducing restricted knowledge or assuming one account speaks for everyone.",
+      "Inspect primary land/planning records before adding boundaries, current ownership or later outcomes."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original recognition documents and compare selected community-authored histories.",
+        "Expand language and family perspectives without reproducing restricted knowledge or assuming one account speaks for everyone.",
+        "Inspect primary land/planning records before adding boundaries, current ownership or later outcomes."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c9-snoqualmie-sovereignty",
+          "reason": "Start with the Tribe’s own historical account, keeping the 1997 determination and 1999 affirmation distinct."
+        },
+        {
+          "sourceId": "p355-s2",
+          "reason": "Explore the Culture Department’s explanation of community language resources; linked recordings have not been inspected here."
+        },
+        {
+          "sourceId": "c9-snoqualmie-salish",
+          "reason": "Read the Tribe’s dated account of advocacy and its 2019 acquisition around the Falls."
+        }
+      ],
+      "imageRecordId": "c09-snoqualmie-falls"
+    }
   },
   {
     "originalId": 356,
@@ -45539,7 +46861,7 @@
     "name": "Squaxin Island",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Squaxin Island Tribe is a contemporary nation in the southern Puget Sound region.",
+    "overview": "Squaxin Island museum accounts connect the Tribe with the maritime communities and seven inlets of southern Puget Sound. They introduce both historical movement through these waterways and the museum’s role in community-directed public learning.",
     "sections": [
       {
         "title": "Identity and context",
@@ -45556,22 +46878,40 @@
           "p359-s2",
           "p359-s3"
         ]
+      },
+      {
+        "title": "Waterways connecting communities",
+        "text": "The museum describes canoe travel and exchange as connections among southern Puget Sound communities. Its history follows treaty-era confinement on Squaxin Island and later movement back toward mainland homes. Read this as a tribal museum’s account of historical experience, without treating one island or one administrative boundary as the whole people.",
+        "sourceIds": [
+          "p359-s1"
+        ]
+      },
+      {
+        "title": "A museum and library as starting points",
+        "text": "The museum presents its seven-inlet theme through exhibits, a public library and educational outreach. Its About account explains how staff work with schools and other museums to share community history and support learning. This public description offers a route into further reading; it does not grant unrestricted access to every object, recording or cultural practice.",
+        "sourceIds": [
+          "p9-squaxin-museum"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p359-s1",
-        "title": "History | Squaxin Island Museum Library and Research Center",
-        "publisher": "squaxinislandmuseum.org",
+        "title": "History — Squaxin Island Museum Library and Research Center",
+        "publisher": "Squaxin Island Museum Library and Research Center",
         "url": "https://squaxinislandmuseum.org/culture/history/",
-        "type": "Museum / archive",
+        "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Culture"
+          "Community history",
+          "Waterways",
+          "Historical perspectives"
         ],
-        "annotation": "Historical context for this entry. Read “History | Squaxin Island Museum Library and Research Center” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "The tribal museum’s first-person account connects maritime communities, travel, trade and treaty-era displacement in southern Puget Sound. It specifically names Hammersley Inlet in its regional history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete History narrative body, web lines19–38. Synthesis uses maritime connections and historical movement; oral narrative details, exact traditional routes and undated current-use/access statements are not republished.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. No original treaty, agency files or independent current resident/access checks inspected. Historical population estimates, present island access rules and individual community relationships require separate dated review."
       },
       {
         "id": "p359-s2",
@@ -45600,10 +46940,77 @@
         ],
         "annotation": "Historical context for this entry. Read “Squaxin Island - ILS Reentry” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-squaxin-museum",
+        "url": "https://squaxinislandmuseum.org/about/",
+        "title": "About — Squaxin Island Museum Library and Research Center",
+        "publisher": "Squaxin Island Museum Library and Research Center",
+        "type": "Indigenous-led",
+        "topics": [
+          "Cultural institutions",
+          "Education",
+          "Public history"
+        ],
+        "annotation": "A substantial institutional explanation links the museum’s seven-inlet theme with exhibits, a library, school outreach and public learning. It is the museum’s account of its purpose, not a current programme evaluation.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual full About body retrieved HTTP200 and read: opening institutional account, MLRC Features, Burke collaboration, Education and Cultural Activities. Commentary and navigation excluded.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. The web reader initially exposed little body text; ordinary local HTML supplied the complete body. No exhibits, library holdings, recordings, traditional knowledge or linked images inspected or licensed. Undated schedules/outcomes not verified."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p359-s1",
+      "p9-squaxin-museum"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read original treaty and agency records alongside community histories before extending chronology or legal conclusions.",
+      "Add individually attributed family and inlet-community perspectives; do not automatically treat historical labels as present governments.",
+      "Verify current island access and visitor conditions independently rather than repeating undated webpage rules.",
+      "Review actual public museum publications and language sources; a description of collections is not inspection or reuse permission."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original treaty and agency records alongside community histories before extending chronology or legal conclusions.",
+        "Add individually attributed family and inlet-community perspectives; do not automatically treat historical labels as present governments.",
+        "Verify current island access and visitor conditions independently rather than repeating undated webpage rules.",
+        "Review actual public museum publications and language sources; a description of collections is not inspection or reuse permission."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p359-s1",
+          "reason": "Begin with the museum’s maritime and treaty-era historical account."
+        },
+        {
+          "sourceId": "p9-squaxin-museum",
+          "reason": "Then use its explanation of the museum and library as a learning route."
+        }
+      ],
+      "imageRecordId": "c9-squaxin-hammersley-oakland"
+    }
   },
   {
     "originalId": 360,
@@ -45812,7 +47219,7 @@
     "name": "Suquamish",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Suquamish Tribe has homelands in the central Puget Sound region.",
+    "overview": "Suquamish histories center on the waterways of central Puget Sound and on Lushootseed-speaking village life. The Tribe and its museum explain both the disruption of communal places and continuing work to sustain community gathering.",
     "sections": [
       {
         "title": "Identity and context",
@@ -45829,22 +47236,40 @@
           "p363-s2",
           "p363-s3"
         ]
+      },
+      {
+        "title": "Villages and seasonal waterways",
+        "text": "The Tribe describes permanent winter villages near shorelines and seasonal travel by family canoes to fishing, hunting and gathering places. Its account connects Suquamish with other communities through language, relationships and exchange. This reading introduces those connections without turning a historical village list into present government boundaries.",
+        "sourceIds": [
+          "p363-s1"
+        ]
+      },
+      {
+        "title": "A place for community gathering",
+        "text": "The museum dates the dedication of the House of Awakened Culture to 2009 and explains it as a response to the loss of communal gathering space associated with Old Man House. It describes the building as a setting for community and intertribal events. Read this as a public institutional account; its artwork and ceremonies have separate permissions.",
+        "sourceIds": [
+          "p363-s3"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p363-s1",
-        "title": "History & Culture | The Suquamish Tribe",
-        "publisher": "suquamish.nsn.us",
+        "title": "History & Culture — Suquamish Tribe",
+        "publisher": "Suquamish Tribe",
         "url": "https://suquamish.nsn.us/home/about-us/history-culture/",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Culture"
+          "Community history",
+          "Language",
+          "Waterways"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History & Culture | The Suquamish Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "A substantial tribal account of village life, colonial disruption and rebuilding. Selected sections support a waterway-centered introduction; current legal interpretations and demographic comparisons are not independently established.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read introduction, timeline through Self Determination, Traditional Villages and Language. Synthesis uses village/seasonal movement and language context; no spiritual narrative or precise site inventory is republished.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Undated retrospective, not a current legal, population or programme-outcomes assessment. Linked maps, legislation, judgments and language recordings were not reviewed."
       },
       {
         "id": "p363-s2",
@@ -45862,20 +47287,73 @@
       },
       {
         "id": "p363-s3",
-        "title": "Historical Sites - Suquamish Museum",
-        "publisher": "suquamishmuseum.org",
+        "title": "Historical Sites — Suquamish Museum",
+        "publisher": "Suquamish Museum / Suquamish Tribe",
         "url": "https://suquamishmuseum.org/education/historical-sites/",
-        "type": "Museum / archive",
+        "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Community history",
+          "Cultural institutions"
         ],
-        "annotation": "Historical context for this entry. Read “Historical Sites - Suquamish Museum” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Selected museum accounts connect the House of Awakened Culture with communal gathering and the Old Man House legacy. This is the Tribe’s public interpretation, not a building-wide artwork license.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read House of Awakened Culture introductory paragraphs and Old Man House Park subsection; other named-site biographies and creation narrative are not used in the synthesis.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. No cemetery locations, ceremonial instructions or precise sensitive-site data republished. Museum photographs, poles, internal art and oral narratives were not copied or licensed."
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p363-s1",
+      "p363-s3"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read original treaty and land records alongside Suquamish interpretations before making legal or boundary claims.",
+      "Broaden family and community-authored language and historical scholarship beyond these two institutional accounts.",
+      "Review current programmes separately; undated descriptions do not establish present outcomes.",
+      "The wharf image is a historical place view with conflicting catalogue dates, not a named-member or Indigenous-vessel portrait."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original treaty and land records alongside Suquamish interpretations before making legal or boundary claims.",
+        "Broaden family and community-authored language and historical scholarship beyond these two institutional accounts.",
+        "Review current programmes separately; undated descriptions do not establish present outcomes.",
+        "The wharf image is a historical place view with conflicting catalogue dates, not a named-member or Indigenous-vessel portrait."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p363-s1",
+          "reason": "Start with the Tribe’s account of village life and historical change."
+        },
+        {
+          "sourceId": "p363-s3",
+          "reason": "Then read its museum’s interpretation of renewed communal space."
+        }
+      ],
+      "imageRecordId": "c9-suquamish-wharf"
+    }
   },
   {
     "originalId": 364,
@@ -49950,7 +51428,7 @@
     "name": "Tulalip",
     "region": "Pacific Northwest / Washington",
     "kind": "Wider grouping / peoples",
-    "overview": "The Tulalip Tribes is a contemporary confederated government in the Puget Sound region.",
+    "overview": "The Tulalip Tribes brings together histories of Snohomish, Snoqualmie, Skykomish and allied peoples. These readings pair a community-authored account of organizing with Hibulb Cultural Center’s approach to public cultural education.",
     "sections": [
       {
         "title": "Identity and context",
@@ -49966,21 +51444,40 @@
           "p409-s1",
           "p409-s2"
         ]
+      },
+      {
+        "title": "Community histories of organizing",
+        "text": "An account credited to Wayne Williams, George Williams, Bernice Williams and Arnold McKay describes elders choosing representatives for intertribal meetings and later efforts to build a tribal government. It follows collective fundraising, council organization and land reacquisition. These are the named authors’ historical account; the original legal and administrative records remain further reading.",
+        "sourceIds": [
+          "p409-s1"
+        ]
+      },
+      {
+        "title": "Tulalip-led interpretation at Hibulb",
+        "text": "Hibulb’s teacher guide introduces the histories of the peoples connected with Tulalip through English and Lushootseed interpretation. Its gallery guide brings waterways, canoes, schooling and community history into an educational path. Reading this guide does not mean the directory has examined its objects, heard its recordings or obtained permission to reproduce its displays.",
+        "sourceIds": [
+          "p9-tulalip-hibulb-guide"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p409-s1",
         "title": "Tulalip History",
-        "publisher": "tulaliptribes-nsn.gov",
+        "publisher": "The Tulalip Tribes",
         "url": "https://www.tulaliptribes-nsn.gov/WhoWeAre/History",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History"
+          "Community history",
+          "Education",
+          "Government"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tulalip History” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Two substantial narratives describe boarding-school experiences and twentieth-century organizing. The second is credited to Wayne Williams, George Williams, Bernice Williams and Arnold McKay; their historical interpretation remains attributed.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete Life in the Tulalip Indian Boarding School and Tulalip History Since World War I narrative units, including text after More controls. The separate chronology is not used as an independently checked timeline.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Original school records, constitutional documents, litigation and land transactions were not independently inspected. No current finances, officeholders, legal holdings or universal constituent-community views are inferred."
       },
       {
         "id": "p409-s2",
@@ -49995,12 +51492,79 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “The Tulalip Tribes” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-tulalip-hibulb-guide",
+        "url": "https://www.hibulbculturalcenter.org/Base/File/HCC-EducationTeachingResources-Guide-20240910",
+        "title": "Teacher Resource Guide — Hibulb Cultural Center",
+        "publisher": "Hibulb Cultural Center and Natural History Preserve",
+        "type": "Indigenous-led",
+        "topics": [
+          "Cultural institutions",
+          "Education",
+          "Language"
+        ],
+        "annotation": "Selected guide pages explain Hibulb’s mission, bilingual interpretation and public gallery themes. The guide offers a purposeful route into Tulalip-led education without granting reproduction rights to displays or images.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual8-page PDF: selected PDFpp3,5–7 (printed2,4–6), especially About Us/Main Gallery, stop guide and photography/publication conditions. Planning details are not current visitor advice.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Normal HTTP200 full file retrieved; only stated selected pages reviewed. No gallery visit, video viewing or underlying object inspection. PDFp5 requires prior written permission for image publication; no exhibit image is reused."
       }
     ],
     "relatedOriginalIds": [
       354
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p409-s1",
+      "p9-tulalip-hibulb-guide"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Add individually scoped histories from constituent communities rather than treating one institutional narrative as every person’s experience.",
+      "Read original school, government and land records before extending chronology or legal conclusions.",
+      "Verify current educational outcomes and visitor conditions independently; the selected guide is not a live schedule.",
+      "The dated Priest Point view is regional place context; its camera is described as at a cemetery, but no graves or markers are visible. No access or territorial claim follows."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add individually scoped histories from constituent communities rather than treating one institutional narrative as every person’s experience.",
+        "Read original school, government and land records before extending chronology or legal conclusions.",
+        "Verify current educational outcomes and visitor conditions independently; the selected guide is not a live schedule.",
+        "The dated Priest Point view is regional place context; its camera is described as at a cemetery, but no graves or markers are visible. No access or territorial claim follows."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p409-s1",
+          "reason": "Begin with attributed community histories of schooling and organizing."
+        },
+        {
+          "sourceId": "p9-tulalip-hibulb-guide",
+          "reason": "Then follow a Tulalip-led museum’s educational interpretation."
+        }
+      ],
+      "imageRecordId": "c9-tulalip-priest-point"
+    }
   },
   {
     "originalId": 410,
@@ -55514,7 +57078,7 @@
     "name": "Samish",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Samish Indian Nation is a contemporary nation with enduring relationships to the northern Salish Sea region.",
+    "overview": "The Samish Indian Nation’s public account places family, house, village and wider tribal relationships within the Salish Sea region. This guide pairs that historical and cultural introduction with selected accounts of water-quality monitoring and nearshore fish surveys. The Nation’s interpretation and program descriptions remain distinct from independently checked legal conclusions or measured restoration outcomes.",
     "sections": [
       {
         "title": "Identity and context",
@@ -55530,6 +57094,20 @@
           "added-s1",
           "added-s2",
           "added-s3"
+        ]
+      },
+      {
+        "title": "Family and village relationships in a coastal world",
+        "text": "The Nation’s cultural account describes family, house group, village and tribe as connected levels of Samish social life. It places Samish language within Straits Salish and explains the importance of relationships beyond one home community. Its account also connects coastal foods and shore environments with continuing identity. Read this as the Nation’s interpretation, alongside the fuller histories still to be reviewed; the directory has not adopted its historical population estimates or adjudicated legal claims.",
+        "sourceIds": [
+          "p9-samish-culture"
+        ]
+      },
+      {
+        "title": "Following public monitoring work at Fidalgo Bay",
+        "text": "The Natural Resources Department reports water-quality sampling in Fidalgo Bay and its streams beginning in 2005, and describes subsequent collaboration with Anacortes on stormwater concerns. Its beach-seining section explains surveys intended to understand nearshore fish use and evaluate habitat restoration. These project descriptions show how readers can follow the Nation’s environmental work. The linked reports and raw data require separate inspection before drawing conclusions about improvement or conditions today.",
+        "sourceIds": [
+          "p9-samish-water"
         ]
       }
     ],
@@ -55575,19 +57153,102 @@
         ],
         "annotation": "Historical context for this entry. Read “Testimony of Tom Wooten, Chairman, Samish Indian Nation” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-samish-culture",
+        "title": "Samish Culture",
+        "publisher": "Samish Indian Nation",
+        "url": "https://www.samishtribe.nsn.us/who-we-are/culture",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Names and communities",
+          "Coastal relationships"
+        ],
+        "annotation": "Selected actual historical and cultural body discusses Coast Salish/Straits Salish context, kin relationships, household and village groupings, and connections with coastal resources. The Nation’s account is attributed; historical population estimates and its interpretation of court proceedings are not adopted as independent findings.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Samish Culture and Our Relationship With Nature body, reader lines 154–165. Later legal-history discussion was encountered but underlying decisions not inspected or summarized as holdings; linked film, images and ceremonial details not used.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
+      },
+      {
+        "id": "p9-samish-water",
+        "title": "Water Quality & Beach Seining Projects",
+        "publisher": "Samish Indian Nation Department of Natural Resources",
+        "url": "https://www.samishtribe.nsn.us/departments/environment/water-quality-and-beach-seining",
+        "type": "Indigenous-led",
+        "topics": [
+          "Stewardship",
+          "Waterways",
+          "Environmental monitoring"
+        ],
+        "annotation": "Selected project descriptions explain Fidalgo Bay monitoring, collaboration on stormwater concerns, and nearshore fish surveys used to evaluate habitat work. Lake Campbell and Thomas Creek sections were also read. Goals, monitoring activities and reported start dates are not claims of independently verified ecological improvement.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual project body, reader lines 151–171: Fidalgo Bay water quality, Lake Campbell, Thomas Creek and Fidalgo Bay beach seining. Linked 2005–2018/2015–2019 data-summary reports, raw sampling data, maps and project photographs not inspected.",
+        "accessNotes": "Actual selected public HTML body read through the web reader; no login or paywall encountered. Linked publications, underlying archives, video/audio and photographs were not thereby fully inspected or cleared for reproduction."
       }
     ],
     "relatedOriginalIds": [
       326
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p9-samish-culture",
+      "p9-samish-water"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Inspect selected original historical records, linguistic studies and Nation-published archive material.",
+      "Read the linked environmental reports and data before assessing monitoring results or restoration outcomes.",
+      "Review Samish legal-history primary documents separately; do not merge the Nation with neighboring Coast Salish governments or every historical descendant."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Inspect selected original historical records, linguistic studies and Nation-published archive material.",
+        "Read the linked environmental reports and data before assessing monitoring results or restoration outcomes.",
+        "Review Samish legal-history primary documents separately; do not merge the Nation with neighboring Coast Salish governments or every historical descendant."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p9-samish-culture",
+          "reason": "Begin with the Nation’s account of language, kin and village relationships."
+        },
+        {
+          "sourceId": "p9-samish-water",
+          "reason": "Then follow a specific public environmental-monitoring and nearshore survey program."
+        }
+      ],
+      "imageRecordId": "c9-samish-fidalgo-bay"
+    }
   },
   {
     "added": true,
     "name": "Stillaguamish",
     "region": "Pacific Northwest / Washington",
     "kind": "People / community",
-    "overview": "The Stillaguamish Tribe has enduring relationships with its river homeland in western Washington.",
+    "overview": "The Stillaguamish Tribe’s own history centers on its river and the north and south forks. Its historical and cultural-department accounts offer a starting path into continuing community relationships, government and the care of cultural knowledge.",
     "sections": [
       {
         "title": "Identity and context",
@@ -55604,22 +57265,40 @@
           "added-s2",
           "added-s3"
         ]
+      },
+      {
+        "title": "People remaining with their river",
+        "text": "The Tribe’s history describes ancestors living along the Stillaguamish River and both forks. It explains that some families moved to Tulalip while others remained in the river area, and records federal acknowledgement in 1976. This account helps distinguish Stillaguamish continuity from a simple story of relocation or disappearance. Original governmental records remain a separate research task.",
+        "sourceIds": [
+          "added-s1"
+        ]
+      },
+      {
+        "title": "Archives, landscapes and learning",
+        "text": "The Cultural Resources Department’s 2022 account links archive keeping and protection of cultural places with community learning activities, including language workshops. It presents these as responsibilities of a living community institution. The directory has not assessed later programme availability or outcomes, and its public description does not make every cultural record unrestricted.",
+        "sourceIds": [
+          "p9-stillaguamish-cultural-resources"
+        ]
       }
     ],
     "sources": [
       {
         "id": "added-s1",
-        "title": "Our History - Stillaguamish Tribe",
+        "title": "Our History — Stillaguamish Tribe",
         "url": "https://www.stillaguamish.com/our-history/",
-        "publisher": "stillaguamish.com",
+        "publisher": "Stillaguamish Tribe of Indians",
         "type": "Indigenous-led",
         "topics": [
-          "Identity",
-          "History",
-          "Language"
+          "Community history",
+          "Waterways",
+          "Government"
         ],
-        "annotation": "Read this community or institutional account for the named entry. Its scope may cover one constituent community; compare the naming notes and other sources before generalizing.",
-        "accessed": "2026-10-19"
+        "annotation": "The March5,2026-updated account names the Stillaguamish River and both forks, describes families remaining near the river, and narrates governmental acknowledgement. Tracey Boser is credited for its cultural-history section.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read complete historical body: introductory paragraphs, Land Acknowledgement Example and Tribal History by Tracey Boser, web lines35–66. Synthesis uses river relationships and the stated 1976 acknowledgement, not precise village sites or restricted practices.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. Original acknowledgement files, land records and current legal powers were not reviewed. Geological dates, current acreage/totals and ceremonial/medicinal particulars are not adopted. No source photographs copied."
       },
       {
         "id": "added-s2",
@@ -55647,12 +57326,81 @@
         ],
         "annotation": "Historical context for this entry. Read “Stillaguamish - ILS Reentry” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p9-stillaguamish-cultural-resources",
+        "url": "https://www.stillaguamish.com/departmentprogramservice/cultural-resources/",
+        "title": "Cultural Resources Department — Stillaguamish Tribe",
+        "publisher": "Stillaguamish Tribe of Indians",
+        "type": "Indigenous-led",
+        "topics": [
+          "Cultural preservation",
+          "Archives",
+          "Education"
+        ],
+        "annotation": "The January11,2022-updated departmental account describes archive keeping, cultural-landscape protection and community learning activities. It records institutional responsibilities, not measured present outcomes.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Overview and department functions/activities, web lines35–57. The separate Chief Seattle-attributed quotation is excluded from synthesis and not verified or reproduced.",
+        "accessNotes": "Public source body inspected through the web reader and/or a normal HTTP200 local copy. Linked recordings, original records, objects and photographs were not automatically inspected or licensed. No login, paywall bypass or outreach. A dated institutional statement, not a current events calendar. No ceremonial content, underlying archives, workshops, recordings, photographs or historical quotation provenance inspected."
       }
     ],
     "relatedOriginalIds": [
       354
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "added-s1",
+      "p9-stillaguamish-cultural-resources"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Read original acknowledgement and land records before extending recognition chronology, jurisdiction or boundary claims.",
+      "Broaden Stillaguamish-authored language, family and environmental history, retaining individual speakers and periods.",
+      "Check later departmental accounts before reporting current activities or measured outcomes.",
+      "The Chief Seattle-attributed quotation on the department page was not used; its provenance needs separate verification.",
+      "South Fork river image is a modern landscape setting, not a reconstruction of a named historical village or a present reservation boundary."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original acknowledgement and land records before extending recognition chronology, jurisdiction or boundary claims.",
+        "Broaden Stillaguamish-authored language, family and environmental history, retaining individual speakers and periods.",
+        "Check later departmental accounts before reporting current activities or measured outcomes.",
+        "The Chief Seattle-attributed quotation on the department page was not used; its provenance needs separate verification.",
+        "South Fork river image is a modern landscape setting, not a reconstruction of a named historical village or a present reservation boundary."
+      ]
+    },
+    "evidenceNotes": [
+      "Cohort09: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+    ],
+    "startingGuide": {
+      "batchId": "starter-guides-09",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "added-s1",
+          "reason": "Start with the Tribe’s own history of river continuity and government."
+        },
+        {
+          "sourceId": "p9-stillaguamish-cultural-resources",
+          "reason": "Then read its dated account of cultural care and learning."
+        }
+      ],
+      "imageRecordId": "c9-stillaguamish-south-fork"
+    }
   },
   {
     "added": true,
