@@ -1,0 +1,447 @@
+{
+  "batchId": "starter-guides-03",
+  "reviewedAt": "2026-10-27",
+  "baselineSourceCommit": "fca7a2de4a4fe1fc7d1e702c77882a279b456dd1",
+  "profiles": [
+    {
+      "name": "Kitsai",
+      "slug": "kitsai",
+      "selectedSourceIds": [
+        "c03-kitsai-tsha",
+        "p431-s1"
+      ],
+      "addedSourceIds": [
+        "c03-kitsai-tsha",
+        "p431-s1",
+        "c03-brazos-reservation-place-support"
+      ],
+      "retainedOriginalSources": 2,
+      "retainedSubstantiveSections": 3,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p431-s1",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Complete main narratives of In the Beginning:1540–1750 (lines27–38), People of the Grass House:1750–1820 (27–39), Days of Darkness:1820–1934 (27–37), and A New Beginning:1934–Present (27–38), plus References and Contributors (27–91). Public narrative passages read; no quoted origin stories, ceremonial details, images or underlying bibliography reproduced or separately researched.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        }
+      ],
+      "imageRecordId": "kitsai-fort-belknap-context"
+    },
+    {
+      "name": "Tittabawassee Ojibwe communities",
+      "slug": "tittabawassee-ojibwe-communities",
+      "selectedSourceIds": [
+        "t1",
+        "t2",
+        "t5"
+      ],
+      "addedSourceIds": [],
+      "retainedOriginalSources": 9,
+      "retainedSubstantiveSections": 7,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "tittabawassee-context-ziibiwing-strait-2024"
+    },
+    {
+      "name": "Saginaw Chippewa Indian Tribe of Michigan",
+      "slug": "saginaw-chippewa-indian-tribe-of-michigan",
+      "selectedSourceIds": [
+        "t1"
+      ],
+      "addedSourceIds": [
+        "t1"
+      ],
+      "retainedOriginalSources": 1,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "t1",
+          "origin": {
+            "slug": "tittabawassee-ojibwe-communities"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object, original review date and selected scope retained; not a new global work or full-source rereading."
+        }
+      ],
+      "imageRecordId": "saginaw-ziibiwing-strait-2024"
+    },
+    {
+      "name": "Bay Mills Indian Community",
+      "slug": "bay-mills-indian-community",
+      "selectedSourceIds": [
+        "c3-bm-history",
+        "c3-bm-college"
+      ],
+      "addedSourceIds": [
+        "c3-bm-history",
+        "c3-bm-college",
+        "c3-bm-organization"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "bay-mills-college-rossograph-2019-preview"
+    },
+    {
+      "name": "Grand Traverse Band of Ottawa and Chippewa Indians",
+      "slug": "grand-traverse-band-of-ottawa-and-chippewa-indians",
+      "selectedSourceIds": [
+        "c3-gtb-history",
+        "c3-gtb-museum"
+      ],
+      "addedSourceIds": [
+        "c3-gtb-history",
+        "c3-gtb-museum"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "gtb-turtle-creek-coveyou-2016-preview"
+    },
+    {
+      "name": "Hannahville Indian Community",
+      "slug": "hannahville-indian-community",
+      "selectedSourceIds": [
+        "hannahville-history-20261027"
+      ],
+      "addedSourceIds": [
+        "hannahville-history-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "hannahville-marksman-frontispiece"
+    },
+    {
+      "name": "Keweenaw Bay Indian Community",
+      "slug": "keweenaw-bay-indian-community",
+      "selectedSourceIds": [
+        "c3-kb-constitution",
+        "c3-kb-preservation",
+        "c3-kb-health"
+      ],
+      "addedSourceIds": [
+        "c3-kb-constitution",
+        "c3-kb-preservation",
+        "c3-kb-health"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "kbic-restoration-usfs-2024"
+    },
+    {
+      "name": "Lac Vieux Desert Band of Lake Superior Chippewa Indians",
+      "slug": "lac-vieux-desert-band-of-lake-superior-chippewa-indians",
+      "selectedSourceIds": [
+        "c3-lvd-history",
+        "c3-lvd-thpo"
+      ],
+      "addedSourceIds": [
+        "c3-lvd-history",
+        "c3-lvd-thpo"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "lac-vieux-desert-markheffron2-2007-preview"
+    },
+    {
+      "name": "Little River Band of Ottawa Indians",
+      "slug": "little-river-band-of-ottawa-indians",
+      "selectedSourceIds": [
+        "mi-sturgeon-partnerships-20261027"
+      ],
+      "addedSourceIds": [
+        "mi-sturgeon-partnerships-20261027",
+        "lrboi-identification-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "little-river-maple-research-degabriele"
+    },
+    {
+      "name": "Little Traverse Bay Bands of Odawa Indians",
+      "slug": "little-traverse-bay-bands-of-odawa-indians",
+      "selectedSourceIds": [
+        "an14-c3",
+        "ltbb-preamble-nni-20261027"
+      ],
+      "addedSourceIds": [
+        "an14-c3",
+        "ltbb-preamble-nni-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "an14-c3",
+          "origin": {
+            "slug": "anishinaabe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object, original review date and selected scope retained; not a new global work or full-source rereading."
+        }
+      ],
+      "imageRecordId": "ltbb-odawa-casino-construction-abarndweller-2006"
+    },
+    {
+      "name": "Match-E-Be-Nash-She-Wish Band of Potawatomi Indians",
+      "slug": "matchebenashshewish-band-of-potawatomi-indians",
+      "selectedSourceIds": [
+        "gunlake-heritage-20261027",
+        "mi-sturgeon-partnerships-20261027"
+      ],
+      "addedSourceIds": [
+        "gunlake-heritage-20261027",
+        "mi-sturgeon-partnerships-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "gun-lake-sturgeon-elliot-2022"
+    },
+    {
+      "name": "Nottawaseppi Huron Band of Potawatomi Indians",
+      "slug": "nottawaseppi-huron-band-of-potawatomi-indians",
+      "selectedSourceIds": [
+        "nhbp-history-20261027"
+      ],
+      "addedSourceIds": [
+        "nhbp-history-20261027",
+        "nhbp-firekeepers-context-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "nhbp-firekeepers-rawmustard-2009"
+    },
+    {
+      "name": "Pokagon Band of Potawatomi Indians",
+      "slug": "pokagon-band-of-potawatomi-indians",
+      "selectedSourceIds": [
+        "an14-c2",
+        "pokagon-letter-chm-20261027"
+      ],
+      "addedSourceIds": [
+        "an14-c2",
+        "pokagon-letter-chm-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "an14-c2",
+          "origin": {
+            "slug": "anishinaabe"
+          },
+          "originalSourceObjectPreserved": true,
+          "inspectionBasis": "Exact previously inspected source object, original review date and selected scope retained; not a new global work or full-source rereading."
+        }
+      ],
+      "imageRecordId": "pokagon-simon-portrait-chicago-history"
+    },
+    {
+      "name": "Sault Ste. Marie Tribe of Chippewa Indians",
+      "slug": "sault-ste-marie-tribe-of-chippewa-indians",
+      "selectedSourceIds": [
+        "c3-sault-history",
+        "c3-sault-culture"
+      ],
+      "addedSourceIds": [
+        "c3-sault-history",
+        "c3-sault-culture"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "sault-kewadin-gpwitteveen-preview"
+    },
+    {
+      "name": "Blackfeet Tribe of the Blackfeet Indian Reservation of Montana",
+      "slug": "blackfeet-tribe-of-the-blackfeet-indian-reservation-of-montana",
+      "selectedSourceIds": [
+        "c3-blackfeet-culture",
+        "c3-blackfeet-water"
+      ],
+      "addedSourceIds": [
+        "c3-blackfeet-culture",
+        "c3-blackfeet-water"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "blackfeet-conservation-nrcs-2012"
+    },
+    {
+      "name": "Waco",
+      "slug": "waco",
+      "selectedSourceIds": [
+        "c03-waco-ohs",
+        "p431-s1"
+      ],
+      "addedSourceIds": [
+        "c03-waco-ohs",
+        "p431-s1",
+        "c03-waco-city-brazos-support"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p431-s1",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Complete main narratives of In the Beginning:1540–1750 (lines27–38), People of the Grass House:1750–1820 (27–39), Days of Darkness:1820–1934 (27–37), and A New Beginning:1934–Present (27–38), plus References and Contributors (27–91). Public narrative passages read; no quoted origin stories, ceremonial details, images or underlying bibliography reproduced or separately researched.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        }
+      ],
+      "imageRecordId": "waco-brazos-barera-2016-context"
+    },
+    {
+      "name": "Tawakoni",
+      "slug": "tawakoni",
+      "selectedSourceIds": [
+        "c03-tawakoni-tsha",
+        "p431-s1"
+      ],
+      "addedSourceIds": [
+        "c03-tawakoni-tsha",
+        "p431-s1",
+        "c03-brazos-reservation-place-support"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p431-s1",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Complete main narratives of In the Beginning:1540–1750 (lines27–38), People of the Grass House:1750–1820 (27–39), Days of Darkness:1820–1934 (27–37), and A New Beginning:1934–Present (27–38), plus References and Contributors (27–91). Public narrative passages read; no quoted origin stories, ceremonial details, images or underlying bibliography reproduced or separately researched.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        }
+      ],
+      "imageRecordId": "tawakoni-fort-belknap-context"
+    },
+    {
+      "name": "Taovaya",
+      "slug": "taovaya",
+      "selectedSourceIds": [
+        "c03-taovaya-tsha",
+        "p431-s1"
+      ],
+      "addedSourceIds": [
+        "c03-taovaya-tsha",
+        "p431-s1"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p431-s1",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Complete main narratives of In the Beginning:1540–1750 (lines27–38), People of the Grass House:1750–1820 (27–39), Days of Darkness:1820–1934 (27–37), and A New Beginning:1934–Present (27–38), plus References and Contributors (27–91). Public narrative passages read; no quoted origin stories, ceremonial details, images or underlying bibliography reproduced or separately researched.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        }
+      ],
+      "imageRecordId": "taovaya-related-wichita-lodge-context"
+    },
+    {
+      "name": "Hasinai",
+      "slug": "hasinai",
+      "selectedSourceIds": [
+        "p38-s8",
+        "c03-hasinai-tsha",
+        "p38-s3"
+      ],
+      "addedSourceIds": [
+        "p38-s8",
+        "c03-hasinai-tsha",
+        "p38-s3"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p38-s8",
+          "originalContentReviewedAt": "2026-10-22",
+          "originalContentReviewScope": "The full visible page and the separate credits page were read. Its account is Carter’s researched and written synthesis; underlying cited archives and all referenced books were not independently reviewed.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        },
+        {
+          "sourceId": "p38-s3",
+          "originalContentReviewedAt": "2026-10-22",
+          "originalContentReviewScope": "The full visible history article and its listed chronology were read. Interpretations of why the center was vacated remain attributed to the site’s archaeological account.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        }
+      ],
+      "imageRecordId": "hasinai-caddo-mounds-museum-moore-2026"
+    },
+    {
+      "name": "Cadohadacho",
+      "slug": "cadohadacho",
+      "selectedSourceIds": [
+        "p38-s8",
+        "p38-s14"
+      ],
+      "addedSourceIds": [
+        "p38-s8",
+        "p38-s14"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p38-s8",
+          "originalContentReviewedAt": "2026-10-22",
+          "originalContentReviewScope": "The full visible page and the separate credits page were read. Its account is Carter’s researched and written synthesis; underlying cited archives and all referenced books were not independently reviewed.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        },
+        {
+          "sourceId": "p38-s14",
+          "originalContentReviewedAt": "2026-10-22",
+          "originalContentReviewScope": "The complete visible encyclopedia article, author attribution, publication date, and bibliography were read. Its references are not independently inspected here.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact existing inspected source object preserved. Selection for this historical-community route does not claim a fresh whole-source review or another global work. Only specifically relevant statements are synthesized."
+        }
+      ],
+      "imageRecordId": "cadohadacho-red-river-nunnally-2012-context"
+    }
+  ],
+  "sourceContextsAdded": 42,
+  "selectedReadingRoutes": 39,
+  "imageIds": [
+    "kitsai-fort-belknap-context",
+    "waco-brazos-barera-2016-context",
+    "tawakoni-fort-belknap-context",
+    "hasinai-caddo-mounds-museum-moore-2026",
+    "cadohadacho-red-river-nunnally-2012-context",
+    "taovaya-related-wichita-lodge-context",
+    "blackfeet-conservation-nrcs-2012",
+    "kbic-restoration-usfs-2024",
+    "bay-mills-college-rossograph-2019-preview",
+    "lac-vieux-desert-markheffron2-2007-preview",
+    "sault-kewadin-gpwitteveen-preview",
+    "gtb-turtle-creek-coveyou-2016-preview",
+    "saginaw-ziibiwing-strait-2024",
+    "tittabawassee-context-ziibiwing-strait-2024",
+    "nhbp-firekeepers-rawmustard-2009",
+    "ltbb-odawa-casino-construction-abarndweller-2006",
+    "pokagon-simon-portrait-chicago-history",
+    "little-river-maple-research-degabriele",
+    "gun-lake-sturgeon-elliot-2022",
+    "hannahville-marksman-frontispiece"
+  ],
+  "preservation": {
+    "unrelatedRawProfilesObjectEqual": 854,
+    "originalSourceObjectsRetained": true,
+    "priorSubstantiveSectionsRetained": 10,
+    "originalIdentityEvidenceRetained": true,
+    "originalImageRecordsRetained": true
+  }
+}
