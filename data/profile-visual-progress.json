@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 231,
+    "selectedProfiles": 251,
     "existingApache": 1,
-    "newProfileTreatments": 230,
-    "newTreatmentsWithPhotographs": 224,
+    "newProfileTreatments": 250,
+    "newTreatmentsWithPhotographs": 244,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -3002,6 +3002,82 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "cayuga",
+      "name": "Cayuga",
+      "originalId": 44,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 243,
+      "angle": -15,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "c12-cayuga-photo",
+          "profileSlugs": [
+            "cayuga"
+          ],
+          "mediaType": "photograph",
+          "title": "Cayuga Lake, May 2025",
+          "creator": "Acurarri",
+          "archive": "Wikimedia Commons; exact photographer/provider item",
+          "date": "2025-05-10",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cayuga_Lake,_May_2025.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Cayuga_Lake%2C_May_2025.jpg/960px-Cayuga_Lake%2C_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cayuga_Lake%2C_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cayuga_Lake%2C_May_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Acurarri / Wikimedia Commons — CC BY-SA 4.0",
+          "cardCredit": "Acurarri — CC BY-SA 4.0",
+          "scope": "Modern Cayuga Lake regional view. The selected 2014 Cayuga council schoolhouse article explicitly connects language/place discussion with Cayuga Lake; the photograph is not a present government boundary, exact former village or image of all Cayuga communities. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Gayogoho:nǫ’ News, December 31, 2014 — cultural schoolhouse article, p5",
+              "url": "https://www.haudenosauneeconfederacy.com/wp-content/uploads/2014/12/Newsletter-12.31.14.FINAL-1.pdf",
+              "inspectionScope": "Actual 12-page PDF: selected complete schoolhouse article on printed/PDF p5, checked in extracted text and a rendered page image. Masthead p1 and surrounding pp1–4 were encountered to establish publication and political perspective."
+            }
+          ],
+          "alt": "A broad blue lake between wooded hills, seen above leafy green trees under a pale blue sky.",
+          "asset": "assets/profile-visuals/c12-cayuga-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-cayuga-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact record identification, creator, date and media-specific licensing read through normal HTTP200. Assigned researcher independently viewed complete local delivered pixels using view_image.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×720 provider-listed 960px preview delivered normally HTTP200 and individually viewed by the assigned researcher. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation. CSS may crop/overlay in display; the complete delivered frame remains available. Hashes identify the actual delivered file. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "a495312af61026a57d809e4368377bf1487d44893f032e07c9040cdc729ce298"
+          },
+          "width": 960,
+          "height": 720,
+          "bytes": 188554,
+          "inputFileSha256": "a495312af61026a57d809e4368377bf1487d44893f032e07c9040cdc729ce298",
+          "retrievedSourceSha256": "a495312af61026a57d809e4368377bf1487d44893f032e07c9040cdc729ce298",
+          "assetSha256": "a495312af61026a57d809e4368377bf1487d44893f032e07c9040cdc729ce298"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:243;--profile-angle:-15deg;--profile-photo:url(\"../../assets/profile-visuals/c12-cayuga-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "cayuse",
       "name": "Cayuse",
       "originalId": 45,
@@ -4088,6 +4164,76 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 12
+    },
+    {
+      "slug": "cochiti-pueblo",
+      "name": "Cochiti Pueblo",
+      "originalId": 80,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 322,
+      "angle": -50,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Kasha-Katuwe landscape, June 2014",
+          "creator": "VitaleBaby",
+          "date": "2014-06",
+          "rightsLabel": "CC BY 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "archive": "Wikimedia Commons",
+          "scope": "Specifically identified Kasha-Katuwe vista. Cochiti’s own Tent Rocks account documents continuing community landscape relationships. A public landscape, not a village portrait, precise boundary or visitor permission. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Tent Rocks — selected Pueblo account of cultural landscape and stewardship",
+              "url": "https://cochiti.org/tent-rocks/",
+              "inspectionScope": "Actual About the Monument opening two paragraphs and concluding stewardship paragraphs: reader lines2–3 and46–47. Visitor rules were encountered but are not reproduced as access advice."
+            }
+          ],
+          "id": "c12-cochiti-pueblo-photo",
+          "profileSlugs": [
+            "cochiti-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasha_katuwe_vista.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Kasha_katuwe_vista.jpg/960px-Kasha_katuwe_vista.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kasha_katuwe_vista.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-cochiti-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-cochiti-pueblo-photo.jpg",
+          "credit": "VitaleBaby / Wikimedia Commons · CC BY 3.0",
+          "cardCredit": "Photo: VitaleBaby · CC BY 3.0",
+          "recordInspection": "Actual item identification, creator/date and media-specific rights statement read. MetadataCC 0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "A broad landscape overlooks eroded pale rock formations and scrub-covered plains, with distant hills below a blue sky.",
+          "reproductionNote": "Exact record-exposed provider preview retrieved normally HTTP200 by root and complete available delivered frame personally viewed with view_image by the Southwest reviewer. Larger original pixels uninspected. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; card and backdrop CSS may crop or overlay while the full available frame remains accessible proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 720,
+          "inputFileSha256": "72c01e5f4c41a4e88621e593772cc259a8c87783ae623d6ce68c10e00ac51420",
+          "retrievedSourceSha256": "72c01e5f4c41a4e88621e593772cc259a8c87783ae623d6ce68c10e00ac51420",
+          "assetSha256": "72c01e5f4c41a4e88621e593772cc259a8c87783ae623d6ce68c10e00ac51420",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "72c01e5f4c41a4e88621e593772cc259a8c87783ae623d6ce68c10e00ac51420"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:322;--profile-angle:-50deg;--profile-photo:url(\"../../assets/profile-visuals/c12-cochiti-pueblo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "coeur-dalene",
@@ -5964,6 +6110,76 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "havasupai",
+      "name": "Havasupai",
+      "originalId": 125,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 331,
+      "angle": 1,
+      "composition": "wash",
+      "images": [
+        {
+          "title": "Arizona—Havasu Falls, May 1972",
+          "creator": "Terry Eiler (Terrill Eiler)",
+          "date": "1972-05",
+          "rightsLabel": "Public domain — EPA official-duty image, as specified by the media record",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-EPA",
+          "archive": "U.S. National Archives, DOCUMERICA; NAID 544101 /412-DA-1608",
+          "scope": "NARA-identified Havasu Falls landscape. The Tribe’s Supai account specifically connects community life with these canyon waters. Historical scenery, not present access or water-safety advice. Three ordinary swimmers/visitors visible in the historical frame remain unidentified; no Tribal affiliation, relationship or age is inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About Supai — selected community and water introduction",
+              "url": "https://theofficialhavasupaitribe.com/About-Supai/about-supai.html",
+              "inspectionScope": "Actual complete two-paragraph About Supai body, especially opening name, water and agriculture sentences. Acreage, travel instructions and duration superlatives are not adopted."
+            }
+          ],
+          "id": "c12-havasupai-photo",
+          "profileSlugs": [
+            "havasupai"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ARIZONA-HAVASU_FALLS_-_NARA_-_544101.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/ARIZONA-HAVASU_FALLS_-_NARA_-_544101.jpg/960px-ARIZONA-HAVASU_FALLS_-_NARA_-_544101.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/ARIZONA-HAVASU_FALLS_-_NARA_-_544101.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-havasupai-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-havasupai-photo.jpg",
+          "credit": "Terry Eiler (Terrill Eiler) / U.S. National Archives, DOCUMERICA; NAID 544101 /412-DA-1608 · Public domain — EPA official-duty image, as specified by the media record",
+          "cardCredit": "Photo: Terry Eiler (Terrill Eiler) · Public domain — EPA official-duty image, as specified by the media record",
+          "recordInspection": "Actual item identification, creator/date and media-specific rights statement read. MetadataCC 0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "A waterfall descends into a turquoise pool where three unidentified people swim or sit near the shore; trees and exposed roots frame the view.",
+          "reproductionNote": "Exact record-exposed provider preview retrieved normally HTTP200 by root and complete available delivered frame personally viewed with view_image by the Southwest reviewer. Larger original pixels uninspected. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; card and backdrop CSS may crop or overlay while the full available frame remains accessible proportionally. Original-looking rounded slide edges and black border in the delivered preview are retained. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 1419,
+          "inputFileSha256": "586e0458145a476e6e97321ed3238ba9f5030811089b0ac3d6bbdc31c656e18b",
+          "retrievedSourceSha256": "586e0458145a476e6e97321ed3238ba9f5030811089b0ac3d6bbdc31c656e18b",
+          "assetSha256": "586e0458145a476e6e97321ed3238ba9f5030811089b0ac3d6bbdc31c656e18b",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "586e0458145a476e6e97321ed3238ba9f5030811089b0ac3d6bbdc31c656e18b"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:331;--profile-angle:1deg;--profile-photo:url(\"../../assets/profile-visuals/c12-havasupai-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "heiltsuk",
       "name": "Heiltsuk",
       "originalId": 126,
@@ -6214,6 +6430,212 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "hopi",
+      "name": "Hopi",
+      "originalId": 131,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 283,
+      "angle": -10,
+      "composition": "ribbon",
+      "images": [
+        {
+          "title": "Hopi Mesa, ca 1872",
+          "creator": "John K. Hillers",
+          "date": "ca.1872",
+          "rightsLabel": "Free to use — exact SAAM item designation",
+          "rightsUrl": "https://americanart.si.edu/artwork/hopi-mesa-34259",
+          "archive": "Smithsonian American Art Museum,1994.91.77",
+          "giftCredit": "Museum purchase from the Charles Isaacs Collection made possible in part by the Luisita L. and Franz H. Denghausen Endowment",
+          "scope": "Outside historical albumen-silver photograph identified by SAAM as Hopi Mesa. Not a present-day image, every village, Pueblo-made art or a territorial boundary. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [],
+          "id": "c12-hopi-photo",
+          "profileSlugs": [
+            "hopi"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://americanart.si.edu/artwork/hopi-mesa-34259",
+          "sourceImageUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-1994.91.77_1&max=960",
+          "originalImageUrl": null,
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-hopi-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-hopi-photo.jpg",
+          "credit": "John K. Hillers / Smithsonian American Art Museum, 1994.91.77 · Free to use — exact SAAM item designation",
+          "cardCredit": "Photo: John K. Hillers · Free to use — exact SAAM item designation",
+          "recordInspection": "Actual item identification, creator/date and media-specific rights statement read. MetadataCC 0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "Historic sepia-toned view across flat-roofed buildings on a mesa, with ladders, round trays and a large pot in the foreground.",
+          "reproductionNote": "Exact record-exposed provider preview retrieved normally HTTP200 by root and complete available delivered frame personally viewed with view_image by the Southwest reviewer. Larger original pixels uninspected. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; card and backdrop CSS may crop or overlay while the full available frame remains accessible proportionally. SAAM’s exact max=960 delivery includes the complete available photographic frame and its narrow surrounding border; a larger provider delivery and physical original were not inspected. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 736,
+          "inputFileSha256": "10c5343b2f71421f7e436acb922a4cf4723c3aa582b8064c5b22e0ff6407ab20",
+          "retrievedSourceSha256": "10c5343b2f71421f7e436acb922a4cf4723c3aa582b8064c5b22e0ff6407ab20",
+          "assetSha256": "10c5343b2f71421f7e436acb922a4cf4723c3aa582b8064c5b22e0ff6407ab20",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "10c5343b2f71421f7e436acb922a4cf4723c3aa582b8064c5b22e0ff6407ab20"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:283;--profile-angle:-10deg;--profile-photo:url(\"../../assets/profile-visuals/c12-hopi-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "houlton-band-of-maliseet",
+      "name": "Houlton Band of Maliseet",
+      "originalId": 132,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 147,
+      "angle": 18,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c12-houlton-photo",
+          "title": "Smith Bridge over the Meduxnekeag River, Houlton, June 1993",
+          "creator": "Brian Vanden Brink",
+          "date": "1993-06",
+          "archive": "Library of Congress, Prints and Photographs Division; Historic American Engineering Record, ME-8-6 (digital record hhh.me0231), via Wikimedia Commons",
+          "rightsLabel": "Public domain — item-specific Commons PD-USGov-NPS-HAER designation",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Smith_Bridge,_Spanning_Meduxnekeag_River_at_Lowery_Road,_0.3_mil,_Houlton_(Aroostook_County,_Maine).jpg",
+          "scope": "Specifically identified Smith Bridge/Meduxnekeag River photograph at Houlton. The Band’s own account identifies its Meduxnekeag River connection. This is twentieth-century non-Indigenous bridge infrastructure and regional river context, not a Tribal building, a reserve portrait, ownership claim, political boundary or current bridge condition. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About — Houlton Band community and Meduxnekeag River account",
+              "url": "https://maliseets.net/about/",
+              "inspectionScope": "Actual About body lines45–51: selected river/place, administration, Association of Aroostook Indians and 1980 recognition account; explicitly exclude opening court quotation, Jay Treaty assertion and membership totals."
+            }
+          ],
+          "alt": "Black-and-white view of a metal truss bridge crossing a river, with its central concrete pier and tree-lined bank visible.",
+          "recordInspection": "Independently read exact Commons description/date/author and item-specific HAER permission block, ordinary web-reader lines 114–127. Record identifies Brian Vanden Brink, June 1993 and HAER ME-8-6. The reuse basis is that item-specific Commons public-domain designation, not metadata CC0, an inferred employment relationship or an individual permission grant.",
+          "rightsInspectionLimits": "Parent reported that the linked Library handle returned 403 and a general rights redirect did not establish item-specific clearance. This reviewer did not retrieve those linked Library pages. No claim is made that the photographer was personally an NPS employee or that the Library gave a new permission grant.",
+          "cardCredit": "Photo: Brian Vanden Brink · HAER / Public domain",
+          "profileSlugs": [
+            "houlton-band-of-maliseet"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Smith_Bridge,_Spanning_Meduxnekeag_River_at_Lowery_Road,_0.3_mil,_Houlton_(Aroostook_County,_Maine).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Smith_Bridge%2C_Spanning_Meduxnekeag_River_at_Lowery_Road%2C_0.3_mil%2C_Houlton_%28Aroostook_County%2C_Maine%29.jpg/960px-Smith_Bridge%2C_Spanning_Meduxnekeag_River_at_Lowery_Road%2C_0.3_mil%2C_Houlton_%28Aroostook_County%2C_Maine%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "originalImageUrl": null,
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-houlton-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-houlton-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 759,
+          "credit": "Brian Vanden Brink / Library of Congress, Prints and Photographs Division; Historic American Engineering Record, ME-8-6 (digital record hhh.me 0231), via Wikimedia Commons · Public domain — item-specific Commons PD-USGov-NPS-HAER designation",
+          "reproductionNote": "Exact provider-exposed 960 px preview retrieved normally HTTP 200 by root. Complete available delivered frame independently viewed with view_image by this reviewer. JPEG retained byte-for-byte; no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "35d39b07db01f164594ae509180a28b90b409fb23371c7a84fec49bfdf4e4323",
+          "retrievedSourceSha256": "35d39b07db01f164594ae509180a28b90b409fb23371c7a84fec49bfdf4e4323",
+          "assetSha256": "35d39b07db01f164594ae509180a28b90b409fb23371c7a84fec49bfdf4e4323",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "35d39b07db01f164594ae509180a28b90b409fb23371c7a84fec49bfdf4e4323"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:147;--profile-angle:18deg;--profile-photo:url(\"../../assets/profile-visuals/c12-houlton-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "hualapai",
+      "name": "Hualapai",
+      "originalId": 133,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 328,
+      "angle": -79,
+      "composition": "wash",
+      "images": [
+        {
+          "title": "Grand Canyon West view from Guano Point, 2008",
+          "creator": "Balazs Barnucz",
+          "date": "2008-08-16",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "archive": "Wikimedia Commons",
+          "scope": "Photographer-identified Guano Point landscape at Grand Canyon West, which the Hualapai Tribe identifies as its enterprise. Dated public-place scenery, not every community, a boundary or current visitor permission. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About the Hualapai Tribe — selected place and institutional introduction",
+              "url": "https://hualapai-nsn.gov/community/about_the_hualapai_tribe/index.php",
+              "inspectionScope": "Actual Grand Canyon West enterprise paragraph; official enterprise Places to See page specifically identifies Guano Point."
+            }
+          ],
+          "id": "c12-hualapai-photo",
+          "profileSlugs": [
+            "hualapai"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_West_-_Guano_Point.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Grand_Canyon_West_-_Guano_Point.jpg/960px-Grand_Canyon_West_-_Guano_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Grand_Canyon_West_-_Guano_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-hualapai-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-hualapai-photo.jpg",
+          "credit": "Balazs Barnucz / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Photo: Balazs Barnucz · CC BY-SA 3.0",
+          "recordInspection": "Actual item identification, creator/date and media-specific rights statement read. MetadataCC 0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "Layered canyon walls surround a winding river under a blue sky with scattered white clouds.",
+          "reproductionNote": "Exact record-exposed provider preview retrieved normally HTTP200 by root and complete available delivered frame personally viewed with view_image by the Southwest reviewer. Larger original pixels uninspected. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; card and backdrop CSS may crop or overlay while the full available frame remains accessible proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 641,
+          "inputFileSha256": "6bddb0db65f0c3e7c2cdab6e3f4f43f893ae95dbff87b94fdbb0fc92f2ea8706",
+          "retrievedSourceSha256": "6bddb0db65f0c3e7c2cdab6e3f4f43f893ae95dbff87b94fdbb0fc92f2ea8706",
+          "assetSha256": "6bddb0db65f0c3e7c2cdab6e3f4f43f893ae95dbff87b94fdbb0fc92f2ea8706",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "6bddb0db65f0c3e7c2cdab6e3f4f43f893ae95dbff87b94fdbb0fc92f2ea8706"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:328;--profile-angle:-79deg;--profile-photo:url(\"../../assets/profile-visuals/c12-hualapai-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "hupa",
       "name": "Hupa",
       "originalId": 137,
@@ -6400,6 +6822,70 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:119;--profile-angle:49deg;--profile-photo:url(\"../../assets/profile-visuals/c10-iowa-ioway-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "isleta-pueblo",
+      "name": "Isleta Pueblo",
+      "originalId": 145,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 17,
+      "angle": -13,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Rio Grande at the Isleta Pueblo crossing, 2007",
+          "creator": "Asaavedra 32",
+          "date": "2007-06-15",
+          "rightsLabel": "CC BY-SA 3.0 (one of the offered licenses)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "archive": "Wikimedia Commons",
+          "scope": "Photographer explicitly identifies the Rio Grande crossing at Isleta Pueblo, New Mexico. A dated local river landscape, not Ysleta del Sur Texas, community ownership of the entire river, a boundary or current environmental condition. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [],
+          "id": "c12-isleta-pueblo-photo",
+          "profileSlugs": [
+            "isleta-pueblo"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_Grande_River_south_of_Albuquerque.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Rio_Grande_River_south_of_Albuquerque.jpg/960px-Rio_Grande_River_south_of_Albuquerque.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rio_Grande_River_south_of_Albuquerque.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-isleta-pueblo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-isleta-pueblo-photo.jpg",
+          "credit": "Asaavedra 32 / Wikimedia Commons · CC BY-SA 3.0 (one of the offered licenses)",
+          "cardCredit": "Photo: Asaavedra 32 · CC BY-SA 3.0 (one of the offered licenses)",
+          "recordInspection": "Actual item identification, creator/date and media-specific rights statement read. MetadataCC 0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "The Rio Grande extends between tree-lined banks beneath a cloud-filled sky, with reflections on the water.",
+          "reproductionNote": "Exact record-exposed provider preview retrieved normally HTTP200 by root and complete available delivered frame personally viewed with view_image by the Southwest reviewer. Larger original pixels uninspected. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; card and backdrop CSS may crop or overlay while the full available frame remains accessible proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 640,
+          "inputFileSha256": "2e9d758c0191c95e3e923abc8399393e38a29292ffa9236cf837160306d10821",
+          "retrievedSourceSha256": "2e9d758c0191c95e3e923abc8399393e38a29292ffa9236cf837160306d10821",
+          "assetSha256": "2e9d758c0191c95e3e923abc8399393e38a29292ffa9236cf837160306d10821",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "2e9d758c0191c95e3e923abc8399393e38a29292ffa9236cf837160306d10821"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:17;--profile-angle:-13deg;--profile-photo:url(\"../../assets/profile-visuals/c12-isleta-pueblo-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -8228,6 +8714,152 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "mashantucket-pequot",
+      "name": "Mashantucket Pequot",
+      "originalId": 198,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 212,
+      "angle": 26,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c12-mashantucket-pequot-photo",
+          "profileSlugs": [
+            "mashantucket-pequot"
+          ],
+          "mediaType": "photograph",
+          "title": "Mashantucket Pequot Museum exterior",
+          "creator": "Stilfehler (Wikivoyage Shared)",
+          "archive": "Wikimedia Commons; photographer’s item-specific identification and explicit license body inspected",
+          "date": "August 2008 (item record)",
+          "credit": "Stilfehler (Wikivoyage Shared) / Wikimedia Commons. CC BY-SA 3.0.",
+          "cardCredit": "Photo: Stilfehler (Wikivoyage Shared) · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mashantucket_Pequot_Museum_Exterior.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mashantucket_Pequot_Museum_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20121205215404",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mashantucket_Pequot_Museum_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Exterior entrance and name of the Mashantucket Pequot Museum and Research Center; a dated exhibition banner hangs above the doors.",
+          "scope": "A dated exterior of the tribally owned Mashantucket Pequot Museum, identified by the item and the institution’s own Our Story publication. Not a reconstructed historical village, a portrait of all Pequot communities or permission to reuse interior exhibits. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Our Story — Mashantucket Pequot Museum and Research Center",
+              "url": "https://www.pequotmuseum.org/our-story/",
+              "inspectionScope": "Our Story mission/value statements and Who We Are unit through the building description, web-reader lines65–78, before Our Team biographies."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-mashantucket-pequot-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-mashantucket-pequot-photo.jpg",
+          "recordInspection": "Exact item description, creator, date, source and media-specific license body read in normal HTTP 200 metadata page; footer metadata CC0 is not the reuse basis.",
+          "status": "actual-available-frame-inspected-ready",
+          "reproductionNote": "Root retrieved the exact provider-exposed 800 × 563 available frame normally with HTTP 200. This researcher individually viewed the complete file with view_image. The complete unscaled available original was delivered; no larger camera file was provided or inspected. No new pixel crop, retouching, colorization or generation; JPEG bytes retained. Card/background CSS crops and overlays must be disclosed while the opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "accessLimits": "No museum interior, ceremony, collection object, named person, current conditions, leadership authority or private record inspected through the image. Reuse does not imply photographer/community endorsement or newly licensed separately owned artwork. Small dated sign/banner graphics remain incidental to the whole-building photograph, not isolated, interpreted as traditional art or separately claimed newly licensed.",
+          "width": 800,
+          "height": 563,
+          "retrievedSourceSha256": "75fcf67c251c8211c1c2d27e9d1d246e23993239b8242c20aa8a93536de0a300",
+          "inputFileSha256": "75fcf67c251c8211c1c2d27e9d1d246e23993239b8242c20aa8a93536de0a300",
+          "assetSha256": "75fcf67c251c8211c1c2d27e9d1d246e23993239b8242c20aa8a93536de0a300",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 800,
+            "height": 563,
+            "fullAvailableFrame": true,
+            "sha256": "75fcf67c251c8211c1c2d27e9d1d246e23993239b8242c20aa8a93536de0a300"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:212;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/c10-mashantucket-pequot-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "massachusett",
+      "name": "Massachusett",
+      "originalId": 199,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 50,
+      "angle": 16,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c12-massachusett-photo",
+          "profileSlugs": [
+            "massachusett"
+          ],
+          "mediaType": "photograph",
+          "title": "Neponset River in Dorchester",
+          "creator": "ButteBag",
+          "archive": "Wikimedia Commons; photographer’s item-specific identification and explicit license body inspected",
+          "date": "October 22,2017 (item record)",
+          "credit": "ButteBag / Wikimedia Commons. CC BY-SA 4.0.",
+          "cardCredit": "Photo: ButteBag · CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neponset_River_in_Dorchester.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Neponset_River_in_Dorchester.jpg/960px-Neponset_River_in_Dorchester.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20171110173051",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Neponset_River_in_Dorchester.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "The Neponset River in Dorchester between banks of autumn trees under a blue sky.",
+          "scope": "A modern Neponset River landscape in Dorchester. The Tribe at Ponkapoag’s own Neponset history and removal essay explicitly connect its community history with Neponset/Milton/Dorchester. Not a reconstructed precolonial scene, legal boundary, proof of ownership or image of current members. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "History of the Neponset Band of the Indigenous Massachusett Tribe",
+              "url": "https://massachusetttribe.org/the-history-of-the-neponset",
+              "inspectionScope": "Complete short main Neponset historical prose after the heading and before Tribal History links; synthesis limited to community relationships and livelihoods. Numerical epidemic/migration estimates and images not used."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-massachusett-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-massachusett-photo.jpg",
+          "recordInspection": "Exact item description, creator, date, source and media-specific license body read in normal HTTP 200 metadata page; footer metadata CC0 is not the reuse basis.",
+          "status": "actual-available-frame-inspected-ready",
+          "reproductionNote": "Root retrieved the exact provider-exposed 960 × 720 available frame normally with HTTP 200. This researcher individually viewed the complete file with view_image. Larger linked original pixels were not retrieved or inspected. No new pixel crop, retouching, colorization or generation; JPEG bytes retained. Card/background CSS crops and overlays must be disclosed while the opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "accessLimits": "No museum interior, ceremony, collection object, named person, current conditions, leadership authority or private record inspected through the image. Reuse does not imply photographer/community endorsement or newly licensed separately owned artwork.",
+          "width": 960,
+          "height": 720,
+          "retrievedSourceSha256": "b9b3b23e8304f67797e62a7a38e7384aeb86477ecbf980cb1878be9d2c0cc665",
+          "inputFileSha256": "b9b3b23e8304f67797e62a7a38e7384aeb86477ecbf980cb1878be9d2c0cc665",
+          "assetSha256": "b9b3b23e8304f67797e62a7a38e7384aeb86477ecbf980cb1878be9d2c0cc665",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 720,
+            "fullAvailableFrame": true,
+            "sha256": "b9b3b23e8304f67797e62a7a38e7384aeb86477ecbf980cb1878be9d2c0cc665"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:50;--profile-angle:16deg;--profile-photo:url(\"../../assets/profile-visuals/c10-massachusett-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "matchebenashshewish-band-of-potawatomi-indians",
       "name": "Match-E-Be-Nash-She-Wish Band of Potawatomi Indians",
       "originalId": null,
@@ -8953,6 +9585,155 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "mohawk",
+      "name": "Mohawk",
+      "originalId": 221,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 316,
+      "angle": 59,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c12-mohawk-photo",
+          "profileSlugs": [
+            "mohawk"
+          ],
+          "mediaType": "photograph",
+          "title": "Cornwall–Akwesasne North Channel bridge, 2014",
+          "creator": "Wikipatr",
+          "archive": "Wikimedia Commons; exact photographer/provider item",
+          "date": "2014-06-14",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornwall_Ontario_New_Bridge.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Cornwall_Ontario_New_Bridge.JPG/960px-Cornwall_Ontario_New_Bridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cornwall_Ontario_New_Bridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cornwall_Ontario_New_Bridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Wikipatr / Wikimedia Commons — CC BY-SA 3.0",
+          "cardCredit": "Wikipatr — CC BY-SA 3.0",
+          "scope": "Modern Cornwall–Akwesasne bridge in the St. Lawrence River setting described by the Mohawk Council of Akwesasne. This is contemporary regional infrastructure, not Mohawk-made art, one bridge representing all Mohawk people or a territorial/legal boundary. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About Us — selected Akwesasne community and council account",
+              "url": "https://www.akwesasne.ca/about-us/",
+              "inspectionScope": "Actual introductory council-role and community/district paragraphs; selected About Akwesasne section identifying the St. Lawrence River, boundary divisions, kinship and other named Mohawk communities."
+            }
+          ],
+          "alt": "A modern low bridge and an older tall steel bridge cross a river beneath an overcast sky.",
+          "asset": "assets/profile-visuals/c12-mohawk-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-mohawk-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact record identification, creator, date and media-specific licensing read through normal HTTP200. Assigned researcher independently viewed complete local delivered pixels using view_image.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×720 provider-listed 960px preview delivered normally HTTP200 and individually viewed by the assigned researcher. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation. CSS may crop/overlay in display; the complete delivered frame remains available. Hashes identify the actual delivered file. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "5aef6e5477ad2fade578fd78b6fc88c1f3157fe45ad82eeb1679eb6528fd6fcb"
+          },
+          "width": 960,
+          "height": 720,
+          "bytes": 157102,
+          "inputFileSha256": "5aef6e5477ad2fade578fd78b6fc88c1f3157fe45ad82eeb1679eb6528fd6fcb",
+          "retrievedSourceSha256": "5aef6e5477ad2fade578fd78b6fc88c1f3157fe45ad82eeb1679eb6528fd6fcb",
+          "assetSha256": "5aef6e5477ad2fade578fd78b6fc88c1f3157fe45ad82eeb1679eb6528fd6fcb"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:316;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/c12-mohawk-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "mohegan",
+      "name": "Mohegan",
+      "originalId": 222,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 232,
+      "angle": 49,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c12-mohegan-photo",
+          "profileSlugs": [
+            "mohegan"
+          ],
+          "mediaType": "photograph",
+          "title": "Mohegan Congregational Church exterior",
+          "creator": "John Phelan",
+          "archive": "Wikimedia Commons; photographer’s item-specific identification and explicit license body inspected",
+          "date": "November 30,2023 (item record)",
+          "credit": "John Phelan / Wikimedia Commons. CC BY 4.0.",
+          "cardCredit": "Photo: John Phelan · CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mohegan_Congregational_Church,_Mohegan_CT.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mohegan_Congregational_Church%2C_Mohegan_CT.jpg/960px-Mohegan_Congregational_Church%2C_Mohegan_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20231201012712",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mohegan_Congregational_Church%2C_Mohegan_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "White Mohegan Congregational Church with a tall steeple, lawn and bare trees.",
+          "scope": "A dated public exterior of the Mohegan Church specifically identified in the Tribe’s own historical account. Not an interior, ceremony, claim about all Mohegan religious affiliation or current legal title determination. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "The Mohegan Church — historical community institution",
+              "url": "https://www.mohegan.nsn.us/about/our-tribal-history/historical-sites/the-mohegan-church",
+              "inspectionScope": "Complete public main Church account, web-reader lines186–192; synthesis limited to founding, Lucy Teecomwas/Cynthia Hoscott’s land conveyance as attributed history, later renovation and institutional uses. Interior and ceremonial references read only as context, not reproduced."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-mohegan-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-mohegan-photo.jpg",
+          "recordInspection": "Exact item description, creator, date, source and media-specific license body read in normal HTTP 200 metadata page; footer metadata CC0 is not the reuse basis.",
+          "status": "actual-available-frame-inspected-ready",
+          "reproductionNote": "Root retrieved the exact provider-exposed 960 × 720 available frame normally with HTTP 200. This researcher individually viewed the complete file with view_image. Larger linked original pixels were not retrieved or inspected. No new pixel crop, retouching, colorization or generation; JPEG bytes retained. Card/background CSS crops and overlays must be disclosed while the opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "accessLimits": "No museum interior, ceremony, collection object, named person, current conditions, leadership authority or private record inspected through the image. Reuse does not imply photographer/community endorsement or newly licensed separately owned artwork.",
+          "width": 960,
+          "height": 720,
+          "retrievedSourceSha256": "9b7e251c79e188078b5790cf7526a089430603f24e2e6c5b04518f8702dcda10",
+          "inputFileSha256": "9b7e251c79e188078b5790cf7526a089430603f24e2e6c5b04518f8702dcda10",
+          "assetSha256": "9b7e251c79e188078b5790cf7526a089430603f24e2e6c5b04518f8702dcda10",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 720,
+            "fullAvailableFrame": true,
+            "sha256": "9b7e251c79e188078b5790cf7526a089430603f24e2e6c5b04518f8702dcda10"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:232;--profile-angle:49deg;--profile-photo:url(\"../../assets/profile-visuals/c10-mohegan-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "mohican",
       "name": "Mohican",
       "originalId": 223,
@@ -9226,6 +10007,79 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:159;--profile-angle:-11deg;--profile-photo:url(\"../../assets/profile-visuals/c11-musqueam-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "narragansett",
+      "name": "Narragansett",
+      "originalId": 238,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 3,
+      "angle": 5,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c12-narragansett-photo",
+          "profileSlugs": [
+            "narragansett"
+          ],
+          "mediaType": "photograph",
+          "title": "Narragansett Indian Church in Charlestown",
+          "creator": "Magicpiano",
+          "archive": "Wikimedia Commons; photographer’s item-specific identification and explicit license body inspected",
+          "date": "November 8,2019 (item record)",
+          "credit": "Magicpiano / Wikimedia Commons. CC BY-SA 4.0.",
+          "cardCredit": "Photo: Magicpiano · CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NarragansettRes_StoneChurch.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/NarragansettRes_StoneChurch.jpg/960px-NarragansettRes_StoneChurch.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20191109175435",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/NarragansettRes_StoneChurch.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Stone Narragansett Indian Church with two white doors and a sign above the window, among autumn trees.",
+          "scope": "A dated exterior of the stone church in the Narragansett historic village. The Tribe’s perseverance history specifically identifies the Indian Meeting House/Church as a former setting for community meetings. Not an image of a ceremony, all Narragansett religious practice or a current boundary/title claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Perseverance — meetings, community organization and the Longhouse",
+              "url": "https://narragansettindiannation.org/history/perseverance/",
+              "inspectionScope": "Selected Reservations and Wompesu, Illegal Detribalization, Perseverance, and The Longhouse units, web-reader lines108–124. Later land claims, federal recognition, present totals and membership rules not used."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-narragansett-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-narragansett-photo.jpg",
+          "recordInspection": "Exact item description, creator, date, source and media-specific license body read in normal HTTP 200 metadata page; footer metadata CC0 is not the reuse basis.",
+          "status": "actual-available-frame-inspected-ready",
+          "reproductionNote": "Root retrieved the exact provider-exposed 960 × 637 available frame normally with HTTP 200. This researcher individually viewed the complete file with view_image. Larger linked original pixels were not retrieved or inspected. No new pixel crop, retouching, colorization or generation; JPEG bytes retained. Card/background CSS crops and overlays must be disclosed while the opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "accessLimits": "No museum interior, ceremony, collection object, named person, current conditions, leadership authority or private record inspected through the image. Reuse does not imply photographer/community endorsement or newly licensed separately owned artwork.",
+          "width": 960,
+          "height": 637,
+          "retrievedSourceSha256": "1a386f044883efb2c0f73b859136c4a5fcf2b09426bba8d484f0f9eaab382c06",
+          "inputFileSha256": "1a386f044883efb2c0f73b859136c4a5fcf2b09426bba8d484f0f9eaab382c06",
+          "assetSha256": "1a386f044883efb2c0f73b859136c4a5fcf2b09426bba8d484f0f9eaab382c06",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 637,
+            "fullAvailableFrame": true,
+            "sha256": "1a386f044883efb2c0f73b859136c4a5fcf2b09426bba8d484f0f9eaab382c06"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:3;--profile-angle:5deg;--profile-photo:url(\"../../assets/profile-visuals/c10-narragansett-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -9598,6 +10452,84 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:348;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/c06-nipissing-garden-village.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "nipmuc",
+      "name": "Nipmuc",
+      "originalId": 249,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 7,
+      "angle": -40,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c12-nipmuc-photo",
+          "profileSlugs": [
+            "nipmuc"
+          ],
+          "mediaType": "photograph",
+          "title": "A building on the Hassanamisco property",
+          "creator": "SusanGorius",
+          "archive": "Wikimedia Commons; photographer’s item-specific identification and explicit license body inspected",
+          "date": "September 15,2012 (item record)",
+          "credit": "SusanGorius / Wikimedia Commons. CC BY-SA 3.0.",
+          "cardCredit": "Photo: SusanGorius · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hassanamisco_Nipmuc_Indian_Building_on_Property.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hassanamisco_Nipmuc_Indian_Building_on_Property.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20120916230629",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hassanamisco_Nipmuc_Indian_Building_on_Property.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "A low red-and-wood-shingled building on the Hassanamisco property, partly surrounded by trees and grass.",
+          "scope": "A dated building exterior at the Hassanamisco property, as individually identified by its Commons item. The building’s function is not supplied and is not guessed. Museum and Council histories specifically situate Hassanamisco community activity here; the photo neither resolves leadership differences nor represents every Nipmuc community. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "A Brief Look at Nipmuc History",
+              "url": "https://www.nipmucmuseum.org/history",
+              "inspectionScope": "Selected actual body: opening homeland/village/subsistence paragraphs;1640s Eliot/praying-town paragraph; later paragraph on collaborative language classes with David White and the museum; author/revision credit. Other long political, legal and ceremonial passages not used."
+            },
+            {
+              "title": "History — Hassanamisco Tribal Council presentation",
+              "url": "https://nipmucnation.org/history",
+              "inspectionScope": "Public Hassanamisco Reservation and 1926 Cisco Homestead units. Used only for the named community/place connection, not present leadership, membership, title or exclusive representation claims."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-nipmuc-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-nipmuc-photo.jpg",
+          "recordInspection": "Exact item description, creator, date, source and media-specific license body read in normal HTTP 200 metadata page; footer metadata CC0 is not the reuse basis.",
+          "status": "actual-available-frame-inspected-ready",
+          "reproductionNote": "Root retrieved the exact provider-exposed 640 × 427 available frame normally with HTTP 200. This researcher individually viewed the complete file with view_image. The complete unscaled available original was delivered; no larger camera file was provided or inspected. No new pixel crop, retouching, colorization or generation; JPEG bytes retained. Card/background CSS crops and overlays must be disclosed while the opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "accessLimits": "No museum interior, ceremony, collection object, named person, current conditions, leadership authority or private record inspected through the image. Reuse does not imply photographer/community endorsement or newly licensed separately owned artwork.",
+          "width": 640,
+          "height": 427,
+          "retrievedSourceSha256": "45ffc8e1e50374b3bc9fd3517ab67b0c588426e829a8bc6eb1fb1a7ad4c007d4",
+          "inputFileSha256": "45ffc8e1e50374b3bc9fd3517ab67b0c588426e829a8bc6eb1fb1a7ad4c007d4",
+          "assetSha256": "45ffc8e1e50374b3bc9fd3517ab67b0c588426e829a8bc6eb1fb1a7ad4c007d4",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 640,
+            "height": 427,
+            "fullAvailableFrame": true,
+            "sha256": "45ffc8e1e50374b3bc9fd3517ab67b0c588426e829a8bc6eb1fb1a7ad4c007d4"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:7;--profile-angle:-40deg;--profile-photo:url(\"../../assets/profile-visuals/c10-nipmuc-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -10458,6 +11390,82 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "oneida",
+      "name": "Oneida",
+      "originalId": 268,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 145,
+      "angle": 63,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c12-oneida-photo",
+          "profileSlugs": [
+            "oneida"
+          ],
+          "mediaType": "photograph",
+          "title": "Oneida Lake shore at Sylvan Beach, 2021",
+          "creator": "Andre Carrotflower",
+          "archive": "Wikimedia Commons; exact photographer/provider item",
+          "date": "2021-05-22",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvan_Beach_-_20210522_-_01.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Sylvan_Beach_-_20210522_-_01.jpg/960px-Sylvan_Beach_-_20210522_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sylvan_Beach_-_20210522_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sylvan_Beach_-_20210522_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Andre Carrotflower / Wikimedia Commons — CC BY-SA 4.0",
+          "cardCredit": "Andre Carrotflower — CC BY-SA 4.0",
+          "scope": "Modern Sylvan Beach/Oneida Lake regional view. The museum’s actually inspected historical opening names Oneida Lake in the Oneida New York background. It is not a Wisconsin or Ontario reservation, exact former village, ownership proof or present territorial boundary. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Oneida History — limited New York place context only",
+              "url": "https://www.mpm.org/index.php/educators/wirp/nations/oneida/history",
+              "inspectionScope": "Actual substantial indexed opening under Life in New York: Oneida language/self-name, New York lake/creek connection and initial early-1800s context."
+            }
+          ],
+          "alt": "A paved lakeside path, lamp and grassy shore curve beside rocks, small boats and open water.",
+          "asset": "assets/profile-visuals/c12-oneida-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-oneida-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact record identification, creator, date and media-specific licensing read through normal HTTP200. Assigned researcher independently viewed complete local delivered pixels using view_image.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×576 provider-listed 960px preview delivered normally HTTP200 and individually viewed by the assigned researcher. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation. CSS may crop/overlay in display; the complete delivered frame remains available. Hashes identify the actual delivered file. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "3e14fe206106dd8a2f027c955903771dbeed9c7759a44e4a714aeb9e3b95b6e8"
+          },
+          "width": 960,
+          "height": 576,
+          "bytes": 140251,
+          "inputFileSha256": "3e14fe206106dd8a2f027c955903771dbeed9c7759a44e4a714aeb9e3b95b6e8",
+          "retrievedSourceSha256": "3e14fe206106dd8a2f027c955903771dbeed9c7759a44e4a714aeb9e3b95b6e8",
+          "assetSha256": "3e14fe206106dd8a2f027c955903771dbeed9c7759a44e4a714aeb9e3b95b6e8"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:145;--profile-angle:63deg;--profile-photo:url(\"../../assets/profile-visuals/c12-oneida-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "oneida-nation",
       "name": "Oneida Nation",
       "originalId": null,
@@ -10517,6 +11525,82 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "onondaga",
+      "name": "Onondaga",
+      "originalId": 269,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 234,
+      "angle": -51,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c12-onondaga-photo",
+          "profileSlugs": [
+            "onondaga"
+          ],
+          "mediaType": "photograph",
+          "title": "Onondaga Lake flooded-shore view, December 2008",
+          "creator": "Hotshotfox",
+          "archive": "Wikimedia Commons; exact photographer/provider item",
+          "date": "2008-12",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Onondaga_lake_2.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Onondaga_lake_2.jpg/960px-Onondaga_lake_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Onondaga_lake_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Onondaga_lake_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — photographer release",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Onondaga_lake_2.jpg#Licensing",
+          "credit": "Hotshotfox / Wikimedia Commons — Public domain — photographer release",
+          "cardCredit": "Hotshotfox — Public domain — photographer release",
+          "scope": "Dated Onondaga Lake shore view connected to the Nation’s own lake/watershed vision. The partly submerged bench and water level are conditions visible in December 2008, not evidence of current water quality, restoration completion or a legal boundary. This is the photographer’s worldwide public-domain dedication, not a CC0 or U.S. government claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Onondaga Nation’s Vision for a Clean Onondaga Lake — selected The People section",
+              "url": "https://www.onondaganation.org/land-rights/onondaga-nations-vision-for-a-clean-onondaga-lake/",
+              "inspectionScope": "Actual public The People section: lake/watershed relationship, community history and desired ecological recovery. The separate prayer/Creator material is not reproduced."
+            }
+          ],
+          "alt": "A bench stands partly submerged at a lake edge among bare trees and reeds in evening light.",
+          "asset": "assets/profile-visuals/c12-onondaga-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-onondaga-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact record identification, creator, date and media-specific licensing read through normal HTTP200. Assigned researcher independently viewed complete local delivered pixels using view_image.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×549 provider-listed 960px preview delivered normally HTTP200 and individually viewed by the assigned researcher. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation. CSS may crop/overlay in display; the complete delivered frame remains available. Hashes identify the actual delivered file. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "a89b671a99fff53895ded4d8e865a0a667448230454707ef2302755e87b508b2"
+          },
+          "width": 960,
+          "height": 549,
+          "bytes": 190857,
+          "inputFileSha256": "a89b671a99fff53895ded4d8e865a0a667448230454707ef2302755e87b508b2",
+          "retrievedSourceSha256": "a89b671a99fff53895ded4d8e865a0a667448230454707ef2302755e87b508b2",
+          "assetSha256": "a89b671a99fff53895ded4d8e865a0a667448230454707ef2302755e87b508b2"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:234;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/c12-onondaga-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "osage",
@@ -10809,6 +11893,77 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:287;--profile-angle:5deg;--profile-photo:url(\"../../assets/profile-visuals/duck-valley-sho-pai-greenhouses-hedrick-2015.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "passamaquoddy",
+      "name": "Passamaquoddy",
+      "originalId": 282,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 75,
+      "angle": 79,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c12-passamaquoddy-photo",
+          "title": "Saint Croix Island, Maine, June 27, 2025",
+          "creator": "Quintin Soloviev",
+          "date": "2025-06-27",
+          "archive": "Wikimedia Commons",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "scope": "Photographer-identified aerial view of Saint Croix Island, Maine. The selected NPS history specifically connects this place with Passamaquoddy history and the 1604–1605 French settlement. A 2025 place photograph, not a reconstruction, portrait of a modern community, political boundary or permission to enter or fly a drone. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "History & Culture — selected Saint Croix Island historical interpretation",
+              "url": "https://www.nps.gov/sacr/learn/historyculture/index.htm",
+              "inspectionScope": "Actual selected body lines26–38: island/community connection; seasonal river/coast context; French settlement, trade, difficult winter and assistance account."
+            }
+          ],
+          "alt": "A small wooded island with an open grassy area and rocky tidal edges lies in blue water, with a forested mainland shore beyond.",
+          "recordInspection": "Independently read exact Commons Summary and Licensing body, ordinary web-reader lines 124–148: own work by Quintin Soloviev, 27 June 2025, specifically licensed Creative Commons Attribution 4.0 International. File-history and image-editing metadata were encountered; no camera-raw or editing-history reconstruction is claimed.",
+          "rightsInspectionLimits": "The exact media-specific CC BY 4.0 statement supplies the reuse basis; sitewide metadata CC0 is not used. Larger original pixels, raw source and physical site uninspected.",
+          "cardCredit": "Photo: Quintin Soloviev · CC BY 4.0",
+          "profileSlugs": [
+            "passamaquoddy"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Croix_Island,_Maine.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Saint_Croix_Island%2C_Maine.jpg/960px-Saint_Croix_Island%2C_Maine.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "originalImageUrl": null,
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-passamaquoddy-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-passamaquoddy-photo.jpg",
+          "status": "actual-preview-inspected-ready",
+          "width": 960,
+          "height": 672,
+          "credit": "Quintin Soloviev / Wikimedia Commons · CC BY 4.0",
+          "reproductionNote": "Exact provider-exposed 960 px preview retrieved normally HTTP 200 by root. Complete available delivered frame independently viewed with view_image by this reviewer. JPEG retained byte-for-byte; no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; CSS may crop or overlay directory cards/backdrops while the complete preview remains available proportionally. Larger original pixels uninspected. Complete available retrieved JPEG imported unchanged.",
+          "inputFileSha256": "9f3c005939c74cc762e8999ae756bfd7441ab5d3fa274f0dc0af4d48f7eba759",
+          "retrievedSourceSha256": "9f3c005939c74cc762e8999ae756bfd7441ab5d3fa274f0dc0af4d48f7eba759",
+          "assetSha256": "9f3c005939c74cc762e8999ae756bfd7441ab5d3fa274f0dc0af4d48f7eba759",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "9f3c005939c74cc762e8999ae756bfd7441ab5d3fa274f0dc0af4d48f7eba759"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:75;--profile-angle:79deg;--profile-photo:url(\"../../assets/profile-visuals/c12-passamaquoddy-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -12655,6 +13810,82 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:227;--profile-angle:53deg;--profile-photo:url(\"../../assets/profile-visuals/c10-seminole-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "seneca",
+      "name": "Seneca",
+      "originalId": 341,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 188,
+      "angle": 28,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c12-seneca-photo",
+          "profileSlugs": [
+            "seneca"
+          ],
+          "mediaType": "photograph",
+          "title": "Former Seneca-Iroquois National Museum façade, 2011",
+          "creator": "Stilfehler (at Wikivoyage shared)",
+          "archive": "Wikimedia Commons; exact photographer/provider item",
+          "date": "2011-07-23",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seneca_Iroquois_National_Museum.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seneca_Iroquois_National_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seneca_Iroquois_National_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Seneca_Iroquois_National_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "credit": "Stilfehler (at Wikivoyage shared) / Wikimedia Commons — CC BY-SA 3.0",
+          "cardCredit": "Stilfehler (at Wikivoyage shared) — CC BY-SA 3.0",
+          "scope": "Dated whole exterior of the former Seneca-Iroquois National Museum in Salamanca. The museum’s own About account describes a newer cultural-centre home, so this is not labelled the current facility. Small panels and wall decoration remain incidental to the whole-building view; photograph licensing is not a separate clearance, attribution or Atlas reuse of those artworks or collection objects. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About — Seneca-Iroquois National Museum and Onöhsagwë:de’ Cultural Center",
+              "url": "https://senecamuseum.org/about/",
+              "inspectionScope": "Actual About-page body: museum/archives history and family-records role, new Onöhsagwë:de’ Cultural Center home and stated interpretive mission."
+            }
+          ],
+          "alt": "A low museum building has a green name awning, brick façade, two small art panels, picnic tables and lawn.",
+          "asset": "assets/profile-visuals/c12-seneca-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-seneca-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact record identification, creator, date and media-specific licensing read through normal HTTP200. Assigned researcher independently viewed complete local delivered pixels using view_image.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 800×593 provider-listed original frame delivered normally HTTP200 and individually viewed by the assigned researcher. This is the exact available 800px original; no larger source frame claimed. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation. CSS may crop/overlay in display; the complete delivered frame remains available. Hashes identify the actual delivered file. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed available original",
+            "sha256": "40789badbd461bc1d407f52ba847c32f87d60639171aa04fabaadb40efab4727"
+          },
+          "width": 800,
+          "height": 593,
+          "bytes": 394146,
+          "inputFileSha256": "40789badbd461bc1d407f52ba847c32f87d60639171aa04fabaadb40efab4727",
+          "retrievedSourceSha256": "40789badbd461bc1d407f52ba847c32f87d60639171aa04fabaadb40efab4727",
+          "assetSha256": "40789badbd461bc1d407f52ba847c32f87d60639171aa04fabaadb40efab4727"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:188;--profile-angle:28deg;--profile-photo:url(\"../../assets/profile-visuals/c12-seneca-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -14716,6 +15947,82 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "tuscarora",
+      "name": "Tuscarora",
+      "originalId": 411,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 161,
+      "angle": 25,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c12-tuscarora-photo",
+          "profileSlugs": [
+            "tuscarora"
+          ],
+          "mediaType": "photograph",
+          "title": "Neuse River at Cliffs of the Neuse State Park, 2020",
+          "creator": "Fredlyfish4",
+          "archive": "Wikimedia Commons; exact photographer/provider item",
+          "date": "2020-11-14",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neuse_River_at_Cliffs_of_the_Neuse_State_Park_2020.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Neuse_River_at_Cliffs_of_the_Neuse_State_Park_2020.jpg/960px-Neuse_River_at_Cliffs_of_the_Neuse_State_Park_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Neuse_River_at_Cliffs_of_the_Neuse_State_Park_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Neuse_River_at_Cliffs_of_the_Neuse_State_Park_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Fredlyfish4 / Wikimedia Commons — CC BY-SA 4.0",
+          "cardCredit": "Fredlyfish4 — CC BY-SA 4.0",
+          "scope": "Modern Neuse River regional landscape connected only to the historical reference’s explicit Upper/Lower Tuscarora river-region discussion. Not an exact village location, current community, northern New York Nation land or territorial boundary. Provider describes a photographic panorama; no Atlas-generated landscape or additional assembly. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Tuscarora Indians — selected North Carolina historical context",
+              "url": "https://www.ncpedia.org/american-indians/tuscarora",
+              "inspectionScope": "Actual article body: introduction and Upper/Lower Towns river-location paragraphs; selected 1711–1713 conflict and subsequent movement paragraphs. Article originally 2006; revision credited to Government & Heritage Library September 2025."
+            }
+          ],
+          "alt": "A wide river bend reflects blue sky, enclosed by green and autumn-colored trees seen from above.",
+          "asset": "assets/profile-visuals/c12-tuscarora-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-tuscarora-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact record identification, creator, date and media-specific licensing read through normal HTTP200. Assigned researcher independently viewed complete local delivered pixels using view_image.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×375 provider-listed 960px preview delivered normally HTTP200 and individually viewed by the assigned researcher. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation. CSS may crop/overlay in display; the complete delivered frame remains available. Hashes identify the actual delivered file. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "f053dfadb90b2a9878508e7167c7c56df8fb852bfc6d38cd0c92770204615f1e"
+          },
+          "width": 960,
+          "height": 375,
+          "bytes": 101796,
+          "inputFileSha256": "f053dfadb90b2a9878508e7167c7c56df8fb852bfc6d38cd0c92770204615f1e",
+          "retrievedSourceSha256": "f053dfadb90b2a9878508e7167c7c56df8fb852bfc6d38cd0c92770204615f1e",
+          "assetSha256": "f053dfadb90b2a9878508e7167c7c56df8fb852bfc6d38cd0c92770204615f1e"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:161;--profile-angle:25deg;--profile-photo:url(\"../../assets/profile-visuals/c12-tuscarora-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "upper-sioux-community",
       "name": "Upper Sioux Community",
       "originalId": null,
@@ -14863,6 +16170,84 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "wampanoag",
+      "name": "Wampanoag",
+      "originalId": 425,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 12,
+      "angle": -39,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c12-wampanoag-photo",
+          "profileSlugs": [
+            "wampanoag"
+          ],
+          "mediaType": "photograph",
+          "title": "Avant House in Mashpee",
+          "creator": "Magicpiano",
+          "archive": "Wikimedia Commons; photographer’s item-specific identification and explicit license body inspected",
+          "date": "November 4,2016 (item record)",
+          "credit": "Magicpiano / Wikimedia Commons. CC BY-SA 4.0.",
+          "cardCredit": "Photo: Magicpiano · CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MashpeeMA_AvantHouse.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/MashpeeMA_AvantHouse.jpg/960px-MashpeeMA_AvantHouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20161104231024",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/MashpeeMA_AvantHouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Avant House in Mashpee, with a sign identifying the Wampanoag Indian Museum beside a white rail fence.",
+          "scope": "A dated exterior of Avant House in Mashpee, identified by the individual item and the Mashpee Tribe’s historic-property/museum context. An institution connected with one Wampanoag community, not a generic object or a photograph of every Wampanoag government. No interior object, present opening schedule or separately owned artwork permission is inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Mashpee Wampanoag Museum — community interpretation",
+              "url": "https://mashpeewampanoagtribe-nsn.gov/museum",
+              "inspectionScope": "Through Our Doors institutional paragraphs, museum-management identification and complete400 Years Ago exhibit description. Visitor prices/hours, source images and physical exhibits not inspected or copied."
+            },
+            {
+              "title": "Historic Preservation & NAGPRA — Historic Properties list",
+              "url": "https://mashpeewampanoagtribe-nsn.gov/historic-preservation-nagpra",
+              "inspectionScope": "Actual public mission/programme body and Historic Properties list naming Avant House; no underlying deed, agreement or site file inspected."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-wampanoag-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-wampanoag-photo.jpg",
+          "recordInspection": "Exact item description, creator, date, source and media-specific license body read in normal HTTP 200 metadata page; footer metadata CC0 is not the reuse basis.",
+          "status": "actual-available-frame-inspected-ready",
+          "reproductionNote": "Root retrieved the exact provider-exposed 960 × 637 available frame normally with HTTP 200. This researcher individually viewed the complete file with view_image. Larger linked original pixels were not retrieved or inspected. No new pixel crop, retouching, colorization or generation; JPEG bytes retained. Card/background CSS crops and overlays must be disclosed while the opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "accessLimits": "No museum interior, ceremony, collection object, named person, current conditions, leadership authority or private record inspected through the image. Reuse does not imply photographer/community endorsement or newly licensed separately owned artwork. Small dated sign/banner graphics remain incidental to the whole-building photograph, not isolated, interpreted as traditional art or separately claimed newly licensed.",
+          "width": 960,
+          "height": 637,
+          "retrievedSourceSha256": "97b6fae143881bc4adff161e3620649e05a285bd7896d6971e5a6e383828f926",
+          "inputFileSha256": "97b6fae143881bc4adff161e3620649e05a285bd7896d6971e5a6e383828f926",
+          "assetSha256": "97b6fae143881bc4adff161e3620649e05a285bd7896d6971e5a6e383828f926",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 637,
+            "fullAvailableFrame": true,
+            "sha256": "97b6fae143881bc4adff161e3620649e05a285bd7896d6971e5a6e383828f926"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:12;--profile-angle:-39deg;--profile-photo:url(\"../../assets/profile-visuals/c10-wampanoag-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "warm-springs",
@@ -15785,6 +17170,76 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "zuni",
+      "name": "Zuni",
+      "originalId": 454,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 89,
+      "angle": -44,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Zuni Pueblo exterior, stereoscopic double view, 1873",
+          "creator": "Photographer not identified in the NARA item",
+          "date": "1873",
+          "rightsLabel": "Public domain — U.S. federal survey work; Public Domain Mark 1.0 at the media record",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "archive": "U.S. National Archives, NAID 519764 /77-WF-40; War Department geographical surveys west of the 100 thmeridian",
+          "scope": "Outside nineteenth-century federal-survey exterior view explicitly identified as Zuni Pueblo. Photographer remains unknown in this item; no inferred O’Sullivan attribution. Not a current portrait or unrestricted visitor/photography permission. The entire paired stereoscopic image is retained; neither half is isolated or recombined. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Zuni Pueblo visitor brochure — public cultural-privacy and learning context",
+              "url": "https://www.nmlegis.gov/handouts/ERDT%20101315%20Item%207%20Zuni%20Pueblo%20Brochure.pdf",
+              "inspectionScope": "Actual brochure cultural-privacy statements read; no religious image or activity reused."
+            }
+          ],
+          "id": "c12-zuni-photo",
+          "profileSlugs": [
+            "zuni"
+          ],
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zuni_Pueblo,_New_Mexico_view_from_exterior,_1873_-_NARA_-_519764.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Zuni_Pueblo%2C_New_Mexico_view_from_exterior%2C_1873_-_NARA_-_519764.jpg/960px-Zuni_Pueblo%2C_New_Mexico_view_from_exterior%2C_1873_-_NARA_-_519764.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Zuni_Pueblo%2C_New_Mexico_view_from_exterior%2C_1873_-_NARA_-_519764.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c12-zuni-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c12-zuni-photo.jpg",
+          "credit": "Photographer not identified in the NARA item / U.S. National Archives, NAID 519764 /77-WF-40; War Department geographical surveys west of the 100 thmeridian · Public domain — U.S. federal survey work; Public Domain Mark 1.0 at the media record",
+          "cardCredit": "Photo: Photographer not identified in the NARA item · Public domain — U.S. federal survey work; Public Domain Mark 1.0 at the media record",
+          "recordInspection": "Actual item identification, creator/date and media-specific rights statement read. MetadataCC 0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "A black-and-white stereoscopic image retains two side-by-side exterior views of multistory Pueblo buildings, ladders and an open foreground, with marks and worn edges.",
+          "reproductionNote": "Exact record-exposed provider preview retrieved normally HTTP200 by root and complete available delivered frame personally viewed with view_image by the Southwest reviewer. Larger original pixels uninspected. JPEG retained byte-for-byte: no Atlas pixel crop, retouching, colorization or generation. Provider resizing/compression retained; card and backdrop CSS may crop or overlay while the full available frame remains accessible proportionally. Both stereoscopic views, dividing line, handwritten marks and edge wear are retained as delivered. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 608,
+          "inputFileSha256": "59fc7e9ede10de0c182a15bc901be5b75726309cde343ded0956c1719f54627a",
+          "retrievedSourceSha256": "59fc7e9ede10de0c182a15bc901be5b75726309cde343ded0956c1719f54627a",
+          "assetSha256": "59fc7e9ede10de0c182a15bc901be5b75726309cde343ded0956c1719f54627a",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "59fc7e9ede10de0c182a15bc901be5b75726309cde343ded0956c1719f54627a"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:89;--profile-angle:-44deg;--profile-photo:url(\"../../assets/profile-visuals/c12-zuni-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     }
   ]
 }
