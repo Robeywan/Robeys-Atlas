@@ -52,6 +52,26 @@ for(const [i,old] of earlierQueued.profiles.entries()){
   assert.deepEqual(identity(item),identity(old),'Promoted route retains every original identity field');
  }
 }
+// Correct two explicitly reviewed queue pointers introduced before cohort10;
+// existing profile names and public routes are unchanged. No general slug waiver.
+const routeRepairs=read('data/queue-route-corrections-20261028.json').repairs;
+assert.equal(routeRepairs.length,2);
+const latestQueue=JSON.parse(execFileSync('git',['show','HEAD:data/queued-directory-entries.json'],{maxBuffer:30e6}));
+for(const [i,old] of latestQueue.profiles.entries()){
+ const expected=structuredClone(old),item=queued.profiles[i];
+ const repair=routeRepairs.find(r=>r.name===old.name);
+ if(repair){
+  assert([repair.beforeSlug,repair.afterSlug].includes(old.slug));
+  expected.slug=repair.afterSlug;
+  assert(profiles.some(p=>p.slug===repair.afterSlug&&p.name===repair.name));
+ }
+ if(item.researchStatus==='queued')assert.deepEqual(item,expected,'Latest queued identity fields and repaired pointer preserved');
+ else {
+  const identity=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!queuePromotionFields.has(key)));
+  assert.deepEqual(identity(item),identity(expected),'Reviewed-guide promotion preserves identity and repaired pointer');
+ }
+}
+for(const repair of routeRepairs)assert.equal(queued.profiles.filter(p=>p.name===repair.name&&p.slug===repair.afterSlug).length,1);
 const earlierProfiles=JSON.parse(execFileSync('git',['show','HEAD:data/profiles.json'],{maxBuffer:50e6}));
 const currentRawProfiles=read('data/profiles.json');
 const startingRows=fs.readdirSync('data').filter(name=>/^twenty-profile-batch-\d+\.json$/.test(name)).flatMap(name=>read('data/'+name).profiles);

@@ -1,0 +1,29 @@
+{
+  "reviewedAt": "2026-10-28",
+  "baselineCommit": "9c83e24567317712a7fc087212050d1a80a2deb7",
+  "scope": "Two preexisting queue pointers corrected to existing public routes; names, identities, histories and route URLs unchanged.",
+  "repairs": [
+    {
+      "name": "Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria of California",
+      "beforeSlug": "tuolumne-band-of-me-wuk-indians-of-the-tuolumne-rancheria-of-california",
+      "afterSlug": "tuolumne-band-of-mewuk-indians-of-the-tuolumne-rancheria-of-california",
+      "allowedFields": [
+        "slug"
+      ],
+      "head158HasBug": true,
+      "existingBuiltRouteExists": true,
+      "oldQueueRouteExists": false
+    },
+    {
+      "name": "Twenty-Nine Palms Band of Mission Indians of California",
+      "beforeSlug": "twenty-nine-palms-band-of-mission-indians-of-california",
+      "afterSlug": "twentynine-palms-band-of-mission-indians-of-california",
+      "allowedFields": [
+        "slug"
+      ],
+      "head158HasBug": true,
+      "existingBuiltRouteExists": true,
+      "oldQueueRouteExists": false
+    }
+  ]
+}
