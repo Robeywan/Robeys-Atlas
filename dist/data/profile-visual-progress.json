@@ -6,8 +6,8 @@
     "selectedProfiles": 128,
     "existingApache": 1,
     "newProfileTreatments": 127,
-    "newTreatmentsWithPhotographs": 118,
-    "decorativeTreatmentsAwaitingPhotographs": 9,
+    "newTreatmentsWithPhotographs": 119,
+    "decorativeTreatmentsAwaitingPhotographs": 8,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -152,19 +152,79 @@
       "hue": 11,
       "angle": -49,
       "composition": "orbit",
-      "images": [],
+      "images": [
+        {
+          "id": "abihka-chitto-harjo-duncan-1903",
+          "profileSlugs": [
+            "abihka"
+          ],
+          "mediaType": "photograph",
+          "title": "Chitto Harjo, photographed by Duncan, circa 1903",
+          "creator": "Duncan; full photographer identity not established by the inspected record",
+          "archive": "Library of Congress, Prints and Photographs Division, LOT 12920; Wikimedia Commons digital copy",
+          "date": "circa 1903, as catalogued by the Library of Congress",
+          "credit": "Photo by Duncan, c.1903; copyright registered by Harrie D. Blake. Library of Congress, LC-USZ62-111977 (LOT 12920); Wikimedia Commons digital copy. Public domain in the United States; Commons Public Domain Mark1.0.",
+          "cardCredit": "Duncan / Library of Congress · U.S. public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chitto_Harjo_or_Crazy_Snake,_head-and-shoulders_portrait,_facing_front)_-_photo_by_Duncan_LCCN94511526.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Chitto_Harjo_or_Crazy_Snake%2C_head-and-shoulders_portrait%2C_facing_front%29_-_photo_by_Duncan_LCCN94511526.jpg",
+          "rightsLabel": "Public domain in the United States — published or registered before1931; Commons Public Domain Mark1.0",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Chitto_Harjo_or_Crazy_Snake,_head-and-shoulders_portrait,_facing_front)_-_photo_by_Duncan_LCCN94511526.jpg#Licensing",
+          "reviewedAt": "2026-10-27",
+          "alt": "Black-and-white head-and-shoulders portrait of Chitto Harjo facing forward, with dark shoulder-length hair, a light shirt and a dark vest; the photographic copy includes print margins and Duncan's credit.",
+          "scope": "Chitto Harjo is an individually identified Muscogee historical figure with a documented Arbeka connection: Kenneth W. McIntosh's Oklahoma Historical Society biography places his birth at Arbeka on the Deep Fork River in1846. The existing Abihka profile's public marker and community-history sources explicitly pair Arbeka and Abihka. This portrait illustrates that named person's historical connection, not every Abihka town or family, universal dress, present leadership, a current separate government or territorial extent. The source credits the photograph to Duncan; no fuller photographer identity or sitter-wide cultural interpretation is inferred. The complete available Commons JPEG, including its photographic margins, was downloaded and visually inspected. Commons file history labels the 2018 replacement “LOC upscale” and records a change from 820×1024 to 3281×4096. We inspected the larger Commons file; the original print or negative and whether the replacement involved resampling or a higher-resolution source were not independently established. No source-frame crop, retouching, colorization or generated pixels were added. Directory/backdrop CSS may crop or overlay the display, with credits retained. This image review adds no substantive historical source count.",
+          "contextSources": [
+            {
+              "title": "Harjo, Chitto — Kenneth W. McIntosh, Oklahoma Historical Society",
+              "url": "https://www.okhistory.org/publications/enc/entry?entry=HA020",
+              "inspectionScope": "Actual article body reopened2026-10-27, especially its explicit Arbeka birthplace statement. This is already source p2-harjo in the Abihka guide; the image-context check does not add another substantive work. The site's own copyrighted portrait is not used."
+            },
+            {
+              "title": "Library of Congress catalogue94511526 / digital IDcph.3c11977",
+              "url": "https://www.loc.gov/pictures/item/94511526/",
+              "inspectionScope": "Complete indexed primary catalogue body read2026-10-27 for sitter, Duncan credit, circa1903 date, LC-USZ62-111977, copyright registrationH39695/HarrieD.Blake and No known restrictions on publication advisory. Direct item retrieval returned403; original LOC image and physical print were not inspected. An independent Commons media record and its actual file were inspected successfully; no blocked-origin alternate endpoint was attempted."
+            }
+          ],
+          "recordInspection": "Actual Commons file page and Licensing/File history sections read2026-10-27. The exact file is identified as ChittoHarjo, date1903, sourced to LOC94511526/cph.3c11977, with Duncan credit in the title and HarrieD.Blake copyright note. Media-specific licensing states pre1931 U.S. publication/registration public-domain status and Public Domain Mark1.0. File history labels the 2018 replacement “LOC upscale” and gives both dimensions; the replacement method is not established. The primary LOC indexed catalogue body independently names Duncan and No known restrictions on publication; direct LOC retrieval was403, so primary fresh-page/image inspection is not claimed.",
+          "accessLimits": "Direct LOC item request returned403 and was not retried through alternate LOC endpoints. Commons item and its linked full JPEG independently returned200 without challenge or login. The Commons copy's metadata and actual full available pixels were inspected, not the original LOC print/negative. The photographer's full identity is not established; no worldwide author-life copyright determination is asserted.",
+          "asset": "assets/profile-visuals/abihka-chitto-harjo-duncan-1903.jpg",
+          "cardAsset": "assets/profile-visuals/abihka-chitto-harjo-duncan-1903.jpg",
+          "dimensions": {
+            "width": 3281,
+            "height": 4096
+          },
+          "width": 3281,
+          "height": 4096,
+          "bytes": 1453465,
+          "sha256": "e479f20d28664d671ec256c7db96b2bc29f11010e1dc6de45eecca90ebf743b9",
+          "assetSha256": "e479f20d28664d671ec256c7db96b2bc29f11010e1dc6de45eecca90ebf743b9",
+          "originalSha256": "e479f20d28664d671ec256c7db96b2bc29f11010e1dc6de45eecca90ebf743b9",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "reviewedAt": "2026-10-27",
+            "displayedAt": {
+              "width": 1408,
+              "height": 1757
+            }
+          },
+          "reproductionNote": "Unchanged complete 3281×4096 Commons JPEG. Its history labels a 2018 replacement “LOC upscale” and records 820×1024→3281×4096; the digital resampling method or a new scan was not independently established. No pixel crop, retouching, colorization or generated alteration was added. CSS crops and overlays affect display only; the complete available frame remains linked. U.S. public-domain status is recorded without a new worldwide copyright guarantee.",
+          "status": "actual-file-inspected-ready",
+          "crop": "Complete delivered Commons frame unchanged. CSS display crops and overlays only; original print or negative not inspected."
+        }
+      ],
       "eligibilityBasis": "Published developed profile",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:11;--profile-angle:-49deg;--profile-photo:none",
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:11;--profile-angle:-49deg;--profile-photo:url(\"../../assets/profile-visuals/abihka-chitto-harjo-duncan-1903.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
-      "substantiveInspectedSources": 12
+      "substantiveInspectedSources": 13
     },
     {
       "slug": "absentee-shawnee",
