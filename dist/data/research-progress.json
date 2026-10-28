@@ -4139,7 +4139,64 @@
     "slug": "catawba",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 5,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p42-s3",
+          "reason": "Begin with the Nation’s own historical account and river relationships."
+        },
+        {
+          "sourceId": "p10-catawba-context",
+          "reason": "Compare named scholarship on changing communities and colonial relationships."
+        },
+        {
+          "sourceId": "p10-catawba-environment",
+          "reason": "Follow the Nation’s public account of present institutional responsibilities."
+        }
+      ],
+      "imageRecordId": "c10-catawba-photo"
+    },
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review community-directed language, pottery and family histories without assuming rights to reproduce cultural objects.",
+        "New River Catawba and Saponi-Catawba legacy leads need their own authorship/identity review; no current-government membership bridge is inferred.",
+        "Inspect original treaties, land records and selected historical scholarship before extending dates or legal claims."
+      ]
+    },
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Review community-directed language, pottery and family histories without assuming rights to reproduce cultural objects.",
+      "New River Catawba and Saponi-Catawba legacy leads need their own authorship/identity review; no current-government membership bridge is inferred.",
+      "Inspect original treaties, land records and selected historical scholarship before extending dates or legal claims."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Catawba Nation",
+    "slug": "catawba-nation",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
     "suggestedReadingLinks": 0,
     "recordedContentChecks": 0,
     "supportingContentChecks": 0,
@@ -4152,11 +4209,18 @@
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "rationale": "Identity-only outline; identification evidence is not a substantive reading-source collection or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated sources, individually scoped imagery and geographic associations remain queued."
+      ]
     },
     "reviewedAt": null,
-    "remainingGaps": [],
+    "remainingGaps": [
+      "Develop a government-specific, community-led historical introduction and annotated reading path.",
+      "Identify and inspect specifically relevant imagery and exact media reuse terms.",
+      "Review detailed relationships with other communities and historical naming changes.",
+      "Review geographic navigation connections separately; no map association is inferred from a broad people label."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -4639,7 +4703,64 @@
     "slug": "cherokee",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 6,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 2,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p10-cherokee-history",
+          "reason": "Read the current official historical account, keeping movement, removal and rebuilding distinct."
+        },
+        {
+          "sourceId": "p10-cherokee-master",
+          "reason": "Explore a detailed community-language teaching approach."
+        },
+        {
+          "sourceId": "p10-cherokee-ukb-museum",
+          "reason": "Compare a separately named government’s public cultural institution."
+        }
+      ],
+      "imageRecordId": "c10-cherokee-photo"
+    },
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
+        "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
+        "Original treaty/court records, family histories and actual language lessons require their own review."
+      ]
+    },
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
+      "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
+      "Original treaty/court records, family histories and actual language lessons require their own review."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Cherokee Nation",
+    "slug": "cherokee-nation",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
     "suggestedReadingLinks": 0,
     "recordedContentChecks": 0,
     "supportingContentChecks": 0,
@@ -4652,11 +4773,18 @@
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "rationale": "Identity-only outline; identification evidence is not a substantive reading-source collection or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated sources, individually scoped imagery and geographic associations remain queued."
+      ]
     },
     "reviewedAt": null,
-    "remainingGaps": [],
+    "remainingGaps": [
+      "Develop a government-specific, community-led historical introduction and annotated reading path.",
+      "Identify and inspect specifically relevant imagery and exact media reuse terms.",
+      "Review detailed relationships with other communities and historical naming changes.",
+      "Review geographic navigation connections separately; no map association is inferred from a broad people label."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -4732,24 +4860,56 @@
     "slug": "cheyenne",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 4,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 3,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p52-s2",
+          "reason": "Begin with the Tribes’ own account of language education."
+        },
+        {
+          "sourceId": "p10-cheyenne-northern-homelands",
+          "reason": "Follow Northern Cheyenne homeland and return with an attributed community voice."
+        },
+        {
+          "sourceId": "p52-s1",
+          "reason": "Compare the Southern Cheyenne path into Indian Territory and allotment."
+        }
+      ],
+      "imageRecordId": "c10-cheyenne-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read more Northern and Southern community-authored scholarship and original removal records.",
+        "Verify current language programmes separately from undated descriptions.",
+        "Compare naming interpretations with Cheyenne speakers.",
+        "Reservoir view is modern regional context, not confirmed reservation shoreline or a territorial claim."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read more Northern and Southern community-authored scholarship and original removal records.",
+      "Verify current language programmes separately from undated descriptions.",
+      "Compare naming interpretations with Cheyenne speakers.",
+      "Reservoir view is modern regional context, not confirmed reservation shoreline or a territorial claim."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -4912,24 +5072,58 @@
     "slug": "chickasaw",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 6,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 4,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p55-s1",
+          "reason": "Begin with the Nation’s concise historical overview."
+        },
+        {
+          "sourceId": "p10-chickasaw-removal",
+          "reason": "Read the more focused account of forced movement and negotiations."
+        },
+        {
+          "sourceId": "p10-chickasaw-language",
+          "reason": "Continue with the Nation’s public language-learning routes."
+        },
+        {
+          "sourceId": "p10-chickasaw-capitol",
+          "reason": "Connect historical government with the specifically identified capitol."
+        }
+      ],
+      "imageRecordId": "c10-chickasaw-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Compare selected original removal and constitutional records with the Nation’s histories.",
+        "Review actual speaker-led publications and learning materials; programme descriptions are not outcome studies.",
+        "The earlier cultural-center and village-history leads remain separately unreviewed."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Compare selected original removal and constitutional records with the Nation’s histories.",
+      "Review actual speaker-led publications and learning materials; programme descriptions are not outcome studies.",
+      "The earlier cultural-center and village-history leads remain separately unreviewed."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -5521,24 +5715,54 @@
     "slug": "chitimacha",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 1,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-chitimacha-history",
+          "reason": "Begin with the Tribe’s own historical narrative, keeping the stated chronology conflict open."
+        },
+        {
+          "sourceId": "p62-s1",
+          "reason": "Read the Tribe’s explanation of documentation and language renewal."
+        },
+        {
+          "sourceId": "c10-chitimacha-rivercane",
+          "reason": "Add the distinct public programme account of elder housing and support."
+        }
+      ],
+      "imageRecordId": "c10-chitimacha-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Compare the original constitution/adoption records to resolve the 1970 vote-date discrepancy.",
+        "Read selected colonial and land records alongside community interpretation rather than repeating numerical superlatives.",
+        "The older comparative-grammar PDF remains an unread lead; inspect relevant public language scholarship without reproducing restricted materials."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Compare the original constitution/adoption records to resolve the 1970 vote-date discrepancy.",
+      "Read selected colonial and land records alongside community interpretation rather than repeating numerical superlatives.",
+      "The older comparative-grammar PDF remains an unread lead; inspect relevant public language scholarship without reproducing restricted materials."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -5602,24 +5826,58 @@
     "slug": "choctaw",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 4,
+    "supportingContentChecks": 1,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p65-s1",
+          "reason": "Begin with Mississippi Band history and community continuity."
+        },
+        {
+          "sourceId": "p65-s3",
+          "reason": "Follow the Oklahoma Nation’s public language-school introduction."
+        },
+        {
+          "sourceId": "p10-choctaw-codes",
+          "reason": "Read its distinct historical account of wartime communications."
+        },
+        {
+          "sourceId": "p10-choctaw-capitol",
+          "reason": "Connect the capitol photograph with a focused architectural history."
+        }
+      ],
+      "imageRecordId": "c10-choctaw-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add individual community and family perspectives, including appropriate Louisiana/Jena sources, without automatic government affiliation.",
+        "Inspect original treaties, constitutional records and military evidence before extending legal or comparative claims.",
+        "The History index is supporting navigation; individual linked works count only after actual reading."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Add individual community and family perspectives, including appropriate Louisiana/Jena sources, without automatic government affiliation.",
+      "Inspect original treaties, constitutional records and military evidence before extending legal or comparative claims.",
+      "The History index is supporting navigation; individual linked works count only after actual reading."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -7320,24 +7578,62 @@
     "slug": "crow",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 7,
     "suggestedReadingLinks": 11,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 4,
+    "supportingContentChecks": 1,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p10-crow-neh-library",
+          "reason": "Start with Crow-led archives and culturally appropriate access."
+        },
+        {
+          "sourceId": "p10-crow-education-resolution",
+          "reason": "Read a selected legislative record on research priorities."
+        },
+        {
+          "sourceId": "p10-crow-plenty-coups-study",
+          "reason": "Examine Plenty Coups’ leadership in a cited historical study."
+        },
+        {
+          "sourceId": "p10-crow-1868-treaty",
+          "reason": "Compare the study with selected 1868 treaty terms."
+        }
+      ],
+      "imageRecordId": "c10-crow-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read more Apsáalooke-authored history and public language resources.",
+        "Read remaining resolution pages before discussing complete operative provisions.",
+        "Verify grant outcomes separately and respect donor/community access controls.",
+        "Inspect original treaty and later records before present legal/boundary claims.",
+        "Older Vuntut Gwitchin/Old Crow link was a wrong-community lead and is explicitly excluded."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read more Apsáalooke-authored history and public language resources.",
+      "Read remaining resolution pages before discussing complete operative provisions.",
+      "Verify grant outcomes separately and respect donor/community access controls.",
+      "Inspect original treaty and later records before present legal/boundary claims.",
+      "Older Vuntut Gwitchin/Old Crow link was a wrong-community lead and is explicitly excluded."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -11443,24 +11739,54 @@
     "slug": "iowa-ioway",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 2,
+    "listedSources": 3,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 3,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p144-s1",
+          "reason": "Begin with the northern Tribe’s account of names and the separation of community histories."
+        },
+        {
+          "sourceId": "p144-s2",
+          "reason": "Compare the Oklahoma-focused removal narrative and selected timeline; original treaty texts remain a further task."
+        },
+        {
+          "sourceId": "c10-ioway-mission",
+          "reason": "Read how the Tribe presents the return and interpretation of a former mission site."
+        }
+      ],
+      "imageRecordId": "c10-iowa-ioway-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original nineteenth-century treaty and school records alongside community histories.",
+        "Develop separate Kansas–Nebraska and Oklahoma government guides without treating a broader people label as one present government.",
+        "Check dates and original evidence behind differing name-origin traditions; add public community language work without inferring absence from an undated guide."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read original nineteenth-century treaty and school records alongside community histories.",
+      "Develop separate Kansas–Nebraska and Oklahoma government guides without treating a broader people label as one present government.",
+      "Check dates and original evidence behind differing name-origin traditions; add public community language work without inferring absence from an undated guide."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -16730,25 +17056,59 @@
     "name": "Miami",
     "slug": "miami",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Cited overview",
-    "listedSources": 2,
+    "depth": "Source guide",
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 4,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-miami-center",
+          "reason": "Start with the Center’s explanation of whose initiative it is and whom its work serves."
+        },
+        {
+          "sourceId": "c10-miami-offices",
+          "reason": "Follow the selected language and education explanations toward carefully scoped further research."
+        },
+        {
+          "sourceId": "c10-miami-removal",
+          "reason": "Read the removal introduction and the transcription method before using the primary-document archive."
+        },
+        {
+          "sourceId": "p212-s1",
+          "reason": "Use the dated institutional timeline for partnership milestones, rather than as a complete people’s history."
+        }
+      ],
+      "imageRecordId": "c10-miami-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read selected complete removal letters against their manuscript or microfilm images.",
+        "Add community-authored histories from distinct Miami governments, preserving their separate voices and names.",
+        "Verify the authority of the older miami-oxford.org lead before treating it as a source."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read selected complete removal letters against their manuscript or microfilm images.",
+      "Add community-authored histories from distinct Miami governments, preserving their separate voices and names.",
+      "Verify the authority of the older miami-oxford.org lead before treating it as a source."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -17127,6 +17487,40 @@
       "Review original records behind the Nation’s relocation and repurchase account.",
       "Add community-directed language, family and cultural publications.",
       "Review later infrastructure reports separately; do not infer present water safety."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Mississippi Band of Choctaw Indians",
+    "slug": "mississippi-band-of-choctaw-indians",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 0,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": null,
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only outline; identification evidence is not a substantive reading-source collection or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated sources, individually scoped imagery and geographic associations remain queued."
+      ]
+    },
+    "reviewedAt": null,
+    "remainingGaps": [
+      "Develop a government-specific, community-led historical introduction and annotated reading path.",
+      "Identify and inspect specifically relevant imagery and exact media reuse terms.",
+      "Review detailed relationships with other communities and historical naming changes.",
+      "Review geographic navigation connections separately; no map association is inferred from a broad people label."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
@@ -17762,8 +18156,65 @@
     "slug": "muscogee-creek",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 5,
     "suggestedReadingLinks": 9,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 1,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p232-s2",
+          "reason": "Begin with selected town-organization interpretation from Ocmulgee Mounds."
+        },
+        {
+          "sourceId": "p232-s3",
+          "reason": "Compare an attributed scholarly account and its distinct chronology."
+        },
+        {
+          "sourceId": "p10-muscogee-council",
+          "reason": "Continue with the contemporary Nation’s institutional history of its Council House."
+        }
+      ],
+      "imageRecordId": "c10-muscogee-creek-photo"
+    },
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Compare original town records and community-directed scholarship before resolving different chronologies or identity labels.",
+        "The public language gateway and uninspected site-bulletin PDF do not establish full lesson/document inspection.",
+        "Add town-specific perspectives without turning historical confederacy membership into a current political affiliation."
+      ]
+    },
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Compare original town records and community-directed scholarship before resolving different chronologies or identity labels.",
+      "The public language gateway and uninspected site-bulletin PDF do not establish full lesson/document inspection.",
+      "Add town-specific perspectives without turning historical confederacy membership into a current political affiliation."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Muscogee Nation",
+    "slug": "muscogee-nation",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
     "recordedContentChecks": 0,
     "supportingContentChecks": 0,
     "minimumSources": 12,
@@ -17775,11 +18226,18 @@
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "rationale": "Identity-only outline; identification evidence is not a substantive reading-source collection or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated sources, individually scoped imagery and geographic associations remain queued."
+      ]
     },
     "reviewedAt": null,
-    "remainingGaps": [],
+    "remainingGaps": [
+      "Develop a government-specific, community-led historical introduction and annotated reading path.",
+      "Identify and inspect specifically relevant imagery and exact media reuse terms.",
+      "Review detailed relationships with other communities and historical naming changes.",
+      "Review geographic navigation connections separately; no map association is inferred from a broad people label."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -22996,24 +23454,56 @@
     "slug": "omaha",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 3,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p10-omaha-thpo",
+          "reason": "Begin with the Tribe’s public preservation work."
+        },
+        {
+          "sourceId": "p267-s2",
+          "reason": "Use Ridington’s critique to read older claims carefully."
+        },
+        {
+          "sourceId": "p10-omaha-1854-treaty",
+          "reason": "Compare analysis with selected March 1854 terms."
+        }
+      ],
+      "imageRecordId": "c10-omaha-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add more Omaha-authored public history and language scholarship.",
+        "Inspect original treaty and implementation records before legal/land claims.",
+        "Review complete current preservation policy separately from the brief mission.",
+        "Decatur image is a modern Missouri River bridge setting, not Indigenous-built architecture, a precise historic village or boundary."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Add more Omaha-authored public history and language scholarship.",
+      "Inspect original treaty and implementation records before legal/land claims.",
+      "Review complete current preservation policy separately from the brief mission.",
+      "Decatur image is a modern Missouri River bridge setting, not Indigenous-built architecture, a precise historic village or boundary."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -23326,24 +23816,58 @@
     "slug": "osage",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 7,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 4,
+    "supportingContentChecks": 2,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-osage-language",
+          "reason": "Begin with the Nation’s account of language research and learning."
+        },
+        {
+          "sourceId": "c10-osage-museum",
+          "reason": "Read an Osage-governed museum’s institutional history."
+        },
+        {
+          "sourceId": "c10-osage-farming",
+          "reason": "Follow a short Nation-published account of historical farming and hunting."
+        },
+        {
+          "sourceId": "c10-osage-fortscott",
+          "reason": "Compare a dated federal-site interpretation and its framing."
+        }
+      ],
+      "imageRecordId": "c10-osage-catlin"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop a fuller Osage-authored historical and removal chronology.",
+        "Compare underlying records and scholarship, including the period represented by the painting.",
+        "Review present institutional changes separately; goals and dated descriptions are not current outcome statistics."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Develop a fuller Osage-authored historical and removal chronology.",
+      "Compare underlying records and scholarship, including the period represented by the painting.",
+      "Review present institutional changes separately; goals and dated descriptions are not current outcome statistics."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -23381,12 +23905,12 @@
     "researchComplete": false
   },
   {
-    "originalId": 272,
-    "name": "Otoe",
-    "slug": "otoe",
+    "originalId": null,
+    "name": "Osotouy (historical Quapaw village)",
+    "slug": "osotouy-historical-quapaw-village",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Source guide",
-    "listedSources": 2,
+    "depth": "Queued for research",
+    "listedSources": 0,
     "suggestedReadingLinks": 0,
     "recordedContentChecks": 0,
     "supportingContentChecks": 0,
@@ -23399,11 +23923,77 @@
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "rationale": "Name-only historical-community outline; no substantive village bibliography or adequacy review.",
+      "remainingLimits": [
+        "Develop a Quapaw-informed history of the named village.",
+        "Review source variants, village chronology and imagery without inferring disappearance or a separate modern government."
+      ]
     },
     "reviewedAt": null,
-    "remainingGaps": [],
+    "remainingGaps": [
+      "Detailed village history and naming variants remain queued.",
+      "Individually relevant cleared imagery remains a gap.",
+      "This historical name does not establish whether a present community uses the same name."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": 272,
+    "name": "Otoe",
+    "slug": "otoe",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Source guide",
+    "listedSources": 4,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p272-s2",
+          "reason": "Start with the Tribe’s linked Otoe/Missouria history."
+        },
+        {
+          "sourceId": "p10-otoe-1854-treaty",
+          "reason": "Compare narrative with selected 1854 provisions."
+        },
+        {
+          "sourceId": "p10-otoe-program-relocation",
+          "reason": "See a dated language/preservation institutional example."
+        }
+      ],
+      "imageRecordId": "c10-otoe-photo"
+    },
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Expand Otoe- and Missouria-authored language/historical scholarship.",
+        "Inspect original 1854 and subsequent reservation/removal records.",
+        "Verify current staffing separately from the April 2026 announcement.",
+        "Big Blue River at Surprise is a named-waterway example, not an identified former village or boundary."
+      ]
+    },
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Expand Otoe- and Missouria-authored language/historical scholarship.",
+      "Inspect original 1854 and subsequent reservation/removal records.",
+      "Verify current staffing separately from the April 2026 announcement.",
+      "Big Blue River at Surprise is a named-waterway example, not an identified former village or boundary."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -23979,24 +24569,56 @@
     "slug": "pawnee",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 1,
+    "listedSources": 3,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 3,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p284-s1",
+          "reason": "Begin with the Nation’s own history."
+        },
+        {
+          "sourceId": "p10-pawnee-resarukaru-council",
+          "reason": "Clarify the named councils’ historical roles."
+        },
+        {
+          "sourceId": "p10-pawnee-garden-learning",
+          "reason": "Follow an attributed garden-education example."
+        }
+      ],
+      "imageRecordId": "c10-pawnee-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add Pawnee-authored language/history scholarship and family voices.",
+        "Inspect original removal, school and allotment records.",
+        "Verify current council provisions and building uses separately.",
+        "Agency exterior is institutional history, not traditional architecture; no interior/sensitive material shown."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Add Pawnee-authored language/history scholarship and family voices.",
+      "Inspect original removal, school and allotment records.",
+      "Verify current council provisions and building uses separately.",
+      "Agency exterior is institutional history, not traditional architecture; no interior/sensitive material shown."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -24291,24 +24913,54 @@
     "slug": "peoria",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 2,
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 1,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-peoria-language",
+          "reason": "Begin with the Tribe’s own explanation of language learning."
+        },
+        {
+          "sourceId": "c10-peoria-guide",
+          "reason": "Use the selected confederation history, while keeping its chronology cautions visible."
+        },
+        {
+          "sourceId": "c10-peoria-ohs",
+          "reason": "Compare the reference account critically, avoiding its outdated racial framing and unresolved dates."
+        }
+      ],
+      "imageRecordId": "c10-peoria-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Resolve conflicting termination/restoration dates using the original federal acts and a community historical account.",
+        "Read Nation-published histories of the distinct confederated peoples rather than flattening them into one original community.",
+        "Inspect relevant nineteenth-century school records and community responses; the county hazard-plan source remains an unread lead."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Resolve conflicting termination/restoration dates using the original federal acts and a community historical account.",
+      "Read Nation-published histories of the distinct confederated peoples rather than flattening them into one original community.",
+      "Inspect relevant nineteenth-century school records and community responses; the county hazard-plan source remains an unread lead."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -24705,24 +25357,60 @@
     "slug": "ponca",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 6,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 4,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p10-ponca-nebraska-history",
+          "reason": "Begin with the Nebraska Tribe’s removal and return account."
+        },
+        {
+          "sourceId": "p302-s1",
+          "reason": "Keep Oklahoma government distinct through a primary institutional document."
+        },
+        {
+          "sourceId": "p10-ponca-culture-department",
+          "reason": "Explore Nebraska language, archives and public education."
+        },
+        {
+          "sourceId": "p10-ponca-shared-repatriation",
+          "reason": "Read an attributed event account involving both governments."
+        }
+      ],
+      "imageRecordId": "c10-ponca-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add Oklahoma Ponca history and more Nebraska/community voices.",
+        "Resolve conflicting termination-year wording through primary records before publishing an exact date.",
+        "Read complete amendments and primary court/history records before legal/enrollment interpretation.",
+        "Confluence photo is modern northern regional context, not all Ponca communities or Oklahoma government land/boundaries."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Add Oklahoma Ponca history and more Nebraska/community voices.",
+      "Resolve conflicting termination-year wording through primary records before publishing an exact date.",
+      "Read complete amendments and primary court/history records before legal/enrollment interpretation.",
+      "Confluence photo is modern northern regional context, not all Ponca communities or Oklahoma government land/boundaries."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -24998,24 +25686,54 @@
     "slug": "prairie-band-potawatomi",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 2,
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 2,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-prairie-history",
+          "reason": "Begin with the canonical Nation-domain history; the staging copy is not another counted work."
+        },
+        {
+          "sourceId": "c10-prairie-language",
+          "reason": "Read the plan and teaching-method explanations, keeping undated forecasts out of current factual claims."
+        },
+        {
+          "sourceId": "c10-prairie-food",
+          "reason": "Explore community food-system aims and reported activities while separating plans from completion."
+        }
+      ],
+      "imageRecordId": "c10-prairie-band-potawatomi-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read selected original removal/allotment and termination-era documents alongside community historical accounts.",
+        "Locate dated language-programme publications before adding current speaker or class information.",
+        "Confirm facility completion and programme outcomes from later dated Nation publications rather than assuming plans were fulfilled."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read selected original removal/allotment and termination-era documents alongside community historical accounts.",
+      "Locate dated language-programme publications before adding current speaker or class information.",
+      "Confirm facility completion and programme outcomes from later dated Nation publications rather than assuming plans were fulfilled."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -25344,24 +26062,60 @@
     "slug": "quapaw",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 9,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 6,
+    "supportingContentChecks": 2,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-quapaw-name",
+          "reason": "Start with the Nation’s own explanation of its name."
+        },
+        {
+          "sourceId": "c10-quapaw-saracen",
+          "reason": "See how a community author compares stories, records and uncertainty."
+        },
+        {
+          "sourceId": "c10-quapaw-language-about",
+          "reason": "Follow the Language Department’s own explanation of its resources."
+        },
+        {
+          "sourceId": "p315-s2",
+          "reason": "Read a specifically dated report of cultural-institution work."
+        }
+      ],
+      "imageRecordId": "c10-quapaw-bayous"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original removal, treaty and migration records and compare the compressed chronology.",
+        "Preserve uncertainty in Saracen’s biography rather than choosing a familiar legend.",
+        "Inspect linked language materials and oral-history recordings only within their actual access and community guidance.",
+        "The reused Culture Division document URL may serve a newer body in the future."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read original removal, treaty and migration records and compare the compressed chronology.",
+      "Preserve uncertainty in Saracen’s biography rather than choosing a familiar legend.",
+      "Inspect linked language materials and oral-history recordings only within their actual access and community guidance.",
+      "The reused Culture Division document URL may serve a newer body in the future."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -26059,7 +26813,7 @@
     "listedSources": 3,
     "suggestedReadingLinks": 0,
     "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "supportingContentChecks": 2,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
@@ -26116,24 +26870,54 @@
     "slug": "sac-and-fox",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 2,
+    "listedSources": 5,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 1,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c10-sacfox-meskwaki",
+          "reason": "Start with Meskwaki naming and an Iowa community history to understand the limits of the joint label."
+        },
+        {
+          "sourceId": "c10-sacfox-archives",
+          "reason": "Read the selected treaty transcription as a dated document, not proof of assent or present rights."
+        },
+        {
+          "sourceId": "c10-sacfox-talk",
+          "reason": "Follow the Oklahoma Nation’s own introduction to Sauk language work."
+        }
+      ],
+      "imageRecordId": "c10-sac-and-fox-photo"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original treaty manuscripts and community critiques of representation and implementation.",
+        "Develop distinct Iowa, Oklahoma and Kansas–Nebraska government histories without equating the joint label with a single people.",
+        "Inspect selected language materials only within their public-use conditions; no individual proficiency or current speaker estimate is verified."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Read original treaty manuscripts and community critiques of representation and implementation.",
+      "Develop distinct Iowa, Oklahoma and Kansas–Nebraska government histories without equating the joint label with a single people.",
+      "Inspect selected language materials only within their public-use conditions; no individual proficiency or current speaker estimate is verified."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
@@ -26980,7 +27764,64 @@
     "slug": "seminole",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 3,
+    "listedSources": 7,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 3,
+    "supportingContentChecks": 1,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": {
+      "batchId": "starter-guides-10",
+      "reviewedAt": "2026-10-28",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short purposeful path through selected actual-content works. Read annotations for community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p10-seminole-history",
+          "reason": "Begin with the Florida Tribe’s own historical account."
+        },
+        {
+          "sourceId": "p10-seminole-chickee",
+          "reason": "Read public, attributed architectural history alongside the specifically scoped photograph."
+        },
+        {
+          "sourceId": "p10-seminole-bands",
+          "reason": "Compare a distinct Oklahoma government’s account of historical band organization."
+        }
+      ],
+      "imageRecordId": "c10-seminole-photo"
+    },
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop appropriately distinct Oklahoma, Florida, Miccosukee and Freedmen community histories without inferring identity from a shared label.",
+        "Read original war/removal records and named community publications before extending numerical or legal claims.",
+        "Legacy university/newspaper leads remain preserved and uninspected; the selected FAQ paragraphs are supporting identity context only."
+      ]
+    },
+    "reviewedAt": "2026-10-28",
+    "remainingGaps": [
+      "Develop appropriately distinct Oklahoma, Florida, Miccosukee and Freedmen community histories without inferring identity from a shared label.",
+      "Read original war/removal records and named community publications before extending numerical or legal claims.",
+      "Legacy university/newspaper leads remain preserved and uninspected; the selected FAQ paragraphs are supporting identity context only."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Seminole Tribe of Florida",
+    "slug": "seminole-tribe-of-florida",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
     "suggestedReadingLinks": 0,
     "recordedContentChecks": 0,
     "supportingContentChecks": 0,
@@ -26993,11 +27834,18 @@
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "rationale": "Identity-only outline; identification evidence is not a substantive reading-source collection or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated sources, individually scoped imagery and geographic associations remain queued."
+      ]
     },
     "reviewedAt": null,
-    "remainingGaps": [],
+    "remainingGaps": [
+      "Develop a government-specific, community-led historical introduction and annotated reading path.",
+      "Identify and inspect specifically relevant imagery and exact media reuse terms.",
+      "Review detailed relationships with other communities and historical naming changes.",
+      "Review geographic navigation connections separately; no map association is inferred from a broad people label."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },

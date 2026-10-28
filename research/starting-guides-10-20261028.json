@@ -1,0 +1,784 @@
+{
+  "batchId": "starter-guides-10",
+  "reviewedAt": "2026-10-28",
+  "scope": "Twenty selected actual-content guides with specifically scoped credited pictures.",
+  "profiles": [
+    {
+      "slug": "catawba",
+      "name": "Catawba",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p42-s3",
+        "p10-catawba-context",
+        "p10-catawba-environment"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-catawba-context",
+        "p10-catawba-environment"
+      ],
+      "updatedSourceIds": [
+        "p42-s3"
+      ],
+      "imageRecordId": "c10-catawba-photo",
+      "remainingGaps": [
+        "Review community-directed language, pottery and family histories without assuming rights to reproduce cultural objects.",
+        "New River Catawba and Saponi-Catawba legacy leads need their own authorship/identity review; no current-government membership bridge is inferred.",
+        "Inspect original treaties, land records and selected historical scholarship before extending dates or legal claims."
+      ]
+    },
+    {
+      "slug": "cherokee",
+      "name": "Cherokee",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p10-cherokee-history",
+        "p10-cherokee-master",
+        "p10-cherokee-ukb-museum"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-cherokee-history",
+        "p10-cherokee-master",
+        "p10-cherokee-ukb-museum"
+      ],
+      "updatedSourceIds": [
+        "p51-s1",
+        "p51-s2",
+        "p51-s3"
+      ],
+      "imageRecordId": "c10-cherokee-photo",
+      "remainingGaps": [
+        "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
+        "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
+        "Original treaty/court records, family histories and actual language lessons require their own review."
+      ]
+    },
+    {
+      "slug": "cheyenne",
+      "name": "Cheyenne",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p52-s2",
+        "p10-cheyenne-northern-homelands",
+        "p52-s1"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-cheyenne-northern-homelands"
+      ],
+      "updatedSourceIds": [
+        "p52-s1",
+        "p52-s2"
+      ],
+      "imageRecordId": "c10-cheyenne-photo",
+      "remainingGaps": [
+        "Read more Northern and Southern community-authored scholarship and original removal records.",
+        "Verify current language programmes separately from undated descriptions.",
+        "Compare naming interpretations with Cheyenne speakers.",
+        "Reservoir view is modern regional context, not confirmed reservation shoreline or a territorial claim."
+      ]
+    },
+    {
+      "slug": "chickasaw",
+      "name": "Chickasaw",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p55-s1",
+        "p10-chickasaw-removal",
+        "p10-chickasaw-language",
+        "p10-chickasaw-capitol"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-chickasaw-language",
+        "p10-chickasaw-removal",
+        "p10-chickasaw-capitol"
+      ],
+      "updatedSourceIds": [
+        "p55-s1"
+      ],
+      "imageRecordId": "c10-chickasaw-photo",
+      "remainingGaps": [
+        "Compare selected original removal and constitutional records with the Nation’s histories.",
+        "Review actual speaker-led publications and learning materials; programme descriptions are not outcome studies.",
+        "The earlier cultural-center and village-history leads remain separately unreviewed."
+      ]
+    },
+    {
+      "slug": "chitimacha",
+      "name": "Chitimacha",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-chitimacha-history",
+        "p62-s1",
+        "c10-chitimacha-rivercane"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-chitimacha-history",
+        "c10-chitimacha-rivercane"
+      ],
+      "updatedSourceIds": [
+        "p62-s1",
+        "p62-s2"
+      ],
+      "imageRecordId": "c10-chitimacha-photo",
+      "remainingGaps": [
+        "Compare the original constitution/adoption records to resolve the 1970 vote-date discrepancy.",
+        "Read selected colonial and land records alongside community interpretation rather than repeating numerical superlatives.",
+        "The older comparative-grammar PDF remains an unread lead; inspect relevant public language scholarship without reproducing restricted materials."
+      ]
+    },
+    {
+      "slug": "choctaw",
+      "name": "Choctaw",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p65-s1",
+        "p65-s3",
+        "p10-choctaw-codes",
+        "p10-choctaw-capitol"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-choctaw-codes",
+        "p10-choctaw-capitol"
+      ],
+      "updatedSourceIds": [
+        "p65-s1",
+        "p65-s3",
+        "p65-s2"
+      ],
+      "imageRecordId": "c10-choctaw-photo",
+      "remainingGaps": [
+        "Add individual community and family perspectives, including appropriate Louisiana/Jena sources, without automatic government affiliation.",
+        "Inspect original treaties, constitutional records and military evidence before extending legal or comparative claims.",
+        "The History index is supporting navigation; individual linked works count only after actual reading."
+      ]
+    },
+    {
+      "slug": "crow",
+      "name": "Crow",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p10-crow-neh-library",
+        "p10-crow-education-resolution",
+        "p10-crow-plenty-coups-study",
+        "p10-crow-1868-treaty"
+      ],
+      "explicitSectionCorrections": [
+        {
+          "old": {
+            "title": "Identity and context",
+            "text": "The Crow Tribe, also known through the name Apsáalooke, has homelands in the northern plains.",
+            "sourceIds": [
+              "p92-s1"
+            ]
+          },
+          "new": {
+            "title": "Identity and context",
+            "text": "The Crow Tribe, also known through the name Apsáalooke, has homelands in the northern plains.",
+            "sourceIds": [
+              "p10-crow-plenty-coups-study",
+              "p10-crow-education-resolution"
+            ]
+          },
+          "rationale": "Parent explicitly authorized exact citation correction: old p92-s1 concerns Vuntut Gwitchin/Old Crow, Yukon. Identity sentence unchanged; relevant Crow citations replace the wrong-community citation. Source ID/URL retained as excluded lead.",
+          "sourceEvidence": [
+            {
+              "sourceId": "p10-crow-plenty-coups-study",
+              "scope": "Selectedp4, 20–23 Crow Montana place/leadership context."
+            },
+            {
+              "sourceId": "p10-crow-education-resolution",
+              "scope": "PDFp3 Crow Tribe/Nation college and Apsaalooke designation."
+            },
+            {
+              "sourceId": "p92-s1",
+              "scope": "Exact body identifies different Vuntut Gwitchin community."
+            }
+          ]
+        }
+      ],
+      "newSourceIds": [
+        "p10-crow-neh-library",
+        "p10-crow-plenty-coups-study",
+        "p10-crow-education-resolution",
+        "p10-crow-1868-treaty"
+      ],
+      "updatedSourceIds": [
+        "p92-s1"
+      ],
+      "imageRecordId": "c10-crow-photo",
+      "remainingGaps": [
+        "Read more Apsáalooke-authored history and public language resources.",
+        "Read remaining resolution pages before discussing complete operative provisions.",
+        "Verify grant outcomes separately and respect donor/community access controls.",
+        "Inspect original treaty and later records before present legal/boundary claims.",
+        "Older Vuntut Gwitchin/Old Crow link was a wrong-community lead and is explicitly excluded."
+      ]
+    },
+    {
+      "slug": "iowa-ioway",
+      "name": "Iowa (Ioway)",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p144-s1",
+        "p144-s2",
+        "c10-ioway-mission"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-ioway-mission"
+      ],
+      "updatedSourceIds": [
+        "p144-s1",
+        "p144-s2"
+      ],
+      "imageRecordId": "c10-iowa-ioway-photo",
+      "remainingGaps": [
+        "Read original nineteenth-century treaty and school records alongside community histories.",
+        "Develop separate Kansas–Nebraska and Oklahoma government guides without treating a broader people label as one present government.",
+        "Check dates and original evidence behind differing name-origin traditions; add public community language work without inferring absence from an undated guide."
+      ]
+    },
+    {
+      "slug": "miami",
+      "name": "Miami",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-miami-center",
+        "c10-miami-offices",
+        "c10-miami-removal",
+        "p212-s1"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-miami-center",
+        "c10-miami-offices",
+        "c10-miami-removal"
+      ],
+      "updatedSourceIds": [
+        "p212-s1",
+        "p212-s2"
+      ],
+      "imageRecordId": "c10-miami-photo",
+      "remainingGaps": [
+        "Read selected complete removal letters against their manuscript or microfilm images.",
+        "Add community-authored histories from distinct Miami governments, preserving their separate voices and names.",
+        "Verify the authority of the older miami-oxford.org lead before treating it as a source."
+      ]
+    },
+    {
+      "slug": "muscogee-creek",
+      "name": "Muscogee (Creek)",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p232-s2",
+        "p232-s3",
+        "p10-muscogee-council"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-muscogee-council",
+        "p10-muscogee-language"
+      ],
+      "updatedSourceIds": [
+        "p232-s2",
+        "p232-s3"
+      ],
+      "imageRecordId": "c10-muscogee-creek-photo",
+      "remainingGaps": [
+        "Compare original town records and community-directed scholarship before resolving different chronologies or identity labels.",
+        "The public language gateway and uninspected site-bulletin PDF do not establish full lesson/document inspection.",
+        "Add town-specific perspectives without turning historical confederacy membership into a current political affiliation."
+      ]
+    },
+    {
+      "slug": "omaha",
+      "name": "Omaha",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p10-omaha-thpo",
+        "p267-s2",
+        "p10-omaha-1854-treaty"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-omaha-thpo",
+        "p10-omaha-1854-treaty"
+      ],
+      "updatedSourceIds": [
+        "p267-s2"
+      ],
+      "imageRecordId": "c10-omaha-photo",
+      "remainingGaps": [
+        "Add more Omaha-authored public history and language scholarship.",
+        "Inspect original treaty and implementation records before legal/land claims.",
+        "Review complete current preservation policy separately from the brief mission.",
+        "Decatur image is a modern Missouri River bridge setting, not Indigenous-built architecture, a precise historic village or boundary."
+      ]
+    },
+    {
+      "slug": "osage",
+      "name": "Osage",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-osage-language",
+        "c10-osage-museum",
+        "c10-osage-farming",
+        "c10-osage-fortscott"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-osage-language",
+        "c10-osage-museum",
+        "c10-osage-farming",
+        "c10-osage-fortscott"
+      ],
+      "updatedSourceIds": [
+        "p271-s1",
+        "p271-s2"
+      ],
+      "imageRecordId": "c10-osage-catlin",
+      "remainingGaps": [
+        "Develop a fuller Osage-authored historical and removal chronology.",
+        "Compare underlying records and scholarship, including the period represented by the painting.",
+        "Review present institutional changes separately; goals and dated descriptions are not current outcome statistics."
+      ]
+    },
+    {
+      "slug": "otoe",
+      "name": "Otoe",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p272-s2",
+        "p10-otoe-1854-treaty",
+        "p10-otoe-program-relocation"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-otoe-1854-treaty",
+        "p10-otoe-program-relocation"
+      ],
+      "updatedSourceIds": [
+        "p272-s2"
+      ],
+      "imageRecordId": "c10-otoe-photo",
+      "remainingGaps": [
+        "Expand Otoe- and Missouria-authored language/historical scholarship.",
+        "Inspect original 1854 and subsequent reservation/removal records.",
+        "Verify current staffing separately from the April 2026 announcement.",
+        "Big Blue River at Surprise is a named-waterway example, not an identified former village or boundary."
+      ]
+    },
+    {
+      "slug": "pawnee",
+      "name": "Pawnee",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p284-s1",
+        "p10-pawnee-resarukaru-council",
+        "p10-pawnee-garden-learning"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-pawnee-resarukaru-council",
+        "p10-pawnee-garden-learning"
+      ],
+      "updatedSourceIds": [
+        "p284-s1"
+      ],
+      "imageRecordId": "c10-pawnee-photo",
+      "remainingGaps": [
+        "Add Pawnee-authored language/history scholarship and family voices.",
+        "Inspect original removal, school and allotment records.",
+        "Verify current council provisions and building uses separately.",
+        "Agency exterior is institutional history, not traditional architecture; no interior/sensitive material shown."
+      ]
+    },
+    {
+      "slug": "peoria",
+      "name": "Peoria",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-peoria-language",
+        "c10-peoria-guide",
+        "c10-peoria-ohs"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-peoria-guide",
+        "c10-peoria-language",
+        "c10-peoria-ohs"
+      ],
+      "updatedSourceIds": [
+        "p289-s1"
+      ],
+      "imageRecordId": "c10-peoria-photo",
+      "remainingGaps": [
+        "Resolve conflicting termination/restoration dates using the original federal acts and a community historical account.",
+        "Read Nation-published histories of the distinct confederated peoples rather than flattening them into one original community.",
+        "Inspect relevant nineteenth-century school records and community responses; the county hazard-plan source remains an unread lead."
+      ]
+    },
+    {
+      "slug": "ponca",
+      "name": "Ponca",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p10-ponca-nebraska-history",
+        "p302-s1",
+        "p10-ponca-culture-department",
+        "p10-ponca-shared-repatriation"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-ponca-nebraska-history",
+        "p10-ponca-culture-department",
+        "p10-ponca-shared-repatriation"
+      ],
+      "updatedSourceIds": [
+        "p302-s1"
+      ],
+      "imageRecordId": "c10-ponca-photo",
+      "remainingGaps": [
+        "Add Oklahoma Ponca history and more Nebraska/community voices.",
+        "Resolve conflicting termination-year wording through primary records before publishing an exact date.",
+        "Read complete amendments and primary court/history records before legal/enrollment interpretation.",
+        "Confluence photo is modern northern regional context, not all Ponca communities or Oklahoma government land/boundaries."
+      ]
+    },
+    {
+      "slug": "prairie-band-potawatomi",
+      "name": "Prairie Band Potawatomi",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-prairie-history",
+        "c10-prairie-language",
+        "c10-prairie-food"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-prairie-history",
+        "c10-prairie-language",
+        "c10-prairie-food"
+      ],
+      "updatedSourceIds": [
+        "p309-s1",
+        "p309-s2"
+      ],
+      "imageRecordId": "c10-prairie-band-potawatomi-photo",
+      "remainingGaps": [
+        "Read selected original removal/allotment and termination-era documents alongside community historical accounts.",
+        "Locate dated language-programme publications before adding current speaker or class information.",
+        "Confirm facility completion and programme outcomes from later dated Nation publications rather than assuming plans were fulfilled."
+      ]
+    },
+    {
+      "slug": "quapaw",
+      "name": "Quapaw",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-quapaw-name",
+        "c10-quapaw-saracen",
+        "c10-quapaw-language-about",
+        "p315-s2"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-quapaw-name",
+        "c10-quapaw-language-about",
+        "c10-quapaw-saracen",
+        "c10-quapaw-chronology",
+        "c10-quapaw-voices",
+        "c10-quapaw-post"
+      ],
+      "updatedSourceIds": [
+        "p315-s1",
+        "p315-s2",
+        "p315-s3"
+      ],
+      "imageRecordId": "c10-quapaw-bayous",
+      "remainingGaps": [
+        "Read original removal, treaty and migration records and compare the compressed chronology.",
+        "Preserve uncertainty in Saracen’s biography rather than choosing a familiar legend.",
+        "Inspect linked language materials and oral-history recordings only within their actual access and community guidance.",
+        "The reused Culture Division document URL may serve a newer body in the future."
+      ]
+    },
+    {
+      "slug": "sac-and-fox",
+      "name": "Sac and Fox",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "c10-sacfox-meskwaki",
+        "c10-sacfox-archives",
+        "c10-sacfox-talk"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "c10-sacfox-archives",
+        "c10-sacfox-talk",
+        "c10-sacfox-meskwaki"
+      ],
+      "updatedSourceIds": [
+        "p327-s1"
+      ],
+      "imageRecordId": "c10-sac-and-fox-photo",
+      "remainingGaps": [
+        "Read original treaty manuscripts and community critiques of representation and implementation.",
+        "Develop distinct Iowa, Oklahoma and Kansas–Nebraska government histories without equating the joint label with a single people.",
+        "Inspect selected language materials only within their public-use conditions; no individual proficiency or current speaker estimate is verified."
+      ]
+    },
+    {
+      "slug": "seminole",
+      "name": "Seminole",
+      "mode": "reviewed-starting-guide",
+      "selectedSourceIds": [
+        "p10-seminole-history",
+        "p10-seminole-chickee",
+        "p10-seminole-bands"
+      ],
+      "explicitSectionCorrections": [],
+      "newSourceIds": [
+        "p10-seminole-history",
+        "p10-seminole-chickee",
+        "p10-seminole-bands",
+        "p10-seminole-context"
+      ],
+      "updatedSourceIds": [],
+      "imageRecordId": "c10-seminole-photo",
+      "remainingGaps": [
+        "Develop appropriately distinct Oklahoma, Florida, Miccosukee and Freedmen community histories without inferring identity from a shared label.",
+        "Read original war/removal records and named community publications before extending numerical or legal claims.",
+        "Legacy university/newspaper leads remain preserved and uninspected; the selected FAQ paragraphs are supporting identity context only."
+      ]
+    }
+  ],
+  "additionalIdentityOnlyOutlines": [
+    {
+      "name": "Osotouy (historical Quapaw village)",
+      "kind": "Historical community / village",
+      "identificationEvidence": [
+        {
+          "title": "History & Culture — Arkansas Post National Memorial",
+          "url": "https://www.nps.gov/arpo/learn/historyculture/index.htm",
+          "publisher": "National Park Service, Arkansas Post National Memorial",
+          "scope": "Actual public body lines22–24 explicitly names the Quapaw village of Osotouy in the 1686 founding account and notes later relocations of the post. This identity check does not independently resolve the village’s full chronology or present continuity.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    },
+    {
+      "name": "Catawba Nation",
+      "kind": "Named tribal government",
+      "identificationEvidence": [
+        {
+          "url": "https://www.catawba.com/about-the-nation",
+          "publisher": "Catawba Nation",
+          "title": "The Catawba Nation — About the Nation",
+          "scope": "Current Nation-published page title uses Catawba Nation; its body and footer also use Catawba Indian Nation. Only the explicit name forms and identification of the publishing Nation support this outline; changing numerical, recognition and legal statements are not adopted.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+          "publisher": "Bureau of Indian Affairs / Federal Register",
+          "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+          "scope": "Printed p.4103 / PDF p.2, selected exact name item 'Catawba Indian Nation' (cached extracted line 107). Identity/name inventory only; not a history review, present legal advice, territorial boundary or membership determination.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    },
+    {
+      "name": "Cherokee Nation",
+      "kind": "Named tribal government",
+      "identificationEvidence": [
+        {
+          "url": "https://www.cherokee.gov/about-the-nation/history/",
+          "publisher": "Cherokee Nation",
+          "title": "History — Cherokee Nation",
+          "scope": "Current Nation-published history identifies the Cherokee Nation and describes its government institutions at Tahlequah. This government outline is distinct from the broader Cherokee people reading label and from the separately represented United Keetoowah Band; the history is not newly copied or counted in this identity-only outline.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+          "publisher": "Bureau of Indian Affairs / Federal Register",
+          "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+          "scope": "Printed p.4103 / PDF p.2, selected exact name item 'Cherokee Nation' (cached extracted line 114). Identity/name inventory only; not a history review, present legal advice, territorial boundary or membership determination.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    },
+    {
+      "name": "Mississippi Band of Choctaw Indians",
+      "kind": "Named tribal government",
+      "identificationEvidence": [
+        {
+          "url": "https://www.choctaw.org/about-us/tribal-history/",
+          "publisher": "Mississippi Band of Choctaw Indians",
+          "title": "Tribal History — Mississippi Band of Choctaw Indians",
+          "scope": "Current government-published Tribal History title/footer explicitly name the Mississippi Band of Choctaw Indians. The selected history describes the Band’s constitution and council. This outline identifies that named government separately from the broader Choctaw route and the already represented Choctaw Nation of Oklahoma.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+          "publisher": "Bureau of Indian Affairs / Federal Register",
+          "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+          "scope": "Printed p.4104 / PDF p.3, selected exact name item 'Mississippi Band of Choctaw Indians' (cached extracted line 107). Identity/name inventory only; not a history review, present legal advice, territorial boundary or membership determination.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    },
+    {
+      "name": "Muscogee Nation",
+      "kind": "Named tribal government",
+      "identificationEvidence": [
+        {
+          "url": "https://www.muscogeenation.com/det/mlp/",
+          "publisher": "Muscogee Nation",
+          "title": "Mvskoke Language Program — Muscogee Nation",
+          "scope": "The current Nation-operated page’s public government introduction uses Muscogee Nation and identifies three branches of government. The Nation-operated Council House publication also uses Muscogee (Creek) Nation. Only current name/government identification and the explicit naming bridge are used; no jurisdiction, membership or constitutional interpretation follows.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+          "publisher": "Bureau of Indian Affairs / Federal Register",
+          "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+          "scope": "Printed p.4105 / PDF p.4, selected exact name item 'The Muscogee (Creek) Nation' (cached extracted line 75). Identity/name inventory only; not a history review, present legal advice, territorial boundary or membership determination.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.creekcouncilhouse.net/",
+          "publisher": "Council House Museum / Muscogee Nation",
+          "title": "Council House Museum",
+          "scope": "The inspected public body states that the Council House Museum is owned and operated by the Muscogee (Creek) Nation. Used only to support the explicitly self-published parenthetical name variant, not an additional people or government.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    },
+    {
+      "name": "Seminole Tribe of Florida",
+      "kind": "Named tribal government",
+      "identificationEvidence": [
+        {
+          "url": "https://www.semtribe.com/history/introduction",
+          "publisher": "Seminole Tribe of Florida",
+          "title": "Introduction — Seminole Tribe of Florida",
+          "scope": "The Tribe-published introduction identifies its publisher as Seminole Tribe of Florida. Its separately inspected public Culture FAQ explicitly distinguishes that political entity from wider Seminole peoples and names Florida and Oklahoma governments separately. No claim is made that the Florida government represents all Seminole people.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+          "publisher": "Bureau of Indian Affairs / Federal Register",
+          "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+          "scope": "Printed p.4105 / PDF p.4, selected exact name item 'Seminole Tribe of Florida' (cached extracted line 25). Identity/name inventory only; not a history review, present legal advice, territorial boundary or membership determination.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        },
+        {
+          "url": "https://www.semtribe.com/culture/faq---culture",
+          "publisher": "Seminole Tribe of Florida",
+          "title": "FAQ — Culture",
+          "scope": "Only the selected public identity paragraphs distinguishing a named Florida political entity from wider Seminole people and separately naming Oklahoma and Florida governments. Other FAQ claims, membership rules and legal implications are not adopted.",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    }
+  ],
+  "separateMetadataErratum": {
+    "reviewedAt": "2026-10-28",
+    "originalId": 325,
+    "slug": "sac-sauk",
+    "purpose": "Explicit source metadata/relevance erratum outside the20 starting guides;preserve exact source IDs/URLs and all original history/sections.",
+    "reviewSources": [
+      {
+        "id": "p325-s2",
+        "title": "History | Sauk County Wisconsin Official Website",
+        "publisher": "Sauk County,Wisconsin",
+        "url": "https://www.co.sauk.wi.us/general/history",
+        "type": "Government",
+        "topics": [
+          "Identity",
+          "History"
+        ],
+        "annotation": "County-government account of Euro-American settlement and county development. This is not an Indigenous-led Sauk community publication and does not supply a substantive Sauk people history.",
+        "accessed": "2026-10-28",
+        "countsTowardMinimum": false,
+        "metadataReviewedAt": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "contentReviewScope": "Actual short county-history body and primary page/publisher identification read;body starts with1838 settler claims and follows county economic development.",
+        "accessNotes": "Public indexed body read and ordinary reader request made. This is a source-label/relevance correction;no new Sauk history inspection or raw profile history change is claimed. Direct ordinary page request was restricted by the reader;no bypass."
+      },
+      {
+        "id": "p325-s3",
+        "title": "Sauk-Suiattle - Index",
+        "publisher": "Sauk-Suiattle Indian Tribe (older council-page identity)",
+        "url": "https://www.sauk-suiattle.net/tcouncil.html",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "History",
+          "Contemporary life"
+        ],
+        "annotation": "Wrong-community link for this Sac(Sauk) reading route. The actual page identifies the Sauk-Suiattle Indian Tribe,its Lushootseed language and Darrington,Washington setting. Retained for provenance but excluded from this entry’s substantive source count.",
+        "accessed": "2026-10-28",
+        "countsTowardMinimum": false,
+        "metadataReviewedAt": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "contentReviewScope": "Actual primary page title,tribal name,Lushootseed label and Darrington/Washington address inspected solely to establish publisher identity and wrong-community scope.",
+        "accessNotes": "Substantial indexed older page body read;search cache is dated about6.4years old,so council names and offices are not adopted as current. This is an identity/relevance correction,not a substantive Sauk or Sauk-Suiattle history review. Modern Tribe homepage independently identifies its Washington Cascade setting. A later direct request returned502;no bypass."
+      }
+    ],
+    "identificationEvidence": [
+      {
+        "url": "https://www.sauk-suiattle.net/tcouncil.html",
+        "scope": "Actual older primary title,tribal-name,Lushootseed and Washington address identity fields,not current council verification.",
+        "identityOnly": true
+      },
+      {
+        "url": "https://www.sauk-suiattle.com/",
+        "scope": "Actual indexed primary introduction identifies a distinct sovereign nation in Washington Cascade Mountains.",
+        "identityOnly": true
+      },
+      {
+        "url": "https://www.co.sauk.wi.us/general/history",
+        "scope": "Actual county publisher identification and short settlement/economic-development account.",
+        "identityOnly": true
+      }
+    ],
+    "countsAsNewHistoryInspection": false,
+    "rawHistoryMutation": false,
+    "addStartingGuide": false,
+    "pictureRequirementClaim": false
+  },
+  "sourceCounting": "55 appended profile-source contexts and 32 same-ID/same-URL card updates, including explicit excluded/supporting metadata corrections. Shared/reused publications are not globally new works. Identity-only evidence excluded.",
+  "provenance": "Selected scopes/dates and media-specific creator/source/rights/complete-available-frame limits retained. No private files or full third-party texts published."
+}
