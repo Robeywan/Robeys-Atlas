@@ -6117,14 +6117,70 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Alderville First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Alderville First Nation’s public history identifies its people as Mississauga Anishinabeg and follows their movement from the Bay of Quinte to Alderville. A separate account by its native-plant nursery coordinator introduces community-based ecological restoration and education.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community account of relocation and continuity",
+        "text": "Alderville’s own history begins with its Mississauga Anishinabeg community at the Bay of Quinte and describes settlement at Alderville in the mid-1830s. It places mission schooling and economic change within wider colonial pressures. The account emphasizes that learning new skills did not erase language and cultural identity. This is a community interpretation to read alongside original records, rather than a complete history of every family.",
+        "sourceIds": [
+          "p6-alderville-history"
+        ]
+      },
+      {
+        "title": "Restoring grasslands and growing native plants",
+        "text": "Writing in 2021 as the Mitigomin Native Plant Nursery coordinator, Gillian di Petta describes Alderville’s work to restore tallgrass prairie and black oak savanna. Her account connects nursery production with ecological restoration, research and public education. It records a project’s development and ambitions, rather than proving that every planned activity or later environmental outcome was achieved.",
+        "sourceIds": [
+          "p6-alderville-nursery"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-alderville-history",
+        "title": "History",
+        "publisher": "Alderville First Nation",
+        "url": "https://alderville.ca/alderville-first-nation/history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Community voices",
+          "Colonial encounters"
+        ],
+        "annotation": "Complete public history body read. A community account of relocation, missions, assimilation pressures and cultural continuity; the linked treaty and family records were not independently inspected.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public main body, web lines24–30; no author/date stated. Perspective: First Nation public historical interpretation.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Treaty/mission/family originals uninspected.",
+        "inspectionLimits": "Treaty/mission/family originals uninspected."
+      },
+      {
+        "id": "p6-alderville-nursery",
+        "title": "From Seed to Savannah",
+        "publisher": "Greenbelt Foundation / Alderville Black Oak Savanna participant",
+        "url": "https://greenbelt.ca/mitigomin_native_plant_nursery/",
+        "type": "Reporting / interview",
+        "topics": [
+          "Environment",
+          "Community projects",
+          "Education"
+        ],
+        "annotation": "Complete June 2021 participant essay read. The nursery coordinator describes restoration work and project goals from her own role. Published by the funder; her ancestry is not inferred. Plans and ecological claims are dated; later outcomes and underlying measurements were not checked.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Gillian di Petta",
+        "publicationDate": "2021-06-30",
+        "contentReviewScope": "Complete body and author/date, web lines50–75. Perspective: First-person2021nursery coordinator account hosted by project funder.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Plans and claimed ecological measurements not independently verified; future completion not inferred.",
+        "inspectionLimits": "Plans and claimed ecological measurements not independently verified; future completion not inferred."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -6151,16 +6207,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Review community-directed family, language and governance histories beyond these two introductory accounts.",
+      "Inspect original land and mission records with community guidance; no current legal or boundary determination is made.",
+      "Follow restoration and nursery work through later community assessments; no current ecological totals are asserted."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Review community-directed family, language and governance histories beyond these two introductory accounts.",
+        "Inspect original land and mission records with community guidance; no current legal or boundary determination is made.",
+        "Follow restoration and nursery work through later community assessments; no current ecological totals are asserted."
       ]
     },
+    "overviewSourceIds": [
+      "p6-alderville-history",
+      "p6-alderville-nursery"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-alderville-history",
+          "reason": "Begin with this account’s identified community perspective and stated scope."
+        },
+        {
+          "sourceId": "p6-alderville-nursery",
+          "reason": "Follow a different aspect of community life, keeping its date and evidence limits in view."
+        }
+      ],
+      "imageRecordId": "alderville-band-office-2007"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "alderville-first-nation",
     "regionGroups": [
       "Canada"
@@ -6626,7 +6716,7 @@
     "name": "Algonquin",
     "region": "Northeast / Québec / Ontario",
     "kind": "People / community",
-    "overview": "Algonquin or Anicinàbe is a people’s name within wider Anishinaabe contexts, with communities in Québec and Ontario.",
+    "overview": "Use this broader directory label to find community-specific Algonquin voices. The selected starting path here deliberately focuses on Pikwàkanagàn, a named First Nation at Golden Lake, and its public cultural institution. It is one entry point into a much wider subject, rather than an inventory or a shared institutional account for every Algonquin community.",
     "sections": [
       {
         "title": "Identity and context",
@@ -6642,6 +6732,20 @@
           "added-s1",
           "added-s2",
           "added-s3"
+        ]
+      },
+      {
+        "title": "Start with an individually named community",
+        "text": "Pikwàkanagàn’s history is a community account of land and water relationships, colonial disruption and continuity. It gives the broader Algonquin reading route a specific voice and setting. Its statements should remain attributed to that community; they do not establish identical experiences, institutions or views among all Algonquin communities. Broader history and other community accounts remain important next steps.",
+        "sourceIds": [
+          "p6-pikw-history"
+        ]
+      },
+      {
+        "title": "Language work with a stated community scope",
+        "text": "The account of Omàmiwininì Pimàdjwowin describes a cultural organization formed through Pikwàkanagàn community and Council consultation. Its mission includes language teaching and cultural preservation. This example shows why a directory should identify both a broader people name and individual community institutions. The organization is not a separate nation, and its account is not evidence of language outcomes across the whole Algonquin world.",
+        "sourceIds": [
+          "p6-pikw-cultural-centre"
         ]
       }
     ],
@@ -6685,6 +6789,44 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Constitution 2023 HTML — Antoine Nation” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p6-pikw-history",
+        "title": "Our History",
+        "publisher": "Algonquins of Pikwàkanagàn First Nation",
+        "url": "https://www.algonquinsofpikwakanagan.com/pikwakanagan/our-history/",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "History",
+          "Community voices",
+          "Continuity"
+        ],
+        "annotation": "A community-published introduction, with history and responsibilities explained in its own voice. Read alongside further historical records; this does not represent every Algonquin community.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public historical body lines 55–59 read. Public self-description of land/water relationships, colonial disruption, continuity and responsibilities. Archaeological dates, the precise 1603 encounter attribution, present legal claims and the linked membership materials were not adopted.",
+        "accessNotes": "Actual selected public content inspected without account or subscription; linked original records, media and cited publications remain outside this review unless expressly stated.",
+        "publicationDate": "Undated; access date is not a publication date"
+      },
+      {
+        "id": "p6-pikw-cultural-centre",
+        "title": "Omàmiwininì Pimàdjwowin — The Algonquin Way Cultural Centre",
+        "publisher": "Algonquins of Pikwàkanagàn First Nation",
+        "url": "https://www.algonquinsofpikwakanagan.com/pikwakanagan/the-algonquin-way-cultural-centre-omamiwinini-pimadjwowin/",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "Language",
+          "Cultural institutions",
+          "Community projects"
+        ],
+        "annotation": "Explains the named community’s cultural organization and its public language-preservation mission. A cultural corporation is not a separate people or government; stated aims are not evaluated outcomes.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public substantive body lines 56–60 read, including its mission, the stated 2002 formation through community/council consultation and language teaching role. The charity register, internal records, teaching resources and linked centre website were not inspected.",
+        "accessNotes": "Actual selected public content inspected without account or subscription; linked original records, media and cited publications remain outside this review unless expressly stated.",
+        "publicationDate": "Undated; access date is not a publication date"
       }
     ],
     "relatedOriginalIds": [
@@ -6692,6 +6834,53 @@
       265
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p6-pikw-history",
+      "p6-pikw-cultural-centre"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-27",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Add other Algonquin First Nations’ own histories and educational work; this starting path intentionally covers only one community example.",
+      "Inspect the original Algonquin Nation Secretariat material-culture and place-name leads before using their claims.",
+      "The term Algonquin and the wider linguistic label Algonquian have different scopes; detailed naming history needs fuller source review."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add other Algonquin First Nations’ own histories and educational work; this starting path intentionally covers only one community example.",
+        "Inspect the original Algonquin Nation Secretariat material-culture and place-name leads before using their claims.",
+        "The term Algonquin and the wider linguistic label Algonquian have different scopes; detailed naming history needs fuller source review."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-pikw-history",
+          "reason": "Begin with one explicitly identified Algonquin community rather than an unsourced generalization."
+        },
+        {
+          "sourceId": "p6-pikw-cultural-centre",
+          "reason": "Follow a public cultural-institution account whose community scope is clear."
+        }
+      ],
+      "imageRecordId": "c6-algonquin-golden-lake"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "algonquin",
     "regionGroups": [
       "Canada",
@@ -6712,14 +6901,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Algonquins of Pikwàkanagàn has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Algonquins of Pikwàkanagàn are an individually named Algonquin First Nation at Golden Lake and the Bonnechere River in Ontario. Its own public accounts connect land and water, cultural continuity and responsibilities to future generations. Begin with those community voices and the account of its cultural centre; detailed family and institutional histories remain open.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A public account of history and responsibilities",
+        "text": "The First Nation’s history explains an enduring relationship with land and water, the disruptions of colonization and the continuation of language and teachings. It presents balance, reciprocity and responsibilities to later generations as part of the community’s own account. The linked archaeological chronology and original encounter records were not checked here, so this introduction does not convert every date in the public summary into a separately verified finding.",
+        "sourceIds": [
+          "p6-pikw-history"
+        ]
+      },
+      {
+        "title": "A community cultural institution",
+        "text": "The First Nation describes Omàmiwininì Pimàdjwowin as a cultural organization established in 2002 through consultation with members and Council. Its stated work includes protecting cultural traditions and teaching Algonquin language. This is a specific institutional route into public learning, not a separate tribal government or evidence of measurable language outcomes. Private materials and internal membership processes are outside this review.",
+        "sourceIds": [
+          "p6-pikw-cultural-centre"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-pikw-history",
+        "title": "Our History",
+        "publisher": "Algonquins of Pikwàkanagàn First Nation",
+        "url": "https://www.algonquinsofpikwakanagan.com/pikwakanagan/our-history/",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "History",
+          "Community voices",
+          "Continuity"
+        ],
+        "annotation": "A community-published introduction, with history and responsibilities explained in its own voice. Read alongside further historical records; this does not represent every Algonquin community.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public historical body lines 55–59 read. Public self-description of land/water relationships, colonial disruption, continuity and responsibilities. Archaeological dates, the precise 1603 encounter attribution, present legal claims and the linked membership materials were not adopted.",
+        "accessNotes": "Actual selected public content inspected without account or subscription; linked original records, media and cited publications remain outside this review unless expressly stated.",
+        "publicationDate": "Undated; access date is not a publication date"
+      },
+      {
+        "id": "p6-pikw-cultural-centre",
+        "title": "Omàmiwininì Pimàdjwowin — The Algonquin Way Cultural Centre",
+        "publisher": "Algonquins of Pikwàkanagàn First Nation",
+        "url": "https://www.algonquinsofpikwakanagan.com/pikwakanagan/the-algonquin-way-cultural-centre-omamiwinini-pimadjwowin/",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "Language",
+          "Cultural institutions",
+          "Community projects"
+        ],
+        "annotation": "Explains the named community’s cultural organization and its public language-preservation mission. A cultural corporation is not a separate people or government; stated aims are not evaluated outcomes.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public substantive body lines 56–60 read, including its mission, the stated 2002 formation through community/council consultation and language teaching role. The charity register, internal records, teaching resources and linked centre website were not inspected.",
+        "accessNotes": "Actual selected public content inspected without account or subscription; linked original records, media and cited publications remain outside this review unless expressly stated.",
+        "publicationDate": "Undated; access date is not a publication date"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -6746,16 +6989,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Review community-directed family histories, original records and later institutional histories.",
+      "Assess the public language-learning materials themselves before describing their content or results.",
+      "Current legal instruments, membership, archaeological chronology and boundaries are not determined by these introductory pages."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Review community-directed family histories, original records and later institutional histories.",
+        "Assess the public language-learning materials themselves before describing their content or results.",
+        "Current legal instruments, membership, archaeological chronology and boundaries are not determined by these introductory pages."
       ]
     },
+    "overviewSourceIds": [
+      "p6-pikw-history",
+      "p6-pikw-cultural-centre"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-pikw-history",
+          "reason": "Begin with the First Nation’s own public historical introduction."
+        },
+        {
+          "sourceId": "p6-pikw-cultural-centre",
+          "reason": "Learn about a specifically named community cultural and language institution."
+        }
+      ],
+      "imageRecordId": "c6-algonquin-golden-lake"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "algonquins-of-pikwakanagan",
     "regionGroups": [
       "Canada"
@@ -12298,14 +12575,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — Lake Huron region member listing",
-    "overview": "Atikameksheng Anishnawbek has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Atikameksheng Anishnawbek’s own history identifies Ojibway, Algonquin and Odawa ancestry and explains its earlier Whitefish Lake name. Public historical and planning sources connect language, archival work and community participation while leaving detailed family histories and later outcomes open.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. Membership alone is not treated as proof of Ojibwe, Anishinaabe or other ethnic identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "History and the work of remembering",
+        "text": "Atikameksheng’s public history names Ojibway, Algonquin and Odawa ancestors and identifies Whitefish Lake as an earlier community name. It recalls a nineteenth-century trading post and describes library efforts to preserve documents and recordings through community contributions. The linked memories book and original records remain further research tasks. The community’s own account should lead the reading, without treating every historical place name as an unchanged modern boundary.",
+        "sourceIds": [
+          "p6-atikameksheng-history"
+        ]
+      },
+      {
+        "title": "Planning as a continuing community process",
+        "text": "The 2020 Comprehensive Community Plan links cultural memory, learning, well-being, infrastructure and stewardship. Its introduction calls for participation across community life and distinguishes a general framework from detailed work plans. It also emphasizes revision and evaluation. These passages explain the proposed planning process; they do not show that every goal was funded, implemented or achieved after publication.",
+        "sourceIds": [
+          "p6-atikameksheng-plan"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-atikameksheng-history",
+        "title": "History",
+        "publisher": "Atikameksheng Anishnawbek",
+        "url": "https://atikamekshenganishnawbek.ca/about/history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Names",
+          "Language",
+          "Archives"
+        ],
+        "annotation": "Complete main history body read. Discusses the former Whitefish Lake name, the trading post and community library/archive work. This is the Nation’s public historical interpretation; the cited memories book, underlying treaty documents and recovered objects were not independently inspected. No current boundary or legal interpretation is adopted.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete four-paragraph History mainbody, web lines56–59.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Nation’s public historical interpretation, not an independent treaty, legal, archaeological or memories-book review. Historical places/names are not current legal borders."
+      },
+      {
+        "id": "p6-atikameksheng-plan",
+        "title": "Comprehensive Community Plan",
+        "publisher": "Atikameksheng Anishnawbek",
+        "url": "https://atikamekshenganishnawbek.ca/wp-content/uploads/2024/08/AA-Community-Comprehensive-Plan-2020.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community planning",
+          "Education",
+          "Governance"
+        ],
+        "annotation": "March 2020, 96-page PDF. Read authorship front matter (PDF p.3) and printed pp.2–5 (PDF pp.11–14): planning domains, participation, implementation and evaluation. Produced by community members, leadership and staff with Four Worlds support. A dated planning framework, not proof of completed goals or a review of all chapters.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2020-03",
+        "contentReviewScope": "Authorship frontmatterPDFp3 and complete printedpp2–5/PDFpp11–14 of96. Downloaded34,661,524byte publicPDF; pypdfselected text actually read.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Communitymembers/leadership/staff plan withFourWorldsCentre support. Webfiletool rejectedlargecontent, ordinarydirectdownload200succeeded. No claim allchapters orplanoutcomes inspected; document is a2020 framework."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -12326,16 +12657,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Inspect community-authored memories and original historical records beyond the public overview.",
+      "Read the remaining plan chapters and subsequent evaluations before making claims about completed programs.",
+      "Expand language, family, education and livelihoods histories; no speaker or population total is asserted."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Inspect community-authored memories and original historical records beyond the public overview.",
+        "Read the remaining plan chapters and subsequent evaluations before making claims about completed programs.",
+        "Expand language, family, education and livelihoods histories; no speaker or population total is asserted."
       ]
     },
+    "overviewSourceIds": [
+      "p6-atikameksheng-history",
+      "p6-atikameksheng-plan"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-atikameksheng-history",
+          "reason": "Start with the Nation’s own account of naming, history and community archival work."
+        },
+        {
+          "sourceId": "p6-atikameksheng-plan",
+          "reason": "Use the selected introduction to understand planning principles while separating proposals from results."
+        }
+      ],
+      "imageRecordId": "c06-atikameksheng-community-centre-2010"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "atikameksheng-anishnawbek",
     "regionGroups": [
       "Canada"
@@ -14230,14 +14595,70 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Beausoleil First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Beausoleil First Nation’s tourism account places its community at Chimnissing, or Christian Island, and describes interconnected Anishinaabeg families. A Parks Canada management plan provides a different perspective on Beausoleil Island’s historical relationship with the Nation and present public-history work.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Chimnissing and interconnected families",
+        "text": "Beausoleil’s public tourism history identifies Christian Island as Chimnissing and describes families with several Anishinaabeg backgrounds linked by kinship and marriage. It places this community within a longer history of movement and displacement. This is a useful community perspective; broader labels within it should not erase individual families, neighboring First Nations or distinct governments.",
+        "sourceIds": [
+          "p6-beausoleil-history"
+        ]
+      },
+      {
+        "title": "Two islands with different histories",
+        "text": "Parks Canada’s 2022 management plan distinguishes Beausoleil Island from Christian Island. It describes Beausoleil First Nation members’ move from the former to the latter and explains Beausoleil Island’s continuing importance as a cultural landscape and place of memory. Its selected sections also discuss Indigenous participation in heritage management. This is agency interpretation and planning, not proof of every proposed outcome or a surveyed statement of present jurisdiction.",
+        "sourceIds": [
+          "p6-beausoleil-parks"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-beausoleil-history",
+        "title": "Our History",
+        "publisher": "Beausoleil First Nation Parks and Tourism",
+        "url": "https://www.bfntourism.ca/our-history",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Identity",
+          "Public interpretation"
+        ],
+        "annotation": "Complete public history body read. The Nation’s economic-development page links this Parks and Tourism service. A community account of ancestry, Christian Island and family relationships; not a complete migration chronology or legal determination.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public OurHistory body, web lines17–57. Government EconomicDevelopment page lines44–49 links BFNTourism as its Parks&Tourism service. Perspective: Community tourism interpretation.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. No independent comprehensive migration chronology/current legal judgment.",
+        "inspectionLimits": "No independent comprehensive migration chronology/current legal judgment."
+      },
+      {
+        "id": "p6-beausoleil-parks",
+        "title": "Georgian Bay Islands National Park and Beausoleil Island National Historic Site Management Plan, 2022",
+        "publisher": "Parks Canada",
+        "url": "https://parks.canada.ca/pn-np/on/georg/info/gestion-management/plan-2022",
+        "type": "Government",
+        "topics": [
+          "Public history",
+          "Homelands",
+          "Heritage management"
+        ],
+        "annotation": "Selected substantive sections read: Beausoleil Island National Historic Site, planning context and Indigenous relations. Covers historical displacement, the move to Christian Island and cultural-advisory work. Other plan sections and underlying archaeology were not fully inspected; future objectives are not completed outcomes.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Parks Canada",
+        "publicationDate": "2022",
+        "contentReviewScope": "ManagementPlan2022 selected substantive sections BeausoleilIslandNationalHistoricSite, PlanningContext and IndigenousRelations, web lines181–235. Perspective: ParksCanada agency interpretation/planning.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Not entire750-lineplan, underlyingarchaeology or accomplishedfutureoutcomes.",
+        "inspectionLimits": "Not entire750-lineplan, underlyingarchaeology or accomplishedfutureoutcomes."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -14264,16 +14685,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Develop a fuller community-directed chronology and family history beyond the selected public interpretation.",
+      "Read later community assessments of heritage partnerships and distinguish agency plans from completed work.",
+      "Review naming, treaty and land records individually; similarly named islands do not identify a single government or uniform history."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Develop a fuller community-directed chronology and family history beyond the selected public interpretation.",
+        "Read later community assessments of heritage partnerships and distinguish agency plans from completed work.",
+        "Review naming, treaty and land records individually; similarly named islands do not identify a single government or uniform history."
       ]
     },
+    "overviewSourceIds": [
+      "p6-beausoleil-history",
+      "p6-beausoleil-parks"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-beausoleil-history",
+          "reason": "Begin with this account’s identified community perspective and stated scope."
+        },
+        {
+          "sourceId": "p6-beausoleil-parks",
+          "reason": "Follow a different aspect of community life, keeping its date and evidence limits in view."
+        }
+      ],
+      "imageRecordId": "beausoleil-christian-island-aerial-2013"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "beausoleil-first-nation",
     "regionGroups": [
       "Canada"
@@ -14957,14 +15412,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Biigtigong Nishnaabeg has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Biigtigong Nishnaabeg is an Ojibway community at the mouth of the Pic River on Lake Superior. Its own public accounts connect waterways, fishing, community education and responsibilities to future generations. These sources provide a starting point without settling territorial or legal claims.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Fishing and community education",
+        "text": "Biigtigong’s2016 Fisheries Act submission describes fishing as a source of food, knowledge and connection. In its selected education discussion, the Nation says it began changing school curriculum in2014 to include land-based activities and held a community fish camp in2016 at the mouth of the Pic River. The account explains why learning across generations matters to the community. It is a dated primary submission, not evidence that every later education goal was completed.",
+        "sourceIds": [
+          "p6-biigtigong-fisheries"
+        ]
+      },
+      {
+        "title": "Waterways and stewardship",
+        "text": "The2026 ICCA Registry case study presents the custodians’ account of relationships with six waterways, including the Pic River. It describes efforts to involve the community in stewardship, reconnect younger generations with waterways and develop locally directed monitoring. The registry explicitly calls the initiative self-declared and not yet peer-reviewed. Readers should distinguish those community goals and interpretations from independently established legal recognition, surveyed boundaries or verified environmental outcomes.",
+        "sourceIds": [
+          "p6-biigtigong-waterways"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-biigtigong-fisheries",
+        "title": "Fisheries Act Review",
+        "publisher": "Biigtigong Nishnaabeg; hosted by the House of Commons",
+        "url": "https://www.ourcommons.ca/Content/Committee/421/FOPO/Brief/BR8708262/br-external/BiigtigongNishnaabeg-e.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Food systems",
+          "Education",
+          "Primary documents"
+        ],
+        "annotation": "Inspected the dated cover and printed pp.2–3 (PDF pp.3–4), rendered because the PDF has no selectable text. The Nation’s November30,2016 submission links fishing, food and land-based education, including a2016 community fish camp. Its later legislative recommendations, underlying studies and photographs were not separately reviewed or reproduced; this is a dated community submission, not current law.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Inspected the dated cover and printed pp.2–3 (PDF pp.3–4), rendered because the PDF has no selectable text. The Nation’s November30,2016 submission links fishing, food and land-based education, including a2016 community fish camp. Its later legislative recommendations, underlying studies and photographs were not separately reviewed or reproduced; this is a dated community submission, not current law.",
+        "accessNotes": "Public11-page PDF downloaded normally200. No selectabletext; datedcover and selectedprintedpp2–3/PDFpp3–4 renderedwithPoppler and visuallyread. No fullPDF/image-reuse claim.",
+        "publicationDate": "2016-11-30"
+      },
+      {
+        "id": "p6-biigtigong-waterways",
+        "title": "Biigtigong Nishnaabeg Waterways",
+        "publisher": "Biigtigong Nishnaabeg custodians / UNEP-WCMC ICCA Registry",
+        "url": "https://www.iccaregistry.org/en/explore/canada/biigtigong-nishnaabeg-waterways",
+        "type": "Indigenous-led",
+        "topics": [
+          "Stewardship",
+          "Community voices",
+          "Waterways"
+        ],
+        "annotation": "Read the complete case study, including its final status disclaimer. Custodian-provided account of relationships with six waterways, intergenerational learning and planned community monitoring. Published August2026; the registry labels the ICCA self-declared and not yet peer-reviewed. Legal/title claims, current water-safety claims, population figures and recognition outcomes are not adopted as independently established facts.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the complete case study, including its final status disclaimer. Custodian-provided account of relationships with six waterways, intergenerational learning and planned community monitoring. Published August2026; the registry labels the ICCA self-declared and not yet peer-reviewed. Legal/title claims, current water-safety claims, population figures and recognition outcomes are not adopted as independently established facts.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text.",
+        "publicationDate": "2026-08"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -14993,16 +15502,48 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Seek additional community-authorized histories, language resources and public evaluations of education programs.",
+      "Inspect later monitoring results and recognition records separately; do not turn plans or assertions into outcomes."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Seek additional community-authorized histories, language resources and public evaluations of education programs.",
+        "Inspect later monitoring results and recognition records separately; do not turn plans or assertions into outcomes."
       ]
     },
+    "overviewSourceIds": [
+      "p6-biigtigong-fisheries",
+      "p6-biigtigong-waterways"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-biigtigong-fisheries",
+          "reason": "Start with the Nation’s own selected2016 discussion of fishing, food and land-based education."
+        },
+        {
+          "sourceId": "p6-biigtigong-waterways",
+          "reason": "Follow a custodian-provided waterways account, keeping its self-declared and unverified status explicit."
+        }
+      ],
+      "imageRecordId": "c6-biigtigong-pic-river"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "biigtigong-nishnaabeg",
     "regionGroups": [
       "Canada"
@@ -15022,14 +15563,69 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Biinjitiwaabik Zaaging Anishinaabek has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Biinjitiwaabik Zaaging Anishinaabek, also found in sources as Rocky Bay, is an Ojibway community connected with southeastern Lake Nipigon. These starting works focus on community participation in food research and a later Lake Nipigon Guardians program.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Community participation in food research",
+        "text": "A2016 Nokiiwin Tribal Council and CanNorth study includes Biinjitiwaabik Zaaging Anishinaabek among four participating First Nations. Its selected methods pages explain how community questions and local knowledge shaped interviews and sampling choices. The BZA discussion connects fishing, hunting and gathering with Lake Nipigon and surrounding waters. This dated research-design account does not supply current food-safety advice, and its results or underlying private interviews have not been reviewed here.",
+        "sourceIds": [
+          "p6-bza-countryfoods"
+        ]
+      },
+      {
+        "title": "Guardians and the next generation",
+        "text": "In a2023 Anishinabek News report, BZA Guardian Brendon Hardy connects monitoring Lake Nipigon with memories of fishing alongside his grandfather and hopes for his own children. Researcher Tim Hollinger describes community concerns helping to shape questions about fish, water and sediment. These are named participants’ explanations of a particular program. The report does not independently establish current contaminant levels, safe fish consumption or the completion of every proposed outcome.",
+        "sourceIds": [
+          "p6-bza-guardians"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-bza-countryfoods",
+        "title": "Nokiiwin Tribal Council: Country Foods Study",
+        "publisher": "Nokiiwin Tribal Council / Canada North Environmental Services (CanNorth)",
+        "url": "https://www.nokiiwin.com/upload/documents/1807-ntc-country-foods-study-revised-fin.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Food systems",
+          "Research methods",
+          "Community participation"
+        ],
+        "annotation": "Selected printed pp.1,3,9–10 (PDF pp.10,12,18–19) actually read, plus title/contents for context. June2016 community-based study includes BZA and describes interviews, local sampling choices and community participation. No full report, contaminant results, food-safety guidance, maps or private underlying interviews claimed. Its dated treaty/administrative assertions and old totals are not adopted as current determinations.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected printed pp.1,3,9–10 (PDF pp.10,12,18–19) actually read, plus title/contents for context. June2016 community-based study includes BZA and describes interviews, local sampling choices and community participation. No full report, contaminant results, food-safety guidance, maps or private underlying interviews claimed. Its dated treaty/administrative assertions and old totals are not adopted as current determinations.",
+        "accessNotes": "WebPDFreader exceeded its21MBsize limit. Ordinary publicPDFdownload200; selectedprintedpp1,3,9–10/PDFpp10,12,18–19 actually read withpypdf. Maps, appendices, analyticalresults and underlyingprivateinterviews excluded.",
+        "publicationDate": "2016-06"
+      },
+      {
+        "id": "p6-bza-guardians",
+        "title": "Biinjitiwaabik Zaaging Anishinaabek Lake Nipigon Guardians Program featured at the Northern Ontario First Nations Environment Conference",
+        "publisher": "Anishinabek News",
+        "url": "https://anishinabeknews.ca/2023/10/biinjitiwaabik-zaaging-anishinaabek-lake-nipigon-guardians-program-featured-at-the-northern-ontario-first-nations-environment-conference/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Stewardship",
+          "Waterways",
+          "Community voices"
+        ],
+        "annotation": "Read the complete main article, selecting the BZA-specific presentation and interviews with Brendon Hardy and Lakehead researcher Tim Hollinger. Describes community questions guiding fish, water and sediment monitoring and Hardy’s memories of family fishing. Other conference speakers are outside this profile. Dated reporting, not the underlying datasets, current fish-consumption advice or proof of completed environmental outcomes.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the complete main article, selecting the BZA-specific presentation and interviews with Brendon Hardy and Lakehead researcher Tim Hollinger. Describes community questions guiding fish, water and sediment monitoring and Hardy’s memories of family fishing. Other conference speakers are outside this profile. Dated reporting, not the underlying datasets, current fish-consumption advice or proof of completed environmental outcomes.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text.",
+        "publicationDate": "2023-10-05",
+        "author": "Rick Garrick"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -15058,16 +15654,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Develop a fuller community-authorized historical and language reading path.",
+      "Inspect published monitoring results separately and retain dates; this guide gives no current food-consumption advice.",
+      "Review original records for treaty and administrative histories rather than adopting older report summaries as current legal determinations."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Develop a fuller community-authorized historical and language reading path.",
+        "Inspect published monitoring results separately and retain dates; this guide gives no current food-consumption advice.",
+        "Review original records for treaty and administrative histories rather than adopting older report summaries as current legal determinations."
       ]
     },
+    "overviewSourceIds": [
+      "p6-bza-countryfoods",
+      "p6-bza-guardians"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-bza-countryfoods",
+          "reason": "Start with a dated community-based research design and BZA’s Lake Nipigon food relationships."
+        },
+        {
+          "sourceId": "p6-bza-guardians",
+          "reason": "Then read named participants explaining community-led monitoring and intergenerational fishing knowledge."
+        }
+      ],
+      "imageRecordId": "c6-bza-lake-nipigon"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "biinjitiwaabik-zaaging-anishinaabek",
     "regionGroups": [
       "Canada"
@@ -21360,14 +21990,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Chippewas of Georgina Island has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Chippewas of Georgina Island identify themselves as an Anishinaabe Nation connected to Lake Simcoe. Their public account distinguishes their community history from the related Beausoleil and Rama communities; a separate case study introduces dated climate-adaptation planning.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "The Nation’s own historical account",
+        "text": "The Chippewas of Georgina Island’s public account follows Chief Joseph Snake’s community through the Coldwater experiment and a return to the Lake Simcoe islands. It distinguishes this history from those of the related communities under Chiefs Assance and Yellowhead. The Nation also describes continuing responsibilities toward water and future generations. Its legal and governance statements should be read as attributed institutional positions, not conclusions supplied by this directory.",
+        "sourceIds": [
+          "p6-georgina-who"
+        ]
+      },
+      {
+        "title": "Climate planning with community knowledge",
+        "text": "A national climate-assessment case study describes Georgina Island’s 2012–2015 adaptation project. It explains how community meetings, surveys and scientific information informed assessments of changing ice, water and other conditions. The account reports a planning process and proposed next steps. It expressly leaves later implementation progress unresolved, so it cannot establish present safety, ecological conditions or completed outcomes.",
+        "sourceIds": [
+          "p6-georgina-climate"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-georgina-who",
+        "title": "Who We Are",
+        "publisher": "Chippewas of Georgina Island First Nation",
+        "url": "https://www.georginaisland.com/council-community/who-we-are",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Identity",
+          "Stewardship"
+        ],
+        "annotation": "Complete main body read. The Nation’s account of Lake Simcoe, Coldwater, return to the islands and community priorities. Current legal powers, treaty settlements and jurisdiction statements are the Nation’s published positions, not independently adjudicated here.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete main body, web lines5–33. Perspective: Nation self-description.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Legal/governance claims attributed, not independently adjudicated; no present numerical totals adopted.",
+        "inspectionLimits": "Legal/governance claims attributed, not independently adjudicated; no present numerical totals adopted."
+      },
+      {
+        "id": "p6-georgina-climate",
+        "title": "Climate Change Adaptation by the Georgina Island First Nation",
+        "publisher": "Canada in a Changing Climate / National Assessment Process",
+        "url": "https://changingclimate.ca/map/climate-change-adaptation-by-the-georgina-island-first-nation/",
+        "type": "Government",
+        "topics": [
+          "Environment",
+          "Community planning",
+          "Research methods"
+        ],
+        "annotation": "Complete case-study body read, including methods, actions, outcomes and next steps. Covers the community-led 2012–2015 planning project; explicitly says available information does not establish later implementation progress. Underlying surveys and full project reports were not independently read.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete case-study body, web lines20–66 including explicit NextSteps limit. Perspective: National-assessment case study names GeorginaIsland as project lead.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Underlying surveys/reports not read; explicitly no evidence of progress after2015nextsteps.",
+        "inspectionLimits": "Underlying surveys/reports not read; explicitly no evidence of progress after2015nextsteps."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -21394,16 +22078,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Seek fuller community-authored histories of families, language learning and relationships among the Lake Simcoe islands.",
+      "Read original public project reports before extending climate findings; community surveys and personal knowledge remain outside this review.",
+      "Review later implementation assessments and legal/governance materials separately; no current safety or legal advice is provided."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Seek fuller community-authored histories of families, language learning and relationships among the Lake Simcoe islands.",
+        "Read original public project reports before extending climate findings; community surveys and personal knowledge remain outside this review.",
+        "Review later implementation assessments and legal/governance materials separately; no current safety or legal advice is provided."
       ]
     },
+    "overviewSourceIds": [
+      "p6-georgina-who",
+      "p6-georgina-climate"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-georgina-who",
+          "reason": "Begin with this account’s identified community perspective and stated scope."
+        },
+        {
+          "sourceId": "p6-georgina-climate",
+          "reason": "Follow a different aspect of community life, keeping its date and evidence limits in view."
+        }
+      ],
+      "imageRecordId": "georgina-island-sunset-2012"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "chippewas-of-georgina-island",
     "regionGroups": [
       "Canada"
@@ -21584,14 +22302,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Chippewas of Rama First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Chippewas of Rama First Nation’s own publications connect community history with the Chippewa Tri-Council and the Mnjikaning fish-weir landscape. A separate school account describes how education and language learning are organized within Rama.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "History told by the community",
+        "text": "Rama’s public history identifies its links with the Chippewas of Beausoleil and Georgina Island through the Chippewa Tri-Council. It recounts displacement through the Coldwater Narrows experiment and rebuilding at Rama. The page also describes a community archive made public in 2018 and attributes accounts of the Mnjikaning fish weirs to Elders. These relationships do not make the three First Nations one interchangeable government.",
+        "sourceIds": [
+          "p6-rama-history"
+        ]
+      },
+      {
+        "title": "A purpose-built school and language learning",
+        "text": "Rama’s account of Mnjikaning Kendaaswin Elementary School dates its opening to 1998 and describes a purpose-built place for community education. Its stated approach combines curriculum learning with Ojibwe language and cultural knowledge, supported by community educational bodies. This describes the institution’s published approach; it does not establish uniform experiences or measured outcomes for every student.",
+        "sourceIds": [
+          "p6-rama-mkes"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-rama-history",
+        "title": "Community History",
+        "publisher": "Chippewas of Rama First Nation",
+        "url": "https://www.ramafirstnation.ca/community-history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Community archives",
+          "Naming"
+        ],
+        "annotation": "Complete main history body read, including the online archive initiative, Coldwater account, Tri-Council relationship and Mnjikaning discussion. Oral-history passages remain community-attributed. Individual archive photographs, treaty documents and current legal claims were not independently inspected.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete history main body, web lines64–88. Perspective: First Nation history with attributed oral-history and archive initiative.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Detailed ceremonial creation passages excluded from synthesis; linked archive individual objects uninspected.",
+        "inspectionLimits": "Detailed ceremonial creation passages excluded from synthesis; linked archive individual objects uninspected."
+      },
+      {
+        "id": "p6-rama-mkes",
+        "title": "MKES Elementary School",
+        "publisher": "Chippewas of Rama First Nation",
+        "url": "https://www.ramafirstnation.ca/mkes-elementary-school/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Education",
+          "Language",
+          "Contemporary institutions"
+        ],
+        "annotation": "Complete school mission/history/program body read. Describes the 1998 opening, Ojibwe learning and community educational structures. An undated institutional account; staffing, schedules and present student outcomes were not separately verified.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete school mission, history and program body, web lines64–87. Perspective: Nation-published institutional description.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Undated mutable staffing/schedules/outcomes not independently checked.",
+        "inspectionLimits": "Undated mutable staffing/schedules/outcomes not independently checked."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -21618,16 +22390,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Review the individual community archive records and original documents behind selected historical claims.",
+      "Extend reading beyond the history and school introductions, including women’s, family and language perspectives.",
+      "Treat current governance, legal rights, staffing and educational outcomes as separate review tasks."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Review the individual community archive records and original documents behind selected historical claims.",
+        "Extend reading beyond the history and school introductions, including women’s, family and language perspectives.",
+        "Treat current governance, legal rights, staffing and educational outcomes as separate review tasks."
       ]
     },
+    "overviewSourceIds": [
+      "p6-rama-history",
+      "p6-rama-mkes"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-rama-history",
+          "reason": "Begin with this account’s identified community perspective and stated scope."
+        },
+        {
+          "sourceId": "p6-rama-mkes",
+          "reason": "Follow a different aspect of community life, keeping its date and evidence limits in view."
+        }
+      ],
+      "imageRecordId": "rama-mask-arena-2009"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "chippewas-of-rama-first-nation",
     "regionGroups": [
       "Canada"
@@ -27452,14 +28258,70 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Curve Lake First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Curve Lake First Nation is an individually named community in Ontario’s Kawartha Lakes area. These starting readings introduce a family-operated cultural enterprise and reporting on the community’s day-school history, while distinguishing personal memories, research and collective institutions.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A family enterprise at Curve Lake",
+        "text": "The Whetung Ojibwa Centre tells its own family history, tracing an enterprise from fishing and other services into arts and crafts. It describes Eleanor Whetung’s shop and a larger centre opened in 1966. This is one family’s account of work and adaptation. Its galleries include material from across Canada, so a displayed object should not automatically be identified as Curve Lake art.",
+        "sourceIds": [
+          "p6-curve-lake-whetung"
+        ]
+      },
+      {
+        "title": "Learning about the day school",
+        "text": "Gabe Pollock’s 2025 report brings together Valorie Whetung’s memories and Jackson Pind’s research on the Curve Lake Day School. It discusses suppression of language, community efforts to improve education and the importance of returning archival research to the community. These are attributed accounts and interpretations. Reading the report is not equivalent to inspecting Pind’s book, the school archive or every survivor’s experience.",
+        "sourceIds": [
+          "p6-curve-lake-day-school"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-curve-lake-whetung",
+        "title": "Our History",
+        "publisher": "Whetung Ojibwa Centre",
+        "url": "https://www.whetung.com/pages/our-history",
+        "type": "Indigenous-led",
+        "topics": [
+          "Family history",
+          "Art",
+          "Livelihoods"
+        ],
+        "annotation": "Complete family-business history body read. A first-person institutional account of the Whetung family enterprise at Curve Lake, not the whole First Nation or proof that every artwork sold there is locally made.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete family enterprise history, web lines41–61. Perspective: Family-operated cultural-business narrative.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Not whole-community history; gallery includes other communities’ work.",
+        "inspectionLimits": "Not whole-community history; gallery includes other communities’ work."
+      },
+      {
+        "id": "p6-curve-lake-day-school",
+        "title": "Uncovering the history of the Curve Lake Day School",
+        "publisher": "Peterborough Currents",
+        "url": "https://peterboroughcurrents.ca/in-depth/curve-lake-day-school/",
+        "type": "Reporting / interview",
+        "topics": [
+          "Education",
+          "Oral history",
+          "Research methods"
+        ],
+        "annotation": "Complete article and author/date fields read. Includes original interviews with Valorie Whetung and researcher Jackson Pind. The underlying book, school files and other survivors’ interviews were not independently inspected; personal accounts remain attributed.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Gabe Pollock",
+        "publicationDate": "2025-10-16",
+        "contentReviewScope": "Complete article, web lines55–124 including original interviews and research-method discussion. Perspective: 2025local reporting with named survivor and researcher voices.",
+        "accessNotes": "Actual substantial indexed public body read without an account or challenge. Book, private school records and underlying interviews uninspected; source author retains attribution.",
+        "inspectionLimits": "Book, private school records and underlying interviews uninspected; source author retains attribution."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -27486,16 +28348,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Add further community-authored histories and preferred naming context; the two selections cover limited themes.",
+      "Inspect the underlying published day-school research before extending historical claims, while respecting privacy and community control of records.",
+      "Seek additional public language and education accounts; no current enrollment, population or outcome totals are asserted."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Add further community-authored histories and preferred naming context; the two selections cover limited themes.",
+        "Inspect the underlying published day-school research before extending historical claims, while respecting privacy and community control of records.",
+        "Seek additional public language and education accounts; no current enrollment, population or outcome totals are asserted."
       ]
     },
+    "overviewSourceIds": [
+      "p6-curve-lake-whetung",
+      "p6-curve-lake-day-school"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-curve-lake-whetung",
+          "reason": "Begin with this account’s identified community perspective and stated scope."
+        },
+        {
+          "sourceId": "p6-curve-lake-day-school",
+          "reason": "Follow a different aspect of community life, keeping its date and evidence limits in view."
+        }
+      ],
+      "imageRecordId": "curve-lake-waterfront-2012"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "curve-lake-first-nation",
     "regionGroups": [
       "Canada"
@@ -28834,14 +29730,69 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — Lake Huron region member listing",
-    "overview": "Dokis First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Dokis First Nation’s relationship with the French River is a useful starting point for learning about its community-directed energy and land-management work. A community-approved case study and a detailed interview with its lands administrator document particular projects and their limits.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. Membership alone is not treated as proof of Ojibwe, Anishinaabe or other ethnic identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Community decisions and a hydro partnership",
+        "text": "The 2024 Okikendawt case study presents hydroelectric development as a long-term Dokis initiative involving community meetings, successive leaders and a partnership with Hydromega. Its methods explain that Dokis reviewed the account and held final approval. The report links the project with planning for community benefits. This supplies a community-approved perspective; it does not independently establish every financial or environmental outcome.",
+        "sourceIds": [
+          "p6-dokis-hydro-case"
+        ]
+      },
+      {
+        "title": "Land administration and learning new technologies",
+        "text": "In a 2025 interview, lands administrator Randy Restoule explains how Dokis uses drones and geographic information systems to obtain updated imagery and investigate changes along the French River. He also describes opportunities for young people to learn field and computer skills. These are his dated accounts of work and plans. The underlying measurements and individual property questions were not independently reviewed here.",
+        "sourceIds": [
+          "p6-dokis-gis"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-dokis-hydro-case",
+        "title": "The Dokis First Nation and the Okikendawt Hydro Power Project",
+        "publisher": "Indigenous Clean Energy / Indigenous Peoples Rights International / Business & Human Rights Resource Centre",
+        "url": "https://media.business-humanrights.org/media/documents/Dokis_First_Nation_case_study.pdf",
+        "type": "Reporting / interview",
+        "topics": [
+          "Community development",
+          "Energy",
+          "Stewardship"
+        ],
+        "annotation": "October 2024 case study, PDF pp.1–5 actually read: project background, methods, community involvement and decision making. Its methods state that Dokis held final edits and approvals. An affirmative project account, not an independent audit; financing records, underlying votes and environmental outcomes were not independently verified.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2024-10",
+        "contentReviewScope": "PDF pages1–5, selected complete sections1–7: executive summary, background, methods, project overview, community setting and decision-making.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. October2024 affirmative case study by project/Indigenous/rights partners. Methods state Dokis held final edits/approvals. Underlying votes, finance, agreements, trust records and environmental audit not independently inspected. No sensitive practices or sites reproduced."
+      },
+      {
+        "id": "p6-dokis-gis",
+        "title": "Dokis First Nation soars in mapping projects",
+        "publisher": "Anishinabek News",
+        "url": "https://anishinabeknews.ca/2025/05/dokis-first-nation-soars-in-mapping-projects/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Land administration",
+          "Technology",
+          "Education"
+        ],
+        "annotation": "Complete May 14, 2025 article read, with particular attention to Randy Restoule’s explanation of drone/GIS work, historical-water-level research and youth opportunities. An attributed interview, not independently inspected survey data or a determination of property boundaries. Sensitive site and burial details are not reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2025-05-14",
+        "author": "Kelly Anne Smith",
+        "contentReviewScope": "Complete May14,2025 main article and RandyRestoule interview, web body lines3–57; selected synthesis uses lands technology and youth-learning discussion.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Journalist’s attributed interview, not original GIS datasets, surveyor/legal determination or verified later plans. Sensitive archaeological/burial details and exact survey/property anecdotes excluded."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -28860,16 +29811,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Expand community-authored historical and language sources beyond these selected development and lands accounts.",
+      "Compare project benefits with later community assessments and original reports rather than treating the case study as an audit.",
+      "Review original survey and environmental work separately; this guide does not determine boundaries, current legal authority or sensitive sites."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Expand community-authored historical and language sources beyond these selected development and lands accounts.",
+        "Compare project benefits with later community assessments and original reports rather than treating the case study as an audit.",
+        "Review original survey and environmental work separately; this guide does not determine boundaries, current legal authority or sensitive sites."
       ]
     },
+    "overviewSourceIds": [
+      "p6-dokis-hydro-case",
+      "p6-dokis-gis"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-dokis-hydro-case",
+          "reason": "Start with the case study’s methods and community decision-making discussion; retain its affirmative project perspective."
+        },
+        {
+          "sourceId": "p6-dokis-gis",
+          "reason": "Follow an attributed explanation of contemporary lands work and learning opportunities."
+        }
+      ],
+      "imageRecordId": "c06-dokis-french-river-rapids-2015"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "dokis-first-nation",
     "regionGroups": [
       "Canada"
@@ -30772,14 +31757,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Fort William First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Fort William First Nation is an Anishinaabe community connected to the western end of Lake Superior and Anemki-Wajiw. These starting sources pair historical treaty interpretation with a named Elder’s account of family, land-based learning and education.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Treaty history in a particular community",
+        "text": "Thunder Bay Museum’s Robinson-Superior account connects Fort William First Nation with the1850 treaty and identifies Anemki-Wajiw as Mount McKay. Its archival caption describes an annuity gathering there in1933. These records offer a way to study the treaty relationship through a named community and documented event, rather than treating every north-shore First Nation as interchangeable. The museum’s interpretation does not settle present legal rights or establish that treaty commitments were fulfilled.",
+        "sourceIds": [
+          "p6-fwfn-treaty-museum"
+        ]
+      },
+      {
+        "title": "An Elder’s experience of learning",
+        "text": "In Rick Garrick’s2021 report, Fort William Elder Rita Fenton recalls a childhood in which her family hunted, fished and gathered from the land. She also describes later education and renewed learning about Indigenous histories. Her public storytelling connects personal experience with responsibilities to younger generations. This is an attributed individual life account; it should not stand in for every Fort William family or authorize reproducing cultural teachings beyond their public context.",
+        "sourceIds": [
+          "p6-fwfn-fenton-story"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-fwfn-treaty-museum",
+        "title": "Northwestern Ontario Treaties: Robinson Superior Treaty of 1850",
+        "publisher": "Thunder Bay Museum",
+        "url": "https://www.thunderbaymuseum.com/exhibits/virtual-exhibits/northwestern-ontario-treaties/",
+        "type": "Museum / archive",
+        "topics": [
+          "Treaties",
+          "Public history",
+          "Archives"
+        ],
+        "annotation": "Read the introduction, complete Robinson Superior subsection and its photograph captions; other treaty sections are outside this selected review. Connects Fort William/Anemki-Wajiw with the 1850 treaty and a specifically dated 1933 annuity gathering. Museum interpretation and archival captions, not a current legal ruling or a review of original treaty papers. No museum images reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the introduction, complete Robinson Superior subsection and its photograph captions; other treaty sections are outside this selected review. Connects Fort William/Anemki-Wajiw with the 1850 treaty and a specifically dated 1933 annuity gathering. Museum interpretation and archival captions, not a current legal ruling or a review of original treaty papers. No museum images reproduced.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text."
+      },
+      {
+        "id": "p6-fwfn-fenton-story",
+        "title": "Fort William First Nation Elder inspires during Dibaajimowin Anishinaabe Storytelling series",
+        "publisher": "Anishinabek News",
+        "url": "https://anishinabeknews.ca/2021/01/fort-william-first-nation-elder-inspires-during-dibaajimowin-anishinaabe-storytelling-series/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Biography",
+          "Education",
+          "Community voices"
+        ],
+        "annotation": "Read the complete main article, including Rita Fenton’s own recollections of land-based childhood, identity and later education. Reporting about a December virtual presentation; the underlying recording was not inspected. One named person’s account, not every family’s experience or a current service directory. Images and detailed personal/health experiences are not reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the complete main article, including Rita Fenton’s own recollections of land-based childhood, identity and later education. Reporting about a December virtual presentation; the underlying recording was not inspected. One named person’s account, not every family’s experience or a current service directory. Images and detailed personal/health experiences are not reproduced.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text.",
+        "publicationDate": "2021-01-13",
+        "author": "Rick Garrick"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -30806,16 +31845,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Add further community-authorized histories and public language/education resources.",
+      "Inspect underlying treaty and annuity records rather than relying only on museum interpretation.",
+      "Review fresh community publications independently; one live governance page displayed unrelated injected sports links and was excluded from current-authority use."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Add further community-authorized histories and public language/education resources.",
+        "Inspect underlying treaty and annuity records rather than relying only on museum interpretation.",
+        "Review fresh community publications independently; one live governance page displayed unrelated injected sports links and was excluded from current-authority use."
       ]
     },
+    "overviewSourceIds": [
+      "p6-fwfn-treaty-museum",
+      "p6-fwfn-fenton-story"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-fwfn-treaty-museum",
+          "reason": "Begin with a museum account connecting Fort William, Anemki-Wajiw and the Robinson-Superior treaty context."
+        },
+        {
+          "sourceId": "p6-fwfn-fenton-story",
+          "reason": "Then read one Elder’s attributed account of land-based upbringing and later learning."
+        }
+      ],
+      "imageRecordId": "c6-fort-william-autumn"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "fort-william-first-nation",
     "regionGroups": [
       "Canada"
@@ -34290,7 +35363,7 @@
     "name": "Ho-Chunk",
     "region": "Great Lakes / Wisconsin / Nebraska",
     "kind": "People / community",
-    "overview": "Ho-Chunk people continue through distinct communities and governments in Wisconsin and Nebraska.",
+    "overview": "Ho-Chunk is a broader people-name reading route. The starting sources here focus on the Ho-Chunk Nation in Wisconsin, whose own accounts explain its governmental and heritage-preservation work. The Nation’s separate directory entry remains available; this route does not merge it with the Winnebago Tribe of Nebraska or turn one institution’s account into every Ho-Chunk person’s experience.",
     "sections": [
       {
         "title": "Identity and context",
@@ -34305,6 +35378,20 @@
         "sourceIds": [
           "p130-s1",
           "p130-s2"
+        ]
+      },
+      {
+        "title": "Read a people-name alongside a named government",
+        "text": "The Ho-Chunk Nation’s institutional account distinguishes its government and traditional-government relationship. It gives one specific contemporary point of entry into the broader Ho-Chunk story. Readers should retain the publisher’s scope: a particular Nation’s organization is not automatically the institutional arrangement of every Ho-Chunk community. The source’s linked constitutional texts and present legal rules were not independently examined.",
+        "sourceIds": [
+          "c4-hochunk-about"
+        ]
+      },
+      {
+        "title": "Heritage work and language continuity",
+        "text": "The Nation’s Heritage Preservation account describes work involving cultural stewardship, archives and language continuity. These are institutional responsibilities and stated aims, rather than a measurement of results or a claim that all public or private cultural material is open for reuse. The selected public passages offer a useful starting route; internal records, personal services and sensitive locations remain outside this guide.",
+        "sourceIds": [
+          "c4-hochunk-heritage"
         ]
       }
     ],
@@ -34336,10 +35423,111 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Ho-Chunk Nation - Wisconsin First Nations” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c4-hochunk-about",
+        "title": "About Ho-Chunk Nation",
+        "publisher": "Ho-Chunk Nation",
+        "url": "https://ho-chunknation.com/about/",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "Government",
+          "Homeland",
+          "Institutions"
+        ],
+        "annotation": "The Nation’s explanation of governmental organization and traditional homeland. Read as institutional description; linked constitutions, exact present rules and ancient chronology are unverified.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual complete main body29–34 read. Synthesis uses the four named branches, constitutional reference and traditional-government distinction29, with the homeland statement34. Term lengths, district totals, court staffing, developing courts and speculative ancient dates are not adopted as independently current or established facts. Linked constitutions and law were not inspected.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "hochunk-nation-about",
+        "publicationDate": "Undated; site footer and crawl dates are not publication dates",
+        "accessNotes": "Public HTML actual selected body text read; linked documents and media are outside this inspection."
+      },
+      {
+        "id": "c4-hochunk-heritage",
+        "title": "Heritage Preservation",
+        "publisher": "Ho-Chunk Nation",
+        "url": "https://ho-chunknation.com/government/executive-branch/heritage-preservation/",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "Heritage stewardship",
+          "Archives",
+          "Language"
+        ],
+        "annotation": "Departmental account of preservation responsibilities and language continuity. Service aims are distinguished from evaluated outcomes; restricted materials and personal enrollment services are outside scope.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual Department of Heritage Preservation mission98–109, public services137–153 and Language Division statement275–279 read. Personal enrollment instructions, private information, named staff/contact details, burial locations and operational/eligibility advice excluded. Linked language site, internal records, surveys and reports not reviewed.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "hochunk-heritage-preservation",
+        "publicationDate": "Undated; site footer and crawl dates are not publication dates",
+        "accessNotes": "Public HTML actual selected body text read; linked documents and media are outside this inspection."
       }
     ],
     "relatedOriginalIds": [],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c4-hochunk-about",
+      "c4-hochunk-heritage"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-27",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Add independently scoped Winnebago Tribe of Nebraska history and other Ho-Chunk community accounts.",
+      "Inspect further community-authored history, language publications and original records beyond the selected institutional passages.",
+      "Government names, historical people names and older uses of Winnebago require context; this guide does not settle every historical label."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add independently scoped Winnebago Tribe of Nebraska history and other Ho-Chunk community accounts.",
+        "Inspect further community-authored history, language publications and original records beyond the selected institutional passages.",
+        "Government names, historical people names and older uses of Winnebago require context; this guide does not settle every historical label."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c4-hochunk-about",
+          "reason": "Read a specifically named government’s own account and its institutional scope."
+        },
+        {
+          "sourceId": "c4-hochunk-heritage",
+          "reason": "Continue with the public heritage-preservation and language account."
+        }
+      ],
+      "imageRecordId": "c6-hochunk-wisconsin-meeting"
+    },
+    "sourceReuseProvenance": [
+      {
+        "profile": "hochunk-nation",
+        "sourceIds": [
+          "c4-hochunk-about",
+          "c4-hochunk-heritage"
+        ],
+        "note": "Existing actual-content reviews copied with original scope/date; adds Ho-Chunk-route contexts, not new globally distinct works or fresh full readings."
+      }
+    ],
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
+    "relatedProfileSlugs": [
+      "hochunk-nation",
+      "winnebago-tribe-of-nebraska"
+    ],
     "added": false,
     "slug": "hochunk",
     "regionGroups": [
@@ -38754,7 +39942,7 @@
     "name": "Kalispel",
     "region": "Washington / Idaho / Montana",
     "kind": "People / tribal nation",
-    "overview": "Kalispel homelands extend along the Pend Oreille River, Lake Pend Oreille, and Clark Fork region.",
+    "overview": "Kalispel is a reading route into a people whose historical communities are connected with the Pend Oreille region of Washington, Idaho and Montana. Start with the Kalispel Tribe of Indians’ own account, then compare an older regional history that distinguishes Upper and Lower Kalispel contexts. This introduction does not treat every historical community as the same present government.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -38776,22 +39964,41 @@
         "sourceIds": [
           "p154-s2"
         ]
+      },
+      {
+        "title": "People, places and distinct political paths",
+        "text": "The older Tribal Briefing Book distinguishes Upper and Lower Kalispel communities and describes different responses to settlement and removal. Its Kalispel chapter places Lake Pend Oreille within this wider history. Because it combines historical narrative with dated administrative information, it is useful for framing questions rather than establishing current leadership, landholdings or legal rights. Original records and fuller community histories remain important next steps.",
+        "sourceIds": [
+          "p154-s1"
+        ]
+      },
+      {
+        "title": "A community account of rebuilding",
+        "text": "The Kalispel Tribe of Indians’ public story links the loss of land and limited economic opportunities with efforts to build housing, education and community services. It presents a 1991 vision statement as part of that history. Read those goals in their stated historical setting; they do not demonstrate that every aspiration was fulfilled or describe all Kalispel communities in the same way.",
+        "sourceIds": [
+          "p6-kalispel-story"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p154-s1",
         "url": "https://www.govinfo.gov/content/pkg/GOVPUB-Y3_N81_8-PURL-LPS87622/pdf/GOVPUB-Y3_N81_8-PURL-LPS87622.pdf",
-        "title": "Kalispel Tribe of Indians",
-        "publisher": "Federal Columbia River Power System",
+        "title": "Tribal Briefing Book — Kalispel Tribe of Indians, selected pages",
+        "publisher": "Northwest Power Planning Council; hosted by GovInfo",
         "type": "Government",
         "topics": [
           "Identity",
           "History",
           "Culture"
         ],
-        "annotation": "Institutional reading to place the entry in historical or linguistic context; read alongside community voices.",
-        "accessed": "2026-10-19"
+        "annotation": "Read the selected Kalispel historical narrative and the introduction to this older regional compilation. It distinguishes Upper and Lower Kalispel contexts. Dated administrative totals, officeholders, ceremonies and assertions about current legal rights are not adopted.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Introduction, PDF page 2 and selected narrative on printed/PDF pages 39–40 read; the Kalispel narrative begins at zero-based page 38. Other tribal chapters, fullvolume, underlying records and source images were not inspected. Its claim locating Albeni Falls Dam on the Kootenai River is erroneous and not repeated. End-of-century administrative listings are historical, not current.",
+        "publicationDate": "Undated historical compilation; internal late-1990s references are not a verified publication date",
+        "accessNotes": "Public GovInfo PDF actual selectable text inspected. Prior generic source card is explicitly upgraded with this documented review; URL and ID retained, publisher corrected from the earlier generic attribution."
       },
       {
         "id": "p154-s2",
@@ -38806,6 +40013,25 @@
         ],
         "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "p6-kalispel-story",
+        "title": "Our Story",
+        "publisher": "Kalispel Tribe of Indians",
+        "url": "https://kalispeltribe.com/our-story",
+        "type": "Indigenous-led / community-published",
+        "topics": [
+          "History",
+          "Community institutions",
+          "Homelands"
+        ],
+        "annotation": "The Tribe’s own account connects history, community wellbeing and its relationship with the Pend Oreille country. The1991 vision is an aspiration, not proof that every goal was later realized.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete public main body lines 33–76 read, including historical hardship, the explicitly aspirational1991 vision statement and homeland/reservation narrative. Present totals, business counts, income, population and legal land status were not adopted.",
+        "accessNotes": "Actual selected public content inspected without account or subscription; linked original records, media and cited publications remain outside this review unless expressly stated.",
+        "publicationDate": "Undated; access date is not a publication date"
       }
     ],
     "relatedOriginalIds": [
@@ -38813,6 +40039,53 @@
     ],
     "researchStatus": "source-guide",
     "originalId": 154,
+    "overviewSourceIds": [
+      "p6-kalispel-story",
+      "p154-s1"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-27",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Review Upper and Lower Kalispel histories through further community-directed sources, not only a regional compilation.",
+      "Inspect original removal, reservation and land records; current boundaries, legal status and population are not determined here.",
+      "Add fuller language, family and contemporary cultural accounts with appropriate public scope."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Review Upper and Lower Kalispel histories through further community-directed sources, not only a regional compilation.",
+        "Inspect original removal, reservation and land records; current boundaries, legal status and population are not determined here.",
+        "Add fuller language, family and contemporary cultural accounts with appropriate public scope."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-kalispel-story",
+          "reason": "Begin with the Tribe’s own historical and community account."
+        },
+        {
+          "sourceId": "p154-s1",
+          "reason": "Compare the selected older Upper/Lower Kalispel narrative, retaining its dated limits."
+        }
+      ],
+      "imageRecordId": "c6-kalispel-lake-pend-oreille"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "added": false,
     "slug": "kalispel",
     "regionGroups": [
@@ -48386,14 +49659,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — Lake Huron region member listing",
-    "overview": "Magnetawan First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Magnetawan First Nation’s public lands publications connect care for local wildlife and waters with community learning and food growing. The departmental account and selected pages of its 2022 newsletter offer a grounded starting point without standing for the community’s whole history.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. Membership alone is not treated as proof of Ojibwe, Anishinaabe or other ethnic identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Public stewardship work",
+        "text": "Magnetawan’s Lands Department describes monitoring turtles and snakes, surveying road-related wildlife risks and considering wetland and development impacts. Its account explains conservation as continuing work of understanding and caring for local lands and waters. These are published program aims and methods. Detailed field data and later results require separate review, and this guide does not identify sensitive wildlife sites.",
+        "sourceIds": [
+          "p6-magnetawan-lands"
+        ]
+      },
+      {
+        "title": "A dated view of learning and food growing",
+        "text": "The 2022 newsletter reflects on the Species at Risk program’s tenth year and the participation of community staff, students and partners. A separate item describes new vegetable gardens and sharing produce with community members, together with hopes to expand the work. Read these as particular activities reported in 2022, rather than proof of present funding, continuing staffing or later outcomes.",
+        "sourceIds": [
+          "p6-magnetawan-newsletter"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-magnetawan-lands",
+        "title": "Department of Lands, Resources, and Environment",
+        "publisher": "Magnetawan First Nation",
+        "url": "https://www.magfn.com/department-of-lands-resources-and-environment/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Stewardship",
+          "Conservation",
+          "Community programs"
+        ],
+        "annotation": "Complete departmental main body read: reptile monitoring, road ecology, wetlands and program aims. A public explanation of work and objectives, not independently verified conservation outcomes. Species locations, sensitive habitat details and precise monitoring data are not reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete Department ofLands,ResourcesandEnvironment mainbody, web lines8–31.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Nation’s program goals/methods, not independentlyverified conservation results. Exactspecies/habitatlocations and underlyingdata not used."
+      },
+      {
+        "id": "p6-magnetawan-newsletter",
+        "title": "Department of Lands, Resources & the Environment: 2022 Newsletter",
+        "publisher": "Magnetawan First Nation",
+        "url": "https://www.magfn.com/wp-content/uploads/2022/12/2022_Lands_Newsletter-FINAL.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community life",
+          "Food growing",
+          "Education",
+          "Stewardship"
+        ],
+        "annotation": "Selected printed pp.2, 7 and 15 (PDF pp.3, 8 and 16) of the 28-page newsletter read: manager’s year review, ten-year milestone and community garden. Dated staff/community reporting, not all pages, underlying datasets or later program outcomes. Newsletter photos are not reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2022",
+        "contentReviewScope": "Selected printedpp2,7,15/PDFpp3,8,16 of28, read from ordinarydownloadedPDFandpypdf.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Dated2022letter/programmilestone/gardenreport. Notallpages, underlyingfielddata,photos,other publications orlateroutcomes; no sensitive wildlife coordinates reproduced."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -48412,16 +49739,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Develop community-authorized historical and language reading beyond these environmental publications.",
+      "Inspect later newsletters and evaluations before describing current conservation or garden outcomes.",
+      "Review family, education, livelihoods and naming histories; Magnetawan First Nation is not interchangeable with the separately named municipality of Magnetawan."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Develop community-authorized historical and language reading beyond these environmental publications.",
+        "Inspect later newsletters and evaluations before describing current conservation or garden outcomes.",
+        "Review family, education, livelihoods and naming histories; Magnetawan First Nation is not interchangeable with the separately named municipality of Magnetawan."
       ]
     },
+    "overviewSourceIds": [
+      "p6-magnetawan-lands",
+      "p6-magnetawan-newsletter"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-magnetawan-lands",
+          "reason": "Begin with the First Nation’s explanation of its stewardship program methods and aims."
+        },
+        {
+          "sourceId": "p6-magnetawan-newsletter",
+          "reason": "Read the selected 2022 reports as a dated account of staff learning, partnerships and community gardening."
+        }
+      ],
+      "imageRecordId": "c06-magnetawan-community-2011"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "magnetawan-first-nation",
     "regionGroups": [
       "Canada"
@@ -51571,14 +52932,67 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Michipicoten First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Michipicoten First Nation’s public history follows relationships with the Michipicoten River and the northeast shore of Lake Superior, repeated relocations and continuing community institutions. Its own history and Community Trust retrospective offer complementary starting routes.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "River connections and displacement",
+        "text": "The First Nation’s public history describes the mouth of the Michipicoten River as a meeting and travel place. Its displacement account follows families through the river-mouth village, Half-Way and Green Acres before a return to a village on Gros Cap reserve. Keeping that sequence visible helps explain why community history extends beyond one administrative location. The account’s land grievances remain attributed to the Nation; the underlying surveys and title records require separate inspection.",
+        "sourceIds": [
+          "p6-michipicoten-history"
+        ]
+      },
+      {
+        "title": "A community trust and participation",
+        "text": "The Community Trust’s2021 retrospective describes work begun in1997 to address several historical land claims together. It records consultation meetings with members on and away from the reserve before a2003 vote and trust arrangements. This gives readers a community institution’s account of participation and long-term planning. The retrospective is a route into further research, rather than a substitute for the actual agreements or a statement of present individual legal or financial entitlements.",
+        "sourceIds": [
+          "p6-michipicoten-trust"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-michipicoten-history",
+        "title": "History",
+        "publisher": "Michipicoten First Nation",
+        "url": "https://michipicoten.com/community/history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Displacement",
+          "Homelands"
+        ],
+        "annotation": "Read the complete public history, focusing on river connections and the Displacement section. The Nation’s account follows moves from the river-mouth village through Half-Way and Green Acres to Gros Cap. Historical labels and asserted land grievances remain attributed; underlying surveys, title records and every archaeological claim were not independently inspected. Current totals, sacred narratives and precise legal conclusions are excluded.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the complete public history, focusing on river connections and the Displacement section. The Nation’s account follows moves from the river-mouth village through Half-Way and Green Acres to Gros Cap. Historical labels and asserted land grievances remain attributed; underlying surveys, title records and every archaeological claim were not independently inspected. Current totals, sacred narratives and precise legal conclusions are excluded.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text."
+      },
+      {
+        "id": "p6-michipicoten-trust",
+        "title": "History of the Community Trust",
+        "publisher": "Michipicoten First Nation Community Trust",
+        "url": "https://mfnct.com/history-of-the-community-trust/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community institutions",
+          "Land history",
+          "Governance"
+        ],
+        "annotation": "Read the full public history, including member consultations and establishment of the trust following the Algoma-claims settlement. A2021 institutional retrospective with dated1996–2003 events, not the actual settlement agreement or current legal/financial advice. Logo/teachings, individual entitlements, exact monetary totals and claimed present outcomes are not imported.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the full public history, including member consultations and establishment of the trust following the Algoma-claims settlement. A2021 institutional retrospective with dated1996–2003 events, not the actual settlement agreement or current legal/financial advice. Logo/teachings, individual entitlements, exact monetary totals and claimed present outcomes are not imported.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text.",
+        "publicationDate": "2021-12-02"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -51605,16 +53019,48 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Inspect original agreements, surveys and community records behind the selected histories.",
+      "Seek more member-authored public accounts, language materials and evaluations of later community projects."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Inspect original agreements, surveys and community records behind the selected histories.",
+        "Seek more member-authored public accounts, language materials and evaluations of later community projects."
       ]
     },
+    "overviewSourceIds": [
+      "p6-michipicoten-history",
+      "p6-michipicoten-trust"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-michipicoten-history",
+          "reason": "Begin with the First Nation’s account of river connections and repeated displacement."
+        },
+        {
+          "sourceId": "p6-michipicoten-trust",
+          "reason": "Continue with a community institution’s history of consultations and trust formation."
+        }
+      ],
+      "imageRecordId": "c6-michipicoten-village"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "michipicoten-first-nation",
     "regionGroups": [
       "Canada"
@@ -52756,7 +54202,7 @@
     "name": "Mohican",
     "region": "Northeast / Wisconsin",
     "kind": "People / community",
-    "overview": "Mohican histories connect the Hudson Valley with continuing communities, including the Stockbridge-Munsee Community in Wisconsin.",
+    "overview": "This Mohican reading route begins with history written and revised by the Stockbridge-Munsee community and a Tribe-curated exhibition in its eastern homelands. The sources connect repeated movement with continuing cultural and political life. Keep the broader historical name, the present Stockbridge-Munsee government and other peoples with similar names distinct.",
     "sections": [
       {
         "title": "Identity and context",
@@ -52772,6 +54218,20 @@
           "p223-s1",
           "p223-s2",
           "p223-s3"
+        ]
+      },
+      {
+        "title": "Following a community-authored history",
+        "text": "Dorothy Davids’s brief history, revised by the Stockbridge-Munsee Historical Committee in 2017, follows movement from eastern homelands to Wisconsin and the rebuilding of community institutions. The selected pages describe Munsee relatives joining the community and the development of the Stockbridge-Munsee name. This is a community historical account with a stated revision history; it is not a complete genealogy or a substitute for the original records it discusses.",
+        "sourceIds": [
+          "c5-stockbridge-davids-history2017"
+        ]
+      },
+      {
+        "title": "A return through public interpretation",
+        "text": "The Trustees’ account of the 2021–2022 Mohican Miles exhibition describes Tribal curation using the Arvid E. Miller Memorial Library Museum’s archives. The exhibition occupied the separate Carriage House behind the Mission House in Stockbridge, Massachusetts. This offers an example of the community shaping public history in its homelands. The dated exhibition notice does not establish current opening, access to every object or a later agreement’s implementation.",
+        "sourceIds": [
+          "c5-stockbridge-mohican-miles2021"
         ]
       }
     ],
@@ -52816,12 +54276,109 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “OUR TRIBEare very closely related kin of Mohican people historically, and after the pressures of colonization many Munsee” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "c5-stockbridge-davids-history2017",
+        "title": "A Brief History of the Mohican Nation: The Stockbridge-Munsee Band — selected pages",
+        "publisher": "Stockbridge-Munsee Community / Historical Committee",
+        "url": "https://mohican-nsn.gov/wp-content/uploads/2025/07/2017breif-history-1.pdf",
+        "type": "Community-authored historical booklet",
+        "topics": [
+          "history",
+          "migration",
+          "community continuity"
+        ],
+        "annotation": "Dorothy Davids’s community history, revised by the Historical Committee in 2017, connects repeated moves with the formation and rebuilding of the Stockbridge-Munsee community in Wisconsin.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Physical PDF pages 2-3,7 and 10 visually read, including title/acknowledgments and printed pages 4 and 7. The historical migration and rebuilding passages were compared with selectable text because the multi-column extraction interleaves columns. Other pages, maps, bibliography works, original treaty texts and present acreage/population were not reviewed or adopted. The booklet’s mistaken 1832 date for the Indian Removal Act is not repeated.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "Dorothy Davids;2017 revisions by the Stockbridge-Munsee Historical Committee",
+        "publicationDate": "2017"
+      },
+      {
+        "id": "c5-stockbridge-mohican-miles2021",
+        "title": "Mohican Miles — past exhibition",
+        "publisher": "The Trustees of Reservations, exhibition host",
+        "url": "https://thetrustees.org/exhibit/mohican-miles/",
+        "type": "Exhibition host’s collaboration account",
+        "topics": [
+          "public history",
+          "homelands",
+          "community curation"
+        ],
+        "annotation": "The host describes a Tribe-curated exhibition drawn from the Library/Museum’s archives at the Mission House property in Massachusetts. It supplies a concrete link between the Wisconsin community and public history in its homelands.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Full past-exhibition body read, including 2021-2022 dates, Tribal curation, the separate Carriage House behind the Mission House and the described agreement. Current opening, extension or future access were not established. Exhibition objects, their rights and repatriation records were not inspected.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "The Trustees of Reservations",
+        "publicationDate": "2021-2022"
       }
     ],
     "relatedOriginalIds": [
       222
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c5-stockbridge-davids-history2017",
+      "c5-stockbridge-mohican-miles2021"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-27",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "researchGaps": [
+      "Deepen community-authored Mohican history before and beyond the selected migration narrative.",
+      "Compare original records and additional Munsee accounts; a combined government does not make all related peoples interchangeable.",
+      "Follow later public-history projects through community evaluations and dated access information."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Deepen community-authored Mohican history before and beyond the selected migration narrative.",
+        "Compare original records and additional Munsee accounts; a combined government does not make all related peoples interchangeable.",
+        "Follow later public-history projects through community evaluations and dated access information."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "c5-stockbridge-davids-history2017",
+          "reason": "Start with selected pages of the community-authored historical booklet."
+        },
+        {
+          "sourceId": "c5-stockbridge-mohican-miles2021",
+          "reason": "See a specific Tribe-curated public-history project in the eastern homelands."
+        }
+      ],
+      "imageRecordId": "c6-mohican-mission-house"
+    },
+    "sourceReuseProvenance": [
+      {
+        "profile": "stockbridgemunsee-band-of-mohican-indians",
+        "sourceIds": [
+          "c5-stockbridge-davids-history2017",
+          "c5-stockbridge-mohican-miles2021"
+        ],
+        "note": "Original scope/dates preserved. Root rechecked the selected localPDFpages and the complete host exhibition body; reused works are not new globally distinct publications."
+      }
+    ],
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "added": false,
     "slug": "mohican",
     "regionGroups": [
@@ -61096,14 +62653,67 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — Lake Huron region member listing",
-    "overview": "Nipissing First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Nipissing First Nation’s public sources connect Nbisiing language and historical learning with continuing responsibilities to Lake Nipissing. The Culture Centre’s account and a joint statement with Dokis offer two complementary ways into community knowledge and stewardship.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. Membership alone is not treated as proof of Ojibwe, Anishinaabe or other ethnic identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Learning through community archives and living knowledge",
+        "text": "Nipissing’s Culture Centre describes its work as restoring the Nbisiing dialect and strengthening cultural and historical learning. Its public account brings together archival documents, photographs, earlier interviews and conversations with elders. Hockey history and the Nipissing Indian Homemakers Club appear among its research initiatives. These are community-led routes into history; the linked books, recordings and exhibits require their own inspection.",
+        "sourceIds": [
+          "p6-nipissing-culture"
+        ]
+      },
+      {
+        "title": "Working with Dokis across connected waters",
+        "text": "In their September 2026 statement, Nipissing and Dokis describe linked families, histories and responsibilities to Lake Nipissing and the French River. They announce a joint committee for shared stewardship priorities. This is a dated statement of intention, not evidence that every proposed activity has since been completed.",
+        "sourceIds": [
+          "p6-nipissing-stewardship"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-nipissing-culture",
+        "title": "Culture & Heritage",
+        "publisher": "Nipissing First Nation",
+        "url": "https://nfn.ca/culture-heritage/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Public history",
+          "Community knowledge"
+        ],
+        "annotation": "Read the complete Culture and Heritage body, including its mandate, archive-and-elder research methods, hockey and Homemakers initiatives. This is the Nation’s public program account. Listed books, interviews, film and ceremonial teachings were not separately inspected or reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Complete main Culture & Heritage body, including mandate, Culture, Heritage, initiative descriptions and publications list; web body lines166–213.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Nation’s own public program interpretation. Listed books, interviews, documentary, ceremonies and source collections not independently inspected. Contact details were not copied into synthesis."
+      },
+      {
+        "id": "p6-nipissing-stewardship",
+        "title": "Joint Statement: Nipissing First Nation and Dokis First Nation Strengthen Shared Stewardship of Our Lands and Waters",
+        "publisher": "Nipissing First Nation and Dokis First Nation",
+        "url": "https://nfn.ca/nfn-and-dfn-strengthen-shared-stewardship-of-our-lands-and-waters/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Stewardship",
+          "Relationships",
+          "Contemporary life"
+        ],
+        "annotation": "Complete September 9, 2026 joint statement read. Describes connected family histories and a planned joint stewardship committee. It records a commitment at that date, not verified later implementation, settled boundaries or a legal determination.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2026-09-09",
+        "contentReviewScope": "Complete September9,2026 joint statement, web body lines137–145.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Joint community statement of relationship and intent. No current legal borders, committee implementation or future outcome inferred; not counted again on Dokis."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -61122,16 +62732,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Inspect the community-authored history and Homemakers publications beyond this public program account.",
+      "Review subsequent reports of the Nipissing–Dokis committee before asserting outcomes.",
+      "Expand the guide with community-specific fishing, language, family and education histories; no present population or speaker count is asserted."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Inspect the community-authored history and Homemakers publications beyond this public program account.",
+        "Review subsequent reports of the Nipissing–Dokis committee before asserting outcomes.",
+        "Expand the guide with community-specific fishing, language, family and education histories; no present population or speaker count is asserted."
       ]
     },
+    "overviewSourceIds": [
+      "p6-nipissing-culture",
+      "p6-nipissing-stewardship"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-nipissing-culture",
+          "reason": "Begin with the Nation’s explanation of how archives, elders and community projects contribute to historical knowledge."
+        },
+        {
+          "sourceId": "p6-nipissing-stewardship",
+          "reason": "Read the joint statement as a dated account of an inter-community relationship and proposed shared work."
+        }
+      ],
+      "imageRecordId": "c06-nipissing-garden-village-2010"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "nipissing-first-nation",
     "regionGroups": [
       "Canada"
@@ -71389,14 +73033,66 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Red Rock Indian Band has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Red Rock Indian Band’s public history connects earlier settlements around Lake Nipigon with the community at Lake Helen. Selected sources introduce that history and a dated food-sovereignty partnership focused on shared harvesting spaces and gardening.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Earlier settlements and reserve formation",
+        "text": "The Band’s Early History account identifies earlier places of residence around Lake Nipigon, including Jackfish Island, Gull Bay and McIntyre Bay. It follows administrative steps in establishing a reserve land base between1885 and1914. These dates belong to a later community-published historical synthesis; they do not mean the people’s history began with reserve administration. The cited surveys and administrative records remain further research tasks.",
+        "sourceIds": [
+          "p6-redrock-history"
+        ]
+      },
+      {
+        "title": "Food and shared community spaces",
+        "text": "The Understanding Our Food Systems case study describes Red Rock’s work on a community moose-hanging structure, plans for an adjacent butcher shop and a garden first grown in2019. It explains how the partnership connected shared infrastructure with harvesting, learning and participation by members living on and away from reserve. The account includes plans for2020, so proposed buildings, tourism and economic opportunities should not be described as completed results.",
+        "sourceIds": [
+          "p6-redrock-foodsystems"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-redrock-history",
+        "title": "Early History",
+        "publisher": "Red Rock Indian Band",
+        "url": "https://rrib.ca/about-us/early-history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Historical records"
+        ],
+        "annotation": "Read the entire short historical account. Identifies earlier communities around Lake Nipigon and dates reserve formation through1885–1914. An undated Band-published synthesis; underlying administrative records were not separately inspected. Current population assertions and burial-site details are not imported. Read the history alongside contemporary community accounts.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the entire short historical account. Identifies earlier communities around Lake Nipigon and dates reserve formation through1885–1914. An undated Band-published synthesis; underlying administrative records were not separately inspected. Current population assertions and burial-site details are not imported. Read the history alongside contemporary community accounts.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text."
+      },
+      {
+        "id": "p6-redrock-foodsystems",
+        "title": "Red Rock Indian Band: Food Sovereignty Visions",
+        "publisher": "Understanding Our Food Systems / Indigenous Food Circle, Lakehead University and Thunder Bay District Health Unit",
+        "url": "https://www.understandingourfoodsystems.com/community/red-rock-indian-band",
+        "type": "Academic / reference",
+        "topics": [
+          "Food sovereignty",
+          "Community projects",
+          "Research partnerships"
+        ],
+        "annotation": "Read the entire community case study and project-phase descriptions. Documents the community’s moose-hanging and butcher-shop planning, shared harvesting space and a garden first grown in2019, with work planned for2020. Dated partnership account: future construction, tourism and economic goals are not proof of completion. Current totals, harvest locations and photos are not reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Read the entire community case study and project-phase descriptions. Documents the community’s moose-hanging and butcher-shop planning, shared harvesting space and a garden first grown in2019, with work planned for2020. Dated partnership account: future construction, tourism and economic goals are not proof of completion. Current totals, harvest locations and photos are not reproduced.",
+        "accessNotes": "Substantial actual public article body read through the web reader; this is not an inspection of linked publications, photographs or underlying records. No login or reader paywall was encountered for the inspected text.",
+        "publicationDate": "2019–2020 project account"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -71423,16 +73119,48 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Inspect the original survey and reserve-formation records behind the Band’s historical synthesis.",
+      "Find dated follow-up evaluations of the food projects and further community-authored public histories."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Inspect the original survey and reserve-formation records behind the Band’s historical synthesis.",
+        "Find dated follow-up evaluations of the food projects and further community-authored public histories."
       ]
     },
+    "overviewSourceIds": [
+      "p6-redrock-history",
+      "p6-redrock-foodsystems"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-redrock-history",
+          "reason": "Begin with the Band’s concise account of earlier settlements and reserve formation."
+        },
+        {
+          "sourceId": "p6-redrock-foodsystems",
+          "reason": "Follow a dated community partnership account about food and shared harvesting infrastructure."
+        }
+      ],
+      "imageRecordId": "c6-red-rock-lake-helen"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "red-rock-indian-band",
     "regionGroups": [
       "Canada"
@@ -86968,14 +88696,69 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Wasauksing First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Wasauksing First Nation’s community-supported educational work provides an entry into its history through Francis Pegahmagabow’s life. Read that individual story alongside the guide’s own warning that Indigenous veterans and communities have distinct experiences.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community-supported route for teachers and students",
+        "text": "The 2016 teacher’s guide was developed through the Wasauksing War Hero and Native Veteran’s Educational Awareness and Commemoration Project. Gerry Weaver and Brian McInnes use Pegahmagabow’s story to connect military experience with family, community and political life. The opening pages encourage respectful discussion and stress that no single veteran’s experience represents everyone. This guide is a starting resource; its many lesson plans and source materials need separate review.",
+        "sourceIds": [
+          "p6-wasauksing-teacher"
+        ]
+      },
+      {
+        "title": "Leadership after military service",
+        "text": "Parks Canada’s account follows Francis Pegahmagabow from First World War service into leadership at Wasauksing and wider Indigenous political organizing. It describes his work as chief and his challenges to government restrictions and treaty grievances. This is a named person’s history, not the history of every Wasauksing family. The federal commemorative perspective is useful alongside the community-supported educational guide.",
+        "sourceIds": [
+          "p6-wasauksing-pegahmagabow"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p6-wasauksing-teacher",
+        "title": "Indigenous War Heroes: Secondary School Curriculum — Teacher’s Guide",
+        "publisher": "Wasauksing First Nation / Wasauksing War Hero and Native Veteran’s Educational Awareness and Commemoration Project; hosted by ONECA",
+        "url": "https://oneca.com/wp-content/uploads/2016/07/FP_OtherResources_TeachersGuide.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Education",
+          "Public history",
+          "Biography"
+        ],
+        "annotation": "Selected printed/PDF pp.3–8 of the 89-page guide read: teaching approach, acknowledgments, introduction and Pegahmagabow biography. Copyright Wasauksing First Nation, 2016; authors Gerry Weaver and Brian McInnes. Community support and family participation are acknowledged. Not a review of all lessons, cited books, archives or images.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2016",
+        "author": "Gerry Weaver and Brian McInnes",
+        "contentReviewScope": "Printed/PDF pages3–8 of89, including welcome/teaching approach, acknowledgments, introduction and biography. Copyright/authors read onPDFp2.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Community-supported Wasauksing project with GerryWeaver/BrianMcInnes credited and family acknowledgments. Neither all89pages, citedbooks, archival originals nor media-reuse permissions reviewed. No guide images reproduced."
+      },
+      {
+        "id": "p6-wasauksing-pegahmagabow",
+        "title": "Francis Pegahmagabow (1889–1952) National Historic Person",
+        "publisher": "Parks Canada",
+        "url": "https://parks.canada.ca/culture/designation/personnage-person/francis-pegahmagabow?wbdisable=false",
+        "type": "Government",
+        "topics": [
+          "Biography",
+          "Political history",
+          "Public history"
+        ],
+        "annotation": "Complete historical background body read. Follows Pegahmagabow’s military service and subsequent Wasauksing and national political work; notes family nomination and Wasauksing support. Government commemorative interpretation, not a complete community history. Birth-year and award-number variations in other publications are not resolved here; no photograph from this page is reproduced.",
+        "accessed": "2026-10-27",
+        "contentReviewedAt": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2019-06-13; page modified 2025-05-23",
+        "contentReviewScope": "Complete historical biography body and designation/nomination context; web lines21–36.",
+        "accessNotes": "Public actual-content body/PDF selected pages were read without a login. Federal commemorative interpretation, last historicalbackground2019/page modification2025. Birthyear/awardtotals vary in otherwork; those figures excluded. Museum-owned portrait not reused."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -87002,16 +88785,50 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Review detailed relationships, naming changes and historical regional connections.",
+      "Add Wasauksing-authorized histories, language resources and everyday community accounts beyond this biographical starting point.",
+      "Inspect the guide’s selected bibliography and original letters before adopting detailed military, rank or legal claims.",
+      "Resolve source disagreements about Pegahmagabow’s birth year and award totals before using precise figures; no such total is asserted here."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A small, purposefully selected actual-content starting path and specifically scoped credited image are now available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Add Wasauksing-authorized histories, language resources and everyday community accounts beyond this biographical starting point.",
+        "Inspect the guide’s selected bibliography and original letters before adopting detailed military, rank or legal claims.",
+        "Resolve source disagreements about Pegahmagabow’s birth year and award totals before using precise figures; no such total is asserted here."
       ]
     },
+    "overviewSourceIds": [
+      "p6-wasauksing-teacher",
+      "p6-wasauksing-pegahmagabow"
+    ],
+    "reviewedAt": "2026-10-27",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "starter-guides-06",
+      "reviewedAt": "2026-10-27",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "A short starting path through selected actual-content works. Read each annotation for the specific community, period and inspection limits; this is not a complete history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p6-wasauksing-teacher",
+          "reason": "Begin with the community-supported guide’s introduction, acknowledgments and attention to different experiences."
+        },
+        {
+          "sourceId": "p6-wasauksing-pegahmagabow",
+          "reason": "Read a focused federal commemorative biography alongside the community-supported educational perspective."
+        }
+      ],
+      "imageRecordId": "c06-wasauksing-parry-island-2012"
+    },
+    "evidenceNotes": [
+      "Cohort06: selected actual-content sources and specifically scoped credited imagery form a bounded starting guide. Reused publications/photos are not new global works. Comprehensive history and community review remain open."
+    ],
     "slug": "wasauksing-first-nation",
     "regionGroups": [
       "Canada"
@@ -88632,6 +90449,69 @@
         "id": "CA-ON",
         "name": "Ontario",
         "key": "ca-on"
+      }
+    ]
+  },
+  {
+    "originalId": null,
+    "name": "Winnebago Tribe of Nebraska",
+    "preferredName": "Winnebago Tribe of Nebraska · Ho-Chunk government",
+    "searchTerms": [
+      "Winnebago government Nebraska"
+    ],
+    "added": true,
+    "compiledAt": "2026-10-27",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sources": [],
+    "sections": [],
+    "kind": "Tribal government / contemporary community",
+    "region": "Nebraska — present administrative location only",
+    "overview": "A separately findable route to the Winnebago Tribe of Nebraska, identified by its own public government website. Detailed history, annotated reading sources and individually cleared imagery remain queued.",
+    "relationshipNote": "The government’s public site names the Winnebago Tribe of Nebraska and uses Ho-chunks (Winnebago) in its own description. Keep this named government distinct from the Ho-Chunk Nation in Wisconsin and the broader Ho-Chunk people-name route. This outline does not adjudicate every historical use of Winnebago, current legal powers, citizenship or territory.",
+    "relatedOriginalIds": [
+      130
+    ],
+    "relatedProfileSlugs": [
+      "hochunk",
+      "hochunk-nation"
+    ],
+    "identityVerifiedAt": "2026-10-27",
+    "identificationEvidence": [
+      {
+        "url": "https://winnebagotribe.com/",
+        "publisher": "Winnebago Tribe of Nebraska",
+        "title": "Winnebago Tribe of Nebraska — public government name and mission",
+        "scope": "Actual public body164–180 names the government, uses Ho-chunks (Winnebago) and describes a tribal-government mission. Footer262–263 gives Winnebago, Nebraska as administrative location. This is an identity/name/location check only; historical body, constitution, membership services and present legal instruments were not reviewed.",
+        "reviewedAt": "2026-10-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "researchGaps": [
+      "Develop a community-directed historical reading path and inspect original publications.",
+      "Review individually relevant image identification and media rights before substantive profile publication.",
+      "Keep current legal, citizenship, land and intergovernmental questions separate from this name-only outline."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only outline with no substantive reading-source cards or completed history.",
+      "remainingLimits": [
+        "History, sources, community review and imagery remain queued."
+      ]
+    },
+    "slug": "winnebago-tribe-of-nebraska",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
       }
     ]
   },
