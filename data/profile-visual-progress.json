@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 211,
+    "selectedProfiles": 231,
     "existingApache": 1,
-    "newProfileTreatments": 210,
-    "newTreatmentsWithPhotographs": 204,
+    "newProfileTreatments": 230,
+    "newTreatmentsWithPhotographs": 224,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -3002,6 +3002,83 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "cayuse",
+      "name": "Cayuse",
+      "originalId": 45,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 35,
+      "angle": -46,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "c11-cayuse-photo",
+          "profileSlugs": [
+            "cayuse"
+          ],
+          "mediaType": "photograph",
+          "title": "Umatilla River at Pendleton, Oregon",
+          "creator": "Bobjgalindo",
+          "archive": "Wikimedia Commons;exact photographer/provider item",
+          "date": "2005-07-23",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umatilla_River_at_Pendleton.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Umatilla_River_at_Pendleton.JPG/960px-Umatilla_River_at_Pendleton.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Umatilla_River_at_Pendleton.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Umatilla_River_at_Pendleton.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Bobjgalindo / Wikimedia Commons — CC BY-SA 4.0",
+          "cardCredit": "Bobjgalindo — CC BY-SA 4.0",
+          "scope": "Modern Umatilla River at Pendleton regional context for explicitly described Cayuse Umatilla Basin history. Not an assertion Pendleton is the named headwaters village, a current reservation boundary or a uniquely Cayuse river ownership claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Selected named-place/community source",
+              "url": "https://ctuir.org/about/brief-history-of-ctuir/",
+              "inspectionScope": "ActualselectedCayuse mobility paragraphs explicitly identify Umatilla River headwaters and broader Umatilla Basin; modern Pendleton image is a regional example only."
+            }
+          ],
+          "alt": "A shallow rocky river runs below leafy banks, a roofed overlook and dry basalt hills.",
+          "asset": "assets/profile-visuals/c11-cayuse-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-cayuse-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact item identity, creator, date and media-specific rights read from normalHTTP200 record. Root and child independently viewed complete delivered local pixels; no image interpretation based only on metadata.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×720 provider-listed960pxpreview delivered normallyHTTP200 and individually viewed. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation; CSS may crop/overlay in display while complete frame remains available. Input/source/asset hashes identify actual delivered preview, not camera/larger original. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "root",
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "e3f7d41ed01f6e9c8e4d124e7914a4632250c34eecc66edb05a1c2bc08a7cf5a"
+          },
+          "width": 960,
+          "height": 720,
+          "bytes": 283189,
+          "inputFileSha256": "e3f7d41ed01f6e9c8e4d124e7914a4632250c34eecc66edb05a1c2bc08a7cf5a",
+          "retrievedSourceSha256": "e3f7d41ed01f6e9c8e4d124e7914a4632250c34eecc66edb05a1c2bc08a7cf5a",
+          "assetSha256": "e3f7d41ed01f6e9c8e4d124e7914a4632250c34eecc66edb05a1c2bc08a7cf5a"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:35;--profile-angle:-46deg;--profile-photo:url(\"../../assets/profile-visuals/c11-cayuse-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "chehalis",
       "name": "Chehalis",
       "originalId": 49,
@@ -3301,6 +3378,81 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "chilcotin-tsilhqotin",
+      "name": "Chilcotin (Tŝilhqot'in)",
+      "originalId": 56,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 112,
+      "angle": -46,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Aerial view of Chilko Lake, 2011",
+          "creator": "Sam Beebe / Ecotrust",
+          "date": "2011-09-06",
+          "rightsLabel": "CC BY 2.0 (exact media notice and Flickr review)",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "scope": "Photographer-identified aerial Chilko Lake. TNG’s Xeni Gwet’in caretaker-area account and collaborative salmon report explicitly name the lake. A 2011 waterbody view, not every community’s land, a boundary, the 2024 landslide or proof of current habitat conditions. Exact Commons media notice grants CC BY 2.0 and Flickr review confirms it; EXIF carries a different Creative Commons version string, which is retained as an inspection limit. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "The Nemiah Valley — selected Xeni Gwet’in caretaker-area account",
+              "url": "https://tsilhqotin.ca/governance/tsilhqotin-rights-title/nemiah-valley/",
+              "inspectionScope": "Actual selected The Land and the People of Xeni body, Chilko/Taseko setting and public account of opposition to proposed development. Underlying declarations and private cultural narratives uninspected."
+            },
+            {
+              "title": "Nagwentled — Changing Waters, 2025: selected salmon-stewardship discussion",
+              "url": "https://tsilhqotin.ca/wp-content/uploads/2025/02/Final-Nagwentled-Report_digital-version.pdf",
+              "inspectionScope": "Actual acknowledgments PDF p.3 / printed2 and selected PDF pp.19–22 / printed18–21:changing waters and Chilko-sockeye stewardship discussion.40-page report obtained, not fully read."
+            }
+          ],
+          "id": "c11-chilcotin-tsilhqotin-photo",
+          "profileSlugs": [
+            "chilcotin-tsilhqotin"
+          ],
+          "mediaType": "photograph",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chilko_Lake_4.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Chilko_Lake_4.jpg/960px-Chilko_Lake_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Chilko_Lake_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c11-chilcotin-tsilhqotin-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-chilcotin-tsilhqotin-photo.jpg",
+          "credit": "Sam Beebe / Ecotrust / Wikimedia Commons · CC BY 2.0 (exact media notice and Flickr review)",
+          "cardCredit": "Photo: Sam Beebe / Ecotrust · CC BY 2.0",
+          "recordInspection": "Actual exact Summary, date, creator, provider-exposed preview/original links and media-specific license read. Metadata CC0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "An aerial view shows turquoise lake arms between forested valleys and snow-covered mountain peaks.",
+          "reproductionNote": "Exact provider-exposed960px preview retrieved normallyHTTP200 by root; complete available delivered frame personally viewed with view_image. Larger original pixels uninspected. JPEG retained byte-for-byte, no Atlas pixel crop, retouching, colorization or generation. Source-service resizing/compression retained; CSS may crop/overlay while the full frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 638,
+          "inputFileSha256": "516eb3c49db58874a75b1037f1ed9d4da2f9fe93459e911135b6d8aab741543e",
+          "retrievedSourceSha256": "516eb3c49db58874a75b1037f1ed9d4da2f9fe93459e911135b6d8aab741543e",
+          "assetSha256": "516eb3c49db58874a75b1037f1ed9d4da2f9fe93459e911135b6d8aab741543e",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "516eb3c49db58874a75b1037f1ed9d4da2f9fe93459e911135b6d8aab741543e"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:112;--profile-angle:-46deg;--profile-photo:url(\"../../assets/profile-visuals/c11-chilcotin-tsilhqotin-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "chippewa",
@@ -4210,6 +4362,160 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 10
+    },
+    {
+      "slug": "coos",
+      "name": "Coos",
+      "originalId": 86,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 121,
+      "angle": -30,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c11-coos-photo",
+          "profileSlugs": [
+            "coos"
+          ],
+          "mediaType": "photograph",
+          "title": "Historic Tribal Hall of CTCLUSI",
+          "creator": "Ian Poellet",
+          "archive": "Wikimedia Commons;exact photographer/provider item",
+          "date": "2015-01-21",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tribal_Hall_Coos_Lower_Umpqua_Siuslaw_-_Coos_Bay_Oregon.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tribal_Hall_Coos_Lower_Umpqua_Siuslaw_-_Coos_Bay_Oregon.jpg/960px-Tribal_Hall_Coos_Lower_Umpqua_Siuslaw_-_Coos_Bay_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tribal_Hall_Coos_Lower_Umpqua_Siuslaw_-_Coos_Bay_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tribal_Hall_Coos_Lower_Umpqua_Siuslaw_-_Coos_Bay_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Ian Poellet / Wikimedia Commons — CC BY-SA 4.0",
+          "cardCredit": "Ian Poellet — CC BY-SA 4.0",
+          "scope": "The named confederated Tribal Hall at Coos Bay is specifically connected to the government’s institutional history. Not a traditional Coos dwelling, all Coos people or an exclusively Coos institution. Photograph caption says built 1940; Tribe history discusses 1941 trust/hall context, so no exact building-construction date is asserted. Small sign/flag emblems are incidental parts of the whole-building view; not isolated, interpreted or reused as Atlas design. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Selected named-place/community source",
+              "url": "https://ctclusi.org/history/",
+              "inspectionScope": "Actualhistory timeline 1916/1941 and termination years identifies the Tribal Hall and its continued community importance."
+            }
+          ],
+          "alt": "A cedar-shingled hall with a steep roof, steps and ramp stands beside flagpoles and evergreen trees.",
+          "asset": "assets/profile-visuals/c11-coos-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-coos-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact item identity, creator, date and media-specific rights read from normalHTTP200 record. Root and child independently viewed complete delivered local pixels; no image interpretation based only on metadata.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×552 provider-listed960pxpreview delivered normallyHTTP200 and individually viewed. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation; CSS may crop/overlay in display while complete frame remains available. Input/source/asset hashes identify actual delivered preview, not camera/larger original. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "root",
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "c0eeaa15e874cbf0765eb9e821a0bac1397d570436c274210940793a6daf7cd4"
+          },
+          "width": 960,
+          "height": 552,
+          "bytes": 167066,
+          "inputFileSha256": "c0eeaa15e874cbf0765eb9e821a0bac1397d570436c274210940793a6daf7cd4",
+          "retrievedSourceSha256": "c0eeaa15e874cbf0765eb9e821a0bac1397d570436c274210940793a6daf7cd4",
+          "assetSha256": "c0eeaa15e874cbf0765eb9e821a0bac1397d570436c274210940793a6daf7cd4"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:121;--profile-angle:-30deg;--profile-photo:url(\"../../assets/profile-visuals/c11-coos-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "coquille",
+      "name": "Coquille",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 187,
+      "angle": -27,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c11-coquille-photo",
+          "profileSlugs": [
+            "coquille"
+          ],
+          "mediaType": "photograph",
+          "title": "Coquille River mouth and Bandon Marsh, aerial view",
+          "creator": "Roy W. Lowe / U.S. Fish and Wildlife Service, Pacific Region",
+          "archive": "Wikimedia Commons;exact photographer/provider item",
+          "date": "2009-09-08",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coquille_River_aerial.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Coquille_River_aerial.jpg/960px-Coquille_River_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coquille_River_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Coquille_River_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY 2.0; item also records official-duty USFWS public domain",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "credit": "Roy W. Lowe / U.S. Fish and Wildlife Service, Pacific Region / Wikimedia Commons — CC BY 2.0; item also records official-duty USFWS public domain",
+          "cardCredit": "Roy W. Lowe / U.S. Fish and Wildlife Service, Pacific Region — CC BY 2.0; item also records official-duty USFWS public domain",
+          "scope": "Dated modern Coquille River-mouth/Bandon Marsh landscape. Named-waterway regional context supported by the Tribe’s account; not an exact village, current boundary or universal Coquille landscape. EXIF describes restoration work/plans, not proof of later completion. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Selected named-place/community source",
+              "url": "https://www.coquilletribe.org/our-lands/through-the-millennia/",
+              "inspectionScope": "ActualThrough the Millennia lower Coquille River/Bandon and seasonal-village paragraphs support named-place relevance without a boundary inference."
+            }
+          ],
+          "alt": "An aerial view shows a broad river bend around flat fields, with forests, a bridge and the coast beyond.",
+          "asset": "assets/profile-visuals/c11-coquille-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-coquille-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact item identity, creator, date and media-specific rights read from normalHTTP200 record. Root and child independently viewed complete delivered local pixels; no image interpretation based only on metadata.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×640 provider-listed960pxpreview delivered normallyHTTP200 and individually viewed. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation; CSS may crop/overlay in display while complete frame remains available. Input/source/asset hashes identify actual delivered preview, not camera/larger original. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "root",
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "32d321748d21f0c6c89e5f018d33ca5fa89fb9dd19d38aa8ad0ee7d5c2006596"
+          },
+          "width": 960,
+          "height": 640,
+          "bytes": 194205,
+          "inputFileSha256": "32d321748d21f0c6c89e5f018d33ca5fa89fb9dd19d38aa8ad0ee7d5c2006596",
+          "retrievedSourceSha256": "32d321748d21f0c6c89e5f018d33ca5fa89fb9dd19d38aa8ad0ee7d5c2006596",
+          "assetSha256": "32d321748d21f0c6c89e5f018d33ca5fa89fb9dd19d38aa8ad0ee7d5c2006596"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:187;--profile-angle:-27deg;--profile-photo:url(\"../../assets/profile-visuals/c11-coquille-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "coushatta",
@@ -5908,6 +6214,79 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "hupa",
+      "name": "Hupa",
+      "originalId": 137,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 225,
+      "angle": -77,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c11-hupa-photo",
+          "profileSlugs": [
+            "hupa"
+          ],
+          "mediaType": "photograph",
+          "title": "Trinity River near Hoopa",
+          "creator": "PGHolbrook",
+          "archive": "Wikimedia Commons; item-specific photographer/source and licensing body inspected",
+          "date": "July8,2011 (item record)",
+          "credit": "PGHolbrook / Wikimedia Commons. CC BY-SA 3.0.",
+          "cardCredit": "Photo: PGHolbrook · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinity_River_near_Hoopa_Cal....JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Trinity_River_near_Hoopa_Cal....JPG/960px-Trinity_River_near_Hoopa_Cal....JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20120219235809",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Trinity_River_near_Hoopa_Cal....JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "The Trinity River branches around gravel bars and trees below forested hills near Hoopa.",
+          "scope": "A modern river landscape near Hoopa. Berkeley’s language overview and the Tribe’s public museum account specifically situate Hupa community history along the lower Trinity River; this is not a current boundary, village interior or ceremonial view. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Hupa — language overview and grammatical information",
+              "url": "https://cla.berkeley.edu/languages/hupa.html",
+              "inspectionScope": "Opening language-area/family paragraphs and complete Grammatical information unit through the interlinear deer sentence. Selected archive/bibliography headings seen as leads only; linked publications and audio not opened."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-hupa-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-hupa-photo.jpg",
+          "recordInspection": "Exact item description, creator, source, date distinctions, available preview/original links and media-specific licensing body read in normal HTTP 200 record HTML. Footer metadata CC0 is not the reuse basis.",
+          "reproductionNote": "Root retrieved the exact record-exposed 960 × 640 available preview normally with HTTP 200. This researcher viewed the complete delivered frame using view_image. Existing service resizing/compression is retained; no new pixel crop, retouching, colorization or generation. Larger original pixels were not retrieved or inspected. Card/background CSS crops and overlays must be disclosed; opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "status": "actual-preview-inspected-ready",
+          "accessLimits": "Metadata and exact licensing body inspected; larger-original pixels uninspected. No source image implies government/photographer endorsement, current conditions, site access or separately owned artwork permissions.",
+          "width": 960,
+          "height": 640,
+          "retrievedSourceSha256": "370061703728c9a4e09108b9721a9a62bc5f123a6c843e0948666c0a74417556",
+          "inputFileSha256": "370061703728c9a4e09108b9721a9a62bc5f123a6c843e0948666c0a74417556",
+          "assetSha256": "370061703728c9a4e09108b9721a9a62bc5f123a6c843e0948666c0a74417556",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 640,
+            "fullAvailableFrame": true,
+            "sha256": "370061703728c9a4e09108b9721a9a62bc5f123a6c843e0948666c0a74417556"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:225;--profile-angle:-77deg;--profile-photo:url(\"../../assets/profile-visuals/c10-hupa-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "huronwendat",
       "name": "Huron-Wendat",
       "originalId": 138,
@@ -6204,6 +6583,79 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 12
+    },
+    {
+      "slug": "karuk",
+      "name": "Karuk",
+      "originalId": 158,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 301,
+      "angle": -73,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c11-karuk-photo",
+          "profileSlugs": [
+            "karuk"
+          ],
+          "mediaType": "photograph",
+          "title": "Green Riffle river-access sign, Klamath River setting",
+          "creator": "Tony Webster",
+          "archive": "Wikimedia Commons; item-specific photographer/source and licensing body inspected",
+          "date": "August15,2016 (item description and camera metadata)",
+          "credit": "Tony Webster / Wikimedia Commons. CC BY-SA 2.0.",
+          "cardCredit": "Photo: Tony Webster · CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Riffle_-_Klamath_National_Forest_River_Access_(33101010136).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Green_Riffle_-_Klamath_National_Forest_River_Access_%2833101010136%29.jpg/960px-Green_Riffle_-_Klamath_National_Forest_River_Access_%2833101010136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20170809171854",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Green_Riffle_-_Klamath_National_Forest_River_Access_%2833101010136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "A National Forest River Access sign marked Green Riffle stands against a wooded hillside; the river itself is not visible.",
+          "scope": "A dated public river-access sign and wooded hillside, labelled near Happy Camp in the item; the river is not visible. The Tribe’s land-management account specifically discusses the middle Klamath River and community properties in Orleans and Happy Camp. This provides regional landscape context, not a photograph of Karuk people, Tribe-owned facilities, a tribal environmental project or a territorial boundary. The sign’s information is not verified as current access guidance. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Land Management — historical account and stewardship responsibilities",
+              "url": "https://www.karuk.us/departments/public-works/land-management",
+              "inspectionScope": "Mission and History units, including 1851, 1905 and Today timeline entries, before Maps; programme FAQs also read. Maps, linked legal documents and current acreage figures not adopted."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-karuk-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-karuk-photo.jpg",
+          "recordInspection": "Exact item description, creator, source, date distinctions, available preview/original links and media-specific licensing body read in normal HTTP 200 record HTML. Footer metadata CC0 is not the reuse basis.",
+          "reproductionNote": "Root retrieved the exact record-exposed 960 × 647 available preview normally with HTTP 200. This researcher viewed the complete delivered frame using view_image. Existing service resizing/compression is retained; no new pixel crop, retouching, colorization or generation. Larger original pixels were not retrieved or inspected. Card/background CSS crops and overlays must be disclosed; opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "status": "actual-preview-inspected-ready",
+          "accessLimits": "Metadata and exact licensing body inspected; larger-original pixels uninspected. No source image implies government/photographer endorsement, current conditions, site access or separately owned artwork permissions. The explicit CC BY-SA 2.0 licensing section and 2017 Flickr license-review confirmation are the reuse basis; older embedded EXIF all-rights-reserved wording is disclosed rather than silently ignored.",
+          "width": 960,
+          "height": 647,
+          "retrievedSourceSha256": "332da9f3c130b98d8a8d2f1c1960a2da5584c3a03138743ab6ad9ff1a1d21364",
+          "inputFileSha256": "332da9f3c130b98d8a8d2f1c1960a2da5584c3a03138743ab6ad9ff1a1d21364",
+          "assetSha256": "332da9f3c130b98d8a8d2f1c1960a2da5584c3a03138743ab6ad9ff1a1d21364",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 647,
+            "fullAvailableFrame": true,
+            "sha256": "332da9f3c130b98d8a8d2f1c1960a2da5584c3a03138743ab6ad9ff1a1d21364"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:301;--profile-angle:-73deg;--profile-photo:url(\"../../assets/profile-visuals/c10-karuk-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "keweenaw-bay-indian-community",
@@ -6550,6 +7002,83 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "klamath",
+      "name": "Klamath",
+      "originalId": 172,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 339,
+      "angle": -68,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c11-klamath-photo",
+          "profileSlugs": [
+            "klamath"
+          ],
+          "mediaType": "photograph",
+          "title": "Agency Lake, Oregon",
+          "creator": "Bobjgalindo",
+          "archive": "Wikimedia Commons;exact photographer/provider item",
+          "date": "2010;exactday differs between caption and EXIF",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agency_Lake.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Agency_Lake.JPG/960px-Agency_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Agency_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Agency_Lake.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "credit": "Bobjgalindo / Wikimedia Commons — CC BY-SA 4.0",
+          "cardCredit": "Bobjgalindo — CC BY-SA 4.0",
+          "scope": "Agency Lake is specifically named in the Klamath Tribes’ historical account. Modern regional view with dock/landscape, not a confirmed village, all constituent peoples or territorial boundary. SummarydateNovember3, 2010 differs from EXIFNovember2; exact day unresolved. Small unidentifiable shore figures are incidental; no community identity or activity is inferred. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Selected named-place/community source",
+              "url": "https://klamathtribes.org/history/",
+              "inspectionScope": "ActualTime Immemorial location paragraph names Klamath communities on Agency Lake; ceremonial context is not republished."
+            }
+          ],
+          "alt": "A still blue lake lies beyond a boat ramp and dock, with mountains across the water and small unidentifiable figures on shore.",
+          "asset": "assets/profile-visuals/c11-klamath-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-klamath-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact item identity, creator, date and media-specific rights read from normalHTTP200 record. Root and child independently viewed complete delivered local pixels; no image interpretation based only on metadata.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×720 provider-listed960pxpreview delivered normallyHTTP200 and individually viewed. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation; CSS may crop/overlay in display while complete frame remains available. Input/source/asset hashes identify actual delivered preview, not camera/larger original. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "root",
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "0797b08b04069113b4c7b9a57e85ce06c63e3e44c4644516501473b5250452c2"
+          },
+          "width": 960,
+          "height": 720,
+          "bytes": 158080,
+          "inputFileSha256": "0797b08b04069113b4c7b9a57e85ce06c63e3e44c4644516501473b5250452c2",
+          "retrievedSourceSha256": "0797b08b04069113b4c7b9a57e85ce06c63e3e44c4644516501473b5250452c2",
+          "assetSha256": "0797b08b04069113b4c7b9a57e85ce06c63e3e44c4644516501473b5250452c2"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:339;--profile-angle:-68deg;--profile-photo:url(\"../../assets/profile-visuals/c11-klamath-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "kootenai-ktunaxa",
@@ -8351,6 +8880,79 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "modoc",
+      "name": "Modoc",
+      "originalId": 220,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 77,
+      "angle": 4,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c11-modoc-photo",
+          "profileSlugs": [
+            "modoc"
+          ],
+          "mediaType": "photograph",
+          "title": "Views from the Lava Beds",
+          "creator": "National Park Service; individual photographer not supplied",
+          "archive": "Wikimedia Commons; item-specific photographer/source and licensing body inspected",
+          "date": "February26,2007 (NPS item record)",
+          "credit": "National Park Service; individual photographer not supplied / Wikimedia Commons. Public domain — U.S. government work.",
+          "cardCredit": "Photo: National Park Service; individual photographer not supplied · Public domain — U.S. government work",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Views_from_the_Lava_Beds_(fd6bdfae-1dd8-b71b-0b68-83803fc93917).JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Views_from_the_Lava_Beds_%28fd6bdfae-1dd8-b71b-0b68-83803fc93917%29.JPG/960px-Views_from_the_Lava_Beds_%28fd6bdfae-1dd8-b71b-0b68-83803fc93917%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20241117130122",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Views_from_the_Lava_Beds_%28fd6bdfae-1dd8-b71b-0b68-83803fc93917%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — U.S. government work",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Views_from_the_Lava_Beds_(fd6bdfae-1dd8-b71b-0b68-83803fc93917).JPG#Summary",
+          "reviewedAt": "2026-10-28",
+          "alt": "Snow patches, scrub and low hills under clouds in a winter view from Lava Beds National Monument.",
+          "scope": "A modern landscape of Lava Beds National Monument. Both Nation history and the park’s homeland account identify this landscape’s specific Modoc historical connection. It is not a reconstructed 1873 scene, a mapped boundary, a portrait of present citizens or a site-access invitation. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Modoc Homeland — seasonal landscapes and different community paths",
+              "url": "https://home.nps.gov/labe/learn/historyculture/modochomeland.htm",
+              "inspectionScope": "Main introduction, Seasonal Life, and Modern Modoc Peoples units (Oklahoma and Klamath Tribes) through Lava Beds Homeland conclusion. Using Plants and Animals read only at general material-use level; spiritual-site references and procedural details excluded from synthesis."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-modoc-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-modoc-photo.jpg",
+          "recordInspection": "Exact item description, creator, source, date distinctions, available preview/original links and media-specific licensing body read in normal HTTP 200 record HTML. Footer metadata CC0 is not the reuse basis.",
+          "reproductionNote": "Root retrieved the exact record-exposed 960 × 640 available preview normally with HTTP 200. This researcher viewed the complete delivered frame using view_image. Existing service resizing/compression is retained; no new pixel crop, retouching, colorization or generation. Larger original pixels were not retrieved or inspected. Card/background CSS crops and overlays must be disclosed; opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "status": "actual-preview-inspected-ready",
+          "accessLimits": "Metadata and exact licensing body inspected; larger-original pixels uninspected. No source image implies government/photographer endorsement, current conditions, site access or separately owned artwork permissions.",
+          "width": 960,
+          "height": 640,
+          "retrievedSourceSha256": "d59323bb5730711440e3bf011ae8d63e01b413b03cd29a15ddb5e882836514ef",
+          "inputFileSha256": "d59323bb5730711440e3bf011ae8d63e01b413b03cd29a15ddb5e882836514ef",
+          "assetSha256": "d59323bb5730711440e3bf011ae8d63e01b413b03cd29a15ddb5e882836514ef",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 640,
+            "fullAvailableFrame": true,
+            "sha256": "d59323bb5730711440e3bf011ae8d63e01b413b03cd29a15ddb5e882836514ef"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:77;--profile-angle:4deg;--profile-photo:url(\"../../assets/profile-visuals/c10-modoc-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "mohican",
       "name": "Mohican",
       "originalId": 223,
@@ -8419,6 +9021,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "muckleshoot",
+      "name": "Muckleshoot",
+      "originalId": 230,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 145,
+      "angle": -37,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c11-muckleshoot-white-river",
+          "profileSlugs": [
+            "muckleshoot"
+          ],
+          "mediaType": "photograph",
+          "title": "White River at Game Farm Park, Auburn, 2024",
+          "creator": "Roc0ast3r",
+          "archive": "Wikimedia Commons",
+          "date": "2024-06-21",
+          "credit": "Roc0ast3r / Wikimedia Commons · CC0 1.0",
+          "cardCredit": "Photo: Roc0ast3r · CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_River_at_Game_Farm_Park_in_Auburn,_Washington_-_6.jpg",
+          "rightsLabel": "CC0 1.0 Universal — exact photo dedication",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "alt": "The White River runs past stones and a log between densely forested banks.",
+          "scope": "A photographer-identified 2024 White River view at Game Farm Park in Auburn. The Tribe’s land account names the White River among ancestral waterways. Regional river context does not establish that this camera location is a former village, reservation parcel, present ownership or legal boundary. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Muckleshoot Tribal Lands & Acknowledgement",
+              "url": "https://www.muckleshoot.nsn.us/tribal-lands",
+              "inspectionScope": "Actual introductory body explicitly names the White River, lines3–8."
+            }
+          ],
+          "asset": "assets/profile-visuals/c11-muckleshoot-white-river.jpg",
+          "cardAsset": "assets/profile-visuals/c11-muckleshoot-white-river.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/White_River_at_Game_Farm_Park_in_Auburn%2C_Washington_-_6.jpg/960px-White_River_at_Game_Farm_Park_in_Auburn%2C_Washington_-_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-preview-inspected-ready",
+          "recordInspection": "Exact item identification, creator/date, media-specific author release orCC0 dedication and actual preview link read. MetadataCC0 alone is not the reuse basis.",
+          "reproductionNote": "Complete available provider-exposed960px preview retrieved normallyHTTP200 and individually viewed. Larger original uninspected; no Atlas pixel crop, retouching or generation. Background/card CSS crops/overlays affect presentation, while the delivered frame is available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 640,
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "e02dfd8b1ae0bb42187e36e7e6781718fe312801fad6dfa76a0352b54dfee25c"
+          },
+          "inputFileSha256": "e02dfd8b1ae0bb42187e36e7e6781718fe312801fad6dfa76a0352b54dfee25c",
+          "retrievedSourceSha256": "e02dfd8b1ae0bb42187e36e7e6781718fe312801fad6dfa76a0352b54dfee25c",
+          "assetSha256": "e02dfd8b1ae0bb42187e36e7e6781718fe312801fad6dfa76a0352b54dfee25c"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:145;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/c11-muckleshoot-white-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "muscogee-creek",
       "name": "Muscogee (Creek)",
       "originalId": 232,
@@ -8485,6 +9156,76 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:120;--profile-angle:75deg;--profile-photo:url(\"../../assets/profile-visuals/c10-muscogee-creek-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "musqueam",
+      "name": "Musqueam",
+      "originalId": 233,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 159,
+      "angle": -11,
+      "composition": "ribbon",
+      "images": [
+        {
+          "title": "Iona Beach Regional Park on Iona Island, 2006",
+          "creator": "Usgnus",
+          "date": "2006-05-21",
+          "rightsLabel": "CC BY-SA 3.0 (one of the item’s offered licenses)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "Photographer-identified Iona Beach Regional Park. Metro Vancouver’s actual 2022 paper documents Musqueam collaboration and ecological priorities at Iona Island. A 2006 landscape predating that project, not a portrait of a reserve, proof of territory, current access or completed restoration. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Iona Island conceptual-design background paper — selected Musqueam engagement account, 2022",
+              "url": "https://metrovancouver.org/services/liquid-waste/Documents/ii-wwtp-project-conceptual-design-background-paper-2022-05.pdf",
+              "inspectionScope": "Actual complete PDF/printed p.9 describing Musqueam collaboration and Iona Island ecological priorities."
+            }
+          ],
+          "id": "c11-musqueam-photo",
+          "profileSlugs": [
+            "musqueam"
+          ],
+          "mediaType": "photograph",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iona_Beach_Regional_Park.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Iona_Beach_Regional_Park.jpg/960px-Iona_Beach_Regional_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Iona_Beach_Regional_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c11-musqueam-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-musqueam-photo.jpg",
+          "credit": "Usgnus / Wikimedia Commons · CC BY-SA 3.0 (one of the item’s offered licenses)",
+          "cardCredit": "Photo: Usgnus · CC BY-SA 3.0",
+          "recordInspection": "Actual exact Summary, date, creator, provider-exposed preview/original links and media-specific license read. Metadata CC0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "Driftwood lies beside shallow coastal water, with a low rock barrier and a distant airplane under a pale sky.",
+          "reproductionNote": "Exact provider-exposed960px preview retrieved normallyHTTP200 by root; complete available delivered frame personally viewed with view_image. Larger original pixels uninspected. JPEG retained byte-for-byte, no Atlas pixel crop, retouching, colorization or generation. Source-service resizing/compression retained; CSS may crop/overlay while the full frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 640,
+          "inputFileSha256": "10a407b4f6cab8500257fc5e218d4a2084980679713f5858d6125dccf1cf3139",
+          "retrievedSourceSha256": "10a407b4f6cab8500257fc5e218d4a2084980679713f5858d6125dccf1cf3139",
+          "assetSha256": "10a407b4f6cab8500257fc5e218d4a2084980679713f5858d6125dccf1cf3139",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "10a407b4f6cab8500257fc5e218d4a2084980679713f5858d6125dccf1cf3139"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:159;--profile-angle:-11deg;--profile-photo:url(\"../../assets/profile-visuals/c11-musqueam-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -8935,6 +9676,81 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "nlakapamux",
+      "name": "Nlaka'pamux",
+      "originalId": 252,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 1,
+      "angle": -60,
+      "composition": "ribbon",
+      "images": [
+        {
+          "title": "Fraser and Thompson river confluence at Lytton, 2015",
+          "creator": "The Interior",
+          "date": "2015-08-20",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "scope": "Photographer-identified river confluence at Lytton. Lytton First Nation’s own About Us locates its communities along the Fraser River and describes Kumsheen as where the rivers cross. The Stein plan identifies the specific Lytton Nlaka’pamux partnership. Regional named-place context, not all Nlaka’pamux communities, a photographed reserve boundary or a present-rights determination. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "About Us — Lytton First Nation",
+              "url": "https://lfn.band/about-us",
+              "inspectionScope": "Actual main identity/place paragraphs:Kumsheen/rivers-cross setting, Fraser River and Stein water-system connection. Acreage, reserve counts and exact 1881 allotment date not adopted."
+            },
+            {
+              "title": "Stein Valley Nlaka’pamux Heritage Park Management Plan, June 2000 — selected planning history",
+              "url": "https://nrs.objectstore.gov.bc.ca/kuwyyf/stein_valley_nlakapamux_heritage_pk_mp_20000601_315c2458cb.pdf",
+              "inspectionScope": "Actual PDF p.8 acknowledgments and pp.11–14 / printed1–4:plan highlights, process, cooperative management and 1995 designation background.74 pages obtained;no whole-file reading claimed."
+            }
+          ],
+          "id": "c11-nlakapamux-photo",
+          "profileSlugs": [
+            "nlakapamux"
+          ],
+          "mediaType": "photograph",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fraser_joins_Thompson_River_at_Lytton.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fraser_joins_Thompson_River_at_Lytton.JPG/960px-Fraser_joins_Thompson_River_at_Lytton.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fraser_joins_Thompson_River_at_Lytton.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c11-nlakapamux-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-nlakapamux-photo.jpg",
+          "credit": "The Interior / Wikimedia Commons · CC BY-SA 4.0",
+          "cardCredit": "Photo: The Interior · CC BY-SA 4.0",
+          "recordInspection": "Actual exact Summary, date, creator, provider-exposed preview/original links and media-specific license read. Metadata CC0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "Two differently colored river flows meet below forested hills near Lytton.",
+          "reproductionNote": "Exact provider-exposed960px preview retrieved normallyHTTP200 by root; complete available delivered frame personally viewed with view_image. Larger original pixels uninspected. JPEG retained byte-for-byte, no Atlas pixel crop, retouching, colorization or generation. Source-service resizing/compression retained; CSS may crop/overlay while the full frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 539,
+          "inputFileSha256": "c3c555780f72889354ba519fe56c10687ef8934e7b0a590ac04cda97186a7383",
+          "retrievedSourceSha256": "c3c555780f72889354ba519fe56c10687ef8934e7b0a590ac04cda97186a7383",
+          "assetSha256": "c3c555780f72889354ba519fe56c10687ef8934e7b0a590ac04cda97186a7383",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "c3c555780f72889354ba519fe56c10687ef8934e7b0a590ac04cda97186a7383"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:1;--profile-angle:-60deg;--profile-photo:url(\"../../assets/profile-visuals/c11-nlakapamux-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "nokoni",
@@ -9492,6 +10308,76 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 19
+    },
+    {
+      "slug": "okanagan-syilx",
+      "name": "Okanagan (Syilx)",
+      "originalId": 266,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 197,
+      "angle": 64,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Okanagan Lake at Kelowna, 2026",
+          "creator": "Joli Rumi",
+          "date": "2026-04-05 (according to item EXIF)",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "scope": "Photographer-identified Okanagan Lake at Kelowna. The Nation’s fish-passage account explicitly concerns this lake. Modern waterbody context, not the fishway, a reserve portrait, a boundary or evidence of restoration outcomes. Date is the item’s EXIF-based identification, not independently verified camera timing. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "kłusxnitkʷ Okanagan Lake Dam Fish Passage — selected project explanation",
+              "url": "https://syilx.org/programs-services-and-initiatives/fisheries-and-natural-resources/ntytyix-chief-salmon/klusxnitk%CA%B7-okanagan-lake-dam-fish-passage/",
+              "inspectionScope": "Actual background, project-goal and restoration paragraphs, reader lines5–31, and monitoring explanation54–56. Later FAQ read but numerical/current assertions not used."
+            }
+          ],
+          "id": "c11-okanagan-syilx-photo",
+          "profileSlugs": [
+            "okanagan-syilx"
+          ],
+          "mediaType": "photograph",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Okanagan_Lake,_Kelowna,_BC,_Canada.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Okanagan_Lake%2C_Kelowna%2C_BC%2C_Canada.jpg/960px-Okanagan_Lake%2C_Kelowna%2C_BC%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Okanagan_Lake%2C_Kelowna%2C_BC%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c11-okanagan-syilx-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-okanagan-syilx-photo.jpg",
+          "credit": "Joli Rumi / Wikimedia Commons · CC BY-SA 4.0",
+          "cardCredit": "Photo: Joli Rumi · CC BY-SA 4.0",
+          "recordInspection": "Actual exact Summary, date, creator, provider-exposed preview/original links and media-specific license read. Metadata CC0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "Blue lake water stretches toward dry hills, with shore buildings and trees at the right.",
+          "reproductionNote": "Exact provider-exposed960px preview retrieved normallyHTTP200 by root; complete available delivered frame personally viewed with view_image. Larger original pixels uninspected. JPEG retained byte-for-byte, no Atlas pixel crop, retouching, colorization or generation. Source-service resizing/compression retained; CSS may crop/overlay while the full frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 540,
+          "inputFileSha256": "9bf905e94f81c9c106b9c2751c91ef03db91595c8167c588b6c32e2352c0c682",
+          "retrievedSourceSha256": "9bf905e94f81c9c106b9c2751c91ef03db91595c8167c588b6c32e2352c0c682",
+          "assetSha256": "9bf905e94f81c9c106b9c2751c91ef03db91595c8167c588b6c32e2352c0c682",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "9bf905e94f81c9c106b9c2751c91ef03db91595c8167c588b6c32e2352c0c682"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:197;--profile-angle:64deg;--profile-photo:url(\"../../assets/profile-visuals/c11-okanagan-syilx-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
     },
     {
       "slug": "omaha",
@@ -11633,6 +12519,76 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "secwepemc",
+      "name": "Secwepemc",
+      "originalId": 337,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 177,
+      "angle": 67,
+      "composition": "wash",
+      "images": [
+        {
+          "title": "Yellowhead Bridge and South Thompson River near Kamloops, 2021",
+          "creator": "Kiyoteru Awaji",
+          "date": "2021-09-15",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "scope": "Photographer-identified modern South Thompson River near Kamloops. Tk̓emlúps te Secwépemc’s own historical introduction names this river and the confluence setting. One specific local-waterway context within a broader people route, not a reserve boundary, a picture of every community or a current legal claim. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Our History — a Tk̓emlúps te Secwépemc community example",
+              "url": "https://tkemlups.ca/our-history/",
+              "inspectionScope": "Actual substantial indexed history/story body, with synthesis limited to the confluence name, North/South Thompson setting and explanation of regional movement/trade."
+            }
+          ],
+          "id": "c11-secwepemc-photo",
+          "profileSlugs": [
+            "secwepemc"
+          ],
+          "mediaType": "photograph",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellowhead_Bridge_and_South_Thompson_River.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Yellowhead_Bridge_and_South_Thompson_River.jpg/960px-Yellowhead_Bridge_and_South_Thompson_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Yellowhead_Bridge_and_South_Thompson_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c11-secwepemc-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-secwepemc-photo.jpg",
+          "credit": "Kiyoteru Awaji / Wikimedia Commons · CC BY 4.0",
+          "cardCredit": "Photo: Kiyoteru Awaji · CC BY 4.0",
+          "recordInspection": "Actual exact Summary, date, creator, provider-exposed preview/original links and media-specific license read. Metadata CC0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "A sidewalk and traffic cross a bridge beside a sign reading South Thompson River, with hills beyond.",
+          "reproductionNote": "Exact provider-exposed960px preview retrieved normallyHTTP200 by root; complete available delivered frame personally viewed with view_image. Larger original pixels uninspected. JPEG retained byte-for-byte, no Atlas pixel crop, retouching, colorization or generation. Source-service resizing/compression retained; CSS may crop/overlay while the full frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 720,
+          "inputFileSha256": "66402efdf61f91c837d0aa53719882455d689b13b04557e96bf24ea663684b34",
+          "retrievedSourceSha256": "66402efdf61f91c837d0aa53719882455d689b13b04557e96bf24ea663684b34",
+          "assetSha256": "66402efdf61f91c837d0aa53719882455d689b13b04557e96bf24ea663684b34",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "66402efdf61f91c837d0aa53719882455d689b13b04557e96bf24ea663684b34"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:177;--profile-angle:67deg;--profile-photo:url(\"../../assets/profile-visuals/c11-secwepemc-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "seminole",
       "name": "Seminole",
       "originalId": 340,
@@ -11838,6 +12794,79 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:-62deg;--profile-photo:url(\"../../assets/profile-visuals/shakopee-mystic-lake-naithani-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "shasta",
+      "name": "Shasta",
+      "originalId": 344,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 321,
+      "angle": -50,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "c11-shasta-photo",
+          "profileSlugs": [
+            "shasta"
+          ],
+          "mediaType": "photograph",
+          "title": "Shasta River near Hawkinsville",
+          "creator": "Eric Guinther (Marshman)",
+          "archive": "Wikimedia Commons; item-specific photographer/source and licensing body inspected",
+          "date": "April29,2004 capture stated in description; May9,2004 original upload",
+          "credit": "Eric Guinther (Marshman) / Wikimedia Commons. CC BY-SA 3.0.",
+          "cardCredit": "Photo: Eric Guinther (Marshman) · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ShastaRiver.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/ShastaRiver.jpg/500px-ShastaRiver.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110921164838",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/ShastaRiver.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "The Shasta River runs through a steep, sparsely wooded valley near Hawkinsville.",
+          "scope": "A river-valley landscape for the broader Shasta reading label: Berkeley’s actual language introduction names the Shasta River as part of the traditional language-area setting. This is not Copco Parcel B, a picture of Shasta Indian Nation members, a current legal territory or proof that one organization represents all Shasta communities. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Shasta — introductory language geography and reclamation leads",
+              "url": "https://cla.berkeley.edu/languages/shasta.html",
+              "inspectionScope": "Opening language-geography/reclamation paragraphs and Shastan-family paragraph read. Linked grammar, archive items, map and publications are uninspected leads."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-shasta-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-shasta-photo.jpg",
+          "recordInspection": "Exact item description, creator, source, date distinctions, available preview/original links and media-specific licensing body read in normal HTTP 200 record HTML. Footer metadata CC0 is not the reuse basis.",
+          "reproductionNote": "Root retrieved the exact record-exposed 500 × 667 available preview normally with HTTP 200. This researcher viewed the complete delivered frame using view_image. Existing service resizing/compression is retained; no new pixel crop, retouching, colorization or generation. Larger original pixels were not retrieved or inspected. Card/background CSS crops and overlays must be disclosed; opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "status": "actual-preview-inspected-ready",
+          "accessLimits": "Metadata and exact licensing body inspected; larger-original pixels uninspected. No source image implies government/photographer endorsement, current conditions, site access or separately owned artwork permissions.",
+          "width": 500,
+          "height": 667,
+          "retrievedSourceSha256": "a6b084f2f8fe7938f493a7a27b2e32857df5577a9b579a7b99b239a2a1ded6c1",
+          "inputFileSha256": "a6b084f2f8fe7938f493a7a27b2e32857df5577a9b579a7b99b239a2a1ded6c1",
+          "assetSha256": "a6b084f2f8fe7938f493a7a27b2e32857df5577a9b579a7b99b239a2a1ded6c1",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 500,
+            "height": 667,
+            "fullAvailableFrame": true,
+            "sha256": "a6b084f2f8fe7938f493a7a27b2e32857df5577a9b579a7b99b239a2a1ded6c1"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:321;--profile-angle:-50deg;--profile-photo:url(\"../../assets/profile-visuals/c10-shasta-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -12669,6 +13698,76 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "sto-lo",
+      "name": "Stó:lō",
+      "originalId": 361,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 227,
+      "angle": -47,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Fraser River near Chilliwack, 2012",
+          "creator": "Todd Gordon Brown",
+          "date": "2012-11-24",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "Photographer-identified Fraser River near Chilliwack. Stó:lō Tourism’s actual introduction names Chilliwack and the Fraser River setting. A dated regional landscape, not a specific fishing entitlement, reserve boundary, ceremony or universal Stó:lō experience. Photographer’s spiritual/biological interpretations are not independently adopted. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Stó:lō Tourism FAQ — selected Resource Centre account",
+              "url": "https://www.stolotourism.com/faq",
+              "inspectionScope": "Actual substantive body, reader lines11–23:people-of-the-river introduction, 2010 Resource Centre opening and archive/language/education spaces."
+            }
+          ],
+          "id": "c11-sto-lo-photo",
+          "profileSlugs": [
+            "sto-lo"
+          ],
+          "mediaType": "photograph",
+          "archive": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fraser_River,_Chilliwack,_BC_-_Salmon_Run.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Fraser_River%2C_Chilliwack%2C_BC_-_Salmon_Run.jpg/960px-Fraser_River%2C_Chilliwack%2C_BC_-_Salmon_Run.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fraser_River%2C_Chilliwack%2C_BC_-_Salmon_Run.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "reviewedAt": "2026-10-28",
+          "asset": "assets/profile-visuals/c11-sto-lo-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-sto-lo-photo.jpg",
+          "credit": "Todd Gordon Brown / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Photo: Todd Gordon Brown · CC BY-SA 3.0",
+          "recordInspection": "Actual exact Summary, date, creator, provider-exposed preview/original links and media-specific license read. Metadata CC0 is not the reuse basis.",
+          "status": "actual-preview-inspected-ready",
+          "alt": "Bare trees and a shaded riverside foreground frame water and mountains beneath dramatic clouds.",
+          "reproductionNote": "Exact provider-exposed960px preview retrieved normallyHTTP200 by root; complete available delivered frame personally viewed with view_image. Larger original pixels uninspected. JPEG retained byte-for-byte, no Atlas pixel crop, retouching, colorization or generation. Source-service resizing/compression retained; CSS may crop/overlay while the full frame remains available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 587,
+          "inputFileSha256": "e0b65e4d274db938cd404765a4a1409706df3c0a46160d903fbf3dbea51bbf91",
+          "retrievedSourceSha256": "e0b65e4d274db938cd404765a4a1409706df3c0a46160d903fbf3dbea51bbf91",
+          "assetSha256": "e0b65e4d274db938cd404765a4a1409706df3c0a46160d903fbf3dbea51bbf91",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "e0b65e4d274db938cd404765a4a1409706df3c0a46160d903fbf3dbea51bbf91"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:227;--profile-angle:-47deg;--profile-photo:url(\"../../assets/profile-visuals/c11-sto-lo-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
+    },
+    {
       "slug": "stockbridgemunsee-band-of-mohican-indians",
       "name": "Stockbridge-Munsee Band of Mohican Indians",
       "originalId": null,
@@ -13347,6 +14446,79 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "tolowa",
+      "name": "Tolowa",
+      "originalId": 392,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 221,
+      "angle": 12,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c11-tolowa-photo",
+          "profileSlugs": [
+            "tolowa"
+          ],
+          "mediaType": "photograph",
+          "title": "Smith River near Crescent City",
+          "creator": "Clinton Steeds",
+          "archive": "Wikimedia Commons; item-specific photographer/source and licensing body inspected",
+          "date": "March23,2007 (item description)",
+          "credit": "Clinton Steeds / Wikimedia Commons. CC BY 2.0.",
+          "cardCredit": "Photo: Clinton Steeds · CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Smith_River_near_Crescent_City,_CA.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Smith_River_near_Crescent_City%2C_CA.jpg/960px-Smith_River_near_Crescent_City%2C_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Smith_River_near_Crescent_City%2C_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "Turquoise Smith River water bends between rocky banks and forested hills near Crescent City.",
+          "scope": "A modern Smith River landscape near Crescent City, in the river setting specifically connected with Tolowa Dee-ni’ stewardship in the inspected partnership release. Not a picture of Nation citizens, a reservation boundary, the 2025 burn itself or current environmental conditions. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Tolowa Dee-ni’ Nation and California State Parks return cultural burning to See-tr’ee-ghin-dvm-dvn",
+              "url": "https://www.parks.ca.gov/NewsRelease/1457",
+              "inspectionScope": "Complete November20, 2025 main release from Hiouchi/October21 event through the cooperative-stewardship paragraph, before subscription information."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-tolowa-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-tolowa-photo.jpg",
+          "recordInspection": "Exact item description, creator, source, date distinctions, available preview/original links and media-specific licensing body read in normal HTTP 200 record HTML. Footer metadata CC0 is not the reuse basis.",
+          "reproductionNote": "Root retrieved the exact record-exposed 960 × 1444 available preview normally with HTTP 200. This researcher viewed the complete delivered frame using view_image. Existing service resizing/compression is retained; no new pixel crop, retouching, colorization or generation. Larger original pixels were not retrieved or inspected. Card/background CSS crops and overlays must be disclosed; opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "status": "actual-preview-inspected-ready",
+          "accessLimits": "Metadata and exact licensing body inspected; larger-original pixels uninspected. No source image implies government/photographer endorsement, current conditions, site access or separately owned artwork permissions.",
+          "width": 960,
+          "height": 1444,
+          "retrievedSourceSha256": "134213bd0764bff5016aa46caa646f46d8f75e72f504dbca16f881fc5ede3175",
+          "inputFileSha256": "134213bd0764bff5016aa46caa646f46d8f75e72f504dbca16f881fc5ede3175",
+          "assetSha256": "134213bd0764bff5016aa46caa646f46d8f75e72f504dbca16f881fc5ede3175",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 1444,
+            "fullAvailableFrame": true,
+            "sha256": "134213bd0764bff5016aa46caa646f46d8f75e72f504dbca16f881fc5ede3175"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:221;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/c10-tolowa-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "tonkawa",
       "name": "Tonkawa",
       "originalId": 394,
@@ -13693,6 +14865,83 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "warm-springs",
+      "name": "Warm Springs",
+      "originalId": 428,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 55,
+      "angle": 41,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "c11-warm-springs-photo",
+          "profileSlugs": [
+            "warm-springs"
+          ],
+          "mediaType": "photograph",
+          "title": "Deschutes River near the Columbia confluence",
+          "creator": "Pete Forsyth, Wiki Strategies",
+          "archive": "Wikimedia Commons;exact photographer/provider item",
+          "date": "2003-12-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deschutes_River.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Deschutes_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Deschutes_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Deschutes_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Pete Forsyth, Wiki Strategies / Wikimedia Commons — CC BY 4.0",
+          "cardCredit": "Pete Forsyth, Wiki Strategies — CC BY 4.0",
+          "scope": "Modern Deschutes River near its Columbia confluence named-waterway context. Treaty preamble/Article1 explicitly names De Chutes bands/rivers; not exact historical village, confirmed reservation shoreline, present boundary or ownership evidence. Only available original is800×600. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Selected named-place/community source",
+              "url": "https://warmsprings-nsn.gov/treaty-documents/treaty-of-1855/",
+              "inspectionScope": "Actualselectedpreamble/Article1 names Upper/Lower De Chutes bands and De Chutes/Columbia rivers. Image is regionally scoped, not a boundary reconstruction."
+            }
+          ],
+          "alt": "A river curves through dry rounded hills beneath a clear blue sky, with a wider waterway in the distance.",
+          "asset": "assets/profile-visuals/c11-warm-springs-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-warm-springs-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact item identity, creator, date and media-specific rights read from normalHTTP200 record. Root and child independently viewed complete delivered local pixels; no image interpretation based only on metadata.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete provider-listed800×600original delivered normallyHTTP200 and visually inspected. This is the whole file exposed as original by the item, not a guessed/upscaled960derivative. No Atlas pixel crop, retouching or generation; JPEG bytes retained. CSS display crops/overlays may affect presentation. Riverbend and distant waterway visible; exact confluence point not asserted from pixels. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "root",
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed800px original",
+            "sha256": "fdbc8e0096db7b86a8772a546bf4981a2a8d68a504f9228f5fe77d45cb40aa8a"
+          },
+          "width": 800,
+          "height": 600,
+          "bytes": 96595,
+          "inputFileSha256": "fdbc8e0096db7b86a8772a546bf4981a2a8d68a504f9228f5fe77d45cb40aa8a",
+          "retrievedSourceSha256": "fdbc8e0096db7b86a8772a546bf4981a2a8d68a504f9228f5fe77d45cb40aa8a",
+          "assetSha256": "fdbc8e0096db7b86a8772a546bf4981a2a8d68a504f9228f5fe77d45cb40aa8a"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:55;--profile-angle:41deg;--profile-photo:url(\"../../assets/profile-visuals/c11-warm-springs-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
+    },
+    {
       "slug": "wasauksing-first-nation",
       "name": "Wasauksing First Nation",
       "originalId": null,
@@ -13766,6 +15015,83 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "wasco",
+      "name": "Wasco",
+      "originalId": 429,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 252,
+      "angle": 56,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c11-wasco-photo",
+          "profileSlugs": [
+            "wasco"
+          ],
+          "mediaType": "photograph",
+          "title": "Columbia River sunset at The Dalles",
+          "creator": "Gary Halvorson, Oregon State Archives",
+          "archive": "Wikimedia Commons;exact photographer/provider item",
+          "date": "2011-08-17",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Columbia_River,_The_Dalles_-_DPLA_-_0a49b93a8d328051e283751d8be8e93a.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Columbia_River%2C_The_Dalles_-_DPLA_-_0a49b93a8d328051e283751d8be8e93a.jpg/960px-Columbia_River%2C_The_Dalles_-_DPLA_-_0a49b93a8d328051e283751d8be8e93a.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Columbia_River%2C_The_Dalles_-_DPLA_-_0a49b93a8d328051e283751d8be8e93a.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "originalSourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Columbia_River%2C_The_Dalles_-_DPLA_-_0a49b93a8d328051e283751d8be8e93a.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Gary Halvorson, Oregon State Archives / Wikimedia Commons — CC BY 4.0",
+          "cardCredit": "Gary Halvorson, Oregon State Archives — CC BY 4.0",
+          "scope": "Modern Columbia River at The Dalles, as specifically supported regional context for Wasco history. Not a confirmed historic village, traditional dam-free scene or current boundary. DPLA coordinatefields point to archive location rather than depicted site; no exact coordinates used. Foreground fishing platform is visible; its builder, owner, date and community users are unidentified and not inferred. No fishing-site coordinates or access instructions published. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Selected named-place/community source",
+              "url": "https://warmsprings-nsn.gov/history/",
+              "inspectionScope": "ActualThe Wascoes paragraph identifies Columbia River history; settler-history section names The Dalles. This caption stays regional, not precise village identity."
+            }
+          ],
+          "alt": "A wooden fishing platform stands above the Columbia River beneath a gold sunset and distant hills.",
+          "asset": "assets/profile-visuals/c11-wasco-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c11-wasco-photo.jpg",
+          "reviewedAt": "2026-10-28",
+          "recordInspection": "Exact item identity, creator, date and media-specific rights read from normalHTTP200 record. Root and child independently viewed complete delivered local pixels; no image interpretation based only on metadata.",
+          "status": "actual-available-frame-inspected-ready-for-import",
+          "reproductionNote": "Complete available 960×1449 provider-listed960pxpreview delivered normallyHTTP200 and individually viewed. Larger linked original pixels remain uninspected. JPEG bytes retained with no Atlas pixel crop, retouching, colorization or generation; CSS may crop/overlay in display while complete frame remains available. Input/source/asset hashes identify actual delivered preview, not camera/larger original. Complete available retrieved JPEG imported unchanged.",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "reviewers": [
+              "root",
+              "cohort6_south_ontario"
+            ],
+            "fullAvailableFrame": true,
+            "deliveryKind": "exact provider-listed960px preview",
+            "sha256": "727aa957e3c6ea57ed2731464a13a7fbbb772e0257520f94b09caa776db4c93e"
+          },
+          "width": 960,
+          "height": 1449,
+          "bytes": 417130,
+          "inputFileSha256": "727aa957e3c6ea57ed2731464a13a7fbbb772e0257520f94b09caa776db4c93e",
+          "retrievedSourceSha256": "727aa957e3c6ea57ed2731464a13a7fbbb772e0257520f94b09caa776db4c93e",
+          "assetSha256": "727aa957e3c6ea57ed2731464a13a7fbbb772e0257520f94b09caa776db4c93e"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:252;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/c11-wasco-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "white-earth-nation",
@@ -14133,6 +15459,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "yakama",
+      "name": "Yakama",
+      "originalId": 438,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 21,
+      "angle": 67,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "c11-yakama-pahto",
+          "profileSlugs": [
+            "yakama"
+          ],
+          "mediaType": "photograph",
+          "title": "Mount Adams/Pahto viewed from near Trout Lake, 2009",
+          "creator": "Highwayboy",
+          "archive": "Wikimedia Commons",
+          "date": "2009-06-20",
+          "credit": "Highwayboy / Wikimedia Commons · Author-released public domain",
+          "cardCredit": "Photo: Highwayboy · Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Adams_from_Trout_Lake.jpg",
+          "rightsLabel": "Public domain — photographer’s worldwide release",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Mount_Adams_from_Trout_Lake.jpg",
+          "alt": "Snow-covered Mount Adams rises beyond trees and an open meadow, with a small building in the foreground.",
+          "scope": "The photographer identifies the view as from Highway141 north of Trout Lake. The Nation’s historical land account specifically names Pahto/Mount Adams. This is a modern view of one public landscape, not proof that the camera/foreground is on reservation land, a territorial boundary, all constituent peoples or an adopted sacred-symbol interpretation. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Yakama Nation History",
+              "url": "https://yakama.com/about/",
+              "inspectionScope": "Selected land account explicitly names Pahto and relates lowland/higher-country settings, lines41–50."
+            }
+          ],
+          "asset": "assets/profile-visuals/c11-yakama-pahto.jpg",
+          "cardAsset": "assets/profile-visuals/c11-yakama-pahto.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Mount_Adams_from_Trout_Lake.jpg/960px-Mount_Adams_from_Trout_Lake.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "reviewedAt": "2026-10-28",
+          "status": "actual-preview-inspected-ready",
+          "recordInspection": "Exact item identification, creator/date, media-specific author release orCC0 dedication and actual preview link read. MetadataCC0 alone is not the reuse basis.",
+          "reproductionNote": "Complete available provider-exposed960px preview retrieved normallyHTTP200 and individually viewed. Larger original uninspected; no Atlas pixel crop, retouching or generation. Background/card CSS crops/overlays affect presentation, while the delivered frame is available proportionally. Complete available retrieved JPEG imported unchanged.",
+          "width": 960,
+          "height": 720,
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "fullAvailableFrame": true,
+            "sha256": "0064e8f6702c081876f75e47d5a16fa3a19a1251f5f594bfdc574f131d5b72c4"
+          },
+          "inputFileSha256": "0064e8f6702c081876f75e47d5a16fa3a19a1251f5f594bfdc574f131d5b72c4",
+          "retrievedSourceSha256": "0064e8f6702c081876f75e47d5a16fa3a19a1251f5f594bfdc574f131d5b72c4",
+          "assetSha256": "0064e8f6702c081876f75e47d5a16fa3a19a1251f5f594bfdc574f131d5b72c4"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:21;--profile-angle:67deg;--profile-photo:url(\"../../assets/profile-visuals/c11-yakama-pahto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
+    },
+    {
       "slug": "yaqui",
       "name": "Yaqui",
       "originalId": 441,
@@ -14245,6 +15640,79 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 9
+    },
+    {
+      "slug": "yurok",
+      "name": "Yurok",
+      "originalId": 450,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 85,
+      "angle": -75,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c11-yurok-photo",
+          "profileSlugs": [
+            "yurok"
+          ],
+          "mediaType": "photograph",
+          "title": "Klamath River meeting the Pacific, from Klamath River Overlook",
+          "creator": "Zandcee",
+          "archive": "Wikimedia Commons; item-specific photographer/source and licensing body inspected",
+          "date": "May12,2013 (item record)",
+          "credit": "Zandcee / Wikimedia Commons. CC BY-SA 3.0.",
+          "cardCredit": "Photo: Zandcee · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klamath_River_Overlook.JPG",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Klamath_River_Overlook.JPG/960px-Klamath_River_Overlook.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20130701102347",
+          "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Klamath_River_Overlook.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-28",
+          "alt": "The Klamath River meets the Pacific behind a long sand spit, seen from a green coastal overlook.",
+          "scope": "A public river-mouth landscape, associated with the Yurok Tribe’s own account of river and coast relationships. Not a surveyed territory, present ownership claim, universal village image or documentation of ceremony. Complete available retrieved JPEG imported unchanged. Background/card CSS crops and overlays affect presentation; the opened page retains the complete available frame proportionally.",
+          "contextSources": [
+            {
+              "title": "Our History — river, coast and community perspectives",
+              "url": "https://www.yuroktribe.org/our-history",
+              "inspectionScope": "Our History main narrative before Today, with synthesis limited to opening river/coast/name/food and redwood-home passages. Public ceremonial references read only as context and not developed or reproduced; current totals and linked history chapters excluded."
+            }
+          ],
+          "asset": "assets/profile-visuals/c10-yurok-photo.jpg",
+          "cardAsset": "assets/profile-visuals/c10-yurok-photo.jpg",
+          "recordInspection": "Exact item description, creator, source, date distinctions, available preview/original links and media-specific licensing body read in normal HTTP 200 record HTML. Footer metadata CC0 is not the reuse basis.",
+          "reproductionNote": "Root retrieved the exact record-exposed 960 × 637 available preview normally with HTTP 200. This researcher viewed the complete delivered frame using view_image. Existing service resizing/compression is retained; no new pixel crop, retouching, colorization or generation. Larger original pixels were not retrieved or inspected. Card/background CSS crops and overlays must be disclosed; opened-page image preserves the full available frame proportionally. Complete available retrieved JPEG imported unchanged.",
+          "status": "actual-preview-inspected-ready",
+          "accessLimits": "Metadata and exact licensing body inspected; larger-original pixels uninspected. No source image implies government/photographer endorsement, current conditions, site access or separately owned artwork permissions.",
+          "width": 960,
+          "height": 637,
+          "retrievedSourceSha256": "acd3a78891f119ef14e27d60f9f98c7d1dae58db0433a016ce66e6e858545a44",
+          "inputFileSha256": "acd3a78891f119ef14e27d60f9f98c7d1dae58db0433a016ce66e6e858545a44",
+          "assetSha256": "acd3a78891f119ef14e27d60f9f98c7d1dae58db0433a016ce66e6e858545a44",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-28",
+            "width": 960,
+            "height": 637,
+            "fullAvailableFrame": true,
+            "sha256": "acd3a78891f119ef14e27d60f9f98c7d1dae58db0433a016ce66e6e858545a44"
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:85;--profile-angle:-75deg;--profile-photo:url(\"../../assets/profile-visuals/c10-yurok-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "zhiibaahaasing-first-nation",
