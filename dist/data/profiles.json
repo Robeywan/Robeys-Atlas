@@ -6,14 +6,77 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Aamjiwnaang First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Aamjiwnaang’s history page, credited to David D. Plain, describes an earlier territory spanning both sides of the St. Clair waterway. A 2015 community publication documents Maajiigin Gumig’s native-plant and learning aims.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community historian’s account of changing territory",
+        "text": "David D. Plain’s Nation-hosted account places eighteenth-century Aamjiwnaang around the waterway between Lakes Huron and Erie. It describes wars, epidemics and land transactions that reduced territory and separated communities across the international border. The account also records the revival of Aamjiwnaang as the name of the community at Sarnia. Its historical narrative offers a starting point for reading the longer histories it links.",
+        "sourceIds": [
+          "c05-on-aam-history-20261027"
+        ]
+      },
+      {
+        "title": "Maajiigin Gumig and native-plant stewardship",
+        "text": "Aamjiwnaang’s report of the September 2015 greenhouse opening describes Maajiigin Gumig as a community native-plant project. Its planned work included plant rescue and restoration, seed collection, propagation and learning across generations. The report identifies outside funders and training partners while emphasizing that the greenhouse belonged to Aamjiwnaang’s initiative. These are the project’s stated aims at opening.",
+        "sourceIds": [
+          "c05-on-aam-greenhouse-2015-20261027"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c05-on-aam-history-20261027",
+        "title": "History — Early History and Modern History",
+        "publisher": "Aamjiwnaang First Nation; historical account courtesy of David D. Plain",
+        "url": "https://www.aamjiwnaang.ca/history/",
+        "type": "Community-authored public history",
+        "topics": [
+          "Aamjiwnaang",
+          "Naming",
+          "Territory",
+          "Colonial history"
+        ],
+        "annotation": "David D. Plain’s account, hosted by Aamjiwnaang, describes an earlier cross-border territory and contraction through war, disease and land transactions. Historical figures and treaty summaries need their stated context.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual Early History and Modern History bodies (web lines 220–230) read; headings and chief chronology inspected only to bound use.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "David D. Plain (credited for historical sections)",
+        "dateBasis": "No publication date stated; the page’s “recently” and “today” are not assigned a new date.",
+        "perspective": "Nation-hosted historical account credited to a named community historian.",
+        "accessLimits": "Linked longer histories, maps and historical documents were not opened. No present population, acreage, officeholder or legal-status claim adopted.",
+        "conflictNotes": "History page explains the name as an important gathering place; homepage gives “at the spawning stream.” No single English gloss asserted.",
+        "sourceUnitKey": "aamjiwnaang-plain-public-history"
+      },
+      {
+        "id": "c05-on-aam-greenhouse-2015-20261027",
+        "title": "Maajiigin Gumig — Greenhouse Grand Opening, September 16, 2015",
+        "publisher": "Aamjiwnaang First Nation",
+        "url": "https://www.aamjiwnaang.ca/wp-content/uploads/2015/09/greenhouse-grand-opening-sharilyn-version.pdf",
+        "type": "Community publication / environmental program history",
+        "topics": [
+          "Native plants",
+          "Stewardship",
+          "Intergenerational learning",
+          "Aamjiwnaang"
+        ],
+        "annotation": "The community’s opening report describes a native-plant greenhouse and planned restoration, seed and learning activities. Its 2015 plans are read as program history, not a current service schedule.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual complete one-page PDF text: title/date, project paragraph, proposed initiatives and credited partners. Photographic collage viewed only as document context, not cleared for media reuse.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "eventDate": "2015-09-16",
+        "dateBasis": "Event date printed on page; exact publication day not stated.",
+        "perspective": "Community celebration and program account, including corporate sponsorship; this is not an independent outcome evaluation.",
+        "accessLimits": "No current operating hours, plant-use instructions or medicine detail adopted; photographs have no separately verified reuse license.",
+        "sourceUnitKey": "aamjiwnaang-maajiigin-opening-2015"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -38,18 +101,53 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Read David D. Plain’s longer historical works and corroborating archival material beyond the short web account.",
+      "Review community-directed environmental research and later greenhouse reports for outcomes and changes since 2015.",
+      "Resolve the different English explanations of the name in community web publications without imposing a single gloss."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two directly relevant works have been read for a bounded starting guide. The selected perspectives and periods leave substantial community history and later developments unreviewed.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Read David D. Plain’s longer historical works and corroborating archival material beyond the short web account.",
+        "Review community-directed environmental research and later greenhouse reports for outcomes and changes since 2015.",
+        "Resolve the different English explanations of the name in community web publications without imposing a single gloss."
       ]
     },
+    "overviewSourceIds": [
+      "c05-on-aam-history-20261027",
+      "c05-on-aam-greenhouse-2015-20261027"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c05-on-aam-history-20261027",
+          "reason": "Begin with the Nation-hosted account credited to its named historian."
+        },
+        {
+          "sourceId": "c05-on-aam-greenhouse-2015-20261027",
+          "reason": "Read a dated community publication that connects native plants, restoration and intergenerational learning."
+        }
+      ],
+      "remainingQuestions": [
+        "Read David D. Plain’s longer historical works and corroborating archival material beyond the short web account.",
+        "Review community-directed environmental research and later greenhouse reports for outcomes and changes since 2015.",
+        "Resolve the different English explanations of the name in community web publications without imposing a single gloss."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c05-on-aam-stclair-regional-2012"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "aamjiwnaang-first-nation",
     "regionGroups": [
       "Canada"
@@ -15668,7 +15766,7 @@
     "name": "Blackfoot",
     "region": "Great Plains / Canada / United States",
     "kind": "Wider grouping / peoples",
-    "overview": "Blackfoot can describe the wider Siksikaitsitapi Confederacy rather than a single political nation.",
+    "overview": "This wider Blackfoot route concerns the Siksikaitsitapi Confederacy and its constituent peoples, including Siksika, Kainai, Piikani and Aamskapi Pikuni. It begins with a Siksika-produced public book and the Confederacy Council's account, while keeping the Montana Blackfeet Nation distinct from the whole Confederacy.",
     "sections": [
       {
         "title": "Identity and context",
@@ -15682,6 +15780,21 @@
         "text": "Focus the next stage of research on: Kainai, Siksika, Piikani and Blackfeet communities; language and confederacy relationships. The sources below are selected reading paths; their authorship, dates and community scope should guide how they are used.",
         "sourceIds": [
           "p31-s1"
+        ]
+      },
+      {
+        "title": "A Confederacy with distinct constituent nations",
+        "text": "Stories of the Siksika identifies Siksika, Kainai and Piikani, including Piikani communities in Alberta and Montana. It describes shared language and cultural relationships alongside features particular to Siksika. The Confederacy Council's separate institutional history dates its declaration to May 2000 in Lethbridge. These sources distinguish collective relationships from the histories and governments of individual nations.",
+        "sourceIds": [
+          "b05-blackfoot-siksika-stories-20261027",
+          "b05-blackfoot-mission-history-20261027"
+        ]
+      },
+      {
+        "title": "A Siksika publication on language and transmission",
+        "text": "In the book's 2020 introduction, Stephen Yellow Old Woman explains the importance of passing history between generations through oral traditions. Its language chapter presents Siksika as one of four Blackfoot dialects and describes continuity together with vocabulary change. This is the Park's public Siksika account, rather than a full linguistic survey or permission to generalize one community's practices to every Blackfoot nation.",
+        "sourceIds": [
+          "b05-blackfoot-siksika-stories-20261027"
         ]
       }
     ],
@@ -15698,6 +15811,56 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Mission and History - Blackfoot Confederacy” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "b05-blackfoot-siksika-stories-20261027",
+        "title": "Stories of the Siksika (first printing March 2020)",
+        "publisher": "Blackfoot Crossing Historical Park; hosted by Blackfoot Confederacy Tribal Council",
+        "url": "https://blackfootconfederacy.ca/wp-content/uploads/2024/04/History-book-layout-V2a.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Confederacy",
+          "Language",
+          "Public history",
+          "Oral tradition"
+        ],
+        "annotation": "A Siksika-produced public book that places its own nation within the wider Confederacy and explains language continuity. The introduction by Stephen Yellow Old Woman frames the publication through intergenerational oral transmission. Selected introductory and language pages were read, not the complete volume or its cited works. The publisher retains content/image rights; none of its photographs or logos is reproduced here.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual 41-spread PDF downloaded once. Read and visually inspected printed pp. 2–3 (acknowledgements, March 2020 first printing, rights and contents), 8–9 (self-description and Stephen Yellow Old Woman introduction), 14 (Confederacy and Clans) and 41 (Speaking Siksika), corresponding to PDF pp. 3, 6, 9 and 22. The adjacent printed pages were visible in those spreads but supply no proposed retelling of stories, ceremonial instruction or image reuse. Text extraction exposed additional pages; no whole-book review is claimed. Linked and cited works remain unread.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "b05-blackfoot-mission-history-20261027",
+        "title": "Our Mission & History — Blackfoot Confederacy Tribal Council",
+        "publisher": "Blackfoot Confederacy Tribal Council",
+        "url": "https://blackfootconfederacy.ca/mission-and-history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Confederacy",
+          "Political history"
+        ],
+        "annotation": "The Council's short institutional account names four constituent peoples and dates the declaration to 25 May 2000 in Lethbridge. Useful supporting context for collective agency; its brief mission and declaration paragraph are not counted as a substantial independent work. Original declaration and treaties were not inspected.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Complete visible main body lines 16–50 read, including mission, values and the declaration paragraph. Names of leaders, current news, linked declarations, treaties and images were not used.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "b05-blackfoot-constituents-20261027",
+        "title": "Our Lands & Tribes — Blackfoot Confederacy Tribal Council",
+        "publisher": "Blackfoot Confederacy Tribal Council",
+        "url": "https://blackfootconfederacy.ca/lands-and-tribes/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Confederacy"
+        ],
+        "annotation": "An official orientation naming Kainaiwa, Siksika, Apatosi Piikani and Aamskapi Pikuni and identifying Aamskapi Pikuni with the Montana Blackfeet Nation. This identity and photo-context reference is excluded from the substantive reading count and starting guide. Undated population figures and sensitive-place descriptions are not adopted.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual council/constituent descriptions at lines 11–14, 22–24, 34–36, 45–47 and 56–58 read. Later sacred-place paragraph, video and linked nation websites supply no proposed claim; undated counts are omitted.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -15705,6 +15868,55 @@
       349
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "b05-blackfoot-siksika-stories-20261027",
+      "b05-blackfoot-constituents-20261027"
+    ],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "researchGaps": [
+      "This is a brief Confederacy route with one selected Siksika publication; substantial Kainai, Piikani and Aamskapi Pikuni community histories and authors remain to be reviewed.",
+      "Selected pages of the 2020 book were inspected. Its other sections, underlying oral recordings, specialist language scholarship and cited historical works remain unread.",
+      "The 2000 declaration itself and original Canadian and United States treaties were not examined; no current legal, boundary or membership conclusion follows from the Council's summary.",
+      "No Blackfoot community review or endorsement is recorded. The photograph shows one dated Montana conservation activity, not the entire Confederacy."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "One substantial community-produced book, inspected in selected relevant pages, supports an initial Confederacy and language route. Two short official pages supply scoped institutional/identity context only. Coverage across the four nations remains uneven.",
+      "remainingLimits": [
+        "This is a brief Confederacy route with one selected Siksika publication; substantial Kainai, Piikani and Aamskapi Pikuni community histories and authors remain to be reviewed.",
+        "Selected pages of the 2020 book were inspected. Its other sections, underlying oral recordings, specialist language scholarship and cited historical works remain unread.",
+        "The 2000 declaration itself and original Canadian and United States treaties were not examined; no current legal, boundary or membership conclusion follows from the Council's summary.",
+        "No Blackfoot community review or endorsement is recorded. The photograph shows one dated Montana conservation activity, not the entire Confederacy."
+      ]
+    },
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "b05-blackfoot-siksika-stories-20261027",
+          "reason": "Begin with the Park's own introduction, Confederacy page and language chapter, keeping its Siksika perspective explicit."
+        }
+      ],
+      "remainingQuestions": [
+        "This is a brief Confederacy route with one selected Siksika publication; substantial Kainai, Piikani and Aamskapi Pikuni community histories and authors remain to be reviewed.",
+        "Selected pages of the 2020 book were inspected. Its other sections, underlying oral recordings, specialist language scholarship and cited historical works remain unread.",
+        "The 2000 declaration itself and original Canadian and United States treaties were not examined; no current legal, boundary or membership conclusion follows from the Council's summary."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "blackfoot-aamskapi-pikuni-conservation-nrcs-2012"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "added": false,
     "slug": "blackfoot",
     "regionGroups": [
@@ -16673,28 +16885,85 @@
     "originalId": null,
     "added": true,
     "compiledAt": "2026-10-27",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Families after the 1900 burning",
+        "text": "Burt Lake Band historian Alice Littlefield challenges the story that the burning of the village at Indian Point dispersed everyone elsewhere. Her 2005 essay describes families finding shelter with nearby relatives and rebuilding community life along Indian Road. She compares later accounts with land records, census material and recollections; those underlying records remain a further reading task.",
+        "sourceIds": [
+          "c5-burt-after-burnout"
+        ]
+      },
+      {
+        "title": "Food knowledge across generations",
+        "text": "The Band’s Traditional Foods page describes collecting harvesting experiences, family stories and recipes that bring foods from the land into contemporary cooking. Its proposed book connects practical knowledge with family memory. The undated project account is a useful introduction to the community’s priorities; it does not establish the project’s present operation or outcomes.",
+        "sourceIds": [
+          "c5-burt-traditional-foods"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c5-burt-after-burnout",
+        "title": "What Happened After the Burnout?",
+        "publisher": "Burt Lake Band",
+        "url": "https://burtlakeband.org/wp-content/uploads/2023/07/What-Happened-After-the-Burnout.pdf",
+        "type": "Community-published historical essay",
+        "topics": [
+          "history",
+          "displacement",
+          "family continuity",
+          "historical method"
+        ],
+        "annotation": "Tribal historian Alice Littlefield compares conflicting relocation stories and explains the evidence for continued community life near Indian Road. A useful correction to accounts of complete dispersal.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Both physical PDF pages 1-2 read as selectable text and rendered page images. Essay dated 26 October 2005; repost heading 31 January 2008. The cited research narrative, census originals, interviews and newspaper originals were not separately inspected. No legal acknowledgment conclusion adopted.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "Alice Littlefield, identified in the publication as Burt Lake Band Tribal Historian",
+        "publicationDate": "2005-10-26"
+      },
+      {
+        "id": "c5-burt-traditional-foods",
+        "title": "Traditional Foods",
+        "publisher": "Burt Lake Band",
+        "url": "https://burtlakeband.org/traditional-arts/",
+        "type": "Community project account",
+        "topics": [
+          "foodways",
+          "knowledge transmission",
+          "family stories"
+        ],
+        "annotation": "The Band describes a food project linking harvesting knowledge, contemporary recipes and family recollections. It supplies a community perspective beyond the history of dispossession.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Entire two-paragraph public project body read. The page is undated and describes a three-year project; funding award, finished book, participation and present operation were not independently verified. Linked recipe book and photos not copied.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages."
+      }
+    ],
     "searchTerms": [
       "Cheboiganing Band"
     ],
     "relatedOriginalIds": [],
     "identityVerifiedAt": "2026-10-27",
     "researchGaps": [
-      "Develop an annotated community-specific history and selected reading path.",
-      "Review individually relevant imagery and media-specific reuse terms before substantive profile publication.",
-      "Review names, relationships and historical connections in further community sources."
+      "Inspect the original records and community interviews cited by Littlefield, and broaden the history before 1900 and after the Indian Road settlement.",
+      "Review the food project’s dated publications, finished book and further publicly shared community voices; no current participation or health outcome is established.",
+      "Treaty interpretation, acknowledgment proceedings, land ownership and individual citizenship are not determined by this guide. No community review or endorsement is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive reading collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded starting path now uses inspected public content, with scope and access limits recorded. This is not comprehensive research or community review.",
       "remainingLimits": [
-        "History, reading sources, community review and cleared imagery remain queued."
+        "Inspect the original records and community interviews cited by Littlefield, and broaden the history before 1900 and after the Indian Road settlement.",
+        "Review the food project’s dated publications, finished book and further publicly shared community voices; no current participation or health outcome is established.",
+        "Treaty interpretation, acknowledgment proceedings, land ownership and individual citizenship are not determined by this guide. No community review or endorsement is recorded."
       ]
     },
     "name": "Burt Lake Band of Ottawa and Chippewa Indians",
@@ -16705,7 +16974,7 @@
       "ottawa-odawa",
       "chippewa"
     ],
-    "overview": "Burt Lake Band of Ottawa and Chippewa Indians has an individually findable directory outline. Detailed history, an annotated reading path and community-specific imagery remain queued.",
+    "overview": "The Burt Lake Band’s public writing offers a starting path through family continuity after displacement and the transmission of food knowledge.",
     "identificationEvidence": [
       {
         "url": "https://burtlakeband.org/about/",
@@ -16725,6 +16994,39 @@
         "identityOnly": true,
         "countsTowardMinimum": false
       }
+    ],
+    "overviewSourceIds": [
+      "c5-burt-after-burnout",
+      "c5-burt-traditional-foods"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c5-burt-after-burnout",
+          "reason": "Begin with the Band historian’s evidence-based correction to a frequently repeated relocation story."
+        },
+        {
+          "sourceId": "c5-burt-traditional-foods",
+          "reason": "Continue with the Band’s own account of food knowledge and family memory."
+        }
+      ],
+      "fixedSourceMinimum": null,
+      "remainingQuestions": [
+        "Inspect the original records and community interviews cited by Littlefield, and broaden the history before 1900 and after the Indian Road settlement.",
+        "Review the food project’s dated publications, finished book and further publicly shared community voices; no current participation or health outcome is established.",
+        "Treaty interpretation, acknowledgment proceedings, land ownership and individual citizenship are not determined by this guide. No community review or endorsement is recorded."
+      ],
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c5-burt-lake-notorious4life2019"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
     ],
     "slug": "burt-lake-band-of-ottawa-and-chippewa-indians",
     "regionGroups": [],
@@ -21094,14 +21396,78 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Chippewas of Kettle & Stony Point First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Chippewas of Kettle and Stony Point First Nation’s community media account frames broadcasting as a way to share stories, language, local news and music.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Reading day-school history with community participation",
+        "text": "Jordan George, Jackson Pind and Benjamin Farmer Lacombe link the 1942 displacement at Stony Point to the day school’s closure and pupils’ relocation to Kettle Point. Their community-coauthored article also describes petitions and withheld attendance over teacher misconduct, bringing community responses into an archive largely produced by colonial officials.",
+        "sourceIds": [
+          "c05-on-kettle-george-2024-20261027"
+        ]
+      },
+      {
+        "title": "Language in radio and digital learning",
+        "text": "The Eagle’s community-hosted description links radio with language, stories, local news and musicians; its anniversary statement refers to 2013. George and his collaborators separately describe translating a day-school website interface into Anishinaabemowin. They note that English-only records and uneven handwriting recognition continued to limit archival access.",
+        "sourceIds": [
+          "c05-on-kettle-radio-20261027",
+          "c05-on-kettle-george-2024-20261027"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c05-on-kettle-radio-20261027",
+        "title": "The Eagle 107.7 FM — Radio Station",
+        "publisher": "Chippewas of Kettle & Stony Point First Nation",
+        "url": "https://kettlepoint.org/the-eagle-107-7-fm-radio-station/",
+        "type": "Community publication / broadcasting program",
+        "topics": [
+          "Community media",
+          "Language",
+          "Music",
+          "Kettle and Stony Point"
+        ],
+        "annotation": "The station’s mission and service account connects local news, language, stories and musicians. Its anniversary statement explicitly refers to 2013, so operating details are not treated as a current schedule.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual Mission Statement, Services and About the Eagle text, web lines 11–22. Contact hours and linked station content excluded from substantive use.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "dateBasis": "Undated page; text says ten years on air “this year (2013)”. Footer 2023 is not an article publication date.",
+        "perspective": "First Nation-hosted station self-description.",
+        "accessLimits": "No broadcast listened to; no present license, ownership or schedule assertion made.",
+        "sourceUnitKey": "kettle-point-eagle-radio-program-description"
+      },
+      {
+        "id": "c05-on-kettle-george-2024-20261027",
+        "title": "Kettle and Stony Point First Nation: A Narrative of Indigenous Language Revitalization and Digital Indian Day School Histories",
+        "publisher": "Cultural and Pedagogical Inquiry, University of Alberta, 15(2), 68–81",
+        "url": "https://journals.library.ualberta.ca/cpi/index.php/cpi/article/download/29730/21736/78260",
+        "type": "Community-coauthored scholarship / language and school history",
+        "topics": [
+          "Language revitalization",
+          "Indian Day Schools",
+          "Digital archives",
+          "Kettle and Stony Point"
+        ],
+        "annotation": "Jordan George, Jackson Pind and Benjamin Farmer Lacombe link community school history with an Anishinaabemowin digital interface. Their account also exposes language and handwriting biases in colonial archives.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual PDF printed 69–79: author positionalities, school history, translation process and technical biases; title/abstract and bibliography inspected. Publisher landing page read for author and release metadata.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Jordan George; Jackson Pind; Benjamin Farmer Lacombe",
+        "publicationDate": "2024-11-13",
+        "landingUrl": "https://journals.library.ualberta.ca/cpi/index.php/cpi/article/view/29730",
+        "dateBasis": "Landing page release 2024-11-13; issue says Winter 2024. Conclusion dates project knowledge to December 2023.",
+        "perspective": "Jordan George identifies himself as a member raised in Kettle and Stony Point; Pind and Farmer Lacombe state their different research positions.",
+        "accessLimits": "Selected article text, not fresh inspection of underlying RG10 records or live map. Personal family details, grave images and language examples not reproduced.",
+        "sourceUnitKey": "george-pind-farmer-lacombe-kettle-2024"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -21126,18 +21492,52 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Extend community-authored history beyond day schools and the selected broadcasting account.",
+      "Read underlying archival items and subsequent language-project work with community context; neither the live interface nor broadcasts were assessed.",
+      "Review Stony Point displacement and return through a separately bounded historical source collection; no present legal conclusion is supplied."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two directly relevant works have been read for a bounded starting guide. The selected perspectives and periods leave substantial community history and later developments unreviewed.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Extend community-authored history beyond day schools and the selected broadcasting account.",
+        "Read underlying archival items and subsequent language-project work with community context; neither the live interface nor broadcasts were assessed.",
+        "Review Stony Point displacement and return through a separately bounded historical source collection; no present legal conclusion is supplied."
       ]
     },
+    "overviewSourceIds": [
+      "c05-on-kettle-radio-20261027"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c05-on-kettle-radio-20261027",
+          "reason": "Read how community media’s own description links language, stories and local communication."
+        },
+        {
+          "sourceId": "c05-on-kettle-george-2024-20261027",
+          "reason": "Begin with a community-coauthored study that states its participants’ positions and the limits of digital archival access."
+        }
+      ],
+      "remainingQuestions": [
+        "Extend community-authored history beyond day schools and the selected broadcasting account.",
+        "Read underlying archival items and subsequent language-project work with community context; neither the live interface nor broadcasts were assessed.",
+        "Review Stony Point displacement and return through a separately bounded historical source collection; no present legal conclusion is supplied."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c05-on-kettle-point-aerial-2013"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "chippewas-of-kettle-stony-point-first-nation",
     "regionGroups": [
       "Canada"
@@ -21220,14 +21620,76 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Chippewas of the Thames First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Nation’s history identifies Chippewas of the Thames as Deshkan Ziibiing Anishinaabeg and explains the Longwoods negotiations from its perspective. Emma Young’s conservation foreword connects stewardship with relationships and accountability.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "The Nation’s account of Longwoods",
+        "text": "Deshkan Ziibiing’s history describes the Longwoods negotiations as led by its own leadership. The account traces discussions beginning in 1818 and written versions in 1819, 1820 and 1822. It emphasizes leaders’ rejection of payment only in goods and their negotiation of an annuity. Reading these choices keeps the Nation’s account of the treaty’s spirit and intent visible alongside the written versions.",
+        "sourceIds": [
+          "c05-on-thames-history-20261027"
+        ]
+      },
+      {
+        "title": "Conservation through relationships",
+        "text": "In the 2021 Deshkan Ziibi Conservation Impact Bond report, Emma Young’s Nation-attributed foreword describes the community’s involvement from the project’s early development. She presents lasting conservation as requiring repaired relationships with land and a recognition of humans within an interconnected environment. The accompanying preface identifies the report’s development period as January 2019–July 2021, so it provides a history of the partnership’s early aims.",
+        "sourceIds": [
+          "c05-on-thames-dzcib-2021-20261027"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c05-on-thames-history-20261027",
+        "title": "History — Who We Are and Our Treaty History",
+        "publisher": "Deshkan Ziibiing / Chippewas of the Thames First Nation",
+        "url": "https://cottfn.com/history/",
+        "type": "Community public history",
+        "topics": [
+          "Deshkan Ziibiing",
+          "Longwoods Treaty",
+          "Naming",
+          "Negotiation history"
+        ],
+        "annotation": "The Nation identifies itself and explains the Longwoods negotiations through its own account of leadership choices and treaty relationships. This public interpretation does not settle current legal questions.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual body under Who We Are, Our Treaty History, Why Three Versions and Other Treaty Relationships (web lines 87–112).",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "dateBasis": "No article publication date stated. Present-tense area, annuity and title assertions are not independently updated.",
+        "perspective": "First Nation public institutional account.",
+        "accessLimits": "No present legal advice, jurisdictional boundary or payment verification; linked claims resources not read.",
+        "sourceUnitKey": "cottfn-public-history-longwoods"
+      },
+      {
+        "id": "c05-on-thames-dzcib-2021-20261027",
+        "title": "The Deshkan Ziibi Conservation Impact Bond Project — “Deshkan Ziibiing: Restoring our Relationships”",
+        "publisher": "Deshkan Ziibi Conservation Impact Bond Leadership Team; Western University",
+        "url": "https://natureinvestmenthub.ca/wp-content/uploads/2023/12/Deshkan_Ziibi_Conservation_Impact_Bond_Project.pdf",
+        "type": "Community-partnered research report / authored foreword",
+        "topics": [
+          "Stewardship",
+          "Conservation partnership",
+          "Relational accountability",
+          "Deshkan Ziibiing"
+        ],
+        "annotation": "Emma Young’s Nation-attributed foreword presents conservation as restoring relationships with land. The report documents early partnership development; it does not demonstrate later ecological or financial outcomes.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual PDF citation page v, Emma Young foreword vi–viii and research lead preface xi–xii (PDF pages 6–9 and 12–13). Other chapters not claimed as read.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Emma Young, Chippewas of the Thames First Nation (foreword); Deshkan Ziibi Conservation Impact Bond Leadership Team (report)",
+        "publicationDate": "2021",
+        "dateBasis": "Report citation year 2021; preface states development period January 2019–July 2021. Hosting path 2023/12 is not a new study date.",
+        "perspective": "Nation-attributed foreword within a partnership report drafted by Ivey researchers with leadership-team input and approval; researchers acknowledge possible Westernized bias.",
+        "accessLimits": "Selected front matter only. Citation says 114 pages; actual file includes 140 PDF pages with front matter. No investment recommendation or figure/photo license inferred from the report’s CC BY-NC text license.",
+        "sourceUnitKey": "deshkan-ziibi-conservation-impact-bond-report-2021"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -21252,18 +21714,53 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Read the treaty texts and additional community-authored histories beyond this short institutional interpretation.",
+      "Review the conservation partnership’s later work and community assessments before making outcome claims.",
+      "Expand language, education and everyday history sources; selected front matter is not a review of the full conservation report."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two directly relevant works have been read for a bounded starting guide. The selected perspectives and periods leave substantial community history and later developments unreviewed.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Read the treaty texts and additional community-authored histories beyond this short institutional interpretation.",
+        "Review the conservation partnership’s later work and community assessments before making outcome claims.",
+        "Expand language, education and everyday history sources; selected front matter is not a review of the full conservation report."
       ]
     },
+    "overviewSourceIds": [
+      "c05-on-thames-history-20261027",
+      "c05-on-thames-dzcib-2021-20261027"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c05-on-thames-history-20261027",
+          "reason": "Start with the Nation’s explanation of the leadership decisions behind Longwoods."
+        },
+        {
+          "sourceId": "c05-on-thames-dzcib-2021-20261027",
+          "reason": "Read the Nation-attributed conservation foreword together with the report’s stated period and research limits."
+        }
+      ],
+      "remainingQuestions": [
+        "Read the treaty texts and additional community-authored histories beyond this short institutional interpretation.",
+        "Review the conservation partnership’s later work and community assessments before making outcome claims.",
+        "Expand language, education and everyday history sources; selected front matter is not a review of the full conservation report."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c05-on-thames-henry-climate-2015"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "chippewas-of-the-thames-first-nation",
     "regionGroups": [
       "Canada"
@@ -27630,13 +28127,49 @@
       "The Minnesota Indian Affairs Council’s undated Upper Sioux page reports 453 people and more than 900 acres, while the 2025 Minnesota Tribal Government guide reports a 2024 return and a 3,725-acre total land base and prints a 577 membership figure. The records are dated differently; no number is treated as a current 2026 figure, and none defines a homeland boundary.",
       "No historical map association was added. The Minnesota regional route is a navigation aid and does not describe the extent of Dakota homelands.",
       "2026-10-23 follow-up: read the full visible MNHS story page for a short Dean Blue oral-history excerpt on Fort Snelling and the interview metadata. The full interview link returned HTTP 404 during inspection; a search-discovered copy with unverified hosting provenance was not relied on. Added as supporting testimony only (countsTowardMinimum:false); the interviewer's prompt records differing Dakota views.",
-      "2026-10-23 follow-up: read selected substantive sections of the Lower Sioux Indian Community’s 19-page Caŋṡayapi history booklet hosted by Minnesota Department of Education. Added as a community-produced work for its scoped Lower Sioux history, homeland/treaty account, governance, site stewardship and language-education coverage. General historical claims are attributed; maps in the booklet were not separately catalogued. Dakota now has thirteen substantive inspected works; initial adequacy remains Still unfinished."
+      "2026-10-23 follow-up: read selected substantive sections of the Lower Sioux Indian Community’s 19-page Caŋṡayapi history booklet hosted by Minnesota Department of Education. Added as a community-produced work for its scoped Lower Sioux history, homeland/treaty account, governance, site stewardship and language-education coverage. General historical claims are attributed; maps in the booklet were not separately catalogued. Dakota now has thirteen substantive inspected works; initial adequacy remains Still unfinished.",
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
     ],
     "overviewSourceIds": [
       "d95-c1",
       "p95-s4",
       "p95-s6"
     ],
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "p95-s14",
+          "reason": "Start with the Caŋṡayapi Community-produced booklet for a situated history of land, continuity and interpretation; only the recorded selected pages were reviewed."
+        },
+        {
+          "sourceId": "d95-h1",
+          "reason": "Read the focused imprisonment/removal history alongside community voices; it distinguishes noncombatants and the separate Ho-Chunk expulsion."
+        },
+        {
+          "sourceId": "d95-h2",
+          "reason": "Examine the specific 1851 Mendota treaty text as a historical instrument, rather than current legal advice."
+        },
+        {
+          "sourceId": "p95-s5",
+          "reason": "Finish with the Dakota-created curriculum's public overview; full training-only lessons and effectiveness were not reviewed."
+        }
+      ],
+      "remainingQuestions": [
+        "The Upper Sioux Community government website returned HTTP 403 to this research request. The accessible state-hosted histories and 2025 government guide provide useful community-attributed material, but the current Community constitution, official land-conveyance instrument, and a direct government publication about the 2024 return remain unreviewed; the access failure is not treated as a paywall and was not bypassed.",
+        "Dakota communities outside Minnesota, including particular governments in the Dakotas, Nebraska, and Canada, need their own community voices and scoped sources. This collection is not an exhaustive homeland or present-community map.",
+        "Specialist Dakota language scholarship is needed for precise language variation and classification; undated public speaker totals should not be used as current demographic findings.",
+        "Original treaty scans, oral understandings, 1863 statutes, community constitutions, and additional Dakota-authored historical scholarship would deepen the collection. Treaty text, state summaries, and public exhibition testimony answer different questions.",
+        "The complete Mni Sóta Maḳoce lesson materials require teacher training; the public page gives the curriculum overview but not the lessons themselves. Outcome research was described by the publisher as forthcoming, so no effectiveness claim is made.",
+        "Dated education reports and community evaluations would be needed before describing current operations, participation, or outcomes. No clinical, legal, membership, or service-eligibility conclusion is proposed.",
+        "No Dakota community review or endorsement is recorded."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "dakota-santee-lower-sioux-agency-mcghiever-2012"
+    },
     "added": false,
     "slug": "dakota",
     "regionGroups": [
@@ -31261,26 +31794,82 @@
     "originalId": null,
     "added": true,
     "compiledAt": "2026-10-27",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community account of place and purpose",
+        "text": "The Band’s Our story describes 19 historical Ottawa bands living along the Grand River and other southwest Michigan waterways. Read alongside it, the Mission Statement emphasizes preserving culture and traditions and educating members and the public. This is the contemporary community’s own account; its name should not be applied automatically to every historical Grand River band or another Ottawa government.",
+        "sourceIds": [
+          "c5-grand-river-story-mission"
+        ]
+      },
+      {
+        "title": "A documented public-history partnership",
+        "text": "In its 2021 Community Engagement Report, the Grand Rapids Public Museum records working with the Grand River Bands and Downtown Grand Rapids Inc. on an event commemorating the 1821 Treaty of Chicago. This supplies a dated example of the community participating in how regional history is presented. The report describes the event rather than resolving the treaty’s later interpretation.",
+        "sourceIds": [
+          "c5-grand-river-museum2021"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c5-grand-river-story-mission",
+        "title": "About — Our story and Mission Statement",
+        "publisher": "Grand River Bands of Ottawa Indians",
+        "url": "https://www.grandriverbands.com/about/",
+        "type": "Community historical and mission account",
+        "topics": [
+          "history",
+          "community",
+          "cultural preservation"
+        ],
+        "annotation": "A concise community account of historical bands along southwest Michigan waterways, followed by the organization’s stated preservation and public-education purposes.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual Our story paragraph and all Mission Statement paragraphs read, including the historical 19-band statement and cultural/education goals. Fresh substantive review with a new ID; baseline identity-only record remains unchanged. Legal recognition, treaty-effect and jurisdiction assertions, enrollment instructions and officeholder currency are not adopted.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages."
+      },
+      {
+        "id": "c5-grand-river-museum2021",
+        "title": "Community Engagement Report 2021 —1821 Treaty Commemoration",
+        "publisher": "Grand Rapids Public Museum",
+        "url": "https://www.grpm.org/wp-content/uploads/2022/03/2021_GRPM-CR_booklet_031722-WEB.pdf",
+        "type": "Institutional activity report",
+        "topics": [
+          "public history",
+          "commemoration",
+          "community partnership"
+        ],
+        "annotation": "The Museum records a specific partnership with the Grand River Bands and Downtown Grand Rapids Inc. This dated example makes a useful companion to the Band’s own account.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Physical PDF page 7, printed page 5, entire 1821 Treaty Commemoration paragraph read in extracted text and rendered page image. Nearby sections were inspected for context; their statistics are not applied to the Bands. The original 1821 treaty, event recording, participant views and other report pages were not substantively reviewed.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "Grand Rapids Public Museum",
+        "publicationDate": "2021"
+      }
+    ],
     "searchTerms": [],
     "relatedOriginalIds": [],
     "identityVerifiedAt": "2026-10-27",
     "researchGaps": [
-      "Develop an annotated community-specific history and selected reading path.",
-      "Review individually relevant imagery and media-specific reuse terms before substantive profile publication.",
-      "Review names, relationships and historical connections in further community sources."
+      "Develop the histories and relationships of the individually named historical bands using community accounts and dated original records.",
+      "Review more public community-authored history, language, family and cultural work, including participants’ own accounts of public-history collaborations.",
+      "Acknowledgment debates, treaty interpretation and jurisdiction are not adjudicated here. A dated event report does not establish current programs. No community review or endorsement is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive reading collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded starting path now uses inspected public content, with scope and access limits recorded. This is not comprehensive research or community review.",
       "remainingLimits": [
-        "History, reading sources, community review and cleared imagery remain queued."
+        "Develop the histories and relationships of the individually named historical bands using community accounts and dated original records.",
+        "Review more public community-authored history, language, family and cultural work, including participants’ own accounts of public-history collaborations.",
+        "Acknowledgment debates, treaty interpretation and jurisdiction are not adjudicated here. A dated event report does not establish current programs. No community review or endorsement is recorded."
       ]
     },
     "name": "Grand River Bands of Ottawa Indians",
@@ -31290,7 +31879,7 @@
     "relatedProfileSlugs": [
       "ottawa-odawa"
     ],
-    "overview": "Grand River Bands of Ottawa Indians has an individually findable directory outline. Detailed history, an annotated reading path and community-specific imagery remain queued.",
+    "overview": "The Grand River Bands’ own historical account connects this Ottawa community with southwest Michigan waterways. A Museum report adds a specific example of collaborative public history.",
     "identificationEvidence": [
       {
         "url": "https://www.grandriverbands.com/about/",
@@ -31301,6 +31890,39 @@
         "identityOnly": true,
         "countsTowardMinimum": false
       }
+    ],
+    "overviewSourceIds": [
+      "c5-grand-river-story-mission",
+      "c5-grand-river-museum2021"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c5-grand-river-story-mission",
+          "reason": "Start with the community’s brief historical self-description and preservation purposes."
+        },
+        {
+          "sourceId": "c5-grand-river-museum2021",
+          "reason": "Then examine a specific recorded partnership rather than treating a general institutional link as evidence."
+        }
+      ],
+      "fixedSourceMinimum": null,
+      "remainingQuestions": [
+        "Develop the histories and relationships of the individually named historical bands using community accounts and dated original records.",
+        "Review more public community-authored history, language, family and cultural work, including participants’ own accounts of public-history collaborations.",
+        "Acknowledgment debates, treaty interpretation and jurisdiction are not adjudicated here. A dated event report does not establish current programs. No community review or endorsement is recorded."
+      ],
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c5-grand-river-museum-eisenschenk2012"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
     ],
     "slug": "grand-river-bands-of-ottawa-indians",
     "regionGroups": [
@@ -32621,6 +33243,57 @@
         "key": "ca-yt"
       }
     ]
+  },
+  {
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-27",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "relatedOriginalIds": [
+      83
+    ],
+    "relatedProfileSlugs": [
+      "comanche"
+    ],
+    "identityVerifiedAt": "2026-10-27",
+    "researchGaps": [
+      "Review the original Comanche Language and Cultural Preservation Committee dictionary and additional community-authored accounts.",
+      "Establish period, local community relationships and any contemporary organization separately; this name check does not identify a separate current government.",
+      "Develop a reading path and review individually relevant image rights before substantive profile publication."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only route based on a narrowly selected report paragraph; no substantive bibliography or adequacy assessment.",
+      "remainingLimits": [
+        "History, exact community scope, current institutions and cleared imagery remain queued."
+      ]
+    },
+    "name": "Hanitaibo",
+    "kind": "Comanche band-name reading route",
+    "region": "Comanche band-name context; regional history under review",
+    "overview": "Hanitaibo is an individually findable Comanche band-name route recorded in a 2021 consulted Texas report. Detailed history, annotated reading sources and specifically relevant imagery remain queued.",
+    "relationshipNote": "The 2021 report lists Hanitaibo with a Corn People gloss among further Comanche band names, citing the 2010 community language dictionary. This is an attributed name-only outline, not proof of a separate present government, exact homeland or individual descent.",
+    "searchTerms": [],
+    "identificationEvidence": [
+      {
+        "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-03-rpt.pdf",
+        "publisher": "Texas Department of Transportation",
+        "title": "Tribal Histories: Comanche Nation Research Report — selected printed page 10",
+        "scope": "Actual printed/PDF page 10 paragraph listing additional Comanche band names, citing Comanche Language and Cultural Preservation Committee 2010, read as selectable text. The original dictionary and current recognition or government records were not inspected. Naming check only; no map, photograph, ceremonial material or complete report review claimed.",
+        "reviewedAt": "2026-10-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "slug": "hanitaibo",
+    "regionGroups": [],
+    "mapRegions": []
   },
   {
     "name": "Hannahville Indian Community",
@@ -45473,6 +46146,47 @@
       "No researched-count or adequacy change is proposed for Delaware (Lenape) original97; its original bibliography and reciprocal reading route must remain."
     ],
     "compiledAt": "2026-10-26",
+    "communityReview": "Not recorded",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "p182-s2",
+          "reason": "Start with Delaware Nation’s attributed historical account, retaining its own governmental perspective."
+        },
+        {
+          "sourceId": "p182-talking-dictionary",
+          "reason": "Read the selected language-project documentation, learning method and regional limits."
+        },
+        {
+          "sourceId": "p182-fort-pitt-1778",
+          "reason": "Compare a complete dated treaty text with later accounts; the original manuscript and implementation remain unreviewed."
+        },
+        {
+          "sourceId": "p182-jennings-walking-purchase",
+          "reason": "Follow the selected critical scholarship on deeds and source interpretation, without claiming all underlying records were read."
+        }
+      ],
+      "remainingQuestions": [
+        "Texas migration, diplomacy, family histories and removal need directly inspected original records and fuller community-authored scholarship. An encyclopedia account is not a completed Texas foundation.",
+        "The 1859 Brazos-reserve relocation and an around-1873 Wichita-allotment narrative describe potentially different stages or scopes; resolve original records before a single detailed chronology.",
+        "Current governments, homeland communities, citizenship and recognition require individually scoped contemporary evidence. One publisher’s position in identity disputes is not an Atlas-wide adjudication.",
+        "Moraviantown’s battle-outcome description and universal first-treaty assertion are not adopted. Undated population, land figures and legal claims are omitted.",
+        "Munsee and other language varieties, Canadian community histories, women’s histories, later land/government changes and wider Lenape-authored work remain unevenly covered.",
+        "Original archival records, treaty implementation, current legal instruments and books cited by the institutional histories remain unread. The scholarly article is a selected-page inspection.",
+        "No ceremonial narratives, sensitive places, songs, restricted records, current speaker totals or automatic descent/affiliation claims are reproduced.",
+        "No researched-count or adequacy change is proposed for Delaware (Lenape) original97; its original bibliography and reciprocal reading route must remain."
+      ],
+      "fixedSourceMinimum": null,
+      "scopeNote": "Curation of the existing Lenape collection only. Original overview, sections, source objects, review dates, assessment and Texas gaps remain; overlapping Delaware/Lenape directory labels are not two distinct nations.",
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "lenape-bodasin-catlin-1830"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "added": false,
     "slug": "lenape",
     "regionGroups": [
@@ -59802,7 +60516,7 @@
     "name": "Nez Perce (Nimiipuu)",
     "region": "Pacific Northwest / Idaho / Oregon / Washington",
     "kind": "People / community",
-    "overview": "Nimiipuu is a community name used alongside Nez Perce.",
+    "overview": "Nimiipuu, also called Nez Perce, is a people-level route broader than the Nez Perce Tribe's Idaho government. A Wallowa community organization's history connects descendants from several reservations with renewed gathering in wal'áwa; a separate NPS account introduces treaty-era divisions among bands.",
     "sections": [
       {
         "title": "Identity and context",
@@ -59818,6 +60532,20 @@
           "p247-s1",
           "p247-s2",
           "p247-s3"
+        ]
+      },
+      {
+        "title": "Returning to wal'áwa across reservation communities",
+        "text": "Nez Perce Wallowa Homeland traces its beginnings to Taz Conner, a Nez Perce descendant, and local allies. Its account dates the first Tamkaliks homecoming to 1989 and nonprofit formation to 1996. The organization specifically welcomes Nez Perce descendants from Colville, Umatilla and Nez Perce reservations. This provides a community-organization perspective on reconnection; it does not make those different governments interchangeable.",
+        "sourceIds": [
+          "b05-nimiipuu-wallowa-history-20261027"
+        ]
+      },
+      {
+        "title": "Treaty history involved different bands and choices",
+        "text": "NPS's treaty-period account distinguishes the 1855 agreement from the 1863 council held after gold discovery. It describes bands outside the proposed smaller reservation rejecting that agreement while other headmen signed it. This history helps explain why a later reservation or one government cannot stand for every Nimiipuu experience. The original documents and different oral understandings still require separate reading.",
+        "sourceIds": [
+          "b05-nimiipuu-treaty-period-20261027"
         ]
       }
     ],
@@ -59863,10 +60591,97 @@
         ],
         "annotation": "Historical context for this entry. Read “The Treaty Period - Nez Perce National Historical Park (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "b05-nimiipuu-wallowa-history-20261027",
+        "title": "Our Story / Our History — Nez Perce Wallowa Homeland",
+        "publisher": "Nez Perce Wallowa Homeland",
+        "url": "https://www.wallowanezperce.org/about-us/our-history",
+        "type": "Community organization",
+        "topics": [
+          "Homelands",
+          "Community history",
+          "Cultural continuity"
+        ],
+        "annotation": "A Nez Perce descendant-founded nonprofit's own history of renewed access and cultural gathering in wal'áwa. It follows the 1989 Tamkaliks beginning and 1996 nonprofit establishment, and specifically welcomes descendants from Colville, Umatilla and Nez Perce reservations. Its account supports this organization's history; it is neither a tribal government's statement nor an independently evaluated report of program outcomes. No photographs or embedded media reused.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual main narrative lines 76–98 read, including Taz E. E. Conner's attributed 1994 quotation, origins, 1989 event, 1996 incorporation and cross-reservation welcome. Synthesis selects the historical sequence and named descendant connections. No current acreage or service-availability claim, linked programs, original oral recording, financial record or media inspected.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "b05-nimiipuu-treaty-period-20261027",
+        "title": "The Treaty Period — Nez Perce National Historical Park",
+        "publisher": "National Park Service",
+        "url": "https://home.nps.gov/nepe/learn/historyculture/the-treaty-era.htm",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Treaties",
+          "Homelands"
+        ],
+        "annotation": "A focused federal public-history account of the 1855 and 1863 councils, gold discovery and disagreement among Nimiipuu bands. Useful for explaining why the later reservation and a people are different scopes. This is a summary, not inspection of the original treaty texts, oral understandings or present law. Its statements about reservation reduction are attributed to NPS rather than converted into a new boundary.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Complete substantive body lines 21–25 read, plus December 29, 2022 update date at line 30. Interactive map, treaty links, images and Flight of 1877 link not inspected. This is a fresh review record with a new ID; baseline p247-s3 is retained unchanged.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true
       }
     ],
     "relatedOriginalIds": [],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "b05-nimiipuu-wallowa-history-20261027",
+      "b05-nimiipuu-treaty-period-20261027"
+    ],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "researchGaps": [
+      "More Nimiipuu-authored histories, language publications and distinct Colville, Umatilla and Idaho community perspectives remain to be reviewed.",
+      "The nonprofit's account is organizational self-description; independent program evaluation, original oral recordings and long-term restoration outcomes were not examined.",
+      "Original treaty scans, oral interpretations, band-specific narratives and the linked 1877 material remain unread. No present treaty-rights or homeland-boundary conclusion is proposed.",
+      "No Nimiipuu community review or endorsement is recorded. The Spalding photograph depicts a public NPS visitor center, not a tribal government building or all Nimiipuu community life."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two actual public narratives provide a focused starting point on Wallowa reconnection and treaty-era differences. They do not supply a broad Nimiipuu history, specialist language coverage or balanced community-authored documentation across the separate governments.",
+      "remainingLimits": [
+        "More Nimiipuu-authored histories, language publications and distinct Colville, Umatilla and Idaho community perspectives remain to be reviewed.",
+        "The nonprofit's account is organizational self-description; independent program evaluation, original oral recordings and long-term restoration outcomes were not examined.",
+        "Original treaty scans, oral interpretations, band-specific narratives and the linked 1877 material remain unread. No present treaty-rights or homeland-boundary conclusion is proposed.",
+        "No Nimiipuu community review or endorsement is recorded. The Spalding photograph depicts a public NPS visitor center, not a tribal government building or all Nimiipuu community life."
+      ]
+    },
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "b05-nimiipuu-wallowa-history-20261027",
+          "reason": "Start with the descendant-founded organization's historical sequence and explicit cross-reservation welcome."
+        },
+        {
+          "sourceId": "b05-nimiipuu-treaty-period-20261027",
+          "reason": "Compare its focused account of differing band responses with later community and original treaty sources."
+        }
+      ],
+      "remainingQuestions": [
+        "More Nimiipuu-authored histories, language publications and distinct Colville, Umatilla and Idaho community perspectives remain to be reviewed.",
+        "The nonprofit's account is organizational self-description; independent program evaluation, original oral recordings and long-term restoration outcomes were not examined.",
+        "Original treaty scans, oral interpretations, band-specific narratives and the linked 1877 material remain unread. No present treaty-rights or homeland-boundary conclusion is proposed."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "nimiipuu-spalding-public-interpretation-nps"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "added": false,
     "slug": "nez-perce-nimiipuu",
     "regionGroups": [
@@ -60626,14 +61441,73 @@
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
     "region": "Texas",
-    "overview": "Nokoni is an individually findable historical Comanche band/division name. Detailed history, reading sources and specifically relevant imagery are queued.",
+    "overview": "Nokoni is a historical Comanche band/division name with its own directory route. The Texas report connects the name with a wider history of local bands and divisions and describes a historical range extending beyond today’s Texas boundary. Anderson’s account of the 1868–1869 winter campaign provides a specifically named episode involving Horseback’s Nokoni camp. It should be read as an outside military-history interpretation, alongside further community histories and original records.",
     "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Read the name within a fluid band structure",
+        "text": "The consulted report places Nokoni among named historical Comanche divisions and notes relationships with smaller local groups. It describes bands forming and separating through family and political relationships. These changing arrangements should not be converted into a fixed modern nation list or an exclusive genealogy.",
+        "sourceIds": [
+          "p83-txdot2021"
+        ]
+      },
+      {
+        "title": "Winter provisions and community survival",
+        "text": "Anderson identifies the camp attacked at Soldier Spring as Horseback’s Nokoni village. His account describes the destruction of stored food needed for winter and later movement toward federal posts. This focused episode opens questions about families, survival and diplomacy; original military reports and community accounts remain separate research tasks.",
+        "sourceIds": [
+          "c5-nokoni-canadian-river"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p83-txdot2021",
+        "title": "TxDOT Tribal Histories: Comanche Nation Research Report — selected pages",
+        "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-03-rpt.pdf",
+        "publisher": "Texas Department of Transportation",
+        "type": "Government / community-consulted research",
+        "topics": [
+          "Texas",
+          "History",
+          "Bands",
+          "Displacement"
+        ],
+        "annotation": "A chronological Texas synthesis prepared with the Nation’s historic-preservation office. Selected text supports a regional starting guide; its sources, dates and interpretations still need comparison.",
+        "accessed": "2026-10-26",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "countsTowardMinimum": true,
+        "accessStatus": "Public text inspected",
+        "language": "en",
+        "publicationDate": "2021-12",
+        "citation": "Texas Department of Transportation. 2021. TxDOT Tribal Histories: Comanche Nation Research Report. December. Selected pages.",
+        "accessNotes": "Browser fetch timed out; official file downloaded successfully and selected pages extracted with pypdf. Review is textual, not visual inspection of illustrations. Internal chronology includes Texas annexation as1846 onp36 and a March1882 visit after1891 onp54; these dates are not adopted. Evaluative claims about individual leaders and reported historical counts remain outside this synthesis. Consultation does not make every statement independently verified.",
+        "perspective": "Agency synthesis with documented Comanche THPO consultation; underlying works not independently inspected.",
+        "countReason": "One substantial directly relevant report, selected pages read; alternate host and archive editions would be the same work."
+      },
+      {
+        "id": "c5-nokoni-canadian-river",
+        "title": "Canadian River Expedition — selected Nokoni camp and winter-campaign account",
+        "publisher": "Texas State Historical Association / Handbook of Texas Online; Hugh Allen Anderson",
+        "url": "https://www.tshaonline.org/handbook/entries/canadian-river-expedition",
+        "type": "Academic / reference",
+        "topics": [
+          "Historical bands",
+          "Texas",
+          "History"
+        ],
+        "annotation": "An outside military-history account that specifically identifies Horseback’s Nokoni camp at Soldier Spring and describes the destruction of winter provisions and subsequent movement. Its military framing, labels and broad opening chronology require comparison with Indigenous histories; casualty figures and current legal conclusions are not adopted.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual complete main body and bibliography read, web lines6–28. Synthesis limited to the Soldier Spring camp, winter provisions and subsequent Nokoni movement, especially16–21. Opening Washita chronology, casualty totals, military justifications, underlying reports and cited books are not adopted or independently verified.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "accessNotes": "Public HTML main body inspected. Bibliography points to further works; those underlying publications and original records were not read here."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -60663,18 +61537,64 @@
       "comanche"
     ],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+      "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+      "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded historical-band starting path from two actual-content works, with attributed perspectives and explicit limits; further community-directed research remains open.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+        "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+        "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
       ]
     },
+    "overviewSourceIds": [
+      "p83-txdot2021",
+      "c5-nokoni-canadian-river"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "p83-txdot2021",
+          "reason": "Begin with the selected band-organization discussion and its limits on fixed labels."
+        },
+        {
+          "sourceId": "c5-nokoni-canadian-river",
+          "reason": "Continue to the specifically attributed historical episode or leader account; underlying original records remain further reading."
+        }
+      ],
+      "remainingQuestions": [
+        "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+        "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+        "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
+      ],
+      "fixedSourceMinimum": null,
+      "scopeNote": "Historical Comanche band/division route; not automatically a separate present government or an exhaustive community history.",
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "nokoni-horseback-record-soule-nara-533053"
+    },
+    "sourceReuseProvenance": [
+      {
+        "sourceId": "p83-txdot2021",
+        "sourceProfile": "comanche",
+        "originalContentReviewedAt": "2026-10-26",
+        "originalContentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "sourceObjectPreserved": true,
+        "inspectionBasis": "Exact earlier actual-content source object reused with original date and scope. Selected band-structure pages9–10 reread locally; this does not create another globally new work."
+      }
+    ],
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "nokoni",
     "regionGroups": [],
     "mapRegions": [
@@ -61042,7 +61962,7 @@
     "name": "Northern Paiute",
     "region": "Great Basin / Western United States",
     "kind": "People / community",
-    "overview": "Northern Paiute refers to distinct communities across the Great Basin and adjoining regions.",
+    "overview": "Northern Paiute connects distinct Great Basin and adjoining communities and regional language varieties. This route pairs selected language scholarship with the Shoshone-Paiute Tribes' own Duck Valley history, keeping a language area separate from any one government or exact homeland boundary.",
     "sections": [
       {
         "title": "Identity and context",
@@ -61058,6 +61978,21 @@
           "p255-s1",
           "p255-s2",
           "p255-s3"
+        ]
+      },
+      {
+        "title": "Language varieties and the limits of a language map",
+        "text": "The California Language Archive describes Northern Paiute as a Numic language with regional varieties extending from the Mono Lake area through Nevada to Oregon and Idaho. Thornes and Toosarvandani's 2020 introduction discusses documentation across communities and warns that reservation-era movement complicates older dialect geography. A linguistic grouping, including discussion of Bannock varieties, does not determine political identity or governmental jurisdiction.",
+        "sourceIds": [
+          "b05-northern-paiute-cla-reviewed-20261024",
+          "b05-northern-paiute-texts-intro-reviewed-20261024"
+        ]
+      },
+      {
+        "title": "Duck Valley is one shared local history",
+        "text": "The Shoshone-Paiute Tribes identify Western Shoshone and Northern Paiute descendants at Duck Valley. Their history distinguishes reservation establishment in 1877 from expansions in 1886 and 1910 and recounts resistance to a proposed relocation to Fort Hall. It also describes a joint government organized under a 1936 constitution. This is a particular community account, rather than the history of every Northern Paiute community.",
+        "sourceIds": [
+          "b05-northern-paiute-duck-valley-reviewed-20261023"
         ]
       }
     ],
@@ -61102,12 +62037,126 @@
         ],
         "annotation": "Historical context for this entry. Read “Northern Paiute Texts: Introduction1 | International Journal of American Linguistics: Vol 86, No S1” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "b05-northern-paiute-cla-reviewed-20261024",
+        "title": "Northern Paiute",
+        "url": "https://cla.berkeley.edu/languages/northern-paiute.html",
+        "publisher": "California Language Archive, University of California Berkeley",
+        "countsTowardMinimum": true,
+        "contentReviewedAt": "2026-10-24",
+        "contentReviewScope": "Main body lines0–54: language geography, classification, grammatical overview, documentation and reading links. Audio, linked scholarship and images not inspected.",
+        "annotation": "Academic orientation to Northern Paiute as a Western Numic language with regional varieties. Distinguish its linguistic geography from governments and historical borders; dated speaker/population estimates are not current statistics.",
+        "type": "Academic / reference",
+        "topics": [
+          "Language",
+          "Identity"
+        ],
+        "accessed": "2026-10-24"
+      },
+      {
+        "id": "b05-northern-paiute-texts-intro-reviewed-20261024",
+        "title": "Northern Paiute Texts: Introduction",
+        "url": "https://www.journals.uchicago.edu/doi/full/10.1086/707224",
+        "author": "Tim Thornes and Maziar Toosarvandani",
+        "publisher": "International Journal of American Linguistics 86(S1), May29,2020",
+        "countsTowardMinimum": true,
+        "contentReviewedAt": "2026-10-24",
+        "contentReviewScope": "Abstract and sections1–3 (history/background, dialect geography, documentation history), lines33–101; selected section4 text through line178 also exposed/read. Later article sections and individual contributed narratives are not claimed inspected. Page identifies article as Free; actual full-text HTML accessible.",
+        "annotation": "The editors describe collaboration with several speech communities and documentation across varieties. They distinguish northern and southern dialect groupings while warning that reservation-era movement makes older dialect geography difficult to reconstruct. This is one introduction, not inspection of every text in the volume.",
+        "type": "Academic / reference",
+        "topics": [
+          "Language",
+          "Documentation",
+          "Community collaboration"
+        ],
+        "accessed": "2026-10-24"
+      },
+      {
+        "id": "b05-northern-paiute-duck-valley-reviewed-20261023",
+        "title": "Our History — Cultural Department",
+        "publisher": "Shoshone-Paiute Tribes of the Duck Valley Indian Reservation",
+        "url": "https://shopaitribes.org/cultural-department/",
+        "countsTowardMinimum": true,
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Complete visible history body, lines43–61, read October23. Linked history videos were not played and photographs not reused.",
+        "annotation": "The joint government identifies Western Shoshone and Northern Paiute descendants at Duck Valley and recounts reservation creation/expansion, resistance to relocation, schooling and constitutional organization. This is its institutional history, not a uniform history of all Northern Paiute communities. Undated membership and present-program figures are not used.",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Homelands",
+          "Government"
+        ],
+        "accessed": "2026-10-23"
       }
     ],
     "relatedOriginalIds": [
       276
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "b05-northern-paiute-cla-reviewed-20261024",
+      "b05-northern-paiute-texts-intro-reviewed-20261024",
+      "b05-northern-paiute-duck-valley-reviewed-20261023"
+    ],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "researchGaps": [
+      "This selection combines linguistic orientation with one joint government's history; other Northern Paiute community histories, authors, foodways, education and present language work remain uneven.",
+      "The 2020 editors' introduction was inspected in selected sections; individual contributed narratives and the complete volume were not reviewed.",
+      "Duck Valley is a Western Shoshone–Northern Paiute joint government and one local history. Bannock linguistic classification does not erase distinct Bannock community or governmental identities.",
+      "Original executive orders, constitutions and later amendments were not added in this bounded selection. No current population, present legal-status audit, boundary or membership conclusion is proposed.",
+      "The 2026-10-23/24 review dates and scopes come from the saved reviewed draft, not a new full-source review. Berkeley and Duck Valley public bodies were additionally opened for current visual/context checks on October 27, without changing those retained review dates.",
+      "No Northern Paiute community review or endorsement is recorded. The photo concerns a specifically identified Duck Valley project in 2015."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Three selected actual reviews from the saved October 23–24 evidence draft support a concise language-and-community starting route. No legacy integration script was run; baseline sources retain their original objects and URLs. Linguistic and local-government perspectives remain narrower than the broader Northern Paiute route.",
+      "remainingLimits": [
+        "This selection combines linguistic orientation with one joint government's history; other Northern Paiute community histories, authors, foodways, education and present language work remain uneven.",
+        "The 2020 editors' introduction was inspected in selected sections; individual contributed narratives and the complete volume were not reviewed.",
+        "Duck Valley is a Western Shoshone–Northern Paiute joint government and one local history. Bannock linguistic classification does not erase distinct Bannock community or governmental identities.",
+        "Original executive orders, constitutions and later amendments were not added in this bounded selection. No current population, present legal-status audit, boundary or membership conclusion is proposed.",
+        "The 2026-10-23/24 review dates and scopes come from the saved reviewed draft, not a new full-source review. Berkeley and Duck Valley public bodies were additionally opened for current visual/context checks on October 27, without changing those retained review dates.",
+        "No Northern Paiute community review or endorsement is recorded. The photo concerns a specifically identified Duck Valley project in 2015."
+      ]
+    },
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "b05-northern-paiute-duck-valley-reviewed-20261023",
+          "reason": "Begin with a directly attributed joint-community history, keeping Duck Valley's specific scope clear."
+        },
+        {
+          "sourceId": "b05-northern-paiute-texts-intro-reviewed-20261024",
+          "reason": "Read the selected introduction for collaboration and the cautions around dialect geography; the narratives themselves remain unreviewed."
+        },
+        {
+          "sourceId": "b05-northern-paiute-cla-reviewed-20261024",
+          "reason": "Use the archive's linguistic orientation alongside community accounts; avoid treating its dated numbers as current."
+        }
+      ],
+      "remainingQuestions": [
+        "This selection combines linguistic orientation with one joint government's history; other Northern Paiute community histories, authors, foodways, education and present language work remain uneven.",
+        "The 2020 editors' introduction was inspected in selected sections; individual contributed narratives and the complete volume were not reviewed.",
+        "Duck Valley is a Western Shoshone–Northern Paiute joint government and one local history. Bannock linguistic classification does not erase distinct Bannock community or governmental identities.",
+        "Original executive orders, constitutions and later amendments were not added in this bounded selection. No current population, present legal-status audit, boundary or membership conclusion is proposed."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "paiute-northern-duck-valley-greenhouses-hedrick-2015"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "added": false,
     "slug": "northern-paiute",
     "regionGroups": [
@@ -62246,14 +63295,85 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — Lake Huron region member listing",
-    "overview": "Ojibways of Garden River First Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Garden River’s selected history follows the Shingwauk family’s educational aims and later community participation in land and highway negotiations. The sources offer distinct views of nineteenth-century pressures and a 1994 agreement process.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. Membership alone is not treated as proof of Ojibwe, Anishinaabe or other ethnic identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "The Shingwauk family’s educational vision",
+        "text": "The Shingwauk Residential Schools Centre describes Shingwaukonse’s Teaching Wigwam vision as a place of shared learning and traces his family’s efforts to obtain educational resources. Its account also describes weakening government support, missionary changes and the growth of industrial schooling. Those changing colonial purposes matter when reading the family’s educational aims and the later institution’s history.",
+        "sourceIds": [
+          "c05-on-garden-srsc-20261027"
+        ]
+      },
+      {
+        "title": "Member participation in land negotiations",
+        "text": "In a 2003 article, negotiations coordinator Alice Corbiere describes Garden River’s 1994 land and highway agreements. The negotiating team opened meetings, distributed information to members living both on and away from the reserve, and arranged information sessions around work and family schedules. She credits communication and community inclusion in the referendum’s acceptance while noting that expectations about employment timing needed clearer explanation.",
+        "sourceIds": [
+          "c05-on-garden-corbiere-2003-20261027"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c05-on-garden-srsc-20261027",
+        "title": "Healing and Reconciliation Through Education — The Shingwauk Family and Early Mission Schools",
+        "publisher": "Shingwauk Residential Schools Centre",
+        "url": "https://ecampusontario.pressbooks.pub/srsc/chapter/the-shingwauk-family/",
+        "type": "Public history / residential school archive education",
+        "topics": [
+          "Garden River",
+          "Education",
+          "Shingwaukonse",
+          "Colonial history"
+        ],
+        "annotation": "The archive’s educational history distinguishes the Shingwauk family’s educational vision from changing church and government policies. Its mission narrative requires attention to those differing purposes.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual chapters 7 and 8 read: Shingwauk family body (web lines 55–82) and early mission schools body (55–67). One work, two selected chapters.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "publicationDate": "2019",
+        "dateBasis": "Book copyright 2019; chapter publication day not stated.",
+        "perspective": "Public educational history from the Shingwauk Residential Schools Centre, drawing partly on missionary records and family accounts.",
+        "accessLimits": "Two chapters only. Linked primary journals, portraits, survivor recordings and other chapters not treated as read.",
+        "inspectedSubresources": [
+          {
+            "title": "Early Mission Schools in Sault Ste. Marie, Ontario",
+            "url": "https://ecampusontario.pressbooks.pub/srsc/chapter/chapter-1/",
+            "scope": "Actual chapter 8 substantive body."
+          }
+        ],
+        "conflictNotes": "Chapter 7 places Chance’s arrival a few months before Shingwaukonse’s death while also printing 1855 and 1854 dates; chapter 8 places it after his death. That sequence is not repeated in the profile.",
+        "sourceUnitKey": "srsc-healing-reconciliation-education-2019"
+      },
+      {
+        "id": "c05-on-garden-corbiere-2003-20261027",
+        "title": "Community Involvement and Acceptance: Garden River First Nations Highway and Land Agreements",
+        "publisher": "The Journal of Aboriginal Economic Development 3(2), 20–23; public copy at University of Saskatchewan I-Portal",
+        "url": "https://iportal.usask.ca/docs/Journal%20of%20Aboriginal%20Economic%20Development/JAED_v3no2/JAED_v3no2_Article_pg20-23.pdf",
+        "type": "Community practitioner account / scholarship",
+        "topics": [
+          "Garden River",
+          "Land negotiations",
+          "Community participation",
+          "Highway history"
+        ],
+        "annotation": "Alice Corbiere, identified in the article as the negotiations coordinator, explains communication and member participation in the 1994 agreements. This is a participant’s retrospective, not a current implementation audit.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Full four-page article, printed 20–23, downloaded and read through pypdf extraction: negotiations, member information, referendum, agreement structure and retrospective assessment.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Alice Corbiere",
+        "publicationDate": "2003",
+        "dateBasis": "Printed journal footer: volume 3, number 2, 2003. Describes 1994 agreements and cites 2002 interviews.",
+        "perspective": "Named negotiations participant and program coordinator; Indigenous identity is not inferred from surname.",
+        "accessLimits": "Public PDF succeeded through ordinary download after web extraction failed. Agreement texts and interviews cited by the author were not separately inspected.",
+        "sourceUnitKey": "alice-corbiere-garden-river-highway-2003"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -62272,18 +63392,53 @@
     ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Add Garden River’s own current public history and community-authored works beyond these selected education and negotiation accounts.",
+      "Read the underlying agreements and later implementation history before drawing conclusions about present land or highway arrangements.",
+      "Expand language, environmental stewardship and everyday community history; the selected sources cover particular institutions and events."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two directly relevant works have been read for a bounded starting guide. The selected perspectives and periods leave substantial community history and later developments unreviewed.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Add Garden River’s own current public history and community-authored works beyond these selected education and negotiation accounts.",
+        "Read the underlying agreements and later implementation history before drawing conclusions about present land or highway arrangements.",
+        "Expand language, environmental stewardship and everyday community history; the selected sources cover particular institutions and events."
       ]
     },
+    "overviewSourceIds": [
+      "c05-on-garden-srsc-20261027",
+      "c05-on-garden-corbiere-2003-20261027"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c05-on-garden-srsc-20261027",
+          "reason": "Distinguish a family’s educational vision from the changing colonial institutions that followed."
+        },
+        {
+          "sourceId": "c05-on-garden-corbiere-2003-20261027",
+          "reason": "Read a named participant’s detailed explanation of communication and member involvement in the 1994 negotiations."
+        }
+      ],
+      "remainingQuestions": [
+        "Add Garden River’s own current public history and community-authored works beyond these selected education and negotiation accounts.",
+        "Read the underlying agreements and later implementation history before drawing conclusions about present land or highway arrangements.",
+        "Expand language, environmental stewardship and everyday community history; the selected sources cover particular institutions and events."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c05-on-garden-river-bridge-2005"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "ojibways-of-garden-river-first-nation",
     "regionGroups": [
       "Canada"
@@ -63593,14 +64748,68 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Wisconsin, United States — current government listing",
-    "overview": "Oneida Nation has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "This guide concerns the Oneida Nation in Wisconsin. Its community-curated timeline and account of Oneida-led historical research provide a starting route into that community’s history.",
     "relationshipNote": "The state roster identifies this named Tribal Nation separately. It does not establish the full history or relationships of every broader reading label.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A Wisconsin history starting point",
+        "text": "Explore Oneida’s chronology places Oneida settlement around Duck Creek in the early 1820s, following movement from New York. Selected later entries describe a 1936 constitution and 1937 governmental reorganization. The timeline is a route into records and community interpretation; the linked originals need separate reading, and the entries are not a determination of present land or governing rules.",
+        "sourceIds": [
+          "c5-oneida-wisconsin-timeline"
+        ]
+      },
+      {
+        "title": "How historical records became a public resource",
+        "text": "In 2018, the Nation reported work with Oneida citizen L. Gordon McLester III to organize and scan documents for public use. His account connects the collection with Oneida history conferences, research and educational work. Reading this article before the timeline helps distinguish a community-curated collection from the many individual records to which it points.",
+        "sourceIds": [
+          "c5-oneida-mclester-documents2018"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c5-oneida-wisconsin-timeline",
+        "title": "History Timeline — selected Wisconsin settlement and reorganization entries",
+        "publisher": "Oneida Nation / Explore Oneida",
+        "url": "https://exploreoneida.com/culture/timeline/",
+        "type": "Community-curated historical chronology",
+        "topics": [
+          "history",
+          "Wisconsin migration",
+          "historical records"
+        ],
+        "annotation": "A community-curated chronology with narrative entries and archival leads. The selected portions orient readers to Wisconsin settlement and twentieth-century reorganization; linked originals require separate inspection.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Selected actual narrative entries for 1821-1825 and 1934-1937 read, alongside nearby link labels for context. Early 1822/1823 first-arrival formulations vary within the timeline, so the guide uses early 1820s rather than resolving an exact first party. Narrative entries are distinguished from linked archival records; those PDFs, full timeline, acreage and legal conclusions were not reviewed. Publisher relationship checked through the Nation’s Tourism link and its 2018 article.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages."
+      },
+      {
+        "id": "c5-oneida-mclester-documents2018",
+        "title": "McLester’s document collection finding its way online",
+        "publisher": "Oneida Nation",
+        "url": "https://oneida-nsn.gov/blog/2018/12/20/mclesters-document-collection-finding-its-way-online/",
+        "type": "Community-published history and archives report",
+        "topics": [
+          "historical research",
+          "archives",
+          "public education"
+        ],
+        "annotation": "The Nation’s article explains how Oneida citizen L. Gordon McLester III’s historical research and collected documents contributed to the online timeline. It helps readers understand the collection’s provenance.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Entire public article body read: the 2018 scanning work, McLester’s quoted account of history conferences and research, and proposed future projects. No underlying collection boxes, completed books or present digitization status inspected; predictions for 2019 are not completion claims.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "Oneida Nation, reporting L. Gordon McLester III’s account",
+        "publicationDate": "2018-12-20"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -63619,18 +64828,53 @@
     ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Inspect selected original records and compare chronology details, including the timeline’s differing first-arrival formulations.",
+      "Add more Oneida-authored historical scholarship, publicly shared language and family perspectives, and dated contemporary community accounts.",
+      "This Wisconsin government route is distinct from the Oneida Indian Nation in New York and Oneida communities in Ontario. No current legal, land-boundary, membership or demographic conclusion is made; no community review is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded starting path now uses inspected public content, with scope and access limits recorded. This is not comprehensive research or community review.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Inspect selected original records and compare chronology details, including the timeline’s differing first-arrival formulations.",
+        "Add more Oneida-authored historical scholarship, publicly shared language and family perspectives, and dated contemporary community accounts.",
+        "This Wisconsin government route is distinct from the Oneida Indian Nation in New York and Oneida communities in Ontario. No current legal, land-boundary, membership or demographic conclusion is made; no community review is recorded."
       ]
     },
+    "overviewSourceIds": [
+      "c5-oneida-wisconsin-timeline",
+      "c5-oneida-mclester-documents2018"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c5-oneida-wisconsin-timeline",
+          "reason": "Use the selected narrative chronology to orient further Wisconsin-specific reading."
+        },
+        {
+          "sourceId": "c5-oneida-mclester-documents2018",
+          "reason": "Read how the collection was assembled before treating its linked records as already reviewed."
+        }
+      ],
+      "fixedSourceMinimum": null,
+      "remainingQuestions": [
+        "Inspect selected original records and compare chronology details, including the timeline’s differing first-arrival formulations.",
+        "Add more Oneida-authored historical scholarship, publicly shared language and family perspectives, and dated contemporary community accounts.",
+        "This Wisconsin government route is distinct from the Oneida Indian Nation in New York and Oneida communities in Ontario. No current legal, land-boundary, membership or demographic conclusion is made; no community review is recorded."
+      ],
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c5-oneida-milmoe-usfws-partnership"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "oneida-nation",
     "regionGroups": [
       "Great Lakes"
@@ -64792,7 +66036,7 @@
     "name": "Paiute",
     "region": "Great Basin / Southwest",
     "kind": "Wider grouping / peoples",
-    "overview": "Paiute is a broad label whose Northern and Southern usages refer to distinct language and community histories.",
+    "overview": "Paiute is a broad label used in distinct Northern and Southern language and community histories. This route introduces separate Northern Paiute and San Juan Southern Paiute examples and directs attention to particular nations; it does not identify a single Paiute people, government or territory.",
     "sections": [
       {
         "title": "Identity and context",
@@ -64808,6 +66052,21 @@
           "p276-s1",
           "p276-s2",
           "p276-s3"
+        ]
+      },
+      {
+        "title": "A Northern Paiute route includes distinct joint communities",
+        "text": "The California Language Archive distinguishes Northern Paiute from the Chemehuevi–Southern Paiute–Ute language grouping. Its linguistic geography is not a government boundary. At Duck Valley, the Tribes' own history identifies Western Shoshone and Northern Paiute descendants and describes their shared community and joint government. These sources offer one Northern route while preserving the different peoples involved.",
+        "sourceIds": [
+          "b05-paiute-northern-language-reviewed-20261024",
+          "b05-paiute-duck-valley-reviewed-20261023"
+        ]
+      },
+      {
+        "title": "San Juan Southern Paiute: a particular nation's account",
+        "text": "The San Juan Southern Paiute Tribe describes its communities in northern Arizona and southern Utah and explains a long history of living alongside Navajo neighbors. It dates its federal recognition to December 1989 and explicitly distinguishes its identity from Navajo and Hopi relatives and neighbors. That community account should be read on its own terms, not extended to all Southern Paiute nations or to Northern Paiute histories.",
+        "sourceIds": [
+          "b05-paiute-sanjuan-history-20261027"
         ]
       }
     ],
@@ -64851,6 +66110,56 @@
         ],
         "annotation": "Context and further reading linked for this entry. The publisher’s “Las Vegas Paiute Tribe | Official Tribal Government Website” is a starting point; verify the geographical and community scope before applying its account more broadly.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "b05-paiute-northern-language-reviewed-20261024",
+        "title": "Northern Paiute",
+        "url": "https://cla.berkeley.edu/languages/northern-paiute.html",
+        "publisher": "California Language Archive, University of California Berkeley",
+        "countsTowardMinimum": true,
+        "contentReviewedAt": "2026-10-24",
+        "contentReviewScope": "Main body lines0–54: language geography, classification, grammatical overview, documentation and reading links. Audio, linked scholarship and images not inspected.",
+        "annotation": "Academic orientation to Northern Paiute as a Western Numic language with regional varieties. Distinguish its linguistic geography from governments and historical borders; dated speaker/population estimates are not current statistics.",
+        "type": "Academic / reference",
+        "topics": [
+          "Language",
+          "Identity"
+        ],
+        "accessed": "2026-10-24"
+      },
+      {
+        "id": "b05-paiute-duck-valley-reviewed-20261023",
+        "title": "Our History — Cultural Department",
+        "publisher": "Shoshone-Paiute Tribes of the Duck Valley Indian Reservation",
+        "url": "https://shopaitribes.org/cultural-department/",
+        "countsTowardMinimum": true,
+        "contentReviewedAt": "2026-10-23",
+        "contentReviewScope": "Complete visible history body, lines43–61, read October23. Linked history videos were not played and photographs not reused.",
+        "annotation": "The joint government identifies Western Shoshone and Northern Paiute descendants at Duck Valley and recounts reservation creation/expansion, resistance to relocation, schooling and constitutional organization. This is its institutional history, not a uniform history of all Northern Paiute communities. Undated membership and present-program figures are not used.",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Homelands",
+          "Government"
+        ],
+        "accessed": "2026-10-23"
+      },
+      {
+        "id": "b05-paiute-sanjuan-history-20261027",
+        "title": "About the Tribe — San Juan Southern Paiute Tribe",
+        "publisher": "San Juan Southern Paiute Tribe",
+        "url": "https://www.sanjuanpaiute-nsn.gov/about",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Community history",
+          "Homelands"
+        ],
+        "annotation": "A particular Southern Paiute government's account of its communities in northern Arizona and southern Utah, distinction from Navajo and Hopi neighbors, and federal recognition in 1989. Its account of the 2000 intertribal treaty is a situated historical/political position, not a verified statement of present reservation status. Neither the linked news story nor current gaming or legal arrangements were evaluated. A stray marketing-template quotation on the page is not tribal evidence.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual official narrative lines 10–19 read, including local communities, historical relationship with Navajo neighbors, 1989 recognition and the page's 2000 treaty explanation. Synthesis uses only identity/local-history paragraphs 12–16; current treaty approval/status was not checked or asserted. Embedded media, reproduced newspaper story at lines 21–26, preamble, linked original documents, images, gaming section and unrelated template copy excluded. Baseline p276-s1 retained exactly; this fresh review has a new ID.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true
       }
     ],
     "relatedOriginalIds": [
@@ -64859,6 +66168,67 @@
       50
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "b05-paiute-northern-language-reviewed-20261024",
+      "b05-paiute-duck-valley-reviewed-20261023",
+      "b05-paiute-sanjuan-history-20261027"
+    ],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "researchGaps": [
+      "Paiute is a broad route through distinct Northern and Southern usages, not a single people, government, language or territory. Additional individual nations need their own community sources.",
+      "The Northern Paiute language account does not supply a full Southern Paiute linguistic comparison; Southern Paiute and Chemehuevi community-authored language scholarship remain to be reviewed.",
+      "Duck Valley and San Juan Southern Paiute are different, specifically scoped examples. Neither supplies a universal Paiute history, and a joint Shoshone-Paiute project should not be presented as exclusively Paiute.",
+      "The San Juan account's current land/treaty status, original documents and outcomes were not evaluated. No current legal, acreage, demographic or membership claim is made.",
+      "Northern Paiute language/Duck Valley evidence retains actual October 24/23 review dates from the saved draft; it is reused evidence, not newly read global scholarship. No community review or endorsement is recorded."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Three actual scoped works offer a navigational comparison: Northern Paiute linguistic orientation, Duck Valley joint-community history and San Juan Southern Paiute's own account. Two works reuse dated Northern Paiute draft reviews, and the third is a fresh selected-body review. This remains far from an adequate wider history.",
+      "remainingLimits": [
+        "Paiute is a broad route through distinct Northern and Southern usages, not a single people, government, language or territory. Additional individual nations need their own community sources.",
+        "The Northern Paiute language account does not supply a full Southern Paiute linguistic comparison; Southern Paiute and Chemehuevi community-authored language scholarship remain to be reviewed.",
+        "Duck Valley and San Juan Southern Paiute are different, specifically scoped examples. Neither supplies a universal Paiute history, and a joint Shoshone-Paiute project should not be presented as exclusively Paiute.",
+        "The San Juan account's current land/treaty status, original documents and outcomes were not evaluated. No current legal, acreage, demographic or membership claim is made.",
+        "Northern Paiute language/Duck Valley evidence retains actual October 24/23 review dates from the saved draft; it is reused evidence, not newly read global scholarship. No community review or endorsement is recorded."
+      ]
+    },
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "b05-paiute-sanjuan-history-20261027",
+          "reason": "Begin with the named Southern Paiute government's own local history and identity; treat its unresolved legal statements cautiously."
+        },
+        {
+          "sourceId": "b05-paiute-duck-valley-reviewed-20261023",
+          "reason": "Compare a distinct Northern Paiute–Western Shoshone joint-community account, rather than merging the two examples."
+        },
+        {
+          "sourceId": "b05-paiute-northern-language-reviewed-20261024",
+          "reason": "Use the archive for Northern Paiute linguistic classification, not as a definition of all Paiute peoples."
+        }
+      ],
+      "remainingQuestions": [
+        "Paiute is a broad route through distinct Northern and Southern usages, not a single people, government, language or territory. Additional individual nations need their own community sources.",
+        "The Northern Paiute language account does not supply a full Southern Paiute linguistic comparison; Southern Paiute and Chemehuevi community-authored language scholarship remain to be reviewed.",
+        "Duck Valley and San Juan Southern Paiute are different, specifically scoped examples. Neither supplies a universal Paiute history, and a joint Shoshone-Paiute project should not be presented as exclusively Paiute.",
+        "The San Juan account's current land/treaty status, original documents and outcomes were not evaluated. No current legal, acreage, demographic or membership claim is made."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "paiute-northern-duck-valley-greenhouses-hedrick-2015"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "added": false,
     "slug": "paiute",
     "regionGroups": [
@@ -65785,14 +67155,73 @@
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
     "region": "Texas",
-    "overview": "Penateka is an individually findable historical Comanche band/division name. Detailed history, reading sources and specifically relevant imagery are queued.",
+    "overview": "Penateka is a historical Comanche band/division reading route. The consulted Texas report places its historical range in central Texas and explains that Comanche bands were fluid rather than a fixed set of separate modern governments. Schilz’s biography of Buffalo Hump adds an account of one Penateka leader’s diplomacy and later movement. These readings offer a starting point for understanding a particular community history within wider Comanche history, while leaving contemporary affiliations and fuller community voices open.",
     "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A historical band within changing Comanche communities",
+        "text": "The Texas report distinguishes extended families, local bands and broader divisions, while warning that outside geographic labels could carry political assumptions. Its Penateka discussion places this particular historical route in central Texas. These descriptions are historical orientation, not surveyed boundaries or a current-government roster.",
+        "sourceIds": [
+          "p83-txdot2021"
+        ]
+      },
+      {
+        "title": "Diplomacy and movement through one biography",
+        "text": "Schilz recounts Buffalo Hump’s meeting with Sam Houston in 1844, his later departure from the Brazos reservation, and settlement near Fort Cobb in 1859. This attributed biography introduces negotiation and displacement alongside warfare. It does not establish that every Penateka family followed the same route or that treaty promises were implemented.",
+        "sourceIds": [
+          "c5-penateka-buffalo-hump"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p83-txdot2021",
+        "title": "TxDOT Tribal Histories: Comanche Nation Research Report — selected pages",
+        "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-03-rpt.pdf",
+        "publisher": "Texas Department of Transportation",
+        "type": "Government / community-consulted research",
+        "topics": [
+          "Texas",
+          "History",
+          "Bands",
+          "Displacement"
+        ],
+        "annotation": "A chronological Texas synthesis prepared with the Nation’s historic-preservation office. Selected text supports a regional starting guide; its sources, dates and interpretations still need comparison.",
+        "accessed": "2026-10-26",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "countsTowardMinimum": true,
+        "accessStatus": "Public text inspected",
+        "language": "en",
+        "publicationDate": "2021-12",
+        "citation": "Texas Department of Transportation. 2021. TxDOT Tribal Histories: Comanche Nation Research Report. December. Selected pages.",
+        "accessNotes": "Browser fetch timed out; official file downloaded successfully and selected pages extracted with pypdf. Review is textual, not visual inspection of illustrations. Internal chronology includes Texas annexation as1846 onp36 and a March1882 visit after1891 onp54; these dates are not adopted. Evaluative claims about individual leaders and reported historical counts remain outside this synthesis. Consultation does not make every statement independently verified.",
+        "perspective": "Agency synthesis with documented Comanche THPO consultation; underlying works not independently inspected.",
+        "countReason": "One substantial directly relevant report, selected pages read; alternate host and archive editions would be the same work."
+      },
+      {
+        "id": "c5-penateka-buffalo-hump",
+        "title": "Buffalo Hump — selected Penateka diplomacy and movement account",
+        "publisher": "Texas State Historical Association / Handbook of Texas Online; Jodye Lynn Dickson Schilz",
+        "url": "https://www.tshaonline.org/handbook/entries/buffalo-hump",
+        "type": "Academic / reference",
+        "topics": [
+          "Historical bands",
+          "Texas",
+          "History"
+        ],
+        "annotation": "A biographical starting point for one specifically identified Penateka leader. The synthesis uses the 1844 diplomacy and later movement between the Brazos and Fort Cobb contexts, rather than treating a military biography as the whole community. Numerical casualty claims, name etymology and generalized judgments are not adopted.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual full main body and bibliography read, web lines6–20. Selected synthesis from paragraphs10–14; original treaties, papers and cited books not inspected. Images and exact casualty totals not reviewed.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "accessNotes": "Public HTML main body inspected. Bibliography points to further works; those underlying publications and original records were not read here."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -65824,18 +67253,64 @@
       "comanche"
     ],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+      "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+      "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded historical-band starting path from two actual-content works, with attributed perspectives and explicit limits; further community-directed research remains open.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+        "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+        "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
       ]
     },
+    "overviewSourceIds": [
+      "p83-txdot2021",
+      "c5-penateka-buffalo-hump"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "p83-txdot2021",
+          "reason": "Begin with the selected band-organization discussion and its limits on fixed labels."
+        },
+        {
+          "sourceId": "c5-penateka-buffalo-hump",
+          "reason": "Continue to the specifically attributed historical episode or leader account; underlying original records remain further reading."
+        }
+      ],
+      "remainingQuestions": [
+        "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+        "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+        "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
+      ],
+      "fixedSourceMinimum": null,
+      "scopeNote": "Historical Comanche band/division route; not automatically a separate present government or an exhaustive community history.",
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "penateka-tosawa-soule-cabinet-card-1870s"
+    },
+    "sourceReuseProvenance": [
+      {
+        "sourceId": "p83-txdot2021",
+        "sourceProfile": "comanche",
+        "originalContentReviewedAt": "2026-10-26",
+        "originalContentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "sourceObjectPreserved": true,
+        "inspectionBasis": "Exact earlier actual-content source object reused with original date and scope. Selected band-structure pages9–10 reread locally; this does not create another globally new work."
+      }
+    ],
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "penateka",
     "regionGroups": [],
     "mapRegions": [
@@ -68767,14 +70242,73 @@
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
     "region": "Texas; New Mexico",
-    "overview": "Quahadi is an individually findable historical Comanche band/division name. Detailed history, reading sources and specifically relevant imagery are queued.",
+    "overview": "Quahadi, also written Quahada in the selected historical account, is a Comanche band/division reading route. The Texas report situates its history in the Llano Estacado while emphasizing the wider fluidity of Comanche band organization. Hosmer’s Quanah Parker biography follows one leader from resistance on the plains into later reservation-era work. These are starting readings about a particular historical community and individual, not a claim that one leader represented every Comanche group or that all families shared one experience.",
     "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A particular historical route on the plains",
+        "text": "The consulted report identifies Quahadi within Comanche band history and associates the name with the Llano Estacado. Its discussion of changing local bands and divisions helps readers keep a historical regional label separate from a precise boundary or present governmental jurisdiction.",
+        "sourceIds": [
+          "p83-txdot2021"
+        ]
+      },
+      {
+        "title": "One leader across changing institutions",
+        "text": "Hosmer’s account describes Quanah’s leadership among the Quahadas and his later involvement in ranching, leases and other institutions under reservation conditions. Those choices should be read as a particular leader’s responses to pressure, rather than proof of unanimous consent or a complete account of family and community priorities.",
+        "sourceIds": [
+          "c5-quahadi-quanah"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p83-txdot2021",
+        "title": "TxDOT Tribal Histories: Comanche Nation Research Report — selected pages",
+        "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-03-rpt.pdf",
+        "publisher": "Texas Department of Transportation",
+        "type": "Government / community-consulted research",
+        "topics": [
+          "Texas",
+          "History",
+          "Bands",
+          "Displacement"
+        ],
+        "annotation": "A chronological Texas synthesis prepared with the Nation’s historic-preservation office. Selected text supports a regional starting guide; its sources, dates and interpretations still need comparison.",
+        "accessed": "2026-10-26",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "countsTowardMinimum": true,
+        "accessStatus": "Public text inspected",
+        "language": "en",
+        "publicationDate": "2021-12",
+        "citation": "Texas Department of Transportation. 2021. TxDOT Tribal Histories: Comanche Nation Research Report. December. Selected pages.",
+        "accessNotes": "Browser fetch timed out; official file downloaded successfully and selected pages extracted with pypdf. Review is textual, not visual inspection of illustrations. Internal chronology includes Texas annexation as1846 onp36 and a March1882 visit after1891 onp54; these dates are not adopted. Evaluative claims about individual leaders and reported historical counts remain outside this synthesis. Consultation does not make every statement independently verified.",
+        "perspective": "Agency synthesis with documented Comanche THPO consultation; underlying works not independently inspected.",
+        "countReason": "One substantial directly relevant report, selected pages read; alternate host and archive editions would be the same work."
+      },
+      {
+        "id": "c5-quahadi-quanah",
+        "title": "Quanah Parker — selected Quahadi leadership and reservation-era account",
+        "publisher": "Texas State Historical Association / Handbook of Texas Online; Brian C. Hosmer",
+        "url": "https://www.tshaonline.org/handbook/entries/parker-quanah",
+        "type": "Academic / reference",
+        "topics": [
+          "Historical bands",
+          "Texas",
+          "History"
+        ],
+        "annotation": "A biographical introduction to Quanah’s Quahadi leadership and later economic and institutional work. The guide keeps disputed early biography and sweeping judgments apart from its selected historical orientation. One leader’s life is not the complete history of Quahadi families or all Comanche governments.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual full main body and bibliography read, web lines6–34. Synthesis uses Quahadi leadership and reservation-era ranching/institutional passages11–23. Contested birth and early family chronology, numerical casualty/wealth claims, religious details and burial information are not repeated; original family accounts and cited books remain unreviewed.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "accessNotes": "Public HTML main body inspected. Bibliography points to further works; those underlying publications and original records were not read here."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -68805,18 +70339,64 @@
       "comanche"
     ],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+      "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+      "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded historical-band starting path from two actual-content works, with attributed perspectives and explicit limits; further community-directed research remains open.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+        "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+        "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
       ]
     },
+    "overviewSourceIds": [
+      "p83-txdot2021",
+      "c5-quahadi-quanah"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "p83-txdot2021",
+          "reason": "Begin with the selected band-organization discussion and its limits on fixed labels."
+        },
+        {
+          "sourceId": "c5-quahadi-quanah",
+          "reason": "Continue to the specifically attributed historical episode or leader account; underlying original records remain further reading."
+        }
+      ],
+      "remainingQuestions": [
+        "Seek band-specific community-authored histories and further Indigenous scholarship; the current path relies partly on outside historical synthesis.",
+        "Read underlying manuscripts, negotiations, oral-history publications and later community histories before expanding the chronology.",
+        "Historical band labels do not establish a separate present government, exact territory, citizenship or individual descent. No community review or endorsement is recorded."
+      ],
+      "fixedSourceMinimum": null,
+      "scopeNote": "Historical Comanche band/division route; not automatically a separate present government or an exhaustive community history.",
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "quahadi-quanah-parker-albumen-portrait-c1890"
+    },
+    "sourceReuseProvenance": [
+      {
+        "sourceId": "p83-txdot2021",
+        "sourceProfile": "comanche",
+        "originalContentReviewedAt": "2026-10-26",
+        "originalContentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "sourceObjectPreserved": true,
+        "inspectionBasis": "Exact earlier actual-content source object reused with original date and scope. Selected band-structure pages9–10 reread locally; this does not create another globally new work."
+      }
+    ],
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "quahadi",
     "regionGroups": [
       "Southwest",
@@ -71358,7 +72938,7 @@
     "name": "Santee Dakota",
     "region": "Great Plains / Nebraska / Minnesota",
     "kind": "People / community",
-    "overview": "Santee Dakota is a regional identity connected with Dakota people and specific contemporary communities.",
+    "overview": "This Santee Dakota route concerns the wider Eastern Dakota grouping and its distinct communities, rather than all Dakota peoples or one Nebraska or Minnesota government. The tribal college's four-division orientation is paired with particular Flandreau and Lower Sioux community accounts.",
     "sections": [
       {
         "title": "Identity and context",
@@ -71374,6 +72954,24 @@
           "p335-s1",
           "p335-s2",
           "p335-s3"
+        ]
+      },
+      {
+        "title": "A wider grouping and distinct local communities",
+        "text": "Nebraska Indian Community College names Mdewakantonwan, Wahpeton, Sisseton and Wahpekute within the Santee division. Flandreau's own history identifies its community primarily with Mdewakantonwan descendants and the Isanti division. Lower Sioux's account describes another Mdewakanton community at Caŋṡayapi. These are related Eastern Dakota contexts, not interchangeable names for a single government.",
+        "sourceIds": [
+          "b05-santee-nicc-history-20261027",
+          "b05-santee-flandreau-history-20261027",
+          "d95-c1"
+        ]
+      },
+      {
+        "title": "Displacement, rebuilding and authority to interpret history",
+        "text": "The college's Nebraska-focused history follows forced movement through Crow Creek to northeastern Nebraska. Flandreau's account describes families moving from Santee Agency to homesteads along the Big Sioux River in 1869. Lower Sioux's companion historic-site account records tribal management beginning in 2007. Read these as distinct local histories of displacement, rebuilding and public interpretation; no one route describes every Santee Dakota family.",
+        "sourceIds": [
+          "b05-santee-nicc-history-20261027",
+          "b05-santee-flandreau-history-20261027",
+          "d95-c1"
         ]
       }
     ],
@@ -71416,12 +73014,135 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Government” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "b05-santee-nicc-history-20261027",
+        "title": "Santee Sioux Nation History — Nebraska Indian Community College",
+        "publisher": "Nebraska Indian Community College",
+        "url": "https://www.thenicc.edu/about/history/santee-sioux-nation.php",
+        "type": "Indigenous-led / tribal college",
+        "topics": [
+          "Identity",
+          "History",
+          "Displacement",
+          "Education"
+        ],
+        "annotation": "The tribal college's educational account names Mdewakantonwan, Wahpeton, Sisseton and Wahpekute as Santee divisions, then follows removal through Crow Creek to Nebraska and educational institutions. Its account is a Nebraska-focused historical synthesis; it is not one government speaking for every Eastern Dakota community. Terminology and treaty summaries need comparison with community authors and original records. Undated acreage figures are excluded.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual main history body lines 129–146 read completely, including division names at 131, 1862 narrative, nonparticipation distinction, removal paragraphs 142–143 and education at 145–146. Proposed synthesis uses division names, broad removal sequence and Nebraska focus; treaty dates/acreage, casualty and execution totals, place coordinates and evaluative period terminology are not adopted. Linked treaties and images not read/reused. Baseline p335-s2 remains unchanged; this fresh review receives a new ID.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "b05-santee-flandreau-history-20261027",
+        "title": "About Us — History of the Flandreau Santee Sioux Tribe",
+        "publisher": "Flandreau Santee Sioux Tribe",
+        "url": "https://fsst-nsn.gov/culture/about-us",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Community history",
+          "Displacement"
+        ],
+        "annotation": "The Tribe identifies primarily Mdewakantonwan ancestry within the Isanti division and gives its own history of displacement, the 1866 Santee Agency reunion, 1869 homesteading and later tribal organization. Its retrospective terms about citizenship and rights are not present membership advice. Undated land totals and linked media are omitted. This is one particular government's account, not a uniform account for all Santee Dakota communities.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual complete historical body lines 20–35 read. Synthesis selects Mdewakantonwan/Isanti identity, 1866 Santee Agency reunion and 1869 homesteading; no casualty total, present acreage, church antiquity, current membership rule or legal status is inferred. Images and program links not inspected/reused. Baseline p335-s1 remains unchanged; this fresh actual review receives a new ID.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "d95-c1",
+        "title": "Lower Sioux Indian Community — About Us and public historic-site account",
+        "author": "Lower Sioux Indian Community; institutional account, no individual byline displayed",
+        "publisher": "Lower Sioux Indian Community",
+        "url": "https://lowersioux.com/about-us/",
+        "type": "Indigenous-led",
+        "sourceKind": "Community government's public identity/history collection, selected two pages",
+        "topics": [
+          "Mdewakanton Dakota",
+          "Community continuity",
+          "Minnesota River",
+          "Public history"
+        ],
+        "publicationDate": "Undated bodies; 2026 footer and opening hours do not date the historical accounts",
+        "annotation": "The government's own account connects local identity, exile, return and public historical interpretation. Selected companion site history is grouped once. Population figures, casualty estimates, current service availability and blanket treaty/legal conclusions are excluded.",
+        "contentReviewScope": "Actual About Us historical body, lines 59–82; companion Historic Site historical paragraphs 83–86 and public interpretation description 97 read. No video, embedded flipbook or underlying treaty opened from these pages.",
+        "inspectedSubresources": [
+          {
+            "title": "Historic Site",
+            "url": "https://lowersioux.com/departments/historic-site/",
+            "scope": "Actual history and tribal-management account; hours, admissions and contacts excluded."
+          }
+        ],
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "countsTowardMinimum": true
       }
     ],
     "relatedOriginalIds": [
       95
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "b05-santee-nicc-history-20261027",
+      "b05-santee-flandreau-history-20261027",
+      "d95-c1"
+    ],
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "researchGaps": [
+      "This is a wider Santee/Eastern Dakota route. Additional Wahpeton, Sisseton, Wahpekute and Mdewakanton communities, including Canadian perspectives, remain underrepresented.",
+      "The college's historical synthesis and the Flandreau/Lower Sioux institutional accounts answer different questions. They are not evidence that every Santee person followed the same displacement route or belonged to one government.",
+      "Original treaty/agency records, community-authored scholarship, distinct Dakota language work and public testimony beyond these selected accounts remain unread.",
+      "The reused Lower Sioux source retains its October 21 actual-review date and exact source object. Its photo-context page was reopened October 27 for site identification only; this does not count as a new substantive work.",
+      "No present acreage, membership, legal entitlement or current program outcome is asserted. No Santee Dakota community review or endorsement is recorded."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two fresh selected historical-body reviews and one exact, previously reviewed Lower Sioux source support a short Eastern Dakota route with explicit local-government distinctions. Coverage of all four divisions, language and histories beyond these examples remains incomplete.",
+      "remainingLimits": [
+        "This is a wider Santee/Eastern Dakota route. Additional Wahpeton, Sisseton, Wahpekute and Mdewakanton communities, including Canadian perspectives, remain underrepresented.",
+        "The college's historical synthesis and the Flandreau/Lower Sioux institutional accounts answer different questions. They are not evidence that every Santee person followed the same displacement route or belonged to one government.",
+        "Original treaty/agency records, community-authored scholarship, distinct Dakota language work and public testimony beyond these selected accounts remain unread.",
+        "The reused Lower Sioux source retains its October 21 actual-review date and exact source object. Its photo-context page was reopened October 27 for site identification only; this does not count as a new substantive work.",
+        "No present acreage, membership, legal entitlement or current program outcome is asserted. No Santee Dakota community review or endorsement is recorded."
+      ]
+    },
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "b05-santee-nicc-history-20261027",
+          "reason": "Use the tribal college for its four-division orientation and Nebraska-focused historical sequence; compare its treaty summaries with original records."
+        },
+        {
+          "sourceId": "b05-santee-flandreau-history-20261027",
+          "reason": "Follow a specific Mdewakanton/Isanti community's account of displacement and rebuilding at Flandreau."
+        },
+        {
+          "sourceId": "d95-c1",
+          "reason": "Compare a separate Mdewakanton community and its authority to interpret the Lower Sioux Agency site; original review date is retained."
+        }
+      ],
+      "remainingQuestions": [
+        "This is a wider Santee/Eastern Dakota route. Additional Wahpeton, Sisseton, Wahpekute and Mdewakanton communities, including Canadian perspectives, remain underrepresented.",
+        "The college's historical synthesis and the Flandreau/Lower Sioux institutional accounts answer different questions. They are not evidence that every Santee person followed the same displacement route or belonged to one government.",
+        "Original treaty/agency records, community-authored scholarship, distinct Dakota language work and public testimony beyond these selected accounts remain unread."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "dakota-santee-lower-sioux-agency-mcghiever-2012"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "added": false,
     "slug": "santee-dakota",
     "regionGroups": [
@@ -75806,14 +77527,89 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Wisconsin, United States — current government listing",
-    "overview": "Stockbridge-Munsee Band of Mohican Indians has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Stockbridge-Munsee community’s own historical booklet and archival institution offer a route through repeated moves, rebuilding in Wisconsin and the preservation of community history.",
     "relationshipNote": "The state roster identifies this named Tribal Nation separately. It does not establish the full history or relationships of every broader reading label.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community account of moves and rebuilding",
+        "text": "The 2017 revision of Dorothy Davids’s history follows Stockbridge Mohican moves through New York and Indiana toward Wisconsin, where Munsee relatives joined the community. Selected pages describe settlement in Shawano County following the 1856 treaty and rebuilding homes and government in the 1930s. This is a community-centered introduction; the underlying instruments and fuller experiences of different families remain to investigate.",
+        "sourceIds": [
+          "c5-stockbridge-davids-history2017"
+        ]
+      },
+      {
+        "title": "Archives and history in the homelands",
+        "text": "The community describes the Arvid E. Miller Library/Museum as its official archival repository. One example of sharing that history was Mohican Miles: the Trustees’2021-2022 exhibition account credits the Tribe’s curation and archives. It places that work in a separate Carriage House at the Mission House property in Massachusetts, connecting the Wisconsin community with interpretation in its homelands.",
+        "sourceIds": [
+          "c5-stockbridge-library-museum",
+          "c5-stockbridge-mohican-miles2021"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c5-stockbridge-davids-history2017",
+        "title": "A Brief History of the Mohican Nation: The Stockbridge-Munsee Band — selected pages",
+        "publisher": "Stockbridge-Munsee Community / Historical Committee",
+        "url": "https://mohican-nsn.gov/wp-content/uploads/2025/07/2017breif-history-1.pdf",
+        "type": "Community-authored historical booklet",
+        "topics": [
+          "history",
+          "migration",
+          "community continuity"
+        ],
+        "annotation": "Dorothy Davids’s community history, revised by the Historical Committee in 2017, connects repeated moves with the formation and rebuilding of the Stockbridge-Munsee community in Wisconsin.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Physical PDF pages 2-3,7 and 10 visually read, including title/acknowledgments and printed pages 4 and 7. The historical migration and rebuilding passages were compared with selectable text because the multi-column extraction interleaves columns. Other pages, maps, bibliography works, original treaty texts and present acreage/population were not reviewed or adopted. The booklet’s mistaken 1832 date for the Indian Removal Act is not repeated.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "Dorothy Davids;2017 revisions by the Stockbridge-Munsee Historical Committee",
+        "publicationDate": "2017"
+      },
+      {
+        "id": "c5-stockbridge-library-museum",
+        "title": "Arvid E. Miller Library/Museum — About",
+        "publisher": "Stockbridge-Munsee Community",
+        "url": "https://mohican-nsn.gov/arvid-e-miller-library-museum/",
+        "type": "Community cultural-institution account",
+        "topics": [
+          "archives",
+          "public history",
+          "cultural preservation"
+        ],
+        "annotation": "The community identifies its Library/Museum as the official archival repository and explains its preservation and research role. It offers a useful next step after the historical booklet.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Entire public About body read, describing the repository, collections, research library and artist-supporting shop. Linked elder videos, archival holdings, forms and exhibits were not inspected. Current staff and opening hours are not adopted.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages."
+      },
+      {
+        "id": "c5-stockbridge-mohican-miles2021",
+        "title": "Mohican Miles — past exhibition",
+        "publisher": "The Trustees of Reservations, exhibition host",
+        "url": "https://thetrustees.org/exhibit/mohican-miles/",
+        "type": "Exhibition host’s collaboration account",
+        "topics": [
+          "public history",
+          "homelands",
+          "community curation"
+        ],
+        "annotation": "The host describes a Tribe-curated exhibition drawn from the Library/Museum’s archives at the Mission House property in Massachusetts. It supplies a concrete link between the Wisconsin community and public history in its homelands.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Full past-exhibition body read, including 2021-2022 dates, Tribal curation, the separate Carriage House behind the Mission House and the described agreement. Current opening, extension or future access were not established. Exhibition objects, their rights and repatriation records were not inspected.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "The Trustees of Reservations",
+        "publicationDate": "2021-2022"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -75833,18 +77629,57 @@
     ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Read the remaining booklet pages and its cited scholarship; compare treaty originals, removal records and the experiences of particular families without repeating its erroneous 1832 Indian Removal Act date.",
+      "Review additional Munsee and Mohican voices, public language resources and contemporary community publications, with each source’s particular community scope preserved.",
+      "The historic exhibit account does not establish current access. Collection objects, elder interviews and repatriation files remain unreviewed. The Stockbridge-Munsee government, wider Mohican/Munsee peoples and Mohegan Tribe of Connecticut are distinct. No community review is recorded."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded starting path now uses inspected public content, with scope and access limits recorded. This is not comprehensive research or community review.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Read the remaining booklet pages and its cited scholarship; compare treaty originals, removal records and the experiences of particular families without repeating its erroneous 1832 Indian Removal Act date.",
+        "Review additional Munsee and Mohican voices, public language resources and contemporary community publications, with each source’s particular community scope preserved.",
+        "The historic exhibit account does not establish current access. Collection objects, elder interviews and repatriation files remain unreviewed. The Stockbridge-Munsee government, wider Mohican/Munsee peoples and Mohegan Tribe of Connecticut are distinct. No community review is recorded."
       ]
     },
+    "overviewSourceIds": [
+      "c5-stockbridge-davids-history2017",
+      "c5-stockbridge-library-museum"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c5-stockbridge-davids-history2017",
+          "reason": "Begin with the community-authored historical narrative in its stated selected-page scope."
+        },
+        {
+          "sourceId": "c5-stockbridge-library-museum",
+          "reason": "Follow the community’s explanation of its archive and public research role."
+        },
+        {
+          "sourceId": "c5-stockbridge-mohican-miles2021",
+          "reason": "See a documented instance of Tribal curation in the homelands; read as a past exhibit account."
+        }
+      ],
+      "fixedSourceMinimum": null,
+      "remainingQuestions": [
+        "Read the remaining booklet pages and its cited scholarship; compare treaty originals, removal records and the experiences of particular families without repeating its erroneous 1832 Indian Removal Act date.",
+        "Review additional Munsee and Mohican voices, public language resources and contemporary community publications, with each source’s particular community scope preserved.",
+        "The historic exhibit account does not establish current access. Collection objects, elder interviews and repatriation files remain unreviewed. The Stockbridge-Munsee government, wider Mohican/Munsee peoples and Mohegan Tribe of Connecticut are distinct. No community review is recorded."
+      ],
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c5-stockbridge-mission-house-daderot2017"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "stockbridgemunsee-band-of-mohican-indians",
     "regionGroups": [
       "Great Lakes"
@@ -85654,6 +87489,68 @@
     ]
   },
   {
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-27",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "relatedOriginalIds": [
+      83
+    ],
+    "relatedProfileSlugs": [
+      "comanche"
+    ],
+    "identityVerifiedAt": "2026-10-27",
+    "researchGaps": [
+      "Review the original Comanche Language and Cultural Preservation Committee dictionary and additional community-authored accounts.",
+      "Establish period, local community relationships and any contemporary organization separately; this name check does not identify a separate current government.",
+      "Develop a reading path and review individually relevant image rights before substantive profile publication."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only route based on a narrowly selected report paragraph; no substantive bibliography or adequacy assessment.",
+      "remainingLimits": [
+        "History, exact community scope, current institutions and cleared imagery remain queued."
+      ]
+    },
+    "name": "Wianv",
+    "kind": "Comanche band-name reading route",
+    "region": "Walters, Oklahoma area — dated report context",
+    "overview": "Wianv is an individually findable Comanche band-name route recorded in a 2021 consulted Texas report. Detailed history, annotated reading sources and specifically relevant imagery remain queued.",
+    "relationshipNote": "The 2021 report explicitly groups Wianv, Wianvv and Wiaznvv spellings and describes a band from the Walters, Oklahoma area, citing the 2010 community language dictionary. This is an attributed name-only outline, not proof of a separate present government, exact homeland or individual descent.",
+    "searchTerms": [
+      "Wianvv",
+      "Wiaznvv"
+    ],
+    "identificationEvidence": [
+      {
+        "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-03-rpt.pdf",
+        "publisher": "Texas Department of Transportation",
+        "title": "Tribal Histories: Comanche Nation Research Report — selected printed page 10",
+        "scope": "Actual printed/PDF page 10 paragraph listing additional Comanche band names, citing Comanche Language and Cultural Preservation Committee 2010, read as selectable text. The original dictionary and current recognition or government records were not inspected. Naming check only; no map, photograph, ceremonial material or complete report review claimed.",
+        "reviewedAt": "2026-10-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "slug": "wianv",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ]
+  },
+  {
     "originalId": 431,
     "name": "Wichita",
     "region": "Great Plains / Oklahoma / Texas / Kansas",
@@ -86556,14 +88453,78 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation",
     "region": "Ontario, Canada — listing address only",
-    "overview": "Wiikwemkoong Unceded Territory has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "Wiikwemkoong’s public history places its community on Odawa Mnis, or Manitoulin Island, within Three Fires relationships. A speaker’s dictionary account offers a second, locally situated route into language work.",
     "relationshipNote": "Listed as an Anishinabek Nation member First Nation. This is an organizational relationship; membership alone does not establish ethnicity, language, ancestry, citizenship, jurisdiction or representation of another named community.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Diplomacy, migration and community history",
+        "text": "Wiikwemkoong’s historical account describes Odawa life on Manitoulin Island, relations among the Odawa, Ojibway and Potawatomi, and diplomacy with French and British newcomers. It records Wiikwemkoong’s refusal to sign the 1862 Manitoulin treaty and the 1968 amalgamation of the Manitoulin Island Unceded, Point Grondine and South Bay bands. These events are presented through the Nation’s account of its political history.",
+        "sourceIds": [
+          "c05-on-wiik-history-20261027"
+        ]
+      },
+      {
+        "title": "A Wiikwemkoong speaker’s dictionary work",
+        "text": "Mary Ann Corbiere explains that her way of speaking reflects Wiikwemkoong. Teaching prompted her to gather words absent from available dictionaries for an Odawa and Eastern Ojibwe project. Repeated workshops checked usage and generated further vocabulary; she also identifies limits where new entries could not be checked with every group. Her account treats documentation as continuing collaboration and judgment.",
+        "sourceIds": [
+          "c05-on-wiik-corbiere-20261027"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c05-on-wiik-history-20261027",
+        "title": "Gaa-Bizhiwebak — Our History",
+        "publisher": "Wiikwemkoong Unceded Territory",
+        "url": "https://www.wiikwemkoong.ca/history/",
+        "type": "Community history",
+        "topics": [
+          "Community history",
+          "Diplomacy",
+          "Language"
+        ],
+        "annotation": "The Nation’s public historical narrative connects Great Lakes diplomacy, nineteenth-century treaty pressures, amalgamation and language work. Treaty interpretations remain attributed to this account.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Actual history body, paragraphs from Odawa Mnis and early contact through the 1968 amalgamation, 2014 constitution and 2006 language strategy (web lines 146–169).",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "dateBasis": "No publication date stated. The page exposes a 2020-01-07 modification timestamp; its present availability does not redetermine the dates of historical events.",
+        "perspective": "First Nation public institutional account.",
+        "accessLimits": "Public text; linked images, claims documents and videos not inspected as substantive works.",
+        "sourceUnitKey": "wiikwemkoong-public-history"
+      },
+      {
+        "id": "c05-on-wiik-corbiere-20261027",
+        "title": "Ngii-mchwe-mkoshin: One Speaker’s Experiences in Compiling a Dictionary by Trial and Error",
+        "publisher": "Proceedings of the 27th Stabilizing Indigenous Languages Symposium; Queen’s University journal platform",
+        "url": "https://ojs.library.queensu.ca/index.php/SILS27/article/download/15222/12862/59050",
+        "type": "Indigenous-authored language education scholarship",
+        "topics": [
+          "Language documentation",
+          "Wiikwemkoong",
+          "Odawa and Eastern Ojibwe",
+          "Learning"
+        ],
+        "annotation": "Mary Ann Corbiere situates dictionary work in her Wiikwemkoong speech and teaching experience. Repeated speaker checking expands the material while exposing limits in community attribution.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Fresh actual PDF reading of printed 105–109 (PDF pages 2–6): introduction, Wiikwemkoong speech context, teaching motivation and repeated checking workshops. Official landing page inspected for release date.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "author": "Mary Ann Corbiere (Mary Ann Naokwegijig-Corbiere)",
+        "publicationDate": "2026-05-13",
+        "landingUrl": "https://ojs.library.queensu.ca/index.php/SILS27/article/view/15222",
+        "dateBasis": "Official online release 2026-05-13; volume 27 is dated 2025; adapted from the 2021 workshop. Project-status details are historical to the account.",
+        "perspective": "A speaker and educator’s situated methods account; not a representative survey.",
+        "accessLimits": "Selected text only, not the whole dictionary or a listening review. No language examples or family detail reproduced.",
+        "paginationNote": "Publisher citation gives 104–123; actual 19-page PDF ends at printed 122. No absent page 123 claimed.",
+        "priorSourceId": "an14-l2",
+        "sourceUnitKey": "corbiere-dictionary-trial-and-error-sils27"
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -86588,18 +88549,53 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Extend community-directed history beyond the selected public narrative, including independently contextualized treaty-era documents.",
+      "Read more Wiikwemkoong-authored language and education works; the selected dictionary paper is one speaker’s account.",
+      "Verify later dictionary developments separately; no present speaker totals or complete dictionary review is supplied."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "Two directly relevant works have been read for a bounded starting guide. The selected perspectives and periods leave substantial community history and later developments unreviewed.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Extend community-directed history beyond the selected public narrative, including independently contextualized treaty-era documents.",
+        "Read more Wiikwemkoong-authored language and education works; the selected dictionary paper is one speaker’s account.",
+        "Verify later dictionary developments separately; no present speaker totals or complete dictionary review is supplied."
       ]
     },
+    "overviewSourceIds": [
+      "c05-on-wiik-history-20261027",
+      "c05-on-wiik-corbiere-20261027"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c05-on-wiik-history-20261027",
+          "reason": "Start with the Nation’s own chronology and framing of historical relationships."
+        },
+        {
+          "sourceId": "c05-on-wiik-corbiere-20261027",
+          "reason": "Read an explicitly Wiikwemkoong speaker’s account of how documentation decisions were made."
+        }
+      ],
+      "remainingQuestions": [
+        "Extend community-directed history beyond the selected public narrative, including independently contextualized treaty-era documents.",
+        "Read more Wiikwemkoong-authored language and education works; the selected dictionary paper is one speaker’s account.",
+        "Verify later dictionary developments separately; no present speaker totals or complete dictionary review is supplied."
+      ],
+      "fixedSourceMinimum": null,
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c05-on-wiikwemkoong-bay-2010"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
+    ],
     "slug": "wiikwemkoong-unceded-territory",
     "regionGroups": [
       "Canada"
@@ -87098,26 +89094,83 @@
     "originalId": null,
     "added": true,
     "compiledAt": "2026-10-27",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Reading the community’s own history",
+        "text": "Anderdon’s public history describes movement to Detroit in the early eighteenth century, settlement near Amherstburg and continuing family histories on both sides of the Detroit River. It also describes language and historical-archive work. The page’s account of a project ending in 2025 is retained as a dated report, with its later continuation still to investigate.",
+        "sourceIds": [
+          "c5-anderdon-public-history"
+        ]
+      },
+      {
+        "title": "Land stewardship at Six Points",
+        "text": "The U.S. Fish and Wildlife Service’s 2022 report describes cooperation with the Wyandot community, the International Wildlife Refuge Alliance and local volunteers at Six Points. It reports removing invasive plants to restore more than five acres of wetlands. This specific public conservation activity adds another way into the community’s relationship with place; the report is not a current visitor-access guide.",
+        "sourceIds": [
+          "c5-anderdon-fws-restoration2022"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c5-anderdon-public-history",
+        "title": "History — A Short History of the Wyandot of Anderdon",
+        "publisher": "Wyandot of Anderdon Nation",
+        "url": "https://www.wyandotofanderdon.com/wp/history/",
+        "type": "Community historical synthesis",
+        "topics": [
+          "history",
+          "Detroit River",
+          "community continuity",
+          "cultural renewal"
+        ],
+        "annotation": "The community’s public history follows movements around the Detroit River and describes later efforts in language, history and archives. Read as its situated synthesis rather than a universal Wyandot history.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Entire publicly exposed Short History body read, including expanded paragraphs about the Detroit River, Anderdon Reserve, southeast Michigan and cultural work. No login, citizen-only Facebook page or restricted material accessed; embedded Prezi timelines not inspected. The page anticipates a grant ending in 2025, so that project is not described as currently running. Underlying treaties, family archives and legal claims were not verified.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages."
+      },
+      {
+        "id": "c5-anderdon-fws-restoration2022",
+        "title": "Coastal Program 2022 Accomplishment Report — Supporting Tribal Communities: Michigan",
+        "publisher": "U.S. Fish and Wildlife Service",
+        "url": "https://www.fws.gov/sites/default/files/documents/2022_Annual_Accomplishment_Report_%28reduced%29-508-Compliant-2023-03-17_2.pdf",
+        "type": "Federal conservation activity report",
+        "topics": [
+          "land stewardship",
+          "wetland restoration",
+          "community partnership"
+        ],
+        "annotation": "A concrete account of wetland restoration at the Six Points Wyandot Tribal Heritage Site, identifying the Wyandot community and its collaborators. It complements the community history with a dated activity record.",
+        "contentReviewedAt": "2026-10-27",
+        "contentReviewScope": "Physical PDF page 11, a spread printed 19-20, full Michigan/Six Points body and image caption read as extracted text and rendered pixels. Regional headline statistics were not attributed to this site. Other projects and later outcomes were not reviewed.",
+        "accessed": "2026-10-27",
+        "countsTowardMinimum": true,
+        "access": "Public full text; no account or subscription used. Inspection is limited to the stated body/pages.",
+        "author": "U.S. Fish and Wildlife Service",
+        "publicationDate": "2022"
+      }
+    ],
     "searchTerms": [],
     "relatedOriginalIds": [],
     "identityVerifiedAt": "2026-10-27",
     "researchGaps": [
-      "Develop an annotated community-specific history and selected reading path.",
-      "Review individually relevant imagery and media-specific reuse terms before substantive profile publication.",
-      "Review names, relationships and historical connections in further community sources."
+      "Compare the public synthesis with the underlying dated records and additional publicly shared Anderdon voices; the embedded historical timelines remain unreviewed.",
+      "Check later cultural-project publications and documented restoration monitoring before describing present operation or outcomes. Respect restrictions on citizens’ and ceremonial material.",
+      "The community’s nonprofit description, its elected council, federal acknowledgment and wider Wyandot peoplehood remain distinct matters. No status, individual descent, land-rights conclusion or community endorsement is supplied."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive reading collection or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-27",
+      "rationale": "A bounded starting path now uses inspected public content, with scope and access limits recorded. This is not comprehensive research or community review.",
       "remainingLimits": [
-        "History, reading sources, community review and cleared imagery remain queued."
+        "Compare the public synthesis with the underlying dated records and additional publicly shared Anderdon voices; the embedded historical timelines remain unreviewed.",
+        "Check later cultural-project publications and documented restoration monitoring before describing present operation or outcomes. Respect restrictions on citizens’ and ceremonial material.",
+        "The community’s nonprofit description, its elected council, federal acknowledgment and wider Wyandot peoplehood remain distinct matters. No status, individual descent, land-rights conclusion or community endorsement is supplied."
       ]
     },
     "name": "Wyandot of Anderdon Nation",
@@ -87128,7 +89181,7 @@
       "wyandot",
       "huronwendat"
     ],
-    "overview": "Wyandot of Anderdon Nation has an individually findable directory outline. Detailed history, an annotated reading path and community-specific imagery remain queued.",
+    "overview": "The Wyandot of Anderdon’s public history follows families around the Detroit River region. A federal conservation report documents collaborative work at Six Points.",
     "identificationEvidence": [
       {
         "url": "https://www.wyandotofanderdon.com/wp/",
@@ -87157,6 +89210,39 @@
         "identityOnly": true,
         "countsTowardMinimum": false
       }
+    ],
+    "overviewSourceIds": [
+      "c5-anderdon-public-history",
+      "c5-anderdon-fws-restoration2022"
+    ],
+    "communityReview": "Not recorded",
+    "reviewedAt": "2026-10-27",
+    "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
+    "startingGuide": {
+      "sources": [
+        {
+          "sourceId": "c5-anderdon-public-history",
+          "reason": "Begin with the community’s public historical narrative and its own emphasis on continuity."
+        },
+        {
+          "sourceId": "c5-anderdon-fws-restoration2022",
+          "reason": "Add the specific dated report of ecological work with named partners at Six Points."
+        }
+      ],
+      "fixedSourceMinimum": null,
+      "remainingQuestions": [
+        "Compare the public synthesis with the underlying dated records and additional publicly shared Anderdon voices; the embedded historical timelines remain unreviewed.",
+        "Check later cultural-project publications and documented restoration monitoring before describing present operation or outcomes. Respect restrictions on citizens’ and ceremonial material.",
+        "The community’s nonprofit description, its elected council, federal acknowledgment and wider Wyandot peoplehood remain distinct matters. No status, individual descent, land-rights conclusion or community endorsement is supplied."
+      ],
+      "batchId": "starter-guides-05",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "reviewedAt": "2026-10-27",
+      "imageRecordId": "c5-anderdon-six-points-restoration-usfws"
+    },
+    "evidenceNotes": [
+      "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
     ],
     "slug": "wyandot-of-anderdon-nation",
     "regionGroups": [],

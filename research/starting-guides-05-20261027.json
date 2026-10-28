@@ -1,0 +1,392 @@
+{
+  "batchId": "starter-guides-05",
+  "reviewedAt": "2026-10-27",
+  "baselineSourceCommit": "a7fe3ecd90db9f9fc53f4480159aec87be70b7d1",
+  "profiles": [
+    {
+      "name": "Blackfoot",
+      "slug": "blackfoot",
+      "selectedSourceIds": [
+        "b05-blackfoot-siksika-stories-20261027"
+      ],
+      "addedSourceIds": [
+        "b05-blackfoot-siksika-stories-20261027",
+        "b05-blackfoot-mission-history-20261027",
+        "b05-blackfoot-constituents-20261027"
+      ],
+      "retainedOriginalSources": 1,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "blackfoot-aamskapi-pikuni-conservation-nrcs-2012"
+    },
+    {
+      "name": "Dakota",
+      "slug": "dakota",
+      "selectedSourceIds": [
+        "p95-s14",
+        "d95-h1",
+        "d95-h2",
+        "p95-s5"
+      ],
+      "addedSourceIds": [],
+      "retainedOriginalSources": 21,
+      "retainedSubstantiveSections": 12,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "dakota-santee-lower-sioux-agency-mcghiever-2012"
+    },
+    {
+      "name": "Lenape",
+      "slug": "lenape",
+      "selectedSourceIds": [
+        "p182-s2",
+        "p182-talking-dictionary",
+        "p182-fort-pitt-1778",
+        "p182-jennings-walking-purchase"
+      ],
+      "addedSourceIds": [],
+      "retainedOriginalSources": 8,
+      "retainedSubstantiveSections": 9,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "lenape-bodasin-catlin-1830"
+    },
+    {
+      "name": "Nez Perce (Nimiipuu)",
+      "slug": "nez-perce-nimiipuu",
+      "selectedSourceIds": [
+        "b05-nimiipuu-wallowa-history-20261027",
+        "b05-nimiipuu-treaty-period-20261027"
+      ],
+      "addedSourceIds": [
+        "b05-nimiipuu-wallowa-history-20261027",
+        "b05-nimiipuu-treaty-period-20261027"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "nimiipuu-spalding-public-interpretation-nps"
+    },
+    {
+      "name": "Northern Paiute",
+      "slug": "northern-paiute",
+      "selectedSourceIds": [
+        "b05-northern-paiute-duck-valley-reviewed-20261023",
+        "b05-northern-paiute-texts-intro-reviewed-20261024",
+        "b05-northern-paiute-cla-reviewed-20261024"
+      ],
+      "addedSourceIds": [
+        "b05-northern-paiute-cla-reviewed-20261024",
+        "b05-northern-paiute-texts-intro-reviewed-20261024",
+        "b05-northern-paiute-duck-valley-reviewed-20261023"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "paiute-northern-duck-valley-greenhouses-hedrick-2015"
+    },
+    {
+      "name": "Paiute",
+      "slug": "paiute",
+      "selectedSourceIds": [
+        "b05-paiute-sanjuan-history-20261027",
+        "b05-paiute-duck-valley-reviewed-20261023",
+        "b05-paiute-northern-language-reviewed-20261024"
+      ],
+      "addedSourceIds": [
+        "b05-paiute-northern-language-reviewed-20261024",
+        "b05-paiute-duck-valley-reviewed-20261023",
+        "b05-paiute-sanjuan-history-20261027"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "paiute-northern-duck-valley-greenhouses-hedrick-2015"
+    },
+    {
+      "name": "Santee Dakota",
+      "slug": "santee-dakota",
+      "selectedSourceIds": [
+        "b05-santee-nicc-history-20261027",
+        "b05-santee-flandreau-history-20261027",
+        "d95-c1"
+      ],
+      "addedSourceIds": [
+        "b05-santee-nicc-history-20261027",
+        "b05-santee-flandreau-history-20261027",
+        "d95-c1"
+      ],
+      "retainedOriginalSources": 3,
+      "retainedSubstantiveSections": 2,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "dakota-santee-lower-sioux-agency-mcghiever-2012"
+    },
+    {
+      "name": "Oneida Nation",
+      "slug": "oneida-nation",
+      "selectedSourceIds": [
+        "c5-oneida-wisconsin-timeline",
+        "c5-oneida-mclester-documents2018"
+      ],
+      "addedSourceIds": [
+        "c5-oneida-wisconsin-timeline",
+        "c5-oneida-mclester-documents2018"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c5-oneida-milmoe-usfws-partnership"
+    },
+    {
+      "name": "Stockbridge-Munsee Band of Mohican Indians",
+      "slug": "stockbridgemunsee-band-of-mohican-indians",
+      "selectedSourceIds": [
+        "c5-stockbridge-davids-history2017",
+        "c5-stockbridge-library-museum",
+        "c5-stockbridge-mohican-miles2021"
+      ],
+      "addedSourceIds": [
+        "c5-stockbridge-davids-history2017",
+        "c5-stockbridge-library-museum",
+        "c5-stockbridge-mohican-miles2021"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c5-stockbridge-mission-house-daderot2017"
+    },
+    {
+      "name": "Ojibways of Garden River First Nation",
+      "slug": "ojibways-of-garden-river-first-nation",
+      "selectedSourceIds": [
+        "c05-on-garden-srsc-20261027",
+        "c05-on-garden-corbiere-2003-20261027"
+      ],
+      "addedSourceIds": [
+        "c05-on-garden-srsc-20261027",
+        "c05-on-garden-corbiere-2003-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c05-on-garden-river-bridge-2005"
+    },
+    {
+      "name": "Wiikwemkoong Unceded Territory",
+      "slug": "wiikwemkoong-unceded-territory",
+      "selectedSourceIds": [
+        "c05-on-wiik-history-20261027",
+        "c05-on-wiik-corbiere-20261027"
+      ],
+      "addedSourceIds": [
+        "c05-on-wiik-history-20261027",
+        "c05-on-wiik-corbiere-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c05-on-wiikwemkoong-bay-2010"
+    },
+    {
+      "name": "Aamjiwnaang First Nation",
+      "slug": "aamjiwnaang-first-nation",
+      "selectedSourceIds": [
+        "c05-on-aam-history-20261027",
+        "c05-on-aam-greenhouse-2015-20261027"
+      ],
+      "addedSourceIds": [
+        "c05-on-aam-history-20261027",
+        "c05-on-aam-greenhouse-2015-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c05-on-aam-stclair-regional-2012"
+    },
+    {
+      "name": "Chippewas of Kettle & Stony Point First Nation",
+      "slug": "chippewas-of-kettle-stony-point-first-nation",
+      "selectedSourceIds": [
+        "c05-on-kettle-radio-20261027",
+        "c05-on-kettle-george-2024-20261027"
+      ],
+      "addedSourceIds": [
+        "c05-on-kettle-radio-20261027",
+        "c05-on-kettle-george-2024-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c05-on-kettle-point-aerial-2013"
+    },
+    {
+      "name": "Chippewas of the Thames First Nation",
+      "slug": "chippewas-of-the-thames-first-nation",
+      "selectedSourceIds": [
+        "c05-on-thames-history-20261027",
+        "c05-on-thames-dzcib-2021-20261027"
+      ],
+      "addedSourceIds": [
+        "c05-on-thames-history-20261027",
+        "c05-on-thames-dzcib-2021-20261027"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c05-on-thames-henry-climate-2015"
+    },
+    {
+      "name": "Penateka",
+      "slug": "penateka",
+      "selectedSourceIds": [
+        "p83-txdot2021",
+        "c5-penateka-buffalo-hump"
+      ],
+      "addedSourceIds": [
+        "p83-txdot2021",
+        "c5-penateka-buffalo-hump"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p83-txdot2021",
+          "sourceProfile": "comanche",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact earlier actual-content source object reused with original date and scope. Selected band-structure pages9–10 reread locally; this does not create another globally new work."
+        }
+      ],
+      "imageRecordId": "penateka-tosawa-soule-cabinet-card-1870s"
+    },
+    {
+      "name": "Nokoni",
+      "slug": "nokoni",
+      "selectedSourceIds": [
+        "p83-txdot2021",
+        "c5-nokoni-canadian-river"
+      ],
+      "addedSourceIds": [
+        "p83-txdot2021",
+        "c5-nokoni-canadian-river"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p83-txdot2021",
+          "sourceProfile": "comanche",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact earlier actual-content source object reused with original date and scope. Selected band-structure pages9–10 reread locally; this does not create another globally new work."
+        }
+      ],
+      "imageRecordId": "nokoni-horseback-record-soule-nara-533053"
+    },
+    {
+      "name": "Quahadi",
+      "slug": "quahadi",
+      "selectedSourceIds": [
+        "p83-txdot2021",
+        "c5-quahadi-quanah"
+      ],
+      "addedSourceIds": [
+        "p83-txdot2021",
+        "c5-quahadi-quanah"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [
+        {
+          "sourceId": "p83-txdot2021",
+          "sourceProfile": "comanche",
+          "originalContentReviewedAt": "2026-10-26",
+          "originalContentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+          "sourceObjectPreserved": true,
+          "inspectionBasis": "Exact earlier actual-content source object reused with original date and scope. Selected band-structure pages9–10 reread locally; this does not create another globally new work."
+        }
+      ],
+      "imageRecordId": "quahadi-quanah-parker-albumen-portrait-c1890"
+    },
+    {
+      "name": "Burt Lake Band of Ottawa and Chippewa Indians",
+      "slug": "burt-lake-band-of-ottawa-and-chippewa-indians",
+      "selectedSourceIds": [
+        "c5-burt-after-burnout",
+        "c5-burt-traditional-foods"
+      ],
+      "addedSourceIds": [
+        "c5-burt-after-burnout",
+        "c5-burt-traditional-foods"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c5-burt-lake-notorious4life2019"
+    },
+    {
+      "name": "Grand River Bands of Ottawa Indians",
+      "slug": "grand-river-bands-of-ottawa-indians",
+      "selectedSourceIds": [
+        "c5-grand-river-story-mission",
+        "c5-grand-river-museum2021"
+      ],
+      "addedSourceIds": [
+        "c5-grand-river-story-mission",
+        "c5-grand-river-museum2021"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c5-grand-river-museum-eisenschenk2012"
+    },
+    {
+      "name": "Wyandot of Anderdon Nation",
+      "slug": "wyandot-of-anderdon-nation",
+      "selectedSourceIds": [
+        "c5-anderdon-public-history",
+        "c5-anderdon-fws-restoration2022"
+      ],
+      "addedSourceIds": [
+        "c5-anderdon-public-history",
+        "c5-anderdon-fws-restoration2022"
+      ],
+      "retainedOriginalSources": 0,
+      "retainedSubstantiveSections": 0,
+      "sourceReuseProvenance": [],
+      "imageRecordId": "c5-anderdon-six-points-restoration-usfws"
+    }
+  ],
+  "sourceContextsAdded": 41,
+  "selectedReadingRoutes": 47,
+  "newImageRecordIds": [
+    "penateka-tosawa-soule-cabinet-card-1870s",
+    "nokoni-horseback-record-soule-nara-533053",
+    "quahadi-quanah-parker-albumen-portrait-c1890",
+    "c5-burt-lake-notorious4life2019",
+    "c5-grand-river-museum-eisenschenk2012",
+    "c5-anderdon-six-points-restoration-usfws",
+    "c5-oneida-milmoe-usfws-partnership",
+    "c5-stockbridge-mission-house-daderot2017",
+    "c05-on-wiikwemkoong-bay-2010",
+    "c05-on-garden-river-bridge-2005",
+    "c05-on-kettle-point-aerial-2013",
+    "c05-on-thames-henry-climate-2015",
+    "c05-on-aam-stclair-regional-2012",
+    "nimiipuu-spalding-public-interpretation-nps",
+    "paiute-northern-duck-valley-greenhouses-hedrick-2015",
+    "dakota-santee-lower-sioux-agency-mcghiever-2012",
+    "blackfoot-aamskapi-pikuni-conservation-nrcs-2012"
+  ],
+  "addedNameOnlyOutlines": [
+    "hanitaibo",
+    "wianv"
+  ],
+  "preservation": {
+    "unrelatedRawProfilesObjectEqual": 857,
+    "allOriginalSourcesRetained": true,
+    "allOriginalSubstantiveSectionsRetained": true,
+    "allOriginalIdentityEvidenceRetained": true,
+    "allOriginalImagesRetained": true
+  }
+}
