@@ -14807,14 +14807,100 @@
     "compiledAt": "2026-10-29",
     "kind": "Local village community / Garifuna context",
     "region": "Caribbean / Belize — named local community context",
-    "overview": "A name-only outline for Barranco, Belize, with a specifically documented Garifuna community connection. Detailed local history, annotated reading and imagery remain queued.",
+    "overview": "Barranco’s local Garifuna history is documented through community archives, changing livelihoods and public heritage education. These sources provide different starting perspectives while leaving family histories, land records and current conditions open for further study.",
     "relationshipNote": "A separately findable local village reading route for the Garifuna community context of Barranco, Belize. The place includes a wider local population; this is not a claim that every resident is Garifuna or that this is a separate Indigenous nation or government.",
-    "entryStage": "name-only-outline",
-    "researchStatus": "queued",
-    "coverageLevel": "identity-only-queued",
+    "entryStage": "reviewed-starting-guide",
+    "researchStatus": "source-guide",
+    "coverageLevel": "cited-starting-guide",
     "researchComplete": false,
-    "sources": [],
-    "sections": [],
+    "sources": [
+      {
+        "id": "c14-barranco-palacio2009",
+        "title": "House lot tenure in Barranco, Southern Belize. Opening the family chest",
+        "url": "https://www.scielo.org.mx/scielo.php?pid=S1870-41152009000200005&script=sci_arttext",
+        "publisher": "Revista Pueblos y Fronteras Digital / SciELO México",
+        "type": "Academic / local ethnohistorical research",
+        "topics": [
+          "Community history",
+          "Archives",
+          "Research methods"
+        ],
+        "annotation": "Joseph O. Palacio shows how preserved household records can illuminate Barranco’s history beyond official archives. Selected introduction and methods distinguish public administrative records from private correspondence.",
+        "accessed": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual normalHTTP200 article body: abstract, INTRODUCTION, RESEARCH METHODS and selected THE COMPILER AND THE CONTEXT paragraphs read. This is substantial selected content, not just an abstract.",
+        "accessNotes": "Not a current land-title opinion or complete family genealogy. Later lot tables/appendices, original receipts, private letters, full kinship datasets and underlying archives not independently reviewed or reproduced. No plot-specific ownership or sensitive site details published.",
+        "sourcePerspective": "Barranco-based anthropologist’s account of local archival research, method and interpretation; a selected scholarly study, not every family’s history.",
+        "contentReviewedAt": "2026-10-29",
+        "publicationDate": "2009",
+        "author": "Joseph O. Palacio"
+      },
+      {
+        "id": "c14-barranco-satiim2013",
+        "title": "Barranco — dated community and livelihood account",
+        "url": "https://www.satiim.org.bz/barranco/",
+        "publisher": "Sarstoon Temash Institute for Indigenous Management (SATIIM)",
+        "type": "Indigenous-led organization / dated community account",
+        "topics": [
+          "Community history",
+          "Livelihoods",
+          "Migration"
+        ],
+        "annotation": "SATIIM’s September12,2013 account relates migration, remittances, farming, fishing and access to Punta Gorda to Barranco’s development circumstances. Read as a dated organizational snapshot.",
+        "accessed": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual complete main 2013 body read in web reader and normalHTTP200 HTML. Source-specific dated livelihood and access paragraphs selected for synthesis.",
+        "accessNotes": "Old population figures, current service/travel schedules, land tenure/ownership assertions and proposed outcomes not adopted. The linked map/photo was not inspected for rights or reproduced.",
+        "sourcePerspective": "Indigenous-led regional organization’s public village account, with its institutional/development perspective.",
+        "contentReviewedAt": "2026-10-29",
+        "publicationDate": "2013-09-12",
+        "author": "SATIIM"
+      },
+      {
+        "id": "c14-barranco-heritage2020",
+        "title": "Barranco House of Culture — community voice in a four-museum feature",
+        "url": "https://www.heritagebelize.org/blog/4-garifuna-museums-you-need-to-visit-in-belize",
+        "publisher": "Heritage Education Network Belize",
+        "type": "Community heritage education / attributed interview",
+        "topics": [
+          "Museums",
+          "Education",
+          "Public history"
+        ],
+        "annotation": "The November12,2020 feature includes a substantive Barranco Resource Center section and a statement attributed to Dr Alberita Enriquez about its purpose and village history. It is an accessible local educational starting point.",
+        "accessed": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected Barranco HouseofCulture section, attributed DrAlberitaEnriquez quotation and article date read from normalHTTP200 body/web reader. Other museum sections are not counted as local Barranco works.",
+        "accessNotes": "No current opening hours, private family address/tenure verification or image permission. Exhibit photographs expressly credited to Enriquez/HouseofCulture were not copied; linked Facebook pages/media unreviewed.",
+        "sourcePerspective": "Heritage education organization relays a named community curator’s account, not a universal view of all Garinagu.",
+        "contentReviewedAt": "2026-10-29",
+        "publicationDate": "2020-11-12",
+        "author": "Heritage Education Network Belize; statement attributed to Dr Alberita Enriquez"
+      }
+    ],
+    "sections": [
+      {
+        "title": "What family archives can reveal",
+        "text": "Joseph O. Palacio’s 2009 article explains how preserved administrative papers can add village-level detail missing from large public archives. His methods discussion distinguishes the records used for research from private correspondence. It offers a way to study local history; this guide does not reproduce family letters, identify present plot owners or resolve land title.",
+        "sourceIds": [
+          "c14-barranco-palacio2009"
+        ]
+      },
+      {
+        "title": "Livelihoods and movement in a dated account",
+        "text": "SATIIM’s 2013 village account describes remittances, commuting, fishing, agriculture and the importance of connections with Punta Gorda. Read these as the organization’s description at a particular time. The old population estimates, services and travel arrangements should not be treated as present-day facts.",
+        "sourceIds": [
+          "c14-barranco-satiim2013"
+        ]
+      },
+      {
+        "title": "A place for public learning",
+        "text": "A 2020 Heritage Education Network feature includes a statement attributed to Dr Alberita Enriquez about the Barranco House of Culture’s purpose. It describes a resource center for learning about village history and cultural materials. This public educational account is a starting point for community perspectives, not permission to reproduce exhibits or private cultural knowledge.",
+        "sourceIds": [
+          "c14-barranco-heritage2020"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-10-29",
     "identificationEvidence": [
       {
@@ -14851,17 +14937,30 @@
     ],
     "researchGaps": [
       "Develop local and community-authored history with actual-content inspected sources.",
-      "Verify individually relevant imagery and reuse before substantive guide publication.",
-      "Clarify local institutions and distinctions among the municipality, Garifuna community and any named organizations; do not infer ethnicity from residence."
+      "Clarify local institutions and distinctions among the municipality, Garifuna community and any named organizations; do not infer ethnicity from residence.",
+      "Add further community-authored local histories and review interpretations with publicly available community sources.",
+      "Named place and municipal institutions are not evidence that all residents are Garifuna or that the route is another people/government.",
+      "Dated descriptions, project announcements and samples do not establish present populations, language ability, land ownership or programme outcomes.",
+      "An earlier Barranco village-sign candidate returned HTTP429 and remains deferred with its underlying artwork uninspected. A separately cleared Andy Palacio performance portrait now supplies a narrowly documented Barranco-born person connection, not a village scene."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only outline; naming and place/context checks are not substantive history-source reviews.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
       "remainingLimits": [
-        "History, source guide, imagery and community review remain open."
+        "Develop local and community-authored history with actual-content inspected sources.",
+        "Clarify local institutions and distinctions among the municipality, Garifuna community and any named organizations; do not infer ethnicity from residence.",
+        "Add further community-authored local histories and review interpretations with publicly available community sources.",
+        "Named place and municipal institutions are not evidence that all residents are Garifuna or that the route is another people/government.",
+        "Dated descriptions, project announcements and samples do not establish present populations, language ability, land ownership or programme outcomes.",
+        "An earlier Barranco village-sign candidate returned HTTP429 and remains deferred with its underlying artwork uninspected. A separately cleared Andy Palacio performance portrait now supplies a narrowly documented Barranco-born person connection, not a village scene."
       ]
     },
+    "overviewSourceIds": [
+      "c14-barranco-palacio2009",
+      "c14-barranco-satiim2013"
+    ],
+    "reviewedAt": "2026-10-29",
     "slug": "barranco-belize",
     "regionGroups": [
       "Central America",
@@ -32303,7 +32402,8 @@
         "sourcePerspective": "Garifuna author’s historical synthesis and advocacy; NICH hosting does not make every interpretation a government determination.",
         "contentReviewedAt": "2026-10-29",
         "publicationDate": "2024 edition",
-        "author": "I. Myrtle Palacio"
+        "author": "I. Myrtle Palacio",
+        "indigenousLed": true
       },
       {
         "id": "c14-dangriga-gulisi2004",
@@ -43624,7 +43724,7 @@
     "name": "Itza Maya",
     "region": "Petén, Guatemala",
     "kind": "Maya people",
-    "overview": "The Itza’ linguistic community’s institutional home is San José, Petén, within the contemporary Maya world of northern Guatemala.",
+    "overview": "Itza’ Maya language and community work in San José, Petén, is documented through educational publications and named collaborations. Read the community’s own teaching materials alongside an older linguistic report, keeping contemporary identity distinct from language fluency and historical kingdoms.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -43646,36 +43746,105 @@
         "sourceIds": [
           "p146-s2"
         ]
+      },
+      {
+        "title": "Community-produced teaching materials",
+        "text": "The 2022 ALMG book identifies the Itza’ linguistic community in San José and explains its aim of strengthening children’s learning. Its teacher introduction discusses Itza’ as a second language for pupils whose first language is Spanish. That context shows why language use cannot function as a simple test of community identity.",
+        "sourceIds": [
+          "p146-s1"
+        ]
+      },
+      {
+        "title": "A named language collaborator",
+        "text": "Hofling’s report credits Félix Fernando Tesucún’s contributions to documentation and explains his decision to study one speaker’s language in depth. The publicly linked report supplies selected front matter, not the entire published grammar. Its1998 research conditions and historical speaker estimates are not current counts.",
+        "sourceIds": [
+          "c14-itza-hofling"
+        ]
+      },
+      {
+        "title": "A dated teacher-training account",
+        "text": "San José’s October2026 municipal report describes a two-year training programme involving teachers from San José and San Andrés, ALMG’s Itza’ linguistic community and education authorities. This is a reported educational activity; its stated hopes do not establish measured learning outcomes.",
+        "sourceIds": [
+          "p146-s2"
+        ]
       }
     ],
     "sources": [
       {
         "id": "p146-s1",
+        "title": "Xokalil Maya Itza’ / Literatura Maya Itza’, 2022 — selected educational introduction",
         "url": "https://www.sicultura.gob.gt/wp-content/uploads/2023/02/LiteraturaMayaItza2022.pdf",
-        "title": "Literatura Maya Itza’ 2022",
-        "publisher": "Academia de las Lenguas Mayas de Guatemala",
-        "type": "Government",
+        "publisher": "Comunidad Lingüística Itza’, ALMG; translator Herbert Marcony Chayax Tesucún",
+        "type": "Indigenous-led",
         "topics": [
-          "Identity",
           "History",
-          "Culture"
+          "Community context",
+          "Education"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "A community-produced bilingual book explains its educational purpose, adaptation and learning with elders.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Normal HTTP200 complete PDF retrieved after web-reader403; actual PDF pages1,3,5–10 title/credits, presentation, community-president letter and teacher-methodology introduction read.",
+        "accessNotes": "Selected educational front matter only; narrative stories, illustrations and ritual content not reproduced or claimed inspected. The Ministry letter refers to a vocabulary title inconsistent with this book’s cover; the cover/community credits determine this citation. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Comunidad Lingüística Itza’, ALMG; translator Herbert Marcony Chayax Tesucún publication; interpretation and project descriptions remain attributed."
       },
       {
         "id": "p146-s2",
+        "title": "San José and San Andrés teacher-language diploma — municipal report, October12,2026",
         "url": "https://munisanjosepeten.gob.gt/2026/10/12/docentes-de-san-jose-y-san-andres-culminan-diplomado-de-dos-anos-para-el-fortalecimiento-y-rescate-del-idioma-maya-itza/",
-        "title": "Docentes culminan diplomado para el idioma Maya Itzá",
-        "publisher": "Municipalidad de San José",
+        "publisher": "Municipalidad de San José, Petén",
         "type": "Government",
         "topics": [
-          "Identity",
           "History",
-          "Culture"
+          "Community context",
+          "Education"
         ],
-        "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "annotation": "A dated municipal report describes a two-year teacher-training collaboration with the Itza’ linguistic community and education authorities.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual article body: venue, teachers, coordinating institutions and declared language-teaching purpose. Normal HTTP200 body retained.",
+        "accessNotes": "Programme completion is reported by the municipality; its optimistic claims are not independent evidence of learning outcomes or universal revitalization. Photographs not licensed or reproduced. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Municipalidad de San José, Petén publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-itza-hofling",
+        "title": "Documentación Maya Itzá — selected report and grammar preface",
+        "url": "https://www.famsi.org/reports/97026es/97026esHofling01.pdf",
+        "publisher": "Charles Andrew Hofling; FAMSI, Spanish translation Alex Lomónaco",
+        "type": "Academic / reference",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "The report credits Félix Fernando Tesucún’s collaboration and explains the limits of documenting an individual speaker’s language.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual PDF pages1–2 project summary/publication limitation and pages7–9 preface and acknowledgments, read from normal HTTP200 PDF.",
+        "accessNotes": "The report describes1998 work and a2000 grammar; the full grammar is expressly not included. Historical speaker totals are not current figures. No narratives, recordings or individual-speaker description generalized to all Itza’ people. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Charles Andrew Hofling; FAMSI, Spanish translation Alex Lomónaco publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-itza-bio",
+        "title": "Asociación Bio-Itzá — brief Equator Initiative record (supporting)",
+        "url": "https://www.equatorinitiative.org/2017/05/26/asociacion-bio-itza-bio-itza-association/",
+        "publisher": "UNDP Equator Initiative",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "The prize record identifies an Itza’ organization based in San José and describes conservation and education priorities.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual indexed main paragraphs and dated prize/year labels.",
+        "accessNotes": "Direct403 stopped; brief institutional award record excluded from substantive count. Old family/area figures and present leadership not adopted; linked case study not retrieved. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "UNDP Equator Initiative publication; interpretation and project descriptions remain attributed."
       }
     ],
     "relatedOriginalIds": [
@@ -43683,6 +43852,27 @@
     ],
     "researchStatus": "source-guide",
     "originalId": 146,
+    "overviewSourceIds": [
+      "p146-s1",
+      "c14-itza-hofling"
+    ],
+    "researchGaps": [
+      "Add independently corroborated histories of Noj Petén, colonial change and present communities.",
+      "Seek fuller Itza’-authored publications and outcomes evidence for language programmes."
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "researchComplete": false,
+    "reviewedAt": "2026-10-29",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
+      "remainingLimits": [
+        "Add independently corroborated histories of Noj Petén, colonial change and present communities.",
+        "Seek fuller Itza’-authored publications and outcomes evidence for language programmes."
+      ]
+    },
     "added": false,
     "slug": "itza-maya",
     "regionGroups": [
@@ -56153,14 +56343,94 @@
     "compiledAt": "2026-10-28",
     "kind": "Historical people / reading label",
     "region": "Caribbean / Bahamian archipelago — historical context",
-    "overview": "Lucayan is a historical reading label for Indigenous peoples of the Bahamian archipelago. The museum’s regional terminology and its relationship to broader Taíno history require careful contextual reading; full research remains queued.",
+    "overview": "Lucayan is a historical reading label for Indigenous communities of the Bahamian archipelago, including the Bahamas and Turks and Caicos. Museum interpretation and ceramic research introduce island settlement, skilled material production and exchange without determining anyone’s present ancestry or identity.",
     "relationshipNote": "The Turks and Caicos National Museum relates Lucayans to Taíno within a changing historical regional classification. This outline is a historical reading route, not a present government, a claim of disappearance or a determination of anyone’s current identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A historical regional label",
+        "text": "The Turks and Caicos museum relates the Lucayan label to wider Taíno histories and discusses alternative settlement interpretations. Its account of Spanish enslavement provides colonial context. Its outdated disappearance and technological-ranking language is not adopted; a historical name is not a verdict on living descendants.",
+        "sourceIds": [
+          "c14-lucayan-museum"
+        ]
+      },
+      {
+        "title": "Making pottery on limestone islands",
+        "text": "Florida Museum researchers describe red Palmetto Ware with burned conch-shell inclusions and investigate how potters worked with limited local clay. Their experiments help explain material choices; they do not recreate an individual historical potter’s own explanation.",
+        "sourceIds": [
+          "c14-lucayan-palmetto"
+        ]
+      },
+      {
+        "title": "Exchange and the limits of archaeological samples",
+        "text": "The 2022 pottery study distinguishes locally made vessels from imports associated with the Greater Antilles. Its authors caution that differences between household floors, refuse deposits and periods affect comparisons. Their exchange model is a research interpretation built from incomplete samples.",
+        "sourceIds": [
+          "c14-lucayan-pottery-networks"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c14-lucayan-museum",
+        "title": "Lucayans — selected regional museum history",
+        "url": "https://www.tcmuseum.org/culture-history/lucayans/",
+        "publisher": "Turks and Caicos National Museum",
+        "type": "Museum / archive",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "Regional interpretation introduces the Lucayan label, archaeological evidence, island networks and colonial enslavement.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual Lucayan History and Archaeology of the Lucayans in the Caicos Islands body, especially naming, settlement interpretation and paddle-conservation account. Normal HTTP200 also retained.",
+        "accessNotes": "The page contains outdated technological-superiority, simplified origins and extinction wording; these are not adopted. Competing settlement models and approximate dates remain attributed. No present ancestry judgment, current government claim or restricted object reproduction. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Turks and Caicos National Museum publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-lucayan-palmetto",
+        "title": "Clear as mud: The origins of early pottery in the Lucayan Islands",
+        "url": "https://www.floridamuseum.ufl.edu/science/clear-as-mud-the-origins-of-early-pottery-in-the-lucayan-islands/",
+        "publisher": "Florida Museum of Natural History",
+        "type": "Museum / archive",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "Researchers explain Palmetto Ware and experiments with scarce clay and crushed conch-shell temper.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual article paragraphs on local raw materials, red shell-tempered Palmetto Ware, clay testing and Greater Antillean comparisons; reader lines 55–76. Normal HTTP200 body retained.",
+        "accessNotes": "Experimental inference is distinguished from direct observation of historical potters. Differing arrival-date summaries are not combined into an exact chronology. Article photographs remain unlicensed for reproduction here. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Florida Museum of Natural History publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-lucayan-pottery-networks",
+        "title": "The Distribution of Nonlocal Pottery in Lucayan Archaeological Sites, Bahama Archipelago (2022)",
+        "url": "https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/44/2022/10/JCA-imports-final.pdf",
+        "publisher": "William F. Keegan, Lindsay C. Bloch, Emily C. Kracht and Michael P. Pateman; Journal of Caribbean Archaeology 22",
+        "type": "Academic / reference",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "A research study compares local and imported ceramics and explains how find context and small samples limit interpretations of exchange.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual 16-page PDF: selected printed pages 1–4, abstract, introduction and cultural-background opening; printed page 13 discussion/conclusions on context-sensitive counts and exchange. Normal HTTP200 PDF retained.",
+        "accessNotes": "Selected sections, not all tables, excavation records, cited genetic studies or 16-page close reading. Identity/ancestry is not inferred from ceramic or genetic classifications; no sensitive sites or remains reproduced. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "William F. Keegan, Lindsay C. Bloch, Emily C. Kracht and Michael P. Pateman; Journal of Caribbean Archaeology 22 publication; interpretation and project descriptions remain attributed."
+      }
+    ],
     "identityVerifiedAt": "2026-10-28",
     "identificationEvidence": [
       {
@@ -56186,17 +56456,28 @@
     "researchGaps": [
       "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
       "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
-      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement.",
+      "Add Indigenous-descendant and locally authored perspectives without presuming a present identity or government.",
+      "Compare settlement chronology and colonial records with newer scholarship."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
       "remainingLimits": [
-        "History, annotated source bibliography, imagery and community review remain queued."
+        "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+        "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+        "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement.",
+        "Add Indigenous-descendant and locally authored perspectives without presuming a present identity or government.",
+        "Compare settlement chronology and colonial records with newer scholarship."
       ]
     },
     "preferredName": "Lucayans",
+    "overviewSourceIds": [
+      "c14-lucayan-museum",
+      "c14-lucayan-pottery-networks"
+    ],
+    "reviewedAt": "2026-10-29",
     "slug": "lucayan",
     "regionGroups": [
       "Caribbean"
@@ -63408,7 +63689,7 @@
     "name": "Mopan Maya",
     "region": "Central America / Belize / Guatemala",
     "kind": "People / community",
-    "overview": "Mopan Maya communities have homelands in Belize and Guatemala.",
+    "overview": "Mopan Maya communities in Guatemala and Belize have connected but locally distinct histories. A San Luis municipal account and the Julian Cho Society’s biography introduce place, education and organizing; the Toledo court record concerns specifically scoped land-rights litigation.",
     "sections": [
       {
         "title": "Identity and context",
@@ -63423,6 +63704,34 @@
         "sourceIds": [
           "p229-s1",
           "p229-s2"
+        ]
+      },
+      {
+        "title": "San Luis and cross-border histories",
+        "text": "San Luis’s municipal history identifies Mopan communities in southeastern Petén. It attributes a recollection of families seeking refuge in Belize from forced labor. Its chronology is not adopted as the single account of all Mopan migration, and the municipality also includes other peoples.",
+        "sourceIds": [
+          "c14-mopan-sanluis"
+        ]
+      },
+      {
+        "title": "Julian Cho and educational organizing",
+        "text": "The Julian Cho Society identifies Cho as a Mopan Maya educator from San José, Toledo. Its commemorative biography connects teaching with his work in the Toledo Maya Cultural Council and the Maya Atlas. The account is attributed to the organization; speculation about his death is excluded.",
+        "sourceIds": [
+          "c14-mopan-julian"
+        ]
+      },
+      {
+        "title": "A specifically scoped court record",
+        "text": "The 2015 Caribbean Court of Justice judgment identifies Mopan and Q’eqchi’ appellants and reproduces a consent order protecting customary land tenure in Toledo villages. It should be read as a particular legal record, not a boundary map or proof of present implementation everywhere.",
+        "sourceIds": [
+          "c14-belize-ccj-2015"
+        ]
+      },
+      {
+        "title": "Named villages and public craft education",
+        "text": "The Cultural Conservancy’s 2018–2019 House of Weavers account names partner villages and several craft activities. It describes a planned collaborative programme, rather than a uniform Mopan tradition or independently verified income results.",
+        "sourceIds": [
+          "c14-belize-house-weavers"
         ]
       }
     ],
@@ -63439,7 +63748,10 @@
           "Contemporary life"
         ],
         "annotation": "Historical context for this entry. Read “Glottolog 5.3 - Mopan” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Retained legacy reading lead; no substantive actual-content inspection in this bounded pass.",
+        "accessNotes": "Original URL and ID retained. Unread full work, directory or other lead does not fill the substantive target."
       },
       {
         "id": "p229-s2",
@@ -63453,13 +63765,135 @@
           "Contemporary life"
         ],
         "annotation": "Historical context for this entry. Read “1. Description” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Retained legacy reading lead; no substantive actual-content inspection in this bounded pass.",
+        "accessNotes": "Original URL and ID retained. Unread full work, directory or other lead does not fill the substantive target."
+      },
+      {
+        "id": "c14-mopan-sanluis",
+        "title": "Historia del Municipio de San Luis — selected Mopan local history",
+        "url": "https://municipalidaddesanluispeten.laip.gt/index.php/files/807/29-INFORMACION-ADICIONAL/1kwaBdCAvv5PlxOPn6-JHhnFdu7WzytVy/HISTORIA-DEL-MUNICIPIO-DE-SAN-LUIS.pdf",
+        "publisher": "Municipalidad de San Luis, Petén",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "A municipal history connects San Luis with Mopan communities and attributes an account of migration under forced labor.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual four-page PDF, selected pages1–2 history and attributed recollection; page4 final identification of Mopan, Q’eqchi’ and Ladino residents. Normal HTTP200 PDF retained.",
+        "accessNotes": "The document juxtaposes differing foundation/migration chronologies and oral accounts. Exact dates, etymology, population estimates, ceremonial procedures and universal customs not adopted; municipal identity is not the same as a people. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Municipalidad de San Luis, Petén publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-mopan-julian",
+        "title": "Julian Armando Cho — community-organization biography",
+        "url": "https://jcsbelize.org/pages/JCbio.php",
+        "publisher": "Julian Cho Society",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "The Society’s biography follows a named Mopan educator and his work with Maya organizations and land documentation.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual indexed biography: San José/Toledo Mopan identification; education and teaching; TMCC role, organizing and Maya Atlas discussion.",
+        "accessNotes": "Normal direct request406 was stopped; indexed primary body read. Commemorative perspective is attributed. Speculation surrounding Cho’s death, universal representation and current officeholders not adopted. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Julian Cho Society publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-belize-ccj-2015",
+        "title": "Maya Leaders Alliance v Attorney General of Belize — selected judgment and consent order",
+        "url": "https://ccj.org/wp-content/uploads/2021/02/2015-CCJ-15AJ.pdf",
+        "publisher": "Caribbean Court of Justice",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "The court distinguishes the appeal, the parties’ settlement and the constitutional protection of Maya customary land tenure in Toledo.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual PDF pages 2–6, paragraphs 1–9 and consent-order clauses 1–4, read through the web reader.",
+        "accessNotes": "Normal local retrieval failed certificate validation and was stopped; web-reader actual PDF text was inspected. This is the 2015 decision, not verification of present implementation or a title/boundary determination for every Maya person. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "Caribbean Court of Justice publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-belize-house-weavers",
+        "title": "House of Weavers — named-community craft and education project, 2018–2019",
+        "url": "https://www.nativeland.org/house-of-weavers",
+        "publisher": "The Cultural Conservancy",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "A grant account names Q’eqchi’ and Mopan partners and describes six-village work in weaving, basketry, carving and clothing.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual main body: Julian Cho Society/Maya Leaders Alliance partnership, 2018–2019 grant period, six-village project paragraph and named craft activities. Normal HTTP200 body also retained.",
+        "accessNotes": "A dated project proposal/account, not verified outcomes or permission to reproduce its photographs. No craft is assigned to every member of either people. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "The Cultural Conservancy publication; interpretation and project descriptions remain attributed."
+      },
+      {
+        "id": "c14-belize-youth-research",
+        "title": "Youth research training with Q’eqchi’ and Mopan participants, 2023 — supporting project report",
+        "url": "https://www.yorku.ca/dighr/update-training-and-research-for-the-partnership-for-youth-and-planetary-wellbeing-begins-in-belize/",
+        "publisher": "York University, Dahdaleh Institute",
+        "type": "Academic / reference",
+        "topics": [
+          "History",
+          "Community context",
+          "Education"
+        ],
+        "annotation": "A brief university account describes youth learning interviewing and digital-media research with the Julian Cho Society.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual June 20, 2023 page body: two project/training paragraphs and stated research goals read through indexed web content.",
+        "accessNotes": "Local request failed certificate validation and was stopped. Brief programme report excluded from substantive-work count; no outcomes or current programme continuity verified. No linked media, cited underlying works, or additional publications automatically inspected. No outreach or access bypass.",
+        "sourcePerspective": "York University, Dahdaleh Institute publication; interpretation and project descriptions remain attributed."
       }
     ],
     "relatedOriginalIds": [
       202
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "c14-mopan-sanluis",
+      "c14-mopan-julian",
+      "c14-belize-ccj-2015"
+    ],
+    "researchGaps": [
+      "Inspect Mopan-language educational works and community histories on both sides of the border.",
+      "Reconcile migration chronologies with attributed oral histories and primary records.",
+      "Existing Glottolog and Missouri reading leads were not inspected here and do not fill substantive counts."
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "researchComplete": false,
+    "reviewedAt": "2026-10-29",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
+      "remainingLimits": [
+        "Inspect Mopan-language educational works and community histories on both sides of the border.",
+        "Reconcile migration chronologies with attributed oral histories and primary records.",
+        "Existing Glottolog and Missouri reading leads were not inspected here and do not fill substantive counts."
+      ]
+    },
     "added": false,
     "slug": "mopan-maya",
     "regionGroups": [
@@ -63549,14 +63983,98 @@
     "compiledAt": "2026-10-28",
     "kind": "First Peoples community",
     "region": "Caribbean / Trinidad and Tobago — Moruga community context",
-    "overview": "A name-only outline for the Moruga First Peoples, identified in a 2022 Trinidad and Tobago parliamentary report. Detailed history, sources and imagery remain queued.",
+    "overview": "The Moruga First Peoples reading route introduces a community account, selected public-policy representations and an individual oral-history interview. Organizational naming and leadership claims need careful dating and comparison; this guide does not identify one body as the voice of all Indigenous peoples in Trinidad and Tobago.",
     "relationshipNote": "The report identifies the Moruga First Peoples and their heritage work in and around Moruga. This verifies a distinct named community route; it does not establish a separate state government, universal ancestry label or present officeholders.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community account from Moruga",
+        "text": "The First Peoples Sovereign Nation website traces its organization to Moruga families and describes an expanding network of relationships. Its historical and institutional claims are self-descriptions; the page does not establish authority over every Indigenous community in Trinidad and Tobago.",
+        "sourceIds": [
+          "c14-mo-community"
+        ]
+      },
+      {
+        "title": "Heritage work and support",
+        "text": "Moruga’s2022 submission described heritage-preservation work and asked for additional assistance. The record is a dated account of priorities, not proof of subsequent delivery.",
+        "sourceIds": [
+          "c14-mo-parliament2022"
+        ]
+      },
+      {
+        "title": "One person’s oral-history perspective",
+        "text": "In a published interview excerpt, Eric Lewis discusses collecting local stories. The editor explains that this is only part of a longer conversation. Read it as an attributed individual account; personal beliefs and recollections do not automatically establish historical events or a shared community position.",
+        "sourceIds": [
+          "c14-mo-lewis-interview2024"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c14-mo-community",
+        "title": "Community history — First Peoples Sovereign Nation website",
+        "url": "https://firstpeoplett.com/community",
+        "publisher": "First Peoples Sovereign Nation in Trinidad and Tobago",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Education",
+          "Organizational change"
+        ],
+        "annotation": "A self-published account connects the organization’s origins with Moruga families and describes education, environmental work and wider connections.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual History of the First peoples Sovereign nation body through organizational aims; leaders list inspected only to identify claimed roles. No private ceremonies, genealogies or underlying records read.",
+        "accessNotes": "The community page contains an internally impossible2022-to2012 succession date. A separate leadership page gives2023, and published reporting records contested leadership. No exact succession chronology, sole-representation, genetic-ancestry, pure-descent, universal-Warao, government-recognition or current-office claim is adopted. Website photos marked all rights reserved are not reproduced.",
+        "sourcePerspective": "Organization’s own historical and institutional narrative, not independent validation.",
+        "author": "Organizational author; individual writer unidentified"
+      },
+      {
+        "id": "c14-mo-parliament2022",
+        "title": "Fourth Report: State preservation of First Peoples cultural heritage — selected testimony",
+        "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+        "publisher": "Parliament of Trinidad and Tobago",
+        "type": "Government",
+        "topics": [
+          "Public policy",
+          "Community voices",
+          "Heritage preservation"
+        ],
+        "annotation": "The report preserves Moruga’s request for greater support for heritage initiatives.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Printed/PDF pp18–19 sections3.16 and3.20, plus pp25–26 committee discussion; p10 identity paragraph already reviewed earlier and not recounted as a new work.",
+        "accessNotes": "Selected public body and attributed submissions only, not the entire79-page report or every appendix. A cached normalHTTP200 PDF from the prior identity task was reused for new actual-content reading; today a direct original request returned403 and stopped. Dated testimony, plans and recommendations are not present law, completed transfers, current funding or independently adjudicated facts. No ancestry-purity, exclusive-representation, current-officer or universal-Warao claims adopted.",
+        "sourcePerspective": "Parliamentary inquiry combines committee findings, ministry responses and separately attributed community representations; speakers’ arguments are not court decisions.",
+        "publicationDate": "2022-12"
+      },
+      {
+        "id": "c14-mo-lewis-interview2024",
+        "title": "A Thin Line: An Interview with Eric Lewis — published excerpt",
+        "url": "https://brittmch.substack.com/p/a-thin-line-an-interview-with-eric",
+        "publisher": "a human, being: a journal / Substack",
+        "type": "Reporting / interview",
+        "topics": [
+          "Oral history",
+          "Writing",
+          "Place"
+        ],
+        "annotation": "An edited personal interview excerpt and the interviewer’s account of collecting stories provide one individual perspective from Moruga.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual July29,2024 published excerpt, interviewer’s process/context and Eric Lewis discussion of researching local oral histories; not the full three-hour interview or book.",
+        "accessNotes": "Personal memories, beliefs and supernatural narratives are attributed, not independently verified history. No ceremonial-object details, claims of exclusive leadership, ritual instructions or supernatural events are adopted as facts. Earlier title Prince of Moruga is dated source wording.",
+        "sourcePerspective": "A named interviewer’s selected and edited personal narrative, distinct from a community mandate.",
+        "publicationDate": "2024-07-29",
+        "author": "Britt (page byline: britt and honey)"
+      }
+    ],
     "identityVerifiedAt": "2026-10-28",
     "identificationEvidence": [
       {
@@ -63578,16 +64096,28 @@
     "researchGaps": [
       "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
       "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
-      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement.",
+      "Seek fuller community-authored history and contemporary institutional context.",
+      "The cleared photograph supplies Moruga place context, not a photograph of community members; fuller community-directed history and contemporary institutional context remain open."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
       "remainingLimits": [
-        "History, annotated source bibliography, imagery and community review remain queued."
+        "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+        "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+        "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement.",
+        "Seek fuller community-authored history and contemporary institutional context.",
+        "The cleared photograph supplies Moruga place context, not a photograph of community members; fuller community-directed history and contemporary institutional context remain open."
       ]
     },
+    "overviewSourceIds": [
+      "c14-mo-community",
+      "c14-mo-parliament2022",
+      "c14-mo-lewis-interview2024"
+    ],
+    "reviewedAt": "2026-10-29",
     "slug": "moruga-first-peoples",
     "regionGroups": [
       "Caribbean"
@@ -89299,14 +89829,145 @@
     "compiledAt": "2026-10-28",
     "kind": "First Peoples community organization",
     "region": "Caribbean / Trinidad and Tobago — Arima community-organization context",
-    "overview": "A name-only outline for the Santa Rosa First Peoples Community in Arima, Trinidad. Community-led history, annotated sources and imagery remain queued.",
+    "overview": "Santa Rosa is a named First Peoples community organization in Arima, Trinidad. Its public sources connect heritage work, language learning, education and requests for recognition. This starting guide keeps those particular perspectives distinct from all Indigenous peoples of Trinidad and Tobago.",
     "relationshipNote": "The 2022 parliamentary report identifies this community organization at Arima and attests Santa Rosa Carib Community as its earlier name. It is distinct from California’s Santa Rosa governments; no relationship to those governments is inferred.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "An Arima community and a public historical tradition",
+        "text": "The National Archives’2017 festival board connects the Santa Rosa celebration in Arima with the former mission village and its patron saint. This describes a particular public historical tradition, not every community member’s religion.",
+        "sourceIds": [
+          "c14-sr-natt2017"
+        ]
+      },
+      {
+        "title": "Language learning across generations",
+        "text": "A STAN feature discusses Santa Rosa members’ interest in learning Lokono and Kari’ña, alongside Patois heritage. The undated article presents one perspective; language ability does not establish membership or determine whether a people continues to exist.",
+        "sourceIds": [
+          "c14-sr-language-stan"
+        ]
+      },
+      {
+        "title": "Knowledge shared in education",
+        "text": "UWI’s2016 History Fest account presents Santa Rosa participants as contributors to historical discussion. Its2019 workshop report documents legal-education work involving named community presenters. These are specific collaborations, not measured community-wide outcomes.",
+        "sourceIds": [
+          "c14-sr-historyfest2016",
+          "c14-sr-rights2019"
+        ]
+      },
+      {
+        "title": "Reading requests as requests",
+        "text": "Santa Rosa’s proposal in the2022 parliamentary report asks for action on representation, land, heritage and language. Those requests must remain distinct from completed policies.",
+        "sourceIds": [
+          "c14-sr-parliament2022"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "c14-sr-parliament2022",
+        "title": "Fourth Report: State preservation of First Peoples cultural heritage — selected testimony",
+        "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+        "publisher": "Parliament of Trinidad and Tobago",
+        "type": "Government",
+        "topics": [
+          "Public policy",
+          "Community voices",
+          "Heritage preservation"
+        ],
+        "annotation": "Selected community testimony and its appended policy proposal, with committee responses. Distinguish requests from outcomes.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Printed/PDF pp17–18,24–26; selected opening testimony p45 and land/village discussion pp47–48; AppendixIV pp74–78. Only these selected bodies and community proposal read.",
+        "accessNotes": "Selected public body and attributed submissions only, not the entire79-page report or every appendix. A cached normalHTTP200 PDF from the prior identity task was reused for new actual-content reading; today a direct original request returned403 and stopped. Dated testimony, plans and recommendations are not present law, completed transfers, current funding or independently adjudicated facts. No ancestry-purity, exclusive-representation, current-officer or universal-Warao claims adopted.",
+        "sourcePerspective": "Parliamentary inquiry combines committee findings, ministry responses and separately attributed community representations; speakers’ arguments are not court decisions.",
+        "publicationDate": "2022-12"
+      },
+      {
+        "id": "c14-sr-language-stan",
+        "title": "Language heritage and Santa Rosa learning — selected STAN feature",
+        "url": "https://sta.uwi.edu/stan/article13.asp",
+        "publisher": "The University of the West Indies, STAN magazine",
+        "type": "Academic / reference",
+        "topics": [
+          "Language",
+          "Education",
+          "Contemporary life"
+        ],
+        "annotation": "Selected language-learning discussion treats Santa Rosa interests in Lokono and Kari’ña alongside Patois heritage.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual language feature body, particularly paragraphs corresponding to web lines64–74; surrounding lexical/classification discussion also read, but not all cited papers or recordings.",
+        "accessNotes": "Article undated; footer2013 is not adopted as a publication date. Old speaker estimates, extinction predictions, current leaders and membership/ancestry implications are excluded. Ceremonial language details and lyrics are not reproduced.",
+        "sourcePerspective": "University language/cultural interpretation, with examples attributed to named participants."
+      },
+      {
+        "id": "c14-sr-historyfest2016",
+        "title": "Honouring the First Peoples — History Fest2016 account",
+        "url": "https://sta.uwi.edu/uwitoday/archive/april_2016/article19.asp",
+        "publisher": "The University of the West Indies, UWI Today",
+        "type": "Academic / reference",
+        "topics": [
+          "Education",
+          "Community voices",
+          "Public history"
+        ],
+        "annotation": "A dated account of Santa Rosa participants contributing to an academic and school programme.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual April2016 article body paragraphs1–7, especially panel participation and school workshop; not linked films, photographs, complete lectures or underlying historical papers.",
+        "accessNotes": "Institutional retrospective of its own event, not an independent impact evaluation or endorsement of any participant’s authority. Ceremony descriptions and pictures are not reproduced. Present leadership is not inferred.",
+        "sourcePerspective": "University event organizers describing their own programme.",
+        "publicationDate": "2016-04",
+        "author": "Claudius Fergus and Jerome Teelucksingh (organizers identified at article close)"
+      },
+      {
+        "id": "c14-sr-rights2019",
+        "title": "Indigenous Peoples take centre stage — rights workshop",
+        "url": "https://sta.uwi.edu/news/releases/release.asp?id=21895",
+        "publisher": "The University of the West Indies",
+        "type": "Academic / reference",
+        "topics": [
+          "Education",
+          "Intellectual property",
+          "Environment"
+        ],
+        "annotation": "Documents a legal-education collaboration involving named Santa Rosa presenters.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual2019release main body and About the EDF Human Rights Project. Read event aims, named speakers and legal-education methods; not underlying presentations, case law, legal outcomes or photos.",
+        "accessNotes": "A dated university account of a February23,2019 workshop. It documents participation and teaching aims, not successful legal protection, a current legal remedy, community-wide views or measured outcomes. No photo reuse.",
+        "sourcePerspective": "The university’s own programme reporting.",
+        "publicationDate": "2019-03-13"
+      },
+      {
+        "id": "c14-sr-natt2017",
+        "title": "First Peoples exhibition boards — Resistance and Festivals",
+        "url": "https://www.natt.gov.tt/sites/default/files/pdfs/First%20Peoples%20Board%20-%209Oct2017.pdf",
+        "publisher": "National Archives of Trinidad and Tobago",
+        "type": "Museum / archive",
+        "topics": [
+          "Public history",
+          "Festivals",
+          "Colonial encounters"
+        ],
+        "annotation": "Two selected exhibition boards connect historical resistance and a mission-era festival with Santa Rosa public remembrance.",
+        "accessed": "2026-10-29",
+        "contentReviewedAt": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual PDF boards7 and9 visually read in rendered images, including headings, body and photo captions. Board8 inspected for exclusion of broad beliefs/ceremonial imagery. Other boards not claimed read.",
+        "accessNotes": "Selected boards only, not the entire10-board exhibit or underlying archival research. Public festival account is historical interpretation, not proof of universal religious practice or a current event schedule. Images credit other providers and are not reproduced.",
+        "sourcePerspective": "National archival exhibition interpretation; claims remain attributed.",
+        "publicationDate": "2017-10-09 (file/exhibition context)"
+      }
+    ],
     "identityVerifiedAt": "2026-10-28",
     "identificationEvidence": [
       {
@@ -89330,17 +89991,27 @@
     "researchGaps": [
       "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
       "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
-      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement.",
+      "Seek fuller community-authored history and contemporary institutional context.",
+      "The photograph documents a 2016 public group, not present leadership; fuller community-directed historical and contemporary context remains open."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
       "remainingLimits": [
-        "History, annotated source bibliography, imagery and community review remain queued."
+        "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+        "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+        "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement.",
+        "Seek fuller community-authored history and contemporary institutional context.",
+        "The photograph documents a 2016 public group, not present leadership; fuller community-directed historical and contemporary context remains open."
       ]
     },
     "preferredName": "Santa Rosa First Peoples Community",
+    "overviewSourceIds": [
+      "c14-sr-parliament2022"
+    ],
+    "reviewedAt": "2026-10-29",
     "slug": "santa-rosa-first-peoples-community-trinidad",
     "regionGroups": [
       "Caribbean"
@@ -90332,14 +91003,102 @@
     "compiledAt": "2026-10-29",
     "kind": "Local village community / Garifuna context",
     "region": "Caribbean / Belize — named local community context",
-    "overview": "A name-only outline for Seine Bight, Belize, with a specifically documented Garifuna community connection. Detailed local history, annotated reading and imagery remain queued.",
+    "overview": "Seine Bight’s Garifuna community context belongs to the local history of the Placencia Peninsula. Selected research on livelihoods and schooling, followed by a dated public-center announcement, offers a starting path without treating all residents or neighboring communities as interchangeable.",
     "relationshipNote": "A separately findable local village reading route for the Garifuna community context of Seine Bight, Belize. The place includes a wider local population; this is not a claim that every resident is Garifuna or that this is a separate Indigenous nation or government.",
-    "entryStage": "name-only-outline",
-    "researchStatus": "queued",
-    "coverageLevel": "identity-only-queued",
+    "entryStage": "reviewed-starting-guide",
+    "researchStatus": "source-guide",
+    "coverageLevel": "cited-starting-guide",
     "researchComplete": false,
-    "sources": [],
-    "sections": [],
+    "sources": [
+      {
+        "id": "c14-seine-bight-key2002",
+        "title": "Cayes, Coral, Tourism and Ethnicity in Belize — selected Seine Bight/Georgetown history",
+        "url": "https://digital.library.unt.edu/ark:/67531/metadc3239/",
+        "publisher": "University of North Texas Digital Library",
+        "type": "Academic / sociological dissertation",
+        "topics": [
+          "Community history",
+          "Livelihoods",
+          "Migration",
+          "Tourism"
+        ],
+        "annotation": "Carol Key’s 2002 dissertation examines Seine Bight and neighboring Placencia. Selected local-history pages discuss fishing, farming across the lagoon and movement toward Georgetown through attributed settlement narratives.",
+        "accessed": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual institution record/linked136-page PDF retrievedHTTP200. Cover/abstract and printedpp.21–24 (PDFpp.26–29) read; use only local livelihood/settlement context, not the entire dissertation or broad origins narrative.",
+        "accessNotes": "Underlying oral histories, property records and census not independently reviewed. Source has questionable broad chronology and calls the 1961 storm “Haiti”; no origin dates, casualty accounts, definitive founder/ownership or all-family relocation claim adopted. Shared surnames are not proof of individual identity.",
+        "sourcePerspective": "Outsider sociological study with informant accounts and historical interpretation; dated 2002, not present conditions.",
+        "contentReviewedAt": "2026-10-29",
+        "publicationDate": "2002-08",
+        "author": "Carol Key"
+      },
+      {
+        "id": "c14-seine-bight-rav2009",
+        "title": "Language Shift and the Speech Community: Sociolinguistic Change in a Garifuna Community in Belize",
+        "url": "https://repository.upenn.edu/items/a26ec281-1dce-4683-811e-c32e000e2bfc",
+        "publisher": "University of Pennsylvania, ScholarlyCommons",
+        "type": "Academic / sociolinguistic dissertation",
+        "topics": [
+          "Language",
+          "Education",
+          "Community history",
+          "Research methods"
+        ],
+        "annotation": "Maya Ravindranath’s 2009 dissertation offers a dated study of multilingual Hopkins and a comparative teacher survey in four villages. Read the selected fieldwork and methods pages alongside community accounts; language use does not determine identity.",
+        "accessed": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual primary university record and linked 217-page PDF retrieved HTTP200. Read printed pp.20–29 and31–32 (PDFpp.31–40,42–43) for Hopkins/site/methods, and printed pp.124–126 (PDFpp.135–137) for teacher-survey methods and interpretation. Not the full dissertation.",
+        "accessNotes": "A 2007–08 fieldwork snapshot, published 2009. No present speaker totals, language-disappearance claim, proficiency ranking, census or universal ethnicity inference. Figures, complete linguistic analyses, interviews themselves and underlying works not independently inspected. Private family recordings not reproduced.",
+        "sourcePerspective": "University dissertation; outsider researcher describes a local consultant, interview/survey methods and limits. Participant recollections and scholarly interpretations remain attributed.",
+        "contentReviewedAt": "2026-10-29",
+        "publicationDate": "2009",
+        "author": "Maya Ravindranath"
+      },
+      {
+        "id": "c14-seine-bight-welcome2024",
+        "title": "New Welcome Center Inaugurated in Seine Bight Village",
+        "url": "https://www.belizetourismboard.org/new-welcome-center-inaugurated-in-seine-bight-village/",
+        "publisher": "Belize Tourism Board",
+        "type": "Government / dated project announcement",
+        "topics": [
+          "Public culture",
+          "Tourism",
+          "Community planning"
+        ],
+        "annotation": "The November25,2024 announcement describes an inaugurated beachside center with space for shops, food and Garifuna drumming. It separates a completed construction announcement from intended cultural/economic benefits.",
+        "accessed": "2026-10-29",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual full main dated press-release body retrieved normallyHTTP200 and read after reader timeouts, including partnership, completion/inauguration description, planned use and stakeholder remarks.",
+        "accessNotes": "Not an independent outcome evaluation, confirmation of current shops/programming or source of universal community endorsement. Fund amounts, artwork images, present officeholders and schedules are not adopted. No media copied.",
+        "sourcePerspective": "Government tourism-board announcement with promotional/planning perspective; expected benefits remain expectations.",
+        "contentReviewedAt": "2026-10-29",
+        "publicationDate": "2024-11-25",
+        "author": "Belize Tourism Board"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Fishing, farming and connected places",
+        "text": "Carol Key’s 2002 study recounts Seine Bight residents’ fishing and farming across the lagoon, including ties to the inland area associated with Georgetown. These are attributed local-history accounts. The original interviews and property records remain separate research tasks; surnames or nearby places do not prove the identity of particular families.",
+        "sourceIds": [
+          "c14-seine-bight-key2002"
+        ]
+      },
+      {
+        "title": "How language research gathered evidence",
+        "text": "Maya Ravindranath’s 2009 dissertation explains a teacher survey involving Seine Bight and three other villages. She notes that not every Seine Bight teacher was available and distinguishes reported attitudes from measured proficiency. This helps readers assess the evidence; it does not establish present language totals or community disappearance.",
+        "sourceIds": [
+          "c14-seine-bight-rav2009"
+        ]
+      },
+      {
+        "title": "An announced space for public culture",
+        "text": "The Belize Tourism Board’s November 2024 release describes inauguration of the Seine Bight Welcome Center, with space for shops, food and Garifuna drumming. It links construction with hopes for cultural education and local enterprise. The announced building and the hoped-for social benefits are different kinds of claims; current programming and outcomes need later evidence.",
+        "sourceIds": [
+          "c14-seine-bight-welcome2024"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-10-29",
     "identificationEvidence": [
       {
@@ -90366,17 +91125,30 @@
     ],
     "researchGaps": [
       "Develop local and community-authored history with actual-content inspected sources.",
-      "Verify individually relevant imagery and reuse before substantive guide publication.",
-      "Clarify local institutions and distinctions among the municipality, Garifuna community and any named organizations; do not infer ethnicity from residence."
+      "Clarify local institutions and distinctions among the municipality, Garifuna community and any named organizations; do not infer ethnicity from residence.",
+      "Add further community-authored local histories and review interpretations with publicly available community sources.",
+      "Named place and municipal institutions are not evidence that all residents are Garifuna or that the route is another people/government.",
+      "Dated descriptions, project announcements and samples do not establish present populations, language ability, land ownership or programme outcomes.",
+      "The earlier John C. Ogden 1996 USF aerial remains deferred because its rights statement is blank. A separately cleared, inspected village-sign photograph now supplies local place context; the aerial is not reproduced."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only outline; naming and place/context checks are not substantive history-source reviews.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-29",
+      "rationale": "Selected actual-content sources and a specifically scoped credited image provide a starting route. Fuller histories and comparison remain open; quantity does not establish completion or endorsement.",
       "remainingLimits": [
-        "History, source guide, imagery and community review remain open."
+        "Develop local and community-authored history with actual-content inspected sources.",
+        "Clarify local institutions and distinctions among the municipality, Garifuna community and any named organizations; do not infer ethnicity from residence.",
+        "Add further community-authored local histories and review interpretations with publicly available community sources.",
+        "Named place and municipal institutions are not evidence that all residents are Garifuna or that the route is another people/government.",
+        "Dated descriptions, project announcements and samples do not establish present populations, language ability, land ownership or programme outcomes.",
+        "The earlier John C. Ogden 1996 USF aerial remains deferred because its rights statement is blank. A separately cleared, inspected village-sign photograph now supplies local place context; the aerial is not reproduced."
       ]
     },
+    "overviewSourceIds": [
+      "c14-seine-bight-key2002",
+      "c14-seine-bight-rav2009"
+    ],
+    "reviewedAt": "2026-10-29",
     "slug": "seine-bight-belize",
     "regionGroups": [
       "Central America",

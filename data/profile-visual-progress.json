@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 278,
+    "selectedProfiles": 285,
     "existingApache": 1,
-    "newProfileTreatments": 277,
-    "newTreatmentsWithPhotographs": 271,
+    "newProfileTreatments": 284,
+    "newTreatmentsWithPhotographs": 278,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -2001,6 +2001,82 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 13
+    },
+    {
+      "slug": "barranco-belize",
+      "name": "Barranco (Belize)",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 19,
+      "angle": -8,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "c14-barranco-andy-palacio-leeson-2007",
+          "profileSlugs": [
+            "barranco-belize"
+          ],
+          "profileName": "Barranco (Belize)",
+          "mediaType": "photograph",
+          "title": "Andy Palacio at Harbourfront, July 2007",
+          "creator": "John Leeson (Flickr: John Leeson TO)",
+          "archive": "Wikimedia Commons; photographer-provided image",
+          "date": "2 July 2007",
+          "credit": "John Leeson, 2007; Wikimedia Commons / photographer’s Flickr record. CC BY 2.0. Complete provider-delivered JPEG unchanged; card/backdrop CSS crops and overlays disclosed.",
+          "cardCredit": "John Leeson · CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andy_Palacio.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Andy_Palacio.jpg",
+          "rightsLabel": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-10-29",
+          "alt": "Andy Palacio holding an electric guitar beside a microphone at a public outdoor performance.",
+          "scope": "A named Garifuna musician whom his record label identifies as born and raised in Barranco. This particular photograph is identified by its photographer as July 2007 at Harbourfront. It is a public performance portrait, not a photograph of Barranco village, a local ceremony, all village residents or a territorial boundary. It does not imply artist, family, community, photographer or record-label endorsement of this Atlas.",
+          "recordInspection": "Exact Commons Summary, media-specific CC BY 2.0 licence, source link and file history read. The normal live photographer Flickr record was also read: title Andy Palacio, July 2007 Harbourfront description, taken July 2, 2007 and licence link to CC BY 2.0. Commons records a September 2023 Flickr licence review; present Flickr licence link was independently observed, not inferred only from that historical review. Metadata notes Photoshop and a 2007 file change; no claim about pre-upload editing or the original camera frame is made.",
+          "accessLimits": "Exact source JPEG and Commons record retrieved normally HTTP200. Actual complete delivered frame viewed, using a scaled display for inspection. No original camera RAW, unseen source margins, pre-upload editing process or rendered website/device review inspected.",
+          "asset": "assets/profile-visuals/c14-barranco-andy-palacio-leeson-2007.jpg",
+          "cardAsset": "assets/profile-visuals/c14-barranco-andy-palacio-leeson-2007.jpg",
+          "width": 2292,
+          "height": 2844,
+          "dimensions": {
+            "width": 2292,
+            "height": 2844
+          },
+          "bytes": 3452897,
+          "sha256": "6cb26023e51ef4d3fee86fd122e24316cca44df055d3f9e5f802431ae44e4f4e",
+          "assetSha256": "6cb26023e51ef4d3fee86fd122e24316cca44df055d3f9e5f802431ae44e4f4e",
+          "retrievedSourceSha256": "6cb26023e51ef4d3fee86fd122e24316cca44df055d3f9e5f802431ae44e4f4e",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "fullAvailableFrame": true
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready",
+          "contextSources": [
+            {
+              "title": "Stonetree Records — Keimoun, selected Andy Palacio biography",
+              "url": "https://www.stonetreerecords.com/music/keimoun/",
+              "inspectionScope": "Selected substantial indexed primary record-label biography actually read on 2026-10-29, including its explicit born-and-raised-in-Barranco paragraph. Used only for the narrow person/place connection, not promotional superlatives, current offices, programme outcomes or broad origin history. The normal reader open returned 502 and direct retrieval stopped on certificate validation; no certificate or challenge bypass and no claim of direct full-page retrieval.",
+              "countsTowardMinimum": false
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:19;--profile-angle:-8deg;--profile-photo:url(\"../../assets/profile-visuals/c14-barranco-andy-palacio-leeson-2007.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "bay-mills-indian-community",
@@ -7134,6 +7210,94 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "itza-maya",
+      "name": "Itza Maya",
+      "originalId": 146,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 248,
+      "angle": 16,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c14-itza-lake-reyes-2009",
+          "profileSlugs": [
+            "itza-maya"
+          ],
+          "profileName": "Itza Maya",
+          "mediaType": "photograph",
+          "title": "Lake Petén Itzá, Petén, Guatemala",
+          "creator": "Fernando Reyes Palencia",
+          "archive": "Wikimedia Commons; photographer-supplied image",
+          "date": "2009; Commons description dated 20 August, structured publication field dated 5 August; exact exposure date not asserted",
+          "credit": "Fernando Reyes Palencia / Wikimedia Commons (Flickr source) · CC BY-SA 2.0",
+          "cardCredit": "Fernando Reyes Palencia / Wikimedia Commons (Flickr source) · CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lago_Peten_Itza.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lago_Peten_Itza.jpg",
+          "rightsLabel": "CC BY-SA 2.0 Generic; Flickr license confirmed by FlickreviewR on 21 August 2009",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-10-29",
+          "alt": "A wooden dock beside Lake Petén Itzá, with buildings across the water and the photographer’s credit along the lower edge.",
+          "scope": "Modern landscape of the specifically named lake. Hofling’s selected preface places Itza’ speakers at San José on Lake Petén Itzá. This photograph is not identified as a view from San José or of historical Nojpetén, and is not evidence of every lakeside resident’s identity, ownership, community boundaries or precontact conditions.",
+          "recordInspection": "Actual Commons Summary, Licensing, Flickr-source link, FlickreviewR license confirmation, file history and available metadata were read. Root independently read the exact item rights/creator and viewed/downloaded its offered original. The delegated reviewer independently viewed the complete copied frame, including the original border and visible photographer credit.",
+          "contextSources": [
+            {
+              "sourceId": "c14-itza-hofling",
+              "url": "https://www.famsi.org/reports/97026es/97026esHofling01.pdf",
+              "title": "Charles Andrew Hofling — Itza’ Maya language documentation, selected preface",
+              "inspectionScope": "Previously downloaded actual PDF pages 7–9 read in the cohort14 research pass, with the San José/Lake Petén Itzá passage rechecked in cached extracted text for this image-only package. No full dictionary reinspection or new substantive source check is claimed.",
+              "countsTowardMinimum": false
+            }
+          ],
+          "accessLimits": "Flickr’s historical CC BY-SA 2.0 review is recorded by Commons; the current Flickr page and camera original were not independently inspected. Description/structured dates differ. Delivered image has a visible border, photographer copyright/HDR credit and earlier processing (metadata mentions picnik.com); all are retained unchanged, not represented as untouched camera pixels.",
+          "asset": "assets/profile-visuals/c14-itza-lake-reyes-2009.jpg",
+          "cardAsset": "assets/profile-visuals/c14-itza-lake-reyes-2009.jpg",
+          "dimensions": {
+            "width": 1036,
+            "height": 780
+          },
+          "width": 1036,
+          "height": 780,
+          "bytes": 250174,
+          "sha256": "a2f0787e34b06d8d97adf2a0c083d0e274394a6cc3e16a2523a491de3b9acdf9",
+          "assetSha256": "a2f0787e34b06d8d97adf2a0c083d0e274394a6cc3e16a2523a491de3b9acdf9",
+          "retrievedSourceSha256": "a2f0787e34b06d8d97adf2a0c083d0e274394a6cc3e16a2523a491de3b9acdf9",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "fullAvailableFrame": true,
+            "originalDimensions": [
+              1036,
+              780
+            ],
+            "independentRootInspection": true,
+            "inspectionNote": "Root and delegated reviewer each viewed the complete delivered frame. Tool may proportionally resize the display; original file dimensions are retained."
+          },
+          "retrieval": {
+            "method": "Root normal supported browser, observed Commons Original file link, downloadMedia; copied unchanged from Downloads into this new private folder.",
+            "date": "2026-10-29",
+            "limits": "Earlier ordinary terminal HTTP requests returned 403 and were stopped. No altered headers, challenge circumvention, mirrors or automatic retry loops were used. Normal browser access succeeded."
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:248;--profile-angle:16deg;--profile-photo:url(\"../../assets/profile-visuals/c14-itza-lake-reyes-2009.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "jemez-pueblo",
       "name": "Jemez Pueblo",
       "originalId": 150,
@@ -9040,6 +9204,93 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "lucayan",
+      "name": "Lucayan",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 310,
+      "angle": -22,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c14-lucayan-mangroves-brokensphere-2006",
+          "profileSlugs": [
+            "lucayan"
+          ],
+          "profileName": "Lucayan",
+          "mediaType": "photograph",
+          "title": "Mangrove swamp in Lucayan National Park, Grand Bahama",
+          "creator": "BrokenSphere",
+          "archive": "Wikimedia Commons; photographer-supplied image",
+          "date": "22 May 2006, as catalogued",
+          "credit": "© BrokenSphere / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "© BrokenSphere / Wikimedia Commons · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucayan_National_Park_mangrove_swamp.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lucayan_National_Park_mangrove_swamp.JPG",
+          "rightsLabel": "CC BY-SA 3.0 Unported; selected from the offered CC BY-SA/GFDL alternatives",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-10-29",
+          "alt": "Green mangroves and a tidal waterway beneath a blue sky in Lucayan National Park, Grand Bahama.",
+          "scope": "A modern landscape in the specifically named national park. Bahamas National Trust identifies the park with Lucayan historical heritage; this is place context for the historical Lucayan reading route, not a photograph of historical people or artifacts. No exact archaeological site, ancestral boundary, exclusive ownership, extinction or present ancestry claim is inferred.",
+          "recordInspection": "Actual Commons Summary, Licensing, file history and available metadata were read. The photographer offers this specific image under CC BY-SA 3.0 and GFDL; CC BY-SA is selected. Root independently read the exact item and mandatory credit, then viewed and downloaded the offered original. The delegated reviewer independently viewed the copied full frame.",
+          "contextSources": [
+            {
+              "url": "https://bnt.bs/explore/grand-bahama/lucayan-national-park/",
+              "title": "Bahamas National Trust — Lucayan National Park",
+              "inspectionScope": "Actual institutional body previously read 2026-10-29: terrestrial/mangrove and Gold Rock Creek ecosystem description (web body lines 154–156) and naming after Lucayan inhabitants (line 161). Used only for broad public park and historical-label association; archaeological burial/cave details are excluded.",
+              "countsTowardMinimum": false
+            }
+          ],
+          "accessLimits": "The actual modern scene is not evidence of precontact vegetation or specific cultural practice. Copyright is retained by the photographer; this is not CC0 or public domain. No private or sensitive-site details are reproduced.",
+          "asset": "assets/profile-visuals/c14-lucayan-mangroves-brokensphere-2006.jpg",
+          "cardAsset": "assets/profile-visuals/c14-lucayan-mangroves-brokensphere-2006.jpg",
+          "dimensions": {
+            "width": 2272,
+            "height": 1704
+          },
+          "width": 2272,
+          "height": 1704,
+          "bytes": 730264,
+          "sha256": "78ee78ef08c763df505ac64906cd1af7cbf702ddfe023ade50d473e326a6c314",
+          "assetSha256": "78ee78ef08c763df505ac64906cd1af7cbf702ddfe023ade50d473e326a6c314",
+          "retrievedSourceSha256": "78ee78ef08c763df505ac64906cd1af7cbf702ddfe023ade50d473e326a6c314",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "fullAvailableFrame": true,
+            "originalDimensions": [
+              2272,
+              1704
+            ],
+            "independentRootInspection": true,
+            "inspectionNote": "Root and delegated reviewer each viewed the complete delivered frame. Tool may proportionally resize the display; original file dimensions are retained."
+          },
+          "retrieval": {
+            "method": "Root normal supported browser, observed Commons Original file link, downloadMedia; copied unchanged from Downloads into this new private folder.",
+            "date": "2026-10-29",
+            "limits": "Earlier ordinary terminal HTTP requests returned 403 and were stopped. No altered headers, challenge circumvention, mirrors or automatic retry loops were used. Normal browser access succeeded."
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:310;--profile-angle:-22deg;--profile-photo:url(\"../../assets/profile-visuals/c14-lucayan-mangroves-brokensphere-2006.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "lummi",
       "name": "Lummi",
       "originalId": 189,
@@ -10427,6 +10678,187 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "mopan-maya",
+      "name": "Mopan Maya",
+      "originalId": 229,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 251,
+      "angle": 31,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "c14-mopan-sanluis-hernandez-2009",
+          "profileSlugs": [
+            "mopan-maya"
+          ],
+          "profileName": "Mopan Maya",
+          "mediaType": "photograph",
+          "title": "Main street in central San Luis, Petén, Guatemala",
+          "creator": "Danny Hernández (Commons uploader Hernymaye)",
+          "archive": "Wikimedia Commons; photographer-supplied image",
+          "date": "21 November 2009, as catalogued; exact time not asserted",
+          "credit": "Danny Hernández / Wikimedia Commons · Photographer’s public-domain dedication",
+          "cardCredit": "Danny Hernández / Wikimedia Commons · Photographer’s public-domain dedication",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Luis,_(Pet%C3%A9n).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/San_Luis%2C_%28Pet%C3%A9n%29.jpg",
+          "rightsLabel": "Photographer/copyright-holder public-domain self-dedication, with worldwide broad fallback permission; not CC0",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:San_Luis,_(Pet%C3%A9n).jpg#Licensing",
+          "reviewedAt": "2026-10-29",
+          "alt": "A public street in central San Luis, Petén, with buildings, shops, utility wires and incidental pedestrians.",
+          "scope": "A shared modern public-town setting in San Luis, Petén. The municipality’s historical account specifically connects San Luis with Mopan communities and explicitly acknowledges Q’eqchi’ and Ladino communities too. This does not identify the incidental people as Mopan or establish an exclusively Mopan neighborhood, practice, property or territory. The municipal history alone is insufficient to assign this particular downtown scene to Q’eqchi’ as an additional specific-community image.",
+          "recordInspection": "Actual Commons Summary, Licensing, file history and EXIF were read. The uploader identifies Danny Hernández as the photographer and states the image was taken and edited by him; the copyright holder dedicates this specific image to the public domain worldwide with broad fallback permission. Root independently read the record and viewed/downloaded the offered original. The delegated reviewer independently viewed the complete copied frame.",
+          "contextSources": [
+            {
+              "sourceId": "c14-mopan-sanluis",
+              "url": "https://municipalidaddesanluispeten.laip.gt/index.php/files/807/29-INFORMACION-ADICIONAL/1kwaBdCAvv5PlxOPn6-JHhnFdu7WzytVy/HISTORIA-DEL-MUNICIPIO-DE-SAN-LUIS.pdf",
+              "title": "Municipalidad de San Luis — Historia del municipio de San Luis",
+              "inspectionScope": "Previously inspected actual four-page municipal PDF: pp.1–2 for San Luis/Mopan historical account; p.4 final paragraph for Mopan, Q’eqchi’ and Ladino communities. Selected cached passages rechecked for this image-only scope decision. No unsupported current figures or ceremonial details carried into the image caption.",
+              "countsTowardMinimum": false
+            }
+          ],
+          "accessLimits": "Provider edits remain in the delivered image, which is not represented as untouched camera material. Description time and EXIF time differ; only the shared date is used. Pedestrians are incidental and unidentified; no ethnicity, membership, consent for endorsement or resident identity is inferred from their appearance. Visible businesses are context, not endorsements.",
+          "asset": "assets/profile-visuals/c14-mopan-sanluis-hernandez-2009.jpg",
+          "cardAsset": "assets/profile-visuals/c14-mopan-sanluis-hernandez-2009.jpg",
+          "dimensions": {
+            "width": 2048,
+            "height": 1536
+          },
+          "width": 2048,
+          "height": 1536,
+          "bytes": 700879,
+          "sha256": "c458d6b7485f2d8471c0438145795c22d96a3d08892799ca54d1b0f801f49c85",
+          "assetSha256": "c458d6b7485f2d8471c0438145795c22d96a3d08892799ca54d1b0f801f49c85",
+          "retrievedSourceSha256": "c458d6b7485f2d8471c0438145795c22d96a3d08892799ca54d1b0f801f49c85",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "fullAvailableFrame": true,
+            "originalDimensions": [
+              2048,
+              1536
+            ],
+            "independentRootInspection": true,
+            "inspectionNote": "Root and delegated reviewer each viewed the complete delivered frame. Tool may proportionally resize the display; original file dimensions are retained."
+          },
+          "retrieval": {
+            "method": "Root normal supported browser, observed Commons Original file link, downloadMedia; copied unchanged from Downloads into this new private folder.",
+            "date": "2026-10-29",
+            "limits": "Earlier ordinary terminal HTTP requests returned 403 and were stopped. No altered headers, challenge circumvention, mirrors or automatic retry loops were used. Normal browser access succeeded."
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:251;--profile-angle:31deg;--profile-photo:url(\"../../assets/profile-visuals/c14-mopan-sanluis-hernandez-2009.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "moruga-first-peoples",
+      "name": "Moruga First Peoples",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 226,
+      "angle": -7,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "c14-moruga-coastline-kalamazadkhan-2016",
+          "profileName": "Moruga First Peoples",
+          "mediaType": "landscape photograph",
+          "title": "Moruga coastline, 25 March 2016",
+          "creator": "Kalamazadkhan",
+          "archive": "Wikimedia Commons; photographer’s own work",
+          "date": "2016-03-25",
+          "credit": "Kalamazadkhan, Moruga coastline, 25 March 2016. Own-work photograph via Wikimedia Commons, Creative Commons Attribution-ShareAlike 4.0 International. Original JPEG retained unchanged.",
+          "cardCredit": "Kalamazadkhan · CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moruga_coastline.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Moruga_coastline.jpg",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 4.0 International",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "alt": "Sandstone formations and a sandy shore beneath a blue sky along the Moruga coastline in Trinidad.",
+          "scope": "A specific modern Moruga coastal setting. The community’s own history account connects its organization with Moruga families, and selected parliamentary content discusses Moruga heritage initiatives. The photograph is not a community portrait, a cultural object, a ceremony, a boundary, evidence of land ownership or exclusive occupation, or an image representing all Warao people.",
+          "recordInspection": "The task author previously read the actual Commons description identifying Moruga coastline, the 25 March 2016 date, Kalamazadkhan own-work authorship and the exact image-specific CC BY-SA 4.0 license. Root independently read those fields in the normal browser, followed the offered Original file link, downloaded the JPEG and viewed the complete available source frame. This packaging agent separately viewed the copied complete available frame with view_image on 2026-10-29.",
+          "contextSources": [
+            {
+              "url": "https://firstpeoplett.com/community",
+              "title": "Community history — First Peoples Sovereign Nation website",
+              "inspectionScope": "Actual community history body through organizational aims, as preserved in c14-mo-community, explicitly connects organizational origins with Moruga families. Internal chronology and current leadership assertions remain excluded."
+            },
+            {
+              "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+              "title": "Fourth Report: State preservation of First Peoples cultural heritage",
+              "inspectionScope": "Prior identity p.10 plus actual selected Moruga heritage work in printed/PDF pp.18–19, sections 3.16 and 3.20, and pp.25–26 committee discussion. Administrative/community context is not a territorial ownership determination."
+            }
+          ],
+          "profileSlugs": [
+            "moruga-first-peoples"
+          ],
+          "reviewedAt": "2026-10-29",
+          "accessLimits": "Earlier ordinary terminal retrieval of the observed original and an explicitly offered default preview each returned HTTP 403 and stopped; no guessed URLs, spoofed user agent, mirror, token or challenge bypass was used. Root subsequently recovered the same actual item in the supported normal in-app browser and successfully downloaded its offered Original file. Thus the former terminal-route failures remain documented but are no longer an image availability blocker. The complete publicly offered original JPEG is the available photographic frame inspected; no RAW camera file or complete editing history was examined. EXIF identifies PhotoScape software. The Atlas has not cropped, retouched, recolored or generated the image. Any future derivative requires attribution, stated changes and ShareAlike compliance.",
+          "asset": "assets/profile-visuals/c14-moruga-coastline-kalamazadkhan-2016.jpg",
+          "cardAsset": "assets/profile-visuals/c14-moruga-coastline-kalamazadkhan-2016.jpg",
+          "dimensions": {
+            "width": 4320,
+            "height": 3240
+          },
+          "width": 4320,
+          "height": 3240,
+          "bytes": 3753487,
+          "sha256": "ca7d2be7332daa83b1fb641445ec1f321e3d3ea9a36f149e2a89da252ae086fd",
+          "assetSha256": "ca7d2be7332daa83b1fb641445ec1f321e3d3ea9a36f149e2a89da252ae086fd",
+          "retrievedSourceSha256": "ca7d2be7332daa83b1fb641445ec1f321e3d3ea9a36f149e2a89da252ae086fd",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "reviewers": [
+              "root (normal browser record, rights and complete available frame)",
+              "abihka_sources (copied complete available frame)"
+            ],
+            "fullAvailableFrame": true,
+            "sourceDimensions": {
+              "width": 4320,
+              "height": 3240
+            },
+            "packagingAgentDisplayedAt": {
+              "width": 1824,
+              "height": 1368
+            },
+            "displayLimit": "Complete frame viewed at tool display scale; no claim of examining every individual source pixel at native magnification."
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:226;--profile-angle:-7deg;--profile-photo:url(\"../../assets/profile-visuals/c14-moruga-coastline-kalamazadkhan-2016.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "muckleshoot",
@@ -15027,6 +15459,99 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "santa-rosa-first-peoples-community-trinidad",
+      "name": "Santa Rosa First Peoples Community (Trinidad)",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 2,
+      "angle": -30,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "c14-santa-rosa-embassy-group-2016",
+          "profileName": "Santa Rosa First Peoples Community (Trinidad)",
+          "mediaType": "photograph",
+          "title": "Public diplomatic group at Santa Rosa First Peoples Community, 11 August 2016",
+          "creator": "Embassy of the United States in Trinidad and Tobago; individual photographer not named",
+          "archive": "Wikimedia Commons; institutional source identified as the U.S. Embassy in Trinidad and Tobago",
+          "date": "2016-08-11",
+          "credit": "Embassy of the United States in Trinidad and Tobago, 11 August 2016. Individual photographer not named. Wikimedia Commons item identifies an official-duty U.S. Department of State employee photograph, in the public domain in the United States.",
+          "cardCredit": "U.S. Embassy Trinidad & Tobago · Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_L._Estrada_with_Santa_Rosa_First_Peoples_Community_leaders.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/John_L._Estrada_with_Santa_Rosa_First_Peoples_Community_leaders.jpg",
+          "rightsLabel": "Public domain in the United States — official-duty U.S. Department of State employee photograph, per item-specific notice",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:John_L._Estrada_with_Santa_Rosa_First_Peoples_Community_leaders.jpg#Licensing",
+          "alt": "A posed group of people indoors during a U.S. Embassy visit to the Santa Rosa First Peoples Community in 2016.",
+          "scope": "The public item identifies this particular Santa Rosa community group in Arima during an 11 August 2016 diplomatic visit. It is a dated posed public group photograph, not a ceremony, a portrait of every member, a statement of present leadership, citizenship, endorsement or exclusive Indigenous representation.",
+          "recordInspection": "The task author previously read the actual Commons item description, date, institutional authorship and item-specific U.S. government public-domain notice. Root independently read the normal-browser #mw-content-text item and licensing notice, followed its offered Original file link, downloaded that JPEG and viewed the complete available source frame. This packaging agent separately viewed the copied complete available frame with view_image on 2026-10-29.",
+          "contextSources": [
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:John_L._Estrada_with_Santa_Rosa_First_Peoples_Community_leaders.jpg",
+              "title": "John L. Estrada with Santa Rosa First Peoples Community leaders",
+              "inspectionScope": "Actual item body specifically identifies the named community, public diplomatic visit, date and institutional author; this is the direct community-to-image relationship evidence."
+            },
+            {
+              "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+              "title": "Fourth Report: State preservation of First Peoples cultural heritage",
+              "inspectionScope": "Prior identity paragraph and newly reviewed selected Santa Rosa testimony/proposal retained in c14-sr-parliament2022. This context does not establish current leadership or present legal status."
+            }
+          ],
+          "profileSlugs": [
+            "santa-rosa-first-peoples-community-trinidad"
+          ],
+          "reviewedAt": "2026-10-29",
+          "accessLimits": "Earlier ordinary terminal retrieval of the observed original and an explicitly offered default preview each returned HTTP 403 and stopped; no guessed URLs, spoofed user agent, mirror, token or challenge bypass was used. Root subsequently recovered the same actual item in the supported normal in-app browser and successfully downloaded its offered Original file. Thus the former terminal-route failures remain documented but are no longer an image availability blocker. The item links an older U.S. State Department copyright page and an Embassy source page; earlier requests to those pages returned 403 and stopped. Their underlying bodies are not claimed read here. Reuse rests on the actual image-specific Commons official-duty/public-domain notice, independently read by root, rather than on an assumed license for all Embassy web material.",
+          "asset": "assets/profile-visuals/c14-santa-rosa-embassy-group-2016.jpg",
+          "cardAsset": "assets/profile-visuals/c14-santa-rosa-embassy-group-2016.jpg",
+          "dimensions": {
+            "width": 3456,
+            "height": 2304
+          },
+          "width": 3456,
+          "height": 2304,
+          "bytes": 2187979,
+          "sha256": "e6fad1c4486b67831ba977e44a98f4d63cb1adf576a177024ed54178fea9104e",
+          "assetSha256": "e6fad1c4486b67831ba977e44a98f4d63cb1adf576a177024ed54178fea9104e",
+          "retrievedSourceSha256": "e6fad1c4486b67831ba977e44a98f4d63cb1adf576a177024ed54178fea9104e",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "reviewers": [
+              "root (normal browser record, rights and complete available frame)",
+              "abihka_sources (copied complete available frame)"
+            ],
+            "fullAvailableFrame": true,
+            "sourceDimensions": {
+              "width": 3456,
+              "height": 2304
+            },
+            "packagingAgentDisplayedAt": {
+              "width": 1920,
+              "height": 1280
+            },
+            "displayLimit": "Complete frame viewed at tool display scale; no claim of examining every individual source pixel at native magnification."
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:2;--profile-angle:-30deg;--profile-photo:url(\"../../assets/profile-visuals/c14-santa-rosa-embassy-group-2016.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 5
+    },
+    {
       "slug": "santee-dakota",
       "name": "Santee Dakota",
       "originalId": 335,
@@ -15245,6 +15770,82 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:177;--profile-angle:67deg;--profile-photo:url(\"../../assets/profile-visuals/c11-secwepemc-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "seine-bight-belize",
+      "name": "Seine Bight (Belize)",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 354,
+      "angle": 54,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "c14-seine-bight-sign-channdaman-2023",
+          "profileSlugs": [
+            "seine-bight-belize"
+          ],
+          "profileName": "Seine Bight (Belize)",
+          "mediaType": "photograph",
+          "title": "Seine Bight Village sign, December 2023",
+          "creator": "Channdaman",
+          "archive": "Wikimedia Commons; photographer-provided image",
+          "date": "26 December 2023",
+          "credit": "Channdaman, 2023; Wikimedia Commons, own work. CC BY-SA 4.0. Complete available uploaded frame; display crops and overlays disclosed.",
+          "cardCredit": "Channdaman · CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Welcome_to_Seine_Bight_Village.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Welcome_to_Seine_Bight_Village.jpg",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-10-29",
+          "alt": "A plain green sign reading Seine Bight Village beside tropical plants, a white wall and a house.",
+          "scope": "An exact local place photograph identified by its photographer as the Seine Bight Village sign on Placencia Road. The full available frame shows plain green-and-white place-name lettering, vegetation and surrounding buildings, with no visible people or elaborate underlying artwork. It illustrates the local village setting, not a claim about every resident’s identity, exclusive ownership, present official boundaries or a distinctive traditional art style.",
+          "recordInspection": "Exact Commons Summary, own-work author/date and media-specific CC BY-SA 4.0 licence read, along with April 2024 upload history. The photo date is December 26, 2023; upload date is not represented as exposure date. Actual complete delivered pixels were visually inspected after normal HTTP200 download. No media rights are inferred from Commons metadata CC0.",
+          "accessLimits": "Exact source JPEG and Commons record retrieved normally HTTP200. Actual complete delivered frame viewed, using a scaled display for inspection. No original camera RAW, unseen source margins, pre-upload editing process or rendered website/device review inspected.",
+          "asset": "assets/profile-visuals/c14-seine-bight-sign-channdaman-2023.jpg",
+          "cardAsset": "assets/profile-visuals/c14-seine-bight-sign-channdaman-2023.jpg",
+          "width": 1668,
+          "height": 1280,
+          "dimensions": {
+            "width": 1668,
+            "height": 1280
+          },
+          "bytes": 419554,
+          "sha256": "0dc9f40bec79f60cc7910875bdbee634bb43ae7fb33a516ba46276bb132ea842",
+          "assetSha256": "0dc9f40bec79f60cc7910875bdbee634bb43ae7fb33a516ba46276bb132ea842",
+          "retrievedSourceSha256": "0dc9f40bec79f60cc7910875bdbee634bb43ae7fb33a516ba46276bb132ea842",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "fullAvailableFrame": true
+          },
+          "reproductionNote": "Complete provider-delivered JPEG retained byte-for-byte at the inspected dimensions. Existing provider edits, borders and watermarks remain. No new pixel crop, resizing, recompression, retouching, colorization or generation. Card/backdrop CSS display crops and overlays are disclosed; exact source, creator and media-specific rights remain linked.",
+          "status": "actual-available-frame-inspected-ready",
+          "contextSources": [
+            {
+              "title": "Belize Tourism Board — New Welcome Center Inaugurated in Seine Bight Village",
+              "url": "https://www.belizetourismboard.org/new-welcome-center-inaugurated-in-seine-bight-village/",
+              "inspectionScope": "Existing actual full dated November 2024 press-release body was reviewed in the prior private local guide draft. It supports the specifically named village and local Garifuna cultural setting, not reuse rights for other press-release photos or a claim that the new center is shown in this photograph.",
+              "countsTowardMinimum": false
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:354;--profile-angle:54deg;--profile-photo:url(\"../../assets/profile-visuals/c14-seine-bight-sign-channdaman-2023.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,

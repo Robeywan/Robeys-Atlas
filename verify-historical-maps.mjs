@@ -76,7 +76,7 @@ const earlierProfiles=JSON.parse(execFileSync('git',['show','HEAD:data/profiles.
 const currentRawProfiles=read('data/profiles.json');
 const startingRows=fs.readdirSync('data').filter(name=>/^twenty-profile-batch-\d+\.json$/.test(name)).flatMap(name=>read('data/'+name).profiles);
 const visualImages=read('data/profile-visual-assets.json').images;
-const supplementary=read('research/caribbean-source-expansion-20261029.json');
+const supplementaryGuides=[read('research/caribbean-source-expansion-20261029.json'),read('research/caribbean-media-completion-20261029.json')].flatMap(record=>record.publicGuideUpdates);
 for(const item of queued.profiles){
  const p=profiles.find(p=>p.slug===item.slug);
  assert(p&&p.name===item.name);
@@ -86,10 +86,10 @@ for(const item of queued.profiles){
   // Its identity evidence and earlier sources remain protected independently.
   assert(item.researchStatus==='source-guide'&&item.entryStage==='reviewed-starting-guide');
   assert(p.researchStatus==='source-guide'&&p.entryStage==='reviewed-starting-guide'&&p.researchComplete===false);
-  const supplemental=supplementary.publicGuideUpdates.find(row=>row.slug===p.slug&&row.name===p.name);
+  const supplemental=supplementaryGuides.find(row=>row.slug===p.slug&&row.name===p.name);
   if(supplemental&&!p.startingGuide){
    // A reviewed supplementary guide is not a fictitious completed twenty-guide cohort.
-   assert(['hopkins-belize','dangriga-belize','punta-gorda-belize'].includes(p.slug));
+   assert(['hopkins-belize','dangriga-belize','punta-gorda-belize','barranco-belize','seine-bight-belize','santa-rosa-first-peoples-community-trinidad','moruga-first-peoples','lucayan'].includes(p.slug));
    assert(supplemental.selectedReadingPath.length);
    for(const pick of supplemental.selectedReadingPath){
     const source=p.sources.find(s=>s.id===(pick.sourceId||pick.id));
@@ -100,7 +100,13 @@ for(const item of queued.profiles){
    const raw=currentRawProfiles.find(current=>current.name===p.name);assert(raw);
    assert.deepEqual(raw.identificationEvidence,item.identificationEvidence);
    const old=earlierProfiles.find(old=>old.name===p.name);
-   if(old){assert.deepEqual(raw.identificationEvidence,old.identificationEvidence);for(const source of old.sources)assert.deepEqual(raw.sources.find(s=>s.id===source.id),source);}
+   if(old){
+    assert.deepEqual(raw.identificationEvidence,old.identificationEvidence);
+    for(const source of old.sources){
+     const expected=p.slug==='dangriga-belize'&&source.id==='c14-dangriga-palacio2024'?{...source,indigenousLed:true}:source;
+     assert.deepEqual(raw.sources.find(s=>s.id===source.id),expected,'Earlier source exact except the verified Garifuna-author filter flag');
+    }
+   }
    continue;
   }
   assert(startingRows.some(row=>row.slug===p.slug&&row.name===p.name&&row.pictureReviewed&&row.readingPathReviewed));
