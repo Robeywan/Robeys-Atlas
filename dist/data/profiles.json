@@ -44978,7 +44978,7 @@
     "name": "Kalinago",
     "region": "Caribbean / Dominica",
     "kind": "People / community",
-    "overview": "Kalinago people have enduring Caribbean histories and a contemporary territory and council in Dominica.",
+    "overview": "Kalinago people continue in Dominica. This starting guide concentrates on Dominica’s territory, government institutions and a dated planning framework; it does not speak for every Lesser Antillean community.",
     "sections": [
       {
         "title": "Identity and context",
@@ -44993,28 +44993,116 @@
         "sourceIds": [
           "added-s1"
         ]
+      },
+      {
+        "title": "Distinguish people, Council and ministry",
+        "text": "The government’s account traces its department to 2000 and a ministry change to 2005. Its coordinating role should be distinguished from the Kalinago Council and from the people themselves. Stated goals are not measured results.",
+        "sourceIds": [
+          "added-s1"
+        ]
+      },
+      {
+        "title": "Read the 2022 framework as a plan",
+        "text": "The framework proposes participation, livelihood support and intergenerational knowledge work. It also describes institutional and geographic context. These are dated proposals and interpretations; this guide makes no finding of completed outcomes or collective consent.",
+        "sourceIds": [
+          "carib-kalinago-ippf"
+        ]
+      },
+      {
+        "title": "Names and administrative geography need care",
+        "text": "The planning text distinguishes Atkinson from the Territory even though both fall within the ministry’s constituency work. Additional hamlet entries need comparison rather than an assumed match between political constituency, territory and Indigenous identity.",
+        "sourceIds": [
+          "carib-kalinago-ippf",
+          "carib-kalinago-plan-summary"
+        ]
       }
     ],
     "sources": [
       {
         "id": "added-s1",
-        "title": "About Us - Kalinago Affairs",
-        "publisher": "kalinagoaffairs.gov.dm",
+        "title": "About Us — agency history and stated role",
+        "publisher": "Government of Dominica, Kalinago Upliftment",
         "url": "https://kalinagoaffairs.gov.dm/about-us",
         "type": "Government",
         "topics": [
+          "Caribbean",
           "Identity",
-          "History",
-          "Contemporary life"
+          "Community history"
         ],
-        "annotation": "Historical context for this entry. Read “About Us - Kalinago Affairs” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "The ministry describes its 2000 department and 2005 institutional change and its stated coordinating role. These are government accounts, distinct from a community-authored history.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual About body lines7–8,12–15,25–39: agency chronology, stated mission and coordination.",
+        "accessNotes": "Staff/officeholder lists and claims of programme effectiveness excluded. Mission statements are intentions, not verified outcomes. No current census, tenure determination or legal advice."
+      },
+      {
+        "id": "carib-kalinago-ippf",
+        "title": "Indigenous Peoples Planning Framework, draft v6, May12,2022 — selected sections",
+        "publisher": "Commonwealth of Dominica, Ministry of Blue and Green Economy, Agriculture and National Food Security",
+        "url": "https://piu.agriculture.gov.dm/images/docs/IPPF_GEF_LEToBP_FINAL.pdf",
+        "type": "Government",
+        "topics": [
+          "Caribbean",
+          "Identity",
+          "Community history"
+        ],
+        "annotation": "The project framework distinguishes territory, ministry and local governance and sets participation and livelihood goals. It is a dated planning document, not proof those goals were achieved.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected actual PDF text: cover; pp5–6 project purpose/objectives; pp11–12 proposed livelihoods; pp15–16 institutional/geographic context; p25 selected planning-capacity discussion.",
+        "accessNotes": "Printed pages are one ahead of zero-index PDF pages. Not all70 pages, annex interviews, maps, tables or underlying legislation inspected. Census numbers, tenure rules, precise boundaries, officeholder/gender assertions and consent/outcome claims excluded."
+      },
+      {
+        "id": "carib-kalinago-plan-summary",
+        "title": "Indigenous Peoples Plan — council and committee summary (supporting)",
+        "publisher": "Government of Dominica, Kalinago Upliftment",
+        "url": "https://www.kalinagoaffairs.gov.dm/news/indigenous-peoples-plan",
+        "type": "Government",
+        "topics": [
+          "Caribbean",
+          "Identity",
+          "Community history"
+        ],
+        "annotation": "A short government explanation introduces Council and hamlet-committee structures. It is retained as supporting navigation rather than an extra full planning study.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual HTML body lines9–13, not its linked5.9MBPDF.",
+        "accessNotes": "Government summary with legacy terminology. Linked full plan and current law not inspected; do not equate hamlets with separate nations or assume present committee activity."
       }
     ],
     "relatedOriginalIds": [
       112
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "added-s1",
+      "carib-kalinago-ippf"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "researchGaps": [
+      "Community-authored histories and oral-history publications are still needed alongside government accounts.",
+      "Compare differing hamlet lists and spellings before adding individual village routes.",
+      "Underlying legislation, current statistics, implementation reports and collective consent were not assessed."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "Two selected-content starting works and a specifically scoped credited image are available. Broader history, community perspectives and source comparison remain open. No fixed quantity gate or full-history claim.",
+      "remainingLimits": [
+        "Community-authored histories and oral-history publications are still needed alongside government accounts.",
+        "Compare differing hamlet lists and spellings before adding individual village routes.",
+        "Underlying legislation, current statistics, implementation reports and collective consent were not assessed."
+      ]
+    },
+    "evidenceNotes": [
+      "Caribbean pilot: selected scope/date/access limits retained; supporting object/summary/event leads excluded from substantive counts. Supplementary work, not a completed20-profile cohort."
+    ],
     "slug": "kalinago",
     "regionGroups": [
       "Caribbean"
@@ -55362,6 +55450,74 @@
     ]
   },
   {
+    "name": "Lucayan",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-28",
+    "kind": "Historical people / reading label",
+    "region": "Caribbean / Bahamian archipelago — historical context",
+    "overview": "Lucayan is a historical reading label for Indigenous peoples of the Bahamian archipelago. The museum’s regional terminology and its relationship to broader Taíno history require careful contextual reading; full research remains queued.",
+    "relationshipNote": "The Turks and Caicos National Museum relates Lucayans to Taíno within a changing historical regional classification. This outline is a historical reading route, not a present government, a claim of disappearance or a determination of anyone’s current identity.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-28",
+    "identificationEvidence": [
+      {
+        "url": "https://www.tcmuseum.org/culture-history/lucayans/",
+        "publisher": "Turks and Caicos National Museum",
+        "title": "Lucayans — selected historical identity and geographic scope",
+        "scope": "Actual public Lucayan History opening, reader lines 20–34: names Lucayans, places them in the Bahamian archipelago before European contact, relates the museum’s label to Taíno, explicitly names Bahamas and Turks and Caicos, and presents changing regional classification around 1200 as a scholarly interpretation. Only identity/period/geography checked.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "NormalHTTP 200 public HTML and actual selected body read. Museum page includes outdated extinction, superiority and simplified ancestry formulations, which are not adopted. No disappearance, present descent, exclusive identity, exact chronology or archaeological-site ownership inferred; linked scholarly works, images and sensitive objects uninspected.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Lucayans",
+      "Lucayan people",
+      "Lucayan Tainos"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "taino"
+    ],
+    "researchGaps": [
+      "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+      "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated source bibliography, imagery and community review remain queued."
+      ]
+    },
+    "preferredName": "Lucayans",
+    "slug": "lucayan",
+    "regionGroups": [
+      "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "BS",
+        "name": "The Bahamas",
+        "key": "bs"
+      },
+      {
+        "id": "TC",
+        "name": "Turks and Caicos Islands",
+        "key": "tc"
+      }
+    ]
+  },
+  {
     "name": "Luiseño",
     "region": "Southern California",
     "kind": "People / related bands",
@@ -62550,6 +62706,64 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Moruga First Peoples",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-28",
+    "kind": "First Peoples community",
+    "region": "Caribbean / Trinidad and Tobago — Moruga community context",
+    "overview": "A name-only outline for the Moruga First Peoples, identified in a 2022 Trinidad and Tobago parliamentary report. Detailed history, sources and imagery remain queued.",
+    "relationshipNote": "The report identifies the Moruga First Peoples and their heritage work in and around Moruga. This verifies a distinct named community route; it does not establish a separate state government, universal ancestry label or present officeholders.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-28",
+    "identificationEvidence": [
+      {
+        "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+        "publisher": "Parliament of the Republic of Trinidad and Tobago",
+        "title": "Fourth Report of the Joint Select Committee on Human Rights, Equality and Diversity — State preservation of First Peoples cultural heritage, December 2022",
+        "scope": "Printed/PDF page 10, section 2.10: exact Moruga First Peoples name and Moruga setting. Page 14, section 3.1 lists MFP separately; page 19, section 3.20 records the group’s own representation to the inquiry. No event imagery or ceremonial content inspected for reuse.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "Actual selected public PDF body read in ordinary web reader and normalHTTP 200 cached PDF/extracted pages. Report has 79 pages; selected identification paragraphs only, not the full report/appendices.2022 listing is dated evidence, not confirmation of 2026 officers, funding, registration or legal recognition. No exclusive-representation, ancestry-purity or government-status claim adopted.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "MFP"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+      "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated source bibliography, imagery and community review remain queued."
+      ]
+    },
+    "slug": "moruga-first-peoples",
+    "regionGroups": [
+      "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "TT",
+        "name": "Trinidad and Tobago",
+        "key": "tt"
       }
     ]
   },
@@ -78465,6 +78679,64 @@
     ]
   },
   {
+    "name": "Partners for First People’s Development",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-28",
+    "kind": "First Peoples organization — dated parliamentary listing",
+    "region": "Caribbean / Trinidad and Tobago — organization-listing context",
+    "overview": "A name-only outline for an organization listed among Trinidad and Tobago First Peoples groups in a 2022 parliamentary report. Its history and organizational details remain queued.",
+    "relationshipNote": "This is an organization route, not another Indigenous people or an assumed tribal government. The selected parliamentary list establishes its name and Trinidad and Tobago context; membership, internal structure and current registration remain unverified.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-28",
+    "identificationEvidence": [
+      {
+        "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+        "publisher": "Parliament of the Republic of Trinidad and Tobago",
+        "title": "Fourth Report of the Joint Select Committee on Human Rights, Equality and Diversity — State preservation of First Peoples cultural heritage, December 2022",
+        "scope": "Printed/PDF page 14, section 3.1: exact list item Partners for First People’s Development (PFFPD), grouped with First Peoples organizations/communities in the ministry’s submission. Page 5 abbreviation list confirms PFFPD. No inference of ethnicity from organizational membership.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "Actual selected public PDF body read in ordinary web reader and normalHTTP 200 cached PDF/extracted pages. Report has 79 pages; selected identification paragraphs only, not the full report/appendices.2022 listing is dated evidence, not confirmation of 2026 officers, funding, registration or legal recognition. No exclusive-representation, ancestry-purity or government-status claim adopted.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "PFFPD"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+      "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated source bibliography, imagery and community review remain queued."
+      ]
+    },
+    "slug": "partners-for-first-peoples-development",
+    "regionGroups": [
+      "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "TT",
+        "name": "Trinidad and Tobago",
+        "key": "tt"
+      }
+    ]
+  },
+  {
     "originalId": 281,
     "name": "Pascua Yaqui",
     "region": "Southwest / Arizona / Mexico",
@@ -88019,6 +88291,67 @@
     ]
   },
   {
+    "name": "Santa Rosa First Peoples Community (Trinidad)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-28",
+    "kind": "First Peoples community organization",
+    "region": "Caribbean / Trinidad and Tobago — Arima community-organization context",
+    "overview": "A name-only outline for the Santa Rosa First Peoples Community in Arima, Trinidad. Community-led history, annotated sources and imagery remain queued.",
+    "relationshipNote": "The 2022 parliamentary report identifies this community organization at Arima and attests Santa Rosa Carib Community as its earlier name. It is distinct from California’s Santa Rosa governments; no relationship to those governments is inferred.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-28",
+    "identificationEvidence": [
+      {
+        "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+        "publisher": "Parliament of the Republic of Trinidad and Tobago",
+        "title": "Fourth Report of the Joint Select Committee on Human Rights, Equality and Diversity — State preservation of First Peoples cultural heritage, December 2022",
+        "scope": "Printed/PDF page 10, section 2.8: exact Santa Rosa First Peoples Community name, explicit earlier name Santa Rosa Carib Community, and cultural-resource-center location at Arima. Page 14, section 3.1 separately lists the organization among Trinidad and Tobago First Peoples groups. Only identity/kind/location checked.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "Actual selected public PDF body read in ordinary web reader and normalHTTP 200 cached PDF/extracted pages. Report has 79 pages; selected identification paragraphs only, not the full report/appendices.2022 listing is dated evidence, not confirmation of 2026 officers, funding, registration or legal recognition. No exclusive-representation, ancestry-purity or government-status claim adopted.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Santa Rosa First Peoples Community",
+      "Santa Rosa Carib Community",
+      "SRFPC"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+      "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated source bibliography, imagery and community review remain queued."
+      ]
+    },
+    "preferredName": "Santa Rosa First Peoples Community",
+    "slug": "santa-rosa-first-peoples-community-trinidad",
+    "regionGroups": [
+      "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "TT",
+        "name": "Trinidad and Tobago",
+        "key": "tt"
+      }
+    ]
+  },
+  {
     "name": "Santa Rosa Indian Community of the Santa Rosa Rancheria, California",
     "originalId": null,
     "added": true,
@@ -95471,7 +95804,7 @@
     "name": "Taíno",
     "region": "Caribbean / Greater Antilles",
     "kind": "People / community",
-    "overview": "Taíno histories and contemporary identities span Caribbean island communities and diaspora. Smithsonian research examines living heritage and identity beyond narratives of disappearance.",
+    "overview": "Taíno is a broad Caribbean reading route encompassing living identities and differing island and diaspora experiences. A Smithsonian teaching guide and an organizational account offer two starting perspectives; individual communities and organizations deserve their own entries.",
     "sections": [
       {
         "title": "Identity and context",
@@ -95488,6 +95821,27 @@
           "added-s2",
           "added-s3"
         ]
+      },
+      {
+        "title": "Living heritage after colonial disruption",
+        "text": "The Smithsonian guide places surviving farming, weaving and pottery traditions alongside European colonization. Its contemporary focus challenges disappearance narratives. It does not turn ancestry, appearance or a genetic result into a determination of community membership.",
+        "sourceIds": [
+          "added-s3"
+        ]
+      },
+      {
+        "title": "An organization’s contemporary voice",
+        "text": "The United Confederation of Taíno People describes continuing identity and contemporary artistic practice. It is one representative institution, not a substitute for every island community or a single government for all Taíno people.",
+        "sourceIds": [
+          "carib-taino-uctp"
+        ]
+      },
+      {
+        "title": "A specifically attributed historic object",
+        "text": "The pictured ceramic bowl is catalogued as Taíno,13th–15th century, from the Dominican Republic. It provides an older material example, not a portrait of living people or a design shared by every community.",
+        "sourceIds": [
+          "carib-taino-bowl-source"
+        ]
       }
     ],
     "sources": [
@@ -95502,8 +95856,11 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Historical context for this entry. Read “Taino: Native Heritage and Identity in the Caribbean | Smithsonian Institution” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Retained event/programme lead. No unseen exhibition body, proceedings, participant presentation or recording is treated as inspected.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Access/metadata assessment only; no substantive historical body review.",
+        "accessNotes": "Legacy Smithsonian event URL timed out; symposium programme is an event/agenda lead, not inspected proceedings or a viewed recording. Original IDs/URLs retained. Neither counts toward substantive review."
       },
       {
         "id": "added-s2",
@@ -95516,28 +95873,97 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Historical context for this entry. Read “Taíno: A Symposium in Conversation with the Movement” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Retained event/programme lead. No unseen exhibition body, proceedings, participant presentation or recording is treated as inspected.",
+        "accessed": "2026-10-19",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Access/metadata assessment only; no substantive historical body review.",
+        "accessNotes": "Legacy Smithsonian event URL timed out; symposium programme is an event/agenda lead, not inspected proceedings or a viewed recording. Original IDs/URLs retained. Neither counts toward substantive review."
       },
       {
         "id": "added-s3",
-        "title": "Taíno - Native Heritage and Identity in the Caribbean",
-        "publisher": "americanindian.si.edu",
+        "title": "Taíno: Native Heritage and Identity in the Caribbean — selected gallery-guide text",
+        "publisher": "National Museum of the American Indian / Smithsonian Latino Center",
         "url": "https://americanindian.si.edu/nk360/pdf/Taino-Gallery-Guide-English.pdf",
         "type": "Museum / archive",
         "topics": [
+          "Caribbean",
           "Identity",
-          "History",
-          "Contemporary life"
+          "Community history"
         ],
-        "annotation": "Historical context for this entry. Read “Taíno - Native Heritage and Identity in the Caribbean” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "A public teaching guide emphasizes living heritage and continuing identity alongside colonial disruption. Its classroom overview is not a complete history of every island community.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected actual text from both PDF pages: p1 language/continuity introduction; p2 Who Are the Taíno, homeland and surviving farming/weaving/pottery paragraphs.",
+        "accessNotes": "Two-page PDF text read normally. Layout order is non-linear; no full figure/map inspection, image reuse, genetic inference, population estimate or endorsement of ceremonial interpretations. The Spanish edition is not another counted work."
+      },
+      {
+        "id": "carib-taino-uctp",
+        "title": "Taíno History and Art — selected organizational perspective",
+        "publisher": "United Confederation of Taíno People",
+        "url": "https://www.uctp.org/taino-history-art",
+        "type": "Indigenous-led",
+        "topics": [
+          "Caribbean",
+          "Identity",
+          "Community history"
+        ],
+        "annotation": "The organization asserts living Taíno identity and describes language and artistic continuities. Read it as one representative institution’s perspective.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Actual selected History and Art body lines30,46,52–54,126–128; English and Spanish are parallel presentations, not two works.",
+        "accessNotes": "Organization is not treated as the government of every Taíno community. Broad Florida/homeland boundaries, recognition list, ancestry tests, images and categorical first-encounter claims excluded. No linked language lessons or registry reviewed."
+      },
+      {
+        "id": "carib-taino-bowl-source",
+        "title": "Bowl, Taíno, Dominican Republic,13th–15th century — object context",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/316831",
+        "type": "Museum / archive",
+        "topics": [
+          "Caribbean",
+          "Identity",
+          "Community history"
+        ],
+        "annotation": "An explicitly attributed ceramic container supplies the historical object pictured here. This supporting object record does not represent all Taíno communities.",
+        "accessed": "2026-10-28",
+        "contentReviewedAt": "2026-10-28",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Exact object details, media Public Domain label and general ceramics introduction, lines3–47.",
+        "accessNotes": "Supporting image/object context only, not an additional substantive history work. Maker and photographer not named. No function, sacred status, exact findspot, provenance beyond published gift credit or universal motif meaning inferred."
       }
     ],
     "relatedOriginalIds": [
       112
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "added-s3",
+      "carib-taino-uctp"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-10-28",
+    "researchComplete": false,
+    "researchGaps": [
+      "Develop individually scoped island-community and diaspora histories using community publications and scholarship.",
+      "Original colonial records, language documentation and comparative interpretations remain open.",
+      "The two inspected starting works are not an exhaustive regional history or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-10-28",
+      "rationale": "Two selected-content starting works and a specifically scoped credited image are available. Broader history, community perspectives and source comparison remain open. No fixed quantity gate or full-history claim.",
+      "remainingLimits": [
+        "Develop individually scoped island-community and diaspora histories using community publications and scholarship.",
+        "Original colonial records, language documentation and comparative interpretations remain open.",
+        "The two inspected starting works are not an exhaustive regional history or community endorsement."
+      ]
+    },
+    "evidenceNotes": [
+      "Caribbean pilot: selected scope/date/access limits retained; supporting object/summary/event leads excluded from substantive counts. Supplementary work, not a completed20-profile cohort."
+    ],
     "slug": "taino",
     "regionGroups": [
       "Caribbean"
@@ -103596,6 +104022,88 @@
     ]
   },
   {
+    "name": "United Confederation of Taíno People",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-28",
+    "kind": "Indigenous representative institution",
+    "region": "Caribbean / Puerto Rico — institutional headquarters context",
+    "overview": "A name-only outline for the United Confederation of Taíno People, an Indigenous representative institution. Its own publications distinguish it from a tribe; full institutional research remains queued.",
+    "relationshipNote": "The UCTP speaks as a representative institution within a diverse Caribbean Indigenous world; this is not another people or a replacement for the broader Taíno reading route. Its own FAQ distinguishes the Confederation from its incorporated nonprofit and warns that registry enrollment does not confer community recognition.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-28",
+    "identificationEvidence": [
+      {
+        "url": "https://www.uctp.org/tribal-registry-taino-people",
+        "publisher": "United Confederation of Taíno People",
+        "title": "Intertribal Registry — institutional identity FAQ",
+        "scope": "Actual cached public FAQ headed IS THE UNITED CONFEDERATION OF TAÍNO PEOPLE A TRIBE?: explicitly describes a representative institution rather than a tribe; selected public notice says registration does not confer Confederation membership or recognition within a Taíno iukaieke. Separate FAQ distinguishes the Confederation and its incorporated nonprofit.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "NormalHTTP 200 page HTML and extracted visible text actually inspected. Ordinary web reader exposes the notice but truncates before the FAQ; full cached body includes the actual FAQ. No registry enrollment, member validation, legal nonprofit-status audit or underlying organizing documents inspected.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.uctp.org/_files/ugd/2b292f_a1b153f6655743aa88a9747cd9a5ae0e.pdf",
+        "publisher": "United Confederation of Taíno People",
+        "title": "UCTP message to the City of New Haven, October 12, 2019",
+        "scope": "Actual single-page letter, title/date and opening paragraph: self-description as Indigenous Peoples Representative Organization. Only institutional name/kind checked; broader history, affiliations and individual titles not validated.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "NormalHTTP 200 one-page primary PDF and extracted text actually inspected. Dated self-description is not proof of state recognition, universal representation or current individual appointments.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.uctp.org/",
+        "publisher": "United Confederation of Taíno People",
+        "title": "UCTP — current public name and headquarters listing",
+        "scope": "Actual public header gives English/Spanish names; CONTACT US body identifies headquarters at Mayagüez, Puerto Rico and a separate New York office. Only named institution and headquarters country context used.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "NormalHTTP 200 public page body actually inspected. Administrative headquarters only; no homeland, geographic membership, jurisdiction, endorsement or current legal status inferred. No personal contact information published in the outline.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "UCTP",
+      "Confederación Unida del Pueblo Taíno",
+      "CUPT"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "taino"
+    ],
+    "researchGaps": [
+      "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+      "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated source bibliography, imagery and community review remain queued."
+      ]
+    },
+    "slug": "united-confederation-of-taino-people",
+    "regionGroups": [
+      "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "PR",
+        "name": "Puerto Rico",
+        "key": "pr"
+      }
+    ]
+  },
+  {
     "name": "United Keetoowah Band of Cherokee Indians in Oklahoma",
     "originalId": null,
     "added": true,
@@ -105363,6 +105871,65 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Warao Nation (Trinidad)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-10-28",
+    "kind": "Named Warao community — dated Trinidad listing",
+    "region": "Caribbean / Trinidad and Tobago — Siparia community context",
+    "overview": "A name-only outline for the Warao Nation community identified in the Siparia region of Trinidad by a 2022 parliamentary report. Fuller community history remains queued.",
+    "relationshipNote": "The report’s Warao Nation label concerns a named Siparia-region community. This is not an outline for all Warao peoples, a classification of every Venezuelan migrant community, or an assertion of legal nation-state recognition.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-10-28",
+    "identificationEvidence": [
+      {
+        "url": "https://www.ttparliament.org/wp-content/uploads/2020/11/p12-s3-J-20221209-HRED-R4.pdf",
+        "publisher": "Parliament of the Republic of Trinidad and Tobago",
+        "title": "Fourth Report of the Joint Select Committee on Human Rights, Equality and Diversity — State preservation of First Peoples cultural heritage, December 2022",
+        "scope": "Printed/PDF page 10, section 2.9: exact heading The Warao Nation and explicit Siparia-region community identification. Page 14, section 3.1 lists this group separately; page 18, sections 3.17–3.19 records attributed representations from it. Ancestry-purity language, contemporary officers and recognition claims not adopted.",
+        "reviewedAt": "2026-10-28",
+        "accessNotes": "Actual selected public PDF body read in ordinary web reader and normalHTTP 200 cached PDF/extracted pages. Report has 79 pages; selected identification paragraphs only, not the full report/appendices.2022 listing is dated evidence, not confirmation of 2026 officers, funding, registration or legal recognition. No exclusive-representation, ancestry-purity or government-status claim adopted.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Warao Nation"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop a community-led or appropriately scoped historical introduction and an annotated actually inspected reading collection.",
+      "Verify individually relevant imagery, creator and reuse terms before a substantive guide is published.",
+      "Verify fuller naming, organizational relationships and present-day context; identity checks do not establish ancestry, membership, representation, jurisdiction or community endorsement."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline. Selected identity evidence is separate from substantive historical sources; no full guide, picture or adequacy assessment.",
+      "remainingLimits": [
+        "History, annotated source bibliography, imagery and community review remain queued."
+      ]
+    },
+    "preferredName": "Warao Nation — Trinidad community",
+    "slug": "warao-nation-trinidad",
+    "regionGroups": [
+      "Caribbean"
+    ],
+    "mapRegions": [
+      {
+        "id": "TT",
+        "name": "Trinidad and Tobago",
+        "key": "tt"
       }
     ]
   },
