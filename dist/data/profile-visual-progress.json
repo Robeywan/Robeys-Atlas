@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 273,
+    "selectedProfiles": 274,
     "existingApache": 1,
-    "newProfileTreatments": 272,
-    "newTreatmentsWithPhotographs": 266,
+    "newProfileTreatments": 273,
+    "newTreatmentsWithPhotographs": 267,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -5528,6 +5528,88 @@
         "used": 1
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:181;--profile-angle:-63deg;--profile-photo:url(\"../../assets/profile-visuals/c6-fort-william-autumn.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "garifuna",
+      "name": "Garifuna",
+      "originalId": 112,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 228,
+      "angle": -17,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "garifuna-hopkins-almond-beach-rodriguez-2012",
+          "profileSlugs": [
+            "garifuna"
+          ],
+          "profileName": "Garifuna",
+          "mediaType": "photograph",
+          "title": "Almond Beach, Hopkins, Stann Creek, Belize,2012",
+          "creator": "Walter Rodriguez",
+          "archive": "Wikimedia Commons; originally posted by Walter Rodriguez on Flickr",
+          "date": "1 May 2012, as recorded by the item and photographic metadata",
+          "credit": "Walter Rodriguez,2012 · Wikimedia Commons, originally Flickr · CC BY 2.0 · Full-frame web copy proportionally resized/JPEG-compressed; CSS crops/overlays.",
+          "cardCredit": "Walter Rodriguez · CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almond_Beach,_Hopkins,_Stann_Creek,_Belize.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Almond_Beach%2C_Hopkins%2C_Stann_Creek%2C_Belize.jpg",
+          "rightsLabel": "Creative Commons Attribution2.0 Generic",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-10-29",
+          "alt": "A sandy beach beside blue-green Caribbean water, with coastal plants and palm trees to the right beneath a blue sky; identified by the photographer's record as Almond Beach in the Hopkins area of Belize.",
+          "scope": "Modern Almond Beach landscape identified as Hopkins-area, Stann Creek, Belize. The BelizeTourismBoard identifies Hopkins with a Garifuna community; this is narrow place context, not a photograph of Garifuna people or a boundary, property-ownership, exclusive-occupation or all-community claim. Complete delivered frame inspected; original cameraRAW and earlier Photoshop processing history uninspected.",
+          "contextSources": [
+            {
+              "title": "Hopkins — Travel Belize / BelizeTourismBoard",
+              "url": "https://www.travelbelize.org/destinations/hopkins/",
+              "inspectionScope": "Actual indexed institutional page body read via web reader 2026-10-29, especially the named Hopkins/Garifuna relationship and HopkinsBeach reference. This is tourism interpretation used narrowly for place context, not an authority for population, history, territorial ownership or outcomes. A separate direct HTTP retrieval returned403 and was stopped; no normal-browser or fully live-page inspection is claimed."
+            }
+          ],
+          "recordInspection": "Actual Commons item Summary, Licensing, FileHistory and metadata read 2026-10-29: exact AlmondBeach/Hopkins/StannCreek identification, WalterRodriguez authorship, May1,2012 date, Flickr source7213189710 and media-specific CC BY 2.0 licence. Commons records a March3,2013 FlickreviewR confirmation of that Flickr licence. This is photographic CC BY 2.0, not metadataCC0. The Commons record and its linked full JPEG independently retrieved normally HTTP 200. The original Flickr page returned404; present Flickr caption/licence could not be independently re-read. No permission grant or endorsement is asserted.",
+          "accessLimits": "Web-reader image request first timed out; one normal direct request of the observed original-file URL subsequently succeeded HTTP 200. The Flickr source page returned404; no mirror hunt or blocked-origin endpoint retry. TravelBelize actual indexed body was read via web tool, but direct HTTP403 stopped and disclosed. Original3888×2592 delivered JPEG pixels viewed proportionally, not original RAW or pixel-by-pixel forensic review.",
+          "asset": "assets/profile-visuals/garifuna-hopkins-almond-beach-rodriguez-2012.jpg",
+          "cardAsset": "assets/profile-visuals/garifuna-hopkins-almond-beach-rodriguez-2012.jpg",
+          "dimensions": {
+            "width": 1800,
+            "height": 1200
+          },
+          "width": 1800,
+          "height": 1200,
+          "bytes": 398674,
+          "sha256": "daab7ac53fa9c6bf11a3f9ad683575e104cb832de97d1ff1c25d08339db91feb",
+          "assetSha256": "daab7ac53fa9c6bf11a3f9ad683575e104cb832de97d1ff1c25d08339db91feb",
+          "retrievedSourceSha256": "976d3b7775fd1e6fc6d3ac7eb75b80631bc1e427df45f2f69ece3a5e21f2e8f5",
+          "fileInspection": {
+            "decoded": true,
+            "visuallyInspected": true,
+            "tool": "view_image",
+            "date": "2026-10-29",
+            "fullAvailableFrame": true,
+            "displayedAt": {
+              "width": 1920,
+              "height": 1280
+            },
+            "sourceSha256": "976d3b7775fd1e6fc6d3ac7eb75b80631bc1e427df45f2f69ece3a5e21f2e8f5",
+            "sha256": "daab7ac53fa9c6bf11a3f9ad683575e104cb832de97d1ff1c25d08339db91feb"
+          },
+          "reproductionNote": "Complete inspected3888×2592 source retained privately. Published web copy is proportionally resized to 1800×1200 and JPEG-compressed, with no pixel crop, recoloring, retouching or generation. Source and derivative hashes recorded separately. Card/backdrop CSS crops and overlays are display changes; complete web frame remains available. CC BY 2.0 attribution and licence link retained; no endorsement.",
+          "status": "actual-available-frame-inspected-ready",
+          "inputFileSha256": "976d3b7775fd1e6fc6d3ac7eb75b80631bc1e427df45f2f69ece3a5e21f2e8f5"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:228;--profile-angle:-17deg;--profile-photo:url(\"../../assets/profile-visuals/garifuna-hopkins-almond-beach-rodriguez-2012.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
