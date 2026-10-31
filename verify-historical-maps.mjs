@@ -67,6 +67,11 @@ for(const [i,old] of latestQueue.profiles.entries()){
  }
  if(item.researchStatus==='queued')assert.deepEqual(item,expected,'Latest queued identity fields and repaired pointer preserved');
  else {
+  if(!Object.hasOwn(expected,'identificationEvidence')&&Object.hasOwn(item,'identificationEvidence')){
+   const priorIdentity=JSON.parse(execFileSync('git',['show','HEAD:data/profiles.json'],{maxBuffer:50e6})).find(p=>p.name===item.name);assert(priorIdentity);
+   assert.deepEqual(item.identificationEvidence,priorIdentity.identificationEvidence,'New queue reference display must copy the earlier raw identity evidence exactly');
+   expected.identificationEvidence=structuredClone(item.identificationEvidence);
+  }
   const identity=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!queuePromotionFields.has(key)));
   assert.deepEqual(identity(item),identity(expected),'Reviewed-guide promotion preserves identity and repaired pointer');
  }
@@ -76,7 +81,7 @@ const earlierProfiles=JSON.parse(execFileSync('git',['show','HEAD:data/profiles.
 const currentRawProfiles=read('data/profiles.json');
 const startingRows=fs.readdirSync('data').filter(name=>/^twenty-profile-batch-\d+\.json$/.test(name)).flatMap(name=>read('data/'+name).profiles);
 const visualImages=read('data/profile-visual-assets.json').images;
-const supplementaryGuides=[read('research/caribbean-source-expansion-20261029.json'),read('research/caribbean-media-completion-20261029.json'),read('research/caribbean-community-expansion-20261029.json'),read('research/pit-river-175-20261030.json')].flatMap(record=>record.publicGuideUpdates);
+const supplementaryGuides=[read('research/caribbean-source-expansion-20261029.json'),read('research/caribbean-media-completion-20261029.json'),read('research/caribbean-community-expansion-20261029.json'),read('research/pit-river-175-20261030.json'),read('research/atsugewi-document-176-20261031.json')].flatMap(record=>record.publicGuideUpdates);
 for(const item of queued.profiles){
  const p=profiles.find(p=>p.slug===item.slug);
  assert(p&&p.name===item.name);
@@ -87,9 +92,9 @@ for(const item of queued.profiles){
   assert(item.researchStatus==='source-guide'&&item.entryStage==='reviewed-starting-guide');
   assert(p.researchStatus==='source-guide'&&p.entryStage==='reviewed-starting-guide'&&p.researchComplete===false);
   const supplemental=supplementaryGuides.find(row=>row.slug===p.slug&&row.name===p.name);
-  if(supplemental&&(!p.startingGuide||supplemental.batchId==='pit-river-175-20261030')){
+  if(supplemental&&(!p.startingGuide||['pit-river-175-20261030','atsugewi-document-176-20261031'].includes(supplemental.batchId))){
    // A reviewed supplementary guide is not a fictitious completed twenty-guide cohort.
-   assert(['hopkins-belize','dangriga-belize','punta-gorda-belize','barranco-belize','seine-bight-belize','santa-rosa-first-peoples-community-trinidad','moruga-first-peoples','lucayan','guaiqueri','atsuge','pit-river-tribe','hewisedawi-band-pit-river-tribe'].includes(p.slug));
+   assert(['hopkins-belize','dangriga-belize','punta-gorda-belize','barranco-belize','seine-bight-belize','santa-rosa-first-peoples-community-trinidad','moruga-first-peoples','lucayan','guaiqueri','atsuge','pit-river-tribe','hewisedawi-band-pit-river-tribe','atsugewi-band-pit-river-tribe'].includes(p.slug));
    assert(supplemental.selectedReadingPath.length);
    for(const pick of supplemental.selectedReadingPath){
     const source=p.sources.find(s=>s.id===(pick.sourceId||pick.id));
