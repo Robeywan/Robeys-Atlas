@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-02",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 290,
+    "selectedProfiles": 310,
     "existingApache": 1,
-    "newProfileTreatments": 289,
-    "newTreatmentsWithPhotographs": 283,
+    "newProfileTreatments": 309,
+    "newTreatmentsWithPhotographs": 303,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -1048,6 +1048,73 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 11
+    },
+    {
+      "slug": "angoon-community-association",
+      "name": "Angoon Community Association",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 247,
+      "angle": 50,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "e15-angoon-village-2014",
+          "profileSlugs": [
+            "angoon-community-association"
+          ],
+          "asset": "assets/profile-visuals/e15-angoon-village-2014.jpg",
+          "cardAsset": "assets/profile-visuals/e15-angoon-village-2014.jpg",
+          "title": "Angoon waterfront, 2014",
+          "credit": "James Brooks, via Wikimedia Commons · CC BY 2.0",
+          "cardCredit": "James Brooks · CC BY 2.0",
+          "creator": "James Brooks",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angoon.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Angoon.jpg/960px-Angoon.jpg",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "scope": "A 2014 named-place view of Angoon. It illustrates the setting of the Association’s own Admiralty Island community account; it is not a portrait of tribal citizens, a boundary or ownership map, or a current-condition assessment. Complete offered 960×344 JPEG viewed; no standalone artwork or identifiable people visible. Commons summary, photographer, date, CC BY 2.0 terms and Flickr review read. The source’s embedded larger dimensions were not treated as the delivered image size. Saved byte-for-byte without resizing, cropping, recompression or retouching. Card and opened-page assets are the same unchanged file.",
+          "reviewedAt": "2026-11-02",
+          "date": "2014-05-30",
+          "alt": "A waterfront view of Angoon, with houses, docks and forest below low clouds.",
+          "contextSources": [
+            {
+              "title": "Angoon Community Association testimony in EPA Public Meeting #12227, September 8, 2000",
+              "url": "https://19january2021snapshot.epa.gov/sites/static/files/2015-11/documents/juneau_alaska_hearing_transcript.pdf",
+              "inspectionScope": "Printed pages 143–145 (PDF pages 142–144), opening and selected continuation of the Association letter: speaker attribution, Admiralty Island/Tlingit community setting and cruise-ship environmental concerns. Not the full hearing or a complete review of the letter."
+            }
+          ],
+          "retrievalNotes": {
+            "file": "e15-angoon-village-2014.jpg",
+            "requestedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Angoon.jpg/960px-Angoon.jpg",
+            "finalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Angoon.jpg/960px-Angoon.jpg",
+            "contentType": "image/jpeg",
+            "format": "JPEG",
+            "dimensions": [
+              960,
+              344
+            ],
+            "bytes": 86915,
+            "sha256": "99b327f3e61478433aa8b80c6de88071eecd8195ad57586b45805feae1317b5d",
+            "retrievedAt": "2026-11-02",
+            "transformation": "None; normally offered file saved byte-for-byte."
+          },
+          "deliveredPixelsViewed": true
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:247;--profile-angle:50deg;--profile-photo:url(\"../../assets/profile-visuals/e15-angoon-village-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
     },
     {
       "slug": "anishinaabe",
@@ -3387,6 +3454,79 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "cheeshna-tribe",
+      "name": "Cheesh-Na Tribe",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 39,
+      "angle": -76,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "a15-cheeshna-chistochina-airscape",
+          "profileSlugs": [
+            "cheeshna-tribe"
+          ],
+          "asset": "assets/profile-visuals/a15-cheeshna-chistochina-airscape.jpg",
+          "cardAsset": "assets/profile-visuals/a15-cheeshna-chistochina-airscape.jpg",
+          "title": "Chistochina airfield in a historical Army airscape",
+          "credit": "War Department, Army Air Forces / National Archives, NAID 68158764",
+          "cardCredit": "War Department, Army Air Forces / National Archives, NAID 68158764",
+          "creator": "War Department, Army Air Forces; individual photographer not recorded",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landing_Fields_-_Alaska_-_Chistochina_-_NARA_-_68158764.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Landing_Fields_-_Alaska_-_Chistochina_-_NARA_-_68158764.jpg/960px-Landing_Fields_-_Alaska_-_Chistochina_-_NARA_-_68158764.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20190704195340",
+          "rightsLabel": "Public domain in the United States — official U.S. Air Force/Army Air Forces work, item-specific Commons PD-USGov-Military-Air Force notice",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Landing_Fields_-_Alaska_-_Chistochina_-_NARA_-_68158764.jpg#Licensing",
+          "scope": "Actual Commons item body, NARA identifier, record creator, catalog date range and media-specific public-domain notice read. Complete offered 960×756 JPEG preview downloaded and fully viewed, including the full mount and caption naming Chistochina. This is historical airfield/landscape context at the village’s named place; ANA’s report locates the Cheesh’na Tribe in Chistochina. It is not a photograph of the Tribal government, a portrait of residents, or a boundary/access map. No crop or modification; larger NARA scan and cropped variant not downloaded or inspected.",
+          "reviewedAt": "2026-11-02",
+          "date": "Catalog date range 1917–1964; plate marked received 8-21-42. Exact exposure date not independently established.",
+          "alt": "Full historical mounted aerial photograph labeled Chistochina, with an airfield, winding channels and a broad braided river plain.",
+          "contextSources": [
+            {
+              "title": "ANA FY 2020 report, Cheesh’Na entry, pp.18–20",
+              "url": "https://www.govinfo.gov/content/pkg/CMR-HE25-00183340/pdf/CMR-HE25-00183340.pdf",
+              "inspectionScope": "Actual selected profile explicitly locates Cheesh’na in Chistochina."
+            },
+            {
+              "title": "NARA / Commons item 68158764",
+              "url": "https://commons.wikimedia.org/wiki/File:Landing_Fields_-_Alaska_-_Chistochina_-_NARA_-_68158764.jpg",
+              "inspectionScope": "Item title and photographed mount both name Chistochina; official record creator and exact media license read."
+            }
+          ],
+          "width": 960,
+          "height": 756,
+          "sha256": "3c0cf76165d9328c152e27cbca9cafc519b0b0a9c588dc3192b7554fd095a676",
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "httpStatus": 200,
+            "mediaType": "image/jpeg",
+            "bytes": 205630,
+            "dimensions": {
+              "width": 960,
+              "height": 756
+            },
+            "sha256": "3c0cf76165d9328c152e27cbca9cafc519b0b0a9c588dc3192b7554fd095a676",
+            "transformations": "None. Offered complete JPEG frame retained byte-for-byte; same file proposed for card and opened-page image.",
+            "actualCompleteFrameViewed": true,
+            "largerOriginalInspected": false
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:39;--profile-angle:-76deg;--profile-photo:url(\"../../assets/profile-visuals/a15-cheeshna-chistochina-airscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "chehalis",
       "name": "Chehalis",
       "originalId": 49,
@@ -3613,6 +3753,72 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "chickaloon-native-village",
+      "name": "Chickaloon Native Village",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 71,
+      "angle": 73,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "s15-chickaloon-historical-place",
+          "profileSlugs": [
+            "chickaloon-native-village"
+          ],
+          "asset": "assets/profile-visuals/s15-chickaloon-historical-place.jpg",
+          "cardAsset": "assets/profile-visuals/s15-chickaloon-historical-place.jpg",
+          "title": "Chickaloon and its river, approximately 1915–1925",
+          "credit": "Unknown photographer / University of Washington Special Collections, AWC1272; via Wikimedia Commons",
+          "cardCredit": "Unknown photographer / University of Washington Special Collections, AWC1272; via Wikimedia Commons",
+          "creator": "Unknown photographer",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chickaloon,_Alaska,_between_1915_and_1925_(AL%2BCA_964).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Chickaloon%2C_Alaska%2C_between_1915_and_1925_%28AL%2BCA_964%29.jpg",
+          "rightsLabel": "Public domain in the United States — historical U.S. postcard, as recorded on the exact Commons file page",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Chickaloon,_Alaska,_between_1915_and_1925_(AL%2BCA_964).jpg#Summary",
+          "scope": "The exact Commons file page identifies the photographed place, UW collection/accession, unknown photographer, approximate date and expired U.S. copyright basis. Actual 768×473 delivered JPEG inspected. This is a historical place view of Chickaloon and its river during the railroad and coal-development period, not a portrait of the tribal government or an assertion about the identity of residents, particular buildings, land ownership, or territorial extent. The Tribe’s collections page specifically connects its name and ancestral village site with the Chickaloon River. The Commons file history records an earlier automatic watermark crop; this package uses that normally delivered file unchanged and makes no new crop.",
+          "reviewedAt": "2026-11-02",
+          "date": "Between 1915 and 1925; catalogued circa 1920; exact photographer and date unknown",
+          "alt": "Historical black-and-white view of the Chickaloon River curving below a settlement, with wooded hills and mountains beyond.",
+          "contextSources": [
+            {
+              "title": "CVTC Collections — Nay’dini’aa Na’ Kayax",
+              "url": "https://sharing.chickaloon-nsn.gov/community/naydiniaa-na-kayax",
+              "inspectionScope": "Public introductory body, paragraphs 1–5 (web-reader lines 1–5), read 2026-11-02. Paragraph 1 specifically connects the most recent ancestral village site and tribal name to the Chickaloon River. This is visual association context only, not an additional counted substantive work."
+            },
+            {
+              "title": "Chickaloon Native Village — Brief History V1.0",
+              "url": "https://www.chickaloon-nsn.gov/wp-content/uploads/2018/12/CVTC-BriefHistoryV1.0.pdf",
+              "inspectionScope": "Complete single printed page, including 2018 footer; source body and local rendered page inspected 2026-11-02. Supplies railroad and extraction context; no building identification inferred from the image."
+            }
+          ],
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "sha256": "5ce3dc138eb17532c1e7df3c3a1516f471a3d23059d00e5f04ee528694fbe73d",
+            "width": 768,
+            "height": 473,
+            "bytes": 49700,
+            "format": "JPEG",
+            "transformation": "None. Downloaded JPEG bytes are unchanged; the same full frame is proposed for card and opened page.",
+            "inspectionScope": "Actual complete delivered frame visually inspected at the recorded dimensions. Larger originals were not inspected or inferred."
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:71;--profile-angle:73deg;--profile-photo:url(\"../../assets/profile-visuals/s15-chickaloon-historical-place.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "chickasaw",
@@ -5032,6 +5238,60 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "craig-tribal-association",
+      "name": "Craig Tribal Association",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 144,
+      "angle": 38,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "i15-craig-cannery-1912",
+          "profileSlugs": [
+            "craig-tribal-association"
+          ],
+          "asset": "assets/profile-visuals/i15-craig-cannery-1912.jpg",
+          "cardAsset": "assets/profile-visuals/i15-craig-cannery-1912.jpg",
+          "title": "Craig from the water, circa 1912",
+          "credit": "John E. Thwaites; University of Washington Libraries, Special Collections, John E. Thwaites Photographs, PH Coll 247.839, item 379.",
+          "cardCredit": "J. E. Thwaites · UW Libraries, ca. 1912",
+          "creator": "John E. Thwaites; University of Washington Libraries, Special Collections, John E. Thwaites Photographs, PH Coll 247.839, item 379.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Craig_from_the_water,_showing_cannery_buildings,_ca_1912_(THWAITES_379).jpeg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Craig_from_the_water%2C_showing_cannery_buildings%2C_ca_1912_%28THWAITES_379%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — pre-1931 U.S. publication; photographer died in 1940",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Craig_from_the_water,_showing_cannery_buildings,_ca_1912_(THWAITES_379).jpeg",
+          "scope": "BIA’s 2017 selected historical paragraphs identify Craig’s fishing-camp and cannery setting; this is a historical place view, not a portrait of the modern Association or all residents. The exact item-specific media rights, creator/collection and complete delivered 766 × 443 frame were inspected. This is the full offered web file, not a claim that a larger archival original was inspected. Source inscriptions/edges are retained. No Atlas pixel edit, crop, resize, recompression or generation. The same file serves card and opened page; CSS may crop or overlay display copies. Media inspection does not add a substantive bibliography work.",
+          "reviewedAt": "2026-11-02",
+          "date": "Circa 1912",
+          "alt": "Historic cannery buildings and waterfront at Craig, Alaska.",
+          "contextSources": [
+            {
+              "title": "Interior Approves Craig Tribal Association’s Land-into-Trust Application",
+              "url": "https://www.bia.gov/node/44676/printable/pdf",
+              "inspectionScope": "BIA’s 2017 selected historical paragraphs identify Craig’s fishing-camp and cannery setting; this is a historical place view, not a portrait of the modern Association or all residents."
+            }
+          ],
+          "retrievedWidth": 766,
+          "retrievedHeight": 443,
+          "retrievedSha256": "e0fdd3818debfa9af314205a2d6582c161e0f3dba6635e4ca4e0719fb638bda2"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:38deg;--profile-photo:url(\"../../assets/profile-visuals/i15-craig-cannery-1912.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "cree",
       "name": "Cree",
       "originalId": 91,
@@ -5545,6 +5805,67 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "douglas-indian-association",
+      "name": "Douglas Indian Association",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 186,
+      "angle": -37,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "s15-douglas-mayflower-island",
+          "profileSlugs": [
+            "douglas-indian-association"
+          ],
+          "asset": "assets/profile-visuals/s15-douglas-mayflower-island.jpg",
+          "cardAsset": "assets/profile-visuals/s15-douglas-mayflower-island.jpg",
+          "title": "Mayflower Island by Douglas",
+          "credit": "Gillfoto (Kenneth John Gill) / Wikimedia Commons · CC BY-SA 4.0",
+          "cardCredit": "Gillfoto (Kenneth John Gill) / Wikimedia Commons · CC BY-SA 4.0",
+          "creator": "Gillfoto (Kenneth John Gill)",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mayflower_Island_06.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mayflower_Island_06.jpg/960px-Mayflower_Island_06.jpg",
+          "rightsLabel": "CC BY-SA 4.0 International",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "scope": "Exact Commons file-page summary, 6 June 2006 date, Gillfoto credit, metadata identifying Kenneth John Gill, and media-specific CC BY-SA 4.0 license read. Actual complete 960×718 preview inspected; larger original not inspected. The Douglas Indian Association’s own booklet explicitly identifies Mayflower Island across from the Douglas Indian Village, providing an individual community-place connection. This is a modern place view, not the historical village itself, an assertion of present ownership, a portrait of residents, or a territorial-boundary illustration. No identities or functions of visible buildings are inferred.",
+          "reviewedAt": "2026-11-02",
+          "date": "2006-06-06",
+          "alt": "Forested Mayflower Island and a waterfront pier beneath steep, cloud-covered mountains across the channel.",
+          "contextSources": [
+            {
+              "title": "Douglas Indian Association — Tribal History",
+              "url": "https://diataku.storage.googleapis.com/wp-content/uploads/2018/12/22001644/DIA-Tribal-History-Brochure-Booklet-edited-7-21-17.pdf",
+              "inspectionScope": "Printed p.3 (PDF p.4) text and caption explicitly associate Mayflower Island with Douglas Indian Village. Complete local page rendering and body read 2026-11-02. No historical photograph from the booklet is reproduced."
+            }
+          ],
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "sha256": "c61a57a714b6663ecfe43ebcc9d355a044134c7bdc45adb49e772d400d57fd87",
+            "width": 960,
+            "height": 718,
+            "bytes": 225588,
+            "format": "JPEG",
+            "transformation": "None. Downloaded JPEG bytes are unchanged; the same full frame is proposed for card and opened page.",
+            "inspectionScope": "Actual complete delivered frame visually inspected at the recorded dimensions. Larger originals were not inspected or inferred."
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:186;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/s15-douglas-mayflower-island.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "duwamish",
       "name": "Duwamish",
       "originalId": 102,
@@ -5615,6 +5936,67 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "eklutna-native-village",
+      "name": "Eklutna Native Village",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 216,
+      "angle": 42,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "s15-eklutna-lake",
+          "profileSlugs": [
+            "eklutna-native-village"
+          ],
+          "asset": "assets/profile-visuals/s15-eklutna-lake.jpg",
+          "cardAsset": "assets/profile-visuals/s15-eklutna-lake.jpg",
+          "title": "Eklutna Lake and Bold Peak",
+          "credit": "Spireguy / Wikimedia Commons · CC BY-SA 3.0",
+          "cardCredit": "Spireguy / Wikimedia Commons · CC BY-SA 3.0",
+          "creator": "Spireguy",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eklutna-lake-and-bold-peak.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eklutna-lake-and-bold-peak.jpg/960px-Eklutna-lake-and-bold-peak.jpg",
+          "rightsLabel": "CC BY-SA 3.0 Unported (selected from the file’s offered licenses)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "Exact Commons description, June 2004 creator attribution, and image-specific offered CC BY-SA 3.0 terms read. Actual full 960×720 JPEG preview inspected; larger original not inspected. This is a narrowly named watershed image. The Native Village’s own River page expressly connects Eklutna Lake and its dam with the river’s diverted source and tribal restoration work. The image does not show Eklutna Village itself and does not establish ownership, territory, all residents, or a restoration outcome.",
+          "reviewedAt": "2026-11-02",
+          "date": "June 2004",
+          "alt": "Eklutna Lake between wooded mountain slopes, with snow patches on higher peaks under a pale sky.",
+          "contextSources": [
+            {
+              "title": "Native Village of Eklutna — Eklutna River",
+              "url": "https://eklutna-nsn.gov/departments/land-and-environment/eklutna-river/",
+              "inspectionScope": "Complete main body, headings and assessment descriptions (web-reader lines 17–52), read 2026-11-02. Specifically describes Eklutna Lake, diversion and river restoration; no image relation inferred from a regional language label."
+            }
+          ],
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "sha256": "2449d0d4d37b4ae27b27c3a735cadf1220afc112fbaced681b93a86fe8ef2a17",
+            "width": 960,
+            "height": 720,
+            "bytes": 128208,
+            "format": "JPEG",
+            "transformation": "None. Downloaded JPEG bytes are unchanged; the same full frame is proposed for card and opened page.",
+            "inspectionScope": "Actual complete delivered frame visually inspected at the recorded dimensions. Larger originals were not inspected or inferred."
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:216;--profile-angle:42deg;--profile-photo:url(\"../../assets/profile-visuals/s15-eklutna-lake.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "fond-du-lac-band-of-lake-superior-chippewa",
@@ -6302,6 +6684,79 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "gulkana-village-council",
+      "name": "Gulkana Village Council",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 189,
+      "angle": 43,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "a15-gulkana-bridge-1914",
+          "profileSlugs": [
+            "gulkana-village-council"
+          ],
+          "asset": "assets/profile-visuals/a15-gulkana-bridge-1914.jpg",
+          "cardAsset": "assets/profile-visuals/a15-gulkana-bridge-1914.jpg",
+          "title": "Bridge across the Gulkana River near Gulkana, 1914",
+          "credit": "Unknown photographer / University of Washington Special Collections, PH Coll 495.3-42",
+          "cardCredit": "Unknown photographer / University of Washington Special Collections, PH Coll 495.3-42",
+          "creator": "Unknown photographer; University of Washington Special Collections holds the photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bridge_across_Gulkana_River_near_Gulkana,_Alaska,_1914_(AL%2BCA_4061).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bridge_across_Gulkana_River_near_Gulkana%2C_Alaska%2C_1914_%28AL%2BCA_4061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20190325152326",
+          "rightsLabel": "Public domain in the United States — item-specific Commons PD-US-expired / pre-1931 publication notice",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Bridge_across_Gulkana_River_near_Gulkana,_Alaska,_1914_(AL%2BCA_4061).jpg#Summary",
+          "scope": "Actual Commons item title, caption, date, holding collection and media-specific public-domain notice read. Complete offered 768×440 JPEG downloaded unchanged and fully viewed. Metadata explicitly identifies a bridge near Gulkana. It provides a historical infrastructure view relevant to the Council’s river-and-bridge history; do not identify it as the 1943 bridge or as the present village. No residents, cemetery or private activity are depicted. Original photograph beyond this delivered scan was not inspected.",
+          "reviewedAt": "2026-11-02",
+          "date": "1914, as recorded by the item",
+          "alt": "A black-and-white photograph of a truss bridge and wooden approaches spanning the Gulkana River, with low wooded banks.",
+          "contextSources": [
+            {
+              "title": "Commons / University of Washington item AL+CA 4061",
+              "url": "https://commons.wikimedia.org/wiki/File:Bridge_across_Gulkana_River_near_Gulkana,_Alaska,_1914_(AL%2BCA_4061).jpg",
+              "inspectionScope": "Exact item title names Gulkana, Alaska; date 1914 and caption identify the bridge."
+            },
+            {
+              "title": "Gulkana Village Council — Our History",
+              "url": "https://gulkanacouncil.org/about/our-history/",
+              "inspectionScope": "Actual history describes successive bridges and community displacement; image does not establish which construction stage it shows."
+            }
+          ],
+          "width": 768,
+          "height": 440,
+          "sha256": "ac8c42ec75f271e49169a28860b17ade77fd02065a6a9d581e4a2b6fa7744143",
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "httpStatus": 200,
+            "mediaType": "image/jpeg",
+            "bytes": 41801,
+            "dimensions": {
+              "width": 768,
+              "height": 440
+            },
+            "sha256": "ac8c42ec75f271e49169a28860b17ade77fd02065a6a9d581e4a2b6fa7744143",
+            "transformations": "None. Offered complete JPEG frame retained byte-for-byte; same file proposed for card and opened-page image.",
+            "actualCompleteFrameViewed": true,
+            "largerOriginalInspected": false
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:189;--profile-angle:43deg;--profile-photo:url(\"../../assets/profile-visuals/a15-gulkana-bridge-1914.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "haida",
       "name": "Haida",
       "originalId": 121,
@@ -6976,6 +7431,73 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "hoonah-indian-association",
+      "name": "Hoonah Indian Association",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 210,
+      "angle": 6,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "e15-hoonah-aerial-2014",
+          "profileSlugs": [
+            "hoonah-indian-association"
+          ],
+          "asset": "assets/profile-visuals/e15-hoonah-aerial-2014.jpg",
+          "cardAsset": "assets/profile-visuals/e15-hoonah-aerial-2014.jpg",
+          "title": "Aerial view of Hoonah, 2014",
+          "credit": "Joseph / The Cabin On The Road, via Wikimedia Commons · CC BY-SA 2.0",
+          "cardCredit": "Joseph · CC BY-SA 2.0",
+          "creator": "Joseph / The Cabin On The Road",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_Hoonah,_Alaska.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aerial_photo_of_Hoonah%2C_Alaska.jpg/960px-Aerial_photo_of_Hoonah%2C_Alaska.jpg",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "scope": "A 2014 named-place view of Hoonah, where HIA’s reviewed government page is based. No statement about ethnicity, citizenship, ownership of pictured property or all residents is inferred. Complete offered 960×641 JPEG viewed; no standalone artwork or identifiable people visible. The Commons Flickr review specifies CC BY-SA 2.0 and notes a conflicting original upload license; the reviewed CC BY-SA license is used, not the upload’s uncertain CC BY label. Saved byte-for-byte without resizing, cropping, recompression or retouching. Card and opened-page assets are the same unchanged file.",
+          "reviewedAt": "2026-11-02",
+          "date": "2014-10-18",
+          "alt": "An aerial view of Hoonah’s harbor, houses and streets below a wooded hillside.",
+          "contextSources": [
+            {
+              "title": "Tribal Government: The Hoonah Indian Association",
+              "url": "https://www.hoonahindianassociation.org/tribal-government",
+              "inspectionScope": "Opening institutional-history paragraph, especially 1939 establishment, Board functions, and relationships with other tribal governments and corporations. No current names or terms relied upon."
+            }
+          ],
+          "retrievalNotes": {
+            "file": "e15-hoonah-aerial-2014.jpg",
+            "requestedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aerial_photo_of_Hoonah%2C_Alaska.jpg/960px-Aerial_photo_of_Hoonah%2C_Alaska.jpg",
+            "finalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aerial_photo_of_Hoonah%2C_Alaska.jpg/960px-Aerial_photo_of_Hoonah%2C_Alaska.jpg",
+            "contentType": "image/jpeg",
+            "format": "JPEG",
+            "dimensions": [
+              960,
+              641
+            ],
+            "bytes": 198603,
+            "sha256": "7f22134d6bc8a4524fdb8b57c49f23e317fff3ce6b37e04ab1e973b0e192e261",
+            "retrievedAt": "2026-11-02",
+            "transformation": "None; normally offered file saved byte-for-byte."
+          },
+          "deliveredPixelsViewed": true
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:210;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/e15-hoonah-aerial-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
+    },
+    {
       "slug": "hopi",
       "name": "Hopi",
       "originalId": 131,
@@ -7381,6 +7903,60 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:6;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/huronwendat-moccasins-met.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "hydaburg-cooperative-association",
+      "name": "Hydaburg Cooperative Association",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 151,
+      "angle": 28,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "i15-hydaburg-water-1915",
+          "profileSlugs": [
+            "hydaburg-cooperative-association"
+          ],
+          "asset": "assets/profile-visuals/i15-hydaburg-water-1915.jpg",
+          "cardAsset": "assets/profile-visuals/i15-hydaburg-water-1915.jpg",
+          "title": "Hydaburg from the water, circa 1915",
+          "credit": "John E. Thwaites; University of Washington Libraries, Special Collections, John E. Thwaites Photographs, PH Coll 247.980, item 375.",
+          "cardCredit": "J. E. Thwaites · UW Libraries, ca. 1915",
+          "creator": "John E. Thwaites; University of Washington Libraries, Special Collections, John E. Thwaites Photographs, PH Coll 247.980, item 375.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydaburg_from_the_water,_ca_1915_(THWAITES_375).jpeg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hydaburg_from_the_water%2C_ca_1915_%28THWAITES_375%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — pre-1931 U.S. publication; photographer died in 1940",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Hydaburg_from_the_water,_ca_1915_(THWAITES_375).jpeg",
+          "scope": "The HCA’s 2017 proposal identifies the community at Hydaburg; the photograph is an earlier named-settlement example, not a view of the modern government or every citizen. The exact item-specific media rights, creator/collection and complete delivered 766 × 437 frame were inspected. This is the full offered web file, not a claim that a larger archival original was inspected. Source inscriptions/edges are retained. No Atlas pixel edit, crop, resize, recompression or generation. The same file serves card and opened page; CSS may crop or overlay display copies. Media inspection does not add a substantive bibliography work.",
+          "reviewedAt": "2026-11-02",
+          "date": "Circa 1915",
+          "alt": "Historic waterfront buildings and piers at Hydaburg, Alaska.",
+          "contextSources": [
+            {
+              "title": "Hydaburg Cooperative Association —2017 IMLS Enhancement Grant proposal",
+              "url": "https://www.imls.gov/sites/default/files/grants/ng-03-17-0220-17/proposals/ng-03-17-0220-17-project-proposal.pdf",
+              "inspectionScope": "The HCA’s 2017 proposal identifies the community at Hydaburg; the photograph is an earlier named-settlement example, not a view of the modern government or every citizen."
+            }
+          ],
+          "retrievedWidth": 766,
+          "retrievedHeight": 437,
+          "retrievedSha256": "486d537146907910fe4fe488473fdfda3abda9ce889f5b2687483e23f2b0618b"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:151;--profile-angle:28deg;--profile-photo:url(\"../../assets/profile-visuals/i15-hydaburg-water-1915.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -8010,6 +8586,131 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "kenaitze-indian-tribe",
+      "name": "Kenaitze Indian Tribe",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 313,
+      "angle": -26,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "s15-kenaitze-lower-kenai-river",
+          "profileSlugs": [
+            "kenaitze-indian-tribe"
+          ],
+          "asset": "assets/profile-visuals/s15-kenaitze-lower-kenai-river.jpg",
+          "cardAsset": "assets/profile-visuals/s15-kenaitze-lower-kenai-river.jpg",
+          "title": "Lower Kenai River between Soldotna and its mouth",
+          "credit": "Katrina Liebich / USFWS · Public Domain",
+          "cardCredit": "Katrina Liebich / USFWS · Public Domain",
+          "creator": "Katrina Liebich / U.S. Fish and Wildlife Service",
+          "sourceUrl": "https://www.fws.gov/media/kenai-river-alaskajpeg",
+          "sourceImageUrl": "https://www.fws.gov/sites/default/files/styles/max_1300x1300/public/2022-04/1_QJSujnL3s_BvR2zUeRWr_g.jpeg?itok=fy7ImoW6",
+          "rightsLabel": "Public Domain — exact FWS media record",
+          "rightsUrl": "https://www.fws.gov/media/kenai-river-alaskajpeg",
+          "scope": "Exact FWS media record read: Katrina Liebich/USFWS credit, 28 April 2022 date, Public Domain media-use statement, named lower Kenai River description and offered 1300×650 size. Actual complete delivered JPEG inspected at that size; the 1400×700 original was not inspected. FWS’s copyright statement was separately reviewed and explicitly warns that not all agency-site images are public domain; clearance rests on this item’s explicit license and creator credit. Kenaitze’s own language page identifies Kahtnuht’ana as People of the Kenai River and its About page places its campus in Old Town Kenai. This is a particular river landscape, not a tribal event, a portrait of all river residents, a property or territorial claim, or proof of current resource conditions.",
+          "reviewedAt": "2026-11-02",
+          "date": "2022-04-28",
+          "alt": "Turquoise water of the lower Kenai River below a forested opposite bank and clouded sky, with plants in the foreground.",
+          "contextSources": [
+            {
+              "title": "Kenaitze Indian Tribe — Dena’ina Language",
+              "url": "https://www.kenaitze.org/language-resources/",
+              "inspectionScope": "Main body lines 88–99 read 2026-11-02; expressly connects Kahtnuht’ana and the Kenai River."
+            },
+            {
+              "title": "Kenaitze Indian Tribe — About",
+              "url": "https://www.kenaitze.org/about/",
+              "inspectionScope": "Main About body lines 88–109 read 2026-11-02; describes Old Town Kenai campus and educational fishery near the river mouth."
+            },
+            {
+              "title": "FWS Disclaimer and Copyright Information",
+              "url": "https://www.fws.gov/disclaimer",
+              "inspectionScope": "Copyright Statement, lines 177–180, read 2026-11-02. Qualified policy: some images are licensed; outside material is identified. Agency blanket public-domain status was not assumed."
+            }
+          ],
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "sha256": "0bef44b4a333be4ad073ce25757b668c2fe7f63f79834e17e5fb92bf138e5859",
+            "width": 1300,
+            "height": 650,
+            "bytes": 693978,
+            "format": "JPEG",
+            "transformation": "None. Downloaded JPEG bytes are unchanged; the same full frame is proposed for card and opened page.",
+            "inspectionScope": "Actual complete delivered frame visually inspected at the recorded dimensions. Larger originals were not inspected or inferred."
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:313;--profile-angle:-26deg;--profile-photo:url(\"../../assets/profile-visuals/s15-kenaitze-lower-kenai-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "ketchikan-indian-community",
+      "name": "Ketchikan Indian Community",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 5,
+      "angle": -35,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "i15-ketchikan-stedman-1910",
+          "profileSlugs": [
+            "ketchikan-indian-community"
+          ],
+          "asset": "assets/profile-visuals/i15-ketchikan-stedman-1910.jpg",
+          "cardAsset": "assets/profile-visuals/i15-ketchikan-stedman-1910.jpg",
+          "title": "Stedman Street in Ketchikan, circa 1910",
+          "credit": "Photographer not identified; National Park Service Stedman–Thomas Historic District place record, which labels this exact photograph CC0.",
+          "cardCredit": "Historic Stedman Street · NPS record",
+          "creator": "Photographer not identified; National Park Service Stedman–Thomas Historic District place record, which labels this exact photograph CC0.",
+          "sourceUrl": "https://home.nps.gov/places/stedman-thomas-historic-district.htm",
+          "sourceImageUrl": "https://home.nps.gov/common/uploads/place/nri/20180530/places/EBD989D1-1DD8-B71B-0BF88863F3F15F9F/EBD989D1-1DD8-B71B-0BF88863F3F15F9F.jpg",
+          "rightsLabel": "CC0 — this exact photograph is labeled on the NPS place page",
+          "rightsUrl": "https://home.nps.gov/places/stedman-thomas-historic-district.htm",
+          "scope": "The NPS place account describes this wider multicultural neighborhood and its Tlingit fishing-place context. Not all depicted residents are identified as Native, and none are identified here as modern KIC members. The exact item-specific media rights, creator/collection and complete delivered 638 × 400 frame were inspected. This is the full offered web file, not a claim that a larger archival original was inspected. Source inscriptions/edges are retained. No Atlas pixel edit, crop, resize, recompression or generation. The same file serves card and opened page; CSS may crop or overlay display copies. Media inspection does not add a substantive bibliography work.",
+          "reviewedAt": "2026-11-02",
+          "date": "Circa 1910",
+          "alt": "A historical Ketchikan street with wooden buildings, shops and mountains.",
+          "contextSources": [
+            {
+              "title": "Stedman–Thomas Historic District — National Park Service",
+              "url": "https://home.nps.gov/places/stedman-thomas-historic-district.htm",
+              "inspectionScope": "Actual opening historical paragraphs describe the Tlingit fishing-place setting and wider multicultural neighborhood. Exact photo caption names Stedman Street in Ketchikan, circa 1910; adjacent label is CC0. The people shown are not identified as modern KIC members."
+            }
+          ],
+          "retrievedWidth": 638,
+          "retrievedHeight": 400,
+          "retrievedSha256": "77d5437168f69de86074ef9032afb223da4f2a0c1e7023c16c1eb5835e113233"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:5;--profile-angle:-35deg;--profile-photo:url(\"../../assets/profile-visuals/i15-ketchikan-stedman-1910.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
       "slug": "kewa-pueblo",
       "name": "Kewa Pueblo",
       "originalId": 164,
@@ -8507,6 +9208,60 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "klawock-cooperative-association",
+      "name": "Klawock Cooperative Association",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 49,
+      "angle": -19,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "i15-klawock-water-1908",
+          "profileSlugs": [
+            "klawock-cooperative-association"
+          ],
+          "asset": "assets/profile-visuals/i15-klawock-water-1908.jpg",
+          "cardAsset": "assets/profile-visuals/i15-klawock-water-1908.jpg",
+          "title": "Water and islands at Klawock, circa 1908",
+          "credit": "William Howard Case; University of Washington Libraries, Special Collections, Alaska, Western Canada and United States Collection, PH Coll 300.23, item 3343.",
+          "cardCredit": "W. H. Case · UW Libraries, ca. 1908",
+          "creator": "William Howard Case; University of Washington Libraries, Special Collections, Alaska, Western Canada and United States Collection, PH Coll 300.23, item 3343.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_and_islands_at_Klawock,_circa_1908_(AL%2BCA_3343).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Water_and_islands_at_Klawock%2C_circa_1908_%28AL%2BCA_3343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — pre-1931 U.S. publication; photographer died in 1920",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Water_and_islands_at_Klawock,_circa_1908_(AL%2BCA_3343).jpg",
+          "scope": "Exact catalogued caption identifies Klawock and original frame retains View at Kla-wak / Case 541 inscriptions. Named-place coastal context, not a village portrait, tribal boundary or present ecology assessment. The exact item-specific media rights, creator/collection and complete delivered 768 × 602 frame were inspected. This is the full offered web file, not a claim that a larger archival original was inspected. Source inscriptions/edges are retained. No Atlas pixel edit, crop, resize, recompression or generation. The same file serves card and opened page; CSS may crop or overlay display copies. Media inspection does not add a substantive bibliography work.",
+          "reviewedAt": "2026-11-02",
+          "date": "Circa 1908",
+          "alt": "A historical shore, water and wooded islands identified as Klawock.",
+          "contextSources": [
+            {
+              "title": "University of Washington catalogue caption and metadata reproduced on the exact Commons file page: Water and islands at Klawock, circa 1908",
+              "url": "https://commons.wikimedia.org/wiki/File:Water_and_islands_at_Klawock,_circa_1908_(AL%2BCA_3343).jpg",
+              "inspectionScope": "Cached exact Commons item body inspected: caption View at Kla-wak, Alaska; Case 541; PH Coll 300.23; depicted place Klawock; UW collection/accession 3343 and the item-specific public-domain statements. The linked UW catalogue item was not independently opened. The constitution is not cited as if it contained the photograph caption."
+            }
+          ],
+          "retrievedWidth": 768,
+          "retrievedHeight": 602,
+          "retrievedSha256": "e24fcb7e897c05dc64749ee3219ebecfee8f652402638ce70288414dcb5824ff"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:49;--profile-angle:-19deg;--profile-photo:url(\"../../assets/profile-visuals/i15-klawock-water-1908.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "kootenai-ktunaxa",
@@ -10287,6 +11042,84 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "mentasta-traditional-council",
+      "name": "Mentasta Traditional Council",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 48,
+      "angle": -34,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "a15-mentasta-lake-1943",
+          "profileSlugs": [
+            "mentasta-traditional-council"
+          ],
+          "asset": "assets/profile-visuals/a15-mentasta-lake-1943.jpg",
+          "cardAsset": "assets/profile-visuals/a15-mentasta-lake-1943.jpg",
+          "title": "Mentasta Lake, looking northeast, 1943",
+          "credit": "United States. National Park Service Alaska Highway planning survey photographs, Archives and Special Collections, Consortium Library, University of Alaska Anchorage. UAA-hmc-0285-p15-12.",
+          "cardCredit": "United States. National Park Service Alaska Highway planning survey photographs, Archives and Special Collections, Consortium Library, University of Alaska Anchorage. UAA-hmc-0285-p15-12.",
+          "creator": "United States, National Park Service; individual photographer not named",
+          "sourceUrl": "https://vilda.alaska.edu/digital/collection/cdmg13/id/8555/",
+          "sourceImageUrl": "https://vilda.alaska.edu/iiif/2/cdmg13:8555/full/full/0/default.jpg",
+          "rightsLabel": "Public domain — exact item Rights field: “This item is in the public domain.”",
+          "rightsUrl": "https://vilda.alaska.edu/digital/collection/cdmg13/id/8555/",
+          "scope": "Exact VILDA item metadata read through the ordinary public CONTENTdm API: title names Mentasta Lake from proposed development site, looking northeast; creator NPS; date 1943; identifier UAA-hmc-0285-p15-12; item Rights explicitly public domain. The collection finding aid independently identifies the 1943 NPS survey and federal-work rights. Complete offered imageUri JPEG 720×513 downloaded unchanged and fully viewed, including the archive watermark. Historical named-lake landscape context for the Council’s Mentasta Lake community; not a photograph of the village, Council or residents, nor a precise homeland map. No manipulation; no larger original accessed.",
+          "reviewedAt": "2026-11-02",
+          "date": "1943",
+          "alt": "Black-and-white view across Mentasta Lake toward wooded shores and mountains, with spruce in the foreground and a small archive credit along the bottom.",
+          "contextSources": [
+            {
+              "title": "VILDA exact item metadata",
+              "url": "https://vilda.alaska.edu/digital/api/singleitem/collection/cdmg13/id/8555",
+              "inspectionScope": "Read exact title, creator, date, identifier, media URI, location Mentasta Lake and item-specific Rights field."
+            },
+            {
+              "title": "UAA NPS Alaska Highway planning survey photographs finding aid",
+              "url": "https://archives.consortiumlibrary.org/collections/specialcollections/hmc-0285/",
+              "inspectionScope": "Read full collection description, rights note and container list; exact p15-12 title matches image item."
+            },
+            {
+              "title": "Mentasta Traditional Council — About",
+              "url": "https://www.mentastacouncil.org/about/",
+              "inspectionScope": "Council identifies its village and members with Mentasta Lake; historical lake photograph is used for place context only."
+            }
+          ],
+          "width": 720,
+          "height": 513,
+          "sha256": "781db6716b162b202465e48beba06d98c3fc7a48337f7273dc05d6fe10246c3e",
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "httpStatus": 200,
+            "mediaType": "image/jpeg",
+            "bytes": 49352,
+            "dimensions": {
+              "width": 720,
+              "height": 513
+            },
+            "sha256": "781db6716b162b202465e48beba06d98c3fc7a48337f7273dc05d6fe10246c3e",
+            "transformations": "None. Offered complete JPEG frame retained byte-for-byte; same file proposed for card and opened-page image.",
+            "actualCompleteFrameViewed": true,
+            "largerOriginalInspected": false
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:48;--profile-angle:-34deg;--profile-photo:url(\"../../assets/profile-visuals/a15-mentasta-lake-1943.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
       "slug": "mescalero-apache",
       "name": "Mescalero Apache",
       "originalId": 209,
@@ -10341,6 +11174,73 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 8
+    },
+    {
+      "slug": "metlakatla-indian-community-annette-island-reserve",
+      "name": "Metlakatla Indian Community, Annette Island Reserve",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 306,
+      "angle": 78,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "e15-metlakatla-waterfront-c1914",
+          "profileSlugs": [
+            "metlakatla-indian-community-annette-island-reserve"
+          ],
+          "asset": "assets/profile-visuals/e15-metlakatla-waterfront-c1914.jpeg",
+          "cardAsset": "assets/profile-visuals/e15-metlakatla-waterfront-c1914.jpeg",
+          "title": "Metlakatla, Alaska, from the water, circa 1914",
+          "credit": "Asahel Curtis, circa 1914; University of Washington Special Collections, CURTIS 1924, via Wikimedia Commons · Public domain",
+          "cardCredit": "Asahel Curtis / UW · Public domain",
+          "creator": "Asahel Curtis",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Metlakatla_from_the_water,_ca_1914_(CURTIS_1924).jpeg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Metlakatla_from_the_water%2C_ca_1914_%28CURTIS_1924%29.jpeg",
+          "rightsLabel": "Public domain; Commons PD-old-80-expired and pre-1931 U.S. publication",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "scope": "A historical view of the Alaska community, with place explicitly identified in the file record and verso description. It is not a present-day community portrait. Creator Asahel Curtis, approximate date, University of Washington collection/accession and exact file-page public-domain terms read. Complete 768×601 JPEG viewed; this is both the normally offered unscaled preview and stored Commons file. No larger version was inferred; no standalone artwork, ceremonies, graves or identifiable people visible. Saved byte-for-byte without resizing, cropping, recompression or retouching. Card and opened-page assets are the same unchanged file.",
+          "reviewedAt": "2026-11-02",
+          "date": "circa 1914",
+          "alt": "A historical black-and-white view of Metlakatla’s low waterfront buildings across open water.",
+          "contextSources": [
+            {
+              "title": "Annette Islands Reserve Priority Climate Action Plan",
+              "url": "https://www.epa.gov/system/files/documents/2024-04/metlakatla-indian-community-pcap.pdf",
+              "inspectionScope": "Title/credits; executive summary and table on printed pages 11–12; introduction on page 13; selected text of planning background/scope/process on pages 17–19. Pages 11–13 rendered and viewed. Boundaries, acreage, legal-authority conclusions, detailed inventory calculations, infrastructure maps and resource locations are excluded from the guide."
+            }
+          ],
+          "retrievalNotes": {
+            "file": "e15-metlakatla-waterfront-c1914.jpeg",
+            "requestedUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Metlakatla_from_the_water%2C_ca_1914_%28CURTIS_1924%29.jpeg",
+            "finalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Metlakatla_from_the_water%2C_ca_1914_%28CURTIS_1924%29.jpeg",
+            "contentType": "image/jpeg",
+            "format": "JPEG",
+            "dimensions": [
+              768,
+              601
+            ],
+            "bytes": 45482,
+            "sha256": "8a024634c70b916bbfffc4900bc233fc8cd0260ac8fb24443cf0e0af8cffbc1d",
+            "retrievedAt": "2026-11-02",
+            "transformation": "None; normally offered file saved byte-for-byte."
+          },
+          "deliveredPixelsViewed": true
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:306;--profile-angle:78deg;--profile-photo:url(\"../../assets/profile-visuals/e15-metlakatla-waterfront-c1914.jpeg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
     },
     {
       "slug": "miami",
@@ -11623,6 +12523,296 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "native-village-of-chitina",
+      "name": "Native Village of Chitina",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 174,
+      "angle": 61,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "s15-chitina-copper-river",
+          "profileSlugs": [
+            "native-village-of-chitina"
+          ],
+          "asset": "assets/profile-visuals/s15-chitina-copper-river.jpg",
+          "cardAsset": "assets/profile-visuals/s15-chitina-copper-river.jpg",
+          "title": "Copper River near Chitina",
+          "credit": "Doug Noon / Wikimedia Commons · CC BY-SA 2.0",
+          "cardCredit": "Doug Noon / Wikimedia Commons · CC BY-SA 2.0",
+          "creator": "Doug Noon",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Copper_River_near_Chitina.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Copper_River_near_Chitina.jpg",
+          "rightsLabel": "CC BY-SA 2.0 Generic",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "scope": "Exact Commons file-page description, creator, 22 July 2006 date, CC BY-SA 2.0 terms and historical Flickr license-review statement read. Actual complete 800×600 normally offered JPEG inspected; it is the full source file, with no larger original inferred. The primary historical source connects Chitina with lower Ahtna communities and the Copper River. This is a named-place landscape for context, not an image of the tribal council, all Chitina residents or a territorial-boundary claim. No resource access instructions or precise site coordinates are supplied.",
+          "reviewedAt": "2026-11-02",
+          "date": "2006-07-22",
+          "alt": "The broad Copper River near Chitina below wooded slopes and distant, partly sunlit mountains.",
+          "contextSources": [
+            {
+              "title": "Fall and Simeone, Customary and Traditional Use Worksheet",
+              "url": "https://www.adfg.alaska.gov/download/Special%20Publications/SP2_SP2002-001.pdf",
+              "inspectionScope": "Title pages and printed p.13 (PDF p.22), Historical Background, read 2026-11-02; local complete p.13 rendering inspected. Supplies the Chitina and lower Copper River community relationship. No harvest-site table or map is reproduced."
+            },
+            {
+              "title": "Chitina Native Corporation — History",
+              "url": "https://www.chitinanative.com/history",
+              "inspectionScope": "History main body read 2026-11-02, including the express distinction between the Native Village and corporation. Used for community-place association, not as a tribal-government statement."
+            }
+          ],
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "sha256": "bca7337e6335ea13f19e11c32c8843eec7052b2219d06591b3369ffb72852364",
+            "width": 800,
+            "height": 600,
+            "bytes": 79560,
+            "format": "JPEG",
+            "transformation": "None. Downloaded JPEG bytes are unchanged; the same full frame is proposed for card and opened page.",
+            "inspectionScope": "Actual complete delivered frame visually inspected at the recorded dimensions. Larger originals were not inspected or inferred."
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:174;--profile-angle:61deg;--profile-photo:url(\"../../assets/profile-visuals/s15-chitina-copper-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "native-village-of-gakona",
+      "name": "Native Village of Gakona",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 69,
+      "angle": 73,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "a15-gakona-copper-river-2017",
+          "profileSlugs": [
+            "native-village-of-gakona"
+          ],
+          "asset": "assets/profile-visuals/a15-gakona-copper-river-2017.jpg",
+          "cardAsset": "assets/profile-visuals/a15-gakona-copper-river-2017.jpg",
+          "title": "Copper River at Gakona, January 2017",
+          "credit": "Karen Petersen, NREL / U.S. Department of Energy, via Wikimedia Commons",
+          "cardCredit": "Karen Petersen, NREL / U.S. Department of Energy, via Wikimedia Commons",
+          "creator": "Karen Petersen, NREL; posted by U.S. Department of Energy",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gakona,_Alaska_(33494474325).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gakona%2C_Alaska_%2833494474325%29.jpg/960px-Gakona%2C_Alaska_%2833494474325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20190909100938",
+          "rightsLabel": "Public domain in the United States — item-specific Commons PD-USGov-DOE notice; Flickr license review records United States Government Work",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Gakona,_Alaska_(33494474325).jpg#Licensing",
+          "scope": "Actual Commons description names Copper River, January 2017, Karen Petersen/NREL; item title is Gakona, Alaska. Exact media-specific PD-USGov-DOE notice and 2019 FlickreviewR confirmation of the original DOE Flickr United States Government Work license read. Do not infer public domain merely from a lab or agency credit: this record relies on the item’s explicit license and review. Complete offered 960×720 JPEG preview downloaded unchanged and fully viewed. Modern named-place winter landscape context only, not a portrait of all Gakona residents or the Tribal government. Larger 3264×2448 file was not downloaded/viewed. Ordinary original-Flickr web-reader attempt was inaccessible; no bypass attempted.",
+          "reviewedAt": "2026-11-02",
+          "date": "2017-01-25, as recorded by the item",
+          "alt": "A snow-covered river beside wooded banks and several distant buildings, under a partly cloudy blue sky.",
+          "contextSources": [
+            {
+              "title": "Commons Gakona photograph description and licensing",
+              "url": "https://commons.wikimedia.org/wiki/File:Gakona,_Alaska_(33494474325).jpg",
+              "inspectionScope": "Read named-place title, Copper River caption, credited photographer, date and item-specific public-domain/Flickr review metadata."
+            }
+          ],
+          "width": 960,
+          "height": 720,
+          "sha256": "7f47d8c214a948aa8246497301d49bd3e8f68d0f19cfc47549e81c038407a9ba",
+          "retrieval": {
+            "retrievedAt": "2026-11-02",
+            "httpStatus": 200,
+            "mediaType": "image/jpeg",
+            "bytes": 126448,
+            "dimensions": {
+              "width": 960,
+              "height": 720
+            },
+            "sha256": "7f47d8c214a948aa8246497301d49bd3e8f68d0f19cfc47549e81c038407a9ba",
+            "transformations": "None. Offered complete JPEG frame retained byte-for-byte; same file proposed for card and opened-page image.",
+            "actualCompleteFrameViewed": true,
+            "largerOriginalInspected": false
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:69;--profile-angle:73deg;--profile-photo:url(\"../../assets/profile-visuals/a15-gakona-copper-river-2017.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "native-village-of-tatitlek",
+      "name": "Native Village of Tatitlek",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 298,
+      "angle": -13,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "e15-tatitlek-aerial-2006",
+          "profileSlugs": [
+            "native-village-of-tatitlek"
+          ],
+          "asset": "assets/profile-visuals/e15-tatitlek-aerial-2006.jpg",
+          "cardAsset": "assets/profile-visuals/e15-tatitlek-aerial-2006.jpg",
+          "title": "Aerial view of Tatitlek and Ellamar Mountain, 2006",
+          "credit": "Forest Service Alaska Region, USDA; existing crop and exposure edit by Ron Clausen, via Wikimedia Commons · CC BY 2.0",
+          "cardCredit": "USDA Forest Service / Ron Clausen edit · CC BY 2.0",
+          "creator": "Forest Service Alaska Region, USDA; individual photographer not named; existing Commons crop/exposure edit by Ron Clausen",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg/960px-Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg",
+          "rightsLabel": "CC BY 2.0; exact Commons file-page license and Flickr review",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "scope": "Dated aerial view specifically identified as Tatitlek and Ellamar Mountain, Prince William Sound. Community sources independently locate the Native Village beside Tatitlek Narrows. This is narrow named-place context, not a portrait of tribal citizens or all residents, a tribal boundary/ownership map, or present environmental conditions. The exact file summary, provider account, date, CC BY 2.0 terms, Flickr license review and file-history existing crop/exposure note were read. Complete normally offered 960×635 JPEG preview of the existing Commons derivative was downloaded unchanged and visually inspected. It shows the settlement, runway, dock, coast and wooded mountains, without identifiable people, standalone art, ceremonies or graves. Ron Clausen’s existing March 14, 2020 crop/exposure edit is credited; Atlas made no pixel edits. The larger and uncropped source versions were not downloaded or inspected. Card and opened-page assets use the same unchanged delivered file.",
+          "reviewedAt": "2026-11-02",
+          "date": "2006-07-27; existing Commons crop/exposure edit 2020-03-14",
+          "alt": "Aerial view of Tatitlek’s buildings, dock and runway along the coast below forested mountains.",
+          "contextSources": [
+            {
+              "title": "Tatitlek: From Ancestral Homelands to Modern Challenges",
+              "url": "https://www.chugach.com/community/tatitlek",
+              "inspectionScope": "Tatitlek body paragraphs on place/name, earlier settlement sites, mining-related relocation, Ellamar cannery and the 1989 spill; Quick Facts labels distinguishing village corporation and tribe; Peksulineq cultural-education paragraph. Population, quantities, precise spill distances, continuing impact estimates and photographs not reused."
+            },
+            {
+              "title": "Tatitlek",
+              "url": "https://www.nprha.com/tatitlek",
+              "inspectionScope": "Complete short main body, lines 6–13: mining/settlement history, IRA Council relationship, access, name, museum/cultural-center opening and earlier regional history. Current council size, precise distances, assertion about all remaining Alutiiq communities and photograph were excluded from the guide."
+            }
+          ],
+          "retrievalNotes": {
+            "file": "e15-tatitlek-aerial-2006.jpg",
+            "requestedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg/960px-Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg",
+            "finalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg/960px-Aerial_of_Tatitlek_and_Ellamar_Mountain.jpg",
+            "contentType": "image/jpeg",
+            "format": "JPEG",
+            "dimensions": [
+              960,
+              635
+            ],
+            "bytes": 194072,
+            "sha256": "294d874eb04296eaf6e9fa776fc40f55f5cae0a93348f85fd3655576bd5267c2",
+            "retrievedAt": "2026-11-02",
+            "transformation": "None by Atlas; normally offered Commons preview of existing provider/uploader crop and exposure edit saved byte-for-byte."
+          },
+          "deliveredPixelsViewed": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:298;--profile-angle:-13deg;--profile-photo:url(\"../../assets/profile-visuals/e15-tatitlek-aerial-2006.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "native-village-of-tazlina",
+      "name": "Native Village of Tazlina",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 79,
+      "angle": 9,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "a15-tazlina-river-pipeline-route-1973",
+          "profileSlugs": [
+            "native-village-of-tazlina"
+          ],
+          "asset": "assets/profile-visuals/a15-tazlina-river-pipeline-route-1973.jpg",
+          "cardAsset": "assets/profile-visuals/a15-tazlina-river-pipeline-route-1973.jpg",
+          "title": "Tazlina River at a pipeline-route crossing, August 1973",
+          "sourceTitle": "PIPELINE CROSSING AT THE TAZLINA RIVER TAKES THE PIPE FROM THE UPPER RIGHT TO THE LOWER LEFT OF THE FRAME AS IT MOVES ACROSS THE TAZLINA",
+          "credit": "Dennis Cowals / EPA DOCUMERICA, August 1973; National Archives, NAID 550621 (412-DA-8136), via Wikimedia Commons · Public domain in the United States",
+          "cardCredit": "Dennis Cowals / EPA DOCUMERICA · Public domain",
+          "creator": "Dennis Cowals, photographer; EPA DOCUMERICA project; National Archives holds the photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg/960px-PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg",
+          "rightsLabel": "Public domain in the United States — exact Commons item PD-US-EPA notice and structured public-domain / No Copyright – United States metadata",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg#Licensing",
+          "scope": "Historical named-river landscape context only. The exact archive title identifies the Tazlina River and describes the pipeline-route crossing. The 1973 photograph is not evidence of a completed pipeline, a present environmental condition, the village site, the river confluence, Tribal ownership, a boundary or a resource-access site. Reviewed village sources establish Tazlina’s relationship with the named river; no camera-position or confluence inference is made. Actual exact Commons summary, named photographer Dennis Cowals, August 1973 date, EPA record creator, DOCUMERICA series, NARA identifier, item Licensing body and structured copyright metadata read through ordinary web reader. Do not infer that Cowals was a federal employee merely from the agency record: the item identifies him as a DOCUMERICA contributing photographer, while the media-specific copyright record explicitly identifies public domain / No Copyright – United States. Offered 960×648 complete JPEG preview downloaded once normally after parent-coordinated release, HTTP 200, and the actual full frame viewed including dark slide edges. No generation, crop, exposure change, retouching, resizing or recompression; the existing reddish/dark appearance and frame remain. Larger 3000×2025 scan and TIFF not downloaded or inspected. The same unchanged file is proposed for the card and opened page.",
+          "reviewedAt": "2026-11-02",
+          "date": "August 1973",
+          "alt": "A historical aerial view of the Tazlina River winding between wooded banks and a pale bluff, with the complete dark-edged slide frame retained.",
+          "contextSources": [
+            {
+              "title": "Exact NARA 550621 Commons item record",
+              "url": "https://commons.wikimedia.org/wiki/File:PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg",
+              "inspectionScope": "Actual summary and Licensing body: Tazlina River named in exact title; Dennis Cowals; August 1973; EPA DOCUMERICA and 412-DA-8136; item-specific public-domain notice and structured No Copyright – United States metadata. No original NARA catalog body claimed as read."
+            },
+            {
+              "title": "Village Highlight — Tazlina, Kanas, Fall 2018, p.8",
+              "url": "https://www.ahtna.com/wp-content/uploads/Kanas-FALL-2018_FINAL-WEB-NF-1.pdf#page=8",
+              "inspectionScope": "Existing original review 2026-10-20; full printed page8 bounded re-verification 2026-11-02. Actual body locates Tazlina beside the named Tazlina River. This supports river context only, not the photographed camera location or depicted village/confluence."
+            },
+            {
+              "title": "Tazlina Homeland Recovery — partner project account",
+              "url": "https://greatlandtrust.org/portfolio/tazlina-homeland-recovery/",
+              "inspectionScope": "Actual main project account read 2026-11-02 links NVT’s project with Tazlina and Copper Rivers. It does not identify the camera location of this 1973 image or establish current public access."
+            }
+          ],
+          "width": 960,
+          "height": 648,
+          "sha256": "f3a6573c3581f7668acf57d6bdaa1704c87179bfdedfeeb68f00dfe70e0978fc",
+          "retrieval": {
+            "requestedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg/960px-PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg",
+            "finalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg/960px-PIPELINE_CROSSING_AT_THE_TAZLINA_RIVER_TAKES_THE_PIPE_FROM_THE_UPPER_RIGHT_TO_THE_LOWER_LEFT_OF_THE_FRAME_AS_IT_MOVES..._-_NARA_-_550621.jpg",
+            "status": 200,
+            "contentType": "image/jpeg",
+            "bytes": 106757,
+            "sha256": "f3a6573c3581f7668acf57d6bdaa1704c87179bfdedfeeb68f00dfe70e0978fc",
+            "retrievedAt": "2026-11-02",
+            "transformations": "None. Complete normal offered 960-pixel JPEG preview saved byte-for-byte.",
+            "dimensions": {
+              "width": 960,
+              "height": 648
+            },
+            "actualCompleteFrameViewed": true,
+            "largerOriginalInspected": false
+          },
+          "deliveredPixelsViewed": true,
+          "countsTowardMinimum": false
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:79;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/a15-tazlina-river-pipeline-route-1973.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "netmizaaggamig-nishnaabeg",
@@ -13129,6 +14319,127 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "organized-village-of-kake",
+      "name": "Organized Village of Kake",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 252,
+      "angle": 31,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "e15-kake-frederick-sound-2010",
+          "profileSlugs": [
+            "organized-village-of-kake"
+          ],
+          "asset": "assets/profile-visuals/e15-kake-frederick-sound-2010.jpg",
+          "cardAsset": "assets/profile-visuals/e15-kake-frederick-sound-2010.jpg",
+          "title": "Looking toward Frederick Sound from Kake, 2010",
+          "credit": "Joseph / The Cabin On The Road, via Wikimedia Commons · CC BY-SA 2.0",
+          "cardCredit": "Joseph · CC BY-SA 2.0",
+          "creator": "Joseph / The Cabin On The Road",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kake,_Alaska_(4911136736).jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kake%2C_Alaska_%284911136736%29.jpg/960px-Kake%2C_Alaska_%284911136736%29.jpg",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "scope": "A dated view from Kake toward Frederick Sound, explicitly identified by its file page. The City of Kake body independently establishes Kake’s relationship to Frederick Sound and Kupreanof Island. A narrow coastal setting image, not a resource-site guide, ownership claim or portrait of OVK citizens. Complete offered 960×640 JPEG viewed; no standalone artwork or identifiable people visible. File creator/date, license terms and Flickr review read. Saved byte-for-byte without resizing, cropping, recompression or retouching. Card and opened-page assets are the same unchanged file.",
+          "reviewedAt": "2026-11-02",
+          "date": "2010-08-19",
+          "alt": "Water and distant islands viewed from Kake, with green plants and a few roofs in the foreground.",
+          "contextSources": [
+            {
+              "title": "Living in Kake",
+              "url": "https://www.cityofkake.org/living-in-kake",
+              "inspectionScope": "Get to Know Kake location and community paragraph; Kake Past and Present cannery, bombardment and culture-camp summaries. Totem chronology conflicts within the page were not used; wildlife/travel claims excluded."
+            }
+          ],
+          "retrievalNotes": {
+            "file": "e15-kake-frederick-sound-2010.jpg",
+            "requestedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kake%2C_Alaska_%284911136736%29.jpg/960px-Kake%2C_Alaska_%284911136736%29.jpg",
+            "finalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kake%2C_Alaska_%284911136736%29.jpg/960px-Kake%2C_Alaska_%284911136736%29.jpg",
+            "contentType": "image/jpeg",
+            "format": "JPEG",
+            "dimensions": [
+              960,
+              640
+            ],
+            "bytes": 197691,
+            "sha256": "919618ff29b8a25e01b87d07fe52f1264d4f0fa935a342b2b908743af128cf87",
+            "retrievedAt": "2026-11-02",
+            "transformation": "None; normally offered file saved byte-for-byte."
+          },
+          "deliveredPixelsViewed": true
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:252;--profile-angle:31deg;--profile-photo:url(\"../../assets/profile-visuals/e15-kake-frederick-sound-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "organized-village-of-kasaan",
+      "name": "Organized Village of Kasaan",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 319,
+      "angle": 69,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "i15-kasaan-cannery-1912",
+          "profileSlugs": [
+            "organized-village-of-kasaan"
+          ],
+          "asset": "assets/profile-visuals/i15-kasaan-cannery-1912.jpg",
+          "cardAsset": "assets/profile-visuals/i15-kasaan-cannery-1912.jpg",
+          "title": "Kasaan cannery and boats, June 1912",
+          "credit": "Photographer not identified; visible initials EJN are not expanded. University of Washington Libraries, Special Collections, Alaska, Western Canada and United States Collection, PH Coll 413.Album 3.26d, item 7470.",
+          "cardCredit": "Unknown photographer · UW Libraries, 1912",
+          "creator": "Photographer not identified; visible initials EJN are not expanded. University of Washington Libraries, Special Collections, Alaska, Western Canada and United States Collection, PH Coll 413.Album 3.26d, item 7470.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasaan_Cannery_with_wooden_boats_in_foreground,_Kasaan,_Alaska,_June_1912_(AL%2BCA_7470).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kasaan_Cannery_with_wooden_boats_in_foreground%2C_Kasaan%2C_Alaska%2C_June_1912_%28AL%2BCA_7470%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+          "rightsLabel": "Public domain — item-specific pre-1931 U.S. publication declaration",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Kasaan_Cannery_with_wooden_boats_in_foreground,_Kasaan,_Alaska,_June_1912_(AL%2BCA_7470).jpg",
+          "scope": "The Tribe’s 2025 draft plan discusses this settlement’s cannery history. This historic place context is not a current Tribal-government portrait, evidence of all residents’ identity or present land title. The exact item-specific media rights, creator/collection and complete delivered 768 × 462 frame were inspected. This is the full offered web file, not a claim that a larger archival original was inspected. Source inscriptions/edges are retained. No Atlas pixel edit, crop, resize, recompression or generation. The same file serves card and opened page; CSS may crop or overlay display copies. Media inspection does not add a substantive bibliography work.",
+          "reviewedAt": "2026-11-02",
+          "date": "June 1912",
+          "alt": "Historic cannery, wooden boats and shoreline at Kasaan, Alaska.",
+          "contextSources": [
+            {
+              "title": "2025 Long Range Transportation Plan Update —selected community context",
+              "url": "https://www.kasaan.org/_files/ugd/6a3b4e_6198b1f6682f4e28b13fbb97fc67b463.pdf",
+              "inspectionScope": "The Tribe’s 2025 draft plan discusses this settlement’s cannery history. This historic place context is not a current Tribal-government portrait, evidence of all residents’ identity or present land title."
+            }
+          ],
+          "retrievedWidth": 768,
+          "retrievedHeight": 462,
+          "retrievedSha256": "3ef56ffc856162a21675c12615660cdb9aaf9e8364f59c5d151bee1af57fc34f"
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:69deg;--profile-photo:url(\"../../assets/profile-visuals/i15-kasaan-cannery-1912.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "osage",
