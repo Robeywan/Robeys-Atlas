@@ -36510,27 +36510,52 @@
     "name": "Tutelo",
     "slug": "tutelo",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Queued for research",
-    "listedSources": 0,
+    "depth": "Source guide",
+    "listedSources": 3,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 2,
+    "supportingContentChecks": 1,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "virginia-guide-183-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the selected historical synthesis for councils and relocation, then the language project’s own public background. Keep each source’s period, perspective and limits visible. Exact selected pages, dates, perspectives and access limits remain in the annotations.",
+      "sources": [
+        {
+          "sourceId": "va183-tutelo-dhr-history",
+          "reason": "Examine a bounded historical synthesis and its explicit uncertainties about councils, collective naming and movements."
+        },
+        {
+          "sourceId": "va183-tutelo-language-project",
+          "reason": "Read a public language collaboration’s own account, distinguishing stated audiences and dated goals from present outcomes."
+        }
+      ],
+      "imageRecordId": "va183-tutelo-roanoke-wasena-2010"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected directly relevant public works and specifically scoped credited imagery provide a useful starting path, not exhaustive history or community endorsement.",
+      "remainingLimits": [
+        "Read additional community-directed historical accounts and compare the underlying archival records; the selected synthesis is not the complete history of all Tutelo or Saponi-related communities.",
+        "The language project’s stale end 2023 targets are not verified outcomes; no underlying lessons, recordings, restricted or seasonal narratives were reviewed.",
+        "Historical collective names and public language work do not determine present ancestry, citizenship or membership. The existing historical-route identity limits remain unchanged.",
+        "The inspected June 2010 item shows the upper Roanoke River in Wasena, Roanoke. It is regional context, not Salem’s Totero Town, an archaeological site, a present-community portrait, a boundary or current ecological assessment."
+      ]
     },
-    "reviewedAt": null,
+    "reviewedAt": "2026-11-02",
     "remainingGaps": [
-      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
-      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+      "Read additional community-directed historical accounts and compare the underlying archival records; the selected synthesis is not the complete history of all Tutelo or Saponi-related communities.",
+      "The language project’s stale end 2023 targets are not verified outcomes; no underlying lessons, recordings, restricted or seasonal narratives were reviewed.",
+      "Historical collective names and public language work do not determine present ancestry, citizenship or membership. The existing historical-route identity limits remain unchanged.",
+      "The inspected June 2010 item shows the upper Roanoke River in Wasena, Roanoke. It is regional context, not Salem’s Totero Town, an archaeological site, a present-community portrait, a boundary or current ecological assessment."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
