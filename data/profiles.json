@@ -37634,7 +37634,7 @@
     "name": "Meherrin",
     "region": "Northeastern North Carolina / southeastern Virginia",
     "kind": "People / tribal nation",
-    "overview": "Meherrin people have enduring communities in southeastern Virginia and northeastern North Carolina, with Iroquoian cultural connections.",
+    "overview": "The Meherrin Indian Tribe presents a continuing community in southeastern Virginia and northeastern North Carolina. This path begins with its public priorities, follows selected accounts of river towns and movement, and keeps language preservation visible without assuming that history stopped at a colonial boundary.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -37654,7 +37654,31 @@
         "title": "Living communities and further study",
         "text": "The contemporary Nation emphasizes language revitalization and cultural activity in Hertford, Bertie, Northampton, and Gates counties.",
         "sourceIds": [
-          "p207-s2"
+          "p207-s2",
+          "va-context-meherrin-about",
+          "va-context-meherrin-language"
+        ]
+      },
+      {
+        "title": "A living community across a state line",
+        "text": "The Tribe’s About account describes continuing community life in southeastern Virginia and northeastern North Carolina. It identifies language and cultural teaching among its priorities and places institutional activity within a particular living nation. That public account should guide reading alongside the historical material, rather than treating colonial records as the end of the story.",
+        "sourceIds": [
+          "va-context-meherrin-about"
+        ]
+      },
+      {
+        "title": "River towns and movement in a compiled history",
+        "text": "Selected entries in the Tribe’s timeline locate earlier Meherrin towns along the river in Virginia and follow later movement downstream toward present-day Murfreesboro, North Carolina. The page combines credited historical extracts and interpretations. Dates and uncertainty belong to those accounts; this guide has not independently reviewed the underlying depositions, books or maps.",
+        "sourceIds": [
+          "va-context-meherrin-river-history"
+        ]
+      },
+      {
+        "title": "Language work and future generations",
+        "text": "The short language statement connects preservation with future generations and acknowledges work by Tuscarora relatives at Lewiston and Six Nations of the Grand River. Read that acknowledgement as the Tribe’s own public expression of relationships and learning priorities. It does not establish every individual’s language use or the results of a particular teaching program.",
+        "sourceIds": [
+          "va-context-meherrin-language",
+          "va-context-meherrin-about"
         ]
       }
     ],
@@ -37671,7 +37695,12 @@
           "Culture"
         ],
         "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "author": "Meherrin Indian Tribe; individual writer not identified",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual welcome paragraphs, web-reader lines57–60; navigation and footer separately inspected.",
+        "accessNotes": "Short institutional orientation only, excluded from substantive-work quantity. Current chief announcement, totals, spirituality and uninspected media not adopted. More detailed About account is separately annotated; source ID/URL/original accessed date and other old fields retained."
       },
       {
         "id": "p207-s2",
@@ -37685,12 +37714,143 @@
           "Culture"
         ],
         "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "author": "Meherrin Indian Tribe; public history-index compiler not individually identified",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual History index main headings and link labels, web-reader lines46–240, not the contents of every linked document.",
+        "accessNotes": "Navigation-only supporting reference; underlying timeline pages, treaties, legislation, schools, books, maps and records are not automatically inspected. Two selected-content works and a short program statement are separately annotated. Source ID/URL/original accessed date and other old fields retained."
+      },
+      {
+        "id": "va-context-meherrin-about",
+        "title": "About Us — community, language and institutional priorities",
+        "author": "Meherrin Indian Tribe; site-wide text/research credit: Greg Holman (Thrarę́anęh); no page-specific byline stated",
+        "publisher": "Meherrin Indian Tribe",
+        "url": "https://meherrinnation.org/about-us/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Living communities",
+          "Public education"
+        ],
+        "annotation": "A community-authored account makes continuing presence, language work and responsibilities toward future generations explicit.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual About the Meherrin Indian Tribe and mission main body; selected living-community/region, language-priority and public institutional-purpose paragraphs.",
+        "accessNotes": "Normal web-reader body and HTTP200 HTML. Undated main body; edit timestamp is not treated as original publication date. Current numbers, legal status analysis, origin narrative, spirituality, membership and uniform all-person beliefs are excluded. Own descriptions of institutional aims are not measured outcomes. No photographs or restricted material reused.",
+        "sourcePerspective": "Meherrin Indian Tribe; retain the stated author/institution and inspection limits.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-context-meherrin-river-history",
+        "title": "1600’s — selected river-town and movement passages",
+        "author": "Meherrin Indian Tribe public compilation; quoted historical extracts retain their displayed attributions; site-wide text/research credit: Greg Holman (Thrarę́anęh); no page-specific byline stated",
+        "publisher": "Meherrin Indian Tribe",
+        "url": "https://meherrinnation.org/history-culture/history/1600s/",
+        "type": "Indigenous-led / compiled historical extracts",
+        "topics": [
+          "History",
+          "Living communities",
+          "Public education"
+        ],
+        "annotation": "Selected entries place earlier Meherrin towns along the Virginia river and describe later movement downstream; the compilation’s sources and uncertainty matter.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actually read selected1660,1670,1683 and1696 entries, including their attribution labels and the retrospective deposition’s uncertainty: web-reader lines119–128,184–189,280–286,347–349. Other timeline headings/images not substantively reviewed.",
+        "accessNotes": "Normal reader and HTTP200 HTML. A compilation of quotations and interpretations, not fresh inspection of colonial depositions, maps or The Secret History of the Meherrin. Observed date anomalies elsewhere (including an impossible August32entry) and discordant date headings are not adopted. No population, exact-site, territorial/title, treaty-right or underlying-record finding made. Archaeological/ceremonial images not reused.",
+        "sourcePerspective": "Meherrin Indian Tribe; retain the stated author/institution and inspection limits.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-context-meherrin-language",
+        "title": "Language Revitalization — short public program statement",
+        "author": "Meherrin Indian Tribe; site-wide text/research credit: Greg Holman (Thrarę́anęh); no page-specific byline stated",
+        "publisher": "Meherrin Indian Tribe",
+        "url": "https://meherrinnation.org/history-culture/language/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Living communities",
+          "Public education"
+        ],
+        "annotation": "A short supporting institutional statement connects language learning with future generations and acknowledges specific relatives’ language-preservation work.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual two main introductory paragraphs and Access Page label, separate from donation text.",
+        "accessNotes": "Normal reader and HTTP200 HTML. Short supporting statement, excluded from substantive-work quantity. Linked access-restricted page, learning materials, recordings and vocabulary uninspected; no current speaker or learner totals, uniform language competence, outcomes or formal Confederacy membership inferred.",
+        "sourcePerspective": "Meherrin Indian Tribe; retain the stated author/institution and inspection limits.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "researched",
-    "originalId": 207
+    "researchStatus": "source-guide",
+    "originalId": 207,
+    "preferredName": "Meherrin Indian Tribe",
+    "searchTerms": [
+      "Meherrin Indian Nation"
+    ],
+    "identificationEvidence": [
+      {
+        "url": "https://meherrinnation.org/",
+        "title": "Meherrin Indian Nation — Home",
+        "publisher": "Meherrin Indian Tribe",
+        "reviewedAt": "2026-11-02",
+        "scope": "Title, current H1 self-name57 and explicit southeasternVirginia/northeasternNorthCarolina presence59–60; mailing/TribalGrounds labels92–99 identify NorthCarolina administrative setting. No current officials, language-only membership or religious interpretation adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "overviewSourceIds": [
+      "va-context-meherrin-about",
+      "va-context-meherrin-river-history"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-02",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Seek fuller community-authored historical works and independent comparison of selected timeline entries.",
+      "The history index and short welcome/language statements are supporting context, not additional full historical works.",
+      "Underlying language materials, recordings, maps, treaties and colonial depositions were not inspected.",
+      "A modern river photograph is only regional historical context, not a portrait of today’s community, territorial evidence or present environmental conditions."
+    ],
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Seek fuller community-authored historical works and independent comparison of selected timeline entries.",
+        "The history index and short welcome/language statements are supporting context, not additional full historical works.",
+        "Underlying language materials, recordings, maps, treaties and colonial depositions were not inspected.",
+        "A modern river photograph is only regional historical context, not a portrait of today’s community, territorial evidence or present environmental conditions."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the Tribe’s own community account first, then the selected river-history entries with their source and date limits. The short language statement is supporting context, not another substantive history work. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-context-meherrin-about",
+          "reason": "Begin with living community priorities in the Tribe’s own words."
+        },
+        {
+          "sourceId": "va-context-meherrin-river-history",
+          "reason": "Explore a limited set of historical river-town and movement passages, keeping the compilation’s uncertainty visible."
+        }
+      ],
+      "imageRecordId": "va-context-meherrin-river-2009"
+    }
   },
   {
     "name": "Menominee",
@@ -39819,7 +39979,7 @@
     "name": "Monacan",
     "region": "Southeast / Virginia",
     "kind": "People / community",
-    "overview": "The Monacan Indian Nation has enduring relationships with Virginia’s Piedmont.",
+    "overview": "The Monacan Indian Nation’s public accounts connect a continuing Amherst County community with education, cultural institutions and care for its surroundings. This reading path joins selected history of the Bear Mountain school with the Nation’s account of environmental planning.",
     "sections": [
       {
         "title": "Identity and context",
@@ -39836,6 +39996,20 @@
           "p226-s2",
           "p226-s3"
         ]
+      },
+      {
+        "title": "A school within a continuing community",
+        "text": "The Nation’s history follows an 1868 meeting place that later became the Indian mission school at Bear Mountain. It describes unequal educational provision and the school’s closure as students entered public schooling in 1963. Later passages trace the development of a tribal museum. This is the Nation’s institutional narrative; the underlying school and property records remain further reading.",
+        "sourceIds": [
+          "p226-s1"
+        ]
+      },
+      {
+        "title": "Environmental planning and future generations",
+        "text": "The Nation’s environmental page connects land conservation and energy efficiency with responsibilities to future generations. Its opening account describes a 2023 planning grant, a Priority Climate Action Plan and an intention to keep incorporating citizen priorities. These are the Nation’s stated aims and planning activities, rather than evidence that all measures were implemented or that environmental conditions have improved.",
+        "sourceIds": [
+          "vr-monacan-environment"
+        ]
       }
     ],
     "sources": [
@@ -39850,7 +40024,22 @@
           "History"
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Our History - MONACAN INDIAN NATION” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "author": "Monacan Indian Nation",
+        "publicationDate": "Undated community history; footer year is not publication date",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Selected public-history paragraphs on the 1868 meeting place and later mission school;1924 racial-record pressures and community challenges;1956–1963 schooling and 1993–1995 museum-development passages. Image caption identifying school/church complex read separately. Not all historical claims or underlying records.",
+        "accessNotes": "Exact normal web-reader body and normal HTTPS 200 HTML inspected. Earlier migration/affiliation generalizations, burial/mound discussion and locations, appearance/ancestry/purity descriptions, current population, rankings, source artwork/photos and present legal/title conclusions excluded. The source’s National Register chronology is not adopted; no original statutes, deed, court files, museum objects or quilt inspected. Undated institutional narrative; it is not evidence of current event schedules.",
+        "sourcePerspective": "Community-published public historical account; underlying original records remain separate.",
+        "countsTowardMinimum": true,
+        "reviewFollowups": [
+          {
+            "reviewedAt": "2026-11-02",
+            "scope": "Selected public-history paragraphs on the 1868 meeting place and later mission school;1924 racial-record pressures and community challenges;1956–1963 schooling and 1993–1995 museum-development passages. Image caption identifying school/church complex read separately. Not all historical claims or underlying records.",
+            "access": "Normal public web-reader and normal HTTPS 200 cached body; selected content only.",
+            "previousRecord": "Previously listed lead, accessed 2026-10-19; no previous substantive contentReviewedAt field. Original id/URL/title/publisher/annotation/accessed retained."
+          }
+        ]
       },
       {
         "id": "p226-s2",
@@ -39878,10 +40067,93 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Step Back in Time - MONACAN INDIAN NATION” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "vr-monacan-environment",
+        "title": "Environmental — community climate-planning account",
+        "url": "https://www.monacannation.gov/environmental.html",
+        "publisher": "Monacan Indian Nation",
+        "author": "Monacan Indian Nation",
+        "publicationDate": "Undated public page",
+        "type": "Indigenous-led",
+        "indigenousLed": true,
+        "topics": [
+          "Community history",
+          "Education",
+          "Living institutions"
+        ],
+        "annotation": "The Nation connects environmental planning with land conservation and responsibilities to future generations. A published plan description is separate from implemented results.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual first climate-planning block:2023 grant, PCAP description, future-generation/land-conservation framing and stated citizen-feedback intention, web-reader lines 37–48. Remaining health/safety advice and links excluded.",
+        "sourcePerspective": "Monacan Indian Nation",
+        "accessNotes": "Normal reader and normal HTTPS 200 HTML. Only the opening planning paragraphs read substantively; the linked PCAP/CCAP, inventories, other articles, medical and well/septic guidance, current conditions and programme outcomes are uninspected/excluded. The scheduled 2027 CCAP is a future intention, not completion. Website footer 2015 is not publication date.",
+        "countsTowardMinimum": true
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "preferredName": "Monacan Indian Nation",
+    "searchTerms": [
+      "Monacan Indian Nation"
+    ],
+    "identificationEvidence": [
+      {
+        "url": "https://www.monacannation.gov/",
+        "title": "Monacan Indian Nation — Home",
+        "publisher": "Monacan Indian Nation",
+        "reviewedAt": "2026-11-02",
+        "scope": "Selected mission/name30–31 and explicit Bear Mountain/Amherst headquarters31. Existing raw overview already names this Nation and sources its government site.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "overviewSourceIds": [
+      "p226-s1",
+      "vr-monacan-environment"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-02",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Read additional community-authored language, arts and educational histories.",
+      "Compare original school and other historical records before expanding chronology or legal claims.",
+      "The 2016 school exterior is a specific institutional-place view, not a current portrait of all Monacan people."
+    ],
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read additional community-authored language, arts and educational histories.",
+        "Compare original school and other historical records before expanding chronology or legal claims.",
+        "The 2016 school exterior is a specific institutional-place view, not a current portrait of all Monacan people."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the Nation’s selected school and community history, then read its environmental-planning account. Keep historical dates, institutional perspectives and future intentions distinct. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p226-s1",
+          "reason": "Follow the Nation’s account of education and institutional continuity around Bear Mountain."
+        },
+        {
+          "sourceId": "vr-monacan-environment",
+          "reason": "Read the public environmental-planning priorities as a continuing community’s stated work, not measured outcomes."
+        }
+      ],
+      "imageRecordId": "va-rivers-monacan-20261102"
+    }
   },
   {
     "originalId": 227,
@@ -43368,7 +43640,7 @@
     "name": "Nottoway",
     "region": "Southeast / Virginia / North Carolina",
     "kind": "People / community",
-    "overview": "Nottoway is a people and language name with distinct contemporary community contexts.",
+    "overview": "Nottoway is a broader people and language name, with distinct living community and government contexts. This guide brings a selected historical study into conversation with two separately named Tribal institutions. A shared historical label or river does not make those institutions interchangeable.",
     "sections": [
       {
         "title": "Identity and context",
@@ -43384,6 +43656,28 @@
           "p257-s1",
           "p257-s2",
           "p257-s3"
+        ]
+      },
+      {
+        "title": "Continuity behind the archive",
+        "text": "The 2021 study by Woodard, Moretti-Langholtz and colleagues contrasts nineteenth-century outsider disappearance claims with records of continuing Nottoway families and community ties. Its criticism shows why language loss, racial classifications or the end of communal land administration should not be treated as the disappearance of a people.",
+        "sourceIds": [
+          "p257-s2"
+        ]
+      },
+      {
+        "title": "Women’s leadership and political choices",
+        "text": "The study’s selected 1821 petition discussion follows Edith Turner and other Nottoway signatories seeking control over land and resources. It presents the petition as a community proposal in a contested trustee system. This is the researchers’ interpretation of historical records; the underlying documents require their own review.",
+        "sourceIds": [
+          "p257-s2"
+        ]
+      },
+      {
+        "title": "Distinct contemporary voices",
+        "text": "André Williams’s Tribal-published account emphasizes contemporary Nottoway life and remembers Turner’s leadership. Separately, the Cheroenhaka (Nottoway) Indian Tribe’s goals describe educational and cultural work. These are distinct institutional voices within the wider reading context, not an assertion of one present government or uniform worldview.",
+        "sourceIds": [
+          "va-not-context-modern",
+          "va-not-context-chero"
         ]
       }
     ],
@@ -43403,7 +43697,7 @@
       },
       {
         "id": "p257-s2",
-        "title": "Microsoft Word - 087-5675_MPD_Nottoway_Tribe_in_VA_2021_NRHP_FINAL",
+        "title": "The Nottoway of Virginia, c. 1650–c. 1953 — Multiple Property Documentation",
         "publisher": "dhr.virginia.gov",
         "url": "https://www.dhr.virginia.gov/wp-content/uploads/2020/09/087-5675_MPD_Nottoway_Tribe_in_VA_2021_MPD_FINAL_nomination.pdf",
         "type": "Government",
@@ -43412,8 +43706,32 @@
           "History",
           "Contemporary life"
         ],
-        "annotation": "Historical context for this entry. Read “Microsoft Word - 087-5675_MPD_Nottoway_Tribe_in_VA_2021_NRHP_FINAL” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "annotation": "Selected historical and archival-method passages trace petitions, land administration and continuing community ties. The named researchers acknowledge Nottoway Indian Tribe of Virginia collaborators; a preservation study is not a current membership, land-title or recognition determination.",
+        "accessed": "2026-10-19",
+        "author": "Buck Woodard and Danielle Moretti-Langholtz, co-principal investigators; Megan Victor and Berek Dore, contributors",
+        "publicationDate": "February 2021; approval dates on form distinguished",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Prepared-by/title and acknowledgements; introduction on printed/PDF page 4; trustee and 1821 petition discussion on printed/PDF pages 23–24; archival-erasure critique on page 38 and opening page 39. Selected actual PDF text, not all 87 pages.",
+        "accessNotes": "Actual DHR-hosted PDF body read normally through the web reader. Original petitions, interviews, language manuscripts, site maps/coordinates, genealogies and archaeological collections not inspected. Current law/title/recognition, membership/ancestry, exact quantities and outcomes are not established. Historical racial classifications and outsider disappearance claims are critically contextualized, not adopted.",
+        "sourcePerspective": "William & Mary researchers with the named Nottoway Indian Tribe of Virginia collaborators acknowledged by the report; DHR-hosted preservation study, not universal community endorsement.",
+        "legacyProvenance": {
+          "originalRecord": {
+            "id": "p257-s2",
+            "title": "Microsoft Word - 087-5675_MPD_Nottoway_Tribe_in_VA_2021_NRHP_FINAL",
+            "publisher": "dhr.virginia.gov",
+            "url": "https://www.dhr.virginia.gov/wp-content/uploads/2020/09/087-5675_MPD_Nottoway_Tribe_in_VA_2021_MPD_FINAL_nomination.pdf",
+            "type": "Government",
+            "topics": [
+              "Identity",
+              "History",
+              "Contemporary life"
+            ],
+            "annotation": "Historical context for this entry. Read “Microsoft Word - 087-5675_MPD_Nottoway_Tribe_in_VA_2021_NRHP_FINAL” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
+            "accessed": "2026-10-19"
+          },
+          "reason": "An old filename-derived card title and generic annotation are corrected after selected-content review; exact ID, URL and original listing date remain."
+        }
       },
       {
         "id": "p257-s3",
@@ -43428,10 +43746,105 @@
         ],
         "annotation": "Historical context for this entry. Read “Nottoway” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "va-not-context-modern",
+        "title": "Edith (Edy) Turner — Wané Roonseraw",
+        "url": "https://nottowayindians.org/edith-turner",
+        "author": "André L. Williams, Ph.D., identified as an enrolled Tribal citizen",
+        "publisher": "Nottoway Indian Tribe of Virginia",
+        "type": "Indigenous-led",
+        "publicationDate": "Undated public article; inspected 2026-11-02",
+        "annotation": "A named Tribal author connects an earlier woman leader’s language and political work with continuing community life.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Byline, opening contemporary-culture paragraphs and selected 1820 language/1821 petition passages, main-body lines 16–38.",
+        "accessNotes": "Actual public main body read. Underlying 1820 manuscript and 1821 petition, word list, illustrations and linked references not independently inspected or reproduced. Exact petition date differs from a petition discussed in the 2021 study; only year 1821 is used. Birth/death certainty, word totals, legal conclusions and a universal worldview are not inferred.",
+        "sourcePerspective": "Nottoway Indian Tribe of Virginia; selected public account with named authorship and scope retained.",
+        "indigenousLed": true,
+        "reusedFrom": {
+          "sourceId": "va-notva-edy-turner",
+          "profileSlug": "nottoway-indian-tribe-of-virginia",
+          "reviewedAt": "2026-11-02",
+          "scopeUnchanged": true
+        }
+      },
+      {
+        "id": "va-not-context-chero",
+        "title": "Cheroenhaka (Nottoway) Indian Tribe Resolution & Goals",
+        "url": "https://www.cheroenhaka-nottoway.org/about-us/cheroenhaka-nottoway-indian-tribe-resolution-goals/",
+        "author": "Cheroenhaka (Nottoway) Indian Tribe; individual writer not identified",
+        "publisher": "Cheroenhaka (Nottoway) Indian Tribe",
+        "type": "Indigenous-led",
+        "publicationDate": "Undated body; footer 2021 is not publication date",
+        "annotation": "An attributed statement connects community organization with educational, language and cultural goals.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected self-description and river-place statement at lines 62–63; community-organization paragraphs 67–68; educational/cultural goals 71–77,82–85.",
+        "accessNotes": "Actual public body read. Treaty/recognition and genealogy assertions, current legal status, counts, burial-site details, ceremonies, fundraising and medical/private material excluded. Goals are not evidence of completed projects or every member’s beliefs. No images from the Tribe’s site reused.",
+        "sourcePerspective": "Cheroenhaka (Nottoway) Indian Tribe; selected public account with named authorship and scope retained.",
+        "indigenousLed": true,
+        "reusedFrom": {
+          "sourceId": "va-cheroenhaka-goals",
+          "profileSlug": "cheroenhaka-nottoway-indian-tribe",
+          "reviewedAt": "2026-11-02",
+          "scopeUnchanged": true
+        }
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "p257-s2",
+      "va-not-context-modern",
+      "va-not-context-chero"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-02",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Compare additional community-directed histories and original records.",
+      "The two named modern governments have separate directory routes; this broader guide does not determine membership, recognition or representation.",
+      "The Courtland river photograph is regional context, not either government’s premises."
+    ],
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Compare additional community-directed histories and original records.",
+        "The two named modern governments have separate directory routes; this broader guide does not determine membership, recognition or representation.",
+        "The Courtland river photograph is regional context, not either government’s premises."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the specifically attributed sources together, keeping historical evidence and each modern institution distinct. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p257-s2",
+          "reason": "Read the selected petition and archival-erasure discussions in the 2021 historical study, retaining its named collaborators and limits."
+        },
+        {
+          "sourceId": "va-not-context-modern",
+          "reason": "A named Tribal author connects an earlier woman leader’s language and political work with continuing community life."
+        },
+        {
+          "sourceId": "va-not-context-chero",
+          "reason": "An attributed statement connects community organization with educational, language and cultural goals."
+        }
+      ],
+      "imageRecordId": "va-nottoway-river-2012"
+    }
   },
   {
     "originalId": 258,
@@ -49856,13 +50269,14 @@
     "name": "Powhatan",
     "region": "Southeast / Virginia",
     "kind": "Wider grouping / peoples",
-    "overview": "Powhatan is a historical paramount chiefdom name and a wider identity context connecting distinct Virginia communities.",
+    "overview": "Powhatan is used here as a wider historical and community context, with distinct Virginia peoples and governments kept visible. This reading path connects the history of Werowocomoco with research involving living communities and one specifically identified Pamunkey public-education example.",
     "sections": [
       {
         "title": "Identity and context",
         "text": "Powhatan is a historical paramount chiefdom name and a wider identity context connecting distinct Virginia communities.",
         "sourceIds": [
-          "p308-s1"
+          "p308-s1",
+          "va-context-powhatan-werowocomoco"
         ]
       },
       {
@@ -49873,6 +50287,27 @@
           "p308-s2",
           "p308-s3"
         ]
+      },
+      {
+        "title": "A historical network, not one present government",
+        "text": "The selected NPS account places the leader Powhatan at Werowocomoco and describes a network of distinct communities. It also notes Chickahominy independence from that network. The wider name therefore needs careful context: it should not make the historical chiefdom, an individual community and a modern Tribal government interchangeable.",
+        "sourceIds": [
+          "va-context-powhatan-werowocomoco"
+        ]
+      },
+      {
+        "title": "Interpreting Werowocomoco with living communities",
+        "text": "The same account describes Virginia Indian participation in research, public interpretation and decisions about how the site’s material history is handled. Its named advisory participants represent particular communities. This is a useful example of living relationships with a historical place, rather than a story ending with colonial settlement.",
+        "sourceIds": [
+          "va-context-powhatan-werowocomoco"
+        ]
+      },
+      {
+        "title": "One community’s public cultural teaching",
+        "text": "The Pamunkey Cultural Resource Department describes historical education, cultural classes and recordings made with participants’ full consent. This is one community’s institutional account, not a description of every Powhatan-descendant people. The statement about consent gives no permission for the Atlas to copy recordings or enter restricted knowledge.",
+        "sourceIds": [
+          "va-context-powhatan-pamunkey-example"
+        ]
       }
     ],
     "sources": [
@@ -49881,13 +50316,35 @@
         "title": "History",
         "publisher": "powhatannation.us",
         "url": "https://powhatannation.us/history",
-        "type": "Indigenous-led",
+        "type": "Unverified organizational narrative / excluded lead",
         "topics": [
           "Identity",
           "History"
         ],
-        "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "annotation": "Excluded from this guide’s inspected historical works: the page describes a self-identified Alabama organization. Its historical, genealogical and legal assertions have not been verified for this wider Virginia entry and are not adopted.",
+        "accessed": "2026-10-19",
+        "author": "Publisher self-identifies as The Powhatan Nation of American Indians (Alabama); individual author not verified",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual selected body: publisher’s Alabama scope and self-description, lines6–19 and74–83; displayed rewriting/dossier draft text at158–162. No underlying county records, genealogies, recognition petition, books or dossier claims verified.",
+        "accessNotes": "Normal public web-reader body readable. The page displays wording about rewriting uploaded material; that observation does not establish authorship, site compromise or a judgment about community identity. Preserve this older URL as an explicitly excluded lead. It is not authority for all Powhatan peoples or modern Virginia governments.",
+        "legacyProvenance": {
+          "correctionRecordedAt": "2026-11-02",
+          "reason": "Original generic Indigenous-led classification and annotation did not establish this publisher’s narrower organizational scope.",
+          "originalRecord": {
+            "id": "p308-s1",
+            "title": "History",
+            "publisher": "powhatannation.us",
+            "url": "https://powhatannation.us/history",
+            "type": "Indigenous-led",
+            "topics": [
+              "Identity",
+              "History"
+            ],
+            "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “History” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
+            "accessed": "2026-10-19"
+          }
+        }
       },
       {
         "id": "p308-s2",
@@ -49901,7 +50358,12 @@
           "Contemporary life"
         ],
         "annotation": "Historical context for this entry. Read “About Powhatan | Powhatan County, VA - Official Website” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "author": "Powhatan County, Virginia; individual writer not credited",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": false,
+        "contentReviewScope": "Actual short county-history/location body, web-reader lines20–28. Its Indigenous reference is the county’s naming for Chief Powhatan; the rest concerns county formation, court house and municipal geography.",
+        "accessNotes": "Supporting place-name reference only, not substantive coverage of Indigenous communities. Current/old population figures, county boundaries and colonial-settlement framing are not adopted as Indigenous historical or territorial evidence."
       },
       {
         "id": "p308-s3",
@@ -49916,13 +50378,148 @@
         ],
         "annotation": "Historical context for this entry. Read “A POWHATAN PLACE OF POWER” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "va-context-powhatan-werowocomoco",
+        "title": "A Story Written on the Land: Recovering the Site of Werowocomoco",
+        "author": "National Park Service; excerpt from Virginia Indians at Werowocomoco: A National Park Handbook, second edition",
+        "publisher": "National Park Service",
+        "url": "https://www.nps.gov/articles/000/werowocomoco-brief-history.htm",
+        "type": "Government historical interpretation",
+        "topics": [
+          "History",
+          "Living communities",
+          "Public education"
+        ],
+        "annotation": "Selected passages distinguish a historical political network from the living, individually named communities involved in interpreting this place.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Updated 2023-12-14",
+        "contentReviewScope": "Actual main body: Werowocomoco/place and chiefdom paragraphs, selected colonial-pressure/relocation passage, and research-partnership/Virginia Indian Advisory Board paragraphs; web-reader lines28–40,44–49,53–57. Entire cached HTML obtained normally, not a claim that the underlying handbook, archaeological collections, maps or field records were read.",
+        "accessNotes": "Normal web reader and HTTP200 HTML. Historical dates and interpretations remain attributed. Population, chiefdom totals, precise archaeological-resource locations, artifacts, ceremony and quoted individual claims not reproduced. The underlying book and linked records are not additional inspected works. Images on the article are not licensed by this content review.",
+        "sourcePerspective": "National Park Service; retain the stated author/institution and inspection limits.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-context-powhatan-pamunkey-example",
+        "title": "Cultural Resources — education, recording and public history",
+        "author": "Pamunkey Indian Tribe Cultural Resource Department",
+        "publisher": "Pamunkey Indian Tribe",
+        "url": "https://www.pamunkey.org/cultural-resources",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "One specifically identified living community example: the Pamunkey department describes public historical education and cultural teaching. It is not a statement for every Powhatan-descendant community.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main body 27–35 on department formation, cultural education and consent-based recording;42–49 on pottery-school and schoolhouse history.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Public program descriptions only; no linked recordings, stories, songs, plant knowledge, oral histories, underlying ledger, objects or images inspected/reproduced. Department recording-consent policy is not permission for Atlas to record or reuse cultural material.",
+        "sourcePerspective": "Pamunkey Indian Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true,
+        "reusedFrom": {
+          "profileSlug": "pamunkey",
+          "sourceId": "va-coast-pamunkey-cultural",
+          "reviewedAt": "2026-11-02",
+          "originalRecord": {
+            "id": "va-coast-pamunkey-cultural",
+            "title": "Cultural Resources — education, recording and public history",
+            "author": "Pamunkey Indian Tribe Cultural Resource Department",
+            "publisher": "Pamunkey Indian Tribe",
+            "url": "https://www.pamunkey.org/cultural-resources",
+            "type": "Indigenous-led",
+            "topics": [
+              "Community history",
+              "Living communities",
+              "Education and cultural continuity"
+            ],
+            "annotation": "A public departmental account explains how cultural teaching, historical education and permission for recording are handled by the Tribe.",
+            "accessed": "2026-11-02",
+            "contentReviewedAt": "2026-11-02",
+            "publicationDate": "Undated public page",
+            "contentReviewScope": "Actual main body 27–35 on department formation, cultural education and consent-based recording;42–49 on pottery-school and schoolhouse history.",
+            "accessNotes": "Normal web-reader body and HTTP 200 HTML. Public program descriptions only; no linked recordings, stories, songs, plant knowledge, oral histories, underlying ledger, objects or images inspected/reproduced. Department recording-consent policy is not permission for Atlas to record or reuse cultural material.",
+            "sourcePerspective": "Pamunkey Indian Tribe; selected account retains this institutional/author perspective.",
+            "countsTowardMinimum": true
+          }
+        }
+      },
+      {
+        "id": "va-context-powhatan-site-notice",
+        "title": "Werowocomoco — selected place description and access notice",
+        "author": "National Park Service / Captain John Smith Chesapeake National Historic Trail",
+        "publisher": "National Park Service",
+        "url": "https://www.nps.gov/cajo/planyourvisit/werowocomoco.htm",
+        "type": "Government supporting access reference",
+        "topics": [
+          "History",
+          "Living communities",
+          "Public education"
+        ],
+        "annotation": "Supporting context for the named historic site and its posted closure notice; not an additional substantive history work.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Updated 2024-10-16",
+        "contentReviewScope": "Actual introductory notice and What is/What happened main paragraphs, web-reader lines21–34; dated page footer.",
+        "accessNotes": "Normal reader and HTTP200 HTML. Posted notice at review says the site remains closed while planning continues. This is not an independent access/legal assessment or a new permission to visit, photograph or record. Two linked videos, transcripts, the conjectural illustration and underlying studies were not inspected or reused.",
+        "sourcePerspective": "National Park Service; retain the stated author/institution and inspection limits.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
       322,
       226
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "va-context-powhatan-werowocomoco",
+      "va-context-powhatan-pamunkey-example"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-02",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Compare additional community-authored histories and disagreements among historical interpretations.",
+      "Review the underlying handbook and original records separately before extending chronology.",
+      "The 2017 gate photograph is a modern entrance view, not a reconstruction, village portrait or permission to enter the closed site.",
+      "The older powhatannation.us narrative is explicitly excluded and no ancestry, recognition or present government authority is inferred from it."
+    ],
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Compare additional community-authored histories and disagreements among historical interpretations.",
+        "Review the underlying handbook and original records separately before extending chronology.",
+        "The 2017 gate photograph is a modern entrance view, not a reconstruction, village portrait or permission to enter the closed site.",
+        "The older powhatannation.us narrative is explicitly excluded and no ancestry, recognition or present government authority is inferred from it."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the selected Werowocomoco history, then read the Pamunkey departmental account as one living community example. Keep historical networks and particular modern governments distinct. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-context-powhatan-werowocomoco",
+          "reason": "A bounded historical and research-partnership account, with individually named communities and interpretive limits."
+        },
+        {
+          "sourceId": "va-context-powhatan-pamunkey-example",
+          "reason": "One contemporary community’s own public description of education and cultural teaching."
+        }
+      ],
+      "imageRecordId": "va-context-powhatan-werowocomoco-gate"
+    }
   },
   {
     "originalId": 309,
@@ -51506,7 +52103,7 @@
     "name": "Rappahannock",
     "region": "Southeast / Virginia",
     "kind": "People / community",
-    "overview": "The Rappahannock Tribe has enduring relationships with the river region bearing its name in Virginia.",
+    "overview": "The Rappahannock Tribe’s public history connects continuing community life with the river region bearing its name. Its account of displacement and rebuilding can be read beside a dated Fish and Wildlife Service report on river-based education and collaborative stewardship.",
     "sections": [
       {
         "title": "Identity and context",
@@ -51523,6 +52120,20 @@
           "p322-s2",
           "p322-s3"
         ]
+      },
+      {
+        "title": "Displacement, return and institutional continuity",
+        "text": "The Tribe’s historical account describes encroaching settlement and repeated forced moves during the seventeenth and early eighteenth centuries, followed by a return downriver. It also records incorporation in 1921 and cultural-center work in the 1990s. Read this as an attributed community history, rather than treating displacement as disappearance or the narrative as a new examination of every colonial record.",
+        "sourceIds": [
+          "p322-s1"
+        ]
+      },
+      {
+        "title": "A river as a setting for teaching and stewardship",
+        "text": "Sydney Giuliano’s September 2025 FWS report describes the Tribe’s education center at Cat Point Creek and reported adaptations to its building. It also records plans to extend Return to the River learning at Fones Cliffs. The partnership account connects education and land care, while leaving later delivery, present access, legal title and ecological results for separate checks.",
+        "sourceIds": [
+          "vr-rappahannock-stewardship-2025"
+        ]
       }
     ],
     "sources": [
@@ -51537,7 +52148,22 @@
           "History"
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “Tribal History – Rappahannock Indian Tribe” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
-        "accessed": "2026-10-19"
+        "accessed": "2026-10-19",
+        "author": "Rappahannock Tribe",
+        "publicationDate": "Undated community history; footer year is not publication date",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual selected main history paragraphs: colonial land pressure and forced moves, later downriver return,1921 incorporation, cultural-center phases in 1995–1997 and stated public-education mission; web-reader lines 59–65,68,70. Earlier Smith anecdotes, later officeholders and event calendar not adopted.",
+        "accessNotes": "Exact normal web-reader body and normal HTTPS 200 HTML. Attributed Tribal public history, not fresh inspection of county-court land files, colonial records or all communities named. Source mixes older future museum/retreat plans with an undated page; those are not current-status or completed-project findings. Acreage/population, current recognition/legal powers, officeholder rankings, private cultural practice, images and uninspected linked materials excluded.",
+        "sourcePerspective": "Community-published public historical account; underlying original records remain separate.",
+        "countsTowardMinimum": true,
+        "reviewFollowups": [
+          {
+            "reviewedAt": "2026-11-02",
+            "scope": "Actual selected main history paragraphs: colonial land pressure and forced moves, later downriver return,1921 incorporation, cultural-center phases in 1995–1997 and stated public-education mission; web-reader lines 59–65,68,70. Earlier Smith anecdotes, later officeholders and event calendar not adopted.",
+            "access": "Normal public web-reader and normal HTTPS 200 cached body; selected content only.",
+            "previousRecord": "Previously listed lead, accessed 2026-10-19; no previous substantive contentReviewedAt field. Original id/URL/title/publisher/annotation/accessed retained."
+          }
+        ]
       },
       {
         "id": "p322-s2",
@@ -51565,10 +52191,93 @@
         ],
         "annotation": "Context and further reading linked for this entry. The publisher’s “Defining the Rappahannock Indigenous Cultural Landscape” is a starting point; verify the geographical and community scope before applying its account more broadly.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "vr-rappahannock-stewardship-2025",
+        "title": "Restoring tribal stewardship",
+        "url": "https://www.fws.gov/story/2025-09/restoring-tribal-stewardship",
+        "publisher": "U.S. Fish and Wildlife Service",
+        "author": "Sydney Giuliano",
+        "publicationDate": "2025-09-09",
+        "type": "Government partnership report",
+        "indigenousLed": false,
+        "topics": [
+          "Community history",
+          "Education",
+          "Living institutions"
+        ],
+        "annotation": "A dated agency partnership report connects a community education center with proposed river-based learning and collaborative stewardship.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Selected dated narrative identifying Cat Point Creek’s Indigenous Environmental and Conservation Education Center, reported building adaptations and the Stewards for the future section on proposed Return to the River expansion at Fones Cliffs. Publication/byline read.",
+        "sourcePerspective": "U.S. Fish and Wildlife Service",
+        "accessNotes": "Normal reader indexed main body and normal HTTPS 200 cached article. Selected passages only. Acreage, easement/title/legal conclusions, visitor access, current officeholders, archaeological locations/finds, sacred interpretations, species superlatives and ecological outcomes excluded. Expansion/trails/tours are reported intentions, not verified later delivery. This image/media review is separate from this text source.",
+        "countsTowardMinimum": true
       }
     ],
     "relatedOriginalIds": [],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "preferredName": "Rappahannock Tribe",
+    "searchTerms": [
+      "Rappahannock Indian Tribe"
+    ],
+    "identificationEvidence": [
+      {
+        "url": "https://www.rappahannocktribe.org/",
+        "title": "Rappahannock Indian Tribe — Home",
+        "publisher": "Rappahannock Tribe",
+        "reviewedAt": "2026-11-02",
+        "scope": "Title/self-name25 and main About heading80–84, plus named Tribal Center locality162–164. Existing raw overview already names the Tribe and its government website.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "overviewSourceIds": [
+      "p322-s1",
+      "vr-rappahannock-stewardship-2025"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-02",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Read further Tribe-authored educational and language materials alongside the attributed history.",
+      "Review later public reports before extending claims about proposed activities or present conditions.",
+      "The undated Fones Cliffs photograph is a named landscape example, not a boundary map, all-community portrait or present ecological assessment."
+    ],
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read further Tribe-authored educational and language materials alongside the attributed history.",
+        "Review later public reports before extending claims about proposed activities or present conditions.",
+        "The undated Fones Cliffs photograph is a named landscape example, not a boundary map, all-community portrait or present ecological assessment."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the Tribe’s own selected history, then compare the dated agency partnership account. The landscape, institutions and community remain connected without making the agency a substitute for the Tribe’s voice. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "p322-s1",
+          "reason": "Follow the Tribe’s attributed account of displacement, return and community institutions."
+        },
+        {
+          "sourceId": "vr-rappahannock-stewardship-2025",
+          "reason": "Compare a dated report on river-based education and proposed collaborative stewardship."
+        }
+      ],
+      "imageRecordId": "va-rivers-rappahannock-20261102"
+    }
   },
   {
     "originalId": 323,
@@ -68272,7 +68981,7 @@
     "name": "Pamunkey",
     "region": "Southeast / Virginia",
     "kind": "People / community",
-    "overview": "The Pamunkey Indian Tribe has enduring relationships with Virginia’s Pamunkey River region.",
+    "overview": "The Pamunkey Indian Tribe describes the reservation beside the Pamunkey River as a living home where families continue to live and work. Its public cultural-resource account connects this place with education and the careful stewardship of knowledge.",
     "sections": [
       {
         "title": "Identity and context",
@@ -68288,6 +68997,27 @@
           "added-s1",
           "added-s2",
           "added-s3"
+        ]
+      },
+      {
+        "title": "A continuing river community",
+        "text": "The Tribe’s reservation account places present community life beside the Pamunkey River and follows pressures on that home through colonial encroachment, war and discriminatory state policies. It also frames erosion and flooding as preservation concerns. This is the Tribe’s published historical and environmental perspective; the linked scientific models and present legal or environmental conditions need separate review.",
+        "sourceIds": [
+          "va-coast-pamunkey-reservation"
+        ]
+      },
+      {
+        "title": "Education and cultural work",
+        "text": "The Cultural Resource Department dates its establishment to February 2020. Its public account describes history and pottery classes, museum-related work and cooperation with schools. The same page links earlier pottery and schoolhouse institutions with education under segregation. These selected descriptions introduce the Tribe’s public work without measuring program outcomes or claiming current class schedules.",
+        "sourceIds": [
+          "va-coast-pamunkey-cultural"
+        ]
+      },
+      {
+        "title": "Permission and future generations",
+        "text": "The department explains that it records knowledge only with the full consent of the people involved. That stated practice makes authority over cultural knowledge visible. This guide has reviewed the public explanation, not the recordings or their contents, and does not treat a public website as permission to reproduce private or restricted material.",
+        "sourceIds": [
+          "va-coast-pamunkey-cultural"
         ]
       }
     ],
@@ -68331,12 +69061,115 @@
         ],
         "annotation": "Historical context for this entry. Read “Federal Recognition for the Pamunkey - Historic Jamestowne Part of Colonial National Historical Park (U.S. National Park Service)” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "va-coast-pamunkey-reservation",
+        "title": "Pamunkey Indian Reservation — community account",
+        "author": "Pamunkey Indian Tribe",
+        "publisher": "Pamunkey Indian Tribe",
+        "url": "https://www.pamunkey.org/reservation",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The Tribe presents its river-connected home as a continuing community and connects historical change with preservation concerns.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main body: present community/place paragraphs 28–32, selected historical change 34–46, and preservation/climate-concern introduction 48–55.",
+        "accessNotes": "Normal web-reader body and normally retrieved HTTP 200 HTML. Selected account only; precise acreage, superlatives, burial/archaeological details, current title/treaty interpretation, legal assertions, environmental projections and underlying models excluded. The museum date differs from another Tribe page and is not adopted.",
+        "sourcePerspective": "Pamunkey Indian Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-pamunkey-cultural",
+        "title": "Cultural Resources — education, recording and public history",
+        "author": "Pamunkey Indian Tribe Cultural Resource Department",
+        "publisher": "Pamunkey Indian Tribe",
+        "url": "https://www.pamunkey.org/cultural-resources",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "A public departmental account explains how cultural teaching, historical education and permission for recording are handled by the Tribe.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main body 27–35 on department formation, cultural education and consent-based recording;42–49 on pottery-school and schoolhouse history.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Public program descriptions only; no linked recordings, stories, songs, plant knowledge, oral histories, underlying ledger, objects or images inspected/reproduced. Department recording-consent policy is not permission for Atlas to record or reuse cultural material.",
+        "sourcePerspective": "Pamunkey Indian Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
       }
     ],
     "relatedOriginalIds": [
       308
     ],
-    "researchStatus": "source-guide"
+    "researchStatus": "source-guide",
+    "preferredName": "Pamunkey Indian Tribe",
+    "searchTerms": [
+      "Pamunkey Indian Tribe"
+    ],
+    "identificationEvidence": [
+      {
+        "url": "https://www.pamunkey.org/",
+        "title": "Pamunkey Indian Tribe — Home",
+        "publisher": "Pamunkey Indian Tribe",
+        "reviewedAt": "2026-11-02",
+        "scope": "Exact self-name22–25 and tribal-government description40–42. Existing raw overview explicitly names the same Tribe and its own history/museum pages.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "overviewSourceIds": [
+      "va-coast-pamunkey-reservation",
+      "va-coast-pamunkey-cultural"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-02",
+    "researchComplete": false,
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Compare underlying historical records and public community-authored works beyond these selected institutional pages.",
+      "Linked models, recordings, oral histories and museum collections were not reviewed; current access and program outcomes remain open.",
+      "The displayed image is a modern photograph of a replica log cabin near the reservation entrance, not an original Indigenous dwelling, current family home or complete representation of Pamunkey life."
+    ],
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Compare underlying historical records and public community-authored works beyond these selected institutional pages.",
+        "Linked models, recordings, oral histories and museum collections were not reviewed; current access and program outcomes remain open.",
+        "The displayed image is a modern photograph of a replica log cabin near the reservation entrance, not an original Indigenous dwelling, current family home or complete representation of Pamunkey life."
+      ]
+    },
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the community-specific reading path below. Sources retain their authors, dates and selected inspection scopes. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-coast-pamunkey-reservation",
+          "reason": "Start with the Tribe’s own account of continuing community life, place and historical change."
+        },
+        {
+          "sourceId": "va-coast-pamunkey-cultural",
+          "reason": "Follow education, public history and the department’s stated consent-based approach to recording."
+        }
+      ],
+      "imageRecordId": "va-pamunkey-replica-cabin-2017"
+    }
   },
   {
     "added": true,
@@ -110418,5 +111251,1242 @@
         "reviewStatus": "Awaiting original-source review"
       }
     ]
+  },
+  {
+    "name": "Mattaponi Indian Tribe",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal community / government",
+    "region": "Virginia / Mattaponi River, King William County",
+    "overview": "The Mattaponi Indian Tribe presents a continuing community on and near the Mattaponi River in King William County. This guide pairs its public historical submission with a named scholarly report prepared in collaboration with Tribal reviewers.",
+    "relationshipNote": "An individually named living Mattaponi tribal community and institution. Upper Mattaponi is a separately named community; the reservation is a place associated with this Tribe, not an additional people.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A community with its own name",
+        "text": "The public petition presents the Mattaponi as a continuing social and political community on and around the reservation. Woodard and Moretti-Langholtz explain that broad labels such as Powhatan and Algonquian can obscure specifically named river communities. These are attributed historical accounts, rather than a new determination of ancestry, membership, land title or legal status.",
+        "sourceIds": [
+          "va-coast-mattaponi-petition",
+          "va-coast-mattaponi-heritage"
+        ]
+      },
+      {
+        "title": "River work and historical change",
+        "text": "The 2017 report’s introduction follows a community economy shaped by fishing, farming and regional markets. It also traces later moves toward wage work, wider education and activism. Reading continuity alongside economic change avoids treating a community as fixed in one historical way of life. The account is a selected scholarly synthesis; its underlying interviews and records remain to be examined.",
+        "sourceIds": [
+          "va-coast-mattaponi-heritage"
+        ]
+      },
+      {
+        "title": "Institutions and community-directed history",
+        "text": "The report places the former school and Mattaponi Indian Baptist Church within a wider community history and explains the role of Tribal reviewers in its research. The Tribe’s own short About page also describes education and cultural outreach as part of contemporary life. These public descriptions identify institutions and priorities without claiming current program availability or a single experience for every citizen.",
+        "sourceIds": [
+          "va-coast-mattaponi-heritage",
+          "va-coast-mattaponi-about"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "va-coast-mattaponi-heritage",
+        "title": "Heritage Properties of Indian Town — selected introduction and community history",
+        "author": "Buck Woodard and Danielle Moretti-Langholtz; contributors Martha McCartney, Megan Victor and Nicholas Belluzzo",
+        "publisher": "College of William & Mary Department of Anthropology / Virginia Department of Historic Resources",
+        "url": "https://www.dhr.virginia.gov/wp-content/uploads/2019/11/KW-045_Mattaponi_Indian_Reservation_Heritage_Properties_Indian_Town_2017_WM_report.pdf",
+        "type": "Academic / reference",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "A named scholarly report prepared in collaboration with Mattaponi reviewers connects community institutions and changing work on and around the river.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "October 2017",
+        "contentReviewScope": "Actual 150-page PDF: title/author pages 1,3 and complete introduction/context pages 7–8. Selected public church/school, riverine economic change and research-collaboration account; no underlying interviews or later property records read.",
+        "accessNotes": "One normal HTTP 200 PDF download; pypdf selected text read. The report credits named Mattaponi Tribal reviewers and a 2016 MOU, but that is not Atlas community review or a new permission grant. Private homes, precise sites, genealogy, oral narratives, burial/ceremonial content and later archaeological/architectural inventories excluded.",
+        "sourcePerspective": "College of William & Mary Department of Anthropology / Virginia Department of Historic Resources; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-mattaponi-petition",
+        "title": "Mattaponi Indian Tribe and Reservation — selected public historical narrative in petition",
+        "author": "Mattaponi Tribal Council; prepared by Kenah Consulting LLC (Michelle Lea Kiel, Stephanie R. Hasselbacher, Ashley A. Spivey, Catherine Hill and Katie McGhee) and Mattaponi Petition Office",
+        "publisher": "Mattaponi Indian Tribe; public file hosted by Bureau of Indian Affairs",
+        "url": "https://www.bia.gov/sites/default/files/media_document/408_narr_2024.pdf",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The Tribe’s public submission presents a continuing Mattaponi community and explains its reading of historical evidence. Its purpose and limits stay explicit.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated cover; BIA file identifier includes 2024",
+        "contentReviewScope": "Actual 964-page public PDF: cover/byline 1–2 and selected Historical Mattaponi Indian Tribe pages 9–10, printed 4–5. Read the community/place opening and the framing of early documentary accounts; colonial quotations, genealogical criteria and detailed cited-site assertions not adopted.",
+        "accessNotes": "One normal HTTP 200 PDF download. Cover is undated; BIA filename includes 2024 and is not treated as a printed publication date. Selected pages only, not the whole petition or appendices. This is the Tribe’s submitted historical argument, not a BIA determination, current acknowledgment status or legal advice. Redacted/private genealogy, enrollment files, internal meetings, living-person records and underlying Smith/maps/archival works excluded.",
+        "sourcePerspective": "Mattaponi Indian Tribe; public file hosted by Bureau of Indian Affairs; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-mattaponi-about",
+        "title": "About the Mattaponi — supporting institutional orientation",
+        "author": "Mattaponi Indian Tribe and Reservation",
+        "publisher": "Mattaponi Indian Tribe and Reservation",
+        "url": "https://mattaponi.gov/about-mattaponi",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "A short community-published orientation makes the continuing Tribe visible; its reuse restrictions remain separate from outside image licenses.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual About body 30–44: named river/county setting and public description of education, business and cultural outreach; site-specific permission footer 64–65.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Short supporting orientation, excluded from substantive-work count. Staff, member totals, etymology, oral-history truth claims and images not adopted. Site requires express written permission for its content/images; no Tribe-site media copied and no new permission claimed. History and Land links rendered no substantive body and are excluded.",
+        "sourcePerspective": "Mattaponi Indian Tribe and Reservation; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://mattaponi.gov/about-mattaponi",
+        "title": "About the Mattaponi",
+        "publisher": "Mattaponi Indian Tribe & Reservation",
+        "reviewedAt": "2026-11-02",
+        "scope": "Selected identification and place statements at main-body lines30–32 and footer location68–75: named Tribe, Mattaponi River and King William County. Current people/programme quantities, narrative claims and staff details excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/mattaponi-tribe-/",
+        "title": "Mattaponi Tribe — History of the Mattaponi",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Heading27–28 and opening location clause29 identify this named community in King William County. Other historical, legal, population and government-size claims not adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Mattaponi Tribe"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Read further Mattaponi-directed public histories while respecting the Tribe’s stated permissions and redactions.",
+      "No complete petition, genealogy, original colonial work, legal determination or current environmental assessment was reviewed.",
+      "The displayed Mattaponi River photograph is regional named-waterway context; it is not a photograph of the reservation, current residents, a boundary or ownership."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read further Mattaponi-directed public histories while respecting the Tribe’s stated permissions and redactions.",
+        "No complete petition, genealogy, original colonial work, legal determination or current environmental assessment was reviewed.",
+        "The displayed Mattaponi River photograph is regional named-waterway context; it is not a photograph of the reservation, current residents, a boundary or ownership."
+      ]
+    },
+    "overviewSourceIds": [
+      "va-coast-mattaponi-petition",
+      "va-coast-mattaponi-heritage"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the community-specific reading path below. Sources retain their authors, dates and selected inspection scopes. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-coast-mattaponi-petition",
+          "reason": "Read the selected public historical argument with the petition’s purpose and unreviewed appendices clearly distinguished."
+        },
+        {
+          "sourceId": "va-coast-mattaponi-heritage",
+          "reason": "Compare the named report’s introduction on community institutions, river livelihoods and change."
+        }
+      ],
+      "imageRecordId": "va-mattaponi-river-2017"
+    }
+  },
+  {
+    "name": "Chickahominy Indian Tribe",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal community / government",
+    "region": "Virginia / Charles City County",
+    "overview": "The Chickahominy Indian Tribe’s public history emphasizes continuing community life, education and action against discriminatory policies. This reading path compares its account with a state history of river settlements and political organization.",
+    "relationshipNote": "The individually named Chickahominy Indian Tribe is kept distinct from the Chickahominy Indian Tribe – Eastern Division. A river name or broader historical Chickahominy context is not a separate current government by itself.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "River settlements and political organization",
+        "text": "The state account places Chickahominy towns along the river at English arrival and describes government through a council of elders. It also follows forced relocation and later community-building around Chickahominy Ridge and Samaria. This is an attributed historical interpretation, not a reason to treat all Virginia Algonquian communities or all governments as interchangeable.",
+        "sourceIds": [
+          "va-coast-chickahominy-state-history"
+        ]
+      },
+      {
+        "title": "Education under segregation",
+        "text": "The Tribe’s twentieth-century account describes state discrimination and the destruction of records identifying Native people. It explains that community members built schools and funded teachers when further education in Virginia was denied, and that some young people traveled to Oklahoma. These efforts make continued community action visible; discriminatory recordkeeping does not show that the people disappeared.",
+        "sourceIds": [
+          "va-coast-chickahominy-twentieth"
+        ]
+      },
+      {
+        "title": "A living voice about the future",
+        "text": "The Tribe’s public vision statement links hopes for the future with environmental stewardship and new ways to share its own story. Read this as the institution’s stated priorities alongside its account of citizens contributing to surrounding communities. It is not a claim that every citizen shares one belief or that proposed benefits have already been achieved.",
+        "sourceIds": [
+          "va-coast-chickahominy-vision",
+          "va-coast-chickahominy-twentieth"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "va-coast-chickahominy-twentieth",
+        "title": "20th Century — Chickahominy community history",
+        "author": "Chickahominy Indian Tribe",
+        "publisher": "Chickahominy Indian Tribe",
+        "url": "https://www.chickahominytribe.org/tribal-history/20th-century",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The Tribe’s own account places education and community action at the center of twentieth-century survival.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main body 3–9: segregation and record destruction, community-funded education, later recognition and public participation.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Selected community account, not underlying school/state records, present officeholder roles or economic outcome measurements. State attempts to deny Indian identification are not evidence of disappearance. Linked images and later event pages uninspected.",
+        "sourcePerspective": "Chickahominy Indian Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-chickahominy-state-history",
+        "title": "History of the Chickahominy — selected state account",
+        "author": "Virginia Secretary of the Commonwealth; individual writer not identified",
+        "publisher": "Commonwealth of Virginia",
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/chickahominy-tribe/",
+        "type": "Government",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "A state historical account supplies river-settlement and institutional context to compare with the Tribe’s own narrative.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main body 29–40: selected Chickahominy River settlement, council-based political organization, relocation, Samaria and discriminatory classification.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Dated estimates/current council numbers and precise treaty representation/date claims are not adopted. Early colonial interpretations remain attributed; linked Encyclopedia Virginia works, colonial texts and racial ancestry rules are not adopted as current identity criteria.",
+        "sourcePerspective": "Commonwealth of Virginia; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-chickahominy-vision",
+        "title": "Our Vision For The Future — supporting public statement",
+        "author": "Chickahominy Indian Tribe",
+        "publisher": "Chickahominy Indian Tribe",
+        "url": "https://www.chickahominytribe.org/tribal-history/our-vision-for-the-future",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "A brief institutional statement connects future hopes with stewardship and telling the Tribe’s own story.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual short main body 3–5 on opportunities, stewardship and communication.",
+        "accessNotes": "Actual ordinary web-reader body read. Short supporting statement excluded from substantive-work count. Public institutional aspirations, not a universal worldview, all-citizen belief, completed outcome or current calendar. No linked media, restricted stories or ritual material inspected/reused.",
+        "sourcePerspective": "Chickahominy Indian Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.chickahominytribe.org/",
+        "title": "Chickahominy Indian Tribe",
+        "publisher": "Chickahominy Indian Tribe",
+        "reviewedAt": "2026-11-02",
+        "scope": "Exact current institutional name in title/logo/copyright and office locality48–59. Used only for the named Tribe and its own public website; cultural/history/department links and images not inspected for this identification record.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/chickahominy-tribe/",
+        "title": "Chickahominy Tribe — History of the Chickahominy",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Heading27–28 and opening location clause29 identify the Charles City County tribal community. Historical narrative, member totals and current government-size assertions not adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Chickahominy Tribe"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop further community-authored public language, educational and historical sources.",
+      "Underlying school/census/colonial records and current program outcomes were not reviewed; no present enrollment or membership totals are adopted.",
+      "The displayed Chickahominy River photograph is one modern regional view of a historically shared named river, not a Tribal center, current boundary or citizen portrait."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Develop further community-authored public language, educational and historical sources.",
+        "Underlying school/census/colonial records and current program outcomes were not reviewed; no present enrollment or membership totals are adopted.",
+        "The displayed Chickahominy River photograph is one modern regional view of a historically shared named river, not a Tribal center, current boundary or citizen portrait."
+      ]
+    },
+    "overviewSourceIds": [
+      "va-coast-chickahominy-twentieth",
+      "va-coast-chickahominy-state-history"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the community-specific reading path below. Sources retain their authors, dates and selected inspection scopes. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-coast-chickahominy-twentieth",
+          "reason": "Begin with the Tribe’s own historical account of education, discrimination and continuing community action."
+        },
+        {
+          "sourceId": "va-coast-chickahominy-state-history",
+          "reason": "Compare the state account’s river and political context, retaining its perspective and limits."
+        }
+      ],
+      "imageRecordId": "va-chickahominy-river-2020"
+    }
+  },
+  {
+    "name": "Chickahominy Indian Tribe – Eastern Division",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal government / community",
+    "region": "Virginia / New Kent County",
+    "overview": "The Chickahominy Indian Tribe–Eastern Division is a distinct living Tribal community based in New Kent County. Its public timeline and environmental project account introduce government, schooling and food-growing work, with a state history offering an outside comparison.",
+    "relationshipNote": "A separately named tribal government, distinct from the Chickahominy Indian Tribe. The website explicitly distinguishes the tribal government CIT-ED from the separate Chickahominy Indians Eastern Division (CIED) nonprofit; that charity is not silently substituted for this government.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "A separately organized government",
+        "text": "The Tribe’s timeline dates the formation of its own government to 1920–1921 and incorporation to 1925. The state account gives the same organization dates while noting different explanations for the separation from the other Chickahominy government. These are distinct named institutions with connected earlier histories, not two names for a single present government.",
+        "sourceIds": [
+          "va-coast-eastern-history",
+          "va-coast-eastern-state-history"
+        ]
+      },
+      {
+        "title": "Schools and community institutions",
+        "text": "The timeline records a New Kent school beginning in 1910 and later transfer of students to Samaria Indian School in Charles City County. It also places Tsena Commocko Baptist Church and a later Tribal Government Center within the community’s institutional history. These selected public entries do not establish the experience or religious beliefs of every citizen.",
+        "sourceIds": [
+          "va-coast-eastern-history"
+        ]
+      },
+      {
+        "title": "A dated food-growing project",
+        "text": "The environmental account describes using a 2022 EPA grant to establish composting and community gardening. It separately sets out plans for a school garden and food forest in 2025. The account connects food-growing and environmental learning; it is not evidence that each proposal was completed or that present production, access or health outcomes have been independently measured.",
+        "sourceIds": [
+          "va-coast-eastern-garden"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "va-coast-eastern-history",
+        "title": "Tribal History — Chickahominy Indian Tribe–Eastern Division",
+        "author": "Chickahominy Indian Tribe–Eastern Division",
+        "publisher": "Chickahominy Indian Tribe–Eastern Division public website (cied.org)",
+        "url": "https://www.cied.org/history",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The Tribe’s timeline follows a distinct government, school history and community institutions rather than merging the two Chickahominy governments.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual timeline: selected Chickahominy River reference 1607/1750 and complete 1910–1925,1950,1967 and 2008 entries, reader 87–105/128.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Selected entries only, not original censuses, deeds, school or incorporation records. Early treaty and Brafferton chronology, quantities, ancestry/ethnicity determinations and private/ceremonial imagery not adopted. Site homepage explicitly separates nonprofit CIED from government CIT-ED; no nonprofit-government equivalence.",
+        "sourcePerspective": "Chickahominy Indian Tribe–Eastern Division public website (cied.org); selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-eastern-garden",
+        "title": "Tribal Garden and Food Forest — selected project account",
+        "author": "Chickahominy Indian Tribe–Eastern Division",
+        "publisher": "Chickahominy Indian Tribe–Eastern Division public website (cied.org)",
+        "url": "https://www.cied.org/community-garden",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "A specific dated project account connects composting, growing food and community learning while retaining plans as plans.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main project paragraphs 26–31:2022 grant-supported compost/garden work and plans stated for 2025 school garden/food forest.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Short but substantive selected project report; quantities, plant/medicine uses, staff contacts, children’s images and project photos not reproduced.2025 plans are not 2026 outcomes; no present food supply, health, service or volunteer-access guarantee.",
+        "sourcePerspective": "Chickahominy Indian Tribe–Eastern Division public website (cied.org); selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-eastern-state-history",
+        "title": "History of the Eastern Chickahominy — selected state account",
+        "author": "Virginia Secretary of the Commonwealth; individual writer not identified",
+        "publisher": "Commonwealth of Virginia",
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/eastern-chickahominy-tribe/",
+        "type": "Government",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The state history provides an outside comparison for the dated school and government history and acknowledges competing explanations.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main historical body 29–37, selected New Kent school 1910, government 1920–1921, church 1922/incorporation 1925 and discriminatory-state-policy passages; alternative interpretations of organizational separation read.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Old population/current status claims and racial ancestry categories not adopted as current facts/identity rules. Different explanations for the separation remain alternatives; linked original works and legal instruments not inspected.",
+        "sourcePerspective": "Commonwealth of Virginia; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.cied.org/about-us",
+        "title": "About Us — Chickahominy Indian Tribe - Eastern Division",
+        "publisher": "Chickahominy Indian Tribe – Eastern Division",
+        "reviewedAt": "2026-11-02",
+        "scope": "H1 line2 and selected identity/acronym lines30–31; tribal-seat locality line36 identifies New Kent County. Etymology, member figures and legal-status claims not adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cied.org/",
+        "title": "Chickahominy Indian Tribe - Eastern Division — home/entity distinction",
+        "publisher": "Chickahominy Indian Tribe – Eastern Division website",
+        "reviewedAt": "2026-11-02",
+        "scope": "H1 line1 and Donate paragraph127 explicitly distinguish government CIT-ED from nonprofit CIED. Homepage reached from the Commonwealth’s named tribal-website link; no charitable registration or government-power analysis.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Eastern Chickahominy Tribe",
+      "CIT-ED"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Read more CIT-ED-directed public history and educational work and compare underlying school/incorporation records.",
+      "No current enrollment, legal power, all-citizen belief or completed 2025 project outcome is inferred. The supporting nonprofit CIED is separate from government CIT-ED.",
+      "The displayed shared Chickahominy River image is regional historical context for the named river; it is not a current governmental land, office or boundary photograph."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read more CIT-ED-directed public history and educational work and compare underlying school/incorporation records.",
+        "No current enrollment, legal power, all-citizen belief or completed 2025 project outcome is inferred. The supporting nonprofit CIED is separate from government CIT-ED.",
+        "The displayed shared Chickahominy River image is regional historical context for the named river; it is not a current governmental land, office or boundary photograph."
+      ]
+    },
+    "overviewSourceIds": [
+      "va-coast-eastern-history",
+      "va-coast-eastern-state-history"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the community-specific reading path below. Sources retain their authors, dates and selected inspection scopes. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-coast-eastern-history",
+          "reason": "Read the community timeline for the specifically named Eastern Division government and schools."
+        },
+        {
+          "sourceId": "va-coast-eastern-garden",
+          "reason": "Follow the project account, separating reported 2022 work from 2025 plans."
+        },
+        {
+          "sourceId": "va-coast-eastern-state-history",
+          "reason": "Compare the state historical interpretation without adopting old population figures or a single explanation for separation."
+        }
+      ],
+      "imageRecordId": "va-chickahominy-river-2020"
+    }
+  },
+  {
+    "name": "Upper Mattaponi Indian Tribe",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal community / government",
+    "region": "Virginia / King William County",
+    "overview": "The Upper Mattaponi Tribe describes a living community centered in King William County. Its history and school-foundation accounts connect Adamstown, education and cultural gatherings, while its environmental department explains priorities for learning and stewardship.",
+    "relationshipNote": "An individually named contemporary tribal community and government. Kept distinct from the Mattaponi Indian Tribe. Historical Adamstown Band wording is a dated relationship in further sources, not a forced second living-community outline.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Adamstown and the Upper Mattaponi name",
+        "text": "The Tribe’s About account traces its community through the settlement called Adamstown and dates the adoption of the name Upper Mattaponi to 1921. It places the community around the Indian View Baptist Church and Sharon Indian School. This specific institutional history should not be collapsed into the separate Mattaponi Indian Tribe because their names share a word.",
+        "sourceIds": [
+          "va-coast-upper-about"
+        ]
+      },
+      {
+        "title": "School, return and community space",
+        "text": "The school foundation dates the original school to 1919 and its closure to 1965. It records the building’s return from the county in 1987 and describes its later use for community meetings and cultural gatherings. The Tribe’s About page distinguishes the replacement building of the 1950s from the earlier school. Underlying deeds, interviews and later facility changes need separate review.",
+        "sourceIds": [
+          "va-coast-upper-school",
+          "va-coast-upper-about"
+        ]
+      },
+      {
+        "title": "Environmental learning as a public priority",
+        "text": "The environmental department brings water, air, fish, mapping, outreach and apiary work into one public mission. It describes combining science with Indigenous Knowledge through community-supported work spanning youth and Elders. These are the department’s stated values and aims; the guide does not infer environmental outcomes or reproduce knowledge that the page does not make public.",
+        "sourceIds": [
+          "va-coast-upper-environment"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "va-coast-upper-about",
+        "title": "About the Upper Mattaponi Tribe — community history",
+        "author": "Upper Mattaponi Tribe",
+        "publisher": "Upper Mattaponi Tribe",
+        "url": "https://www.umitribe.org/about",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The Tribe connects its own community institutions with Adamstown and the name Upper Mattaponi.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual About main body 40–57: King William community, church/school institutions, Adamstown and 1921 name history.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Selected public narrative, not original maps/treaties or current land/recognition-law analysis. Acreage, general character judgments, uncertain surname etymology, precise ancient settlement/map identifications and image reuse excluded.",
+        "sourcePerspective": "Upper Mattaponi Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-upper-school",
+        "title": "Sharon Indian School Foundation — history and mission",
+        "author": "Sharon Indian School Foundation / Upper Mattaponi Tribe",
+        "publisher": "Upper Mattaponi Tribe",
+        "url": "https://www.umitribe.org/sharon-indian-school-foundation",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The school foundation’s account links educational history, the building’s return and cultural learning.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual main body 40–48: foundation mission, original 1919 school,1965 closure and 1987 return to the Tribe; About page separately dates replacement structure to 1950s.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Nonprofit foundation distinguished from Tribal government. No superlative about the last remaining school adopted, original deeds/interviews uninspected, no linked videos or children’s photographs copied; a contemporary building must not be labelled the original 1919 structure.",
+        "sourcePerspective": "Upper Mattaponi Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va-coast-upper-environment",
+        "title": "Natural Resources & Environmental Protection — mission, vision and values",
+        "author": "Upper Mattaponi Tribe Natural Resources & Environmental Protection Department",
+        "publisher": "Upper Mattaponi Tribe",
+        "url": "https://www.umitribe.org/nrep",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community history",
+          "Living communities",
+          "Education and cultural continuity"
+        ],
+        "annotation": "The department presents environmental learning and stewardship as part of community-supported institutional work.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "publicationDate": "Undated public page",
+        "contentReviewScope": "Actual selected Mission/Vision/Values paragraphs 42–51 on water/air/fish/GIS/outreach/apiary work, science and Indigenous Knowledge.",
+        "accessNotes": "Normal web-reader body and HTTP 200 HTML. Department aims, not evaluated environmental results or current program availability. Staff biographies/family information, precise resource places, underlying datasets, linked external projects and imagery not adopted.",
+        "sourcePerspective": "Upper Mattaponi Tribe; selected account retains this institutional/author perspective.",
+        "countsTowardMinimum": true
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.umitribe.org/about",
+        "title": "About — The Upper Mattaponi Tribe",
+        "publisher": "Upper Mattaponi Tribe",
+        "reviewedAt": "2026-11-02",
+        "scope": "Heading37–40 and footer89–91 identify the Upper Mattaponi community in King William County. Historical narrative, acreage, treaty/legal statements and maps not adopted for identity.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://rga.lis.virginia.gov/Published/2024/RD17/PDF",
+        "title": "2023 Report on the Status of Virginia Indian Tribes",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Report title/date on PDFp1 and exact Upper Mattaponi Indian Tribe label in named list on PDFp2, lines15–22. This is dated name corroboration, not a new current recognition finding.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false,
+        "sourceDate": "2023-12-28"
+      }
+    ],
+    "searchTerms": [
+      "Upper Mattaponi Tribe"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "The inspected July 2012 image shows the replacement Sharon Indian School building, not the original 1919 structure or a current community portrait.",
+      "Read further Upper Mattaponi-directed educational and historical accounts beyond institutional summaries.",
+      "Original treaties/maps, deeds, underlying oral histories, environmental datasets and current service access remain unreviewed."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "The inspected July 2012 image shows the replacement Sharon Indian School building, not the original 1919 structure or a current community portrait.",
+        "Read further Upper Mattaponi-directed educational and historical accounts beyond institutional summaries.",
+        "Original treaties/maps, deeds, underlying oral histories, environmental datasets and current service access remain unreviewed."
+      ]
+    },
+    "overviewSourceIds": [
+      "va-coast-upper-about",
+      "va-coast-upper-school",
+      "va-coast-upper-environment"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the community-specific reading path below. Sources retain their authors, dates and selected inspection scopes. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-coast-upper-about",
+          "reason": "Begin with the Tribe’s own account of Adamstown, naming and community institutions."
+        },
+        {
+          "sourceId": "va-coast-upper-school",
+          "reason": "Follow the school foundation’s selected history and educational mission."
+        },
+        {
+          "sourceId": "va-coast-upper-environment",
+          "reason": "Read the department’s public priorities while separating aims from evaluated outcomes."
+        }
+      ],
+      "imageRecordId": "va-upper-mattaponi-sharon-school-2012"
+    }
+  },
+  {
+    "name": "Nansemond Indian Nation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal nation / government",
+    "region": "Virginia / Nansemond River region; Suffolk and Chesapeake community context",
+    "overview": "The Nansemond Indian Nation identifies itself with the Nansemond River in southeastern Virginia. Its public history and programme descriptions connect family continuity, education and river care, while distinguishing historical experiences from present institutional aims.",
+    "relationshipNote": "The Nation’s current public self-name is used. The state’s Nansemond Tribe and dated Nansemond Indian Tribe labels identify the same reviewed community context, not additional nations. County/city setting does not make all residents citizens.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Kinship through displacement",
+        "text": "The Nation’s history describes settlements along both banks of the Nansemond River and displacement into surrounding regions during English colonization. It emphasizes that different responses to upheaval did not end family relationships. Its later account connects community life in Norfolk County with a church and Indian school. These are attributed historical passages, not a rule about anyone’s ancestry or present citizenship.",
+        "sourceIds": [
+          "vr-nansemond-history"
+        ]
+      },
+      {
+        "title": "Teaching and care for the river",
+        "text": "The Nation’s programmes page describes participation in the Virginia Tribal Education Consortium and partnerships intended to help educators teach Native culture, language and history. It places this educational work alongside environmental priorities involving oysters, invasive-plant removal and native plants. Read these as published areas of work, without assuming current service availability or measured educational and ecological outcomes.",
+        "sourceIds": [
+          "vr-nansemond-programs"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "vr-nansemond-history",
+        "title": "Tribal History",
+        "url": "https://nansemond.gov/tribal-history/",
+        "publisher": "Nansemond Indian Nation",
+        "author": "Nansemond Indian Nation",
+        "publicationDate": "Undated public page",
+        "type": "Indigenous-led",
+        "indigenousLed": true,
+        "topics": [
+          "Community history",
+          "Education",
+          "Living institutions"
+        ],
+        "annotation": "The Nation’s public history centers the Nansemond River and family relationships through displacement, followed by community institutions in Norfolk County.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Main-body river/settlement introduction, colonial displacement/kinship paragraphs and Norfolk County church/school paragraph; reader lines 37–38,48–51,56. Institutional naming/organization sentence read for narrow naming context.",
+        "sourcePerspective": "Nansemond Indian Nation",
+        "accessNotes": "Normal web-reader and normal HTTPS 200 HTML. Selected institutional account, not all underlying colonial records or family histories. Etymology, numerical totals, inherited membership/ancestry claims, present recognition/legal status, treaty conclusions, historic race classifications as identity rules, sacred/medical/private narratives and source photographs are excluded. Later historical details remain attributed rather than independently settled.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "vr-nansemond-programs",
+        "title": "Programs — education and environmental priorities",
+        "url": "https://nansemond.gov/programs/",
+        "publisher": "Nansemond Indian Nation",
+        "author": "Nansemond Indian Nation",
+        "publicationDate": "Undated public page",
+        "type": "Indigenous-led",
+        "indigenousLed": true,
+        "topics": [
+          "Community history",
+          "Education",
+          "Living institutions"
+        ],
+        "annotation": "The Nation describes educator partnerships alongside oyster, invasive-plant and native-plant initiatives as community priorities.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Complete short Education and Environmental main-body paragraphs only; reader lines 36–41. Header/footer inspected; Health/Housing benefit and eligibility content not adopted.",
+        "sourcePerspective": "Nansemond Indian Nation",
+        "accessNotes": "Normal web-reader and normal HTTPS 200 HTML. The older portfolio/education link redirected normally to this actual programs URL. The linked Mattanock Town Restoration Plan and other underlying works were not read, nor were current service availability, grant eligibility, health advice or completed restoration/learning outcomes verified. Short but substantive programme descriptions, not a full institutional history.",
+        "countsTowardMinimum": true
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://nansemond.gov/",
+        "title": "Nansemond Indian Nation — Official Tribal Website",
+        "publisher": "Nansemond Indian Nation",
+        "reviewedAt": "2026-11-02",
+        "scope": "Exact institutional heading37–41 and headquarters locality96–98. Selected self-description identifies the Nation and Virginia setting; service-area membership, map, sacred-site, staffing and outcome claims excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/nansemond-tribe/",
+        "title": "Nansemond Tribe — History of the Nansemond",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Heading27–28 and opening locality clause29 corroborate Chesapeake/Suffolk context. Historical population, religion, ancestry and burial narratives not adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Nansemond Indian Tribe",
+      "Nansemond Tribe"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Add fuller community-authored histories of language, cultural teaching and contemporary institutions.",
+      "Inspect underlying restoration plans and later reports before claiming completed results.",
+      "The 2020 Nansemond River panorama is regional waterway context, not evidence of a Tribal boundary, ownership or every current community."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Add fuller community-authored histories of language, cultural teaching and contemporary institutions.",
+        "Inspect underlying restoration plans and later reports before claiming completed results.",
+        "The 2020 Nansemond River panorama is regional waterway context, not evidence of a Tribal boundary, ownership or every current community."
+      ]
+    },
+    "overviewSourceIds": [
+      "vr-nansemond-history",
+      "vr-nansemond-programs"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Start with the Nation’s historical account, then read its education and environmental priorities. The named river is a particular connection in these accounts, not a territorial boundary inferred from a photograph. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "vr-nansemond-history",
+          "reason": "Begin with the Nation’s own explanation of river relationships and kinship through historical change."
+        },
+        {
+          "sourceId": "vr-nansemond-programs",
+          "reason": "Follow its published educational partnerships and river-care priorities, keeping aims separate from evaluated outcomes."
+        }
+      ],
+      "imageRecordId": "va-rivers-nansemond-indian-nation-20261102"
+    }
+  },
+  {
+    "name": "Cheroenhaka (Nottoway) Indian Tribe",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal community / government",
+    "region": "Virginia / Courtland, Southampton County",
+    "overview": "The Cheroenhaka (Nottoway) Indian Tribe is an individually named living community and government in Southampton County. Its published goals and a named Tribal historian’s language introduction offer a public starting point for educational priorities and historical memory. This route is distinct from the Nottoway Indian Tribe of Virginia and the broader Nottoway people-and-language entry.",
+    "relationshipNote": "An individually named contemporary Cheroenhaka (Nottoway) tribal community and government. It is distinct from the Nottoway Indian Tribe of Virginia. The broader Nottoway people/language reading route is retained without treating the two governments as interchangeable.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Community organization and educational goals",
+        "text": "The Tribe’s goals connect community organization with public education, cultural activity and language research. Read these as stated priorities and aspirations. Their publication does not show that every proposed project has been completed or that all citizens have the same experiences.",
+        "sourceIds": [
+          "va-cheroenhaka-goals"
+        ]
+      },
+      {
+        "title": "Named speakers and routes of language documentation",
+        "text": "Walt Brown’s introductory commentary credits Edie Turner in the transmission of an 1820 vocabulary through John Wood and later scholarly correspondence. Naming these intermediaries helps readers follow the record’s history. The guide has reviewed the modern introduction, without reproducing vocabulary or claiming to have inspected the underlying manuscripts.",
+        "sourceIds": [
+          "va-cheroenhaka-language-history"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "va-cheroenhaka-goals",
+        "title": "Cheroenhaka (Nottoway) Indian Tribe Resolution & Goals",
+        "url": "https://www.cheroenhaka-nottoway.org/about-us/cheroenhaka-nottoway-indian-tribe-resolution-goals/",
+        "author": "Cheroenhaka (Nottoway) Indian Tribe; individual writer not identified",
+        "publisher": "Cheroenhaka (Nottoway) Indian Tribe",
+        "type": "Indigenous-led",
+        "publicationDate": "Undated body; footer 2021 is not publication date",
+        "annotation": "An attributed statement connects community organization with educational, language and cultural goals.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Selected self-description and river-place statement at lines 62–63; community-organization paragraphs 67–68; educational/cultural goals 71–77,82–85.",
+        "accessNotes": "Actual public body read. Treaty/recognition and genealogy assertions, current legal status, counts, burial-site details, ceremonies, fundraising and medical/private material excluded. Goals are not evidence of completed projects or every member’s beliefs. No images from the Tribe’s site reused.",
+        "sourcePerspective": "Cheroenhaka (Nottoway) Indian Tribe; selected public account with named authorship and scope retained.",
+        "indigenousLed": true
+      },
+      {
+        "id": "va-cheroenhaka-language-history",
+        "title": "Cheroenhaka Language — selected introductory historical account",
+        "url": "https://www.cheroenhaka-nottoway.org/about-us/cheroenhaka-language/",
+        "author": "Chief Walt “Red Hawk” Brown, credited transcriber and Tribal historian",
+        "publisher": "Cheroenhaka (Nottoway) Indian Tribe",
+        "type": "Indigenous-led",
+        "publicationDate": "Undated public transcription and commentary",
+        "annotation": "The compiler identifies historical language-recording routes and names Edie Turner as an important speaker.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Byline and introductory historical paragraphs at lines 60–78 only; not the ensuing full vocabulary.",
+        "accessNotes": "Actual introductory body read. Underlying APS manuscript, Jefferson correspondence and works by Gallatin/Binford/Mook/Swanton/Hewitt uninspected. No vocabulary, religious glosses or claimed etymology reproduced. Period outsider labels are not current identity or disappearance judgments; present fluency and teaching outcomes require other evidence.",
+        "sourcePerspective": "Cheroenhaka (Nottoway) Indian Tribe; selected public account with named authorship and scope retained.",
+        "indigenousLed": true
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.cheroenhaka-nottoway.org/",
+        "title": "Official Website of the Cheroenhaka (Nottoway) Indian Tribe",
+        "publisher": "Cheroenhaka (Nottoway) Indian Tribe",
+        "reviewedAt": "2026-11-02",
+        "scope": "Exact H1/current institutional name60 and Southampton County setting62; government heading102–104 confirms institutional form. Religious/event content, member/staff names, totals, land title and current authority claims excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/",
+        "title": "State Recognized Tribes — named Cheroenhaka (Nottoway) and Nottoway listings",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Separate headings214 and231, locality224–225 versus242, and distinct linked community websites228/245 identify two named institutions. Used only for exact name/location distinction; current officeholders/contact details and recognition analysis excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Cheroenhaka Nottoway",
+      "Cheroenhaka (Nottoway)"
+    ],
+    "relatedOriginalIds": [
+      257
+    ],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Read additional Tribal-authored history and original language documentation with public-access and cultural limits respected.",
+      "Proposed institutions, historical treaty interpretations and present legal status require separately scoped evidence.",
+      "The Courtland river picture provides named regional context, not a portrait or government-site image."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read additional Tribal-authored history and original language documentation with public-access and cultural limits respected.",
+        "Proposed institutions, historical treaty interpretations and present legal status require separately scoped evidence.",
+        "The Courtland river picture provides named regional context, not a portrait or government-site image."
+      ]
+    },
+    "overviewSourceIds": [
+      "va-cheroenhaka-goals",
+      "va-cheroenhaka-language-history"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the specifically attributed sources together, keeping historical evidence and each modern institution distinct. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-cheroenhaka-goals",
+          "reason": "An attributed statement connects community organization with educational, language and cultural goals."
+        },
+        {
+          "sourceId": "va-cheroenhaka-language-history",
+          "reason": "The compiler identifies historical language-recording routes and names Edie Turner as an important speaker."
+        }
+      ],
+      "imageRecordId": "va-nottoway-river-2012"
+    }
+  },
+  {
+    "name": "Nottoway Indian Tribe of Virginia",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named Virginia tribal community / government",
+    "region": "Virginia / Capron, Southampton County",
+    "overview": "The Nottoway Indian Tribe of Virginia presents a continuing community whose public historical work is centered in Capron and Southampton County. A named Tribal author’s account of Edith Turner and the Tribe’s interpretive-center page connect earlier leadership with contemporary cultural and educational work. This route is distinct from the broader Nottoway guide and the Cheroenhaka (Nottoway) Indian Tribe.",
+    "relationshipNote": "An individually named contemporary tribal community and government. It is not substituted for Cheroenhaka (Nottoway) Indian Tribe or for every historical use of Nottoway. The existing broader Nottoway people/language route remains a separate contextual reading aid.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "researchComplete": false,
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Remembering Edith Turner",
+        "text": "André Williams connects Turner’s nineteenth-century political and language work with contemporary Nottoway cultural life. He describes language recording and petitions as parts of her wider leadership. This is a named Tribal author’s interpretation, rather than a newly examined original manuscript or a current language-fluency claim.",
+        "sourceIds": [
+          "va-notva-edy-turner"
+        ]
+      },
+      {
+        "title": "A community-supported place of public history",
+        "text": "The Tribe dates its Community House and Interpretive Center opening to May 2012. Its public account describes family support, exhibits and educational programming that connect trade, colonial pressure and continuing identity. The account identifies a living institution; current opening arrangements and program results are separate questions.",
+        "sourceIds": [
+          "va-notva-community-center"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "va-notva-edy-turner",
+        "title": "Edith (Edy) Turner — Wané Roonseraw",
+        "url": "https://nottowayindians.org/edith-turner",
+        "author": "André L. Williams, Ph.D., identified as an enrolled Tribal citizen",
+        "publisher": "Nottoway Indian Tribe of Virginia",
+        "type": "Indigenous-led",
+        "publicationDate": "Undated public article; inspected 2026-11-02",
+        "annotation": "A named Tribal author connects an earlier woman leader’s language and political work with continuing community life.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Byline, opening contemporary-culture paragraphs and selected 1820 language/1821 petition passages, main-body lines 16–38.",
+        "accessNotes": "Actual public main body read. Underlying 1820 manuscript and 1821 petition, word list, illustrations and linked references not independently inspected or reproduced. Exact petition date differs from a petition discussed in the 2021 study; only year 1821 is used. Birth/death certainty, word totals, legal conclusions and a universal worldview are not inferred.",
+        "sourcePerspective": "Nottoway Indian Tribe of Virginia; selected public account with named authorship and scope retained.",
+        "indigenousLed": true
+      },
+      {
+        "id": "va-notva-community-center",
+        "title": "Community House & Interpretive Center",
+        "url": "https://nottowayindians.org/interpretive-center",
+        "author": "Nottoway Indian Tribe of Virginia; individual writer not identified",
+        "publisher": "Nottoway Indian Tribe of Virginia",
+        "type": "Indigenous-led",
+        "publicationDate": "Undated page reporting opening on 2012-05-05",
+        "annotation": "The Tribe explains its family-supported interpretive center and public educational purpose.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "countsTowardMinimum": true,
+        "contentReviewScope": "Main opening and exhibit-theme paragraphs plus educational-programming and funding descriptions, lines 16–48; current visiting schedule not adopted.",
+        "accessNotes": "Actual substantive body read. Exhibits, classes, images, visiting conditions and underlying records not inspected. The page’s program description is the Tribe’s account, not an evaluated outcome or promise of current access.",
+        "sourcePerspective": "Nottoway Indian Tribe of Virginia; selected public account with named authorship and scope retained.",
+        "indigenousLed": true
+      }
+    ],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://nottowayindians.org/",
+        "title": "Nottoway Indian Tribe of Virginia — Heritage, Council & Powwow",
+        "publisher": "Nottoway Indian Tribe of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Exact title/H1 lines0/16–20 and footer locality52–59 identify the named contemporary Tribe and Capron setting. Event calendar, cultural practice, membership, current totals and images not reviewed/adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/state-recognized-tribes/nottoway/",
+        "title": "Nottoway — History of the Nottoway",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Heading27–28, explicit contemporary institution30 and Community House/Interpretive Center in Capron37. Read beside separate Cheroenhaka listing in the parent directory; detailed history, current opening hours and recognition claims not adopted.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Nottoway of Virginia"
+    ],
+    "relatedOriginalIds": [
+      257
+    ],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Read original petitions and language manuscripts alongside the named author’s interpretation.",
+      "Seek additional community-directed public history and educational accounts.",
+      "The regional river picture does not depict the Capron center or establish current access."
+    ],
+    "initialAdequacy": {
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected public works and specifically relevant credited imagery provide a useful starting path. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
+      "remainingLimits": [
+        "Read original petitions and language manuscripts alongside the named author’s interpretation.",
+        "Seek additional community-directed public history and educational accounts.",
+        "The regional river picture does not depict the Capron center or establish current access."
+      ]
+    },
+    "overviewSourceIds": [
+      "va-notva-edy-turner",
+      "va-notva-community-center"
+    ],
+    "reviewedAt": "2026-11-02",
+    "communityReview": "Not recorded",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-research-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the specifically attributed sources together, keeping historical evidence and each modern institution distinct. Read annotations for exact pages, dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "va-notva-edy-turner",
+          "reason": "A named Tribal author connects an earlier woman leader’s language and political work with continuing community life."
+        },
+        {
+          "sourceId": "va-notva-community-center",
+          "reason": "The Tribe explains its family-supported interpretive center and public educational purpose."
+        }
+      ],
+      "imageRecordId": "va-nottoway-river-2012"
+    }
+  },
+  {
+    "name": "Patawomeck Indian Tribe of Virginia",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named contemporary Virginia tribal community",
+    "region": "Virginia / Stafford–Fredericksburg community context",
+    "overview": "Patawomeck Indian Tribe of Virginia has an individually findable directory outline. This name and community setting have been checked; detailed history, annotated reading sources and imagery remain queued.",
+    "relationshipNote": "An individually named contemporary tribal community. The community’s website also identifies its corporate/nonprofit form; that fact alone is not the basis for treating a corporation as a people. The Commonwealth’s separately named tribal listing and the community’s own self-identification supply this narrow route.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.patawomeckindiantribeofvirginia.org/about-the-tribe",
+        "title": "About The Tribe — Patawomeck",
+        "publisher": "Patawomeck Indian Tribe of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Exact site name/H1, mission identification29–30, local community setting40, and current council heading43 read for name/kind/context only. Source footer142 states nonprofit corporate form; no separate nonprofit is invented or political powers inferred.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.commonwealth.virginia.gov/virginia-indians/",
+        "title": "Virginia Indians — named tribal table",
+        "publisher": "Office of the Secretary of the Commonwealth of Virginia",
+        "reviewedAt": "2026-11-02",
+        "scope": "Selected named-community table31–46, specifically Patawomeck row46 with Stafford County locality. Current officeholders, recognition dates/analysis and historical narrative excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Patawomeck Tribe"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop a community-directed history and annotated reading collection.",
+      "Review individually relevant imagery and exact reuse rights before a substantive illustrated guide.",
+      "Review detailed relationships, historical change and public cultural/language materials."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline; this identification check is not substantive historical research or an adequacy assessment.",
+      "remainingLimits": [
+        "History, reading sources and imagery remain queued."
+      ]
+    }
+  },
+  {
+    "name": "Sappony",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named contemporary Indigenous tribal community / High Plains",
+    "region": "High Plains / Halifax County, Virginia and Person County, North Carolina",
+    "overview": "Sappony has an individually findable directory outline. This name and community setting have been checked; detailed history, annotated reading sources and imagery remain queued.",
+    "relationshipNote": "The specifically named contemporary High Plains Sappony community spans the state line. It is not automatically interchangeable with every historical Saponi label, Haliwa-Saponi, Occaneechi or communities elsewhere. Indians of Person County is a recorded former state-designated name, not a label for every county resident. This finding does not settle current Virginia recognition status.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.sappony.org/sappony-timeline",
+        "title": "Sappony History Timeline",
+        "publisher": "Sappony",
+        "reviewedAt": "2026-11-02",
+        "scope": "Selected identification/geography27–29, current-name change29 and official-site description39–41 identify Sappony and the High Plains PersonNC/HalifaxVA community. The source’s1913Virginia recognition claim is recorded only as a source assertion, not adopted as current law. Family names, genealogy, ceremonial content and images excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes",
+        "title": "NC Tribal Communities — Sappony entry",
+        "publisher": "North Carolina Department of Administration, Commission of Indian Affairs",
+        "reviewedAt": "2026-11-02",
+        "scope": "Selected Sappony heading98, High Plains cross-border geography100–102, Virginia locality108 and linked community site111. Current member totals, officeholders and other tribes’ relationship narratives excluded.",
+        "accessNotes": "Identity and narrow location only. No substantive history-source review, present legal-power/membership determination, current officeholder/quantity or image reuse. Content/publication date is undated unless otherwise stated.",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Sappony Tribe",
+      "High Plains Sappony",
+      "Indians of Person County"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Develop a community-directed history and annotated reading collection.",
+      "Review individually relevant imagery and exact reuse rights before a substantive illustrated guide.",
+      "Review detailed relationships, historical change and public cultural/language materials."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Name-only outline; this identification check is not substantive historical research or an adequacy assessment.",
+      "remainingLimits": [
+        "History, reading sources and imagery remain queued."
+      ]
+    }
   }
 ]
