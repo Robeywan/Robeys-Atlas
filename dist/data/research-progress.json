@@ -31743,27 +31743,54 @@
     "name": "Saponi",
     "slug": "saponi",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Queued for research",
-    "listedSources": 0,
+    "depth": "Source guide",
+    "listedSources": 3,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 3,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "virginia-guide-180-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the selected historical study first, then compare two specifically named living institutions’ public accounts. Keep dates, collective labels, community perspectives and unresolved original-record questions visible. Exact selected pages, dates, perspectives and access limits remain in the annotations.",
+      "sources": [
+        {
+          "sourceId": "va-saponi-high-plains-study-2017",
+          "reason": "Compare selected naming, movement and river-place passages, with author and period limits retained."
+        },
+        {
+          "sourceId": "va-saponi-obsn-report-2023",
+          "reason": "Read one named institution’s dated historical framing and 2023 cultural-teaching account as its own voice."
+        },
+        {
+          "sourceId": "va-saponi-high-plains-community-voice",
+          "reason": "Compare the specifically named High Plains Sappony community’s account without equating it with the whole historical label."
+        }
+      ],
+      "imageRecordId": "va-saponi-yadkin-wilcox-2021"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected directly relevant public works and specifically scoped credited imagery provide a useful starting path, not exhaustive history or community endorsement.",
+      "remainingLimits": [
+        "Compare original colonial records with additional community-directed historical work.",
+        "Review further public language and educational sources without inferring membership or uniform beliefs from language.",
+        "This selected guide does not assess every historical Saponi usage, all living Saponi-related communities or current legal/recognition status."
+      ]
     },
-    "reviewedAt": null,
+    "reviewedAt": "2026-11-02",
     "remainingGaps": [
-      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
-      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+      "Compare original colonial records with additional community-directed historical work.",
+      "Review further public language and educational sources without inferring membership or uniform beliefs from language.",
+      "This selected guide does not assess every historical Saponi usage, all living Saponi-related communities or current legal/recognition status."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
