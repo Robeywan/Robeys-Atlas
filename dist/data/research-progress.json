@@ -18533,27 +18533,50 @@
     "name": "Manahoac",
     "slug": "manahoac",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Queued for research",
-    "listedSources": 0,
+    "depth": "Source guide",
+    "listedSources": 4,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 2,
+    "supportingContentChecks": 2,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "virginia-guide-182-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the dated study with attention to intermediaries, then compare the later discussion of historical language evidence. The related living Nation’s short statement provides supporting context. Exact selected pages, dates, perspectives and access limits remain in the annotations.",
+      "sources": [
+        {
+          "sourceId": "va183-manahoac-bushnell",
+          "reason": "Follow how English-mediated testimony and mapped names enter the historical record."
+        },
+        {
+          "sourceId": "va183-manahoac-dhr",
+          "reason": "Compare political association with the limits of surviving language documentation."
+        }
+      ],
+      "imageRecordId": "va183-manahoac-rapidan-germanna-2011"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected directly relevant public works and specifically scoped credited imagery provide a useful starting path, not exhaustive history or community endorsement.",
+      "remainingLimits": [
+        "Compare additional community-directed interpretations and modern scholarship with the dated English-mediated record.",
+        "Original colonial manuscripts, underlying linguistic studies, mapped sites, collections and archaeological reports were not separately inspected.",
+        "The picture is a modern regional waterway example, not a particular village, present community or territorial/legal/access determination."
+      ]
     },
-    "reviewedAt": null,
+    "reviewedAt": "2026-11-02",
     "remainingGaps": [
-      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
-      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+      "Compare additional community-directed interpretations and modern scholarship with the dated English-mediated record.",
+      "Original colonial manuscripts, underlying linguistic studies, mapped sites, collections and archaeological reports were not separately inspected.",
+      "The picture is a modern regional waterway example, not a particular village, present community or territorial/legal/access determination."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false

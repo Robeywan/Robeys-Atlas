@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 326,
+    "selectedProfiles": 327,
     "existingApache": 1,
-    "newProfileTreatments": 325,
-    "newTreatmentsWithPhotographs": 319,
+    "newProfileTreatments": 326,
+    "newTreatmentsWithPhotographs": 320,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -10771,6 +10771,75 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:289;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/c09-makah-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "manahoac",
+      "name": "Manahoac",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 63,
+      "angle": -48,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "va183-manahoac-rapidan-germanna-2011",
+          "profileSlugs": [
+            "manahoac"
+          ],
+          "asset": "assets/profile-visuals/va183-manahoac-rapidan-germanna-2011.jpg",
+          "cardAsset": "assets/profile-visuals/va183-manahoac-rapidan-germanna-2011.jpg",
+          "title": "Rapidan River at Germanna Ford, source-dated 2011",
+          "creator": "JohnnyReb67",
+          "date": "Commons summary:2011-05-23; exact camera date not independently established",
+          "credit": "JohnnyReb67; Commons summary dated May 23, 2011; capture date unresolved; via Wikimedia Commons · CC BY-SA 3.0.",
+          "cardCredit": "JohnnyReb67 · Rapidan River at Germanna Ford · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Germanna_Ford.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Germanna_Ford.jpg/960px-Germanna_Ford.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20130330190755",
+          "rightsLabel": "CC BY-SA 3.0 Unported",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-02",
+          "alt": "Brown river water flows between wooded banks at the named Germanna Ford reach of the Rapidan.",
+          "scope": "A modern named Rapidan River landscape, not an identified Manahoac village, original settlement view, current community portrait, territorial boundary or present environmental condition. Bushnell’s selected introduction identifies the historical regional river setting; the NPS archived notice explicitly identifies Germanna Ford as a Rapidan crossing. The complete delivered frame contains river and trees, with no people, graves, isolated art or ceremony visible. Commons exact item identifies JohnnyReb67 own work and the copyright-holder’s CC BY-SA 3.0 grant. Its summary dates the image May 23, 2011; metadata file-change date precedes that summary date, so capture timing is not independently resolved. Root viewed the full offered 960×720 JPEG preview. Larger 1600×1200 source uninspected. No Atlas pixel edit, crop, resizing, recompression or generation; source-existing processing is retained. CSS presentation crops/overlays may affect display.",
+          "reproductionNote": "Unchanged complete delivered 960×720 provider preview. No Atlas pixel transformations. Source’s larger original and camera-original framing are not represented as inspected. Full-frame file route, creator/source/license and CSS display limits remain visible.",
+          "retrievedWidth": 960,
+          "retrievedHeight": 720,
+          "retrievedSha256": "4495574de8ba6ba57e6679a88cf72a6eb1fdc1c581dab5e0e81e1cc33499b225",
+          "retrieval": {
+            "method": "Normal browser download of the exact offered preview after actual item-rights reading",
+            "retrievedAt": "2026-11-02",
+            "bytes": 269214,
+            "format": "JPEG",
+            "transformations": "None",
+            "actualCompleteDeliveredFrameViewed": true,
+            "largerOriginalInspected": false
+          },
+          "contextSources": [
+            {
+              "title": "The Manahoac Tribes in Virginia, 1608 — selected historical-source discussion",
+              "url": "https://repository.si.edu/bitstreams/84a53aa3-0642-44ba-b8f6-d35662c8bcc8/download",
+              "inspectionScope": "Exact title/publication page and printed p.1 introduction plus pp.4–6 encounter/interpreter and map-information paragraphs; physical PDF pp.1,7,10–12 selected text. Other pages/plates/site catalogue uninspected."
+            },
+            {
+              "title": "2023 History at Sunset Programs — Germanna Ford place context (supporting)",
+              "url": "https://www.nps.gov/frsp/learn/news/2023-history-at-sunset-programs.htm",
+              "inspectionScope": "Actual archived notice/date37, archive caution31–33 and August19 Germanna Ford heading/body55–57 identify the ford as a crossing of the Rapidan River. No other programmes selected."
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:63;--profile-angle:-48deg;--profile-photo:url(\"../../assets/profile-visuals/va183-manahoac-rapidan-germanna-2011.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
