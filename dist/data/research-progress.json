@@ -26299,27 +26299,56 @@
     "name": "Occaneechi",
     "slug": "occaneechi",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Queued for research",
-    "listedSources": 0,
+    "depth": "Source guide",
+    "listedSources": 3,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "recordedContentChecks": 3,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "virginia-guide-181-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the selected historical trade and movement account beside the 2017 discussion of naming and language uncertainty, then turn to one distinct living institution’s FY 2023 report. Keep each author, date, institution and selected scope visible. Exact selected pages, dates, perspectives and access limits remain in the annotations.",
+      "sources": [
+        {
+          "sourceId": "va183-occaneechi-unc-history",
+          "reason": "Begin with selected trade and movement passages, while excluding the chapter’s sweeping language and disappearance framing."
+        },
+        {
+          "sourceId": "va183-occaneechi-dhr-comparison",
+          "reason": "Compare the strength of language evidence and the chronology of separately recorded settlements and alliances."
+        },
+        {
+          "sourceId": "va183-occaneechi-obsn-fy2023",
+          "reason": "Read one contemporary institution’s own dated community and educational account without making a present-membership or common-origin inference."
+        }
+      ],
+      "imageRecordId": "va-occaneechi-hillsborough-replica-2022"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected directly relevant public works and specifically scoped credited imagery provide a useful starting path, not exhaustive history or community endorsement.",
+      "remainingLimits": [
+        "Compare original colonial records and later scholarly interpretations before expanding chronology.",
+        "Seek further community-authored public histories from separately named living institutions.",
+        "Historical language and naming uncertainties remain explicit; no common-origin, language-family or membership conclusion is supplied.",
+        "The 2022 photograph documents a modern interpretive replica, not an original historical village, current citizenship, territory or an independently verified reconstruction of every practice."
+      ]
     },
-    "reviewedAt": null,
+    "reviewedAt": "2026-11-02",
     "remainingGaps": [
-      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
-      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+      "Compare original colonial records and later scholarly interpretations before expanding chronology.",
+      "Seek further community-authored public histories from separately named living institutions.",
+      "Historical language and naming uncertainties remain explicit; no common-origin, language-family or membership conclusion is supplied.",
+      "The 2022 photograph documents a modern interpretive replica, not an original historical village, current citizenship, territory or an independently verified reconstruction of every practice."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false

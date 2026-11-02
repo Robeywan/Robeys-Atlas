@@ -199,6 +199,7 @@ write('data/starter-guide-policy.json',JSON.stringify(starterGuidePolicy,null,2)
 for(const file of startingCohortFiles)write('data/'+file,fs.readFileSync(path.join(cwd,'data',file),'utf8'));
 write('data/virginia-research-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-research-20261102.json'),'utf8'));
 write('data/virginia-followup-guides-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-followup-guides-20261102.json'),'utf8'));
+write('data/virginia-guide-181-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-181-20261102.json'),'utf8'));
 write('data/virginia-guide-180-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-180-20261102.json'),'utf8'));
 write('data/profiles.json',JSON.stringify(profiles,null,2));write('data/sources.json',JSON.stringify(allSources,null,2));
 write('favicon.svg','<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="8" fill="#234d3d"/><text x="32" y="47" text-anchor="middle" fill="#f6f3eb" font-family="Georgia" font-size="47">R</text></svg>');
