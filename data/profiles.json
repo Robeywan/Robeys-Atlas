@@ -113114,19 +113114,25 @@
     "name": "Manahoac",
     "region": "Historical upper Rappahannock–Rapidan region, Virginia",
     "kind": "Historical confederated grouping / reading label",
-    "overview": "Manahoac has an individually findable historical reading outline. The recorded name, broad setting and naming limits have been checked; detailed history, annotated reading sources and imagery remain queued.",
+    "overview": "Manahoac is a historical collective reading label associated in written accounts with the upper Rappahannock–Rapidan region. This guide compares a dated reconstruction with later discussion of language evidence and a related living Nation’s own perspective. It does not turn the historical label into a single present government.",
     "relationshipNote": "A historical confederated-grouping reading label, not one present government or a synonym for the living Monacan Indian Nation. Dated outsider terminology is attributed. The selected modern report cautions against assuming a common linguistic affiliation from political association, so no blanket language, ancestry or current membership conclusion is introduced.",
     "searchTerms": [
       "Manahoac (historical label)",
       "Mannahoacks (historical source spelling)"
     ],
-    "entryStage": "name-only-outline",
-    "researchStatus": "queued",
+    "entryStage": "reviewed-starting-guide",
+    "researchStatus": "source-guide",
     "researchComplete": false,
-    "coverageLevel": "not-assessed",
+    "coverageLevel": "cited-starting-guide",
     "initialAdequacy": {
-      "status": "Not assessed",
-      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline."
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Selected directly relevant public works and specifically scoped credited imagery provide a useful starting path, not exhaustive history or community endorsement.",
+      "remainingLimits": [
+        "Compare additional community-directed interpretations and modern scholarship with the dated English-mediated record.",
+        "Original colonial manuscripts, underlying linguistic studies, mapped sites, collections and archaeological reports were not separately inspected.",
+        "The picture is a modern regional waterway example, not a particular village, present community or territorial/legal/access determination."
+      ]
     },
     "communityReview": "Not recorded",
     "identityVerifiedAt": "2026-11-02",
@@ -113156,11 +113162,106 @@
         "accessNotes": "Selected actual normal web-reader PDF text read. One ordinary HTTPS request also returned 200 and privately cached the PDF; a full cache is not full-content inspection. Historical-label identification only; no substantive bibliography count, legal/ancestry/membership or completion finding."
       }
     ],
-    "sources": [],
-    "sections": [],
+    "sources": [
+      {
+        "id": "va183-manahoac-bushnell",
+        "title": "The Manahoac Tribes in Virginia, 1608 — selected historical-source discussion",
+        "url": "https://repository.si.edu/bitstreams/84a53aa3-0642-44ba-b8f6-d35662c8bcc8/download",
+        "author": "David I. Bushnell, Jr.",
+        "publisher": "Smithsonian Institution, Smithsonian Miscellaneous Collections 94(8), Publication 3337",
+        "type": "Historical outsider scholarship",
+        "publicationDate": "1935-10-09",
+        "annotation": "A dated study lets readers examine how named groups and river geography were transmitted through colonial intermediaries; compare its assumptions with later analysis.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Exact title/publication page and printed p.1 introduction plus pp.4–6 encounter/interpreter and map-information paragraphs; physical PDF pp.1,7,10–12 selected text. Other pages/plates/site catalogue uninspected.",
+        "sourcePerspective": "Smithsonian Institution, Smithsonian Miscellaneous Collections 94(8), Publication 3337",
+        "accessNotes": "The normal reader timed out and earlier terminal direct-download request returned403; those failures were not retried with specialheaders or variants. The exact public Smithsonian item offered the same PDF, which root downloaded normally through the documented browser without authentication/challenge. Full84-page private cache is not full reading. The account reproduces English colonial narrative and quoted reported speech through an interpreter; original Smith/Strachey manuscripts/editions were not separately inspected. Hostile epithets, fixed language classification, disappearance, timeless tribal boundaries, ancient site identifications, excavation/collection/burial details and all pictures/maps excluded.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "va183-manahoac-dhr",
+        "title": "The High Plains Sappony — selected discussion of Manahoac language evidence",
+        "url": "https://www.dhr.virginia.gov/wp-content/uploads/2019/11/HA-081_High_Plains_Sappony_NCVA_Christie_Indian_Settlement_2017_WM_report.pdf",
+        "author": "Buck Woodard and Danielle Moretti-Langholtz, co-principal investigators; Stephanie Hasselbacher, lead ethnographer",
+        "publisher": "College of William & Mary Department of Anthropology; Virginia Department of Historic Resources",
+        "type": "Government-hosted scholarly report",
+        "publicationDate": "July 2017",
+        "annotation": "Later named scholars question whether political alliances alone establish a shared language; their argument is attributed and separated from modern community identity.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Title/author pages and selected printed/PDF pp.15–16, historical language-evidence and political/trade-language discussion concerning Manahoac and neighboring recorded groups. Not the whole88-page report or underlying cited linguistic studies.",
+        "sourcePerspective": "College of William & Mary Department of Anthropology; Virginia Department of Historic Resources",
+        "accessNotes": "Root reuses the actual selected critical paragraphs read for the earlier November 2 historical-name review, now annotated as a substantive comparison for this guide. This is not another globally new work or a fresh whole-report inspection. The report distinguishes documentation of language from political association and discusses disagreement among scholars. No present community identity, membership/recognition or language-based ancestry test is inferred; ritual, medical, precise-site, demographic and underlying manuscript material excluded.",
+        "countsTowardMinimum": true,
+        "reusedFrom": {
+          "reviewLabel": "November 2 root historical-name identity packet; selected language-evidence paragraphs",
+          "originalReviewedAt": "2026-11-02",
+          "originalReviewScope": "Selected DHR2017 printed pp.15–16 naming and uncertain linguistic classification",
+          "scopeNote": "Same actual selected text, newly annotated for this guide’s comparison; no globally new-work or fresh whole-report claim."
+        }
+      },
+      {
+        "id": "va183-manahoac-monacan-context",
+        "title": "About Us — a related living Nation’s historical framing (supporting)",
+        "url": "https://www.monacannation.gov/about-us.html",
+        "author": "Monacan Indian Nation; individual writer not identified",
+        "publisher": "Monacan Indian Nation",
+        "type": "Indigenous-led / supporting community context",
+        "publicationDate": "Undated current public page; copyright footer2015 is not a publication date",
+        "annotation": "A living Nation’s own brief institutional perspective remains distinct from an outsider’s reconstruction of the historical Manahoac name.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual About main paragraph33, selected mission paragraphs38–43 and copyright/footer notice44; only the reference to Mannahoac allies and the present institution’s stated mission are used.",
+        "sourcePerspective": "Monacan Indian Nation",
+        "accessNotes": "Normal reader and ordinary HTTPS 200 cachedHTML. Short institutional framing is supporting-only, not substantive Manahoac history. Current citizen totals, legal-status conclusions, ancient dates, exact territorial extent, universal beliefs, membership/ancestry and evaluated programme outcomes excluded. Footer2015 is not assumed publication date; no site images/linked videos or other pages counted. The living Monacan Nation is not equated with the entire historical Manahoac label.",
+        "countsTowardMinimum": false,
+        "indigenousLed": true
+      },
+      {
+        "id": "va183-manahoac-germanna-context",
+        "title": "2023 History at Sunset Programs — Germanna Ford place context (supporting)",
+        "url": "https://www.nps.gov/frsp/learn/news/2023-history-at-sunset-programs.htm",
+        "author": "National Park Service; individual author not stated",
+        "publisher": "Fredericksburg & Spotsylvania National Military Park, National Park Service",
+        "type": "Government / supporting place identification",
+        "publicationDate": "2023-06-30; archived notice",
+        "annotation": "A short official notice independently identifies the photographed named ford with the Rapidan River; historical-site and present-access claims are kept separate.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual archived notice/date37, archive caution31–33 and August19 Germanna Ford heading/body55–57 identify the ford as a crossing of the Rapidan River. No other programmes selected.",
+        "sourcePerspective": "Fredericksburg & Spotsylvania National Military Park, National Park Service",
+        "accessNotes": "Normal web-reader body read. Brief place identification only, not a substantive Manahoac history or proof that the photographed reach was a particular village. Dated2023 programme is archived and not a current access/tour schedule. Meeting directions, other military narratives, present river conditions, property/title and cultural-boundary claims excluded.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A river region seen through intermediaries",
+        "text": "Bushnell’s 1935 study places the historical Manahoac grouping along the Rappahannock and Rapidan rivers. Its discussion reproduces an English account of the 1608 encounter involving the captive Amoroleck and interpreter Mosco. Bushnell notes that the English party did not visit the interior villages it described. This makes the route from reported speech to written narrative and mapped names part of the evidence, rather than treating every location as directly observed.",
+        "sourceIds": [
+          "va183-manahoac-bushnell"
+        ]
+      },
+      {
+        "title": "Political relationships and language evidence",
+        "text": "The 2017 High Plains report distinguishes political association from securely recorded language. Its named authors discuss why later scholars questioned broad language assignments for Manahoac and some neighboring names when the surviving linguistic evidence is limited. This is an argument about historical documentation. It is not a test of a living community’s identity, ancestry or membership, and the guide leaves disagreement visible instead of choosing one timeless classification.",
+        "sourceIds": [
+          "va183-manahoac-dhr"
+        ]
+      },
+      {
+        "title": "A related living Nation’s perspective",
+        "text": "The Monacan Indian Nation’s public About account includes Mannahoac allies in its historical framing and describes a continuing mission of cultural education and community well-being. This is the Nation’s own institutional perspective. Its living government and the wider historical Manahoac reading label remain distinct; the brief page does not establish the identity of every present descendant or convert all historical names into one current government.",
+        "sourceIds": [
+          "va183-manahoac-monacan-context"
+        ]
+      }
+    ],
     "researchGaps": [
-      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
-      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+      "Compare additional community-directed interpretations and modern scholarship with the dated English-mediated record.",
+      "Original colonial manuscripts, underlying linguistic studies, mapped sites, collections and archaeological reports were not separately inspected.",
+      "The picture is a modern regional waterway example, not a particular village, present community or territorial/legal/access determination."
     ],
     "originalId": null,
     "added": true,
@@ -113168,6 +113269,31 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [
       "monacan"
-    ]
+    ],
+    "overviewSourceIds": [
+      "va183-manahoac-bushnell",
+      "va183-manahoac-dhr"
+    ],
+    "reviewedAt": "2026-11-02",
+    "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
+    "startingGuide": {
+      "batchId": "virginia-guide-182-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Read the dated study with attention to intermediaries, then compare the later discussion of historical language evidence. The related living Nation’s short statement provides supporting context. Exact selected pages, dates, perspectives and access limits remain in the annotations.",
+      "sources": [
+        {
+          "sourceId": "va183-manahoac-bushnell",
+          "reason": "Follow how English-mediated testimony and mapped names enter the historical record."
+        },
+        {
+          "sourceId": "va183-manahoac-dhr",
+          "reason": "Compare political association with the limits of surviving language documentation."
+        }
+      ],
+      "imageRecordId": "va183-manahoac-rapidan-germanna-2011"
+    }
   }
 ]
