@@ -18530,6 +18530,36 @@
   },
   {
     "originalId": null,
+    "name": "Manahoac",
+    "slug": "manahoac",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 0,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": null,
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
+      "remainingLimits": []
+    },
+    "reviewedAt": null,
+    "remainingGaps": [
+      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
+      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
     "name": "Manchester Band of Pomo Indians of the Manchester Rancheria, California",
     "slug": "manchester-band-of-pomo-indians-of-the-manchester-rancheria-california",
     "priorityGroup": "Later alphabetical research",
@@ -26265,6 +26295,36 @@
     "researchComplete": false
   },
   {
+    "originalId": null,
+    "name": "Occaneechi",
+    "slug": "occaneechi",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 0,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": null,
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
+      "remainingLimits": []
+    },
+    "reviewedAt": null,
+    "remainingGaps": [
+      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
+      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
     "originalId": 261,
     "name": "Oconee",
     "slug": "oconee",
@@ -28041,30 +28101,50 @@
     "name": "Patawomeck Indian Tribe of Virginia",
     "slug": "patawomeck-indian-tribe-of-virginia",
     "priorityGroup": "Later alphabetical research",
-    "depth": "Queued for research",
-    "listedSources": 0,
+    "depth": "Source guide",
+    "listedSources": 4,
     "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
-    "supportingContentChecks": 0,
+    "recordedContentChecks": 2,
+    "supportingContentChecks": 2,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "virginia-followup-guides-20261102",
+      "reviewedAt": "2026-11-02",
+      "status": "curated-starting-path-reviewed",
+      "fixedSourceMinimum": null,
+      "researchComplete": false,
+      "scopeNote": "Begin with the Tribe’s selected public history and language aim, then compare the dated DHR account of research it requested. Keep current community institutions, historical places and prospective scientific findings distinct. Read annotations for selected dates, perspectives and access limits. A starting guide is not an exhaustive history or community endorsement.",
+      "sources": [
+        {
+          "sourceId": "vr-patawomeck-history",
+          "reason": "Read the Tribe’s public historical framing and stated language-revival aim with its selected-content limits."
+        },
+        {
+          "sourceId": "va-follow-patawomeck-chronology-2025",
+          "reason": "Compare a dated agency account of Tribal-requested research, keeping planned analysis separate from results."
+        }
+      ],
+      "imageRecordId": "va-follow-patawomeck-potomac-creek-site-2019"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Name-only outline; this identification check is not substantive historical research or an adequacy assessment.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-02",
+      "rationale": "Two selected public works and a specifically identified credited historical-site image provide a useful starting path; fuller history and community review remain open.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Read fuller community-authored language and educational materials; no underlying lessons or recordings have been inspected.",
+        "Compare original historical records and later research reports before extending chronology or interpretation.",
+        "The picture documents one named historical site in 2019, not all community places, people, present access or later conditions."
       ]
     },
-    "reviewedAt": null,
+    "reviewedAt": "2026-11-02",
     "remainingGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review individually relevant imagery and exact reuse rights before a substantive illustrated guide.",
-      "Review detailed relationships, historical change and public cultural/language materials."
+      "Read fuller community-authored language and educational materials; no underlying lessons or recordings have been inspected.",
+      "Compare original historical records and later research reports before extending chronology or interpretation.",
+      "The picture documents one named historical site in 2019, not all community places, people, present access or later conditions."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
@@ -31654,6 +31734,36 @@
       "Original treaty/agency records, community-authored scholarship, distinct Dakota language work and public testimony beyond these selected accounts remain unread.",
       "The reused Lower Sioux source retains its October 21 actual-review date and exact source object. Its photo-context page was reopened October 27 for site identification only; this does not count as a new substantive work.",
       "No present acreage, membership, legal entitlement or current program outcome is asserted. No Santee Dakota community review or endorsement is recorded."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Saponi",
+    "slug": "saponi",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 0,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": null,
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
+      "remainingLimits": []
+    },
+    "reviewedAt": null,
+    "remainingGaps": [
+      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
+      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
@@ -36313,6 +36423,36 @@
     },
     "reviewedAt": null,
     "remainingGaps": [],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Tutelo",
+    "slug": "tutelo",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 0,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": null,
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only historical reading label. No substantive historical source review or image clearance is represented by this outline.",
+      "remainingLimits": []
+    },
+    "reviewedAt": null,
+    "remainingGaps": [
+      "Substantive historical research and comparisons across time/community perspectives remain queued; identity evidence is not a history bibliography.",
+      "No specifically relevant cleared picture has been selected or reviewed. Historical label does not imply extinction, present ancestry/membership or a single current government."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
