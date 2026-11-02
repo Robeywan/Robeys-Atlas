@@ -199,6 +199,7 @@ write('data/starter-guide-policy.json',JSON.stringify(starterGuidePolicy,null,2)
 for(const file of startingCohortFiles)write('data/'+file,fs.readFileSync(path.join(cwd,'data',file),'utf8'));
 write('data/virginia-research-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-research-20261102.json'),'utf8'));
 write('data/virginia-followup-guides-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-followup-guides-20261102.json'),'utf8'));
+write('data/virginia-guide-183-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-183-20261102.json'),'utf8'));
 write('data/virginia-guide-182-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-182-20261102.json'),'utf8'));
 write('data/virginia-guide-181-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-181-20261102.json'),'utf8'));
 write('data/virginia-guide-180-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-180-20261102.json'),'utf8'));

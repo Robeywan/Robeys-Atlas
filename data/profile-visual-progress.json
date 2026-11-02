@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 327,
+    "selectedProfiles": 328,
     "existingApache": 1,
-    "newProfileTreatments": 326,
-    "newTreatmentsWithPhotographs": 320,
+    "newProfileTreatments": 327,
+    "newTreatmentsWithPhotographs": 321,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -21140,6 +21140,81 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:161;--profile-angle:25deg;--profile-photo:url(\"../../assets/profile-visuals/c12-tuscarora-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "tutelo",
+      "name": "Tutelo",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 28,
+      "angle": -67,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "va183-tutelo-roanoke-wasena-2010",
+          "profileSlugs": [
+            "tutelo"
+          ],
+          "asset": "assets/profile-visuals/va183-tutelo-roanoke-wasena-2010.jpg",
+          "cardAsset": "assets/profile-visuals/va183-tutelo-roanoke-wasena-2010.jpg",
+          "title": "Roanoke River in Wasena — item dated June 2010",
+          "creator": "Patriarca12",
+          "date": "June 2010 (item record; exact camera capture date unknown)",
+          "credit": "Patriarca12, own-work photograph; item dated June 2010; via Wikimedia Commons; CC BY-SA 3.0.",
+          "cardCredit": "Patriarca12 · Roanoke River, 2010 · CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roanoke_River_in_Wasena,_Roanoke,_Virginia.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Roanoke_River_in_Wasena%2C_Roanoke%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20100626013931",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 3.0 Unported — selected from the exact offered licenses",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-02",
+          "alt": "Water and low rocks between tree-lined banks of the Roanoke River in Wasena, Roanoke, Virginia.",
+          "scope": "The exact item identifies the Roanoke River in the Wasena neighborhood of Roanoke, Virginia. The selected DHR report places historical Saponi-Tutelo contexts in the upper Roanoke drainage, and the separate museum notice qualifies a Totero Town association in Salem. This photograph is one modern upper-river regional example; the camera is not claimed to be at Salem’s Totero Town, an archaeological resource, a present Indigenous community, a boundary or Tribal property. It is not evidence of present ecological conditions or visitor access. The complete delivered frame shows water, rocks, trees and a background utility structure, with no identifiable people, grave markers, ceremony or isolated art. The exact copyright-holder Licensing body offers CC BY-SA 3.0 and GFDL, with a choice; CC BY-SA 3.0 is the selected media license, not generic Commons metadata CC0. Item date June 2010 is retained; metadata says camera date unknown and records prior Photoshop CS2 processing. The received 600 by 450 JPEG is the complete offered original file; no larger file is offered. It is not claimed to be an unprocessed camera original or uncropped before provider processing. Root retrieved the normally offered file through its healthy browser and viewed the whole frame; this package author independently viewed and hashed those same bytes. Atlas made no pixel edit, resize, recompression, source-frame crop or generation. Card and opened page use identical complete file bytes; CSS crops/overlays can affect display. Preserve visible creator/source/license credit and applicable ShareAlike terms for photo derivatives.",
+          "contextSources": [
+            {
+              "title": "The High Plains Sappony study — upper Roanoke historical context",
+              "url": "https://www.dhr.virginia.gov/wp-content/uploads/2019/11/HA-081_High_Plains_Sappony_NCVA_Christie_Indian_Settlement_2017_WM_report.pdf",
+              "inspectionScope": "Selected printed/PDF pp.17–18 describe mid-seventeenth-century Saponi-Tutelo contexts around the New, upper Roanoke and Staunton rivers. Region-level context only, not identification of this modern camera site as a settlement or a territorial boundary."
+            },
+            {
+              "title": "Roanoke Valley Indigenous History Exhibit Grand Opening — supporting place context",
+              "url": "https://virginiahumanities.org/events/2025/11/roanoke-valley-indigenous-history-exhibit-grand-opening/",
+              "inspectionScope": "Earlier bounded selected notice identifies a believed Totero Town location in Salem. It does not identify Wasena as that village; its date, qualification and supporting-only status are preserved."
+            }
+          ],
+          "retrievedWidth": 600,
+          "retrievedHeight": 450,
+          "retrievedSha256": "94ae32351044f2e84864963d0a2270a7494a36f9a4d6fd031510944318e70979",
+          "reproductionNote": "Complete offered 600 by 450 JPEG original retained byte-for-byte; a low-resolution available file, with no Atlas upscaling, resizing, recompression, crop, retouching or generation. Provider/camera processing before this file is not established beyond the recorded Photoshop metadata. The offered file itself was inspected; no larger version was offered and no unprocessed camera original was inspected. CSS card/backdrop crops/overlays are display treatment. Attribution and the selected CC BY-SA 3.0 link remain visible; no endorsement, present ownership or access permission is implied.",
+          "retrieval": {
+            "method": "Root normal-browser offered-original download; package author independently viewed/hash-checked the same whole frame",
+            "retrievedAt": "2026-11-02",
+            "bytes": 102868,
+            "format": "JPEG",
+            "transformations": "None; complete offered file retained unchanged",
+            "actualCompleteDeliveredFrameViewed": true,
+            "offeredOriginalInspected": true,
+            "largerVersionOffered": false,
+            "largerOriginalInspected": false,
+            "cameraOriginalInspected": false,
+            "exifTags": 11,
+            "gpsExifPresent": false,
+            "xmpGpsPresent": false
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:-67deg;--profile-photo:url(\"../../assets/profile-visuals/va183-tutelo-roanoke-wasena-2010.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
