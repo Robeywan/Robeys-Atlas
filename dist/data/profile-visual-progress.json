@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 333,
+    "selectedProfiles": 336,
     "existingApache": 1,
-    "newProfileTreatments": 332,
-    "newTreatmentsWithPhotographs": 326,
+    "newProfileTreatments": 335,
+    "newTreatmentsWithPhotographs": 329,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -267,8 +267,8 @@
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
-      "initialAdequacy": "Not assessed",
-      "substantiveInspectedSources": 14
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 15
     },
     {
       "slug": "achumawi",
@@ -6292,6 +6292,77 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "eastern-shawnee-tribe-of-oklahoma",
+      "name": "Eastern Shawnee Tribe of Oklahoma",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 301,
+      "angle": -18,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "eastern-shawnee-upstream-spring-river-2006",
+          "profileSlugs": [
+            "eastern-shawnee-tribe-of-oklahoma"
+          ],
+          "asset": "assets/profile-visuals/eastern-shawnee-upstream-spring-river-2006.jpg",
+          "cardAsset": "assets/profile-visuals/eastern-shawnee-upstream-spring-river-2006.jpg",
+          "title": "Spring River upstream at Baxter Springs, Kansas, July 3, 2006",
+          "credit": "Michael Overton / Wikimedia Commons, CC BY-SA 2.5",
+          "creator": "Michael Overton",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spring_River_2006-07-03_210422.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Spring_River_2006-07-03_210422.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+          "scope": "Spring River from Riverside Park, Baxter Springs, KANSAS, photographed July 3, 2006. This is explicitly an UPSTREAM regional example for a river that the U.S. Department of Justice’s dated January 31, 2011 release identifies as continuing into northeastern Oklahoma in connection with the Eastern Shawnee Tribe of Oklahoma. It is not photographed in Oklahoma or on identified Eastern Shawnee government grounds; it is not a community portrait, property, current access, boundary or territorial claim. No present water condition, safety, ecological outcome or legal conclusion is inferred from this 2006 image or the dated release. Whole published 1600×1200 original JPEG independently viewed and preserved unchanged. Existing Adobe Photoshop Elements 2.0 processing recorded in the source metadata remains; this is not asserted to be an unprocessed or uncropped camera original. No new resize, recompression or pixel crop. Directory/background CSS may crop the display or add overlays; the opened full-image display should preserve the complete frame and proportions.",
+          "reviewedAt": "2026-11-03",
+          "date": "2006-07-03",
+          "alt": "Spring River seen from a grassy bank at Riverside Park, Baxter Springs, Kansas, with trees and a bridge in the distance.",
+          "reproductionNote": "Complete published original JPEG retained unchanged. Its offered dimensions and any documented prior processing are separate from camera-original framing. Directory and background presentation may apply CSS cropping or overlays; opened full-image display retains the entire file proportionally.",
+          "derivatives": {
+            "asset": {
+              "width": 1600,
+              "height": 1200,
+              "bytes": 731169,
+              "sha256": "9571ea861ac4b416cf7db1485b02727d1cae98c08abb46dd5e8a6de7ae319123",
+              "changes": "None. Byte-identical copy of the complete published original delivered through the normal browser; both card and opened-page asset refer to this same file."
+            },
+            "cardAsset": {
+              "width": 1600,
+              "height": 1200,
+              "bytes": 731169,
+              "sha256": "9571ea861ac4b416cf7db1485b02727d1cae98c08abb46dd5e8a6de7ae319123",
+              "changes": "None. Byte-identical copy of the complete published original delivered through the normal browser; both card and opened-page asset refer to this same file."
+            }
+          },
+          "contextSources": [
+            {
+              "title": "Food Processor to Pay $390,000 Penalty for Illegal Wastewater Discharges into Kansas-Oklahoma River",
+              "url": "https://www.justice.gov/archives/opa/pr/food-processor-pay-390000-penalty-illegal-wastewater-discharges-kansas-oklahoma-river",
+              "publisher": "U.S. Department of Justice, Office of Public Affairs",
+              "publicationDate": "2011-01-31",
+              "reviewedAt": "2026-11-03",
+              "scope": "The release identifies the Spring River at Baxter Springs, Kansas and states that the river continues south into northeastern Oklahoma through Eastern Shawnee lands; it names the Eastern Shawnee Tribe of Oklahoma as consulted about a watershed project. This establishes an explicitly upstream river-context connection. The photograph's Riverside Park camera location remains in Kansas.",
+              "countsTowardMinimum": false
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:301;--profile-angle:-18deg;--profile-photo:url(\"../../assets/profile-visuals/eastern-shawnee-upstream-spring-river-2006.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "eklutna-native-village",
@@ -19228,6 +19299,150 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "shawnee",
+      "name": "Shawnee",
+      "originalId": 345,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 166,
+      "angle": 5,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "shawnee-mission-school-2011",
+          "profileSlugs": [
+            "shawnee",
+            "shawnee-tribe"
+          ],
+          "asset": "assets/profile-visuals/shawnee-mission-school-2011.jpg",
+          "cardAsset": "assets/profile-visuals/shawnee-mission-school-2011.jpg",
+          "title": "Shawnee Indian Mission School exterior, Fairway, Kansas, August 2011",
+          "credit": "MadameGraffigny / Wikimedia Commons, CC BY-SA 3.0",
+          "creator": "MadameGraffigny",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shawnee_indian_mission_school.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shawnee_indian_mission_school.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "Historical Shawnee Indian Mission School exterior at Fairway, Kansas, photographed in August 2011 as identified by the photographer. The Shawnee Tribe’s October 28, 2021 article identifies this institution and its own cultural and historic preservation committee’s connection with the site. This is one shared historical-institution photograph for the broader Shawnee guide and the distinct Shawnee Tribe government guide; it is not a present-day government building, current community portrait, traditional Indigenous architecture, territorial boundary, property or access claim. The particular building is not dated from the institution’s 1839 founding. Whole Commons-published 800×531 original JPEG independently viewed; small published resolution, not asserted to be an unprocessed or uncropped camera original. No new pixel processing. Directory/background CSS may crop the display or add overlays; the opened full-image display should preserve the complete frame and its proportions.",
+          "reviewedAt": "2026-11-03",
+          "date": "2011-08",
+          "alt": "Two-story brick school exterior with white porch details, a lawn, walkway, historical marker and framing trees.",
+          "reproductionNote": "Complete published original JPEG retained unchanged. Its offered dimensions and any documented prior processing are separate from camera-original framing. Directory and background presentation may apply CSS cropping or overlays; opened full-image display retains the entire file proportionally.",
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 531,
+              "bytes": 342982,
+              "sha256": "79f358265269be32a605acc9cf925160914176943124e1d037db0413b7052f83",
+              "changes": "None. Byte-identical copy of the complete published original delivered through the normal browser; both card and opened-page asset refer to this same file."
+            },
+            "cardAsset": {
+              "width": 800,
+              "height": 531,
+              "bytes": 342982,
+              "sha256": "79f358265269be32a605acc9cf925160914176943124e1d037db0413b7052f83",
+              "changes": "None. Byte-identical copy of the complete published original delivered through the normal browser; both card and opened-page asset refer to this same file."
+            }
+          },
+          "contextSources": [
+            {
+              "title": "182 Years Ago Today, Shawnee Indian Mission Manual Labor School Opened",
+              "url": "https://shawnee-nsn.gov/news/182-years-ago-today-shawnee-indian-mission-manual-labor-school-opened/",
+              "publisher": "Shawnee Tribe",
+              "publicationDate": "2021-10-28",
+              "reviewedAt": "2026-11-03",
+              "scope": "The Tribe's dated article identifies remaining school grounds and buildings as Shawnee Indian Mission State Historic Site and describes its own cultural and historic preservation committee's relationship with the City of Fairway. That supports use of a specifically identified exterior of the historical school for the broader Shawnee historical guide and the separate Shawnee Tribe government's historical-preservation reading route.",
+              "countsTowardMinimum": false
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:166;--profile-angle:5deg;--profile-photo:url(\"../../assets/profile-visuals/shawnee-mission-school-2011.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 5
+    },
+    {
+      "slug": "shawnee-tribe",
+      "name": "Shawnee Tribe",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 79,
+      "angle": -21,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "shawnee-mission-school-2011",
+          "profileSlugs": [
+            "shawnee",
+            "shawnee-tribe"
+          ],
+          "asset": "assets/profile-visuals/shawnee-mission-school-2011.jpg",
+          "cardAsset": "assets/profile-visuals/shawnee-mission-school-2011.jpg",
+          "title": "Shawnee Indian Mission School exterior, Fairway, Kansas, August 2011",
+          "credit": "MadameGraffigny / Wikimedia Commons, CC BY-SA 3.0",
+          "creator": "MadameGraffigny",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shawnee_indian_mission_school.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shawnee_indian_mission_school.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "scope": "Historical Shawnee Indian Mission School exterior at Fairway, Kansas, photographed in August 2011 as identified by the photographer. The Shawnee Tribe’s October 28, 2021 article identifies this institution and its own cultural and historic preservation committee’s connection with the site. This is one shared historical-institution photograph for the broader Shawnee guide and the distinct Shawnee Tribe government guide; it is not a present-day government building, current community portrait, traditional Indigenous architecture, territorial boundary, property or access claim. The particular building is not dated from the institution’s 1839 founding. Whole Commons-published 800×531 original JPEG independently viewed; small published resolution, not asserted to be an unprocessed or uncropped camera original. No new pixel processing. Directory/background CSS may crop the display or add overlays; the opened full-image display should preserve the complete frame and its proportions.",
+          "reviewedAt": "2026-11-03",
+          "date": "2011-08",
+          "alt": "Two-story brick school exterior with white porch details, a lawn, walkway, historical marker and framing trees.",
+          "reproductionNote": "Complete published original JPEG retained unchanged. Its offered dimensions and any documented prior processing are separate from camera-original framing. Directory and background presentation may apply CSS cropping or overlays; opened full-image display retains the entire file proportionally.",
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 531,
+              "bytes": 342982,
+              "sha256": "79f358265269be32a605acc9cf925160914176943124e1d037db0413b7052f83",
+              "changes": "None. Byte-identical copy of the complete published original delivered through the normal browser; both card and opened-page asset refer to this same file."
+            },
+            "cardAsset": {
+              "width": 800,
+              "height": 531,
+              "bytes": 342982,
+              "sha256": "79f358265269be32a605acc9cf925160914176943124e1d037db0413b7052f83",
+              "changes": "None. Byte-identical copy of the complete published original delivered through the normal browser; both card and opened-page asset refer to this same file."
+            }
+          },
+          "contextSources": [
+            {
+              "title": "182 Years Ago Today, Shawnee Indian Mission Manual Labor School Opened",
+              "url": "https://shawnee-nsn.gov/news/182-years-ago-today-shawnee-indian-mission-manual-labor-school-opened/",
+              "publisher": "Shawnee Tribe",
+              "publicationDate": "2021-10-28",
+              "reviewedAt": "2026-11-03",
+              "scope": "The Tribe's dated article identifies remaining school grounds and buildings as Shawnee Indian Mission State Historic Site and describes its own cultural and historic preservation committee's relationship with the City of Fairway. That supports use of a specifically identified exterior of the historical school for the broader Shawnee historical guide and the separate Shawnee Tribe government's historical-preservation reading route.",
+              "countsTowardMinimum": false
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:79;--profile-angle:-21deg;--profile-photo:url(\"../../assets/profile-visuals/shawnee-mission-school-2011.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 3
     },
     {
       "slug": "sheguiandah-first-nation",

@@ -2614,9 +2614,9 @@
       "name": "Eastern Shawnee Tribe of Oklahoma",
       "slug": "eastern-shawnee-tribe-of-oklahoma",
       "entryType": "named-community-or-government",
-      "entryStage": "name-only-outline",
-      "researchStatus": "queued",
-      "substantiveWorks": 0,
+      "entryStage": "reviewed-starting-guide",
+      "researchStatus": "source-guide",
+      "substantiveWorks": 3,
       "supportingIdentificationReferences": 1,
       "readingSourceCards": 0,
       "identificationEvidence": [
@@ -2629,7 +2629,11 @@
           "countsTowardMinimum": false
         }
       ],
-      "dedupNote": "Name-only government route; compare all existing names and aliases before adding. No automatic broader-people or same-government equivalence."
+      "dedupNote": "Name-only government route; compare all existing names and aliases before adding. No automatic broader-people or same-government equivalence.",
+      "listedReadingSources": 3,
+      "imageStatus": "actual-relevant-credited-picture",
+      "reviewedAt": "2026-11-03",
+      "startingGuideBatch": "shawnee-depth-191-20261103"
     },
     {
       "name": "Iowa Tribe of Oklahoma",
@@ -25610,6 +25614,58 @@
       ],
       "startingGuideBatch": "virginia-state-deep-188-20261103",
       "reviewedAt": "2026-11-03"
+    },
+    {
+      "name": "Shawnee Tribe",
+      "slug": "shawnee-tribe",
+      "entryType": "Named contemporary Tribal government",
+      "identityVerifiedAt": "2026-11-03",
+      "supportingIdentificationReferences": 3,
+      "identificationEvidence": [
+        {
+          "url": "https://shawnee-nsn.gov/government/",
+          "title": "About The Shawnee Tribe",
+          "author": "Shawnee Tribe; individual page writer not credited",
+          "publisher": "Shawnee Tribe",
+          "publicationDate": "Undated public page",
+          "reviewedAt": "2026-11-03",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Actual About The Shawnee Tribe heading and named Tribal Council/Business Council institutional descriptions, reader 2/8/11. Only exact name and government kind used.",
+          "accessNotes": "Normal actual reader body and ordinary 200 HTML cache. Legal powers, constitution/citizenship rules, records-access procedures, roster/current offices and linked legal instruments are not adopted."
+        },
+        {
+          "url": "https://www.bia.gov/regional-offices/eastern-oklahoma/tribes-served",
+          "title": "Tribes Served — Eastern Oklahoma Regional Office",
+          "author": "Bureau of Indian Affairs; individual writer not credited",
+          "publisher": "U.S. Department of the Interior, Indian Affairs",
+          "publicationDate": "Undated public directory",
+          "reviewedAt": "2026-11-03",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Actual Miami Agency table names Eastern Shawnee Tribe of Oklahoma and Shawnee Tribe separately, reader 9–19. Naming distinction only, not a historical bibliography work.",
+          "accessNotes": "Normal actual reader body and ordinary 200 HTML cache. An administrative directory is not a territorial boundary, current legal opinion, membership rule or evidence that different named governments are interchangeable."
+        },
+        {
+          "url": "https://shawnee-nsn.gov/slip/",
+          "title": "Shawnee Tribe Language Department — institutional location",
+          "author": "Shawnee Tribe; individual page writer not credited",
+          "publisher": "Shawnee Tribe",
+          "publicationDate": "Undated public page with mixed 2020–2027 content",
+          "reviewedAt": "2026-11-03",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Actual language-department heading and Miami,Oklahoma office line, reader 90–93. Narrow administrative/programme setting only.",
+          "accessNotes": "Same exact page has a separately scoped substantive language-programme review. This location check is not an extra work or current access instruction. No contact details, directions, territory or all-citizen location inferred."
+        }
+      ],
+      "researchStatus": "source-guide",
+      "entryStage": "reviewed-starting-guide",
+      "listedReadingSources": 3,
+      "substantiveWorks": 3,
+      "imageStatus": "actual-relevant-credited-picture",
+      "reviewedAt": "2026-11-03",
+      "startingGuideBatch": "shawnee-depth-191-20261103"
     }
   ],
   "regionAssociations": [
@@ -31194,6 +31250,18 @@
       "sourceTitle": "Windsor Castle — History",
       "evidenceNote": "The selected source identifies Warraskoyack in this Virginia setting. Modern state grouping is a navigation aid, not an Indigenous boundary, current government, residence/ethnicity or complete historical territory.",
       "reviewedScope": "Opening history paragraphs, reader lines31–33, identifying Warraskoyack occupation of the named Smithfield/Pagan River area.",
+      "reviewDate": "2026-11-03",
+      "identityOnly": true
+    },
+    {
+      "name": "Shawnee Tribe",
+      "regionId": "US-OK",
+      "associationType": "Present government administrative/programme setting — identity navigation only",
+      "period": "Identification reviewed 2026-11-03",
+      "sourceUrl": "https://shawnee-nsn.gov/slip/",
+      "sourceTitle": "Shawnee Tribe Language Department — Miami administrative setting",
+      "evidenceNote": "Narrow Miami,Oklahoma programme/administrative context only. Not a territory, boundary, jurisdiction, all-citizen residence, membership or municipality ethnicity claim.",
+      "reviewedScope": "Actual language-department heading and Miami,Oklahoma office line, without address/directions or currentaccess inference.",
       "reviewDate": "2026-11-03",
       "identityOnly": true
     }
