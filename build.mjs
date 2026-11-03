@@ -206,6 +206,7 @@ write('data/virginia-resume-187-20261103.json',fs.readFileSync(path.join(cwd,'re
 write('data/virginia-state-deep-188-20261103.json',fs.readFileSync(path.join(cwd,'research/virginia-state-deep-188-20261103.json'),'utf8'));
 write('data/virginia-state-next-189-20261103.json',fs.readFileSync(path.join(cwd,'research/virginia-state-next-189-20261103.json'),'utf8'));
 write('data/virginia-state-depth-190-20261103.json',fs.readFileSync(path.join(cwd,'research/virginia-state-depth-190-20261103.json'),'utf8'));
+write('data/shawnee-depth-191-20261103.json',fs.readFileSync(path.join(cwd,'research/shawnee-depth-191-20261103.json'),'utf8'));
 write('data/virginia-round-184-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-round-184-20261102.json'),'utf8'));
 write('data/virginia-guide-182-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-182-20261102.json'),'utf8'));
 write('data/virginia-guide-181-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-181-20261102.json'),'utf8'));
