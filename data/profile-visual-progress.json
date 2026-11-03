@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 336,
+    "selectedProfiles": 337,
     "existingApache": 1,
-    "newProfileTreatments": 335,
-    "newTreatmentsWithPhotographs": 329,
+    "newProfileTreatments": 336,
+    "newTreatmentsWithPhotographs": 330,
     "decorativeTreatmentsAwaitingPhotographs": 6,
     "autoEnrolledThisBuild": []
   },
@@ -8389,6 +8389,77 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "inuit",
+      "name": "Inuit",
+      "originalId": 142,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 244,
+      "angle": 30,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "inuit195-iqaluit-general-view",
+          "profileSlugs": [
+            "inuit"
+          ],
+          "asset": "assets/profile-visuals/inuit195-iqaluit-general-view.jpg",
+          "cardAsset": "assets/profile-visuals/inuit195-iqaluit-general-view.jpg",
+          "title": "Iqaluit town view, Baffin Island, Canada",
+          "creator": "Torbenbrinker",
+          "credit": "Torbenbrinker / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:IqaluitGeneralView.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/IqaluitGeneralView.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+          "rightsLabel": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "date": "Commons Summary states 19 July 2009; file metadata dated 23 April 2021; capture date unresolved",
+          "reviewedAt": "2026-11-03",
+          "alt": "An elevated view across Iqaluit buildings and streets, with rocky ground, vegetation and pink flowers in the foreground and water and hills beyond.",
+          "scope": "One specifically identified Iqaluit town view in Nunavut, Canada, for the broader Inuit reading route. Qikiqtani Inuit Association describes Inuit relationships with the developing town alongside non-Inuit migration; this is a particular named-place example, not all Inuit communities or every resident’s ethnicity. It establishes no current boundary, ownership, access, present conditions or ecological outcome. Commons Summary states 19 July 2009, while delivered-file metadata records 23 April 2021 and Windows Photo Editor; capture date and camera-original framing remain unresolved. The complete Commons-published 1483×1014 original JPEG was viewed and retained unchanged, including its soft detail and visible marks; no unprocessed/uncropped camera-original claim or new Atlas pixel processing. Directory/background CSS may crop the display or add overlays; opened full-image presentation should retain the complete frame proportionally.",
+          "reproductionNote": "Byte-identical copy of the complete published original JPEG, with existing Windows Photo Editor metadata and source appearance preserved. No resizing, recompression, color adjustment, pixel crop, enhancement or generation by Atlas. The same file serves card and opened-page media; CSS display crops/overlays are separate from the unchanged source frame.",
+          "derivatives": {
+            "asset": {
+              "width": 1483,
+              "height": 1014,
+              "bytes": 309818,
+              "sha256": "b4afd1e21199407eb1650bfc8a8a3420cbd47dbedc1b7cd489f98a88c7e735d2",
+              "changes": "None; complete published original delivered by normal browser,unchanged."
+            },
+            "cardAsset": {
+              "width": 1483,
+              "height": 1014,
+              "bytes": 309818,
+              "sha256": "b4afd1e21199407eb1650bfc8a8a3420cbd47dbedc1b7cd489f98a88c7e735d2",
+              "changes": "Same unchanged full file as opened-page asset; CSS may crop displayed card."
+            }
+          },
+          "contextSources": [
+            {
+              "title": "Communities — Iqaluit section",
+              "url": "https://www.qia.ca/who-we-are/communities/",
+              "publisher": "Qikiqtani Inuit Association",
+              "publicationDate": "No individual byline or publication date established for the selected institutional section",
+              "reviewedAt": "2026-11-03",
+              "scope": "Actual place description213–214 and settlement/migration relationship222–224 read. Context establishes named Iqaluit/Inuit relationships and mixed community history without population/current-figure,etymology,harvesting,legal/access or underlying-report claims.",
+              "countsTowardMinimum": false
+            }
+          ]
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:244;--profile-angle:30deg;--profile-photo:url(\"../../assets/profile-visuals/inuit195-iqaluit-general-view.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 4
     },
     {
       "slug": "iowa-ioway",

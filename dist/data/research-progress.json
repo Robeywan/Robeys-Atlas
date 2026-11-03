@@ -13707,24 +13707,64 @@
     "slug": "inuit",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 2,
-    "suggestedReadingLinks": 0,
-    "recordedContentChecks": 0,
+    "listedSources": 5,
+    "suggestedReadingLinks": 26,
+    "recordedContentChecks": 4,
     "supportingContentChecks": 0,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
-    "startingGuide": null,
+    "startingGuide": {
+      "batchId": "inuit-document-195-20261103",
+      "reviewedAt": "2026-11-03",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "fixedSourceMinimum": null,
+      "scopeNote": "A regional introduction that distinguishes naming, Canadian homeland context, public historical interpretation and a Nunavut institution’s priorities. The photograph is one Iqaluit place example; fuller Arctic histories and locally authored perspectives remain open.",
+      "sources": [
+        {
+          "sourceId": "inuit195-kaplan-naming-scopes",
+          "reason": "Begin with regional names and the limits of a broader organizational label."
+        },
+        {
+          "sourceId": "inuit195-itk-canadian-context",
+          "reason": "Read ITK’s Canadian homeland and living-community account, keeping mixed-age figures outside the review."
+        },
+        {
+          "sourceId": "p142-s2",
+          "reason": "Compare the booklet’s selected argument for Inuit-led interpretation and learning, not its unreviewed chronology or every page."
+        },
+        {
+          "sourceId": "inuit195-nunavut-societal-values",
+          "reason": "Examine one Nunavut department’s public values framework without turning institutional aims into a universal creed or evaluated outcome."
+        }
+      ],
+      "imageRecordId": "inuit195-iqaluit-general-view"
+    },
     "sourceMinimumReached": false,
     "sourceTarget": 12,
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "",
-      "remainingLimits": []
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-03",
+      "rationale": "Four selected public works and a specifically contextualized credited Iqaluit photograph provide an introductory path. Fuller regional histories, public cultural comparisons, source criticism and community review remain open.",
+      "remainingLimits": [
+        "Compare locally authored public histories and present-day accounts from distinct Inuit regions; these selected Canadian institutional and linguistic perspectives are not an exhaustive Arctic history.",
+        "The owner document’s archaeological chronologies, specific spiritual traditions, artworks, books, treaty/legal histories and current figures remain original-source research leads. Publisher descriptions and cited URLs do not establish full-work review or cultural/media permission.",
+        "The dated/mixed-age source pages do not establish current programme delivery, services, language totals, ecological outcomes or every person’s beliefs.",
+        "The broad entry retains its older homepage lead without substantive content-review status. Its original general sections are preserved; selected review of the existing heritage PDF does not verify every claim in that booklet.",
+        "Additional locally authored accounts from distinct Inuit regions, and separately inspected evidence of programme implementation, would broaden the selected Nunavut institutional framework. The undated public page does not establish universal practice, current services or measured results.",
+        "The Iqaluit photograph is one particular modern town view, not every Inuit community or a portrait of its residents. Its Commons2009 date and2021 metadata remain unresolved; the complete published file and item-specific CC BY-SA4.0 record are retained."
+      ]
     },
-    "reviewedAt": null,
-    "remainingGaps": [],
+    "reviewedAt": "2026-11-03",
+    "remainingGaps": [
+      "Compare locally authored public histories and present-day accounts from distinct Inuit regions; these selected Canadian institutional and linguistic perspectives are not an exhaustive Arctic history.",
+      "The owner document’s archaeological chronologies, specific spiritual traditions, artworks, books, treaty/legal histories and current figures remain original-source research leads. Publisher descriptions and cited URLs do not establish full-work review or cultural/media permission.",
+      "The dated/mixed-age source pages do not establish current programme delivery, services, language totals, ecological outcomes or every person’s beliefs.",
+      "The broad entry retains its older homepage lead without substantive content-review status. Its original general sections are preserved; selected review of the existing heritage PDF does not verify every claim in that booklet.",
+      "Additional locally authored accounts from distinct Inuit regions, and separately inspected evidence of programme implementation, would broaden the selected Nunavut institutional framework. The undated public page does not establish universal practice, current services or measured results.",
+      "The Iqaluit photograph is one particular modern town view, not every Inuit community or a portrait of its residents. Its Commons2009 date and2021 metadata remain unresolved; the complete published file and item-specific CC BY-SA4.0 record are retained."
+    ],
     "communityReview": "Not recorded",
     "researchComplete": false
   },
