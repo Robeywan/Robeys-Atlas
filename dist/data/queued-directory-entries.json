@@ -25359,6 +25359,44 @@
       ],
       "reviewedAt": "2026-11-02",
       "startingGuideBatch": "virginia-guide-182-20261102"
+    },
+    {
+      "name": "Eastern Band of Cherokee Indians",
+      "slug": "eastern-band-of-cherokee-indians",
+      "entryType": "Named tribal government / community",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "identityVerifiedAt": "2026-11-02",
+      "supportingIdentificationReferences": 2,
+      "substantiveWorks": 0,
+      "listedReadingSources": 0,
+      "imageStatus": "not-yet-reviewed",
+      "identificationEvidence": [
+        {
+          "url": "https://www.ebci.gov/government/",
+          "title": "Government — Eastern Band of Cherokee Indians",
+          "author": "Eastern Band of Cherokee Indians; individual page writer not stated",
+          "publisher": "Eastern Band of Cherokee Indians",
+          "publicationDate": "Undated government page; navigation/biography dates are not page publication date",
+          "reviewedAt": "2026-11-02",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Actual exact-name heading and selected government/self-location clauses, web-reader lines 91–95: names the Eastern Band of Cherokee Indians, describes its own government and identifies Cherokee, North Carolina. Official contact town independently appears at lines 135–137. Only narrow name/kind/location used.",
+          "accessNotes": "Normal web-reader actual body and one normal HTTPS200 private HTML cache. Historical division/removal explanation, Chief/officeholder biographies, current totals, membership, legal powers, territory, political-history conclusions and media excluded. No history or image licence is established by this identity check."
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+          "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+          "author": "Bureau of Indian Affairs, U.S. Department of the Interior",
+          "publisher": "Bureau of Indian Affairs / Federal Register, 91 FR 4102–4106, document 2026-01899",
+          "publicationDate": "2026-01-30",
+          "reviewedAt": "2026-11-02",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Printed p.4103 / physical PDF p.2, exact listed entity name Eastern Band of Cherokee Indians (reader line341). The same page separately lists Cherokee Nation; printed4105/PDF4 separately lists United Keetoowah Band of Cherokee Indians in Oklahoma. Only name inventory and entity distinction selected.",
+          "accessNotes": "Normal web-reader exact notice text and one normal HTTPS200 five-page PDF cache. Not a substantive historical work, current legal advice, recognition-process review, membership/eligibility determination, boundary or assessment of every Cherokee-named organization. Other list entries and unrelated preceding notice not adopted."
+        }
+      ]
     }
   ],
   "regionAssociations": [
@@ -30859,6 +30897,18 @@
       "sourceTitle": "The Manahoac Tribes in Virginia, 1608",
       "evidenceNote": "Historical upper Rappahannock–Rapidan region, Virginia. A qualified historical reading label, not a current government, fixed territory, language affiliation, ancestry or disappearance finding.",
       "reviewedScope": "Title/publication page and printed p.1 opening introduction, reader lines0–16 and261–304. No site catalogue, plates, maps, collections or full monograph inspected.",
+      "reviewDate": "2026-11-02",
+      "identityOnly": true
+    },
+    {
+      "name": "Eastern Band of Cherokee Indians",
+      "regionId": "US-NC",
+      "associationType": "Present government administrative setting — identity navigation only",
+      "period": "Identification reviewed 2026-11-02",
+      "sourceUrl": "https://www.ebci.gov/government/",
+      "sourceTitle": "Government — Eastern Band of Cherokee Indians",
+      "evidenceNote": "Verified government office locality in Cherokee, North Carolina only. Not a jurisdiction, territory, boundary, membership or all-resident ethnicity claim.",
+      "reviewedScope": "Actual exact-name heading and selected government/self-location clauses, web-reader lines 91–95: names the Eastern Band of Cherokee Indians, describes its own government and identifies Cherokee, North Carolina. Official contact town independently appears at lines 135–137. Only narrow name/kind/location used.",
       "reviewDate": "2026-11-02",
       "identityOnly": true
     }

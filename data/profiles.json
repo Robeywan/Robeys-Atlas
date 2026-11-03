@@ -16213,7 +16213,7 @@
     "name": "Cherokee",
     "region": "Southeast / Oklahoma / North Carolina",
     "kind": "People / community",
-    "overview": "This broader Cherokee guide pairs the Cherokee Nation’s history and language programme with a distinct United Keetoowah Band museum account. It offers selected institutional perspectives, not one merged government or a complete account of all Cherokee communities. Eastern Band and other community-directed histories remain important further reading.",
+    "overview": "This broader Cherokee guide brings together selected publications from the Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band, alongside dated women’s petitions and a named artist’s museum biography. It keeps governments, individual voices and historical periods distinct. Public accounts provide starting points, not a complete description of Cherokee life or access to private cultural knowledge.",
     "sections": [
       {
         "title": "Identity and context",
@@ -16250,6 +16250,41 @@
         "text": "A 2024 UKB Media report describes the John Hair Cultural Center & Keetoowah Museum’s galleries, library, classroom and language work. It explicitly says Keetoowah people share Cherokee heritage while maintaining their own identity. The report is a route into that government’s institutions, not evidence that every archive is unrestricted or every Cherokee government has the same history.",
         "sourceIds": [
           "p10-cherokee-ukb-museum"
+        ]
+      },
+      {
+        "title": "Eastern Band language education and family participation",
+        "text": "The Eastern Band’s education page describes New Kituwah Academy as an immersion setting built through students, staff, families and community relationships. Its KPEP account adds curriculum work and community language services, and names cooperation among the Eastern Band, Cherokee Nation and United Keetoowah Band. These are distinct institutions working together. The page explains educational approaches and aims; it does not establish current enrollment, access or teaching outcomes.",
+        "sourceIds": [
+          "c186-ebci-education"
+        ]
+      },
+      {
+        "title": "Changing expression and limits on public knowledge",
+        "text": "The Cherokee Nation’s Culture FAQ describes clothing as something that has changed across historical periods and remains part of modern life. It also asks readers to respect choices about sharing beliefs and explains that some ceremonial and healing knowledge is not for public circulation. This guide follows that boundary. Public reading cannot become a complete inventory of Cherokee belief, a ceremony-access guide or a test of who is Cherokee.",
+        "sourceIds": [
+          "c186-cherokee-culture-boundaries"
+        ]
+      },
+      {
+        "title": "Women petitioning against land loss and removal",
+        "text": "Petitions dated 1817 and 1818 oppose further land cessions, while the 1831 petition by women in Salequoree and Pine Log opposes forced removal. The petitioners connect land with supporting children and future generations, and address political decision-makers directly. These edited transcriptions make women’s political arguments visible. They do not establish that every woman held the same position or replace inspection of the original documents.",
+        "sourceIds": [
+          "c186-cherokee-women-petitions"
+        ]
+      },
+      {
+        "title": "One basketmaker’s learning and livelihood",
+        "text": "The Lam Museum’s account identifies Emma Squirrel Taylor as an Eastern Band basketmaker from Birdtown. It describes her learning first from her mother and later from Lottie Stamper, and selling baskets to supplement household income. This is one artist’s public biographical example of learning, skilled work and livelihood. It does not make her experience universal or provide permission to reproduce basket designs or museum photographs.",
+        "sourceIds": [
+          "c186-emma-taylor-basket"
+        ]
+      },
+      {
+        "title": "Regional comparison: commerce, captivity and refuge",
+        "text": "Robbie Ethridge’s regional synthesis places Cherokee towns within a violent commercial system linking European traders, weapons and Native captives. She discusses refuge and displacement alongside Cherokee participation in captive trading. This comparison helps situate colonial pressures without assigning one role to every Cherokee person. It is not a substitute for the separate history of enslavement of African-descended people, or for present-day legal and citizenship questions.",
+        "sourceIds": [
+          "c186-ethridge-captive-trade-context"
         ]
       }
     ],
@@ -16357,42 +16392,163 @@
         "countsTowardMinimum": true,
         "contentReviewScope": "Complete substantive news body from Since 2011 through the paragraph on archives and distinct Keetoowah history, before contact details. Publication/byline and programme dates read; images and linked celebration footage not inspected.",
         "accessNotes": "Normal public HTTP 200 text read. This is a dated UKB institutional report; no museum visit, archive use, class/film viewing, underlying grant record or current programme evaluation. Public archive availability is on request, not unrestricted copying permission."
+      },
+      {
+        "id": "c186-ebci-education",
+        "title": "Eastern Band education — New Kituwah Academy and KPEP selected programme accounts",
+        "url": "https://www.ebci.gov/department-of-education/",
+        "author": "Eastern Band of Cherokee Indians, Department of Education / Division of Community, Education & Recreation Services; individual page writer not identified",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Indigenous-led institutional education account",
+        "publicationDate": "Undated, mixed-age departmental page; other sections still contain 2019 programme references",
+        "topics": [
+          "Eastern Band institutions",
+          "Language education",
+          "Community-directed learning"
+        ],
+        "annotation": "The Eastern Band explains its own immersion-school approach, family participation and language-programme responsibilities. Descriptions of aims and collaborations are separate from evaluated results.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual New Kituwah Academy mission/educational approach and responsibility paragraphs (reader135–152; cached text123–151), plus KPEP programme-purpose/service/consortium block (cached239–249). Department identity read separately. Not the whole departmental page or linked report/resources.",
+        "sourcePerspective": "Eastern Band public institutional explanation, not Cherokee Nation or UKB programme history; the consortium names three distinct Cherokee governments.",
+        "accessNotes": "Normal web-reader body and ordinaryHTTPS200 HTML. Selected substantive programme paragraphs, not merely a directory. Exclude speaker/student totals, current admissions/services/staff/benefits, certification or legislation claims, brain/learning or fluency guarantees, purity/language-loss-as-disappearance wording, ceremonial/medical information, child images and linked curricula, resources, annual report or recordings. Educational aims are attributed, not measured outcomes.",
+        "countsTowardMinimum": true,
+        "indigenousLed": true
+      },
+      {
+        "id": "c186-cherokee-culture-boundaries",
+        "title": "Culture FAQ — selected public-sharing boundaries and change in dress",
+        "url": "https://cherokee.gov/about-the-nation/frequently-asked-questions/culture/",
+        "author": "Cherokee Nation; individual FAQ writer not identified",
+        "publisher": "Cherokee Nation",
+        "type": "Indigenous-led public cultural guidance",
+        "publicationDate": "Page explicitly updated August 13, 2026",
+        "topics": [
+          "Public cultural knowledge",
+          "Historical change",
+          "Living continuity"
+        ],
+        "annotation": "The Nation’s detailed public answers set limits on disclosure and describe changes in clothing across time. They do not provide a complete account of Cherokee beliefs or a test of identity.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual publicly delivered FAQ answer paragraphs on respecting disclosure choices, nonpublic healing information and changing clothing: cached plaintext188,191–192,195–196; page update line212. Other answers screened/excluded, not adopted.",
+        "sourcePerspective": "One Cherokee government’s public explanation of cultural knowledge and presentation; not a universal religious or membership rule.",
+        "accessNotes": "Normal reader exposed navigation but omitted answer bodies. OrdinaryHTTPS200 HTML included the public FAQ answer text, read directly from that delivered body; no login, hidden member material, chatbot response, endpoint probing or access bypass. Exclude healing methods, ceremony details/access/contact arrangements, seasonal knowledge, religion proportions/chronology, clan or citizenship tests, labels of practitioners, games procedures, symbols/motifs and images. No spiritual/medical advice or new reuse permission.",
+        "countsTowardMinimum": true,
+        "indigenousLed": true
+      },
+      {
+        "id": "c186-cherokee-women-petitions",
+        "title": "Petitions of Cherokee Women — edited transcriptions, 1817, 1818 and 1831",
+        "url": "https://teachingamericanhistory.org/document/petitions-of-cherokee-women/",
+        "author": "Cherokee women petitioners (1817 and 1818); women residing in Salequoree and Pine Log (1831); edited and introduced by Jace Weaver",
+        "publisher": "Teaching American History",
+        "type": "Historical primary documents in a modern edited transcription",
+        "publicationDate": "Documents dated May 2, 1817; June 30, 1818; October 17, 1831. Web edition undated; stated source edition2016",
+        "topics": [
+          "Women’s political action",
+          "Land loss",
+          "Opposition to removal"
+        ],
+        "annotation": "Three petitions connect opposition to land cessions and forced removal with responsibilities to children and community life. The text reaches us through an explicitly credited editorial edition.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Actual normal-reader title/editor introduction, all three displayed petition transcriptions (reader73–101) and source provenance104: Theda Perdue and MichaelD.Green, The Cherokee Removal (2016),122–127. The cited book pages are publication provenance, not pages independently read here.",
+        "sourcePerspective": "Historical petitioners’ political arguments in edited English transcriptions, with Weaver’s modern introduction kept distinct from document language.",
+        "accessNotes": "Normal web-reader text read; one ordinary directHTTPS403 stopped without retry or bypass. Original manuscripts/signatures, translations, source book, linked records and object image were not inspected. No claim to an unmediated original, every Cherokee woman’s view or fixed power at every period. Editorial claims about a last Beloved Woman, uniform constitutional exclusion or all war/peace decisions are not adopted. No current legal/land or membership determination.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "c186-emma-taylor-basket",
+        "title": "Cherokee Basket — selected public biography of Emma Squirrel Taylor",
+        "url": "https://lammuseum.wfu.edu/2023/11/cherokee-basket/",
+        "author": "Timothy S.Y.Lam Museum of Anthropology; individual article writer not credited",
+        "publisher": "Timothy S.Y.Lam Museum of Anthropology, Wake Forest University",
+        "type": "Museum-authored named-maker account",
+        "publicationDate": "November 1, 2023",
+        "topics": [
+          "Eastern Band artist",
+          "Learning and mentorship",
+          "Arts and livelihoods"
+        ],
+        "annotation": "The museum names an Eastern Band basketmaker and describes learning through her mother and mentor Lottie Stamper, alongside the sale of baskets for household income.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Selected named-maker biographical paragraph identifying Emma Squirrel Taylor, Birdtown/Qualla Boundary, mother/mentor learning and selling work (reader141–142; cached128), with date/byline context. General antiquity, ritual/story and technical-making paragraphs excluded.",
+        "sourcePerspective": "Museum interpretation of one named artist’s life; distinct from the artist’s own full oral history or a universal account of basketmakers.",
+        "accessNotes": "Actual normal reader body read; later reader timeout followed by one normalHTTPS200 cache. No retry loop. No physical object, accession/provenance file, interview recording or source image inspection/reuse. Exclude ceremonial uses/narrative, generalized ten-thousand-year claim, patterns as universal/inherited permission, tree/dye/plant instructions and quantities. This text review does not clear the photographed basket or grant design-copying rights.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "c186-ethridge-captive-trade-context",
+        "title": "English Trade in Deerskins and Enslaved Indians — regional comparative context",
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/english-trade-in-deerskins-and-enslaved-indians/",
+        "author": "Robbie Ethridge (page credits University of Mississippi, Oxford; no current affiliation assumed)",
+        "publisher": "New Georgia Encyclopedia",
+        "type": "Scholarly regional synthesis — supporting/comparative context",
+        "publicationDate": "Originally August 8, 2002; last edited February 18, 2026",
+        "topics": [
+          "Colonial captive trading",
+          "Regional comparison",
+          "Historical interpretation"
+        ],
+        "annotation": "Ethridge places Cherokee towns within wider commercial violence, refuge and captive trading. This regional comparison is not counted as an additional substantive Cherokee-history work.",
+        "accessed": "2026-11-02",
+        "contentReviewedAt": "2026-11-02",
+        "contentReviewScope": "Selected actual reader passages on the commercial mechanism (88–94), Cherokee-related refuge and trader connections (102–111), and the early-eighteenth-century trade shift (124–125), plus author/date. Not the full regional history or its cited books.",
+        "sourcePerspective": "An attributed scholarly regional synthesis. Several directly relevant Cherokee passages provide comparison, not a dedicated Cherokee slavery history.",
+        "accessNotes": "Normal exact-page web-reader selected body read; direct retrieval outcome recorded privately. Supporting-only to avoid padding from a wider regional essay. Exclude all-people/generalized participation, extinction assertions, inferred migration/language/political identity, figures and source art. No universal motive or moral role assigned to individual Cherokee people. This colonial Native-captive context does not substitute for later African-Cherokee enslavement/Freedpeople scholarship or current legal/citizenship analysis.",
+        "countsTowardMinimum": false,
+        "countReason": "Supporting regional comparison; not a dedicated Cherokee work or a new underlying-book inspection."
       }
     ],
     "relatedOriginalIds": [],
     "researchStatus": "source-guide",
     "overviewSourceIds": [
       "p10-cherokee-history",
-      "p10-cherokee-master",
-      "p10-cherokee-ukb-museum"
+      "p10-cherokee-ukb-museum",
+      "c186-ebci-education",
+      "c186-cherokee-women-petitions",
+      "c186-emma-taylor-basket"
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-02",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
     "researchGaps": [
       "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
       "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
-      "Original treaty/court records, family histories and actual language lessons require their own review."
+      "Original treaty/court records, family histories and actual language lessons require their own review.",
+      "Eastern Band education has been reviewed through selected institutional descriptions, not lessons, recordings, learner assessments, services or current programme conditions.",
+      "The women’s petitions were read as edited web transcriptions; original manuscripts and the cited source-book pages remain uninspected.",
+      "The named basketmaker account is museum interpretation; underlying oral histories, object provenance and image/design permissions remain separate.",
+      "African-Cherokee enslavement and Freedpeople histories require substantive source review. The supplied Naylor book and its displayed preview descriptions were not read as book content.",
+      "The existing 2008 Capitol photograph depicts one Cherokee Nation government-building setting, not an Eastern Band school, the artist or a historical petition."
     ],
     "initialAdequacy": {
       "status": "Still unfinished",
-      "reviewedAt": "2026-10-28",
+      "reviewedAt": "2026-11-02",
       "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
         "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
         "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
-        "Original treaty/court records, family histories and actual language lessons require their own review."
+        "Original treaty/court records, family histories and actual language lessons require their own review.",
+        "Eastern Band education has been reviewed through selected institutional descriptions, not lessons, recordings, learner assessments, services or current programme conditions.",
+        "The women’s petitions were read as edited web transcriptions; original manuscripts and the cited source-book pages remain uninspected.",
+        "The named basketmaker account is museum interpretation; underlying oral histories, object provenance and image/design permissions remain separate.",
+        "African-Cherokee enslavement and Freedpeople histories require substantive source review. The supplied Naylor book and its displayed preview descriptions were not read as book content.",
+        "The existing 2008 Capitol photograph depicts one Cherokee Nation government-building setting, not an Eastern Band school, the artist or a historical petition."
       ]
     },
     "evidenceNotes": [
-      "Cohort10: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works."
+      "Cohort10: selected actual-content reviews preserve their institutional/community scope. Existing source cards are upgraded at the same ID and URL where noted; repeated publications are not globally new works.",
+      "November 2 owner-document follow-up: four new selected-content works and one supporting regional comparison, with 50 contributed URL leads kept separate from the bibliography. Earlier source and section objects retain their original dates and scopes; the supplied full study and underlying cited books are not represented as verified source texts."
     ],
     "startingGuide": {
       "batchId": "starter-guides-10",
-      "reviewedAt": "2026-10-28",
+      "reviewedAt": "2026-11-02",
       "status": "curated-starting-path-reviewed",
       "fixedSourceMinimum": null,
       "researchComplete": false,
@@ -16409,10 +16565,724 @@
         {
           "sourceId": "p10-cherokee-ukb-museum",
           "reason": "Compare a separately named government’s public cultural institution."
+        },
+        {
+          "sourceId": "c186-ebci-education",
+          "reason": "Add the Eastern Band’s own language-education account, keeping collaborations and educational aims distinct."
         }
       ],
       "imageRecordId": "c10-cherokee-photo"
-    }
+    },
+    "relatedProfileSlugs": [
+      "cherokee-nation",
+      "united-keetoowah-band-of-cherokee-indians-in-oklahoma",
+      "eastern-band-of-cherokee-indians"
+    ],
+    "studyKeys": [
+      "Cherokee_History_Culture_and_Living_Nations"
+    ],
+    "researchLeads": [
+      {
+        "url": "https://www.bia.gov/guide/tracing-american-indian-and-alaska-native-aian-ancestry",
+        "title": "Bureau of Indian Affairs. Tracing American Indian and Alaska Native Ancestry.",
+        "suppliedAnnotation": "[1] Bureau of Indian Affairs. Tracing American Indian and Alaska Native Ancestry.\nFederal reference guide. Identifies the three federally recognized Cherokee tribes and explains the difference between ancestry documentation and tribal citizenship.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://researchguides.wcu.edu/CherokeeStudies/intro",
+        "title": "Western Carolina University Hunter Library. Cherokee Native American and Indigenous Studies Introduction to the Field.",
+        "suppliedAnnotation": "[2] Western Carolina University Hunter Library. Cherokee Native American and Indigenous Studies Introduction to the Field.\nUniversity research guide. Useful for the southern Appalachian setting, ancestral societies and the importance of local and regional differences.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://researchguides.wcu.edu/missarch/local",
+        "title": "Western Carolina University Hunter Library. Mississippian Period Archaeology Local Mounds and WCU Archaeology.",
+        "suppliedAnnotation": "[3] Western Carolina University Hunter Library. Mississippian Period Archaeology Local Mounds and WCU Archaeology.\nUniversity archaeological guide. Summarizes evidence from Kituwah, Nikwasi and other ancestral places, with references to specialist research.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.dncr.nc.gov/blog/2024/01/23/kituwah-q-57",
+        "title": "North Carolina Department of Natural and Cultural Resources. Kituwah Q 57.",
+        "suppliedAnnotation": "[4] North Carolina Department of Natural and Cultural Resources. Kituwah Q 57.\nHistorical marker essay, 2024. Explains the mother town, sacred fire, destruction in 1761 and recovery of the site in 1996.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://floridapress.org/9780813061719/deconstructing-the-cherokee-nation/",
+        "title": "Tyler Boulware and University Press of Florida. Deconstructing the Cherokee Nation.",
+        "suppliedAnnotation": "[5] Tyler Boulware and University Press of Florida. Deconstructing the Cherokee Nation.\nScholarly book, first published 2011; linked paperback record dated 2015. Publisher overview of town, region and national identity. The link is not open full text.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://americanindian.si.edu/nk360/removal-cherokee/early-history.html",
+        "title": "National Museum of the American Indian. Early History and Cherokee Removal.",
+        "suppliedAnnotation": "[6] National Museum of the American Indian. Early History and Cherokee Removal.\nSmithsonian educational synthesis. Supports the discussion of matrilineal households, independent towns, agriculture and diplomacy.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.nebraskapress.unl.edu/bison-books/9780803287600/cherokee-women/",
+        "title": "Theda Perdue and University of Nebraska Press. Cherokee Women Gender and Culture Change 1700 to 1835.",
+        "suppliedAnnotation": "[7] Theda Perdue and University of Nebraska Press. Cherokee Women Gender and Culture Change 1700 to 1835.\nScholarly book, first published 1998; linked paperback record dated 1999. Publisher overview emphasizes women as historical actors and the persistence of gender traditions. Not open full text.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://teachingamericanhistory.org/document/petitions-of-cherokee-women/",
+        "title": "Cherokee women with editorial introduction by Jace Weaver. Petitions of Cherokee Women.",
+        "suppliedAnnotation": "[8] Cherokee women with editorial introduction by Jace Weaver. Petitions of Cherokee Women.\nPrimary texts from 1817, 1818 and 1831, presented by Teaching American History. Evidence of women opposing land cessions and removal.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://cherokee.gov/about-the-nation/frequently-asked-questions/culture/",
+        "title": "Cherokee Nation. Culture Frequently Asked Questions.",
+        "suppliedAnnotation": "[9] Cherokee Nation. Culture Frequently Asked Questions.\nTribal explanation of clans, clothing, food, games, Christianity and the privacy of ceremonial knowledge. Describes cultural practice rather than prescribing one identity.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://lammuseum.wfu.edu/2023/11/cherokee-basket/",
+        "title": "Timothy S Y Lam Museum of Anthropology Wake Forest University. Cherokee Basket.",
+        "suppliedAnnotation": "[10] Timothy S Y Lam Museum of Anthropology Wake Forest University. Cherokee Basket.\nMuseum object study, 2023. Documents Eastern Band basket maker Emma Squirrel Taylor, her materials, training and work.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://cherokee.gov/about-the-nation/culture/",
+        "title": "Cherokee Nation. Culture.",
+        "suppliedAnnotation": "[11] Cherokee Nation. Culture.\nTribal statement updated August 2026. Explains cultural variation among individuals, families and places and the limits on public access to ceremonies.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.scencyclopedia.org/sce/entries/deerskin-trade/",
+        "title": "Mark D Groover. Deerskin Trade.",
+        "suppliedAnnotation": "[12] Mark D Groover. Deerskin Trade.\nSouth Carolina Encyclopedia, University of South Carolina Institute for Southern Studies. Scholarly account of manufactured goods, credit, hunting and land loss.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/english-trade-in-deerskins-and-enslaved-indians/",
+        "title": "Robbie Ethridge. English Trade in Deerskins and Enslaved Indians.",
+        "suppliedAnnotation": "[13] Robbie Ethridge. English Trade in Deerskins and Enslaved Indians.\nNew Georgia Encyclopedia. Scholarly interpretation of colonial trade, captive taking and the reorganization of southeastern Native societies.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.scencyclopedia.org/sce/entries/cherokee-war-1759-1761/",
+        "title": "Alexander Moore. Cherokee War 1759 to 1761.",
+        "suppliedAnnotation": "[14] Alexander Moore. Cherokee War 1759 to 1761.\nSouth Carolina Encyclopedia. Scholarly account of the collapse of the British alliance, hostage taking and destructive military campaigns.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20%28SHPO%29/Research/Greer2017_Report.pdf",
+        "title": "Sheldon Owens and Charlie Philips. City of Greer Historic Resources Survey.",
+        "suppliedAnnotation": "[15] Sheldon Owens and Charlie Philips. City of Greer Historic Resources Survey.\nHistorical resources report, 2017, hosted by the South Carolina Department of Archives and History. Regional background discusses the 1738 smallpox epidemic.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/cherokee-indians/",
+        "title": "Tyler Boulware. Cherokee Indians.",
+        "suppliedAnnotation": "[16] Tyler Boulware. Cherokee Indians.\nNew Georgia Encyclopedia. Scholarly survey of regional communities, imperial conflict, the Revolution and nineteenth century political change.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.nps.gov/chch/learn/news/draggingcanoe2018.htm",
+        "title": "National Park Service. Cherokee Napoleon Dragging Canoe Tsiyu Gansini.",
+        "suppliedAnnotation": "[17] National Park Service. Cherokee Napoleon Dragging Canoe Tsiyu Gansini.\nHistorical program description, 2018. Identifies Dragging Canoe as a Cherokee resistance leader and explains the Chickamauga connection.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.ukb-nsn.gov/about-us",
+        "title": "United Keetoowah Band of Cherokee Indians in Oklahoma. About Us.",
+        "suppliedAnnotation": "[18] United Keetoowah Band of Cherokee Indians in Oklahoma. About Us.\nTribal account of Keetoowah identity, ancestral homelands, western migration and language.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.wcu.edu/library/DigitalCollections/CherokeePhoenix/Vol1/no01/constitution-of-the-cherokee-nation-page-1-column-2a-page-2-column-3a.html",
+        "title": "Cherokee National Convention and Cherokee Phoenix. Constitution of the Cherokee Nation.",
+        "suppliedAnnotation": "[19] Cherokee National Convention and Cherokee Phoenix. Constitution of the Cherokee Nation.\nPrimary text adopted in July 1827 and printed February 21, 1828. Western Carolina University transcription preserves the newspaper context.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/sequoyah-ca-1770-ca-1840/",
+        "title": "Ted Wadley. Sequoyah.",
+        "suppliedAnnotation": "[20] Ted Wadley. Sequoyah.\nNew Georgia Encyclopedia. Historical overview of the syllabary and its adoption.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://loc.gov/exhibits/creating-the-united-states/constitution-legacy.html",
+        "title": "Library of Congress. Constitution Legacy.",
+        "suppliedAnnotation": "[21] Library of Congress. Constitution Legacy.\nExhibition and primary newspaper images. Includes a March 1828 Cherokee Phoenix issue and explains the newspaper audiences.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://guides.loc.gov/indian-removal-act/",
+        "title": "Library of Congress. Indian Removal Act Primary Documents in American History.",
+        "suppliedAnnotation": "[22] Library of Congress. Indian Removal Act Primary Documents in American History.\nArchival research guide. Establishes the date and scope of the 1830 act and links to maps, letters and removal orders.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.digitalhistory.uh.edu/disp_textbook_print.cfm?psid=3922&smtid=3",
+        "title": "United States Supreme Court through University of Houston Digital History. Worcester v Georgia.",
+        "suppliedAnnotation": "[23] United States Supreme Court through University of Houston Digital History. Worcester v Georgia.\nPrimary judicial opinion, 1832, in edited excerpt. Explains why the Georgia statute conflicted with federal treaties and Cherokee political authority.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://docsteach.org/document/treaty-new-echota/",
+        "title": "United States and Cherokee Treaty Party through DocsTeach. Cherokee Treaty at New Echota Georgia.",
+        "suppliedAnnotation": "[24] United States and Cherokee Treaty Party through DocsTeach. Cherokee Treaty at New Echota Georgia.\nPrimary treaty signed December 29, 1835, with archival introduction and transcription. Records the agreement whose legitimacy Cherokee opponents rejected.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://docsteach.org/document/cherokee-petition-protest-new-echota-treaty/",
+        "title": "Cherokee petitioners through DocsTeach. Cherokee Petition in Protest of the New Echota Treaty.",
+        "suppliedAnnotation": "[25] Cherokee petitioners through DocsTeach. Cherokee Petition in Protest of the New Echota Treaty.\nPrimary petition, 1836. National Archives identifier 2127291. The record identifies 3,352 names and includes signatures in the syllabary.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://dlg.usg.edu/record/dlg_zlna_pam017",
+        "title": "John Ross. Letter on Cherokee Affairs and Protest of the Cherokee Delegation.",
+        "suppliedAnnotation": "[26] John Ross. Letter on Cherokee Affairs and Protest of the Cherokee Delegation.\nPrimary printed letter dated July 2, 1836, with a June 1836 protest. Digital Library of Georgia provides images and a transcription.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://dlg.usg.edu/record/dlg_zlna_pam012",
+        "title": "Elias Boudinot. Documents in Relation to the Validity of the Cherokee Treaty of 1835.",
+        "suppliedAnnotation": "[27] Elias Boudinot. Documents in Relation to the Validity of the Cherokee Treaty of 1835.\nPrimary defense of the Treaty Party position, printed for the United States Senate in 1838. Digital Library of Georgia provides text and images.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://home.nps.gov/articles/000/introduction-transportation-during-the-cherokee-removal-1837-1839.htm",
+        "title": "National Park Service and Middle Tennessee State University Center for Historic Preservation. Transportation During the Cherokee Removal 1837 to 1839 Introduction.",
+        "suppliedAnnotation": "[28] National Park Service and Middle Tennessee State University Center for Historic Preservation. Transportation During the Cherokee Removal 1837 to 1839 Introduction.\nResearch based synthesis, 2021. Documents detention depots and the use of roads, boats, wagons and some railroad transport.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.teachinghistory.org/history-content/ask-a-historian/a-trail-of-4000-tears/",
+        "title": "TeachingHistory and George Mason University Roy Rosenzweig Center for History and New Media. A Trail of 4000 Tears.",
+        "suppliedAnnotation": "[29] TeachingHistory and George Mason University Roy Rosenzweig Center for History and New Media. A Trail of 4000 Tears.\nHistorical explanation distinguishing deaths in detention, during travel and after arrival. Includes a later recollection by survivor Rebecca Neugin.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://cherokee.gov/about-the-nation/history/",
+        "title": "Cherokee Nation. History.",
+        "suppliedAnnotation": "[30] Cherokee Nation. History.\nOfficial tribal history. Especially useful for western rebuilding, constitutional continuity, twentieth century government and the 2021 reservation decision.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.dncr.nc.gov/blog/2024/01/23/yonaguska-ca-1760-1839-q-12",
+        "title": "North Carolina Department of Natural and Cultural Resources. Yonaguska ca 1760 to 1839 Q 12.",
+        "suppliedAnnotation": "[31] North Carolina Department of Natural and Cultural Resources. Yonaguska ca 1760 to 1839 Q 12.\nHistorical marker essay, 2024. Explains the Oconaluftee community, resistance to removal and the relationship with William Holland Thomas.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.ebci.gov/government/",
+        "title": "Eastern Band of Cherokee Indians. Government.",
+        "suppliedAnnotation": "[32] Eastern Band of Cherokee Indians. Government.\nOfficial description of the Eastern Band as a self-governing nation based in North Carolina.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.okhistory.org/publications/enc/entry?entry=CH018",
+        "title": "Brad Agnew. Cherokee Male and Female Seminaries.",
+        "suppliedAnnotation": "[33] Brad Agnew. Cherokee Male and Female Seminaries.\nEncyclopedia of Oklahoma History and Culture. Explains the tribal schools founded in 1851, academic ambitions and class differences.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.okhistory.org/publications/enc/entry?entry=CI011",
+        "title": "Oklahoma Historical Society. Civil War Era.",
+        "suppliedAnnotation": "[34] Oklahoma Historical Society. Civil War Era.\nHistorical synthesis of the Five Tribes during the war. Used for military pressure, slavery, rival alliances and destruction, with ancestry labels treated critically.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://uncpress.org/9798890880765/african-cherokees-in-indian-territory/",
+        "title": "Celia E Naylor and University of North Carolina Press. African Cherokees in Indian Territory From Chattel to Citizens.",
+        "suppliedAnnotation": "[35] Celia E Naylor and University of North Carolina Press. African Cherokees in Indian Territory From Chattel to Citizens.\nScholarly book, linked edition dated 2009. Publisher overview discusses enslaved and free African Cherokees, kinship and citizenship. Not open full text.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/STATUTE-14/pdf/STATUTE-14-Pg799.pdf",
+        "title": "United States and Cherokee Nation. Treaty with the Cherokee Indians July 19 1866.",
+        "suppliedAnnotation": "[36] United States and Cherokee Nation. Treaty with the Cherokee Indians July 19 1866.\nPrimary treaty in the United States Statutes at Large, volume 14, beginning on page 799. Article IX addresses emancipation and Freedmen rights.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://narf.org/nill/bulletins/federal/documents/cherokee_v_nash.html",
+        "title": "United States District Court for the District of Columbia through Native American Rights Fund. Cherokee Nation v Nash.",
+        "suppliedAnnotation": "[37] United States District Court for the District of Columbia through Native American Rights Fund. Cherokee Nation v Nash.\nPrimary judicial opinion, 2017. Interprets the 1866 treaty and the citizenship rights of qualifying Freedmen descendants.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://files.gao.gov/reports/GAO-26-107118/index.html",
+        "title": "United States Government Accountability Office. Tribal Programs Information on Freedmen Descendants of the Five Tribes.",
+        "suppliedAnnotation": "[38] United States Government Accountability Office. Tribal Programs Information on Freedmen Descendants of the Five Tribes.\nGAO 26 107118, publicly released January 14, 2026. Summarizes Cherokee citizenship decisions and documents barriers to services.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.okhistory.org/learn/opening6",
+        "title": "Oklahoma Historical Society. The Dawes Commission and the Allotment of the Five Tribes.",
+        "suppliedAnnotation": "[39] Oklahoma Historical Society. The Dawes Commission and the Allotment of the Five Tribes.\nHistorical explanation of the initial exemption from the 1887 act, the Dawes Commission and the coercive Curtis Act of 1898.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.ccs-nc.org/apps/pages/index.jsp?uREC_ID=373900&type=d&pREC_ID=851868",
+        "title": "Cherokee Central Schools. History of Cherokee Central Schools.",
+        "suppliedAnnotation": "[40] Cherokee Central Schools. History of Cherokee Central Schools.\nInstitutional history of schooling on the Qualla Boundary, federal operation and the transition to tribal operation in 1990.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.ukb-nsn.gov/post/on-this-day-in-history-ukb-ratifies-constitution-bylaws",
+        "title": "United Keetoowah Band of Cherokee Indians in Oklahoma. On This Day in History UKB Ratifies Constitution and Bylaws.",
+        "suppliedAnnotation": "[41] United Keetoowah Band of Cherokee Indians in Oklahoma. On This Day in History UKB Ratifies Constitution and Bylaws.\nTribal historical account, 2019. Establishes congressional recognition in 1946 and ratification of the constitution in 1950.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://plainshumanities.unl.edu/encyclopedia/doc/egp.na.062.html",
+        "title": "University of Nebraska Lincoln Encyclopedia of the Great Plains. Mankiller Wilma.",
+        "suppliedAnnotation": "[42] University of Nebraska Lincoln Encyclopedia of the Great Plains. Mankiller Wilma.\nBiographical entry used for her move to California, community organizing and succession as principal chief in 1985 followed by election in 1987.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://language.cherokee.gov/language-programs/cherokee-language-immersion-school/",
+        "title": "Cherokee Nation. Cherokee Language Immersion School.",
+        "suppliedAnnotation": "[43] Cherokee Nation. Cherokee Language Immersion School.\nOfficial program description updated October 2026. Documents instruction in Cherokee and the school program that began in 2001.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.ebci.gov/department-of-education/",
+        "title": "Eastern Band of Cherokee Indians. Department of Education.",
+        "suppliedAnnotation": "[44] Eastern Band of Cherokee Indians. Department of Education.\nOfficial descriptions of New Kituwah Academy and the Kituwah Preservation and Education Program, including adult learning and intertribal cooperation.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.tshaonline.org/handbook/entries/cherokee-indians",
+        "title": "Carol A Lipscomb. Cherokee Indians.",
+        "suppliedAnnotation": "[45] Carol A Lipscomb. Cherokee Indians.\nHandbook of Texas Online, Texas State Historical Association. Documents Cherokee migration to Texas and expulsion in 1839.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.nps.gov/fosm/learn/historyculture/cherokee-round-up.htm",
+        "title": "National Park Service Fort Smith National Historic Site. Cherokee Round Up.",
+        "suppliedAnnotation": "[46] National Park Service Fort Smith National Historic Site. Cherokee Round Up.\nHistorical account identifying the Van Buren administration and the removal operation. Also flags disputed authenticity in a frequently quoted soldier account.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.nps.gov/fosm/learn/historyculture/nunahi-duna-dlo-hilu-i-trail-where-they-cried.htm",
+        "title": "National Park Service Fort Smith National Historic Site. Trail Where They Cried.",
+        "suppliedAnnotation": "[47] National Park Service Fort Smith National Historic Site. Trail Where They Cried.\nHistorical account of Cherokee administration of removal and the different travel routes. Uses a higher estimate for deaths across removal and its aftermath.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.narf.org/nill/bulletins/state/documents/2021/hogner_v_oklahoma.html",
+        "title": "Oklahoma Court of Criminal Appeals through Native American Rights Fund. Hogner v State.",
+        "suppliedAnnotation": "[48] Oklahoma Court of Criminal Appeals through Native American Rights Fund. Hogner v State.\nPrimary judicial opinion dated March 11, 2021. Applies the reservation analysis from McGirt to Cherokee Nation and finds the reservation was not disestablished.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://cherokee.gov/about-the-nation/frequently-asked-questions/common-questions/",
+        "title": "Cherokee Nation. Common Questions.",
+        "suppliedAnnotation": "[49] Cherokee Nation. Common Questions.\nOfficial explanation of the three federally recognized Cherokee tribes, citizenship, public services and the continuing reservation.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      },
+      {
+        "url": "https://www.cherokee.org/media/13znqfcu/biennial-report-on-the-state-of-cherokee-language-2025_final.pdf",
+        "title": "Cherokee Nation. Biennial Report on the State of Cherokee Language 2025.",
+        "suppliedAnnotation": "[50] Cherokee Nation. Biennial Report on the State of Cherokee Language 2025.\nTribal language report with historical research appendices. Includes evidence of coercive English instruction and modern language work. Historical appendix passages describe the periods in which they were written.",
+        "extractedFrom": [
+          "document text",
+          "hyperlink relationship"
+        ],
+        "documentKey": "Cherokee_History_Culture_and_Living_Nations",
+        "documentTitle": "Cherokee History Culture and Living Nations",
+        "contextNote": "Owner-supplied reading-lead compilation on broader Cherokee history, women and towns, language and education, removal, slavery and Freedmen history, and living Cherokee institutions. Cherokee Nation, Eastern Band of Cherokee Indians and United Keetoowah Band are discussed as separately named governments, not interchangeable with the broader people. These 50 exact URLs and their supplied annotations are contributed leads, not 50 independently verified sources or full-book reviews. Publisher descriptions, indexes, archival introductions, edited excerpts and abstracts remain distinct from inspected original content. Source-specific dates, current legal or citizenship claims, quantitative estimates and media rights require separate review. The private full attachment is not reproduced.",
+        "addedAt": "2026-11-02",
+        "reviewStatus": "Awaiting original-source review"
+      }
+    ]
   },
   {
     "originalId": 52,
@@ -113574,6 +114444,76 @@
         }
       ],
       "imageRecordId": "va183-manahoac-rapidan-germanna-2011"
+    }
+  },
+  {
+    "name": "Eastern Band of Cherokee Indians",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-02",
+    "kind": "Named tribal government / community",
+    "region": "North Carolina / Cherokee",
+    "overview": "Eastern Band of Cherokee Indians has an individually findable government outline. Detailed history, annotated reading sources and specifically relevant cleared imagery remain queued.",
+    "relationshipNote": "This specifically named government is distinct from Cherokee Nation and the United Keetoowah Band of Cherokee Indians in Oklahoma. The broader Cherokee route is a people-level reading context, not a substitute for the separate governments or a statement about every Cherokee person. Name and narrow office locality are verified here; present citizenship, jurisdiction, territorial boundaries and historical descent require separate evidence.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sources": [],
+    "sections": [],
+    "identityVerifiedAt": "2026-11-02",
+    "identificationEvidence": [
+      {
+        "url": "https://www.ebci.gov/government/",
+        "title": "Government — Eastern Band of Cherokee Indians",
+        "author": "Eastern Band of Cherokee Indians; individual page writer not stated",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "publicationDate": "Undated government page; navigation/biography dates are not page publication date",
+        "reviewedAt": "2026-11-02",
+        "identityOnly": true,
+        "countsTowardMinimum": false,
+        "scope": "Actual exact-name heading and selected government/self-location clauses, web-reader lines 91–95: names the Eastern Band of Cherokee Indians, describes its own government and identifies Cherokee, North Carolina. Official contact town independently appears at lines 135–137. Only narrow name/kind/location used.",
+        "accessNotes": "Normal web-reader actual body and one normal HTTPS200 private HTML cache. Historical division/removal explanation, Chief/officeholder biographies, current totals, membership, legal powers, territory, political-history conclusions and media excluded. No history or image licence is established by this identity check."
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+        "title": "Indian Entities Recognized by and Eligible To Receive Services From the United States Bureau of Indian Affairs — January 30, 2026",
+        "author": "Bureau of Indian Affairs, U.S. Department of the Interior",
+        "publisher": "Bureau of Indian Affairs / Federal Register, 91 FR 4102–4106, document 2026-01899",
+        "publicationDate": "2026-01-30",
+        "reviewedAt": "2026-11-02",
+        "identityOnly": true,
+        "countsTowardMinimum": false,
+        "scope": "Printed p.4103 / physical PDF p.2, exact listed entity name Eastern Band of Cherokee Indians (reader line341). The same page separately lists Cherokee Nation; printed4105/PDF4 separately lists United Keetoowah Band of Cherokee Indians in Oklahoma. Only name inventory and entity distinction selected.",
+        "accessNotes": "Normal web-reader exact notice text and one normal HTTPS200 five-page PDF cache. Not a substantive historical work, current legal advice, recognition-process review, membership/eligibility determination, boundary or assessment of every Cherokee-named organization. Other list entries and unrelated preceding notice not adopted."
+      }
+    ],
+    "searchTerms": [
+      "EBCI",
+      "Eastern Band of Cherokee Indians (North Carolina)"
+    ],
+    "relatedOriginalIds": [
+      51
+    ],
+    "relatedProfileSlugs": [
+      "cherokee-nation",
+      "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
+    ],
+    "communityReview": "Not recorded",
+    "researchGaps": [
+      "Develop a government-specific, community-directed history and annotated reading path; identification evidence is not a substantive bibliography.",
+      "Find and inspect specifically relevant imagery and exact item-specific reuse terms before any substantive guide publication.",
+      "Review detailed relationships and historical naming separately; no present ancestry, membership, territorial or legal-power determination is supplied."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only government outline. No substantive source/section review or image clearance represented.",
+      "remainingLimits": [
+        "Develop a government-specific, community-directed history and annotated reading path; identification evidence is not a substantive bibliography.",
+        "Find and inspect specifically relevant imagery and exact item-specific reuse terms before any substantive guide publication.",
+        "Review detailed relationships and historical naming separately; no present ancestry, membership, territorial or legal-power determination is supplied."
+      ]
     }
   }
 ]

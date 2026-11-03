@@ -5412,16 +5412,16 @@
     "slug": "cherokee",
     "priorityGroup": "Later alphabetical research",
     "depth": "Source guide",
-    "listedSources": 6,
-    "suggestedReadingLinks": 0,
-    "recordedContentChecks": 3,
-    "supportingContentChecks": 2,
+    "listedSources": 11,
+    "suggestedReadingLinks": 50,
+    "recordedContentChecks": 7,
+    "supportingContentChecks": 3,
     "minimumSources": 12,
     "sourceThresholdIsHistorical": true,
     "fixedMinimumRequired": false,
     "startingGuide": {
       "batchId": "starter-guides-10",
-      "reviewedAt": "2026-10-28",
+      "reviewedAt": "2026-11-02",
       "status": "curated-starting-path-reviewed",
       "fixedSourceMinimum": null,
       "researchComplete": false,
@@ -5438,6 +5438,10 @@
         {
           "sourceId": "p10-cherokee-ukb-museum",
           "reason": "Compare a separately named government’s public cultural institution."
+        },
+        {
+          "sourceId": "c186-ebci-education",
+          "reason": "Add the Eastern Band’s own language-education account, keeping collaborations and educational aims distinct."
         }
       ],
       "imageRecordId": "c10-cherokee-photo"
@@ -5446,19 +5450,29 @@
     "sourceTarget": 12,
     "initialAdequacy": {
       "status": "Still unfinished",
-      "reviewedAt": "2026-10-28",
+      "reviewedAt": "2026-11-02",
       "rationale": "A bounded actual-content starting path and specifically scoped credited picture are available. Fuller history, source comparison and community review remain open; quantity does not establish completion.",
       "remainingLimits": [
         "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
         "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
-        "Original treaty/court records, family histories and actual language lessons require their own review."
+        "Original treaty/court records, family histories and actual language lessons require their own review.",
+        "Eastern Band education has been reviewed through selected institutional descriptions, not lessons, recordings, learner assessments, services or current programme conditions.",
+        "The women’s petitions were read as edited web transcriptions; original manuscripts and the cited source-book pages remain uninspected.",
+        "The named basketmaker account is museum interpretation; underlying oral histories, object provenance and image/design permissions remain separate.",
+        "African-Cherokee enslavement and Freedpeople histories require substantive source review. The supplied Naylor book and its displayed preview descriptions were not read as book content.",
+        "The existing 2008 Capitol photograph depicts one Cherokee Nation government-building setting, not an Eastern Band school, the artist or a historical petition."
       ]
     },
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-02",
     "remainingGaps": [
       "Read Eastern Band and other individual community publications rather than treating one institutional account as all Cherokee history.",
       "Legacy umbraco history remains unread after expired-certificate failure; the FAQ and language directory are supporting navigation, not extra substantive works.",
-      "Original treaty/court records, family histories and actual language lessons require their own review."
+      "Original treaty/court records, family histories and actual language lessons require their own review.",
+      "Eastern Band education has been reviewed through selected institutional descriptions, not lessons, recordings, learner assessments, services or current programme conditions.",
+      "The women’s petitions were read as edited web transcriptions; original manuscripts and the cited source-book pages remain uninspected.",
+      "The named basketmaker account is museum interpretation; underlying oral histories, object provenance and image/design permissions remain separate.",
+      "African-Cherokee enslavement and Freedpeople histories require substantive source review. The supplied Naylor book and its displayed preview descriptions were not read as book content.",
+      "The existing 2008 Capitol photograph depicts one Cherokee Nation government-building setting, not an Eastern Band school, the artist or a historical petition."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
@@ -9407,6 +9421,41 @@
       "Add dated community publications and selected original historical records beyond institutional introductory pages.",
       "Review linguistic scholarship and teaching materials separately; do not infer disappearance from language change.",
       "Inspect recognition-related primary decisions separately before making current legal statements, with other relevant community perspectives clearly distinguished."
+    ],
+    "communityReview": "Not recorded",
+    "researchComplete": false
+  },
+  {
+    "originalId": null,
+    "name": "Eastern Band of Cherokee Indians",
+    "slug": "eastern-band-of-cherokee-indians",
+    "priorityGroup": "Later alphabetical research",
+    "depth": "Queued for research",
+    "listedSources": 0,
+    "suggestedReadingLinks": 0,
+    "recordedContentChecks": 0,
+    "supportingContentChecks": 0,
+    "minimumSources": 12,
+    "sourceThresholdIsHistorical": true,
+    "fixedMinimumRequired": false,
+    "startingGuide": null,
+    "sourceMinimumReached": false,
+    "sourceTarget": 12,
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Identity-only government outline. No substantive source/section review or image clearance represented.",
+      "remainingLimits": [
+        "Develop a government-specific, community-directed history and annotated reading path; identification evidence is not a substantive bibliography.",
+        "Find and inspect specifically relevant imagery and exact item-specific reuse terms before any substantive guide publication.",
+        "Review detailed relationships and historical naming separately; no present ancestry, membership, territorial or legal-power determination is supplied."
+      ]
+    },
+    "reviewedAt": null,
+    "remainingGaps": [
+      "Develop a government-specific, community-directed history and annotated reading path; identification evidence is not a substantive bibliography.",
+      "Find and inspect specifically relevant imagery and exact item-specific reuse terms before any substantive guide publication.",
+      "Review detailed relationships and historical naming separately; no present ancestry, membership, territorial or legal-power determination is supplied."
     ],
     "communityReview": "Not recorded",
     "researchComplete": false
