@@ -1,6 +1,6 @@
 {
   "title": "Robey’s Atlas — Historical map room",
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-11-04",
   "scope": "Authentic archival map records. Historical map viewpoints are not current Indigenous boundaries. Link-only records distinguish uninspected images and metadata-only leads.",
   "maps": [
     {
@@ -1011,6 +1011,75 @@
         "recordRead": true,
         "imageViewed": false,
         "scope": "Read actual item catalogue Title, Creator, Johnson's Bibliographic Reference, Source Document Title, Creation Date, and Description. Creator field is empty. No image or linked source document inspected."
+      },
+      "profileLinks": []
+    },
+    {
+      "id": "historical-smith-virginia-1624-ev",
+      "title": "John Smith map of Virginia: 1624 publication",
+      "creator": "William Hole, based on John Smith's description (Encyclopedia Virginia attribution)",
+      "dateLabel": "Compiled 1608; 1624 publication of a map first printed in 1612",
+      "year": 1624,
+      "dateNote": "The item metadata separates compilation in 1608 from publication in 1624. The description identifies 1612 as the first printing and 1624 as the version shown; these are not three separately inspected maps.",
+      "archive": "Library of Virginia, presented by Encyclopedia Virginia / Virginia Humanities",
+      "recordUrl": "https://encyclopediavirginia.org/744hpr-24d5af2b9837969/",
+      "viewerUrl": "https://encyclopediavirginia.org/744hpr-24d5af2b9837969/",
+      "credit": "William Hole, based on John Smith's description; Library of Virginia, via Encyclopedia Virginia / Virginia Humanities. External record only.",
+      "rights": {
+        "statement": "No item-specific open image-reuse grant was established in the inspected catalogue text. The image is not reproduced; external record only.",
+        "url": "https://encyclopediavirginia.org/744hpr-24d5af2b9837969/"
+      },
+      "annotation": "Encyclopedia Virginia identifies this as the 1624 publication of Smith's Virginia map, first printed in 1612. Its description discusses Chesapeake geography and a west-up orientation. This is a colonial cartographic perspective, not a determination of present community boundaries. The map image and its individual labels have not been inspected in this review.",
+      "perspective": "English colonial cartography",
+      "regions": [
+        "Virginia",
+        "Chesapeake"
+      ],
+      "subjects": [
+        "Historical cartography",
+        "Colonial Virginia"
+      ],
+      "preview": null,
+      "inspection": {
+        "reviewedAt": "2026-11-04",
+        "recordRead": true,
+        "imageViewed": false,
+        "scope": "Actual item text read for credit, attributed maker, compilation/publication dates, medium, first-print/version distinction and stated orientation. No image, larger scan, linked Library of Virginia record, source book or individual map labels inspected. No reproduction permission established."
+      },
+      "profileLinks": []
+    },
+    {
+      "id": "historical-evans-bucks-county-1737-1738-cwf",
+      "title": "Bucks County Walking Purchase map: museum catalogue record",
+      "historicalTitle": "A Map of that Part of BUCKS COUNTY released by the Indians to the Proprietaries of Pensilvania in September 1737 (Walking Purchase Map)",
+      "creator": "Lewis Evans, ca. 1700–1756 (museum catalogue attribution)",
+      "dateLabel": "1737–1738 (museum catalogue date)",
+      "year": 1737,
+      "dateNote": "The museum supplies a 1737–1738 date range. The historical title is quoted as an archival title, not adopted as a finding that the described release was valid or consensual.",
+      "archive": "Colonial Williamsburg Foundation eMuseum",
+      "recordUrl": "https://emuseum.colonialwilliamsburg.org/objects/79795/a-map-of-that-part-of-bucks-county-released-by-the-indians-t",
+      "viewerUrl": "https://emuseum.colonialwilliamsburg.org/objects/79795/a-map-of-that-part-of-bucks-county-released-by-the-indians-t",
+      "credit": "Colonial Williamsburg Foundation, object 2006-122; Museum Purchase. External catalogue record only.",
+      "rights": {
+        "statement": "The catalogue displays Copyright © The Colonial Williamsburg Foundation. No open image-reuse grant was established; no image is reproduced.",
+        "url": "https://emuseum.colonialwilliamsburg.org/objects/79795/a-map-of-that-part-of-bucks-county-released-by-the-indians-t"
+      },
+      "annotation": "The museum attributes this ink-and-watercolor manuscript on laid paper to Lewis Evans and catalogues it as a Bucks County map dated 1737–1738. Object 2006-122 is listed as a museum purchase. The historical title reflects a colonial property claim; it does not establish present title, consent or community boundaries. The manuscript image and offered image views remain uninspected.",
+      "perspective": "Colonial land-claim cartography",
+      "regions": [
+        "Pennsylvania",
+        "Bucks County"
+      ],
+      "subjects": [
+        "Historical cartography",
+        "Walking Purchase"
+      ],
+      "preview": null,
+      "inspection": {
+        "reviewedAt": "2026-11-04",
+        "recordRead": true,
+        "imageViewed": false,
+        "scope": "Root actually read selected original museum catalogue title, date, attributed maker, place, medium, credit, object number, provenance and copyright fields. This proposal compares the saved root-received proof; it does not claim a separate fresh original-body review. Historical narrative-label claims and date/leader ambiguities were excluded. No offered images, manuscript, precise labels or image rights cleared."
       },
       "profileLinks": []
     }

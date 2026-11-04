@@ -158,9 +158,10 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
   const seen=new Set(latestPublished.documents.map(d=>d.key));
   for(const d of added){
    assert(!seen.has(d.key),'No duplicate owner-study key');seen.add(d.key);
-   assert(d.links.length&&d.originalIds?.length,'Appended study has a bibliography and reviewed directory route');
-   for(const id of d.originalIds){
-    const p=profiles.find(p=>p.originalId===id);assert(p,'Study directory target exists');
+   const targets=[...(d.originalIds||[]).map(id=>profiles.find(p=>p.originalId===id)),...(d.profileSlugs||[]).map(slug=>profiles.find(p=>p.slug===slug))];
+   assert(d.links.length&&targets.length,'Appended study has a bibliography and reviewed directory route');
+   assert(targets.every(Boolean),'Every declared study directory target exists');
+   for(const p of new Map(targets.map(p=>[p.slug,p])).values()){
     assert(d.links.every(s=>p.researchLeads?.some(t=>t.documentKey===d.key&&t.url===s.url)),'Every new study URL is routed to its directory entry');
    }
    assert(d.links.every(s=>s.documentKey===d.key&&s.reviewStatus==='Awaiting original-source review'&&!s.contentReviewedAt),'Extraction does not imply content review');
