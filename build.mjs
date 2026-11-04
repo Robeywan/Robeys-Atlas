@@ -212,6 +212,7 @@ write('data/word-documents-193-20261103.json',fs.readFileSync(path.join(cwd,'res
 write('data/virginia-renewed-194-20261103.json',fs.readFileSync(path.join(cwd,'research/virginia-renewed-194-20261103.json'),'utf8'));
 write('data/inuit-document-195-20261103.json',fs.readFileSync(path.join(cwd,'research/inuit-document-195-20261103.json'),'utf8'));
 write('data/virginia-return-next-196-20261103.json',fs.readFileSync(path.join(cwd,'research/virginia-return-next-196-20261103.json'),'utf8'));
+write('data/virginia-community-depth-197-20261103.json',fs.readFileSync(path.join(cwd,'research/virginia-community-depth-197-20261103.json'),'utf8'));
 write('data/virginia-round-184-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-round-184-20261102.json'),'utf8'));
 write('data/virginia-guide-182-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-182-20261102.json'),'utf8'));
 write('data/virginia-guide-181-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-181-20261102.json'),'utf8'));
