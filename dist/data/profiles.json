@@ -100341,14 +100341,88 @@
     "compiledAt": "2026-11-03",
     "kind": "Historical named community / reading label",
     "region": "Historical lower James River context, Virginia",
-    "overview": "Quiyoughcohannock is a historical name recorded in the National Park Service’s lower James River guide for the early 1600s. Detailed history, reading sources and individually relevant imagery remain queued.",
+    "overview": "This historical Quiyoughcohannock reading guide compares selected NPS and heritage-nomination accounts of early English encounters, food exchange and settlement pressure. The accounts are mediated through colonial records; they do not establish a current government, present ancestry or a complete community history.",
     "relationshipNote": "This source-specific historical community label does not establish a present government, membership or ancestry. Shared river context is not proof of a modern affiliation or a fixed territory. Variant spellings and relationships to other communities require separate review.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "reviewed-starting-guide",
+    "sources": [
+      {
+        "id": "va198-quiyoughcohannock-nps-encounters",
+        "title": "Lower James River pocket guide — selected Chippokes encounter account",
+        "url": "https://www.nps.gov/cajo/planyourvisit/upload/James-River-Pocket-Guide-508-2.pdf",
+        "author": "National Park Service; no individual narrative byline established",
+        "publisher": "U.S. Department of the Interior, National Park Service",
+        "type": "Institutional public-history guide",
+        "topics": [
+          "Historical encounters",
+          "Differing perspectives",
+          "Colonial-source criticism"
+        ],
+        "publicationDate": "Undated guide; the May 2007 trail-launch sentence is not its publication date.",
+        "annotation": "A short dedicated passage describes differing responses to English newcomers. The guide already supported this route’s identity check; this extended review adds a separate narrative context, not a globally new work.",
+        "accessed": "2026-11-04",
+        "contentReviewedAt": "2026-11-04",
+        "contentReviewScope": "Actual two-page PDF: first-page framing 18–24 and selected Chippokes narrative 152–158. Prior naming passage 79–93 remains identity evidence. No whole guide, original map or source-media inspection.",
+        "sourcePerspective": "NPS public interpretation of English encounters; a concise institutional account, not a community-authored history or current-government determination.",
+        "accessNotes": "Normal reader delivered actual two-page body. Exclude site/access directions, precise locations, speculative landscape continuity, original Smith map and colonial records, reconstructions, source photographs and every practical/seasonal/ritual detail. No blanket federal media permission. Identity evidence retains its earlier date/scope unchanged.",
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "nps-lower-james-pocket-guide",
+        "reusedFrom": {
+          "reviewType": "Earlier historical-label identity review",
+          "reviewedAt": "2026-11-03",
+          "sourceAlreadyKnown": true,
+          "earlierUseWasIdentityOnly": true,
+          "newSelectedScope": "Dedicated first-page Chippokes narrative152–158 and introductory source framing18–24; separate selected-content review, not rereview of every guide page."
+        }
+      },
+      {
+        "id": "va198-quiyoughcohannock-dhr-colonial-context",
+        "title": "Mount Pleasant (Architectural and Archaeological Complex) — selected context in the public redacted nomination",
+        "url": "https://www.dhr.virginia.gov/wp-content/uploads/2018/04/090-0015_Mount_Pleasant_2008_VLR_Nomination_REDACTED.pdf",
+        "author": "Nomination preparer not established in the accessible selected form text",
+        "publisher": "Virginia Department of Historic Resources, hosting a National Register nomination",
+        "type": "Public redacted historic-property nomination",
+        "topics": [
+          "Historical food exchanges",
+          "English settlement pressure",
+          "Colonial-source criticism"
+        ],
+        "publicationDate": "Not established. DHR filename labels a 2008 nomination; 2021 scan metadata is not adopted as first publication.",
+        "annotation": "Selected historical discussion interprets early encounters, exchanges and English settlement pressure through colonial accounts. It is a property-history submission, not neutral access to all community perspectives.",
+        "accessed": "2026-11-04",
+        "contentReviewedAt": "2026-11-04",
+        "contentReviewScope": "Actual 26-page public redacted PDF: registration/title 1, form-preparer area 4, selected first historical paragraph on PDF 19/printed Section 8 page 16. Only named leadership, food-exchange clauses and settlement-pressure closing sentence selected.",
+        "sourcePerspective": "Institutional heritage submission summarizing and quoting English colonists; the selected records remain mediated, and their originals were not independently read.",
+        "accessNotes": "Web reader rejected 11, 693, 628-byte file for tool content-length limit, not a security challenge. One ordinary exact public redacted PDF request returned 200; private file SHA256d651b92a6bff151d78e2b3376433f86d2812e5db9f1881dd3055106e0b3fd192. No variants/headers/retries. Exclude precise sites/archaeological remains, objects/maps/photos, ceremonial/medical/funerary detail, Chanco affiliation speculation, colonial superlatives, conflict casualty counts and closing disappearance assertions. No current-government, ancestry, extinction, territory or media-permission conclusion.",
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "dhr-mount-pleasant-public-redacted-nomination"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Different responses to English encounters",
+        "text": "Under its Chippokes heading, the NPS guide describes a leader welcoming English newcomers while others remained wary. It presents different responses within the named community, rather than one shared attitude. This is a short institutional interpretation of colonial encounters, not a description of a present government.",
+        "sourceIds": [
+          "va198-quiyoughcohannock-nps-encounters"
+        ]
+      },
+      {
+        "title": "Food exchanges through colonial accounts",
+        "text": "The nomination’s historical discussion describes encounters with a leader named Pepsicuminah and food exchanges with English newcomers. It draws on Percy and Smith, whose descriptions evaluate relationships from the colonists’ viewpoint. The underlying colonial texts were not inspected here, and these selected quotations cannot represent every community member’s experience.",
+        "sourceIds": [
+          "va198-quiyoughcohannock-dhr-colonial-context"
+        ]
+      },
+      {
+        "title": "Settlement pressure and the limits of the record",
+        "text": "The same discussion links worsening relations with English expansion beyond Jamestown onto the south side of the James. It offers a limited account of settlement pressure changing relationships. Its later disappearance language is not adopted; these selections establish neither present descendants nor a current government or territorial boundary.",
+        "sourceIds": [
+          "va198-quiyoughcohannock-dhr-colonial-context"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-03",
     "identificationEvidence": [
       {
@@ -100369,17 +100443,43 @@
     "relatedProfileSlugs": [],
     "communityReview": "Not recorded",
     "researchGaps": [
-      "Develop a community-directed and critically attributed historical reading collection.",
-      "Review individually relevant imagery and exact reuse terms; no forced image or full-history requirement for this name-only outline.",
-      "Review spelling variants and historical/modern relationships separately; no current-government, ancestry, recognition or extinction conclusion."
+      "Find publicly shared community-directed perspectives and critically edited colonial records beyond these two institutional accounts. Their underlying originals remain unread.",
+      "Historical selections do not determine present descendants,government or territory; disappearance/Chanco/precise archaeological and sensitive claims remain excluded.",
+      "The image is a dated modern regional shoreline; it is not a town,community portrait,boundary,currentconditions or visit invitation. Originalimage and source-report illustrations remain uninspected."
     ],
     "initialAdequacy": {
-      "status": "Not assessed",
-      "reviewedAt": null,
-      "rationale": "Identity-only historical outline proposal with empty bibliography/sections. Identification checks are not substantive history-source review or image clearance.",
+      "status": "Still unfinished",
+      "reviewedAt": "2026-11-04",
+      "rationale": "Two selected institutional works and one specifically associated credited regional image form a starting path; not exhaustive history,independentcommunityendorsement or completedtwentyguidecohort.",
       "remainingLimits": [
-        "History, public cultural interpretation, reading sources and imagery remain queued."
+        "Find publicly shared community-directed perspectives and critically edited colonial records beyond these two institutional accounts. Their underlying originals remain unread.",
+        "Historical selections do not determine present descendants,government or territory; disappearance/Chanco/precise archaeological and sensitive claims remain excluded.",
+        "The image is a dated modern regional shoreline; it is not a town,community portrait,boundary,currentconditions or visit invitation. Originalimage and source-report illustrations remain uninspected."
       ]
+    },
+    "overviewSourceIds": [
+      "va198-quiyoughcohannock-nps-encounters",
+      "va198-quiyoughcohannock-dhr-colonial-context"
+    ],
+    "reviewedAt": "2026-11-04",
+    "startingGuide": {
+      "batchId": "virginia-queued-depth-198-20261104",
+      "reviewedAt": "2026-11-04",
+      "status": "curated-starting-path-reviewed",
+      "researchComplete": false,
+      "fixedSourceMinimum": null,
+      "scopeNote": "A supplementary historical starting guide, not a current government, complete history or twenty-profile cohort.",
+      "sources": [
+        {
+          "sourceId": "va198-quiyoughcohannock-nps-encounters",
+          "reason": "Begin with the short account of differing community responses, keeping its institutional interpretation and English-source framing visible."
+        },
+        {
+          "sourceId": "va198-quiyoughcohannock-dhr-colonial-context",
+          "reason": "Compare the nomination’s exchange and settlement-pressure discussion with the first account, retaining its unestablished preparer/date and colonial mediation."
+        }
+      ],
+      "imageRecordId": "va198-quiyoughcohannock-chippokes-river-2012"
     },
     "slug": "quiyoughcohannock",
     "regionGroups": [
@@ -121822,6 +121922,20 @@
         "sourceIds": [
           "va190-upper-mattaponi-fws-training"
         ]
+      },
+      {
+        "title": "An attributed public perspective on heritage and responsibility",
+        "text": "In his 2008 foreword, Kenneth F. Adams links respect for Virginia Indian history with environmental responsibility and the Creator. Credited as Upper Mattaponi, he argues for a history extending beyond the colonial period. These are his published perspectives, not a uniform community creed.",
+        "sourceIds": [
+          "va198-upper-mattaponi-heritage-voices"
+        ]
+      },
+      {
+        "title": "School and church in a shared institutional history",
+        "text": "The guide’s Upper Mattaponi account describes church services in the one-room school before a church was built in 1942. It connects educational and religious spaces without making church participation a condition of identity. This is a dated 2008 account, not a current worship schedule.",
+        "sourceIds": [
+          "va198-upper-mattaponi-heritage-voices"
+        ]
       }
     ],
     "sources": [
@@ -121931,6 +122045,28 @@
         "sourcePerspective": "USFWS partnership communication by a named author, with attributed Upper Mattaponi institutional statements and individual technician comments. Promotional conservation framing is not independent programme or ecological evaluation.",
         "accessNotes": "Actual normal-reader body readable; optional ordinary cache result recorded privately. The work concerns the Upper Mattaponi Indian Tribe, distinct from the Mattaponi Indian Tribe; the occasional loose Mattaponi abbreviation is not used to merge them. The article identifies Johnathan Oxendine with Haliwa-Saponi and Lane Eubank with Chickahominy; employment is not Upper Mattaponi citizenship or current membership evidence. Roles/affiliations are reported as of 2023 only. Exclude universal/ancient stewardship claims, species/population/health/restoration outcomes, quantities, current legal/recognition/officeholder determinations, exact sites/property/plans, fishing/propagation methods, sensitive/private knowledge, source images and underlying grant/technical records. Planned hatchery, career hopes and asserted benefits are not verified present operations or outcomes. Other 2022 stories, annual-report reuse and alternate/carp URL variants are not counted.",
         "countsTowardMinimum": true
+      },
+      {
+        "id": "va198-upper-mattaponi-heritage-voices",
+        "title": "The Virginia Indian Heritage Trail, second edition — selected foreword and community-history passages",
+        "url": "https://www.virginiahumanities.org/wp-content/uploads/2018/02/VA-Indian-Trail-Guide.pdf",
+        "author": "Kenneth F. Adams (Upper Mattaponi), foreword; Upper Mattaponi community-history page has no individual byline; volume edited by Karenne Wood (Monacan)",
+        "publisher": "Virginia Foundation for the Humanities and Public Policy",
+        "publicationDate": "2008 second edition, printed copyright; the 2018 upload path is not publication date",
+        "type": "Indigenous-authored foreword / contributed community history in edited volume",
+        "topics": [
+          "Public spiritual perspectives",
+          "Historical representation",
+          "Community institutions"
+        ],
+        "annotation": "Selected public perspectives connect historical representation, spiritual responsibility and community institutions; each voice remains attributed and dated.",
+        "accessed": "2026-11-04",
+        "contentReviewedAt": "2026-11-04",
+        "contentReviewScope": "Actual normal-reader title/copyright PDF1–2, acknowledgments PDF4 (tribal history contributors) and contents PDF5; foreword PDF7/printed5 selected lines113–129; Upper Mattaponi institutional paragraph PDF47/printed45, selected church/school clauses1675–1678. Dated public views and institutional history only, not the whole92-page volume.",
+        "sourcePerspective": "Adams’s named 2008 public foreword and a separately presented community-history paragraph. Editorial and chapter authorship remain distinct; neither defines every citizen’s beliefs or current church participation.",
+        "accessNotes": "Normal reader delivered actual92-page PDF text. No direct-byte cache or whole-volume review claimed. Exclude antiquity/population/recognition/territory claims, generalized conversion totals, current offices/calendars/attendance, practical or ceremonial knowledge, maps/artworks/photos/objects and underlying cited histories. Printed copyright reserves reproduction; no book text or image copied as media and no reusable-art permission inferred. The foreword byline is historical, not current officeholder information. One volume/URL/source unit, not one new work per page or edition.",
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "virginia-indian-heritage-trail-second-edition-2008"
       }
     ],
     "identityVerifiedAt": "2026-11-02",
@@ -121969,7 +122105,9 @@
       "The food-and-compost programme account does not establish present distribution schedules, eligibility, yields, food-security or health outcomes, or environmental benefits.",
       "Underlying garden records, compost testing and school/business agreements remain uninspected.",
       "The 2023 agency report describes training and future hatchery goals; underlying curriculum, grant records, later facility operations and ecological or career outcomes remain uninspected.",
-      "Named participants’ separate affiliations and individual perspectives must be retained; the agency’s occasional shortened Mattaponi wording does not merge the two living governments."
+      "Named participants’ separate affiliations and individual perspectives must be retained; the agency’s occasional shortened Mattaponi wording does not merge the two living governments.",
+      "Read further publicly shared Upper Mattaponi perspectives before extending one author’s spiritual interpretation to the community. The edited2008 institutional history does not establish current church roles, participation or schedules.",
+      "The retained2012photo shows the replacement school, not the one-room school or church discussed in the selected history. No source-book image is reused."
     ],
     "initialAdequacy": {
       "status": "Still unfinished",
@@ -121990,7 +122128,7 @@
       "va-coast-upper-school",
       "va-coast-upper-environment"
     ],
-    "reviewedAt": "2026-11-03",
+    "reviewedAt": "2026-11-04",
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
     "startingGuide": {
