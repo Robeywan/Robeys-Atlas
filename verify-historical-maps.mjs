@@ -158,6 +158,14 @@ for(const file of ['data/owner-reading-leads.json','data/region-associations.jso
   const seen=new Set(latestPublished.documents.map(d=>d.key));
   for(const d of added){
    assert(!seen.has(d.key),'No duplicate owner-study key');seen.add(d.key);
+   // Statewide finding aids have no reviewed community route or source credit.
+   if(d.collectionType==='unreviewed-statewide-finding-aid'){
+    assert(d.links.length&&Array.isArray(d.originalIds)&&Array.isArray(d.profileSlugs)&&!d.originalIds.length&&!d.profileSlugs.length,'Statewide finding aids retain empty community associations');
+    assert(d.fullAttachmentPublished===false&&!d.contentReviewedAt&&d.countsTowardMinimum!==true,'A finding aid does not publish its attachment or claim inspected work');
+    assert(!profiles.some(p=>p.researchLeads?.some(s=>s.documentKey===d.key)),'Statewide finding aids are not routed as community-specific sources');
+    assert(d.links.every((s,i)=>s.documentKey===d.key&&s.reviewStatus==='Awaiting original-source review'&&!s.contentReviewedAt&&s.countsTowardMinimum!==true&&s.sourceNumber===i+1),'Finding-aid links retain pending review, no substantive credit and sequential list positions');
+    continue;
+   }
    const targets=[...(d.originalIds||[]).map(id=>profiles.find(p=>p.originalId===id)),...(d.profileSlugs||[]).map(slug=>profiles.find(p=>p.slug===slug))];
    assert(d.links.length&&targets.length,'Appended study has a bibliography and reviewed directory route');
    assert(targets.every(Boolean),'Every declared study directory target exists');
