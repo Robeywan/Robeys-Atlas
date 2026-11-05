@@ -1,6 +1,6 @@
 {
   "title": "Robey’s Atlas — Historical map room",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "scope": "Authentic archival map records. Historical map viewpoints are not current Indigenous boundaries. Link-only records distinguish uninspected images and metadata-only leads.",
   "maps": [
     {
@@ -1080,6 +1080,77 @@
         "recordRead": true,
         "imageViewed": false,
         "scope": "Root actually read selected original museum catalogue title, date, attributed maker, place, medium, credit, object number, provenance and copyright fields. This proposal compares the saved root-received proof; it does not claim a separate fresh original-body review. Historical narrative-label claims and date/leader ambiguities were excluded. No offered images, manuscript, precise labels or image rights cleared."
+      },
+      "profileLinks": []
+    },
+    {
+      "id": "historical-choptank-plat-1782-mayis",
+      "title": "Choptank River land-office plat: featured archival record",
+      "historicalTitle": "The Plat of Indians Land on the Choptank River",
+      "creator": "Surveyor not individually identified in the received archival descriptions",
+      "dateLabel": "April 27, 1782 (archival item date)",
+      "year": 1782,
+      "dateNote": "The featured fragment and its parent certificate record both give April 27, 1782. This is not a first web publication, scan date, or claim that every page in the file shares that date.",
+      "archive": "Maryland State Archives, Mayis Indigenous Records; Dorchester County Land Office records",
+      "recordUrl": "https://mayis.msa.maryland.gov/Pages/documents.html",
+      "viewerUrl": "https://mayis.msa.maryland.gov/Pages/documents.html",
+      "credit": "Maryland State Archives, featured fragment S1219-1083-027 within certificate file S1219-1083. External featured description only; exact scan uninspected.",
+      "rights": {
+        "statement": "No applicable open reuse grant for the exact digital scan was established. The image and its labels are not reproduced; this record links to the archive's featured description.",
+        "url": "https://mayis.msa.maryland.gov/Pages/documents.html"
+      },
+      "annotation": "On the archive’s Featured Documents page, find “The Plat of Indians Land on the Choptank River,” citation S1219-1083-027. Mayis describes it as a plat fragment in a land-office certificate file. The parent file S1219-1083 is separately catalogued as Nanticoke Manor, Vienna Town, Nanticoke Indian Lands. The map image and labels remain uninspected. These administrative descriptions do not establish Indigenous consent, present title, community affiliation or territorial boundaries.",
+      "perspective": "Historical land-office survey record, described by a modern state archive",
+      "regions": [
+        "Maryland",
+        "Choptank River",
+        "Dorchester County"
+      ],
+      "subjects": [
+        "Historical cartography",
+        "Land-office records"
+      ],
+      "preview": null,
+      "inspection": {
+        "reviewedAt": "2026-11-04",
+        "recordRead": true,
+        "imageViewed": false,
+        "scope": "Root actually received the featured individual map description, citation and date in Mayis, plus the offered parent certificate catalogue. A later normal View Item Page interaction returned the same featured directory, not a distinct fragment page. No exact scan, original labels, full survey file, transcriptions, maps, images or item rights were inspected. External record access only."
+      },
+      "profileLinks": []
+    },
+    {
+      "id": "historical-de-brahm-south-carolina-georgia-1757-dlg",
+      "title": "De Brahm map of South Carolina and part of Georgia",
+      "historicalTitle": "A map of South Carolina and a part of Georgia",
+      "creator": "John Gerar William De Brahm",
+      "dateLabel": "1757 (map imprint); 1768 atlas context",
+      "year": 1757,
+      "dateNote": "DLG gives 1757 as the original date and describes an October 20, 1757 Jefferys imprint. The record also places the map in Jefferys’s 1768 atlas. Its several physical copies and their differing color or tint are separately described; the delivered canvases are not assigned here to a particular physical copy.",
+      "archive": "Hargrett Rare Book and Manuscript Library, University of Georgia Libraries; Digital Library of Georgia",
+      "recordUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1757d4",
+      "viewerUrl": "https://dlg.usg.edu/record/guan_hmap_hmap1757d4#item",
+      "credit": "John Gerar William De Brahm. Hargrett Rare Book and Manuscript Library, University of Georgia Libraries, via Digital Library of Georgia, record guan_hmap_hmap1757d4. Short historical title shown; external archive access only.",
+      "rights": {
+        "statement": "The archive manifest supplies No Copyright—United States: the provider believes the item is in the public domain under United States law. Copyright status elsewhere is undetermined. This statement is not a license or warranty, and other rights may apply. No map image is reproduced here.",
+        "url": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+      },
+      "annotation": "This colonial map includes Native-related labels, among them “Catawba Nation” and “Path from the Cherokees,” alongside parishes and claimed property lines. These labels document the mapmaker’s representation of Native places and routes; they do not establish present-day boundaries, land title, community affiliation or Indigenous consent.",
+      "perspective": "Colonial cartography and property claims",
+      "regions": [
+        "South Carolina",
+        "Georgia"
+      ],
+      "subjects": [
+        "Historical cartography",
+        "Colonial representation"
+      ],
+      "preview": null,
+      "inspection": {
+        "reviewedAt": "2026-11-05",
+        "recordRead": true,
+        "imageViewed": true,
+        "scope": "The DLG record, offered manifest and linked rights-statement explanation were read. Three agent reviewers separately viewed both complete archive-delivered JPEG frames at automatically scaled display resolution. Selected Native-related labels were read; fine labels and tables were not exhaustively transcribed. No JP2 master or other physical copies were inspected. External archive access only; no preview is reproduced."
       },
       "profileLinks": []
     }
