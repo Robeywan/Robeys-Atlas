@@ -226,6 +226,7 @@ write('data/virginia-thin-history-207-20261104.json',fs.readFileSync(path.join(c
 write('data/virginia-community-prep-208-20261104.json',fs.readFileSync(path.join(cwd,'research/virginia-community-prep-208-20261104.json'),'utf8'));
 write('data/virginia-tutelo-209-20261104.json',fs.readFileSync(path.join(cwd,'research/virginia-tutelo-209-20261104.json'),'utf8'));
 write('data/lenape-document-210-20261104.json',fs.readFileSync(path.join(cwd,'research/lenape-document-210-20261104.json'),'utf8'));
+write('data/algonquin-kitigan-211-20261104.json',fs.readFileSync(path.join(cwd,'research/algonquin-kitigan-211-20261104.json'),'utf8'));
 write('data/virginia-round-184-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-round-184-20261102.json'),'utf8'));
 write('data/virginia-guide-182-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-182-20261102.json'),'utf8'));
 write('data/virginia-guide-181-20261102.json',fs.readFileSync(path.join(cwd,'research/virginia-guide-181-20261102.json'),'utf8'));
