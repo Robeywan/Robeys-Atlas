@@ -26532,6 +26532,54 @@
       ],
       "dedupNote": "A whole publication226 directory metadata comparison found no exact primary-name or alias match for this name. The broader Piscataway entry remains separately represented, with institutional and historical relationships unresolved. Metadata overlap is not an exhaustive entity-equivalence or novelty finding.",
       "addedAt": "2026-11-07"
+    },
+    {
+      "name": "Piscataway Conoy Tribe",
+      "slug": "piscataway-conoy-tribe",
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://www.piscatawaytribe.org/contact.html",
+          "title": "Contact — Piscataway Conoy Tribe",
+          "publisher": "Piscataway Conoy Tribe (displayed page name)",
+          "reviewedAt": "2026-11-07",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Repeated institutional name and Maryland abbreviation in the displayed addressee block only. Present address or contact accuracy, institutional base, legal/government/recognition status, ancestry, territory, office and services are outside this identification.",
+          "accessNotes": "Name and coarse contact-state only. No prose author or publication date is established from the received scope. Copyright and navigation years are not prose dates. Recognition, enrollment, officeholder, precise-contact, SMS, history and media material is not adopted."
+        }
+      ],
+      "dedupNote": "A whole publication227 metadata comparison found no exact primary-name or alias match for this label. The broader Piscataway and separately named Piscataway Indian Nation entries remain represented with their current evidence. Relations among institutional labels and domains remain unresolved; this is not an exhaustive entity-equivalence or novelty finding.",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "name": "The Conestoga-Susquehannock Tribe",
+      "slug": "the-conestogasusquehannock-tribe",
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://www.conestogasusquehannocktribe.com/",
+          "title": "The Conestoga-Susquehannock Tribe — institutional homepage",
+          "publisher": "The Conestoga-Susquehannock Tribe (displayed site name)",
+          "reviewedAt": "2026-11-07",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Repeated institutional heading/footer name and PA abbreviation in the institutional footer only. No present base or contact accuracy, legal/government/recognition status, ancestry, membership, territory or historical continuity is established.",
+          "accessNotes": "Narrow name and displayed footer-state comparison only. Received prose is undated and lacks a personal byline; crawl/search labels are not publication dates. No history, enrollment, teaching, precise-contact, media or rights content is adopted, and Indigenous publisher control is not established."
+        }
+      ],
+      "dedupNote": "Whole publication227 metadata contains a broader historical Susquehannock entry and existing source cards on this site. This named institutional outline is not automatically equated with that historical people or split from it. Relations remain unresolved; the comparison is not a global novelty or exhaustive entity-equivalence finding.",
+      "addedAt": "2026-11-07"
     }
   ],
   "regionAssociations": [
@@ -32607,6 +32655,36 @@
       "identityOnly": true,
       "countsTowardMinimum": false,
       "inspectionNote": "Retained name/state comparison only. The earlier page delivery and substantive-content scope remain unchanged; no new request, historical account, source-work credit or media approval is supplied."
+    },
+    {
+      "name": "Piscataway Conoy Tribe",
+      "regionId": "US-MD",
+      "associationType": "Displayed contact-state — identity-only navigation",
+      "period": "Undated institutional Contact page; present address/contact accuracy unverified",
+      "sourceUrl": "https://www.piscatawaytribe.org/contact.html",
+      "sourceTitle": "Contact — Piscataway Conoy Tribe",
+      "publisher": "Piscataway Conoy Tribe (displayed page name)",
+      "evidenceNote": "The Contact page repeats this institutional name and includes the Maryland abbreviation in its displayed addressee block. Only state-level navigation is recorded. This does not establish present address or contact accuracy, homeland, territory, jurisdiction, legal status, ancestry or wider affiliation.",
+      "reviewedScope": "Repeated name and Maryland abbreviation only. Recognition, enrollment, officeholders, precise contacts, SMS terms, history and media are excluded.",
+      "reviewDate": "2026-11-07",
+      "identityOnly": true,
+      "countsTowardMinimum": false,
+      "inspectionNote": "Narrow retained name/state comparison only. No historical account, reading-source credit, current contact verification or media approval is supplied."
+    },
+    {
+      "name": "The Conestoga-Susquehannock Tribe",
+      "regionId": "US-PA",
+      "associationType": "Displayed footer-state — identity-only navigation",
+      "period": "Undated institutional homepage footer; present base and contact accuracy unverified",
+      "sourceUrl": "https://www.conestogasusquehannocktribe.com/",
+      "sourceTitle": "The Conestoga-Susquehannock Tribe — institutional homepage",
+      "publisher": "The Conestoga-Susquehannock Tribe (displayed site name)",
+      "evidenceNote": "The homepage repeats this institutional name and displays the Pennsylvania abbreviation in its footer. Only state-level navigation is recorded; it does not establish present address or base, homeland, territory, jurisdiction, legal status, ancestry, historical continuity or wider affiliation.",
+      "reviewedScope": "Repeated heading/footer name and PA state token only. Slogan, precise contacts, history, enrollment, teachings and media are excluded.",
+      "reviewDate": "2026-11-07",
+      "identityOnly": true,
+      "countsTowardMinimum": false,
+      "inspectionNote": "Narrow retained name/state comparison only. No reading-source credit, current contact verification, history, publisher-control or media approval is supplied."
     }
   ],
   "identitySources": [
