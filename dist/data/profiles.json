@@ -97961,6 +97961,63 @@
     ]
   },
   {
+    "name": "Piscataway Indian Nation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-07",
+    "kind": "Named tribal community / institution",
+    "region": "Maryland — displayed contact-state context only",
+    "overview": "A name-only outline for Piscataway Indian Nation. The institutional page supplies this name and a coarse Maryland contact-state context. Fuller reading and relationships with broader directory entries remain unassessed.",
+    "relationshipNote": "Relationships with the broader Piscataway entry, Piscataway Conoy institutions and other similarly named communities remain unresolved. No parent, alias, affiliation, equivalence, split or unrelatedness is assigned by this narrow identification.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-11-07",
+    "identificationEvidence": [
+      {
+        "url": "https://piscatawayindiannation.org/",
+        "title": "Piscataway Indian Nation — selected name and Maryland contact-state",
+        "publisher": "Piscataway Indian Nation (displayed page name)",
+        "reviewedAt": "2026-11-07",
+        "identityOnly": true,
+        "countsTowardMinimum": false,
+        "scope": "Repeated institutional name and only Maryland contact-state context. Present base/contact accuracy, historical narrative, legal/government/recognition status, ancestry, territory, office and services are outside this identification.",
+        "accessNotes": "Only the name and coarse state context are selected. The naming/contact material has no established publication date or prose author. Earlier page delivery and source-content review dates remain separate from this identification check."
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Clarify the named institution’s relationships with the broader Piscataway entry and other similarly named institutions before assigning formal links or aliases.",
+      "Develop useful attributed public reading when appropriate; this outline contains no substantive history or source collection.",
+      "Only the displayed name and state context are represented. Present contact accuracy, legal/government status, ancestry, territory, programs and media remain unassessed."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Narrow institutional name and Maryland contact-state context only; no substantive reading-source or adequacy assessment.",
+      "remainingLimits": [
+        "Broader relationships and annotated reading remain unassessed.",
+        "A received page does not establish present contacts, institutional continuity or universal representation."
+      ]
+    },
+    "slug": "piscataway-indian-nation",
+    "regionGroups": [
+      "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MD",
+        "name": "Maryland",
+        "key": "us-md"
+      }
+    ]
+  },
+  {
     "name": "Pit River Tribe",
     "preferredName": "Pit River Tribe (Ajumawi–Atsugewi Nation)",
     "kind": "Collective tribal government of eleven autonomous bands",
@@ -108000,12 +108057,44 @@
     "region": "High Plains / Halifax County, Virginia and Person County, North Carolina",
     "overview": "Sappony has an individually findable directory outline. This name and community setting have been checked; detailed history, annotated reading sources and imagery remain queued.",
     "relationshipNote": "The specifically named contemporary High Plains Sappony community spans the state line. It is not automatically interchangeable with every historical Saponi label, Haliwa-Saponi, Occaneechi or communities elsewhere. Indians of Person County is a recorded former state-designated name, not a label for every county resident. This finding does not settle current Virginia recognition status.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Reporting rooted in place and community",
+        "text": "In a 2021 High Country News interview, Nick Martin described how work in local newspapers shaped his interest in reporting grounded in place and community. Asked about his rural North Carolina background, he pointed to labor and education stories among the work that influenced him. His responses offer an individual Sappony journalist’s public perspective on local experience and Indigenous media. They describe earlier work and his editorial hopes in 2021, rather than present employment, a tribal-government position or verified outcomes.",
+        "sourceIds": [
+          "private-va-sappony-martin-community-journalism-2021"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "private-va-sappony-martin-community-journalism-2021",
+        "title": "A Q&A with Nick Martin, HCN’s new editor on the Indigenous Affairs Desk",
+        "url": "https://www.hcn.org/media/2021/q-a-what-nick-martin-hcns-new-editor-to-lead-the-indigenous-affairs-desk-sees-coming-for-the-magazines-coverage/",
+        "author": "High Country News (institutional byline); interview responses attributed to Nick Martin",
+        "publisher": "High Country News",
+        "publicationDate": "July 1, 2021; January 24, 2024 also displayed without an established date-role label or revision extent.",
+        "type": "Reported interview with a Sappony journalist",
+        "topics": [
+          "Public voices",
+          "Community reporting",
+          "Education and livelihood perspectives"
+        ],
+        "annotation": "Nick Martin discusses place-based reporting and the local labor and education stories that shaped his journalism. HCN identifies him as Sappony. These are attributed personal responses, not a statement by every citizen or evidence that HCN is a Sappony publisher.",
+        "accessed": "2026-11-04",
+        "contentReviewedAt": "2026-11-04",
+        "contentReviewScope": "Actual original HTML title/byline/date50–54; dated interview-subject identification59; place/community reporting response63/65; selected rural-reporting question70 and response71–72. Other article passages, images and underlying works are not adopted.",
+        "sourcePerspective": "Institutionally bylined HCN interview containing individually attributed responses by Nick Martin. His self-description as an Indigenous journalist and the publisher’s dated Sappony identification establish the perspective; writer citizenship and Indigenous leadership of HCN are not inferred.",
+        "accessNotes": "The original article was received normally for the recorded selected-text review. First displayed date matches supplied republication byline121; second unlabelled date is not called a verified update. Interview plans are not current employment, programme delivery or outcomes. No copied republication HTML, article/photo reuse, underlying Splinter essay, investigations, films, audio, names of relatives, private/funerary/medical/ritual/seasonal/practical matter, present legal/status/membership determination or universal Sappony view. HCN article CC BY-NC-ND notice does not clear images; no pixels requested.",
+        "indigenousLed": false,
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "hcn-nick-martin-2021-selected-community-journalism-interview"
+      }
+    ],
     "identityVerifiedAt": "2026-11-02",
     "identificationEvidence": [
       {
@@ -108039,7 +108128,8 @@
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
       "Review individually relevant imagery and exact reuse rights before a substantive illustrated guide.",
-      "Review detailed relationships, historical change and public cultural/language materials."
+      "Review detailed relationships, historical change and public cultural/language materials.",
+      "Compare further Sappony public perspectives on cultural, educational and livelihood experience. One interview does not establish everyone’s views, and supplies no picture permission."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
@@ -108049,6 +108139,7 @@
         "History, reading sources and imagery remain queued."
       ]
     },
+    "overviewSourceIds": [],
     "slug": "sappony",
     "regionGroups": [
       "Southeast"
