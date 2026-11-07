@@ -8710,11 +8710,17 @@
     "originalId": null,
     "name": "Mississippi Band of Choctaw Indians",
     "slug": "mississippi-band-of-choctaw-indians",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-22"
   },
   {
     "originalId": 216,
@@ -13941,11 +13947,17 @@
     "originalId": null,
     "name": "Seminole Tribe of Florida",
     "slug": "seminole-tribe-of-florida",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-FL",
+        "name": "Florida",
+        "key": "us-fl"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null
+    "reviewedAt": "2026-10-22"
   },
   {
     "originalId": 341,
