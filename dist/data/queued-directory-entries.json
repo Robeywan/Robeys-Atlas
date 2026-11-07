@@ -25174,12 +25174,12 @@
       "name": "Sappony",
       "slug": "sappony",
       "entryType": "Named contemporary Indigenous tribal community / High Plains",
-      "entryStage": "name-only-outline",
-      "researchStatus": "queued",
+      "entryStage": "source-context",
+      "researchStatus": "source-guide",
       "identityVerifiedAt": "2026-11-02",
       "supportingIdentificationReferences": 2,
-      "substantiveWorks": 0,
-      "listedReadingSources": 0,
+      "substantiveWorks": 1,
+      "listedReadingSources": 1,
       "imageStatus": "not-yet-reviewed",
       "identificationEvidence": [
         {
@@ -26508,6 +26508,30 @@
       ],
       "dedupNote": "Complete immutable current published raw/compiled/queue/identity/alias/navigation/source/owner/region metadata and original-name lines were compared for the specified institutional name, route and literal target cues. No match occurred within that bounded comparison. Broader institutional and historical-name relationships remain unresolved; no parent, alias, affiliation, equivalence, split, unrelatedness or global novelty is established. A separate actual completed-publication baseline rebind is required before future integration.",
       "addedAt": "2026-11-06"
+    },
+    {
+      "name": "Piscataway Indian Nation",
+      "slug": "piscataway-indian-nation",
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://piscatawayindiannation.org/",
+          "title": "Piscataway Indian Nation — selected name and Maryland contact-state",
+          "publisher": "Piscataway Indian Nation (displayed page name)",
+          "reviewedAt": "2026-11-07",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Repeated institutional name and only Maryland contact-state context. Present base/contact accuracy, historical narrative, legal/government/recognition status, ancestry, territory, office and services are outside this identification.",
+          "accessNotes": "Only the name and coarse state context are selected. The naming/contact material has no established publication date or prose author. Earlier page delivery and source-content review dates remain separate from this identification check."
+        }
+      ],
+      "dedupNote": "A whole publication226 directory metadata comparison found no exact primary-name or alias match for this name. The broader Piscataway entry remains separately represented, with institutional and historical relationships unresolved. Metadata overlap is not an exhaustive entity-equivalence or novelty finding.",
+      "addedAt": "2026-11-07"
     }
   ],
   "regionAssociations": [
@@ -32568,6 +32592,21 @@
       "identityOnly": true,
       "countsTowardMinimum": false,
       "inspectionNote": "New navigation comparison of previously retained text; original October28 body and identity dates and all old fields remain unchanged. No fresh request, new identity, substantive reading credit or media approval."
+    },
+    {
+      "name": "Piscataway Indian Nation",
+      "regionId": "US-MD",
+      "associationType": "Displayed contact-state — identity-only navigation",
+      "period": "Earlier received undated institutional page; present base/contact accuracy unverified",
+      "sourceUrl": "https://piscatawayindiannation.org/",
+      "sourceTitle": "Piscataway Indian Nation — selected name and Maryland contact-state",
+      "publisher": "Piscataway Indian Nation (displayed page name)",
+      "evidenceNote": "The institutional page repeats this exact name and displays a Maryland state token in its contact field. Only a coarse state navigation connection is recorded. This does not establish present base/contact accuracy, all members’ geography, homeland, territory, jurisdiction, legal status, ancestry or wider affiliation.",
+      "reviewedScope": "Repeated name and Maryland state token only. Mission goals, office attribution and precise contacts are excluded.",
+      "reviewDate": "2026-11-07",
+      "identityOnly": true,
+      "countsTowardMinimum": false,
+      "inspectionNote": "Retained name/state comparison only. The earlier page delivery and substantive-content scope remain unchanged; no new request, historical account, source-work credit or media approval is supplied."
     }
   ],
   "identitySources": [

@@ -86,6 +86,43 @@ for(const item of queued.profiles){
  const p=profiles.find(p=>p.slug===item.slug);
  assert(p&&p.name===item.name);
  if(p.researchStatus==='queued')assert(p.sources.every(s=>s.countsTowardMinimum===false&&s.identificationOnly));
+ else if(p.entryStage==='source-context'){
+  // A limited selected reading context retains the earlier identity-only shell.
+  // It is not a reviewed starting guide, image enrollment or adequacy assessment.
+  const raw=currentRawProfiles.find(row=>row.name===p.name);
+  const old=earlierProfiles.find(row=>row.name===p.name);
+  const oldQueue=latestQueue.profiles.find(row=>row.name===item.name&&row.slug===item.slug);
+  assert(raw&&old&&oldQueue,'Source context has a retained identity baseline');
+  assert(raw.entryStage===item.entryStage&&item.entryStage===p.entryStage&&p.entryStage==='source-context');
+  assert(raw.researchStatus===item.researchStatus&&item.researchStatus===p.researchStatus&&p.researchStatus==='source-guide');
+  assert(raw.coverageLevel==='limited-source-context'&&p.coverageLevel===raw.coverageLevel);
+  assert(raw.researchComplete===false&&p.researchComplete===false);
+  assert(Array.isArray(raw.overviewSourceIds)&&raw.overviewSourceIds.length===0);
+  assert(raw.sources.length>=1&&raw.sections.length>=1);
+  assert.equal(new Set(raw.sources.map(source=>source.id)).size,raw.sources.length);
+  const inspected=raw.sources.filter(source=>source.contentReviewedAt&&source.contentReviewScope&&source.countsTowardMinimum!==false);
+  assert(inspected.length>=1,'At least one inspected countable selected context required');
+  for(const section of raw.sections){
+   assert(section.title&&section.text&&section.sourceIds?.length);
+   for(const id of section.sourceIds)assert(inspected.some(source=>source.id===id),'Selected section cites inspected content');
+  }
+  assert.equal(item.listedReadingSources,raw.sources.length);
+  assert.equal(item.substantiveWorks,new Set(inspected.map(source=>source.url)).size);
+  const changedRaw=new Set(['entryStage','researchStatus','coverageLevel','overviewSourceIds','sources','sections','researchGaps']);
+  const unchangedRaw=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!changedRaw.has(key)));
+  assert.deepEqual(unchangedRaw(raw),unchangedRaw(old),'Every old identity/overview/date/relationship/absence retained');
+  assert(old.initialAdequacy?.status==='Not assessed'&&old.initialAdequacy.reviewedAt===null);
+  assert.deepEqual(raw.initialAdequacy,old.initialAdequacy,'Whole initial assessment remains unassessed and undated');
+  for(const key of ['sources','sections','researchGaps'])assert.deepEqual(raw[key].slice(0,old[key].length),old[key],'Every earlier source/section/gap remains exact');
+  for(const [key,value] of Object.entries(raw))assert.deepEqual(p[key],value,'Compiled source-context field matches raw: '+key);
+  const changedQueue=new Set(['entryStage','researchStatus','listedReadingSources','substantiveWorks']);
+  const unchangedQueue=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!changedQueue.has(key)));
+  assert.deepEqual(unchangedQueue(item),unchangedQueue(oldQueue),'Every old queued identity/evidence/date/image/absence retained');
+  assert.deepEqual(item.identificationEvidence,raw.identificationEvidence);
+  assert(!Object.hasOwn(raw,'startingGuide')&&!Object.hasOwn(p,'startingGuide')&&!Object.hasOwn(item,'startingGuideBatch'));
+  assert(!startingRows.some(row=>row.slug===p.slug)&&!supplementaryGuides.some(row=>row.slug===p.slug),'Source context is not a starting-guide/cohort promotion');
+  assert(!visualImages.some(image=>image.profileSlugs.includes(p.slug)),'No pictured/visual enrollment from selected text');
+ }
  else {
   // A queued identity route can gain an owner-requested, reviewed starting guide.
   // Its identity evidence and earlier sources remain protected independently.
