@@ -45289,12 +45289,43 @@
     "region": "North Carolina — selected agency-listed county setting and state tokens only",
     "overview": "An identity-only outline for the agency-listed Guilford Native American Association. The NC Department of Administration describes it as a Native American community association in Guilford County. Only a coarse North Carolina setting is selected; fuller relationships, historical context and annotated reading remain unassessed.",
     "relationshipNote": "Relationships with broader peoples, named governments, other associations and historical labels remain unresolved. County/state setting, a shared roster, institutional wording or a website cue does not establish a parent, affiliation, alias, ancestry, succession, equivalence, split or unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "A museum account of material selection",
+        "text": "Greensboro History Museum says members of the Guilford Native American Association chose display materials to highlight different cultures and perspectives within the Triad Native American community. The release offers a limited, attributed example of material selection for a museum display. Community-authored perspectives and reuse permissions remain unassessed.",
+        "sourceIds": [
+          "private-nc-gnaa-greensboro-museum-display-selection-2026"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "private-nc-gnaa-greensboro-museum-display-selection-2026",
+        "title": "A museum account of a Guilford Native American Association display",
+        "url": "https://greensborohistory.org/news/museum-celebrates-50-years-of-guilford-native-american-association-august-15/",
+        "publisher": "Greensboro History Museum",
+        "author": "Greensboro History Museum (institutional release; no separate personal byline established)",
+        "publicationDate": "Displayed August 10, 2026; exact first-publication and revision history unestablished.",
+        "type": "Institutional museum release — supporting context",
+        "topics": [
+          "Museum interpretation",
+          "Attributed material selection"
+        ],
+        "annotation": "The museum describes association members choosing display material to highlight different cultures and perspectives. This supporting context concerns one display’s selection. It does not establish community-wide consent or permission to reproduce materials.",
+        "accessed": "2026-11-07",
+        "contentReviewedAt": "2026-11-07",
+        "contentReviewScope": "Only the first sentence describing association members’ choice of display material. The following viewing sentence and the general Community Voices format paragraph are excluded.",
+        "sourcePerspective": "An unbylined museum release describing association members’ selection. Indigenous authorship, community self-position and Indigenous control of the publisher are unestablished.",
+        "accessNotes": "The original release was received normally for this selected-text review. No display item, underlying work, image or recording was inspected. Event arrangements, current viewing, individual roles, rankings, legal status, services, precise contacts and media rights are outside the selection.",
+        "indigenousLed": false,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "greensboro-history-museum-gnaa-display-selection-2026-supporting"
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -45315,7 +45346,8 @@
       "Review community-published identification and useful individually attributed reading when available; no fixed source count, history or image prerequisite applies to this empty identity outline.",
       "Clarify institutional and historical-name relationships before assigning aliases, parent or related-community routes.",
       "Only the selected agency listing and coarse North Carolina setting are represented; no current legal/government/recognition, membership, ancestry, territory/title, officials, services or outcomes finding is supplied.",
-      "Images, audio, practical/teaching content and specific reuse rights remain uninspected."
+      "Images, audio, practical/teaching content and specific reuse rights remain uninspected.",
+      "Community-authored accounts and fuller institutional relationships remain unassessed. The selected museum sentence does not review displayed materials, their makers, community-wide consent or reuse rights."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
@@ -45326,6 +45358,7 @@
         "A received agency contact listing does not verify current contact accuracy, service availability or universal representation."
       ]
     },
+    "overviewSourceIds": [],
     "slug": "guilford-native-american-association",
     "regionGroups": [
       "Southeast"
@@ -67580,6 +67613,13 @@
         "sourceIds": [
           "p188-baltimore-heritage-baic-museum-chronology"
         ]
+      },
+      {
+        "title": "Methods stated in a repository abstract",
+        "text": "The repository abstract says that the dissertation draws primarily on oral history interviews and archival research. This is an abstract-only methods note; the Atlas has not inspected the dissertation PDF or the interviews and archives it describes.",
+        "sourceIds": [
+          "p188-umd-repository-abstract-methods-2020"
+        ]
       }
     ],
     "sources": [
@@ -67666,6 +67706,30 @@
         "accessStatus": "Actual exact submitted item HTML delivered in one normal root open; author read the retained item and one normally offered author-filter context without any new requests. The Javascript-functionality banner did not prevent the84line text delivery.",
         "accessNotes": "Only the selected historical chronology is proposed. No underlying institutional records were inspected. Excludes building/property/address narratives,services/teaching,capital funding/fellowship/personal contributions,current-open claims,photos/tour/map/addresses and other linked content. Author-filter URL remains private attribution evidence, not an inspectedSubresource or additional public reading item. The earlier2019research-method account keeps its exact separate scope/date/flags.",
         "rightsNotes": "Link and brief paraphrase only. The displayedCCBY4.0work notice does not clear listed third-party photographs or replace their separate permission/provenance conditions. No source pixels, photographs, tour maps, recordings, licence/rights destinations or item reuse terms were inspected."
+      },
+      {
+        "id": "p188-umd-repository-abstract-methods-2020",
+        "title": "Revisiting the Reservation: The Lumbee Community of East Baltimore — repository abstract methods only",
+        "url": "https://drum.lib.umd.edu/items/b4a5dba9-7e50-40b6-9a77-60631a90c754",
+        "publisher": "Digital Repository at the University of Maryland",
+        "author": "Ashley Colleen Minner",
+        "publicationDate": "Repository year label2020; exact first-publication date and revision extent unestablished.",
+        "type": "University repository abstract",
+        "topics": [
+          "Research methods",
+          "Supporting abstract context"
+        ],
+        "annotation": "The repository abstract identifies oral history interviews and archival research as its primary methods. Only this abstract-level methods clause and repository metadata were reviewed; the dissertation PDF and underlying materials were not inspected.",
+        "accessed": "2026-11-07",
+        "contentReviewedAt": "2026-11-07",
+        "countsTowardMinimum": false,
+        "indigenousLed": false,
+        "indigenousAuthored": false,
+        "indigenousAuthorshipStatus": "Unestablished from this selected delivery; not a negative identity finding",
+        "indigenousPublisherControlStatus": "Unestablished from this selected delivery",
+        "contentReviewScope": "Repository title, displayed year and author/publisher metadata, plus only the abstract’s opening methods clause naming oral history interviews and archival research. No other abstract conclusions, PDF or underlying materials adopted.",
+        "accessNotes": "The item page’s metadata and abstract were received normally. The visible PDF link was not followed; no dissertation file, interview, archive, map or other underlying material was received or inspected for this review. The displayed2020 label is a repository year, not precise first-publication or revision proof. No author biography or identity lookup was made.",
+        "sourcePerspective": "This is one supporting repository-abstract context, not a review of the full dissertation. The delivered author label does not establish Indigenous self-position or university publisher control. It is not automatically equated with other bylines, counted as a new voice, or treated as a community-wide position."
       }
     ],
     "relatedOriginalIds": [],
@@ -67673,7 +67737,8 @@
     "originalId": 188,
     "researchGaps": [
       "Minner’s essay adds one attributed Baltimore Lumbee research perspective. The Atlas has not inspected its underlying oral or archival materials; further community-led comparison and the two older unreviewed references remain unfinished. This does not verify present property, legal status, ancestry or complete community history.",
-      "This supporting chronology does not inspect the Center’s underlying institutional records or supply a full history, present-service account or media clearance. Broader community-directed comparison remains unfinished; the earlier research-method account keeps its separate scope and date."
+      "This supporting chronology does not inspect the Center’s underlying institutional records or supply a full history, present-service account or media clearance. Broader community-directed comparison remains unfinished; the earlier research-method account keeps its separate scope and date.",
+      "Compare further individually attributed public research accounts before using additional conclusions. This repository-abstract context does not inspect the dissertation PDF, interviews or archives, validate historical or identity conclusions, establish a new voice, or complete the Lumbee reading collection."
     ],
     "added": false,
     "slug": "lumbee",
@@ -124364,6 +124429,64 @@
         "name": "New York",
         "key": "us-ny"
       },
+      {
+        "id": "US-NC",
+        "name": "North Carolina",
+        "key": "us-nc"
+      }
+    ]
+  },
+  {
+    "name": "Tuscarora Nation of North Carolina",
+    "originalId": null,
+    "added": true,
+    "compiledAt": null,
+    "kind": "Named community / institution",
+    "region": "North Carolina — retained institutional footer contact-state cue only; current setting unassessed.",
+    "overview": "An empty identification outline under the self-name Tuscarora Nation of North Carolina, repeated in the retained page’s institutional footer. Only that name and a coarse North Carolina footer contact-state cue are represented; fuller relationships, current setting and annotated reading remain unassessed.",
+    "relationshipNote": "Relationships with the broader Tuscarora people reading route, separately named institutions and historical/community labels remain unresolved. Shared wording, a chronology, state setting or a website does not establish a parent, alias, split, continuity, affiliation, ancestry, equivalence or unrelatedness.",
+    "researchStatus": "queued",
+    "entryStage": "name-only-outline",
+    "researchComplete": false,
+    "coverageLevel": "identity-only-queued",
+    "sections": [],
+    "sources": [],
+    "identityVerifiedAt": "2026-11-07",
+    "identificationEvidence": [
+      {
+        "url": "https://www.tuscaroranationnc.com/our-history",
+        "title": "Our History — retained institutional name/footer only",
+        "publisher": "Tuscarora Nation of North Carolina (page self-label)",
+        "reviewedAt": "2026-10-28",
+        "identityOnly": true,
+        "countsTowardMinimum": false,
+        "scope": "Repeated self-name in the retained institutional contact-footer heading and copyright footer; only the NC postal-state token from that same contact block. No chronology, legal/government/recognition, descent/ancestry, relationship, territory, membership, current office/service/outcome, precise contact, wordform, teaching or media claim is selected.",
+        "accessNotes": "The original page was received normally for the recorded October28 review. This later naming comparison uses its retained footer material and does not renew source access or verify present contact accuracy. Copyright2026 is not a prose publication date; no first-publication date or prose byline is established. The long chronology remains further-checking material excluded from substantive counts. No page family, linked source, image, recording or reuse right is inspected or approved by this identification."
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "researchGaps": [
+      "Review useful individually attributed public context without a fixed source-count, history or image gate.",
+      "Clarify institutional and broader people/historical-name relationships before assigning aliases, parents, related routes or continuity.",
+      "The retained chronology’s detailed historical, descent and legal claims remain unverified; this identification outline adopts none.",
+      "Images, recordings, wordforms, teachings, exact reuse rights and current contact accuracy remain unassessed."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "Retained institutional self-name and coarse footer contact-state cue only; no substantive reading, historical adequacy or community review.",
+      "remainingLimits": [
+        "A specifically named outline does not resolve relationships with the broader Tuscarora people route or other named institutions.",
+        "The original page-review date remains October28; the November7 name comparison is not fresh access or verification of current status/contact accuracy."
+      ]
+    },
+    "slug": "tuscarora-nation-of-north-carolina",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
       {
         "id": "US-NC",
         "name": "North Carolina",
