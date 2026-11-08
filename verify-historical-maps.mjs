@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
+import {validateSourceContextSelectedSources,validateSourceContextReadingSourceCards,validateSourceContextQueueIdentity} from './source-context-integrity.mjs';
 import {execFileSync} from 'node:child_process';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const source=read('data/historical-maps.json'),c=read('dist/data/historical-maps.json'),ids=new Set(),records=new Set();
@@ -72,8 +73,8 @@ for(const [i,old] of latestQueue.profiles.entries()){
    assert.deepEqual(item.identificationEvidence,priorIdentity.identificationEvidence,'New queue reference display must copy the earlier raw identity evidence exactly');
    expected.identificationEvidence=structuredClone(item.identificationEvidence);
   }
-  const identity=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!queuePromotionFields.has(key)));
-  assert.deepEqual(identity(item),identity(expected),'Reviewed-guide promotion preserves identity and repaired pointer');
+  const sourceContextRaw=item.entryStage==='source-context'?read('data/profiles.json').find(row=>row.name===item.name):null;
+  validateSourceContextQueueIdentity(sourceContextRaw,item,expected,queuePromotionFields);
  }
 }
 for(const repair of routeRepairs)assert.equal(queued.profiles.filter(p=>p.name===repair.name&&p.slug===repair.afterSlug).length,1);
@@ -100,14 +101,7 @@ for(const item of queued.profiles){
   assert(Array.isArray(raw.overviewSourceIds)&&raw.overviewSourceIds.length===0);
   assert(raw.sources.length>=1&&raw.sections.length>=1);
   assert.equal(new Set(raw.sources.map(source=>source.id)).size,raw.sources.length);
-  const inspected=raw.sources.filter(source=>source.contentReviewedAt&&source.contentReviewScope&&source.countsTowardMinimum!==false);
-  assert(inspected.length>=1,'At least one inspected countable selected context required');
-  for(const section of raw.sections){
-   assert(section.title&&section.text&&section.sourceIds?.length);
-   for(const id of section.sourceIds)assert(inspected.some(source=>source.id===id),'Selected section cites inspected content');
-  }
-  assert.equal(item.listedReadingSources,raw.sources.length);
-  assert.equal(item.substantiveWorks,new Set(inspected.map(source=>source.url)).size);
+  validateSourceContextSelectedSources(raw,item);
   const changedRaw=new Set(['entryStage','researchStatus','coverageLevel','overviewSourceIds','sources','sections','researchGaps']);
   const unchangedRaw=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!changedRaw.has(key)));
   assert.deepEqual(unchangedRaw(raw),unchangedRaw(old),'Every old identity/overview/date/relationship/absence retained');
@@ -116,6 +110,7 @@ for(const item of queued.profiles){
   for(const key of ['sources','sections','researchGaps'])assert.deepEqual(raw[key].slice(0,old[key].length),old[key],'Every earlier source/section/gap remains exact');
   for(const [key,value] of Object.entries(raw))assert.deepEqual(p[key],value,'Compiled source-context field matches raw: '+key);
   const changedQueue=new Set(['entryStage','researchStatus','listedReadingSources','substantiveWorks']);
+  if(validateSourceContextReadingSourceCards(raw,item,oldQueue))changedQueue.add('readingSourceCards');
   const unchangedQueue=o=>Object.fromEntries(Object.entries(o).filter(([key])=>!changedQueue.has(key)));
   assert.deepEqual(unchangedQueue(item),unchangedQueue(oldQueue),'Every old queued identity/evidence/date/image/absence retained');
   assert.deepEqual(item.identificationEvidence,raw.identificationEvidence);

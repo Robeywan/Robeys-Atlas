@@ -26297,11 +26297,11 @@
       "name": "Guilford Native American Association",
       "slug": "guilford-native-american-association",
       "entryType": "named-community-or-institution",
-      "entryStage": "name-only-outline",
-      "researchStatus": "queued",
+      "entryStage": "source-context",
+      "researchStatus": "source-guide",
       "substantiveWorks": 0,
       "supportingIdentificationReferences": 1,
-      "readingSourceCards": 0,
+      "readingSourceCards": 1,
       "identificationEvidence": [
         {
           "url": "https://www.doa.nc.gov/divisions/american-indian-affairs/urban-organizations",
@@ -26315,7 +26315,8 @@
         }
       ],
       "dedupNote": "Complete frozen checked-source identity, publicqueue, alias, regional and source metadata was compared under the selected association name and GNAA/website cues. No primary named-association route matched within that bounded screen. Context mentions do not establish identity equivalence, affiliation, a split or global novelty; the integration/publication decision remains separate.",
-      "addedAt": "2026-11-06"
+      "addedAt": "2026-11-06",
+      "listedReadingSources": 1
     },
     {
       "name": "Cumberland County Association for Indian People",
@@ -26604,6 +26605,31 @@
       ],
       "dedupNote": "A whole publication228 metadata comparison found no exact primary-name, alias or route match for this label. Historical Choptico/Chaptico labels and relationships with other directory entries remain unresolved. This is a bounded directory comparison, not exhaustive entity-equivalence or global novelty.",
       "addedAt": "2026-11-07"
+    },
+    {
+      "name": "Tuscarora Nation of North Carolina",
+      "slug": "tuscarora-nation-of-north-carolina",
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "researchComplete": false,
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://www.tuscaroranationnc.com/our-history",
+          "title": "Our History — retained institutional name/footer only",
+          "publisher": "Tuscarora Nation of North Carolina (page self-label)",
+          "reviewedAt": "2026-10-28",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Repeated self-name in the retained institutional contact-footer heading and copyright footer; only the NC postal-state token from that same contact block. No chronology, legal/government/recognition, descent/ancestry, relationship, territory, membership, current office/service/outcome, precise contact, wordform, teaching or media claim is selected.",
+          "accessNotes": "The original page was received normally for the recorded October28 review. This later naming comparison uses its retained footer material and does not renew source access or verify present contact accuracy. Copyright2026 is not a prose publication date; no first-publication date or prose byline is established. The long chronology remains further-checking material excluded from substantive counts. No page family, linked source, image, recording or reuse right is inspected or approved by this identification."
+        }
+      ],
+      "dedupNote": "Whole current raw, compiled, queue, identification, alias, regional and source metadata was compared under the full name and exact existing website routes. The full label already appears as publisher on the broader Tuscarora reading route; no exact primary/preferred/search/queue/alias route matched. This does not establish a globally missing entity, a geographic split, continuity, affiliation, equivalence or unrelatedness.",
+      "addedAt": null
     }
   ],
   "regionAssociations": [
@@ -32709,6 +32735,19 @@
       "identityOnly": true,
       "countsTowardMinimum": false,
       "inspectionNote": "Narrow retained name/state comparison only. No reading-source credit, current contact verification, history, publisher-control or media approval is supplied."
+    },
+    {
+      "originalId": null,
+      "name": "Tuscarora Nation of North Carolina",
+      "regionId": "US-NC",
+      "period": "Retained institutional footer contact-state cue; source reviewed2026-10-28, current accuracy unverified",
+      "evidenceNote": "The retained named institutional footer supplies an NC postal-state token. Only coarse contact-state navigation is proposed. It does not establish a present headquarters, accurate current contacts, homeland, range, territory, affiliation, recognition/legal status, ancestry or community-wide representation.",
+      "sourceTitle": "Our History — retained institutional name/footer only",
+      "sourceUrl": "https://www.tuscaroranationnc.com/our-history",
+      "reviewDate": "2026-11-07",
+      "countsTowardMinimum": false,
+      "associationType": "Displayed footer-state — identity-only navigation",
+      "identityOnly": true
     }
   ],
   "identitySources": [
