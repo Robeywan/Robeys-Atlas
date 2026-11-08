@@ -121665,12 +121665,49 @@
     "region": "Maryland — self-described Dorchester County base only",
     "overview": "An identity-only outline for the named Nause-Waiwash Band of Indians, Inc., using its institutional self-label and stated Dorchester County, Maryland base. Fuller relationships, historical context and annotated reading remain queued.",
     "relationshipNote": "Relationships with Nanticoke, Choptank and other named communities or historical names remain unresolved. No parent identity, affiliation, ancestry, succession, alias or equivalence is assigned from the name, website setting, generated study or this narrow identification. Unresolved relationships do not establish unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "A preservation and organization account",
+        "text": "In its undated website account, the Nause-Waiwash Band of Indians describes a late-1980s effort to preserve local history, culture and traditions. The account connects that effort to conversations with elders and organization of the named band. This is the institution’s account; its wider historical and institutional relationships remain unresolved.",
+        "sourceIds": [
+          "nause-waiwash-turtle-tracks-preservation-account"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "nause-waiwash-turtle-tracks-preservation-account",
+        "title": "Turtle Tracks — a selected preservation and organization account",
+        "url": "https://turtletracks.org/",
+        "publisher": "Nause-Waiwash Band of Indians, Inc. (self-identified hosting institution)",
+        "author": "Unbylined institutional webpage; individual prose authorship unestablished",
+        "publicationDate": "Undated selected history paragraph; the 2026 footer and separate blog dates do not date this prose.",
+        "type": "Community-hosted institutional history — selected account",
+        "topics": [
+          "Community history",
+          "Preservation",
+          "Institutional organization"
+        ],
+        "annotation": "The institution’s website connects a history-preservation effort with conversations involving elders and organization of the named band. This is an attributed account, not independently verified institutional chronology.",
+        "accessed": "2026-11-05",
+        "contentReviewedAt": "2026-11-07",
+        "contentReviewScope": "Only the first three sentences of the paragraph about late-1980s preservation and organization, stopping before its continuity quotation. No adjacent ancestry, relationship, leadership, chapel, event, teaching or ritual claims selected.",
+        "sourcePerspective": "The page identifies itself as the home of the named band and credits that band in its footer. The Indigenous-led flag describes this self-identified hosting institution, not the identity of an uncredited prose writer, a quoted elder’s voice, every named people’s position or legal recognition.",
+        "accessNotes": "The retained page from the recorded November 5 review was consulted for this selected-text comparison on November 7. No new page request, current-access check or underlying historical-record inspection occurred.",
+        "rightsNotes": "No photographs, recordings or linked works were opened. Cultural-teaching prose in the received page was read as context only; it is not selected or reproduced, and no reuse permission is established.",
+        "indigenousLed": true,
+        "indigenousAuthored": false,
+        "indigenousAuthorshipStatus": "Individual prose authorship unestablished; false is not a negative identity finding.",
+        "indigenousLedBasis": "Self-identified institutional home and footer credit on the same received page; no independent legal ownership or recognition finding.",
+        "countsTowardMinimum": true,
+        "sourceUnitKey": "nause-waiwash-turtle-tracks-preservation-organization-selected-context",
+        "countReason": "One connected attributed preservation-and-organization account supplies one selected substantive context. Persons, sentences, events and linked pages are not separately counted as works; no whole-history or adequacy finding."
+      }
+    ],
     "identityVerifiedAt": "2026-11-05",
     "identificationEvidence": [
       {
@@ -121690,7 +121727,8 @@
       "Develop selected community-directed historical context and an annotated reading collection from original sources.",
       "Review naming and institutional relationships before assigning broader people labels, aliases, related-community links or modern region associations.",
       "Relationships with Nanticoke237, Choptank and other communities or historical names are unverified; no ancestry, succession, parent or equivalence is supplied by this identification.",
-      "Community-specific imagery and exact reuse terms remain uninspected; no image is approved."
+      "Community-specific imagery and exact reuse terms remain uninspected; no image is approved.",
+      "Review further community-directed accounts and supporting records before broadening this limited preservation-and-organization narrative. Individual prose authorship, chronology, wider institutional and historical relationships, broader coverage and source-media reuse remain unresolved."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
@@ -121699,7 +121737,8 @@
       "remainingLimits": [
         "Historical coverage, fuller relationships, annotated reading sources and imagery remain queued."
       ]
-    }
+    },
+    "overviewSourceIds": []
   },
   {
     "name": "Assateague People of Delmarva",
