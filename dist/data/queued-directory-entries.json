@@ -26631,6 +26631,56 @@
       ],
       "dedupNote": "Whole current raw, compiled, queue, identification, alias, regional and source metadata was compared under the full name and exact existing website routes. The full label already appears as publisher on the broader Tuscarora reading route; no exact primary/preferred/search/queue/alias route matched. This does not establish a globally missing entity, a geographic split, continuity, affiliation, equivalence or unrelatedness.",
       "addedAt": null
+    },
+    {
+      "name": "Tobique First Nation",
+      "slug": "tobique-first-nation",
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "researchComplete": false,
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://tobiquefirstnation.ca/",
+          "title": "Tobique First Nation — homepage name and contact-province cue",
+          "publisher": "Tobique First Nation (page self-name)",
+          "reviewedAt": "2026-11-08",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Repeated English self-name and the NB postal-province token in the displayed institutional contact block only. No exact address or contact details, reserve classification, population/ranking, affiliation, ancestry, territory, legal or recognition status, current office/outcome, wordform or translation, mission, news, history, media or rights claim is selected.",
+          "accessNotes": "The homepage was received normally for this naming review on November 8, 2026. Only its displayed English name and coarse contact-province cue are represented. The homepage is undated; crawl labels and dated news items do not establish first publication. Current contact accuracy and broader relationships remain unassessed. No image, linked page, recording, underlying work or reuse right was inspected or approved."
+        }
+      ],
+      "dedupNote": "Whole current raw, compiled, queue, identification, alias, regional, owner and source metadata was compared under the full English name, exact discovered domain and discovery-only alternative labels. No matching current scalar or primary/alias route was found. This bounded result does not establish a globally new entity, relationship, split, continuity, affiliation, equivalence or unrelatedness. Existing broader routes remain whole and unchanged.",
+      "addedAt": null
+    },
+    {
+      "name": "Golden Hill Paugussett Tribal Nation",
+      "slug": "golden-hill-paugussett-tribal-nation",
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "researchComplete": false,
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "identificationEvidence": [
+        {
+          "url": "https://portal.ct.gov/sde/publications/teaching-native-american-studies/golden-hill-paugussett-tribal-nation",
+          "title": "Golden Hill Paugussett Tribal Nation — agency-listed name only",
+          "publisher": "Connecticut State Department of Education",
+          "reviewedAt": "2026-11-08",
+          "identityOnly": true,
+          "countsTowardMinimum": false,
+          "scope": "Repeated agency-listed full heading in navigation and main heading; split courtesy wording corroborates that listing. Neutral named community/institution identification only. No entry-specific community state/contact cue or navigation association selected.",
+          "accessNotes": "Complete numbered page text was received with a JavaScript notice and actual heading/body. Publisher-header Connecticut is not a community base. Differing page/body and image-alt labels remain unresolved and are not aliases. No first-publication date or prose byline established. Legal/status/recognition, reservations, ancestry, relationships, history, family/leadership, territory, language, current setting, images/pixels and reuse rights are unadopted. No linked page was inspected."
+        }
+      ],
+      "dedupNote": "Current whole raw, compiled, queue, identification, alias, navigation and source metadata were compared under the selected full heading, Golden Hill and Paugussett. Existing differently named routes and their sources remain unchanged. No entity relationship follows from this agency listing or a shared name component.",
+      "addedAt": null
     }
   ],
   "regionAssociations": [
@@ -32748,6 +32798,19 @@
       "reviewDate": "2026-11-07",
       "countsTowardMinimum": false,
       "associationType": "Displayed footer-state — identity-only navigation",
+      "identityOnly": true
+    },
+    {
+      "originalId": null,
+      "name": "Tobique First Nation",
+      "regionId": "CA-NB",
+      "period": "Displayed institutional contact-province cue; current accuracy unverified",
+      "evidenceNote": "The displayed institutional contact block repeats the English self-name and supplies an NB postal-province token. Only coarse contact-province navigation is proposed; no present headquarters, exact contact accuracy, all-member geography, homeland, territory, legal/recognition status, ancestry or affiliation is established.",
+      "sourceTitle": "Tobique First Nation — homepage name and contact-province cue",
+      "sourceUrl": "https://tobiquefirstnation.ca/",
+      "reviewDate": "2026-11-08",
+      "countsTowardMinimum": false,
+      "associationType": "Displayed contact province — identity-only navigation",
       "identityOnly": true
     }
   ],

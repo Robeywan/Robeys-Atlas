@@ -4644,6 +4644,16 @@
     "reviewedAt": "2026-10-22"
   },
   {
+    "originalId": null,
+    "name": "Golden Hill Paugussett Tribal Nation",
+    "slug": "golden-hill-paugussett-tribal-nation",
+    "regions": [],
+    "status": "Awaiting regional evidence",
+    "connectionRecords": 0,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": null
+  },
+  {
     "originalId": 114,
     "name": "Gosiute",
     "slug": "gosiute",
@@ -15440,6 +15450,22 @@
         "id": "US-AK",
         "name": "Alaska",
         "key": "us-ak"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": "2026-10-22"
+  },
+  {
+    "originalId": null,
+    "name": "Tobique First Nation",
+    "slug": "tobique-first-nation",
+    "regions": [
+      {
+        "id": "CA-NB",
+        "name": "New Brunswick",
+        "key": "ca-nb"
       }
     ],
     "status": "Has sourced regional connection",
