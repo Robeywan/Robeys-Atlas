@@ -6,6 +6,7 @@ import {buildDirectoryDesigns} from './directory-designs.mjs';
 import {buildProfileVisuals} from './profile-visuals.mjs';
 import {buildMap} from './map-build.mjs';
 import {buildHistoricalMaps} from './historical-maps-build.mjs';
+import {renderStudyGuidesPage,studyGuidesPageHead} from './study-guides-page.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 const cwd=path.dirname(fileURLToPath(import.meta.url));
@@ -157,12 +158,6 @@ for(const d of studyGuideManifest.guides){
  if(!d||typeof d.key!=='string'||!d.key.trim()||releaseGuideKeys.has(d.key)||typeof d.title!=='string'||!d.title.trim()||typeof d.download!=='string'||!d.download.startsWith('assets/studies/')||d.download.includes('\\')||d.download.split('/').some(p=>!p||p==='.'||p==='..')||!/\.docx$/i.test(d.download)||!Number.isInteger(d.bytes)||d.bytes<=0||!/^[0-9a-f]{64}$/i.test(d.sha256))throw Error('Invalid public study-guide download record');
  releaseGuideKeys.add(d.key);studyGuideDownloads.set(d.key,d);studyGuideEntries.set(d.key,{...(studyGuideEntries.get(d.key)||{}),key:d.key,title:d.title});
 }
-const studyGuideCards=[...studyGuideEntries.values()].map(g=>{
- const download=studyGuideDownloads.get(g.key),study=ownerStudies.find(d=>d.key===g.key);
- const actions=[download?'<a href="../'+e(download.download)+'" download>Download Word (.docx)</a>':'',study?'<a href="../studies/'+slug(g.key)+'/">Read study</a>':'',g.collection?'<a href="#'+e(g.key)+'">Reference list</a>':''].filter(Boolean);
- return '<article class="study-guide-card" data-study-guide="'+e(g.key)+'" style="padding:20px;border:1px solid #d9d5c8;border-radius:8px;background:#fffdf7"><h2>'+e(g.title)+'</h2><p>'+actions.join(' · ')+'</p></article>';
-}).join('');
-
 // Link only exact URLs retained in the supplied catalogue; preserve all prose.
 function studyText(text,key){
  const urls=[...new Set((leadCatalog.documents.find(d=>d.key===key)?.links||[]).map(s=>s.url))].sort((a,b)=>b.length-a.length);
@@ -191,8 +186,16 @@ function researchLeadSection(p){
 function statewideFindingAidSection(d){
  return '<section id="'+e(d.key)+'" class="research-leads statewide-finding-aid"><h2>'+e(d.title)+'</h2><p>'+e(d.contextNote)+'</p><details class="lead-group"><summary>Browse '+e(d.title)+' · '+d.links.length+' unverified links</summary><p class="lead-context">External references open in a new tab.</p><ul class="lead-list">'+d.links.map(s=>'<li><a href="'+e(s.url)+'" target="_blank" rel="noopener noreferrer">'+e(s.title)+'</a><span class="source-url">'+e(s.url)+'</span><span class="lead-status">'+e(s.reviewStatus)+'</span></li>').join('')+'</ul></details></section>';
 }
-const leadPage=document('Study guides','Owner-supplied study guides, Word downloads and reference lists for further research.',
- '<main id="main" class="wrap"><section class="page-hero"><div class="eyebrow">Studies &amp; reference lists</div><h1>Study guides</h1><p>These owner-supplied, AI-generated study guides and reference lists are starting points for research. Their claims and citations have not all been independently checked. Check the original sources as you read.</p></section><section class="study-guide-grid" aria-label="Browse study guides" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:18px;margin:24px 0 42px">'+studyGuideCards+'</section><article class="prose"><h2>Reference lists</h2>'+leadCatalog.documents.map(d=>d.collectionType==='unreviewed-statewide-finding-aid'?statewideFindingAidSection(d):'<section id="'+e(d.key)+'"><h2>'+e(d.title)+'</h2><p>'+e(d.contextNote)+'</p>'+studyLinks(d.key)+'<p>'+d.links.length+' links · '+[...(d.originalIds||[]).map(id=>byId.get(id)),...(d.profileSlugs||[]).map(s=>bySlug.get(s))].filter(Boolean).filter((p,i,a)=>a.findIndex(q=>q.slug===p.slug)===i).map(p=>'<a href="../nations/'+p.slug+'/#reading-leads">Open '+e(p.name)+'’s collection →</a>').join(' · ')+'</p></section>').join('')+'<p><a href="../data/owner-reading-leads.json" download>Download the supplied URL catalog</a></p></article></main>','../','study-guides');
+function renderStudyGuideReferenceCollection(d){
+ return d.collectionType==='unreviewed-statewide-finding-aid'?statewideFindingAidSection(d):'<section id="'+e(d.key)+'"><h2>'+e(d.title)+'</h2><p>'+e(d.contextNote)+'</p>'+studyLinks(d.key)+'<p>'+d.links.length+' links · '+[...(d.originalIds||[]).map(id=>byId.get(id)),...(d.profileSlugs||[]).map(s=>bySlug.get(s))].filter(Boolean).filter((p,i,a)=>a.findIndex(q=>q.slug===p.slug)===i).map(p=>'<a href="../nations/'+p.slug+'/#reading-leads">Open '+e(p.name)+'’s collection →</a>').join(' · ')+'</p></section>';
+}
+const studyGuideReferenceItems=[...studyGuideEntries.values()].map(g=>{
+ let html=g.collection?renderStudyGuideReferenceCollection(g.collection):'<section id="'+e(g.key)+'"><h2>'+e(g.title)+'</h2>'+studyLinks(g.key)+'</section>';
+ const download=studyGuideDownloads.get(g.key),href=download?'../'+e(download.download):null;
+ if(href&&!html.includes('href="'+href+'"'))html+='<p class="study-actions"><a href="'+href+'" download>Download Word (.docx)</a></p>';
+ return {key:g.key,title:g.title,html};
+});
+const leadPage=document('Study guides','Owner-supplied study guides, Word downloads and reference lists for further research.',renderStudyGuidesPage(studyGuideReferenceItems),'../','study-guides').replace('</head>',studyGuidesPageHead('../')+'</head>');
 
 function identificationReferences(p){
  const refs=(p.identificationEvidence||[]).filter(ref=>{

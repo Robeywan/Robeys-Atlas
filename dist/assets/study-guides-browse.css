@@ -1,0 +1,73 @@
+/* Scoped controls only; existing study/reference section styles stay intact. */
+[data-study-browser] [hidden] {
+  display: none !important;
+}
+
+[data-study-browser] [data-study-controls] {
+  display: grid;
+  grid-template-columns: minmax(12rem, 2fr) repeat(2, minmax(9rem, 1fr));
+  align-items: end;
+  gap: 0.85rem;
+  margin-block: 1rem;
+}
+
+[data-study-browser] [data-study-controls] label {
+  display: grid;
+  gap: 0.35rem;
+  font-weight: 600;
+}
+
+[data-study-browser] [data-study-search],
+[data-study-browser] [data-study-sort],
+[data-study-browser] [data-study-page-size] {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid currentColor;
+  border-radius: 0.4rem;
+  font: inherit;
+  color: inherit;
+  background: Canvas;
+}
+
+[data-study-browser] [data-study-pagination] {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-block: 1rem;
+}
+
+[data-study-browser] [data-study-prev],
+[data-study-browser] [data-study-next] {
+  min-height: 2.75rem;
+  padding: 0.5rem 0.9rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+[data-study-browser] [data-study-prev]:disabled,
+[data-study-browser] [data-study-next]:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+
+[data-study-browser] [data-study-search]:focus-visible,
+[data-study-browser] [data-study-sort]:focus-visible,
+[data-study-browser] [data-study-page-size]:focus-visible,
+[data-study-browser] [data-study-prev]:focus-visible,
+[data-study-browser] [data-study-next]:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}
+
+[data-study-browser] [data-study-status] {
+  margin: 0;
+}
+
+@media (max-width: 42rem) {
+  [data-study-browser] [data-study-controls] {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
