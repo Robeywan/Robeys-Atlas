@@ -22,6 +22,46 @@ const norm=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLo
 const slug=s=>norm(s).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const isNameOnlyOutline=p=>p.entryStage==='name-only-outline';
 const queuedDirectory=JSON.parse(fs.readFileSync(path.join(cwd,'data/queued-directory-entries.json'),'utf8'));
+function validateResearchLinks(p){
+ if(!Object.prototype.hasOwnProperty.call(p,'researchLinks'))return;
+ const fail=message=>{throw Error('Invalid research links '+String(p.name??'')+': '+message);};
+ if(typeof p.name!=='string'||!p.name.trim()||!isNameOnlyOutline(p)||p.researchStatus!=='queued'||p.researchComplete!==false||!Array.isArray(p.sources)||p.sources.length||!Array.isArray(p.sections)||p.sections.length)fail('requires a queued name-only outline with empty sources and sections');
+ if(!Array.isArray(p.researchLinks)||!p.researchLinks.length)fail('requires a nonempty array when present');
+ const required=['url','title','reviewedAt','reviewScope','navigationOnly','countsTowardMinimum'];
+ const allowed=new Set([...required,'publisher','accessNotes']);
+ const privatePath=/(?:^|[\s"'(<=>])[a-z]:[\\/]|Codex-Atlas|\.codex[\\/]|Old Assignments|private-(?:proposals|entries|evidence)/i;
+ for(const link of p.researchLinks){
+  if(!link||typeof link!=='object'||Array.isArray(link))fail('each link must be an object');
+  if(required.some(key=>!Object.prototype.hasOwnProperty.call(link,key))||Object.keys(link).some(key=>!allowed.has(key)))fail('missing or unexpected link field');
+  for(const key of ['url','title','reviewedAt','reviewScope'])if(typeof link[key]!=='string'||!link[key].trim())fail(key+' must be a nonempty string');
+  if(link.navigationOnly!==true||link.countsTowardMinimum!==false)fail('navigation and minimum flags must be true and false');
+  if(link.url!==link.url.trim()||/[\s\\\u0000-\u001f\u007f]/u.test(link.url))fail('URL must be an exact HTTP(S) URL without whitespace or backslashes');
+  let url;try{url=new URL(link.url);}catch{fail('invalid URL');}
+  if(!['http:','https:'].includes(url.protocol)||!url.hostname||url.username||url.password)fail('invalid URL protocol, host or credentials');
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(link.reviewedAt))fail('reviewedAt must be YYYY-MM-DD');
+  const date=new Date(link.reviewedAt+'T12:00:00Z');
+  if(!Number.isFinite(date.getTime())||date.toISOString().slice(0,10)!==link.reviewedAt)fail('reviewedAt must be a real calendar date');
+  if(Object.prototype.hasOwnProperty.call(link,'publisher')&&link.publisher!==null&&(typeof link.publisher!=='string'||!link.publisher.trim()))fail('publisher must be a nonempty string or null');
+  if(Object.prototype.hasOwnProperty.call(link,'accessNotes')&&typeof link.accessNotes!=='string')fail('accessNotes must be a string');
+  for(const key of ['url','title','reviewScope','publisher','accessNotes'])if(typeof link[key]==='string'&&privatePath.test(link[key]))fail('private file provenance is not public link text');
+ }
+}
+function validateResearchLinksMirror(rawProfiles,canonicalProfiles){
+ const has=p=>p!==null&&typeof p==='object'&&Object.prototype.hasOwnProperty.call(p,'researchLinks');
+ const present=[...rawProfiles,...canonicalProfiles].filter(has);
+ for(const p of present)validateResearchLinks(p);
+ const exactLinks=links=>JSON.stringify(links.map(link=>Object.keys(link).sort().map(key=>[key,link[key]])));
+ for(const name of new Set(present.map(p=>p.name))){
+  const raw=rawProfiles.filter(p=>p.name===name),canonical=canonicalProfiles.filter(p=>p.name===name);
+  if(raw.length!==1||canonical.length!==1||!has(raw[0])||!has(canonical[0])||exactLinks(raw[0].researchLinks)!==exactLinks(canonical[0].researchLinks))throw Error('Research links raw/canonical mismatch '+name);
+ }
+}
+function researchLinksSection(p){
+ if(!Object.prototype.hasOwnProperty.call(p,'researchLinks'))return '';
+ validateResearchLinks(p);
+ return `<section class="research-links" id="research-links"><h2>Research links</h2><ul>${p.researchLinks.map(link=>`<li><p><a href="${e(link.url)}" target="_blank" rel="noopener noreferrer">${e(link.title)}</a></p><p>${e(link.reviewScope)}</p><p class="muted">${link.publisher?e(link.publisher)+' · ':''}Text reviewed ${e(dateLabel(link.reviewedAt))} · Navigation only</p>${link.accessNotes?`<p>${e(link.accessNotes)}</p>`:''}</li>`).join('')}</ul></section>`;
+}
+validateResearchLinksMirror(input,queuedDirectory.profiles);
 const usedSlugs=new Set();
 const profiles=names.map((name,i)=>{const matches=input.filter(p=>Number(p.originalId)===i+1);if(matches.length>1)throw Error('Duplicate original ID '+(i+1));const p=matches[0];if(!p&&!partial)throw Error('Missing research for '+name);return {...(p||{overview:'Research for this entry is being assembled.',region:'Research pending',kind:'Entry',sections:[],sources:[],researchStatus:'pending'}),name,originalId:i+1,preferredName:p?.preferredName||(p?.name&&p.name!==name?p.name:undefined),added:false};});
 for(const p of input.filter(p=>!p.originalId&&p.added)){if(profiles.some(x=>norm(x.name)===norm(p.name)))continue;profiles.push({...p,added:true});}
@@ -209,7 +249,7 @@ function identificationReferences(p){
   return `<li id="identity-reference-${i+1}"><p><a href="${e(ref.url)}" target="_blank" rel="noopener noreferrer">${e(title)} ↗</a></p><p>${e(scope)}</p><p class="muted">${ref.publisher?e(ref.publisher)+' · ':''}${checked?'Check recorded '+e(dateLabel(checked))+' · ':''}Identification only</p></li>`;
  }).join('')}</ol></section>`;
 }
-function queuedOutlinePage(p){const references=identificationReferences(p);const related=[...p.relatedOriginalIds.map(n=>byId.get(Number(n))),...(p.relatedProfileSlugs||[]).map(s=>bySlug.get(s))].filter(x=>x&&x.slug!==p.slug).filter((x,i,a)=>a.findIndex(y=>y.slug===x.slug)===i);return document(p.name,p.overview,`<main id="main" class="wrap"><div class="breadcrumb"><a href="../../index.html#directory">The directory</a><span>/</span><span>${e(p.name)}</span></div><section class="profile-hero"><div><div class="eyebrow">${e(p.kind)}</div><h1>${e(p.name)}</h1><p class="overview">${e(p.overview)}</p><div class="profile-actions"><button data-bookmark="${p.slug}" data-name="${e(p.name)}" data-text-button aria-pressed="false">Save to reading list</button><button data-print>Print / save PDF</button>${references?'<a href="#identification-references">Identification references ↓</a>':''}</div></div><dl class="profile-facts"><div class="fact"><dt>Directory status</dt><dd>Queued for research</dd></div><div class="fact"><dt>Listed region</dt><dd>${e(p.region)}</dd></div><div class="fact"><dt>Name check recorded</dt><dd>${e(dateLabel(p.identityVerifiedAt))}</dd></div>${p.mapRegions?.length?`<div class="fact"><dt>Explore by modern region</dt><dd>${p.mapRegions.map(r=>`<a href="../../index.html?place=${e(r.id)}#map">${e(r.name)}</a>`).join(' · ')}</dd></div>`:''}</dl></section><article class="prose"><section class="coverage-note"><h2>A name to begin with</h2><p>This is a name-only directory outline. Detailed history, reading sources and community-specific imagery are queued. An identification check makes this name findable; it does not count as substantive research, an adequacy assessment or community endorsement.</p></section>${p.relationshipNote?`<section><h2>Names &amp; relationships</h2><p>${e(p.relationshipNote)}</p></section>`:''}${related.length?`<section class="related" id="related"><h2>Related directory entries</h2><div class="related-links">${related.map(x=>`<a href="../${x.slug}/">${e(x.name)}</a>`).join('')}</div><p>A related entry may use a broader name. Read its naming notes before treating names or communities as equivalent.</p></section>`:''}${references}<p>Modern regional labels are navigation aids, not homeland or jurisdictional boundaries. A missing history or image is a research gap in this Atlas.</p><p><a href="../../index.html#directory">Return to the directory</a> · <a href="../../about/#names">How individual community entries grow</a></p></article></main>`,'../../');}
+function queuedOutlinePage(p){const references=identificationReferences(p);const related=[...p.relatedOriginalIds.map(n=>byId.get(Number(n))),...(p.relatedProfileSlugs||[]).map(s=>bySlug.get(s))].filter(x=>x&&x.slug!==p.slug).filter((x,i,a)=>a.findIndex(y=>y.slug===x.slug)===i);return document(p.name,p.overview,`<main id="main" class="wrap"><div class="breadcrumb"><a href="../../index.html#directory">The directory</a><span>/</span><span>${e(p.name)}</span></div><section class="profile-hero"><div><div class="eyebrow">${e(p.kind)}</div><h1>${e(p.name)}</h1><p class="overview">${e(p.overview)}</p><div class="profile-actions"><button data-bookmark="${p.slug}" data-name="${e(p.name)}" data-text-button aria-pressed="false">Save to reading list</button><button data-print>Print / save PDF</button>${references?'<a href="#identification-references">Identification references ↓</a>':''}</div></div><dl class="profile-facts"><div class="fact"><dt>Directory status</dt><dd>Queued for research</dd></div><div class="fact"><dt>Listed region</dt><dd>${e(p.region)}</dd></div><div class="fact"><dt>Name check recorded</dt><dd>${e(dateLabel(p.identityVerifiedAt))}</dd></div>${p.mapRegions?.length?`<div class="fact"><dt>Explore by modern region</dt><dd>${p.mapRegions.map(r=>`<a href="../../index.html?place=${e(r.id)}#map">${e(r.name)}</a>`).join(' · ')}</dd></div>`:''}</dl></section><article class="prose"><section class="coverage-note"><h2>A name to begin with</h2><p>This is a name-only directory outline. Detailed history, reading sources and community-specific imagery are queued. An identification check makes this name findable; it does not count as substantive research, an adequacy assessment or community endorsement.</p></section>${p.relationshipNote?`<section><h2>Names &amp; relationships</h2><p>${e(p.relationshipNote)}</p></section>`:''}${related.length?`<section class="related" id="related"><h2>Related directory entries</h2><div class="related-links">${related.map(x=>`<a href="../${x.slug}/">${e(x.name)}</a>`).join('')}</div><p>A related entry may use a broader name. Read its naming notes before treating names or communities as equivalent.</p></section>`:''}${references}${researchLinksSection(p)}<p>Modern regional labels are navigation aids, not homeland or jurisdictional boundaries. A missing history or image is a research gap in this Atlas.</p><p><a href="../../index.html#directory">Return to the directory</a> · <a href="../../about/#names">How individual community entries grow</a></p></article></main>`,'../../');}
 function sourceContextOutlinePage(p){
  let page=queuedOutlinePage(p);
  const replaceOnce=(before,after)=>{if(page.split(before).length!==2)throw Error('Nonunique source-context insertion for '+p.name);page=page.replace(before,after);};
