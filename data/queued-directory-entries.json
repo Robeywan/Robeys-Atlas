@@ -34003,6 +34003,82 @@
           "accessNotes": "Page dates and individual author were not established. The page's linked FCIOO homepage was separately reviewed; other linked materials and images were not reviewed."
         }
       ]
+    },
+    {
+      "name": "Delaware Tribe of Indians",
+      "slug": "delaware-tribe-of-indians",
+      "originalId": null,
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "researchComplete": false,
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "sources": [],
+      "sections": [],
+      "identificationEvidence": [
+        {
+          "url": "https://delawaretribe.org/about-us/",
+          "title": "About Us - Delaware Tribe of Indians",
+          "publisher": "Delaware Tribe of Indians (site attribution)",
+          "reviewedAt": "2026-11-18",
+          "scope": "Exact proper-name phrase in mission text, publisher/site attribution, and an explicitly self-attributed historical Ohio movement statement only. No current residency, legal recognition, ancestry, alias/equivalence, territory, narrative history, work adequacy or rights finding.",
+          "countsTowardMinimum": false,
+          "identityOnly": true
+        }
+      ],
+      "addedAt": null,
+      "researchLinks": [
+        {
+          "url": "https://delawaretribe.org/about-us/",
+          "title": "About Us - Delaware Tribe of Indians",
+          "publisher": "Delaware Tribe of Indians (site attribution)",
+          "reviewedAt": "2026-11-18",
+          "reviewScope": "Displayed institutional name and source navigation reviewed. The page describes historical movement through Ohio; broader historical and relationship claims await research.",
+          "accessNotes": "Publication/update dates and an individual author were not established. Linked pages and images were not reviewed.",
+          "navigationOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
+    },
+    {
+      "name": "Myaamia Center",
+      "slug": "myaamia-center",
+      "originalId": null,
+      "entryType": "named-community-or-institution",
+      "entryStage": "name-only-outline",
+      "researchStatus": "queued",
+      "researchComplete": false,
+      "substantiveWorks": 0,
+      "supportingIdentificationReferences": 1,
+      "readingSourceCards": 0,
+      "sources": [],
+      "sections": [],
+      "identificationEvidence": [
+        {
+          "url": "https://www.miamination.com/myaamia-center/",
+          "title": "Myaamia Center - Miamination.com",
+          "publisher": "Miamination.com (displayed site attribution)",
+          "reviewedAt": "2026-11-18",
+          "scope": "Complete displayed center name and source-stated Oxford, Ohio setting only. No current-base, government, membership, affiliation, ancestry, teaching, history, rights or substantive-adequacy finding.",
+          "countsTowardMinimum": false,
+          "identityOnly": true
+        }
+      ],
+      "addedAt": null,
+      "researchLinks": [
+        {
+          "url": "https://www.miamination.com/myaamia-center/",
+          "title": "Myaamia Center - Miamination.com",
+          "publisher": "Miamination.com (displayed site attribution)",
+          "reviewedAt": "2026-11-18",
+          "reviewScope": "Center name and source navigation reviewed. The page states an academic setting in Oxford, Ohio; broader institutional and substantive claims await research.",
+          "accessNotes": "Original publication/update dates and an individual page author were not established. Footer copyright and linked-news dates are not page dates. Linked pages and images were not reviewed.",
+          "navigationOnly": true,
+          "countsTowardMinimum": false
+        }
+      ]
     }
   ],
   "regionAssociations": [
@@ -43773,6 +43849,36 @@
       ],
       "navigationOnly": true,
       "countsTowardMinimum": false
+    },
+    {
+      "name": "Delaware Tribe of Indians",
+      "regionId": "US-OH",
+      "sourceUrl": "https://delawaretribe.org/about-us/",
+      "sourceTitle": "About Us - Delaware Tribe of Indians",
+      "reviewedScope": "Source-ascribed historical Ohio movement context only; mission text supplies the exact institution-name phrase. No present-day Ohio base or territorial claim is inferred.",
+      "reviewDate": "2026-11-18",
+      "note": "The About Us page attributes an earlier movement through Ohio to its community. This map connection is historical source navigation; the broader narrative and relationships await research.",
+      "identityOnly": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "associationType": "source-attributed-historical-context",
+      "period": "Historical movement described by the source; specific period unassessed",
+      "evidenceNote": "The About Us page attributes an earlier movement through Ohio to its community. This map connection is historical source navigation; the broader narrative and relationships await research."
+    },
+    {
+      "name": "Myaamia Center",
+      "regionId": "US-OH",
+      "sourceUrl": "https://www.miamination.com/myaamia-center/",
+      "sourceTitle": "Myaamia Center - Miamination.com",
+      "reviewedScope": "Source-stated institutional setting in Oxford, OH only; not a tribal headquarters, territory, relationship or current-base determination.",
+      "reviewDate": "2026-11-18",
+      "note": "The page places the center in an academic setting in Oxford, Ohio. This connection supports source navigation only; the institution’s broader relationships and substantive work await research.",
+      "identityOnly": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "associationType": "source-stated-institution-setting",
+      "period": "Source-stated setting; timing and present-day status unassessed",
+      "evidenceNote": "The page places the center in an academic setting in Oxford, Ohio. This connection supports source navigation only; the institution’s broader relationships and substantive work await research."
     }
   ],
   "identitySources": [
