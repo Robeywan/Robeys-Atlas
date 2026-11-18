@@ -23,7 +23,6 @@ export function renderStudyGuidesPage(items) {
       '<p class="study-guide-status" data-study-status role="status" aria-live="polite" aria-atomic="true"></p>'+
     '</div><p data-study-empty hidden>No studies match your search.</p>'+
     '<div class="study-guide-entries">'+entries+'</div>'+
-    '<p><a href="../data/owner-reading-leads.json" download>Download the supplied URL catalog</a></p>'+
     '<p class="study-guides-disclaimer">Their claims and citations have not all been independently checked.</p>'+
     '</article></main>';
 }

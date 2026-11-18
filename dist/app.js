@@ -1,6 +1,17 @@
 (()=>{'use strict';
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 const root=new URL('.',document.currentScript.src);
+// Keep individual Word downloads; bulk research JSON remains available to the app.
+const bulkResearchDownloads=new Set(['profiles','sources','owner-reading-leads','owner-map-links','historical-maps'].map(name=>new URL('data/'+name+'.json',root).href));
+$$('a[download]').forEach(link=>{
+ if(!bulkResearchDownloads.has(link.href))return;
+ const paragraph=link.parentElement;
+ if(paragraph?.tagName==='P'&&paragraph.childElementCount===1){paragraph.remove();return;}
+ const before=link.previousSibling,after=link.nextSibling;
+ if(paragraph?.classList.contains('source-data-links')&&before?.nodeType===3&&before.textContent==='Download: ')before.remove();
+ if(after?.nodeType===3&&after.textContent===' · ')after.remove();
+ link.remove();
+});
 const normalize=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’'‘ʻʼ\-]/g,'').replace(/\s+/g,' ').trim();
 let saved=new Set();try{saved=new Set(JSON.parse(localStorage.getItem('nations-atlas-saved')||'[]'));}catch{}
 const syncSaved=()=>{$$('[data-bookmark]').forEach(b=>{const on=saved.has(b.dataset.bookmark);b.classList.toggle('is-saved',on);b.setAttribute('aria-pressed',String(on));b.setAttribute('aria-label',(on?'Remove ':'Save ')+b.dataset.name+(on?' from reading list':' to reading list'));if(b.dataset.textButton!==undefined)b.textContent=on?'Saved to reading list':'Save to reading list';});$$('[data-saved-count]').forEach(x=>x.textContent=saved.size);};

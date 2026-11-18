@@ -156,3 +156,13 @@ body>.wrap:first-of-type{margin-top:20px;border-radius:5px 5px 0 0}
 .region-page .map-pagination button { min-height:2.75rem; padding:.5rem .9rem; }
 .atlas-map .map-page-summary,
 .region-page .map-page-summary { margin:0; }
+
+/* Hide bulk research download controls when JavaScript is unavailable. */
+a[download][href$="data/profiles.json"],
+a[download][href$="data/sources.json"],
+a[download][href$="data/owner-reading-leads.json"],
+a[download][href$="data/owner-map-links.json"],
+a[download][href$="data/historical-maps.json"],
+.prose p:has(> a[download][href$="data/profiles.json"]),
+p:has(> a[download][href$="data/owner-reading-leads.json"]),
+p:has(> a[download][href$="data/owner-map-links.json"]) { display:none !important; }
