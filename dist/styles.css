@@ -148,3 +148,11 @@ body>.wrap:first-of-type{margin-top:20px;border-radius:5px 5px 0 0}
 .atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{background-image:linear-gradient(#142e2a14,#142e2a14),url('assets/home-apache-storage-basket-met.webp');background-repeat:no-repeat;background-size:cover,480px auto;background-position:center,center 42%;mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent);transform:translateY(-50%)}
 @media(max-width:700px){.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{background-size:cover,320px auto;background-position:center,center 42%}}
 @media print{.atlas-home-page .historic-image-open::before,.atlas-home-page .historic-image-open::after{display:none}}
+
+/* State and province directory pagination controls. */
+.atlas-map .map-pagination,
+.region-page .map-pagination { display:flex; flex-wrap:wrap; align-items:center; gap:.75rem; margin-block:1rem; }
+.atlas-map .map-pagination button,
+.region-page .map-pagination button { min-height:2.75rem; padding:.5rem .9rem; }
+.atlas-map .map-page-summary,
+.region-page .map-page-summary { margin:0; }
