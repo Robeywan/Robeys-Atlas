@@ -14868,6 +14868,52 @@
           "sha256": "a231a0fc73ad2e6f2b2f624e5ae1b3869533153cf67866569c75eeb0ceb78d98"
         }
       }
+    },
+    {
+      "id": "abegweit-scotchfort-sentinel-2025",
+      "profileSlugs": [
+        "abegweit-first-nation"
+      ],
+      "asset": "assets/profile-visuals/abegweit-scotchfort-sentinel-2025.jpg",
+      "cardAsset": "assets/profile-visuals/abegweit-scotchfort-sentinel-2025.jpg",
+      "title": "Satellite view of the Scotchfort area, Prince Edward Island",
+      "credit": "Contains modified Copernicus Sentinel data 2025",
+      "cardCredit": "Satellite view · Contains modified Copernicus Sentinel data 2025",
+      "creator": "European Union Copernicus Sentinel-2 mission",
+      "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_20TNS_20250904_0_L2A",
+      "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/20/T/NS/2025/9/S2B_20TNS_20250904_0_L2A/TCI.tif",
+      "rightsLabel": "Copernicus Sentinel open-data legal notice",
+      "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+      "scope": "True-color satellite view taken September 4, 2025. This 6 × 4 km crop includes the geographic reference points for Scotchfort and Scotchfort 4. The source pixels were cropped and encoded as a JPEG at their native 10 m resolution.",
+      "reviewedAt": "2026-11-19",
+      "date": "2025-09-04",
+      "alt": "Satellite view of fields, roads and settlements beside a winding waterway in the Scotchfort area of Prince Edward Island.",
+      "contextSources": [
+        {
+          "title": "Sentinel-2 scene S2B_20TNS_20250904_0_L2A",
+          "url": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_20TNS_20250904_0_L2A",
+          "inspectionScope": "Selected source scene, time of acquisition, true-color asset, georeference and native resolution."
+        },
+        {
+          "title": "Abegweit First Nation, Canada and Prince Edward Island announce a multilateral emergency management agreement",
+          "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/abegweit-first-nation-the-government-of-canada-and-the-province-of-prince-edward-island-announce-a-first-of-its-kind-multilateral-emergency-managem.html",
+          "inspectionScope": "The May 4, 2026 joint statement locates Abegweit’s headquarters at Scotchfort and identifies Scotchfort 4. The photograph records a geographic view."
+        }
+      ],
+      "retrievalNotes": {
+        "contentType": "image/jpeg",
+        "format": "JPEG",
+        "dimensions": [
+          600,
+          400
+        ],
+        "bytes": 102410,
+        "sha256": "7ba83daedb20ecc711f9df0547c34b95ad58877241fb21bcf371c996d8751386",
+        "transformation": "RGB scene crop and JPEG encoding only. No retouch, annotations or added pixels.",
+        "sourceScene": "S2B_20TNS_20250904_0_L2A",
+        "acquiredUTC": "2025-09-04T15:19:57.028000Z"
+      },
+      "deliveredPixelsViewed": true
     }
   ],
   "deferred": [

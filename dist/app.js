@@ -1,6 +1,83 @@
 (()=>{'use strict';
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 const root=new URL('.',document.currentScript.src);
+
+function enableProfilePhotoViewer() {
+  const figures = $$('.profile-visual-photographs figure, .apache-collage-intro figure').filter(figure =>
+    figure.querySelector('img') && figure.querySelector('figcaption')
+  );
+  if (!figures.length || typeof HTMLDialogElement === 'undefined' || !HTMLDialogElement.prototype.showModal) return;
+
+  const dialog = document.createElement('dialog');
+  dialog.className = 'profile-photo-viewer';
+  dialog.setAttribute('aria-label', 'Profile photographs');
+  const close = document.createElement('button');
+  close.type = 'button';
+  close.textContent = 'Close';
+  close.autofocus = true;
+  const image = document.createElement('img');
+  const caption = document.createElement('figcaption');
+  caption.setAttribute('aria-live', 'polite');
+  const panel = document.createElement('figure');
+  panel.append(image, caption);
+  dialog.append(close, panel);
+  document.body.append(dialog);
+
+  let current = 0;
+  let opener;
+  function showPhoto(index) {
+    current = (index + figures.length) % figures.length;
+    const figure = figures[current];
+    const original = figure.querySelector('img');
+    image.src = original.currentSrc || original.src;
+    image.alt = original.alt;
+    const copy = figure.querySelector('figcaption').cloneNode(true);
+    caption.replaceChildren(...Array.from(copy.childNodes));
+  }
+  figures.forEach((figure, index) => {
+    const original = figure.querySelector('img');
+    const open = document.createElement('button');
+    open.type = 'button';
+    open.className = 'profile-photo-open';
+    open.setAttribute('aria-haspopup', 'dialog');
+    open.setAttribute('aria-label', 'Enlarge photo: ' + original.alt);
+    const label = document.createElement('span');
+    label.textContent = 'Enlarge photo';
+    original.replaceWith(open);
+    open.append(original, label);
+    open.addEventListener('click', () => {
+      opener = open;
+      showPhoto(index);
+      dialog.showModal();
+    });
+  });
+
+  if (figures.length > 1) {
+    const controls = document.createElement('div');
+    controls.className = 'profile-photo-controls';
+    for (const [label, step] of [['Previous photo', -1], ['Next photo', 1]]) {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.textContent = label;
+      button.addEventListener('click', () => showPhoto(current + step));
+      controls.append(button);
+    }
+    dialog.append(controls);
+    dialog.addEventListener('keydown', event => {
+      if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
+        event.preventDefault();
+        showPhoto(current + (event.key === 'ArrowRight' ? 1 : -1));
+      }
+    });
+  }
+  close.addEventListener('click', () => dialog.close());
+  dialog.addEventListener('close', () => {
+    image.removeAttribute('src');
+    opener?.focus();
+  });
+}
+enableProfilePhotoViewer();
+
 // Keep individual Word downloads; bulk research JSON remains available to the app.
 const bulkResearchDownloads=new Set(['profiles','sources','owner-reading-leads','owner-map-links','historical-maps'].map(name=>new URL('data/'+name+'.json',root).href));
 $$('a[download]').forEach(link=>{

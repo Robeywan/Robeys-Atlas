@@ -26059,9 +26059,9 @@
       "name": "Abegweit First Nation",
       "slug": "abegweit-first-nation",
       "entryType": "named-community-or-institution",
-      "entryStage": "name-only-outline",
-      "researchStatus": "queued",
-      "substantiveWorks": 0,
+      "entryStage": "reviewed-starting-guide",
+      "researchStatus": "source-guide",
+      "substantiveWorks": 3,
       "supportingIdentificationReferences": 1,
       "readingSourceCards": 0,
       "identificationEvidence": [
@@ -26076,7 +26076,113 @@
         }
       ],
       "dedupNote": "The retained identity proposal was independently checked against its then-current218 plus approved-four metadata. A separate complete current219 raw/compiled/public-queue/identity/alias/region/original-name/literal-URL rebind is now pinned; only one existing Mi’kmaq214 regional FAQ object is contextual. No Abegweit entity/name/alias/route or exact contact-URL match appeared in the inspected current219 sets. This bounded comparison does not establish global novelty, exhaustive entity equivalence, parentage, affiliation, ancestry or unrelatedness.",
-      "addedAt": "2026-11-06"
+      "addedAt": "2026-11-06",
+      "sources": [
+        {
+          "id": "abegweit-about-community",
+          "title": "Who We Are",
+          "publisher": "Abegweit First Nation",
+          "url": "https://abegweit.ca/about/",
+          "type": "First Nation community account",
+          "topics": [
+            "Abegweit First Nation",
+            "Prince Edward Island",
+            "community history",
+            "Morell",
+            "Rocky Point",
+            "Scotchfort"
+          ],
+          "annotation": "The Nation introduces itself as a Mi’kmaq community in Epekwitk (Prince Edward Island), lists three reserve communities, and dates the formation of its band government to 1972.",
+          "accessed": "2026-11-19",
+          "contentReviewedAt": "2026-11-19",
+          "contentReviewScope": "Page heading and selected self-description, distinct founding date and three place names on lines 67, 69, 73–74. The date applies to the band government; the earlier continuity, disputed age estimates, present leaders, affiliate relationships and territories are outside the selected account.",
+          "countsTowardMinimum": true
+        },
+        {
+          "id": "abegweit-fisheries-program",
+          "title": "Fisheries & Natural Resources",
+          "publisher": "Abegweit First Nation",
+          "url": "https://abegweit.ca/resource/fisheries-natural-resources/",
+          "type": "First Nation department overview",
+          "topics": [
+            "Abegweit First Nation",
+            "fisheries",
+            "conservation",
+            "stream enhancement",
+            "hatchery"
+          ],
+          "annotation": "The Nation describes fisheries, stream enhancement and conservation work and identifies the Abegweit Biodiversity Enhancement Hatchery under the department.",
+          "accessed": "2026-11-19",
+          "contentReviewedAt": "2026-11-19",
+          "contentReviewScope": "Department heading and descriptions of stream enhancement/conservation and hatchery oversight on lines 67–70. The hatchery is described further in its own source; the Society’s name, separate agreements, prices, stock and outcome claims are outside scope.",
+          "countsTowardMinimum": false
+        },
+        {
+          "id": "abegweit-hatchery-story",
+          "title": "Our Story — Abegweit Biodiversity Enhancement Hatchery",
+          "publisher": "Abegweit Biodiversity Enhancement Hatchery",
+          "url": "https://abegweithatchery.ca/story/",
+          "type": "Community program account",
+          "topics": [
+            "Abegweit First Nation",
+            "Scotchfort",
+            "conservation",
+            "hatchery",
+            "fishery education"
+          ],
+          "annotation": "The hatchery describes its 2012 launch, its Scotchfort location, and fish stocking and education work for Island rivers.",
+          "accessed": "2026-11-19",
+          "contentReviewedAt": "2026-11-19",
+          "contentReviewScope": "Publisher/title and selected launch, stocking, species and education descriptions on lines 0, 2 and 22–26. The ceremonial statement, survey claims, techniques, exclusivity, economic estimate, effectiveness and linked content were outside scope.",
+          "countsTowardMinimum": true
+        },
+        {
+          "id": "abegweit-emergency-agreement",
+          "title": "Abegweit First Nation, the Government of Canada, and the Province of Prince Edward Island announce a first-of-its-kind multilateral emergency management agreement",
+          "publisher": "Indigenous Services Canada, Abegweit First Nation, and the Province of Prince Edward Island",
+          "url": "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/abegweit-first-nation-the-government-of-canada-and-the-province-of-prince-edward-island-announce-a-first-of-its-kind-multilateral-emergency-managem.html",
+          "type": "Joint agency and Nation news release",
+          "topics": [
+            "Abegweit First Nation",
+            "Prince Edward Island",
+            "Scotchfort",
+            "public preparedness"
+          ],
+          "annotation": "The May 4, 2026 news release identifies the Nation’s headquarters in Scotchfort and names Morell 2, Rocky Point 3 and Scotchfort 4. It describes an agreement to coordinate emergency planning, training and preparedness.",
+          "accessed": "2026-11-19",
+          "contentReviewedAt": "2026-11-19",
+          "contentReviewScope": "Named publication parties and publication date, announced agreement and planning purpose, and the headquarters/three named reserves in lines 23–38, 64 and 106. Legal interpretation, implementation, individual officeholders, population, language translation, boundaries and funding were outside scope.",
+          "countsTowardMinimum": true,
+          "publicationDate": "2026-05-04"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Three communities on Epekwitk",
+          "text": "Abegweit’s account of its history dates the formation of its band government to 1972. The Nation names Morell, Rocky Point and Scotchfort as its three communities. A joint announcement by Abegweit, Canada and Prince Edward Island lists their numbered reserve names as Morell 2, Rocky Point 3 and Scotchfort 4.",
+          "sourceIds": [
+            "abegweit-about-community",
+            "abegweit-emergency-agreement"
+          ]
+        },
+        {
+          "title": "A community hatchery in Scotchfort",
+          "text": "Abegweit’s Fisheries and Natural Resources program identifies stream enhancement and conservation as part of its work. In Scotchfort, the Abegweit Biodiversity Enhancement Hatchery raises brook trout and Atlantic salmon to stock Island rivers. The hatchery dates its start to 2012. Its education work introduces younger generations to the Island fishery and ways to help preserve it.",
+          "sourceIds": [
+            "abegweit-fisheries-program",
+            "abegweit-hatchery-story"
+          ]
+        },
+        {
+          "title": "Planning for emergencies",
+          "text": "On May 4, 2026, Abegweit First Nation, Canada and Prince Edward Island announced an agreement to coordinate emergency management. The announcement describes joint planning and training for emergencies that affect the community.",
+          "sourceIds": [
+            "abegweit-emergency-agreement"
+          ]
+        }
+      ],
+      "listedReadingSources": 4,
+      "reviewedAt": "2026-11-19"
     },
     {
       "name": "Lennox Island First Nation",
@@ -39924,17 +40030,20 @@
       "countsTowardMinimum": false
     },
     {
-      "name": "Abegweit First Nation",
       "regionId": "CA-PE",
-      "associationType": "Province-level institutional contact setting — identity navigation only",
-      "period": "Contact-page identity scope inspected 2026-11-06; prose publication date unestablished",
-      "sourceUrl": "https://abegweit.ca/contact/",
-      "sourceTitle": "Contact — Abegweit First Nation",
-      "evidenceNote": "The page repeats the institutional self-name and displays PE in its contact address. Only the province-level contact setting is selected; no entire-province territory, precise site, governing jurisdiction or all-resident ethnicity is inferred.",
-      "reviewedScope": "Actual retained turn4652view0: self-name prefix152 before partnership and footer name154; only province abbreviationPE from contact107/144. No partnership/body/governance/legal/ancestry/language/private contacts or media selected.",
-      "reviewDate": "2026-11-06",
-      "identityOnly": true,
-      "countsTowardMinimum": false
+      "name": "Abegweit First Nation",
+      "associationType": "Community locations on Prince Edward Island",
+      "period": "Locations named by Abegweit First Nation and in a May 2026 joint announcement",
+      "sourceUrl": "https://abegweit.ca/about/",
+      "sourceTitle": "Who We Are",
+      "sourcePublisher": "Abegweit First Nation",
+      "evidenceNote": "Abegweit First Nation places Morell, Rocky Point and Scotchfort on Epekwitk (Prince Edward Island). The joint announcement identifies Scotchfort as the location of the Nation’s headquarters.",
+      "reviewDate": "2026-11-19",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.canada.ca/en/indigenous-services-canada/news/2026/05/abegweit-first-nation-the-government-of-canada-and-the-province-of-prince-edward-island-announce-a-first-of-its-kind-multilateral-emergency-managem.html"
+      ]
     },
     {
       "name": "Lennox Island First Nation",

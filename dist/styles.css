@@ -166,3 +166,18 @@ a[download][href$="data/historical-maps.json"],
 .prose p:has(> a[download][href$="data/profiles.json"]),
 p:has(> a[download][href$="data/owner-reading-leads.json"]),
 p:has(> a[download][href$="data/owner-map-links.json"]) { display:none !important; }
+
+
+/* Enlarge the credited photographs already displayed on a directory page. */
+.profile-photo-open{display:block;width:100%;position:relative;padding:0;border:0;background:transparent;cursor:zoom-in;color:inherit;font:inherit}
+.profile-photo-open > span{position:absolute;right:.5rem;bottom:.5rem;padding:.25rem .55rem;border-radius:.25rem;background:#193b30;color:#fff;font:600 .8rem/1.4 system-ui,sans-serif}
+.profile-photo-open:focus-visible,.profile-photo-viewer button:focus-visible{outline:3px solid #ba762b;outline-offset:2px}
+.profile-photo-viewer{box-sizing:border-box;width:min(94vw,70rem);max-width:94vw;max-height:94vh;max-height:94dvh;overflow:auto;margin:auto;padding:1rem;border:0;border-radius:.5rem;background:#fffaf0;color:#193b30}
+.profile-photo-viewer::backdrop{background:rgb(15 24 21 / 85%)}
+.profile-photo-viewer[open]{display:flex;flex-direction:column;gap:.7rem}
+.profile-photo-viewer > button{align-self:flex-end}
+.profile-photo-viewer button{padding:.55rem .85rem;border:1px solid #6e786c;border-radius:.25rem;background:#fffdf7;color:#193b30;cursor:pointer;font:inherit}
+.profile-photo-viewer figure{margin:0}.profile-photo-viewer img{display:block;margin:auto;width:auto;max-width:100%;max-height:65vh;max-height:65dvh;object-fit:contain}
+.profile-photo-viewer figcaption{margin-top:.65rem;line-height:1.45}.profile-photo-viewer figcaption span{display:block}
+.profile-photo-controls{display:flex;justify-content:space-between;gap:1rem}
+@media print{.profile-photo-open > span,.profile-photo-viewer[open]{display:none}}
