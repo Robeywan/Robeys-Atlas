@@ -37774,7 +37774,7 @@
     "name": "Comanche",
     "region": "Southern Plains / Texas / Oklahoma",
     "kind": "People / community",
-    "overview": "Comanche people’s histories connect the Southern Plains, Texas and the present Comanche Nation in Oklahoma. This foundation brings the Nation’s own account together with community-directed language history, a consulted Texas report, an edited treaty and attributed educational accounts. Historical bands, the broader people and the present government retain their own contexts.",
+    "overview": "Comanche histories connect the Southern Plains and the Comanche Nation in Oklahoma. Start with community accounts and original records on diplomacy, language and cultural life, then follow the individual historical band guides.",
     "sections": [
       {
         "title": "Names, a wider people and a present Nation",
@@ -37875,6 +37875,38 @@
           "p83-babcock2023",
           "p83-code-talker-honor-dance",
           "p83-nmai-native-words-2020"
+        ]
+      },
+      {
+        "title": "A Comanche record of Sierra Blanca",
+        "text": "A Library of Congress article by Mark Hartsell describes a pictorial map drawn by an unnamed Comanche participant after the 1787 event in the Sierra Blanca Mountains of what is now New Mexico. The article says Spanish officials later added an explanatory key. The drawing and the later key give readers two parts of the historical record to consider separately.",
+        "sourceIds": [
+          "cm-sierra-blanca-map"
+        ]
+      },
+      {
+        "title": "Horse trade and meetings across the Plains",
+        "text": "The National Park Service places Comanche horse trade within the nineteenth-century network around Bent’s Fort in what is now Colorado. The Fort Larned brochure also names Comanches among the nations that met the Peace Commission at Medicine Lodge Creek, Kansas, in 1867. The historical map links point to these two specific connections. The treaty transcription provides a separate route into the wording of the agreement.",
+        "sourceIds": [
+          "cm-high-plains-connections",
+          "cm-fort-larned-medicine-lodge",
+          "p83-medicine-lodge1867"
+        ]
+      },
+      {
+        "title": "Public recognition of the Code Talkers",
+        "text": "Ruth Quinn’s 2012 Army article reports French recognition of Code Talkers in 1989 and later recognition of Charles Chibitty by the Military Intelligence Corps Association. The article draws on the Smithsonian’s exhibition. Read it alongside the Nation’s account of family-led remembrance for two perspectives on how the contributions were publicly recognized.",
+        "sourceIds": [
+          "cm-quinn-code-talkers",
+          "p83-code-talker-honor-dance",
+          "p83-nmai-native-words-2020"
+        ]
+      },
+      {
+        "title": "Music, teaching and Doc Tate Nevaquaya",
+        "text": "The National Endowment for the Arts’ biography of 1986 National Heritage Fellow Joyce Doc Tate Nevaquaya describes his public work as a Comanche musician and teacher. It follows his study of flute music, concert performances and two recordings issued in the 1970s. The profile gives one musician’s path into public teaching and recording.",
+        "sourceIds": [
+          "cm-nevaquaya-flute"
         ]
       }
     ],
@@ -38229,6 +38261,91 @@
           }
         ],
         "language": "en"
+      },
+      {
+        "id": "cm-sierra-blanca-map",
+        "url": "https://blogs.loc.gov/loc/2025/05/battle-of-the-sierra-blanca-the-comanche-map/",
+        "title": "Battle of the Sierra Blanca: The Comanche Map",
+        "publisher": "Library of Congress · Mark Hartsell",
+        "type": "Museum / archive",
+        "topics": [
+          "Cartography",
+          "History",
+          "New Mexico"
+        ],
+        "annotation": "Hartsell’s May 27, 2025 account distinguishes a Comanche participant’s pictorial record of the 1787 event from the Spanish officials’ later key.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the article’s date and byline and its description of the 1787 Sierra Blanca event and the two parts of the record. Map pixels, linked items and rights were not reviewed.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "cm-high-plains-connections",
+        "url": "https://home.nps.gov/articles/000/hpg-connections.htm",
+        "title": "Connections Across the High Plains",
+        "publisher": "National Park Service",
+        "type": "Government",
+        "topics": [
+          "Trade",
+          "Diplomacy",
+          "Colorado"
+        ],
+        "annotation": "The National Park Service describes exchange around Bent’s Fort, including Comanche participation in the horse trade and regional diplomacy.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the southern High Plains geography, Colorado location around Bent’s Fort and account of the trade networks. No shared or exclusive territory conclusions.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "cm-fort-larned-medicine-lodge",
+        "url": "https://www.nps.gov/fols/planyourvisit/audio-described-brochure.htm",
+        "title": "Audio-Described Brochure — Fort Larned National Historic Site",
+        "publisher": "National Park Service · Fort Larned National Historic Site",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Treaties",
+          "Kansas"
+        ],
+        "annotation": "The public brochure identifies Comanches among the participants in the 1867 council at Medicine Lodge Creek in Kansas.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the displayed Medicine Lodge council passage and the displayed March 17, 2021 update date. No linked audio, maps or current treaty law used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "cm-quinn-code-talkers",
+        "url": "https://www.army.mil/article/90294/charles_chibitty_comanche_code_talker",
+        "title": "Charles Chibitty: Comanche Code-Talker",
+        "publisher": "U.S. Army",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Language",
+          "Code talkers"
+        ],
+        "annotation": "Ruth Quinn’s November 1, 2012 Army article describes Charles Chibitty’s service and later public recognition. It credits the Smithsonian exhibition for much of its account.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the byline, date, account of public recognition and the author's description of source provenance. No military instructions, transmission details, linked images or materials were used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "cm-nevaquaya-flute",
+        "url": "https://www.arts.gov/honors/heritage/joyce-doc-tate-nevaquaya",
+        "title": "Joyce Doc Tate Nevaquaya",
+        "publisher": "National Endowment for the Arts",
+        "type": "Government",
+        "topics": [
+          "Music",
+          "Arts",
+          "Teaching"
+        ],
+        "annotation": "The National Heritage Fellowship profile describes the Comanche musician’s research, recordings, and teaching.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the 1986 fellowship label and biography sections on his public performances, recordings, musical work and teaching. No recordings, photographs, techniques or cultural permissions taken from this page.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -38270,7 +38387,7 @@
       "Comanche-authored historical scholarship and distinct band-level histories remain important gaps. Treaty participation alone does not establish every community’s consent or present citizenship.",
       "The Smithsonian addition reviews selected edited Chibitty passages, not full interviews, original school/military records or comprehensive twentieth-century community/government history. A daughter’s statement is read through the museum’s citation to Williams (2005), not through independent review of that article."
     ],
-    "reviewedAt": "2026-10-27",
+    "reviewedAt": "2026-11-18",
     "startingGuide": {
       "batchId": "starter-guides-01",
       "reviewedAt": "2026-10-27",
@@ -38305,12 +38422,37 @@
       "fixedSourceMinimum": null,
       "researchComplete": false
     },
+    "relatedProfileSlugs": [
+      "hanitaibo",
+      "wianv",
+      "kotsoteka",
+      "nokoni",
+      "penateka",
+      "quahadi",
+      "yamparika",
+      "comanche-nation-oklahoma"
+    ],
     "added": false,
     "slug": "comanche",
     "regionGroups": [
       "Great Plains"
     ],
     "mapRegions": [
+      {
+        "id": "US-CO",
+        "name": "Colorado",
+        "key": "us-co"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      },
       {
         "id": "US-OK",
         "name": "Oklahoma",
@@ -38330,14 +38472,135 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Oklahoma",
-    "overview": "Comanche Nation, Oklahoma has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "This guide introduces the Comanche Nation’s Oklahoma government record, its Language Department’s public learning route, and the Comanche National Museum in Lawton.",
+    "relationshipNote": "This guide follows the name and context described in its cited sources. See the Comanche overview for the wider history.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "The Comanche Nation in Oklahoma",
+        "text": "Oklahoma State University Libraries records the Nation under Comanche Nation and the catalogue label Comanche Nation, Oklahoma. The record attributes the spelling Nʉmʉnʉʉ to the Nation’s own account. The Bureau of Indian Affairs identifies the Comanche Nation among the tribes served by its Anadarko Agency.",
+        "sourceIds": [
+          "cm-nation-osu-name",
+          "cm-nation-bia-anadarko"
+        ]
+      },
+      {
+        "title": "Comanche language education",
+        "text": "The Comanche Nation Language Department’s account describes the community planning and preservation work that shaped the department’s teaching goals. Its site offers a starting point for learners under the title Learn Nʉmʉ Tekwapʉ̠.",
+        "sourceIds": [
+          "p83-language-department",
+          "cm-nation-learn-comanche"
+        ]
+      },
+      {
+        "title": "The Comanche National Museum in Lawton",
+        "text": "The City of Lawton lists the Comanche National Museum as a community place in Lawton, Oklahoma. Its entry is a starting point for locating the museum.",
+        "sourceIds": [
+          "cm-nation-museum-lawton"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "cm-nation-osu-name",
+        "url": "https://oms.library.okstate.edu/s/tribal-nations-metadata/item/21173",
+        "title": "Comanche Nation",
+        "publisher": "Oklahoma State University Libraries · Tribal Nations in Oklahoma Metadata",
+        "type": "Museum / archive",
+        "topics": [
+          "Naming",
+          "Community institutions",
+          "Oklahoma"
+        ],
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "All 48 numbered lines delivered. Selected the institution label and the name and provenance fields at lines 22–35 and 41–43. Linked sources and controlled vocabulary entries uninspected.",
+        "countsTowardMinimum": false,
+        "annotation": "The library's metadata connects the Comanche Nation, Oklahoma catalogue label to the Nation and records the spelling Nʉmʉnʉʉ with provenance to the Nation’s own account."
+      },
+      {
+        "id": "cm-nation-bia-anadarko",
+        "url": "https://www.bia.gov/regional-offices/southern-plains/anadarko-agency",
+        "title": "Anadarko Agency",
+        "publisher": "Bureau of Indian Affairs",
+        "type": "Government",
+        "topics": [
+          "Government navigation",
+          "Community institutions",
+          "Oklahoma"
+        ],
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "All 39 numbered lines delivered. Selected agency identity at lines 2–3 and the Comanche Nation’s listing among tribes served at lines 22–23. Population/eligibility, officeholder, legal and lease claims unselected. No attached records opened.",
+        "countsTowardMinimum": false,
+        "annotation": "The BIA identifies the Comanche Nation among the tribes served by the Anadarko Agency. The listed agency addresses concern the federal office."
+      },
+      {
+        "id": "p83-language-department",
+        "title": "About Us — Comanche Nation Language Department",
+        "url": "https://www.talkcomanche.org/about",
+        "publisher": "Comanche Nation Language Department",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community institutions"
+        ],
+        "annotation": "A public institutional history connecting the language planning group, the preservation committee and the department’s teaching goals. Descriptions of aims are not measured learning outcomes.",
+        "accessed": "2026-10-26",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Actual complete About Us body, web lines10–130, including How it began, language planning, preservation committee and department goals. Linked videos, dictionary, app, curriculum, certification records and learner outcomes not inspected.",
+        "countsTowardMinimum": true,
+        "accessStatus": "Public text inspected",
+        "language": "en",
+        "perspective": "Department’s own retrospective and program description; undated.",
+        "countReason": "One substantive institutional account. The related Nation language landing route is not counted again.",
+        "relatedInspectedLinks": [
+          {
+            "title": "Nation language department access route",
+            "url": "https://www.comanchenation.com/culture/page/language",
+            "scope": "Official indexed body links TalkComanche; direct body retrieval failed. This route is supporting identification, not another inspected work."
+          }
+        ]
+      },
+      {
+        "id": "cm-nation-learn-comanche",
+        "url": "https://www.talkcomanche.org/learn-comanche-language",
+        "title": "Learn Nʉmʉ Tekwapʉ̠",
+        "publisher": "Comanche Nation Language Department",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community institutions"
+        ],
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Only delivered lines 0–11 of provider-reported 92. Selected the displayed department and page title. The undelivered body and all linked learning materials remain uninspected.",
+        "countsTowardMinimum": false,
+        "annotation": "Department-published learning entry point, with the link title and departmental attribution checked."
+      },
+      {
+        "id": "cm-nation-museum-lawton",
+        "url": "https://www.lawtonok.gov/541/Comanche-National-Museum",
+        "title": "Comanche National Museum",
+        "publisher": "City of Lawton",
+        "type": "Government",
+        "topics": [
+          "Museum",
+          "Community institutions",
+          "Oklahoma"
+        ],
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "All 81 numbered lines delivered. Selected the City listing and explicit Lawton, Oklahoma address at lines 19–23. No image or collections opened.",
+        "countsTowardMinimum": false,
+        "annotation": "The City lists the museum among its community places and locates it in Lawton, Oklahoma. Use as a museum location reference, separate from the Nation’s government offices."
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -38350,21 +38613,27 @@
       }
     ],
     "searchTerms": [],
-    "relatedOriginalIds": [],
+    "relatedOriginalIds": [
+      83
+    ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional accounts written by or with the community concerned."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further historical or community-specific reading remains to be reviewed."
       ]
     },
+    "overviewSourceIds": [
+      "cm-nation-osu-name",
+      "cm-nation-learn-comanche",
+      "cm-nation-museum-lawton"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "comanche-nation-oklahoma",
     "regionGroups": [
       "Great Plains"
@@ -51643,7 +51912,7 @@
     "name": "Hanitaibo",
     "kind": "Comanche band-name reading route",
     "region": "Comanche band-name context; regional history under review",
-    "overview": "Hanitaibo is an individually findable Comanche band-name route recorded in a 2021 consulted Texas report. Detailed history, annotated reading sources and specifically relevant imagery remain queued.",
+    "overview": "The TxDOT report includes Hanitaibo in its discussion of historical Comanche bands. Research on a state connection remains open. The broader Comanche guide gives context for the band names used in the report.",
     "relationshipNote": "The 2021 report lists Hanitaibo with a Corn People gloss among further Comanche band names, citing the 2010 community language dictionary. This is an attributed name-only outline, not proof of a separate present government, exact homeland or individual descent.",
     "searchTerms": [],
     "identificationEvidence": [
@@ -69333,15 +69602,74 @@
     "added": true,
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
-    "region": "Oklahoma",
-    "overview": "Kotsoteka is an individually findable historical Comanche band/division name. Detailed history, reading sources and specifically relevant imagery are queued.",
-    "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "region": "Western Oklahoma / New Mexico diplomatic history",
+    "overview": "Kotsoteka appears in historical accounts of Comanche bands in western Oklahoma and of diplomacy in New Mexico.",
+    "relationshipNote": "This guide follows the name and context described in its cited sources. See the Comanche overview for the wider history.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Historical settings in Oklahoma and New Mexico",
+        "text": "The consulted TxDOT report describes a Kotsoteka setting along the Canadian River in what is now western Oklahoma. The National Park Service’s account of 1786 diplomacy also identifies Ecueracapa as a Kotsoteka leader and records negotiations in Santa Fe. The two state links give separate historical contexts for the band.",
+        "sourceIds": [
+          "p83-txdot2021",
+          "cm-kotsoteka-1786"
+        ]
+      },
+      {
+        "title": "Reading about the 1786 agreements",
+        "text": "The National Park Service distinguishes the meetings with Spanish officials from separate Ute–Comanche negotiations. The article explains that the surviving Spanish accounts do not preserve the terms of the separate agreement. That gap matters when reading the history of Indigenous diplomacy.",
+        "sourceIds": [
+          "cm-kotsoteka-1786"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "p83-txdot2021",
+        "title": "TxDOT Tribal Histories: Comanche Nation Research Report — selected pages",
+        "url": "https://ftp.txdot.gov/pub/txdot-info/env/toolkit/415-03-rpt.pdf",
+        "publisher": "Texas Department of Transportation",
+        "type": "Government / community-consulted research",
+        "topics": [
+          "Texas",
+          "History",
+          "Bands",
+          "Displacement"
+        ],
+        "annotation": "A chronological Texas synthesis prepared with the Nation’s historic-preservation office. Selected text supports a regional starting guide; its sources, dates and interpretations still need comparison.",
+        "accessed": "2026-10-26",
+        "contentReviewedAt": "2026-10-26",
+        "contentReviewScope": "Downloaded actual72-page PDF and read selected text: printed/PDFpp3,6–10,35–36,50–54. Map images and cited originals were not inspected; no sensitive-site locations or ceremonial instructions are reproduced.",
+        "countsTowardMinimum": true,
+        "accessStatus": "Public text inspected",
+        "language": "en",
+        "publicationDate": "2021-12",
+        "citation": "Texas Department of Transportation. 2021. TxDOT Tribal Histories: Comanche Nation Research Report. December. Selected pages.",
+        "accessNotes": "Browser fetch timed out; official file downloaded successfully and selected pages extracted with pypdf. Review is textual, not visual inspection of illustrations. Internal chronology includes Texas annexation as1846 onp36 and a March1882 visit after1891 onp54; these dates are not adopted. Evaluative claims about individual leaders and reported historical counts remain outside this synthesis. Consultation does not make every statement independently verified.",
+        "perspective": "Agency synthesis with documented Comanche THPO consultation; underlying works not independently inspected.",
+        "countReason": "One substantial directly relevant report, selected pages read; alternate host and archive editions would be the same work."
+      },
+      {
+        "id": "cm-kotsoteka-1786",
+        "url": "https://home.nps.gov/articles/000/indigenous-diplomacy-the-ute-comanche-treaty-of-1786.htm",
+        "title": "Indigenous Diplomacy — The Ute-Comanche Treaty of 1786",
+        "publisher": "National Park Service",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Diplomacy",
+          "New Mexico"
+        ],
+        "annotation": "The article identifies Ecueracapa as a Kotsoteka leader and describes meetings in Santa Fe and separate diplomacy with the Utes.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the passages identifying Ecueracapa and Santa Fe negotiations and distinguishing the Ute–Comanche negotiations. No current government or unrecorded agreement terms inferred.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -69372,23 +69700,33 @@
       "comanche"
     ],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional accounts written by or with the community concerned."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further historical or community-specific reading remains to be reviewed."
       ]
     },
+    "overviewSourceIds": [
+      "p83-txdot2021",
+      "cm-kotsoteka-1786"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "kotsoteka",
     "regionGroups": [
-      "Great Plains"
+      "Southwest",
+      "Great Plains",
+      "Mexico"
     ],
     "mapRegions": [
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      },
       {
         "id": "US-OK",
         "name": "Oklahoma",
@@ -96461,7 +96799,7 @@
     "added": true,
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
-    "region": "Texas",
+    "region": "Texas / New Mexico / Oklahoma (historical)",
     "overview": "Nokoni is a historical Comanche band/division name with its own directory route. The Texas report connects the name with a wider history of local bands and divisions and describes a historical range extending beyond today’s Texas boundary. Anderson’s account of the 1868–1869 winter campaign provides a specifically named episode involving Horseback’s Nokoni camp. It should be read as an outside military-history interpretation, alongside further community histories and original records.",
     "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
     "researchStatus": "source-guide",
@@ -96479,6 +96817,20 @@
       {
         "title": "Winter provisions and community survival",
         "text": "Anderson identifies the camp attacked at Soldier Spring as Horseback’s Nokoni village. His account describes the destruction of stored food needed for winter and later movement toward federal posts. This focused episode opens questions about families, survival and diplomacy; original military reports and community accounts remain separate research tasks.",
+        "sourceIds": [
+          "c5-nokoni-canadian-river"
+        ]
+      },
+      {
+        "title": "The Texas and New Mexico settings",
+        "text": "The consulted TxDOT report gives the Cross Timbers of north Texas and also names New Mexico in its historical Nokoni account. The broader Comanche guide has further reading on how different historical accounts name Comanche bands.",
+        "sourceIds": [
+          "p83-txdot2021"
+        ]
+      },
+      {
+        "title": "Soldier Spring in what is now Oklahoma",
+        "text": "Hugh Allen Anderson’s account identifies Horseback’s Nokoni village at Soldier Spring, in what is now Greer County, Oklahoma, during the winter campaign of 1868. This specific place supports a historical Oklahoma map link alongside the earlier Texas and New Mexico settings.",
         "sourceIds": [
           "c5-nokoni-canadian-river"
         ]
@@ -96577,7 +96929,7 @@
       "c5-nokoni-canadian-river"
     ],
     "communityReview": "Not recorded",
-    "reviewedAt": "2026-10-27",
+    "reviewedAt": "2026-11-18",
     "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
     "startingGuide": {
       "sources": [
@@ -96617,12 +96969,21 @@
       "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
     ],
     "slug": "nokoni",
-    "regionGroups": [],
+    "regionGroups": [
+      "Southwest",
+      "Great Plains",
+      "Mexico"
+    ],
     "mapRegions": [
       {
         "id": "US-NM",
         "name": "New Mexico",
         "key": "us-nm"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
       },
       {
         "id": "US-TX",
@@ -106803,7 +107164,7 @@
     "added": true,
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
-    "region": "Texas",
+    "region": "Texas / Oklahoma (historical)",
     "overview": "Penateka is a historical Comanche band/division reading route. The consulted Texas report places its historical range in central Texas and explains that Comanche bands were fluid rather than a fixed set of separate modern governments. Schilz’s biography of Buffalo Hump adds an account of one Penateka leader’s diplomacy and later movement. These readings offer a starting point for understanding a particular community history within wider Comanche history, while leaving contemporary affiliations and fuller community voices open.",
     "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
     "researchStatus": "source-guide",
@@ -106822,6 +107183,15 @@
         "title": "Diplomacy and movement through one biography",
         "text": "Schilz recounts Buffalo Hump’s meeting with Sam Houston in 1844, his later departure from the Brazos reservation, and settlement near Fort Cobb in 1859. This attributed biography introduces negotiation and displacement alongside warfare. It does not establish that every Penateka family followed the same route or that treaty promises were implemented.",
         "sourceIds": [
+          "c5-penateka-buffalo-hump"
+        ]
+      },
+      {
+        "title": "Central Texas and relocation near Fort Cobb",
+        "text": "The consulted TxDOT report places the historical Penateka band in central Texas. Schilz’s biography follows Buffalo Hump and some of his Penateka followers from the Brazos reservation to the Fort Cobb area in Indian Territory in 1859. Humanities Texas places his later years near Fort Cobb in present-day Oklahoma. The map links identify these separate historical settings.",
+        "sourceIds": [
+          "p83-txdot2021",
+          "cm-buffalo-hump-humanities",
           "c5-penateka-buffalo-hump"
         ]
       }
@@ -106869,6 +107239,23 @@
         "accessed": "2026-10-27",
         "countsTowardMinimum": true,
         "accessNotes": "Public HTML main body inspected. Bibliography points to further works; those underlying publications and original records were not read here."
+      },
+      {
+        "id": "cm-buffalo-hump-humanities",
+        "url": "https://www.humanitiestexas.org/programs/tx-originals/list/buffalo-hump",
+        "title": "Buffalo Hump",
+        "publisher": "Humanities Texas · Texas Originals",
+        "type": "Academic / reference",
+        "topics": [
+          "History",
+          "Bands",
+          "Oklahoma"
+        ],
+        "annotation": "This account identifies Buffalo Hump as a Penateka leader and places the later relocation account near Fort Cobb in present Oklahoma.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the leadership identification and its Fort Cobb paragraph. This is a specific reservation-era link.",
+        "countsTowardMinimum": false
       }
     ],
     "identityVerifiedAt": "2026-10-26",
@@ -106921,7 +107308,7 @@
       "c5-penateka-buffalo-hump"
     ],
     "communityReview": "Not recorded",
-    "reviewedAt": "2026-10-27",
+    "reviewedAt": "2026-11-18",
     "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
     "startingGuide": {
       "sources": [
@@ -106961,8 +107348,15 @@
       "Selected actual-content works support a bounded starting guide. Earlier source objects retain their original review dates and limits. Reused URLs, images and identity-only checks are not new global historical works. Full history and community review remain open."
     ],
     "slug": "penateka",
-    "regionGroups": [],
+    "regionGroups": [
+      "Great Plains"
+    ],
     "mapRegions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
       {
         "id": "US-TX",
         "name": "Texas",
@@ -113729,7 +114123,7 @@
     "added": true,
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
-    "region": "Texas; New Mexico",
+    "region": "Texas / New Mexico / Oklahoma (historical)",
     "overview": "Quahadi, also written Quahada in the selected historical account, is a Comanche band/division reading route. The Texas report situates its history in the Llano Estacado while emphasizing the wider fluidity of Comanche band organization. Hosmer’s Quanah Parker biography follows one leader from resistance on the plains into later reservation-era work. These are starting readings about a particular historical community and individual, not a claim that one leader represented every Comanche group or that all families shared one experience.",
     "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
     "researchStatus": "source-guide",
@@ -113749,6 +114143,21 @@
         "text": "Hosmer’s account describes Quanah’s leadership among the Quahadas and his later involvement in ranching, leases and other institutions under reservation conditions. Those choices should be read as a particular leader’s responses to pressure, rather than proof of unanimous consent or a complete account of family and community priorities.",
         "sourceIds": [
           "c5-quahadi-quanah"
+        ]
+      },
+      {
+        "title": "The Texas Panhandle and eastern New Mexico",
+        "text": "The historical Quahadi account in the consulted TxDOT report names the Texas Panhandle and eastern New Mexico. The two map links reflect that reading and give readers regional starting points alongside the guide’s individual account of Quanah Parker.",
+        "sourceIds": [
+          "p83-txdot2021"
+        ]
+      },
+      {
+        "title": "Fort Sill in 1875",
+        "text": "National Register documentation places Quanah Parker’s Quahadi group at Fort Sill in 1875. That reservation-era movement supports a historical Oklahoma link alongside the earlier Llano Estacado setting described in the consulted TxDOT report.",
+        "sourceIds": [
+          "cm-quahadi-fort-sill",
+          "p83-txdot2021"
         ]
       }
     ],
@@ -113795,6 +114204,23 @@
         "accessed": "2026-10-27",
         "countsTowardMinimum": true,
         "accessNotes": "Public HTML main body inspected. Bibliography points to further works; those underlying publications and original records were not read here."
+      },
+      {
+        "id": "cm-quahadi-fort-sill",
+        "title": "Battle Sites of the Red River War in the Texas Panhandle, 1874–1875",
+        "publisher": "National Park Service · National Register of Historic Places",
+        "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500626_text",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Bands",
+          "Oklahoma"
+        ],
+        "annotation": "National Register documentation describes Quanah Parker bringing his Quahadi group to Fort Sill in 1875.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the statement on page 6 about Quanah Parker’s Quahadi group and its arrival at Fort Sill. No exact day, tactical narrative, coordinates or modern boundary adopted.",
+        "countsTowardMinimum": false
       }
     ],
     "identityVerifiedAt": "2026-10-26",
@@ -113846,7 +114272,7 @@
       "c5-quahadi-quanah"
     ],
     "communityReview": "Not recorded",
-    "reviewedAt": "2026-10-27",
+    "reviewedAt": "2026-11-18",
     "directoryQueueStatus": "Individually scoped starting guide; further research remains open",
     "startingGuide": {
       "sources": [
@@ -113888,6 +114314,7 @@
     "slug": "quahadi",
     "regionGroups": [
       "Southwest",
+      "Great Plains",
       "Mexico"
     ],
     "mapRegions": [
@@ -113895,6 +114322,11 @@
         "id": "US-NM",
         "name": "New Mexico",
         "key": "us-nm"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
       },
       {
         "id": "US-TX",
@@ -145313,7 +145745,7 @@
     "name": "Wianv",
     "kind": "Comanche band-name reading route",
     "region": "Walters, Oklahoma area — dated report context",
-    "overview": "Wianv is an individually findable Comanche band-name route recorded in a 2021 consulted Texas report. Detailed history, annotated reading sources and specifically relevant imagery remain queued.",
+    "overview": "The reviewed TxDOT report places its historical Wianv reference in the area of present-day Walters, Oklahoma. The Oklahoma link leads to that place context. The broader Comanche guide introduces the sources on historical bands.",
     "relationshipNote": "The 2021 report explicitly groups Wianv, Wianvv and Wiaznvv spellings and describes a band from the Walters, Oklahoma area, citing the 2010 community language dictionary. This is an attributed name-only outline, not proof of a separate present government, exact homeland or individual descent.",
     "searchTerms": [
       "Wianvv",
@@ -148233,15 +148665,49 @@
     "added": true,
     "compiledAt": "2026-10-26",
     "kind": "Historical Comanche band / division name",
-    "region": "Arkansas River reference in historical account; modern-state assignment withheld",
-    "overview": "Yamparika is an individually findable historical Comanche band/division name. Detailed history, reading sources and specifically relevant imagery are queued.",
-    "relationshipNote": "The December 2021 report identifies this name within historical Comanche band/division organization. This is a historical name-only access route linked to the broader Comanche collection, not a newly established separate people, present-day government, citizenship category or exclusive descendant group. The report describes band formation and political organization as fluid. Printed spellings in the inspected December 2021 synthesis, attributed there to CLCPC 2010. They are not independently verified community-preferred present orthography; no translations or pronunciation claims are adopted.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "region": "Eastern Colorado / Western Kansas (historical)",
+    "overview": "The historical Yamparika guide follows Hugh Allen Anderson’s account of a home range in present eastern Colorado and western Kansas.",
+    "relationshipNote": "This guide follows the name and context described in its cited sources. See the Comanche overview for the wider history.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "The historical home range",
+        "text": "Hugh Allen Anderson’s article places the historical Yamparika home range in the area now covered by eastern Colorado and western Kansas. He discusses visits to New Mexico exchange centers separately. This guide uses the locations he gives for the home range to provide the two regional map links.",
+        "sourceIds": [
+          "cm-yamparika-handbook"
+        ]
+      },
+      {
+        "title": "Reading the diplomatic history",
+        "text": "The same article follows Yamparika participation in diplomacy across different years and places. Use the dated passages to connect the band’s history with the broader Comanche guide’s treaty sources.",
+        "sourceIds": [
+          "cm-yamparika-handbook"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "cm-yamparika-handbook",
+        "url": "https://www.tshaonline.org/handbook/entries/yamparika-indians",
+        "title": "Yamparika Indians",
+        "publisher": "Texas State Historical Association · Hugh Allen Anderson",
+        "type": "Academic / reference",
+        "topics": [
+          "History",
+          "Bands",
+          "Colorado",
+          "Kansas"
+        ],
+        "annotation": "Anderson’s account describes a historic Yamparika range in present eastern Colorado and western Kansas and identifies regional trade and diplomacy.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the historical home range and dated diplomacy passages. Journeys to regional exchange places were read in their separate context.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -148276,23 +148742,36 @@
       "comanche"
     ],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional accounts written by or with the community concerned."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further historical or community-specific reading remains to be reviewed."
       ]
     },
+    "overviewSourceIds": [
+      "cm-yamparika-handbook"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "yamparika",
     "regionGroups": [
       "Great Plains"
     ],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-CO",
+        "name": "Colorado",
+        "key": "us-co"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      }
+    ]
   },
   {
     "originalId": 440,

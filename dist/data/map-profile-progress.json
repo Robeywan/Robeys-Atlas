@@ -4311,6 +4311,21 @@
     "slug": "comanche",
     "regions": [
       {
+        "id": "US-CO",
+        "name": "Colorado",
+        "key": "us-co"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      },
+      {
         "id": "US-OK",
         "name": "Oklahoma",
         "key": "us-ok"
@@ -4322,9 +4337,9 @@
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 2,
+    "connectionRecords": 5,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": "2026-10-26"
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": null,
@@ -9320,15 +9335,20 @@
     "slug": "kotsoteka",
     "regions": [
       {
+        "id": "US-NM",
+        "name": "New Mexico",
+        "key": "us-nm"
+      },
+      {
         "id": "US-OK",
         "name": "Oklahoma",
         "key": "us-ok"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 1,
+    "connectionRecords": 2,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": "2026-10-26"
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": null,
@@ -14127,13 +14147,18 @@
         "key": "us-nm"
       },
       {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
         "id": "US-TX",
         "name": "Texas",
         "key": "us-tx"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 2,
+    "connectionRecords": 3,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
     "reviewedAt": "2026-11-18"
   },
@@ -15602,15 +15627,20 @@
     "slug": "penateka",
     "regions": [
       {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
         "id": "US-TX",
         "name": "Texas",
         "key": "us-tx"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 1,
+    "connectionRecords": 2,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": "2026-10-26"
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": 286,
@@ -16622,15 +16652,20 @@
         "key": "us-nm"
       },
       {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
         "id": "US-TX",
         "name": "Texas",
         "key": "us-tx"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 2,
+    "connectionRecords": 3,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": "2026-10-26"
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": 315,
@@ -21922,12 +21957,22 @@
     "originalId": null,
     "name": "Yamparika",
     "slug": "yamparika",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-CO",
+        "name": "Colorado",
+        "key": "us-co"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 2,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null,
-    "regionalConnectionGap": "Historical river-range location needs further state-level review."
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": 440,
