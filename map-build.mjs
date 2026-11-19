@@ -24,7 +24,7 @@ export function buildMap({cwd,profiles,e,document,write}) {
     r.items=[...grouped.values()].sort((a,b)=>a.profile.name.localeCompare(b.profile.name));
   }
   const note='These are starting lists, not a complete census. Modern borders help you navigate; they are not Indigenous homeland boundaries. A connection may be historical or present-day and does not imply presence throughout a region.';
-  const label=type=>({'present-community':'Present community connection','language-community':'Language community connection','historical-origin':'Historical origin','historical-homeland':'Historical homeland connection','historical-presence':'Historical connection'}[type]||type.replaceAll('-',' '));
+  const label=type=>({'present-community':'Present community connection','language-community':'Language community connection','historical-origin':'Historical origin','historical-homeland':'Historical homeland connection','historical-presence':'Historical connection','historical-name-use':'Historical name use'}[type]||type.replaceAll('-',' '));
   const evidence=a=>`<div class="map-evidence-item"><strong>${e(label(a.associationType))}</strong><p>${e(a.evidenceNote)}</p><p>${e(a.period||'Period described in the linked source')}. Reviewed ${e(a.reviewDate||index.reviewedAt)}.</p><a href="${e(a.sourceUrl)}" target="_blank" rel="noopener noreferrer">Read the supporting source ↗</a>${(a.supportingSourceUrls||[]).map((url,i)=>` · <a href="${e(url)}" target="_blank" rel="noopener noreferrer">Supporting source ${i+1} ↗</a>`).join('')}</div>`;
   const results=(r,base='')=>`<div class="map-result-heading"><span class="eyebrow">Explore a place</span><h3>${e(r.name)}</h3><p>${r.items.length?`${r.items.length} directory ${r.items.length===1?'entry':'entries'} · Research in progress`:'Regional research is still being assembled.'}</p></div>${r.items.length?`<ul class="map-nations">${r.items.map(a=>`<li><a href="${base}nations/${a.profile.slug}/"><span>${e(a.profile.name)}</span><span aria-hidden="true">↗</span></a><span class="map-association">${[...new Set(a.connections.map(c=>label(c.associationType)))].map(e).join(' · ')}</span><details class="map-evidence"><summary>Connection &amp; source</summary>${a.connections.map(evidence).join('')}</details></li>`).join('')}</ul>`:'<p class="map-empty">No reviewed connections have been added here yet. This does not mean Indigenous peoples are absent. You can still explore the full directory while this regional index grows.</p>'}<p class="map-result-note">${e(note)} Directory names can overlap; the profiles explain their relationships.</p><a class="map-directory-link" href="${base}index.html#directory">Explore the full directory →</a>`;
   // Spherical Albers equal-area projection, standard parallels 20° and 60° N.
@@ -38,7 +38,11 @@ export function buildMap({cwd,profiles,e,document,write}) {
   const height=Math.ceil((maxY-minY)*scale+60);
   const paths=regions.map(r=>{
     const d=rings(r.feature).map(ring=>ring.map((p,i)=>{const [x,y]=xy(p);return (i?'L':'M')+x.toFixed(1)+','+y.toFixed(1);}).join('')+'Z').join('');
-    const names=[...new Set(r.items.map(a=>a.profile.name))];
+    const names=r.items.map(({profile,connections})=>
+      connections.every(c=>c.associationType==='historical-name-use')
+        ? profile.name+' ('+label('historical-name-use').toLowerCase()+')'
+        : profile.name
+    );
     const title=r.name+': '+(names.length?names.join(', '):'Regional connections awaiting review');
     return `<a href="regions/${r.key}/" class="${r.items.length?'has-results':'awaiting-results'}" data-map-region="${e(r.id)}" aria-label="${e(r.name)} — ${names.length} directory ${names.length===1?'entry':'entries'}"><path d="${d}" fill-rule="evenodd"/><title>${e(title)}</title></a>`;
   }).join('');

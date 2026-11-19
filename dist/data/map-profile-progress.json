@@ -6747,12 +6747,17 @@
     "originalId": null,
     "name": "Hanitaibo",
     "slug": "hanitaibo",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null,
-    "regionalConnectionGap": "Historical band location needs further geographic review."
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": null,

@@ -46,9 +46,13 @@ if (process.argv.includes('--fixtures-only')) {
   resolveMapConnections({profiles, regions, index, gaps});
   const byName = new Map(profiles.map(profile => [profile.name,profile])), byId = new Map(profiles.filter(profile => profile.originalId).map(profile => [profile.originalId,profile]));
   const expected = new Map(regions.map(region => [region.id,new Map()])), dates = new Map(profiles.map(profile => [profile.slug,[]]));
+  const nameUseOnly = new Map();
   for (const association of index.associations) {
     const p = association.originalId != null ? byId.get(association.originalId) : byName.get(association.name);
     expected.get(association.regionId).set(p.slug,p); dates.get(p.slug).push(association.reviewDate);
+    const key = association.regionId + '/' + p.slug;
+    const historicalNameUse = association.associationType === 'historical-name-use';
+    nameUseOnly.set(key, historicalNameUse && nameUseOnly.get(key) !== false);
   }
   const escRE = value => value.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
   const decode = value => value.replace(/&(?:amp|lt|gt|quot|#39);/g, entity => ({'&amp;':'&','&lt;':'<','&gt;':'>','&quot;':'"','&#39;':"'"}[entity]));
@@ -67,7 +71,7 @@ if (process.argv.includes('--fixtures-only')) {
     const svg = home.match(new RegExp('<a\\b[^>]*data-map-region="'+escRE(region.id)+'"[^>]*>([\\s\\S]*?)</a>'))?.[1];
     assert.notEqual(svg,undefined,'SVG navigation target exists for '+region.id);
     const actualTitle = decode(svg.match(/<title>([\s\S]*?)<\/title>/)?.[1] || '');
-    assert.equal(actualTitle,region.name+': '+(rows.length?rows.map(profile=>profile.name).join(', '):'Regional connections awaiting review'),'Hover names match the same index for '+region.id);
+    assert.equal(actualTitle,region.name+': '+(rows.length?rows.map(profile => nameUseOnly.get(region.id + '/' + profile.slug) ? profile.name + ' (historical name use)' : profile.name).join(', '):'Regional connections awaiting review'),'Hover names match the same index for '+region.id);
   }
   for (const p of profiles) {
     const ids = regions.filter(region => expected.get(region.id).has(p.slug)).map(region=>region.id).sort();

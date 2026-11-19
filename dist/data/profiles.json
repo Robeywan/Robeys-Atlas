@@ -51911,9 +51911,9 @@
     },
     "name": "Hanitaibo",
     "kind": "Comanche band-name reading route",
-    "region": "Comanche band-name context; regional history under review",
-    "overview": "The TxDOT report includes Hanitaibo in its discussion of historical Comanche bands. Research on a state connection remains open. The broader Comanche guide gives context for the band names used in the report.",
-    "relationshipNote": "The 2021 report lists Hanitaibo with a Corn People gloss among further Comanche band names, citing the 2010 community language dictionary. This is an attributed name-only outline, not proof of a separate present government, exact homeland or individual descent.",
+    "region": "Western Oklahoma (historical name use)",
+    "overview": "In their 2018 introduction, Daniel J. Gelo and Christopher J. Wickham describe Hanitaibo as a disparaging name used for Penatekas in the western Oklahoma reservation setting. The home range of the band listed by that name in the Texas Department of Transportation report remains unverified.",
+    "relationshipNote": "The 2021 Texas Department of Transportation report lists Hanitaibo among Comanche band names and cites a 2010 community language dictionary. The Oklahoma map link follows the name use described by Gelo and Wickham. Further evidence is needed to establish how their account relates to the band listing.",
     "searchTerms": [],
     "identificationEvidence": [
       {
@@ -51924,11 +51924,28 @@
         "reviewedAt": "2026-10-27",
         "identityOnly": true,
         "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.everand.com/book/856058447/Comanches-and-Germans-on-the-Texas-Frontier-The-Ethnology-of-Heinrich-Berghaus",
+        "publisher": "Texas A&M University Press",
+        "title": "Comanches and Germans on the Texas Frontier — introduction preview",
+        "scope": "Daniel J. Gelo and Christopher J. Wickham, with contributions by Heide Castañeda (2018), Introduction, “Comanches and Germans in Central Texas.” The public preview describes the Oklahoma reservation setting and attributes use of the name to an account by David E. Jones. The linked preview contains the introductory passage.",
+        "reviewedAt": "2026-11-18",
+        "identityOnly": true,
+        "countsTowardMinimum": false
       }
     ],
     "slug": "hanitaibo",
-    "regionGroups": [],
-    "mapRegions": []
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      }
+    ]
   },
   {
     "name": "Hannahville Indian Community",
