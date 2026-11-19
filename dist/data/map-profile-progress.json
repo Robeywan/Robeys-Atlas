@@ -9704,15 +9704,35 @@
     "slug": "lakota",
     "regions": [
       {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      },
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      },
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      },
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
+      },
+      {
         "id": "US-SD",
         "name": "South Dakota",
         "key": "us-sd"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 1,
+    "connectionRecords": 5,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": "2026-10-21"
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": null,
@@ -14618,6 +14638,27 @@
     "reviewedAt": "2026-10-21"
   },
   {
+    "originalId": null,
+    "name": "Oglala Sioux Tribe",
+    "slug": "oglala-sioux-tribe",
+    "regions": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      },
+      {
+        "id": "US-SD",
+        "name": "South Dakota",
+        "key": "us-sd"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 2,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": "2026-11-18"
+  },
+  {
     "originalId": 264,
     "name": "Ohkay Owingeh",
     "slug": "ohkay-owingeh",
@@ -18637,6 +18678,27 @@
   },
   {
     "originalId": null,
+    "name": "Standing Rock Sioux Tribe",
+    "slug": "standing-rock-sioux-tribe",
+    "regions": [
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      },
+      {
+        "id": "US-SD",
+        "name": "South Dakota",
+        "key": "us-sd"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 2,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": "2026-11-18"
+  },
+  {
+    "originalId": null,
     "name": "Stebbins",
     "slug": "stebbins",
     "regions": [
@@ -21643,6 +21705,22 @@
     "connectionRecords": 1,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
     "reviewedAt": "2026-10-28"
+  },
+  {
+    "originalId": null,
+    "name": "Wood Mountain Lakota First Nation",
+    "slug": "wood-mountain-lakota-first-nation",
+    "regions": [
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 1,
+    "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": 435,

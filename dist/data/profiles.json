@@ -14883,14 +14883,64 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Montana",
-    "overview": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "The Tribes’ introduction places Fort Peck in northeastern Montana and distinguishes its Assiniboine and Sioux peoples. This guide links that account with local college materials on language and history.",
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Two peoples at Fort Peck",
+        "text": "The Tribes' introduction places Fort Peck in northeastern Montana. It describes distinct Assiniboine and Sioux peoples and names Hunkpapa among the bands discussed in its Sioux account. This source supports a Lakota connection within a broader Fort Peck history.",
+        "sourceIds": [
+          "lk-fort-peck-introduction"
+        ]
+      },
+      {
+        "title": "Language teaching at Fort Peck Community College",
+        "text": "The college's Nakoda Dakota Studies listing describes Dakota and Nakona language options and coursework in Fort Peck history and culture. Its program listing gives readers a community-specific education resource.",
+        "sourceIds": [
+          "lk-fort-peck-college"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-fort-peck-introduction",
+        "title": "Introduction",
+        "publisher": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation",
+        "url": "https://fortpecktribes.org/introduction/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Identity",
+          "Montana"
+        ],
+        "annotation": "The Tribes' introduction places Fort Peck in northeastern Montana and discusses distinct Assiniboine and Sioux communities.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the geography and the Tribes' account of their peoples. No membership or enrolment claims used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-fort-peck-college",
+        "title": "Nakoda Dakota Studies",
+        "publisher": "Fort Peck Community College",
+        "url": "https://fpcc.smartcatalogiq.com/en/2025-2027/2025-2027-fpcc-catalog/associate-of-arts/copy-of-nakoda-dakota-studies",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community"
+        ],
+        "annotation": "This 2025–2027 college catalog describes Dakota and Nakona language options and coursework about Fort Peck history and culture.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the named program, language tracks, and work described in the course listing. No enrollment or outcomes inferred.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -14903,21 +14953,26 @@
       }
     ],
     "searchTerms": [],
-    "relatedOriginalIds": [],
+    "relatedOriginalIds": [
+      180
+    ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional community-authored histories and education materials."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further community-authored histories and viewpoints are still needed."
       ]
     },
+    "overviewSourceIds": [
+      "lk-fort-peck-introduction",
+      "lk-fort-peck-college"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation-montana",
     "regionGroups": [
       "Great Plains"
@@ -29924,14 +29979,105 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "South Dakota",
-    "overview": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "The Cheyenne River Sioux Tribe describes four Lakota bands and a community setting in central South Dakota. This guide brings together the Tribe’s own introduction, local program directory, and a published source index.",
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Four bands in the Tribe's account",
+        "text": "The Cheyenne River Sioux Tribe describes its central South Dakota river setting and identifies the Mnicoujou, Oohenumpa, Itazipco, and Siha Sapa in its public account. The spelling here follows the Tribe's page.",
+        "sourceIds": [
+          "lk-cheyenne-river-home"
+        ]
+      },
+      {
+        "title": "Missouri River land and water",
+        "text": "The University of Kansas museum reports that the Oahe Dam project flooded land on the Cheyenne River and Standing Rock reservations. The museum account adds historical context to the Tribe’s introduction to its river setting.",
+        "sourceIds": [
+          "lk-oahe-flooding"
+        ]
+      },
+      {
+        "title": "Preservation and community programs",
+        "text": "The Tribe's public directory identifies its Cultural Preservation Office, Education Services, and Lakota Cultural Center. The National Indian Law Library provides a separate guide to published documents for further reading.",
+        "sourceIds": [
+          "lk-cheyenne-river-programs",
+          "lk-cheyenne-river-nill"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-cheyenne-river-home",
+        "title": "Cheyenne River Sioux Tribe",
+        "publisher": "Cheyenne River Sioux Tribe",
+        "url": "https://www.cheyenneriversioux.com/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Community",
+          "South Dakota"
+        ],
+        "annotation": "The Tribe describes its central South Dakota river setting and names four constituent Lakota bands.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the tribal introduction, attributed band list, and Eagle Butte location.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-oahe-flooding",
+        "title": "Missouri River Basin",
+        "publisher": "University of Kansas Biodiversity Institute and Natural History Museum",
+        "url": "https://biodiversity.ku.edu/archaeology/collections/highlights/plains/missouri-river-basin",
+        "type": "Museum / archive",
+        "topics": [
+          "History",
+          "Dams",
+          "Homelands"
+        ],
+        "annotation": "The museum describes Missouri River dam construction and the flooding of reservation lands at Standing Rock and Cheyenne River.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the Missouri River dam and flooded reservation lands paragraph, using no archaeological locations, materials, or linked records.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-cheyenne-river-programs",
+        "title": "Programs & Services",
+        "publisher": "Cheyenne River Sioux Tribe",
+        "url": "https://www.cheyenneriversioux.com/program",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Education",
+          "Language"
+        ],
+        "annotation": "The Tribe's program directory identifies its cultural preservation, education and community services.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the visible program listings in the delivered portion. Linked services and the undelivered remainder were not used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-cheyenne-river-nill",
+        "title": "Cheyenne River Sioux Tribe",
+        "publisher": "National Indian Law Library · Native American Rights Fund",
+        "url": "https://narf.org/nill/tribes/cheyenne_river_sioux.html",
+        "type": "Other / see annotation",
+        "topics": [
+          "Reading navigation",
+          "Government"
+        ],
+        "annotation": "A reading gateway for published government documents and other sources concerning Cheyenne River.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the displayed introduction and source navigation only. Legal materials linked from the page were not opened.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -29944,21 +30090,25 @@
       }
     ],
     "searchTerms": [],
-    "relatedOriginalIds": [],
+    "relatedOriginalIds": [
+      180
+    ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional community-authored histories and education materials."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further community-authored histories and viewpoints are still needed."
       ]
     },
+    "overviewSourceIds": [
+      "lk-cheyenne-river-home"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south-dakota",
     "regionGroups": [],
     "mapRegions": [
@@ -71101,7 +71251,7 @@
     "name": "Lakota",
     "region": "Northern Great Plains",
     "kind": "People / related nations",
-    "overview": "Lakota includes distinct oyate and governments; Sicangu Lakota at Rosebud is one particular community within that wider people.",
+    "overview": "Lakota is a people with distinct bands, communities, and governments across the northern Plains and into Canada. This guide introduces that wider history and links to separately sourced community pages.",
     "sections": [
       {
         "title": "Identity and homelands",
@@ -71122,6 +71272,46 @@
         "text": "The Rosebud government’s public information connects history with contemporary governance and cultural preservation. Other Lakota nations need their own profiles and sources.",
         "sourceIds": [
           "p180-s2"
+        ]
+      },
+      {
+        "title": "Lakota and the Seven Council Fires",
+        "text": "The Aktá Lakota Museum places the Tetonwan within the wider Očeti Šakówiŋ, often called the Seven Council Fires. The museum lists seven Tetonwan bands. In its spellings they are Hunkpapa, Sicangu, Itazipo, Sihasapa, Oglala, Oohenumpa, and Minniconjou. Individual community accounts use their own spellings and describe the governments and places with which they are connected.",
+        "sourceIds": [
+          "lk-seven-council-fires"
+        ]
+      },
+      {
+        "title": "Communities across the Plains",
+        "text": "The community pages below show several kinds of Lakota connection. Oglala's public account connects Pine Ridge with South Dakota and Nebraska. Standing Rock describes Dakota and Lakota communities in North Dakota and South Dakota. Fort Peck's own introduction describes distinct Assiniboine and Sioux peoples in Montana, including Hunkpapa in its Sioux history. The museum's account also connects Hunkpapa history with Wood Mountain in Canada.",
+        "sourceIds": [
+          "lk-oglala-government",
+          "lk-standing-rock-about",
+          "lk-fort-peck-introduction",
+          "lk-seven-council-fires"
+        ]
+      },
+      {
+        "title": "The Black Hills and the plains",
+        "text": "The Smithsonian's homelands lesson presents the Black Hills in South Dakota through attributed Lakota accounts of place and origin. It also describes the role of bison in northern Plains food, clothing, tools, and community life. The authors and institutions named on the page provide a starting point for following those accounts in context.",
+        "sourceIds": [
+          "lk-nmai-homelands"
+        ]
+      },
+      {
+        "title": "Reading the 1868 Fort Laramie Treaty",
+        "text": "The National Archives presents the treaty text and identifies the parties using the names recorded in the treaty. Article II sets out land provisions, including the historical reservation described in the Archives introduction. Article VII describes compulsory school attendance under conditions stated in the treaty. These clauses help readers place later community histories of land and schooling in context.",
+        "sourceIds": [
+          "lk-fort-laramie-1868"
+        ]
+      },
+      {
+        "title": "Language and learning",
+        "text": "Indiana University's language portal introduces Lakota as part of the Siouan language family and points readers to course materials and recordings. Oglala Lakota College and Sinte Gleska University describe their own teaching programs. These provide separate ways to learn about Lakota language, history, and community education.",
+        "sourceIds": [
+          "lk-language-portal",
+          "lk-olc-studies",
+          "lk-sinte-gleska-studies"
         ]
       }
     ],
@@ -71153,6 +71343,176 @@
         ],
         "annotation": "Community-produced reading on identity, history, cultural continuity, and present-day priorities.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "lk-seven-council-fires",
+        "title": "Oceti Sakowin – Seven Council Fires",
+        "publisher": "Aktá Lakota Museum & Cultural Center",
+        "url": "https://aktalakota.stjo.org/oceti-sakowin-seven-council-fires/",
+        "type": "Museum / archive",
+        "topics": [
+          "Identity",
+          "Community",
+          "History"
+        ],
+        "annotation": "The museum explains how the Council Fires and the seven Tetonwan bands fit into separate levels of the same account.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the explanatory text and the displayed Council Fires and Tetonwan lists. Source spellings are retained where used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-standing-rock-about",
+        "title": "About",
+        "publisher": "Standing Rock Sioux Tribe",
+        "url": "https://www.standingrock.org/about/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Identity",
+          "North Dakota",
+          "South Dakota"
+        ],
+        "annotation": "The Tribe describes Dakota and Lakota communities and a reservation in both North Dakota and South Dakota.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the reservation account, including the two states and its distinctions among Dakota and Lakota communities.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-fort-peck-introduction",
+        "title": "Introduction",
+        "publisher": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation",
+        "url": "https://fortpecktribes.org/introduction/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Identity",
+          "Montana"
+        ],
+        "annotation": "The Tribes' introduction places Fort Peck in northeastern Montana and discusses distinct Assiniboine and Sioux communities.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the geography and the Tribes' account of their peoples. No membership or enrolment claims used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-wood-mountain-parks",
+        "title": "Grasslands National Park of Canada Management Plan, 2022",
+        "publisher": "Parks Canada",
+        "url": "https://www.parks.canada.ca/pn-np/sk/grasslands/info/plan/plan-2022",
+        "type": "Government",
+        "topics": [
+          "Community",
+          "Saskatchewan"
+        ],
+        "annotation": "The plan identifies Wood Mountain Lakota First Nation as a nearby community of Grasslands National Park in southwestern Saskatchewan.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the southwestern Saskatchewan setting and the plan’s reference to Wood Mountain Lakota First Nation as a nearby community. No boundaries or future policy outcomes used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-oglala-government",
+        "title": "Pine Ridge Indian Reservation",
+        "publisher": "Oglala Sioux Tribe",
+        "url": "https://www.oglala.gov/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Governance",
+          "South Dakota",
+          "Nebraska"
+        ],
+        "annotation": "The Tribe identifies Pine Ridge as its home and explains the reservation's South Dakota and Nebraska setting and district structure.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the homepage introduction and public district descriptions. No linked map or boundary geometry used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-nmai-homelands",
+        "title": "Oceti Sakowin Homelands",
+        "publisher": "Smithsonian National Museum of the American Indian · Native Knowledge 360°",
+        "url": "https://americanindian.si.edu/nk360/plains-belonging-homelands/oceti-sakowin",
+        "type": "Museum / archive",
+        "topics": [
+          "Homelands",
+          "History",
+          "Bison"
+        ],
+        "annotation": "This teaching page brings together attributed accounts of homelands and material life in the northern Plains.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the South Dakota Black Hills, the source-attributed Lakota location summary, and the bison teaching text. No images, recordings, linked maps or ceremony accounts used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-fort-laramie-1868",
+        "title": "Treaty of Fort Laramie (1868)",
+        "publisher": "National Archives",
+        "url": "https://www.archives.gov/milestone-documents/fort-laramie-treaty",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Treaties",
+          "Homelands"
+        ],
+        "annotation": "The Archives presents the historical treaty transcript and an introduction. Read Articles II and VII for the land provisions and school attendance clause as written in 1868.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the archival citation, historical background and text of Articles I, II and VII from the delivered page. Current jurisdiction and legal effects were outside this reading.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-language-portal",
+        "title": "Lakota",
+        "publisher": "Indiana University · Center for Language Technology",
+        "url": "https://celt.indiana.edu/portal/Lakota/index.html",
+        "type": "Academic / reference",
+        "topics": [
+          "Language",
+          "Education"
+        ],
+        "annotation": "The portal provides a short language introduction and points to course material and recordings.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read Language Information and the visible Recording Archive list. Older speaker estimates and linked materials were not selected.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-olc-studies",
+        "title": "Lakota Studies",
+        "publisher": "Oglala Lakota College",
+        "url": "https://www.olc.edu/admissions-aid/degree-programs/lakota-studies/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community"
+        ],
+        "annotation": "The college describes coursework in language, history, and culture and lists language certificate options.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the introductory Lakota Studies text and the listed educational options. No course materials requested.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-sinte-gleska-studies",
+        "title": "Lakota Studies",
+        "publisher": "Sinte Gleska University",
+        "url": "https://www.sintegleska.edu/lakota-studies",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community"
+        ],
+        "annotation": "The department describes coursework in Lakota language, culture and history and its educational responsibilities to the Rosebud community.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the department description and scope of coursework in the delivered body.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -71162,12 +71522,51 @@
     "researchStatus": "source-guide",
     "originalId": 180,
     "relationshipNote": "Lakota, Dakota, and Nakota-related identities are connected but should not be treated as interchangeable.",
+    "overviewSourceIds": [
+      "lk-seven-council-fires",
+      "lk-standing-rock-about",
+      "lk-fort-peck-introduction",
+      "lk-wood-mountain-parks"
+    ],
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-18",
+    "researchComplete": false,
+    "relatedProfileSlugs": [
+      "oglala-sioux-tribe",
+      "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
+      "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
+      "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south-dakota",
+      "standing-rock-sioux-tribe",
+      "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation-montana",
+      "wood-mountain-lakota-first-nation"
+    ],
     "added": false,
     "slug": "lakota",
     "regionGroups": [
       "Great Plains"
     ],
     "mapRegions": [
+      {
+        "id": "US-MT",
+        "name": "Montana",
+        "key": "us-mt"
+      },
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      },
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      },
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
+      },
       {
         "id": "US-SD",
         "name": "South Dakota",
@@ -74356,14 +74755,71 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "South Dakota",
-    "overview": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "The Lower Brule Sioux Tribe describes Kul Wicasa Oyate and its central South Dakota setting along the Missouri River. Read its public history alongside a document index specific to Lower Brule.",
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Kul Wicasa Oyate and the Missouri River",
+        "text": "The Lower Brule Sioux Tribe describes its community as Kul Wicasa Oyate and places the present reservation in central South Dakota near the Missouri River's Big Bend. Its history discusses both its Sicangu connections and distinctions between groups within that history.",
+        "sourceIds": [
+          "lk-lower-brule-about"
+        ]
+      },
+      {
+        "title": "Dams and changes to community land",
+        "text": "The Tribe describes Missouri River dams flooding settlements and areas used for farming and gathering. Its public account helps explain how large river projects changed the land on which Lower Brule communities lived and worked.",
+        "sourceIds": [
+          "lk-lower-brule-about"
+        ]
+      },
+      {
+        "title": "A place to find documents",
+        "text": "The National Indian Law Library indexes documents and research routes specific to Lower Brule. Use its source list to locate the underlying records.",
+        "sourceIds": [
+          "lk-lower-brule-nill"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-lower-brule-about",
+        "title": "About Us",
+        "publisher": "Lower Brule Sioux Tribe",
+        "url": "https://www.lowerbrulesiouxtribe.com/about-us",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Land",
+          "History",
+          "South Dakota"
+        ],
+        "annotation": "The Tribe describes Kul Wicasa Oyate, its Missouri River setting and the consequences of two dams for local land and settlements.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the central South Dakota location, the Tribe’s own naming account, and its public description of historical places and flooding.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-lower-brule-nill",
+        "title": "Lower Brule Sioux Tribe",
+        "publisher": "National Indian Law Library · Native American Rights Fund",
+        "url": "https://narf.org/nill/tribes/lower_brule_sioux.html",
+        "type": "Other / see annotation",
+        "topics": [
+          "Reading navigation",
+          "Government"
+        ],
+        "annotation": "A navigation page for published government and legal records concerning Lower Brule.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the source index. Its linked constitutions, legal documents and other originals were not selected.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -74376,21 +74832,25 @@
       }
     ],
     "searchTerms": [],
-    "relatedOriginalIds": [],
+    "relatedOriginalIds": [
+      180
+    ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional community-authored histories and education materials."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further community-authored histories and viewpoints are still needed."
       ]
     },
+    "overviewSourceIds": [
+      "lk-lower-brule-about"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
     "regionGroups": [],
     "mapRegions": [
@@ -99109,6 +99569,117 @@
     ]
   },
   {
+    "name": "Oglala Sioux Tribe",
+    "added": true,
+    "kind": "Named Tribal government",
+    "region": "South Dakota / Nebraska",
+    "identityVerifiedAt": "2026-11-18",
+    "identificationEvidence": [
+      {
+        "url": "https://www.oglala.gov/",
+        "publisher": "Oglala Sioux Tribe",
+        "scope": "Published self-name displayed on the community’s public site.",
+        "reviewedAt": "2026-11-18",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Pine Ridge and the district communities",
+        "text": "The Oglala Sioux Tribe describes Pine Ridge as its home and locates the reservation in southwestern South Dakota and northwestern Nebraska. The Tribe introduces nine districts and the elected council. The map links reflect the two states identified by the Tribe.",
+        "sourceIds": [
+          "lk-oglala-government"
+        ]
+      },
+      {
+        "title": "Lakota education at Oglala Lakota College",
+        "text": "The college's Lakota Studies program describes teaching language, history and culture and lists a Lakota language certificate. Its own program page is a starting point for understanding the curriculum.",
+        "sourceIds": [
+          "lk-olc-studies"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-oglala-government",
+        "title": "Pine Ridge Indian Reservation",
+        "publisher": "Oglala Sioux Tribe",
+        "url": "https://www.oglala.gov/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Governance",
+          "South Dakota",
+          "Nebraska"
+        ],
+        "annotation": "The Tribe identifies Pine Ridge as its home and explains the reservation's South Dakota and Nebraska setting and district structure.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the homepage introduction and public district descriptions. No linked map or boundary geometry used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-olc-studies",
+        "title": "Lakota Studies",
+        "publisher": "Oglala Lakota College",
+        "url": "https://www.olc.edu/admissions-aid/degree-programs/lakota-studies/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community"
+        ],
+        "annotation": "The college describes coursework in language, history, and culture and lists language certificate options.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the introductory Lakota Studies text and the listed educational options. No course materials requested.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "overview": "The Oglala Sioux Tribe describes Pine Ridge as its home in southwestern South Dakota and northwestern Nebraska. This guide links the Tribe’s account of its districts with a Lakota Studies program at Oglala Lakota College.",
+    "overviewSourceIds": [
+      "lk-oglala-government",
+      "lk-olc-studies"
+    ],
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-18",
+    "researchComplete": false,
+    "relatedOriginalIds": [
+      180
+    ],
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchGaps": [
+      "Compare additional community-authored histories and education materials."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
+      "remainingLimits": [
+        "Further community-authored histories and viewpoints are still needed."
+      ]
+    },
+    "slug": "oglala-sioux-tribe",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-NE",
+        "name": "Nebraska",
+        "key": "us-ne"
+      },
+      {
+        "id": "US-SD",
+        "name": "South Dakota",
+        "key": "us-sd"
+      }
+    ]
+  },
+  {
     "originalId": 264,
     "name": "Ohkay Owingeh",
     "region": "Southwest / New Mexico",
@@ -115639,14 +116210,82 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "South Dakota",
-    "overview": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "The Rosebud Sioux Tribe introduces the Sicangu Lakota history of its South Dakota community. This guide pairs the Tribe’s account with Sinte Gleska University’s public Lakota Studies information.",
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "Sicangu Lakota at Rosebud",
+        "text": "The Rosebud Sioux Tribe's history introduces Sicangu identity and speaks from the perspective of the Rosebud community in South Dakota. The Aktá Lakota Museum also lists Rosebud and Lower Brule in its account of Sicangu history. Each has its own community page and source account.",
+        "sourceIds": [
+          "lk-rosebud-history",
+          "lk-seven-council-fires"
+        ]
+      },
+      {
+        "title": "Learning at Sinte Gleska University",
+        "text": "The university's Lakota Studies department describes language, culture, and history courses and explains its educational responsibilities to Rosebud's Sicangu Lakota community.",
+        "sourceIds": [
+          "lk-sinte-gleska-studies"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-rosebud-history",
+        "title": "History & Culture",
+        "publisher": "Rosebud Sioux Tribe",
+        "url": "https://www.rosebudsiouxtribe-nsn.gov/history-culture",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "History",
+          "South Dakota"
+        ],
+        "annotation": "The Tribe's public history describes Sicangu Lakota identity in its own terms.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the displayed history heading and Sicangu opening and the site's Rosebud, South Dakota location. No ceremonial instructions used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-sinte-gleska-studies",
+        "title": "Lakota Studies",
+        "publisher": "Sinte Gleska University",
+        "url": "https://www.sintegleska.edu/lakota-studies",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "Community"
+        ],
+        "annotation": "The department describes coursework in Lakota language, culture and history and its educational responsibilities to the Rosebud community.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the department description and scope of coursework in the delivered body.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-seven-council-fires",
+        "title": "Oceti Sakowin – Seven Council Fires",
+        "publisher": "Aktá Lakota Museum & Cultural Center",
+        "url": "https://aktalakota.stjo.org/oceti-sakowin-seven-council-fires/",
+        "type": "Museum / archive",
+        "topics": [
+          "Identity",
+          "Community",
+          "History"
+        ],
+        "annotation": "The museum explains how the Council Fires and the seven Tetonwan bands fit into separate levels of the same account.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the explanatory text and the displayed Council Fires and Tetonwan lists. Source spellings are retained where used.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -115659,21 +116298,26 @@
       }
     ],
     "searchTerms": [],
-    "relatedOriginalIds": [],
+    "relatedOriginalIds": [
+      180
+    ],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "Compare additional community-authored histories and education materials."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "Further community-authored histories and viewpoints are still needed."
       ]
     },
+    "overviewSourceIds": [
+      "lk-rosebud-history",
+      "lk-sinte-gleska-studies"
+    ],
+    "reviewedAt": "2026-11-18",
     "slug": "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
     "regionGroups": [],
     "mapRegions": [
@@ -127052,6 +127696,140 @@
         "id": "VC",
         "name": "Saint Vincent and the Grenadines",
         "key": "vc"
+      }
+    ]
+  },
+  {
+    "name": "Standing Rock Sioux Tribe",
+    "added": true,
+    "kind": "Named Tribal government",
+    "region": "North Dakota / South Dakota",
+    "identityVerifiedAt": "2026-11-18",
+    "identificationEvidence": [
+      {
+        "url": "https://www.standingrock.org/about/",
+        "publisher": "Standing Rock Sioux Tribe",
+        "scope": "Published self-name displayed on the community’s public site.",
+        "reviewedAt": "2026-11-18",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "One community guide across two states",
+        "text": "The Standing Rock Sioux Tribe places its reservation in North Dakota and South Dakota. Its public history describes Dakota and Lakota communities, including Yanktonai Dakota and Hunkpapa and Sihasapa Lakota. Both state links lead to this guide.",
+        "sourceIds": [
+          "lk-standing-rock-about"
+        ]
+      },
+      {
+        "title": "Missouri River dam construction",
+        "text": "The University of Kansas museum describes Oahe Dam flooding land at Standing Rock and Cheyenne River. Read that account alongside the Tribe’s history for one example of how changes to the Missouri River affected communities.",
+        "sourceIds": [
+          "lk-oahe-flooding"
+        ]
+      },
+      {
+        "title": "Youth and public advocacy in 2016",
+        "text": "The Smithsonian's teaching material recounts Indigenous youth organizing a relay to Washington, D.C., in 2016 in response to the Dakota Access Pipeline. Its historical account describes support from people across different nations.",
+        "sourceIds": [
+          "lk-standing-rock-youth"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-standing-rock-about",
+        "title": "About",
+        "publisher": "Standing Rock Sioux Tribe",
+        "url": "https://www.standingrock.org/about/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Community",
+          "Identity",
+          "North Dakota",
+          "South Dakota"
+        ],
+        "annotation": "The Tribe describes Dakota and Lakota communities and a reservation in both North Dakota and South Dakota.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the reservation account, including the two states and its distinctions among Dakota and Lakota communities.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-oahe-flooding",
+        "title": "Missouri River Basin",
+        "publisher": "University of Kansas Biodiversity Institute and Natural History Museum",
+        "url": "https://biodiversity.ku.edu/archaeology/collections/highlights/plains/missouri-river-basin",
+        "type": "Museum / archive",
+        "topics": [
+          "History",
+          "Dams",
+          "Homelands"
+        ],
+        "annotation": "The museum describes Missouri River dam construction and the flooding of reservation lands at Standing Rock and Cheyenne River.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the Missouri River dam and flooded reservation lands paragraph, using no archaeological locations, materials, or linked records.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-standing-rock-youth",
+        "title": "The Dakota Access Pipeline",
+        "publisher": "Smithsonian National Museum of the American Indian · Native Knowledge 360°",
+        "url": "https://americanindian.si.edu/nk360/plains-treaties/dapl",
+        "type": "Museum / archive",
+        "topics": [
+          "History",
+          "Youth",
+          "Community"
+        ],
+        "annotation": "The teaching resource recounts the 2016 youth relay and support from other Indigenous communities.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the overview and delivered historical section about the youth relay and support. Present legal or pipeline status was outside this reading.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "overview": "The Standing Rock Sioux Tribe’s public account describes Dakota and Lakota communities and a reservation that extends across North Dakota and South Dakota.",
+    "overviewSourceIds": [
+      "lk-standing-rock-about"
+    ],
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-18",
+    "researchComplete": false,
+    "relatedOriginalIds": [
+      180
+    ],
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchGaps": [
+      "Compare additional community-authored histories and education materials."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
+      "remainingLimits": [
+        "Further community-authored histories and viewpoints are still needed."
+      ]
+    },
+    "slug": "standing-rock-sioux-tribe",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-ND",
+        "name": "North Dakota",
+        "key": "us-nd"
+      },
+      {
+        "id": "US-SD",
+        "name": "South Dakota",
+        "key": "us-sd"
       }
     ]
   },
@@ -146111,6 +146889,165 @@
         "id": "CA-QC",
         "name": "Quebec",
         "key": "ca-qc"
+      }
+    ]
+  },
+  {
+    "name": "Wood Mountain Lakota First Nation",
+    "added": true,
+    "kind": "Named First Nation",
+    "region": "Saskatchewan",
+    "identityVerifiedAt": "2026-11-18",
+    "identificationEvidence": [
+      {
+        "url": "https://www.woodmountainlakotafn.ca/",
+        "publisher": "Wood Mountain Lakota First Nation",
+        "scope": "Published self-name displayed on the community’s public site.",
+        "reviewedAt": "2026-11-18",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Wood Mountain in Saskatchewan",
+        "text": "Wood Mountain Lakota First Nation introduces community resources on its own site. Parks Canada's 2022 plan identifies the First Nation as a nearby community of Grasslands National Park in southwestern Saskatchewan. The Aktá Lakota Museum places Wood Mountain in its public account of Hunkpapa history.",
+        "sourceIds": [
+          "lk-wood-mountain-fn",
+          "lk-wood-mountain-parks",
+          "lk-wood-mountain-isc",
+          "lk-seven-council-fires"
+        ]
+      },
+      {
+        "title": "A framework for discussions in 2022",
+        "text": "An August 2022 federal announcement reports that Wood Mountain Lakota First Nation and Canada signed a framework to guide discussions about their relationship. Its date and description give readers a starting point for following the public record of those discussions.",
+        "sourceIds": [
+          "lk-wood-mountain-framework"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "lk-wood-mountain-fn",
+        "title": "Wood Mountain Lakota First Nation",
+        "publisher": "Wood Mountain Lakota First Nation",
+        "url": "https://www.woodmountainlakotafn.ca/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Identity",
+          "Community",
+          "Saskatchewan"
+        ],
+        "annotation": "The First Nation's homepage introduces its public community resources.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the displayed community name and introductory welcome. Linked notices and files were not requested.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-wood-mountain-parks",
+        "title": "Grasslands National Park of Canada Management Plan, 2022",
+        "publisher": "Parks Canada",
+        "url": "https://www.parks.canada.ca/pn-np/sk/grasslands/info/plan/plan-2022",
+        "type": "Government",
+        "topics": [
+          "Community",
+          "Saskatchewan"
+        ],
+        "annotation": "The plan identifies Wood Mountain Lakota First Nation as a nearby community of Grasslands National Park in southwestern Saskatchewan.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the southwestern Saskatchewan setting and the plan’s reference to Wood Mountain Lakota First Nation as a nearby community. No boundaries or future policy outcomes used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-wood-mountain-isc",
+        "title": "First Nation Detail — Wood Mountain",
+        "publisher": "Indigenous Services Canada",
+        "url": "https://services.sac-isc.gc.ca/fnp/Main/Search/FNMain.aspx?BAND_NUMBER=388&lang=eng",
+        "type": "Government",
+        "topics": [
+          "Community",
+          "Saskatchewan"
+        ],
+        "annotation": "The directory provides a Saskatchewan mailing location and links to the First Nation’s own site.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the exact named record, province and public website link. No demographic or boundary data used.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-wood-mountain-framework",
+        "title": "Wood Mountain Lakota First Nation and Canada sign framework to advance reconciliation and build a renewed relationship",
+        "publisher": "Crown–Indigenous Relations and Northern Affairs Canada",
+        "url": "https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2022/08/wood-mountain-lakota-first-nation-and-canada-sign-framework-to-advance-reconciliation-and-build-a-renewed-relationship.html",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Community",
+          "Public policy"
+        ],
+        "annotation": "The August 2022 announcement reports a framework to guide future discussions with the First Nation.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the August 2, 2022 dateline and its description of the purpose of the framework. The announcement does not establish outcomes of later discussions.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "lk-seven-council-fires",
+        "title": "Oceti Sakowin – Seven Council Fires",
+        "publisher": "Aktá Lakota Museum & Cultural Center",
+        "url": "https://aktalakota.stjo.org/oceti-sakowin-seven-council-fires/",
+        "type": "Museum / archive",
+        "topics": [
+          "Identity",
+          "Community",
+          "History"
+        ],
+        "annotation": "The museum explains how the Council Fires and the seven Tetonwan bands fit into separate levels of the same account.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the explanatory text and the displayed Council Fires and Tetonwan lists. Source spellings are retained where used.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "overview": "Wood Mountain Lakota First Nation’s own site and a public directory offer starting points for reading about the Saskatchewan community. A dated federal announcement describes an agreement to guide discussions.",
+    "overviewSourceIds": [
+      "lk-wood-mountain-fn",
+      "lk-wood-mountain-parks",
+      "lk-wood-mountain-isc",
+      "lk-wood-mountain-framework"
+    ],
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
+    "coverageLevel": "cited-starting-guide",
+    "reviewedAt": "2026-11-18",
+    "researchComplete": false,
+    "relatedOriginalIds": [
+      180
+    ],
+    "relationshipNote": "This page follows the named community’s public sources. The Lakota guide gives the wider context and links to the other community accounts.",
+    "researchGaps": [
+      "Compare additional community-authored histories and education materials."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "A source-led introduction. Adequacy assessment pending.",
+      "remainingLimits": [
+        "Further community-authored histories and viewpoints are still needed."
+      ]
+    },
+    "slug": "wood-mountain-lakota-first-nation",
+    "regionGroups": [
+      "Canada"
+    ],
+    "mapRegions": [
+      {
+        "id": "CA-SK",
+        "name": "Saskatchewan",
+        "key": "ca-sk"
       }
     ]
   },

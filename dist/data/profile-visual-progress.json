@@ -3,13 +3,20 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 340,
+    "selectedProfiles": 348,
     "existingApache": 1,
-    "newProfileTreatments": 339,
+    "newProfileTreatments": 347,
     "newTreatmentsWithPhotographs": 332,
-    "decorativeTreatmentsAwaitingPhotographs": 7,
+    "decorativeTreatmentsAwaitingPhotographs": 15,
     "autoEnrolledThisBuild": [
-      "haudenosaunee"
+      "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation-montana",
+      "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south-dakota",
+      "lakota",
+      "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
+      "oglala-sioux-tribe",
+      "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
+      "standing-rock-sioux-tribe",
+      "wood-mountain-lakota-first-nation"
     ]
   },
   "treatments": [
@@ -1579,6 +1586,29 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:3;--profile-angle:-35deg;--profile-photo:url(\"../../assets/profile-visuals/assiniboine-chin-cha-pee-catlin-1832.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation-montana",
+      "name": "Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 198,
+      "angle": 69,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:198;--profile-angle:69deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -3897,6 +3927,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south-dakota",
+      "name": "Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 82,
+      "angle": -70,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:82;--profile-angle:-70deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "chickahominy-indian-tribe",
@@ -10392,6 +10445,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "lakota",
+      "name": "Lakota",
+      "originalId": 180,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 263,
+      "angle": 72,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:263;--profile-angle:72deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "leech-lake-band-of-ojibwe",
       "name": "Leech Lake Band of Ojibwe",
       "originalId": null,
@@ -10791,6 +10867,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota",
+      "name": "Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 28,
+      "angle": 53,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:53deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "lower-sioux-indian-community",
@@ -14875,6 +14974,29 @@
       "substantiveInspectedSources": 5
     },
     {
+      "slug": "oglala-sioux-tribe",
+      "name": "Oglala Sioux Tribe",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 327,
+      "angle": 0,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:327;--profile-angle:0deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ohkay-owingeh",
       "name": "Ohkay Owingeh",
       "originalId": 264,
@@ -18061,6 +18183,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "rosebud-sioux-tribe-of-the-rosebud-indian-reservation-south-dakota",
+      "name": "Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 24,
+      "angle": 38,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:24;--profile-angle:38deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "sac-sauk",
       "name": "Sac (Sauk)",
       "originalId": 325,
@@ -20352,6 +20497,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "standing-rock-sioux-tribe",
+      "name": "Standing Rock Sioux Tribe",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 37,
+      "angle": 44,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:37;--profile-angle:44deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "stillaguamish",
@@ -22789,6 +22957,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "wood-mountain-lakota-first-nation",
+      "name": "Wood Mountain Lakota First Nation",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 218,
+      "angle": 12,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:12deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "wyandot",
