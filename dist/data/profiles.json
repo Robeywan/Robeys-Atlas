@@ -165,16 +165,93 @@
     "originalId": null,
     "added": true,
     "compiledAt": null,
-    "kind": "Named composite community label as listed in MySealaska Southeast Communities directory",
-    "region": "Unassigned - directory-ascribed naming only; present setting and base unassessed.",
-    "overview": "An empty identification outline for Aangóon (Angoon), using the exact listed name and neutral kind in MySealaska - Southeast Communities. Present continuity, status, setting, base and relationships remain unassessed.",
-    "relationshipNote": "The complete source-listed label Aangóon (Angoon) is preserved as one composite. Its outside-parenthesis and parenthetical text are not adopted as separate names, translations or aliases. Relationships to existing entries, institutions, source titles and component-name references remain unassessed; no equivalence, distinctness, affiliation, legal/current status, present base or continuity finding is made.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "kind": "Tlingit community",
+    "region": "Admiralty Island, Southeast Alaska",
+    "overview": "Aangóon (Angoon) is a Tlingit village on Admiralty Island in Southeast Alaska. The Alaska Marine Highway System places the village on the southwest coast of Kootznahoo Inlet.",
+    "relationshipNote": "MySealaska lists the community as Aangóon (Angoon). This guide follows the village and its history. The directory also has a guide to the work and records of Angoon Community Association.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "cited-starting-guide",
+    "sources": [
+      {
+        "id": "angoon-amhs-place",
+        "title": "Southeast Villages — Angoon",
+        "publisher": "Alaska Marine Highway System",
+        "url": "https://dot.alaska.gov/amhs/comm/sevillages.shtml",
+        "type": "State ferry system community and port guide",
+        "topics": [
+          "Angoon",
+          "Admiralty Island",
+          "Kootznahoo Inlet",
+          "Southeast Alaska"
+        ],
+        "annotation": "The Angoon section locates the Tlingit village on Admiralty Island near Kootznahoo Inlet. Its port information identifies Killesnoo Harbor.",
+        "accessed": "2026-11-19",
+        "contentReviewedAt": "2026-11-19",
+        "contentReviewScope": "Angoon community description and port identification under the Angoon heading. The other communities, schedules and linked material were outside this review.",
+        "countsTowardMinimum": true
+      },
+      {
+        "id": "angoon-th-community",
+        "title": "Community: Angoon",
+        "publisher": "Tlingit & Haida",
+        "url": "https://tlingitandhaida.gov/community/angoon/",
+        "type": "Tribal community event listings",
+        "topics": [
+          "Angoon",
+          "community listings",
+          "cultural workshops"
+        ],
+        "annotation": "Tlingit & Haida lists vest making and cedar hat weaving on its Angoon page. The links provide starting points for reading about particular workshops.",
+        "accessed": "2026-11-19",
+        "contentReviewedAt": "2026-11-19",
+        "contentReviewScope": "The community heading and two workshop listing titles. Individual event pages and attendance were outside this review.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "angoon-ktoo-apology",
+        "title": "US Navy apologizes for 1882 destruction of Angoon",
+        "publisher": "KTOO",
+        "url": "https://www.ktoo.org/2024/10/28/us-navy-finally-apologizes-for-1882-destruction-of-angoon/",
+        "type": "Local reporting from Angoon",
+        "topics": [
+          "Angoon",
+          "1882 bombardment",
+          "public remembrance"
+        ],
+        "annotation": "Yvonne Krumrey reports from the October 2024 ceremony, describes the community’s decades of requests, and quotes the apology delivered by Rear Admiral Mark Sucato.",
+        "accessed": "2026-11-19",
+        "contentReviewedAt": "2026-11-19",
+        "contentReviewScope": "Reporting on the 1882 attack, the community’s requests, and the October 26, 2024 ceremony at Angoon High School. The quoted remarks are excerpts.",
+        "countsTowardMinimum": true,
+        "author": "Yvonne Krumrey",
+        "publicationDate": "2024-10-28"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Angoon on Admiralty Island",
+        "text": "The Alaska Marine Highway System places Angoon southwest of Juneau and northeast of Sitka, beside Kootznahoo Inlet. It identifies Killesnoo Harbor in its Angoon port listing.",
+        "sourceIds": [
+          "angoon-amhs-place"
+        ]
+      },
+      {
+        "title": "Local cultural programs",
+        "text": "Tlingit & Haida’s Angoon community page lists a vest-making workshop and a cedar hat weaving workshop. The listings offer two starting points for exploring cultural programming in Angoon.",
+        "sourceIds": [
+          "angoon-th-community"
+        ]
+      },
+      {
+        "title": "The 1882 bombardment and the 2024 apology",
+        "text": "In 1882 the U.S. Navy bombarded Angoon, destroying homes, canoes and stored food. Yvonne Krumrey reports that representatives from Angoon sought an apology for decades. On October 26, 2024, people gathered in the Angoon High School gym, where Rear Admiral Mark Sucato apologized on behalf of the Navy.",
+        "sourceIds": [
+          "angoon-ktoo-apology"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-12",
     "identificationEvidence": [
       {
@@ -192,17 +269,22 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Source-ascribed whole composite community label and reviewed neutral kind only; no verified legal/current status, present-base or continuity finding.",
-      "The complete source-listed label Aangóon (Angoon) is preserved as one composite. Its outside-parenthesis and parenthetical text are not adopted as separate names, translations or aliases. Relationships to existing entries, institutions, source titles and component-name references remain unassessed; no equivalence, distinctness, affiliation, legal/current status, present base or continuity finding is made.",
-      "Substantive research remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Additional accounts by Angoon residents would deepen the community history."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Narrow listed name and directory-ascribed kind only; substantive adequacy, present continuity, status, setting and relationships remain unassessed."
+      "rationale": "Selected sources document the village setting, cultural listings and a public commemoration. Broader coverage remains open."
     },
+    "reviewedAt": "2026-11-19",
+    "overviewSourceIds": [
+      "angoon-amhs-place"
+    ],
     "slug": "aangoon-angoon",
-    "regionGroups": [],
+    "regionGroups": [
+      "Arctic & Alaska",
+      "Southeast"
+    ],
     "mapRegions": [
       {
         "id": "US-AK",
@@ -11007,7 +11089,7 @@
     "added": true,
     "compiledAt": "2026-10-26",
     "kind": "Named Alaska Native tribal community / government",
-    "region": "Alaska",
+    "region": "Angoon, Admiralty Island, Southeast Alaska",
     "overview": "An introduction to Angoon Community Association through its own coastal testimony, a historical charter, local Tlingit education and public remembrance of the 1882 bombardment.",
     "relationshipNote": "An individually named Alaska Native tribal-community/government route, retained separately from broader people and language collections. This identification-only check does not establish ethnicity, constituent peoples, descent or membership from the name; fuller relationships and history remain queued.",
     "researchStatus": "source-guide",
@@ -11035,6 +11117,20 @@
         "text": "Angoon School’s account of its May 2025 Culture Camp Week names Tlingit language teacher Pauline Johnson as its organizer. Students worked with storytelling, books, weaving, sewing, art and digital storytelling. The account makes cultural education visible as work undertaken by teachers, students and community members. It describes a particular school event and does not establish participation or language ability for all Association citizens.",
         "sourceIds": [
           "e15-angoon-school-camp"
+        ]
+      },
+      {
+        "title": "The apology at Angoon High School",
+        "text": "After Sealaska Heritage Institute announced the planned apology, KTOO reporter Yvonne Krumrey documented the ceremony at Angoon High School. On October 26, 2024, Rear Admiral Mark Sucato apologized to the Lingít people of Angoon on behalf of the U.S. Navy for the bombardment of their village in 1882.",
+        "sourceIds": [
+          "angoon-ktoo-apology"
+        ]
+      },
+      {
+        "title": "An economic feasibility award",
+        "text": "In January 2021, Indian Affairs listed Angoon Community Association among the recipients of grants for economic feasibility studies. The Association’s award was $37,600. The announcement gives the amount and the program’s purpose but leaves the proposed local project unspecified.",
+        "sourceIds": [
+          "angoon-bia-feasibility"
         ]
       }
     ],
@@ -11124,6 +11220,43 @@
         "accessNotes": "Public body readable through the web reader; only the stated selected body was reviewed.",
         "sourcePerspective": "Native cultural institution announcing a public historical event.",
         "countsTowardMinimum": true
+      },
+      {
+        "id": "angoon-ktoo-apology",
+        "title": "US Navy apologizes for 1882 destruction of Angoon",
+        "publisher": "KTOO",
+        "url": "https://www.ktoo.org/2024/10/28/us-navy-finally-apologizes-for-1882-destruction-of-angoon/",
+        "type": "Local reporting from Angoon",
+        "topics": [
+          "Angoon",
+          "1882 bombardment",
+          "public remembrance"
+        ],
+        "annotation": "Yvonne Krumrey reports from the October 2024 ceremony, describes the community’s decades of requests, and quotes the apology delivered by Rear Admiral Mark Sucato.",
+        "accessed": "2026-11-19",
+        "contentReviewedAt": "2026-11-19",
+        "contentReviewScope": "Reporting on the 1882 attack, the community’s requests, and the October 26, 2024 ceremony at Angoon High School. The quoted remarks are excerpts.",
+        "countsTowardMinimum": true,
+        "author": "Yvonne Krumrey",
+        "publicationDate": "2024-10-28"
+      },
+      {
+        "id": "angoon-bia-feasibility",
+        "title": "Indian Affairs Invests Over $760,000 to Help Tribes Start New Businesses and Commercial Projects in Opportunity Zones",
+        "publisher": "Indian Affairs, U.S. Department of the Interior",
+        "url": "https://www.bia.gov/news/indian-affairs-invests-over-760000-help-tribes-start-new-businesses-and-commercial-projects",
+        "type": "Federal grant announcement",
+        "topics": [
+          "Angoon Community Association",
+          "Alaska",
+          "economic development"
+        ],
+        "annotation": "The announcement identifies Angoon Community Association in Alaska as a recipient of $37,600 through a program that funds economic feasibility studies.",
+        "accessed": "2026-11-19",
+        "contentReviewedAt": "2026-11-19",
+        "contentReviewScope": "January 14, 2021 announcement of program purpose and the named recipient and award in the grantee list. The notice does not identify a particular Angoon project or report its outcome.",
+        "countsTowardMinimum": true,
+        "publicationDate": "2021-01-14"
       }
     ],
     "identityVerifiedAt": "2026-10-26",
@@ -11159,7 +11292,7 @@
       "e15-angoon-testimony",
       "e15-angoon-charter"
     ],
-    "reviewedAt": "2026-11-02",
+    "reviewedAt": "2026-11-19",
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
     "startingGuide": {
@@ -11191,7 +11324,8 @@
     },
     "slug": "angoon-community-association",
     "regionGroups": [
-      "Arctic & Alaska"
+      "Arctic & Alaska",
+      "Southeast"
     ],
     "mapRegions": [
       {

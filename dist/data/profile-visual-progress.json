@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 351,
+    "selectedProfiles": 352,
     "existingApache": 1,
-    "newProfileTreatments": 350,
+    "newProfileTreatments": 351,
     "newTreatmentsWithPhotographs": 332,
-    "decorativeTreatmentsAwaitingPhotographs": 18,
-    "autoEnrolledThisBuild": []
+    "decorativeTreatmentsAwaitingPhotographs": 19,
+    "autoEnrolledThisBuild": [
+      "aangoon-angoon"
+    ]
   },
   "treatments": [
     {
@@ -76,6 +78,29 @@
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "aangoon-angoon",
+      "name": "Aangóon (Angoon)",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 23,
+      "angle": 77,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:23;--profile-angle:77deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 2
     },
     {
@@ -1114,7 +1139,7 @@
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
-      "substantiveInspectedSources": 4
+      "substantiveInspectedSources": 6
     },
     {
       "slug": "anishinaabe",
