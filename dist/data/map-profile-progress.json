@@ -2345,12 +2345,27 @@
     "originalId": null,
     "name": "Cadohadacho",
     "slug": "cadohadacho",
-    "regions": [],
-    "status": "Awaiting regional evidence",
-    "connectionRecords": 0,
+    "regions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ],
+    "status": "Has sourced regional connection",
+    "connectionRecords": 3,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
-    "reviewedAt": null,
-    "regionalConnectionGap": "Historical Red River location needs further state-level review."
+    "reviewedAt": "2026-11-18"
   },
   {
     "originalId": null,
@@ -2626,10 +2641,15 @@
         "id": "US-OH",
         "name": "Ohio",
         "key": "us-oh"
+      },
+      {
+        "id": "CA-ON",
+        "name": "Ontario",
+        "key": "ca-on"
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 2,
+    "connectionRecords": 3,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
     "reviewedAt": "2026-11-18"
   },
@@ -11456,6 +11476,11 @@
     "slug": "mohawk",
     "regions": [
       {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      },
+      {
         "id": "CA-ON",
         "name": "Ontario",
         "key": "ca-on"
@@ -11467,7 +11492,7 @@
       }
     ],
     "status": "Has sourced regional connection",
-    "connectionRecords": 2,
+    "connectionRecords": 3,
     "coverageNote": "A regional connection is not a complete homeland or population account. Directory names may overlap.",
     "reviewedAt": "2026-11-18"
   },

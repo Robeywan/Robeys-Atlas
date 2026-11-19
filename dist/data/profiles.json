@@ -25118,7 +25118,23 @@
     ],
     "slug": "cadohadacho",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
+      {
+        "id": "US-OK",
+        "name": "Oklahoma",
+        "key": "us-ok"
+      },
+      {
+        "id": "US-TX",
+        "name": "Texas",
+        "key": "us-tx"
+      }
+    ]
   },
   {
     "name": "Cahto Tribe of the Laytonville Rancheria",
@@ -26313,6 +26329,14 @@
         "sourceIds": [
           "p12-cayuga-degree"
         ]
+      },
+      {
+        "title": "Cayuga Lake and language learning",
+        "text": "Fort Stanwix’s historical account places Cayuga communities in New York’s Finger Lakes. The Gayogo̱hó:nǫˀ Learning Project describes Cayuga language use around Cayuga Lake and at Six Nations of the Grand River. Its reading list points to a 2024 grammar and dictionary developed by teachers Frances Froman, Alfred Keye and Lottie Keye with linguist Carrie Dyck.",
+        "sourceIds": [
+          "hd-fort-stanwix-revolution",
+          "hd-cayuga-language"
+        ]
       }
     ],
     "sources": [
@@ -26399,6 +26423,41 @@
         "countsTowardMinimum": true,
         "contentReviewScope": "Actual programme-description paragraphs, introductory programme-of-study explanation, selected language/grammar, practice, community and research-methods course listings; pathways introduction.",
         "accessNotes": "Selected public content actually read on 2026-10-28. No access bypass or outreach. Linked collections, media, original manuscripts and additional pages are not automatically inspected or licensed. Normal HTTP200. Degree requirements are the institution’s published description, not proof of current individual enrollment, course availability or guaranteed proficiency. Fees, admissions eligibility, linked lessons and course content not independently evaluated."
+      },
+      {
+        "id": "hd-fort-stanwix-revolution",
+        "title": "The Six Nations Confederacy During the American Revolution",
+        "publisher": "National Park Service · Fort Stanwix National Monument",
+        "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Confederacy",
+          "New York"
+        ],
+        "annotation": "Historical interpretation of the five founding nations’ homelands and contrasting choices during the American Revolution.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the historical place descriptions and discussion of wartime decisions among and within the Six Nations.",
+        "countsTowardMinimum": false,
+        "accessNotes": "The page displays October 10, 2024 as its last update. Its founding date estimate is not used here."
+      },
+      {
+        "id": "hd-cayuga-language",
+        "title": "Gayog o hó:nǫˀ Language",
+        "publisher": "Gayogo̱hó:nǫˀ Learning Project",
+        "url": "https://gayogohono-learning-project.org/language",
+        "type": "Academic / reference",
+        "topics": [
+          "Language",
+          "Education",
+          "New York"
+        ],
+        "annotation": "The project describes Cayuga language use around Cayuga Lake and at Six Nations of the Grand River, and points readers to a grammar and dictionary.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected language geography and the description of the 2024 grammar and dictionary. Page speaker counts were not selected.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -26415,7 +26474,7 @@
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-18",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
@@ -26460,6 +26519,9 @@
       ],
       "imageRecordId": "c12-cayuga-photo"
     },
+    "relatedProfileSlugs": [
+      "haudenosaunee"
+    ],
     "added": false,
     "slug": "cayuga",
     "regionGroups": [
@@ -26475,6 +26537,11 @@
         "id": "US-OH",
         "name": "Ohio",
         "key": "us-oh"
+      },
+      {
+        "id": "CA-ON",
+        "name": "Ontario",
+        "key": "ca-on"
       }
     ]
   },
@@ -51828,7 +51895,7 @@
     "name": "Haudenosaunee",
     "region": "Northeast / Great Lakes",
     "kind": "Confederacy",
-    "overview": "Haudenosaunee is the name of a confederacy connecting the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora nations. It is a broader political relationship, rather than another name for one constituent nation.",
+    "overview": "The Haudenosaunee Confederacy, also known historically as the Iroquois Confederacy, brings together the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora nations. The Onondaga Nation’s public account explains how the Grand Council connects these nations and why its council fire is at Onondaga.",
     "sections": [
       {
         "title": "Identity and context",
@@ -51844,6 +51911,27 @@
           "added-s1",
           "added-s2",
           "added-s3"
+        ]
+      },
+      {
+        "title": "The Six Nations and the Council Fire",
+        "text": "The Onondaga Nation describes a shared council established to maintain peace among the Mohawk, Oneida, Onondaga, Cayuga and Seneca. The Tuscarora joined later, in the early eighteenth century. In the Nation’s account, chiefs and clan mothers have responsibilities in Confederacy government. The Grand Council gathers at Onondaga, where the Nation keeps the Central Fire. Its public account describes the Longhouse as a place for council, cultural and community life.",
+        "sourceIds": [
+          "hd-onondaga-facts"
+        ]
+      },
+      {
+        "title": "Homelands in present-day New York",
+        "text": "Fort Stanwix National Monument traces the original alliance across present-day New York, from Mohawk communities in the lower Mohawk Valley to Oneida in the upper valley, Onondaga near Syracuse, Cayuga in the Finger Lakes and Seneca in the Rochester–Buffalo region. The individual nation guides link to sources on their particular communities and the places described in those sources.",
+        "sourceIds": [
+          "hd-fort-stanwix-revolution"
+        ]
+      },
+      {
+        "title": "The American Revolution",
+        "text": "The Fort Stanwix account describes early efforts to stay out of the war, followed by divisions within and among the six nations. Many Oneida and Tuscarora supported the Americans, and many others sided with Britain. These differing choices help explain why records from individual nations and communities matter when reading about the Confederacy during the Revolution.",
+        "sourceIds": [
+          "hd-fort-stanwix-revolution"
         ]
       }
     ],
@@ -51888,6 +51976,41 @@
         ],
         "annotation": "Community or Indigenous-organization perspective linked for this entry. Use “I. HISTORY AND BACKGROUND OF THE ONONDAGA NATION AND THE HAUDENOSAUNEE IN LAKE ONTARIO:” to begin with the publisher’s own account; check whether its scope is one community or a wider people.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "hd-onondaga-facts",
+        "title": "Facts",
+        "publisher": "Onondaga Nation",
+        "url": "https://www.onondaganation.org/aboutus/facts/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Confederacy",
+          "Governance",
+          "New York"
+        ],
+        "annotation": "An Onondaga Nation introduction to the Six Nations, the Grand Council and the Central Fire.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the Nation’s public text on Onondaga’s location, the five founding nations and later Tuscarora membership, the Grand Council and the Longhouse.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "hd-fort-stanwix-revolution",
+        "title": "The Six Nations Confederacy During the American Revolution",
+        "publisher": "National Park Service · Fort Stanwix National Monument",
+        "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Confederacy",
+          "New York"
+        ],
+        "annotation": "Historical interpretation of the five founding nations’ homelands and contrasting choices during the American Revolution.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the historical place descriptions and discussion of wartime decisions among and within the Six Nations.",
+        "countsTowardMinimum": false,
+        "accessNotes": "The page displays October 10, 2024 as its last update. Its founding date estimate is not used here."
       }
     ],
     "relatedOriginalIds": [
@@ -51899,6 +52022,11 @@
       411
     ],
     "researchStatus": "source-guide",
+    "overviewSourceIds": [
+      "hd-onondaga-facts"
+    ],
+    "reviewedAt": "2026-11-18",
+    "researchComplete": false,
     "slug": "haudenosaunee",
     "regionGroups": [
       "Great Lakes",
@@ -82787,6 +82915,13 @@
         "sourceIds": [
           "p12-mohawk-snp-study"
         ]
+      },
+      {
+        "title": "The Mohawk Valley and the Eastern Door",
+        "text": "The Saint Regis Mohawk Tribe’s history places earlier Mohawk communities in the Mohawk Valley of New York. It describes the Mohawk as keepers of the Confederacy’s Eastern Door. The same account introduces Akwesasne through its river setting along the St. Lawrence. Read each place account in its own historical or community context.",
+        "sourceIds": [
+          "hd-srmt-history"
+        ]
       }
     ],
     "sources": [
@@ -82871,6 +83006,23 @@
         "contentReviewScope": "Actual 96-page PDF: title/acknowledgments and abstract, PDF pp1–2 and7; selected background, project goals and study conduct pp8–11; selected focus-group/questionnaire methodology pp28–31.",
         "accessNotes": "Selected public content actually read on 2026-10-28. No access bypass or outreach. Linked collections, media, original manuscripts and additional pages are not automatically inspected or licensed. Normal HTTP200 PDF. Full report, appendices, underlying questionnaires and recordings not reviewed. Findings are attributed research recommendations, not independently verified learning-outcome guarantees. Historical participant/speaker figures and ceremonial details are not adopted.",
         "author": "Tehota’kerá:tonh / Jeremy Green, lead researcher"
+      },
+      {
+        "id": "hd-srmt-history",
+        "title": "History of Tribal Government",
+        "publisher": "Saint Regis Mohawk Tribe",
+        "url": "https://www.srmt-nsn.gov/about/history-of-tribal-government",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "New York",
+          "Confederacy"
+        ],
+        "annotation": "The Tribe describes Mohawk Valley history and identifies the Mohawk as keepers of the Confederacy’s Eastern Door.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the Mohawk Valley and Eastern Door passage and the Akwesasne river setting from the Tribe’s introduction.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -82887,7 +83039,7 @@
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-18",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
@@ -82932,12 +83084,20 @@
       ],
       "imageRecordId": "c12-mohawk-photo"
     },
+    "relatedProfileSlugs": [
+      "haudenosaunee"
+    ],
     "added": false,
     "slug": "mohawk",
     "regionGroups": [
       "Northeast"
     ],
     "mapRegions": [
+      {
+        "id": "US-NY",
+        "name": "New York",
+        "key": "us-ny"
+      },
       {
         "id": "CA-ON",
         "name": "Ontario",
@@ -100996,6 +101156,20 @@
         "sourceIds": [
           "p12-oneida-language-history"
         ]
+      },
+      {
+        "title": "Homelands in central New York",
+        "text": "The Oneida Indian Nation’s origins account describes its ancestral homelands in central New York and Oneida membership in the original Confederacy. This is the New York Nation’s account. The sources below also introduce Oneida communities in Wisconsin and Ontario through their own publications.",
+        "sourceIds": [
+          "hd-oneida-origins"
+        ]
+      },
+      {
+        "title": "Oneida people in the American Revolution",
+        "text": "Fort Stanwix’s account describes early efforts at neutrality and differing wartime decisions within the Six Nations. It describes substantial Oneida support for the Americans during the conflict as part of a wider history of choices made by different communities.",
+        "sourceIds": [
+          "hd-fort-stanwix-revolution"
+        ]
       }
     ],
     "sources": [
@@ -101068,6 +101242,41 @@
         "countsTowardMinimum": false,
         "contentReviewScope": "Actual substantial indexed opening under Life in New York: Oneida language/self-name, New York lake/creek connection and initial early-1800s context.",
         "accessNotes": "Selected public content actually read on 2026-10-28. No access bypass or outreach. Linked collections, media, original manuscripts and additional pages are not automatically inspected or licensed. Direct normal HTTPS retrieval failed hostname-certificate validation; ordinary reader timed out. Only actual indexed opening text was inspected. No bypass, full-page reading, current boundary, exact village or archaeological-site identification is claimed."
+      },
+      {
+        "id": "hd-oneida-origins",
+        "title": "Origins: The People of the Standing Stone",
+        "publisher": "Oneida Indian Nation",
+        "url": "https://www.oneidaindiannation.org/milestone/origins",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "New York",
+          "Confederacy"
+        ],
+        "annotation": "The New York Nation’s account of Oneida origins, homeland and Confederacy membership.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the central New York homeland and founding membership passages from the Nation’s account.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "hd-fort-stanwix-revolution",
+        "title": "The Six Nations Confederacy During the American Revolution",
+        "publisher": "National Park Service · Fort Stanwix National Monument",
+        "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Confederacy",
+          "New York"
+        ],
+        "annotation": "Historical interpretation of the five founding nations’ homelands and contrasting choices during the American Revolution.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the historical place descriptions and discussion of wartime decisions among and within the Six Nations.",
+        "countsTowardMinimum": false,
+        "accessNotes": "The page displays October 10, 2024 as its last update. Its founding date estimate is not used here."
       }
     ],
     "relatedOriginalIds": [
@@ -101084,7 +101293,7 @@
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-18",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
@@ -101125,6 +101334,9 @@
       ],
       "imageRecordId": "c12-oneida-photo"
     },
+    "relatedProfileSlugs": [
+      "haudenosaunee"
+    ],
     "added": false,
     "slug": "oneida",
     "regionGroups": [
@@ -101343,6 +101555,14 @@
         "sourceIds": [
           "p12-onondaga-lake-vision"
         ]
+      },
+      {
+        "title": "Keeping the Central Fire",
+        "text": "The Onondaga Nation places its community near Nedrow, south of Syracuse, and describes Onondaga as the gathering place of the Grand Council. Its government page explains the roles of clan mothers in choosing leaders and of the Firekeepers in council deliberation. Read the two accounts together for the relationship between the council’s responsibilities and the place where it meets.",
+        "sourceIds": [
+          "hd-onondaga-facts",
+          "hd-onondaga-government"
+        ]
       }
     ],
     "sources": [
@@ -101440,6 +101660,39 @@
         "countsTowardMinimum": true,
         "contentReviewScope": "Actual public The People section: lake/watershed relationship, community history and desired ecological recovery. The separate prayer/Creator material is not reproduced.",
         "accessNotes": "Selected public content actually read on 2026-10-28. No access bypass or outreach. Linked collections, media, original manuscripts and additional pages are not automatically inspected or licensed. Direct script HTTP406; actual selected ordinary web-reader/indexed body read. No current safety advice, sampling, cleanup outcome, legal remedy or present boundary is asserted."
+      },
+      {
+        "id": "hd-onondaga-facts",
+        "title": "Facts",
+        "publisher": "Onondaga Nation",
+        "url": "https://www.onondaganation.org/aboutus/facts/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Confederacy",
+          "Governance",
+          "New York"
+        ],
+        "annotation": "An Onondaga Nation introduction to the Six Nations, the Grand Council and the Central Fire.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the Nation’s public text on Onondaga’s location, the five founding nations and later Tuscarora membership, the Grand Council and the Longhouse.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "hd-onondaga-government",
+        "title": "Government",
+        "publisher": "Onondaga Nation",
+        "url": "https://www.onondaganation.org/government/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Governance",
+          "Confederacy"
+        ],
+        "annotation": "The Nation explains the responsibilities of clan mothers, chiefs and the Council Fire.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the public description of leadership selection and Grand Council deliberation.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -101456,7 +101709,7 @@
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-18",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
@@ -101501,6 +101754,9 @@
       ],
       "imageRecordId": "c12-onondaga-photo"
     },
+    "relatedProfileSlugs": [
+      "haudenosaunee"
+    ],
     "added": false,
     "slug": "onondaga",
     "regionGroups": [
@@ -120409,6 +120665,14 @@
         "sourceIds": [
           "p12-seneca-museum-about"
         ]
+      },
+      {
+        "title": "Western New York and Seneca language education",
+        "text": "Fort Stanwix’s historical overview places Seneca communities in the area between present-day Rochester and Buffalo. The Seneca Nation describes language teaching in its Allegany and Cattaraugus programs. Its account highlights support for teachers and classroom resources at Allegany, and describes language learning across generations at Cattaraugus.",
+        "sourceIds": [
+          "hd-fort-stanwix-revolution",
+          "hd-seneca-language"
+        ]
       }
     ],
     "sources": [
@@ -120482,6 +120746,41 @@
         "countsTowardMinimum": true,
         "contentReviewScope": "Actual About-page body: museum/archives history and family-records role, new Onöhsagwë:de’ Cultural Center home and stated interpretive mission.",
         "accessNotes": "Selected public content actually read on 2026-10-28. No access bypass or outreach. Linked collections, media, original manuscripts and additional pages are not automatically inspected or licensed. Normal ordinary web-reader body. Collection objects, family records, multimedia and restricted research procedures were not inspected or reproduced. No present visitor schedule, archive-access entitlement or independent building chronology is claimed."
+      },
+      {
+        "id": "hd-fort-stanwix-revolution",
+        "title": "The Six Nations Confederacy During the American Revolution",
+        "publisher": "National Park Service · Fort Stanwix National Monument",
+        "url": "https://www.nps.gov/articles/000/the-six-nations-confederacy-during-the-american-revolution.htm",
+        "type": "Government",
+        "topics": [
+          "History",
+          "Confederacy",
+          "New York"
+        ],
+        "annotation": "Historical interpretation of the five founding nations’ homelands and contrasting choices during the American Revolution.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the historical place descriptions and discussion of wartime decisions among and within the Six Nations.",
+        "countsTowardMinimum": false,
+        "accessNotes": "The page displays October 10, 2024 as its last update. Its founding date estimate is not used here."
+      },
+      {
+        "id": "hd-seneca-language",
+        "title": "Seneca Language",
+        "publisher": "Seneca Nation",
+        "url": "https://sni.org/education/seneca-language-departments/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Language",
+          "Education",
+          "New York"
+        ],
+        "annotation": "The Nation explains language teaching and learning activities in its Allegany and Cattaraugus programs.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected the public program descriptions, including support for teachers and learning across generations.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -120498,7 +120797,7 @@
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-18",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
@@ -120543,6 +120842,9 @@
       ],
       "imageRecordId": "c12-seneca-photo"
     },
+    "relatedProfileSlugs": [
+      "haudenosaunee"
+    ],
     "added": false,
     "slug": "seneca",
     "regionGroups": [
@@ -136923,6 +137225,23 @@
           "p411-s3",
           "p411-s1"
         ]
+      },
+      {
+        "title": "Joining the Confederacy",
+        "text": "Onondaga Nation describes the Tuscarora joining the Confederacy in the early eighteenth century. Read its council overview alongside Tuscarora sources on earlier communities in the Carolinas and language work in New York.",
+        "sourceIds": [
+          "hd-onondaga-facts",
+          "p12-tuscarora-ncpedia",
+          "p12-tuscarora-language-about"
+        ]
+      },
+      {
+        "title": "Tuscarora language at school",
+        "text": "The Niagara Wheatfield Central School District describes daily Tuscarora language and culture instruction at Tuscarora Nation School and an option for secondary students to earn Regents credit. Its partnership spotlight gives a school example alongside the Tuscarora Language Program’s public description of adult immersion plans.",
+        "sourceIds": [
+          "hd-tuscarora-school",
+          "p12-tuscarora-immersion"
+        ]
       }
     ],
     "sources": [
@@ -137029,6 +137348,40 @@
         "countsTowardMinimum": false,
         "contentReviewScope": "Actual public opening mission/vision paragraphs; logo narrative encountered but excluded from synthesis and visual reuse.",
         "accessNotes": "Selected public content actually read on 2026-10-28. No access bypass or outreach. Linked collections, media, original manuscripts and additional pages are not automatically inspected or licensed. Normal HTTP200. No logo or underlying design copied, interpreted or licensed by this reading. No current programme efficacy or speaker totals asserted."
+      },
+      {
+        "id": "hd-onondaga-facts",
+        "title": "Facts",
+        "publisher": "Onondaga Nation",
+        "url": "https://www.onondaganation.org/aboutus/facts/",
+        "type": "Indigenous-led",
+        "topics": [
+          "Confederacy",
+          "Governance",
+          "New York"
+        ],
+        "annotation": "An Onondaga Nation introduction to the Six Nations, the Grand Council and the Central Fire.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Read the Nation’s public text on Onondaga’s location, the five founding nations and later Tuscarora membership, the Grand Council and the Longhouse.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "hd-tuscarora-school",
+        "title": "Tuscarora Nation Partnership Spotlight",
+        "publisher": "Niagara Wheatfield Central School District",
+        "url": "https://www.nwcsd.org/",
+        "type": "Government",
+        "topics": [
+          "Language",
+          "Education",
+          "New York"
+        ],
+        "annotation": "The district explains its partnership with Tuscarora Nation School and outlines language instruction there.",
+        "accessed": "2026-11-18",
+        "contentReviewedAt": "2026-11-18",
+        "contentReviewScope": "Selected only the displayed partnership spotlight on the district homepage, including the school's daily classes and secondary credit option.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -137046,7 +137399,7 @@
     ],
     "entryStage": "reviewed-starting-guide",
     "coverageLevel": "cited-starting-guide",
-    "reviewedAt": "2026-10-28",
+    "reviewedAt": "2026-11-18",
     "researchComplete": false,
     "communityReview": "Not recorded",
     "directoryQueueStatus": "Individually scoped starting guide; fuller history remains open",
@@ -137087,6 +137440,9 @@
       ],
       "imageRecordId": "c12-tuscarora-photo"
     },
+    "relatedProfileSlugs": [
+      "haudenosaunee"
+    ],
     "added": false,
     "slug": "tuscarora",
     "regionGroups": [
