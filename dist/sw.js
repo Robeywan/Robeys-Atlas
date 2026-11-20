@@ -3,7 +3,7 @@
 
 const scope = new URL(self.registration.scope);
 const cachePrefix = 'robeys-atlas-pwa:' + scope.href + ':';
-const shellCache = cachePrefix + 'shell-v2';
+const shellCache = cachePrefix + 'shell-v3';
 const pageCache = cachePrefix + 'pages-v1';
 const assetCache = cachePrefix + 'assets-v1';
 const activeCaches = new Set([shellCache, pageCache, assetCache]);
