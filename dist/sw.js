@@ -3,12 +3,13 @@
 
 const scope = new URL(self.registration.scope);
 const cachePrefix = 'robeys-atlas-pwa:' + scope.href + ':';
-const shellCache = cachePrefix + 'shell-v1';
+const shellCache = cachePrefix + 'shell-v2';
 const pageCache = cachePrefix + 'pages-v1';
 const assetCache = cachePrefix + 'assets-v1';
 const activeCaches = new Set([shellCache, pageCache, assetCache]);
 const coreFiles = [
   'offline.html', 'offline.js', 'install/', 'pwa-install.js', 'pwa-install.css',
+  'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png',
   'manifest.webmanifest', 'favicon.svg', 'styles.css', 'app.js', 'map.js',
   'directory-cards.css', 'profile-visuals.css', 'assets/header-navigation.css',
   'assets/site-color-theme.css', 'assets/generated-background.css',

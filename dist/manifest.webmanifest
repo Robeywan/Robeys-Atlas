@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Robey’s Atlas of Indigenous North America",
-  "short_name": "Robey’s Atlas",
+  "name": "Indigenous North America",
+  "short_name": "Indigenous North America",
   "lang": "en",
   "description": "A free research directory of Indigenous peoples, communities, and sources across North America.",
   "start_url": "/",
@@ -11,19 +11,19 @@
   "theme_color": "#234d3d",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icons/icon-192.png?v=atlas-emblem-1",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icons/icon-512.png?v=atlas-emblem-1",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-maskable-512.png",
+      "src": "icons/icon-maskable-512.png?v=atlas-emblem-1",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

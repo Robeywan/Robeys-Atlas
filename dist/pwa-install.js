@@ -65,7 +65,7 @@
     dialog.setAttribute('aria-labelledby', 'atlas-install-title');
     const title = document.createElement('h2');
     title.id = 'atlas-install-title';
-    title.textContent = 'Install the Atlas';
+    title.textContent = 'Install Indigenous North America';
     title.tabIndex = -1;
     const content = document.createElement('div');
     content.setAttribute('aria-live', 'polite');
