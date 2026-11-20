@@ -1,0 +1,77 @@
+.contact-page {
+  padding-block: clamp(2rem, 6vw, 5rem);
+}
+
+.contact-panel {
+  box-sizing: border-box;
+  max-width: 39rem;
+  margin-inline: auto;
+  padding: clamp(1.25rem, 5vw, 2.75rem);
+  border: 1px solid #d6cbba;
+  border-radius: 1rem;
+  background: #fffdf7;
+  color: #202b25;
+}
+
+.contact-panel h1 {
+  margin: 0 0 .75rem;
+}
+
+.contact-form {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.75rem;
+}
+
+.contact-field {
+  display: grid;
+  gap: .375rem;
+}
+
+.contact-field label {
+  font-weight: 650;
+}
+
+.contact-field label span,
+.contact-note {
+  font-size: .875rem;
+  font-weight: 400;
+  color: #414d44;
+}
+
+.contact-field input,
+.contact-field textarea {
+  box-sizing: border-box;
+  width: 100%;
+  padding: .7rem .8rem;
+  border: 1px solid #827969;
+  border-radius: .5rem;
+  background-color: #fff;
+  color: #202b25;
+  font: inherit;
+}
+
+.contact-field textarea {
+  resize: vertical;
+}
+
+.contact-form button {
+  justify-self: start;
+  padding: .7rem 1.1rem;
+  border: 1px solid #234d3d;
+  border-radius: .5rem;
+  background-color: #234d3d;
+  color: #fff;
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.contact-panel :focus-visible {
+  outline: 3px solid #85512f;
+  outline-offset: 3px;
+}
+
+.contact-note {
+  margin: 0;
+}
