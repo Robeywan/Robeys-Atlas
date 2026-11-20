@@ -254,6 +254,10 @@ function queuedOutlinePage(p){const references=identificationReferences(p);const
 function sourceContextOutlinePage(p){
  let page=queuedOutlinePage(p);
  const replaceOnce=(before,after)=>{if(page.split(before).length!==2)throw Error('Nonunique source-context insertion for '+p.name);page=page.replace(before,after);};
+ if(profileVisuals.bySlug.has(p.slug)){
+  replaceOnce('<section class="profile-hero">',profileVisuals.banner(p)+'<section class="profile-hero">');
+  replaceOnce('</article></main>',profileVisuals.credits(p)+'</article></main>');
+ }
  const sections=p.sections.map((s,i)=>`<section class="profile-section" id="section-${i+1}"><span class="section-num">${String(i+1).padStart(2,'0')}</span><h2>${e(s.title)}</h2><p>${e(s.text)}</p>${cite(p,s.sourceIds)}</section>`).join('');
  const sourceCards=p.sources.map((s,i)=>sourceCard(s,{index:i,profile:true})).join('');
  const selectedGaps=p.researchGaps||[];

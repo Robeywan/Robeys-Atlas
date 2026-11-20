@@ -1,15 +1,17 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 353,
+    "selectedProfiles": 356,
     "existingApache": 1,
-    "newProfileTreatments": 352,
-    "newTreatmentsWithPhotographs": 333,
-    "decorativeTreatmentsAwaitingPhotographs": 19,
+    "newProfileTreatments": 355,
+    "newTreatmentsWithPhotographs": 334,
+    "decorativeTreatmentsAwaitingPhotographs": 21,
     "autoEnrolledThisBuild": [
-      "abegweit-first-nation"
+      "cleveland-american-indian-movement",
+      "lake-erie-native-american-council",
+      "old-chillicothe"
     ]
   },
   "treatments": [
@@ -89,14 +91,59 @@
       "hue": 23,
       "angle": 77,
       "composition": "orbit",
-      "images": [],
+      "images": [
+        {
+          "id": "e15-angoon-village-2014",
+          "profileSlugs": [
+            "angoon-community-association",
+            "aangoon-angoon"
+          ],
+          "asset": "assets/profile-visuals/e15-angoon-village-2014.jpg",
+          "cardAsset": "assets/profile-visuals/e15-angoon-village-2014.jpg",
+          "title": "Angoon waterfront, 2014",
+          "credit": "James Brooks, via Wikimedia Commons · CC BY 2.0",
+          "cardCredit": "James Brooks · CC BY 2.0",
+          "creator": "James Brooks",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angoon.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Angoon.jpg/960px-Angoon.jpg",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "scope": "A 2014 named-place view of Angoon. It illustrates the setting of the Association’s own Admiralty Island community account; it is not a portrait of tribal citizens, a boundary or ownership map, or a current-condition assessment. Complete offered 960×344 JPEG viewed; no standalone artwork or identifiable people visible. Commons summary, photographer, date, CC BY 2.0 terms and Flickr review read. The source’s embedded larger dimensions were not treated as the delivered image size. Saved byte-for-byte without resizing, cropping, recompression or retouching. Card and opened-page assets are the same unchanged file.",
+          "reviewedAt": "2026-11-02",
+          "date": "2014-05-30",
+          "alt": "A waterfront view of Angoon, with houses, docks and forest below low clouds.",
+          "contextSources": [
+            {
+              "title": "Angoon Community Association testimony in EPA Public Meeting #12227, September 8, 2000",
+              "url": "https://19january2021snapshot.epa.gov/sites/static/files/2015-11/documents/juneau_alaska_hearing_transcript.pdf",
+              "inspectionScope": "Printed pages 143–145 (PDF pages 142–144), opening and selected continuation of the Association letter: speaker attribution, Admiralty Island/Tlingit community setting and cruise-ship environmental concerns. Not the full hearing or a complete review of the letter."
+            }
+          ],
+          "retrievalNotes": {
+            "file": "e15-angoon-village-2014.jpg",
+            "requestedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Angoon.jpg/960px-Angoon.jpg",
+            "finalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Angoon.jpg/960px-Angoon.jpg",
+            "contentType": "image/jpeg",
+            "format": "JPEG",
+            "dimensions": [
+              960,
+              344
+            ],
+            "bytes": 86915,
+            "sha256": "99b327f3e61478433aa8b80c6de88071eecd8195ad57586b45805feae1317b5d",
+            "retrievedAt": "2026-11-02",
+            "transformation": "None; normally offered file saved byte-for-byte."
+          },
+          "deliveredPixelsViewed": true
+        }
+      ],
       "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:23;--profile-angle:77deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:23;--profile-angle:77deg;--profile-photo:url(\"../../assets/profile-visuals/e15-angoon-village-2014.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -1157,7 +1204,8 @@
         {
           "id": "e15-angoon-village-2014",
           "profileSlugs": [
-            "angoon-community-association"
+            "angoon-community-association",
+            "aangoon-angoon"
           ],
           "asset": "assets/profile-visuals/e15-angoon-village-2014.jpg",
           "cardAsset": "assets/profile-visuals/e15-angoon-village-2014.jpg",
@@ -5034,6 +5082,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "cleveland-american-indian-movement",
+      "name": "Cleveland American Indian Movement",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 220,
+      "angle": -63,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:220;--profile-angle:-63deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "coahuiltecan",
@@ -10577,6 +10648,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "lake-erie-native-american-council",
+      "name": "Lake Erie Native American Council",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 75,
+      "angle": 69,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:75;--profile-angle:69deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "lakota",
       "name": "Lakota",
       "originalId": 180,
@@ -15391,6 +15485,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "old-chillicothe",
+      "name": "Old Chillicothe",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 137,
+      "angle": -38,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:137;--profile-angle:-38deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "omaha",
