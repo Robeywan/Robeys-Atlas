@@ -20,6 +20,12 @@ Run `node build.mjs`, then `node verify.mjs`. `node serve.mjs` serves the site a
 
 Search, A–Z, filters, sorting and saved entries run in the browser. All profiles and source links are static HTML and remain accessible without JavaScript. Saved entries use browser-local storage. No user account, database or API key is needed for the directory itself.
 
+## Installable Atlas
+
+The shared page template in `build.mjs` uses `pwa-shell.mjs` for the manifest, Apple metadata, and **Get the app!** link. The manifest, install guide, offline page, icons and service worker live in `dist/` and deploy with the rest of the site. Run `node serve.mjs` for a loopback preview. Service workers require HTTPS in production. Keep the worker at the site root.
+
+The worker prefers online responses and keeps a bounded set of recently visited pages and first-party assets. The reading list uses separate browser storage. When changing the offline shell format, update the app-specific cache version in `dist/sw.js`.
+
 ## Continue the research
 
 Develop each source guide into a fuller article with an evidence trail: names and identity; homeland and historical change; language and publicly shared cultural life; governance and contemporary priorities; annotated bibliography; and explicit uncertainties. Prioritize sources authored by the community concerned. Do not infer disappearance from language loss, a gap in the collection, or an old administrative label.
