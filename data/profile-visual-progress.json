@@ -3,17 +3,17 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 446,
+    "selectedProfiles": 451,
     "existingApache": 1,
-    "newProfileTreatments": 445,
-    "newTreatmentsWithPhotographs": 427,
-    "decorativeTreatmentsAwaitingPhotographs": 18,
+    "newProfileTreatments": 450,
+    "newTreatmentsWithPhotographs": 430,
+    "decorativeTreatmentsAwaitingPhotographs": 20,
     "autoEnrolledThisBuild": [
-      "buckongahelas-town",
-      "deaf-mans-village",
-      "godfroy-village",
-      "keewaunays-village",
-      "osage-village-mississinewa"
+      "aciipihkahkionki",
+      "americans-of-abya-yala-at-indiana-university",
+      "killibucks-village",
+      "lower-delaware-town",
+      "national-center-for-great-lakes-native-american-culture"
     ]
   },
   "treatments": [
@@ -471,6 +471,71 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 17
+    },
+    {
+      "slug": "aciipihkahkionki",
+      "name": "Aciipihkahkionki",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 233,
+      "angle": -36,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "aciipihkahkionki-wabash-vincennes",
+          "profileSlugs": [
+            "aciipihkahkionki"
+          ],
+          "title": "Wabash River, early morning, at Vincennes",
+          "alt": "Calm water and wooded banks along the Wabash River at Vincennes, framed by overhanging leaves.",
+          "creator": "Chris Light",
+          "credit": "Chris Light / Wikimedia Commons",
+          "cardCredit": "Photo: Chris Light / Wikimedia Commons",
+          "date": "March 3, 2007",
+          "mediaType": "photograph",
+          "scope": "The photograph shows the Wabash River at Vincennes in 2007. The Atlas resized the photograph for the guide and directory card and shares both versions under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wabash_River,_early_morning.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wabash_River%2C_early_morning.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "George Ironstrack, Walking Myaamionki",
+              "url": "https://aacimotaatiiyankwi.org/2010/12/16/walking-myaamionki/"
+            }
+          ],
+          "asset": "assets/profile-visuals/aciipihkahkionki-wabash-vincennes.jpg",
+          "cardAsset": "assets/profile-visuals/aciipihkahkionki-wabash-vincennes-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 927,
+              "bytes": 279020,
+              "sha256": "9d55d5abdd17fc202b0d71ccc947a48fbca01458c37f46a98fbcc86e4f9d19fb"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 412,
+              "bytes": 62125,
+              "sha256": "85749667a74ad8903d617840b9254923481cc1df401f732c6c524d028eb66c3f"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:233;--profile-angle:-36deg;--profile-photo:url(\"../../assets/profile-visuals/aciipihkahkionki-wabash-vincennes.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "acoma-pueblo",
@@ -1504,6 +1569,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:74;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/toledo-point-place-cullen-park.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "americans-of-abya-yala-at-indiana-university",
+      "name": "Americans of Abya Yala at Indiana University",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 302,
+      "angle": 47,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:302;--profile-angle:47deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -12184,6 +12272,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "killibucks-village",
+      "name": "Killibuck’s Village",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 333,
+      "angle": -54,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "killibucks-village-chesterfield-white-river",
+          "profileSlugs": [
+            "killibucks-village"
+          ],
+          "title": "White River by Walbridge Acres Park, Chesterfield",
+          "alt": "A bend in the White River through woodland, with ball fields and park roads below.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "June 19, 2022",
+          "mediaType": "photograph",
+          "scope": "This aerial photograph shows the modern river bend beside Walbridge Acres Park in the Chesterfield area. The Atlas resized it for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=619768.236%2C4441612.408%2C620877.436%2C4442364.408&bboxSR=26916&imageSR=26916&size=1180%2C800&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B59400%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Town of Chesterfield",
+              "url": "https://chesterfield.in.gov/"
+            }
+          ],
+          "asset": "assets/profile-visuals/killibucks-village-chesterfield-white-river.jpg",
+          "cardAsset": "assets/profile-visuals/killibucks-village-chesterfield-white-river-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1180,
+              "height": 800,
+              "bytes": 291323,
+              "sha256": "983f2ac8dfa5a68893718fecf0f2403daf5300a04baadac073999ee42d92fe10"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 434,
+              "bytes": 72480,
+              "sha256": "8546d0b243d2c271bd28d29a45ec8c9f34e61aeb2cc82f0bceb92ac14f17faca"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:333;--profile-angle:-54deg;--profile-photo:url(\"../../assets/profile-visuals/killibucks-village-chesterfield-white-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "kiowa",
       "name": "Kiowa",
       "originalId": 167,
@@ -13843,6 +13996,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:53deg;--profile-photo:url(\"../../assets/profile-visuals/lower-brule-reservation-entrance-2004.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "lower-delaware-town",
+      "name": "Lower Delaware Town",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 223,
+      "angle": -43,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "lower-delaware-town-noblesville-white-river",
+          "profileSlugs": [
+            "lower-delaware-town"
+          ],
+          "title": "White River through present-day Noblesville",
+          "alt": "Aerial view of the White River between part of Forest Park and downtown Noblesville.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "June 21, 2022",
+          "mediaType": "photograph",
+          "scope": "This aerial photograph shows the White River through present-day Noblesville near Forest Park. The Atlas resized it for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=583439.200%2C4433255.000%2C584524.800%2C4433991.000&bboxSR=26916&imageSR=26916&size=1180%2C800&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B59673%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "City of Noblesville, White River Boat Ramp",
+              "url": "https://www.noblesville.in.gov/728/White-River-Boat-Ramp"
+            }
+          ],
+          "asset": "assets/profile-visuals/lower-delaware-town-noblesville-white-river.jpg",
+          "cardAsset": "assets/profile-visuals/lower-delaware-town-noblesville-white-river-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1180,
+              "height": 800,
+              "bytes": 299210,
+              "sha256": "7cf2afc1fcf0e5d25164ccfec155bc1ddcb6bebdb86e0487b5870630a4911cbb"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 434,
+              "bytes": 81420,
+              "sha256": "a51504217879474385b5efa3f45eafa641da72d761998976b9a4cd9210384e19"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:223;--profile-angle:-43deg;--profile-photo:url(\"../../assets/profile-visuals/lower-delaware-town-noblesville-white-river.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -17821,6 +18039,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:53deg;--profile-photo:url(\"../../assets/profile-visuals/natchitoches-fort-site-building-2009.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "national-center-for-great-lakes-native-american-culture",
+      "name": "National Center for Great Lakes Native American Culture",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 298,
+      "angle": -28,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:298;--profile-angle:-28deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
