@@ -6502,11 +6502,11 @@
       "name": "Adams Lake Indian Band",
       "slug": "adams-lake-indian-band",
       "entryType": "named-community-or-government",
-      "entryStage": "name-only-outline",
-      "researchStatus": "queued",
+      "entryStage": "source-context",
+      "researchStatus": "source-guide",
       "substantiveWorks": 0,
       "supportingIdentificationReferences": 1,
-      "readingSourceCards": 0,
+      "readingSourceCards": 2,
       "identificationEvidence": [
         {
           "url": "https://www.bcafn.ca/first-nations-bc/interactive-map",
@@ -6517,7 +6517,59 @@
           "countsTowardMinimum": false
         }
       ],
-      "dedupNote": "No exact normalized name, preferred label, explicit alias or search-term match in current profiles/queued registry. Similar broader labels are not automatically this particular community government."
+      "dedupNote": "No exact normalized name, preferred label, explicit alias or search-term match in current profiles/queued registry. Similar broader labels are not automatically this particular community government.",
+      "researchComplete": false,
+      "sources": [
+        {
+          "id": "s-adams-lake-indian-band-about",
+          "url": "https://adamslakeband.org/about-us/",
+          "title": "About Us",
+          "publisher": "Adams Lake Indian Band",
+          "type": "First Nation website",
+          "annotation": "The Band introduces its community, identifies its main office near Chase, and describes its programs and services.",
+          "accessed": "2026-11-20",
+          "contentReviewedAt": "2026-11-20",
+          "contentReviewScope": "Selected passages on Secwepemc affiliation, the main office, and fisheries within the Band's services.",
+          "indigenousLed": true,
+          "countsTowardMinimum": false,
+          "sourceUnitKey": "adams-lake-indian-band-about",
+          "topics": []
+        },
+        {
+          "id": "s-adams-lake-indian-band-march-2016-newsletter",
+          "url": "https://adamslakeband.org/wp-content/uploads/2016/08/ALIB-Newsletter-March-2016.pdf",
+          "title": "March 2016 newsletter",
+          "publisher": "Adams Lake Indian Band",
+          "type": "First Nation newsletter",
+          "annotation": "The fisheries section discusses the Lower Adams River sockeye run as reported in 2016.",
+          "accessed": "2026-11-20",
+          "contentReviewedAt": "2026-11-20",
+          "contentReviewScope": "The Lower Adams River sockeye passage within the Fisheries heading. The run figures describe that report's period.",
+          "indigenousLed": true,
+          "countsTowardMinimum": false,
+          "sourceUnitKey": "adams-lake-indian-band-march-2016-newsletter",
+          "topics": []
+        }
+      ],
+      "sections": [
+        {
+          "title": "Community and location",
+          "text": "The Band describes itself as part of the Secwepemc Nation. It places its main office at Sahhaltkum (Sexqeltqin), on the west side of Little Shuswap Lake across from Chase, British Columbia.",
+          "sourceIds": [
+            "s-adams-lake-indian-band-about"
+          ]
+        },
+        {
+          "title": "Fisheries and the lower Adams River",
+          "text": "The Band lists fisheries among its services. The fisheries section of its March 2016 newsletter discusses the sockeye run in the lower Adams River.",
+          "sourceIds": [
+            "s-adams-lake-indian-band-about",
+            "s-adams-lake-indian-band-march-2016-newsletter"
+          ]
+        }
+      ],
+      "listedReadingSources": 2,
+      "imageStatus": "Reviewed photograph with credit and reuse terms"
     },
     {
       "name": "Aitchelitz First Nation",

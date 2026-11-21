@@ -100730,14 +100730,61 @@
     "compiledAt": "2026-10-26",
     "kind": "Named First Nation / band government",
     "region": "British Columbia",
-    "overview": "Adams Lake Indian Band has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "Individually named First Nation/community government in the BC Assembly of First Nations community directory. Directory inclusion and administrative region do not establish ethnicity, language, ancestry, territory, exclusive representation or a relationship to every broader people label.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "The Adams Lake Indian Band describes itself as part of the Secwepemc Nation. Its main office is on Little Shuswap Lake across from Chase, British Columbia.",
+    "relationshipNote": "This entry covers Adams Lake Indian Band. The Band identifies its own connection to the Secwepemc Nation.",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Community and location",
+        "text": "The Band describes itself as part of the Secwepemc Nation. It places its main office at Sahhaltkum (Sexqeltqin), on the west side of Little Shuswap Lake across from Chase, British Columbia.",
+        "sourceIds": [
+          "s-adams-lake-indian-band-about"
+        ]
+      },
+      {
+        "title": "Fisheries and the lower Adams River",
+        "text": "The Band lists fisheries among its services. The fisheries section of its March 2016 newsletter discusses the sockeye run in the lower Adams River.",
+        "sourceIds": [
+          "s-adams-lake-indian-band-about",
+          "s-adams-lake-indian-band-march-2016-newsletter"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-adams-lake-indian-band-about",
+        "url": "https://adamslakeband.org/about-us/",
+        "title": "About Us",
+        "publisher": "Adams Lake Indian Band",
+        "type": "First Nation website",
+        "annotation": "The Band introduces its community, identifies its main office near Chase, and describes its programs and services.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "contentReviewScope": "Selected passages on Secwepemc affiliation, the main office, and fisheries within the Band's services.",
+        "indigenousLed": true,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "adams-lake-indian-band-about",
+        "topics": []
+      },
+      {
+        "id": "s-adams-lake-indian-band-march-2016-newsletter",
+        "url": "https://adamslakeband.org/wp-content/uploads/2016/08/ALIB-Newsletter-March-2016.pdf",
+        "title": "March 2016 newsletter",
+        "publisher": "Adams Lake Indian Band",
+        "type": "First Nation newsletter",
+        "annotation": "The fisheries section discusses the Lower Adams River sockeye run as reported in 2016.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "contentReviewScope": "The Lower Adams River sockeye passage within the Fisheries heading. The run figures describe that report's period.",
+        "indigenousLed": true,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "adams-lake-indian-band-march-2016-newsletter",
+        "topics": []
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -100754,17 +100801,19 @@
     "relatedProfileSlugs": [],
     "researchGaps": [
       "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
       "Review detailed relationships, naming changes and historical regional connections."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "Selected Band sources provide a starting point for this community profile.",
       "remainingLimits": [
-        "History, reading sources and imagery remain queued."
+        "A fuller historical and community-directed reading guide awaits review."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-adams-lake-indian-band-about"
+    ]
   },
   {
     "name": "Aitchelitz First Nation",
