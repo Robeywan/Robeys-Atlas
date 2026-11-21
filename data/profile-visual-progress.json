@@ -3,18 +3,18 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 502,
+    "selectedProfiles": 508,
     "existingApache": 1,
-    "newProfileTreatments": 501,
-    "newTreatmentsWithPhotographs": 448,
-    "decorativeTreatmentsAwaitingPhotographs": 53,
+    "newProfileTreatments": 507,
+    "newTreatmentsWithPhotographs": 450,
+    "decorativeTreatmentsAwaitingPhotographs": 57,
     "autoEnrolledThisBuild": [
-      "electa-quinney-institute-for-american-indian-education",
-      "indian-council-of-the-elderly",
-      "intertribal-student-council-uw-green-bay",
-      "madeline-island-ojibwe-village",
-      "meier-farm-site",
-      "southeastern-oneida-tribal-services"
+      "american-indian-chamber-of-commerce-of-wisconsin",
+      "bell-site",
+      "crescent-bay-hunt-club-site",
+      "indigenous-law-students-association-uw-madison",
+      "oneida-nation-museum",
+      "woodland-indian-art-inc"
     ]
   },
   "treatments": [
@@ -1547,6 +1547,29 @@
         "used": 0
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:186;--profile-angle:-17deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "american-indian-chamber-of-commerce-of-wisconsin",
+      "name": "American Indian Chamber of Commerce of Wisconsin",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 160,
+      "angle": -10,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:160;--profile-angle:-10deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -3608,6 +3631,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "bell-site",
+      "name": "Bell Site",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 220,
+      "angle": -68,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:220;--profile-angle:-68deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "beothuk",
@@ -7212,6 +7258,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "crescent-bay-hunt-club-site",
+      "name": "Crescent Bay Hunt Club Site",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 318,
+      "angle": 9,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "crescent-bay-lake-koshkonong-sunset",
+          "profileSlugs": [
+            "crescent-bay-hunt-club-site"
+          ],
+          "title": "Sunset over Lake Koshkonong",
+          "alt": "Sunset on Lake Koshkonong framed by a walkway and trees.",
+          "creator": "Good Free Photos",
+          "credit": "Good Free Photos",
+          "cardCredit": "Photo: Good Free Photos",
+          "date": "Photograph date unrecorded",
+          "mediaType": "photograph",
+          "scope": "The photograph shows present-day Lake Koshkonong in southeastern Wisconsin, the lake that gives the Crescent Bay Hunt Club Site its geographic setting. The Atlas resized the photograph for display.",
+          "sourceUrl": "https://www.goodfreephotos.com/united-states/wisconsin/southern-wisconsin/wisconsin-landscape-and-sunset-of-lake-koshkonong-free-stock-photo.jpg.php",
+          "sourceImageUrl": "https://www.goodfreephotos.com/albums/united-states/wisconsin/southern-wisconsin/wisconsin-landscape-and-sunset-of-lake-koshkonong-free-stock-photo.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/publicdomain/",
+          "rightsLabel": "Public domain (Good Free Photos)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Program in Midwestern Archaeology",
+              "url": "https://uwm.edu/archaeology-laboratory/research/pima/"
+            },
+            {
+              "title": "Lake Koshkonong",
+              "url": "https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=808700"
+            }
+          ],
+          "asset": "assets/profile-visuals/crescent-bay-lake-koshkonong-sunset.jpg",
+          "cardAsset": "assets/profile-visuals/crescent-bay-lake-koshkonong-sunset-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 132988,
+              "sha256": "6ffcf6fe6b89e783627e6b6b1ae3a2557f745547440285a6d1e19811f2d1dd76"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 22217,
+              "sha256": "bf50bdf154d58386d6f060e74dce0776dd71568c55869366dda5b3e779b6e5b6"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:318;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/crescent-bay-lake-koshkonong-sunset.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "crow",
@@ -11273,6 +11388,75 @@
         "used": 0
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:202;--profile-angle:-10deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "indigenous-law-students-association-uw-madison",
+      "name": "Indigenous Law Students Association (UW–Madison)",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 213,
+      "angle": 71,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "uw-madison-indigenous-law-students-law-building",
+          "profileSlugs": [
+            "indigenous-law-students-association-uw-madison"
+          ],
+          "title": "University of Wisconsin Law Building",
+          "alt": "The glass and limestone entrance of the University of Wisconsin Law Building on Bascom Mall.",
+          "creator": "DNerenhausen",
+          "credit": "DNerenhausen / Wikimedia Commons",
+          "cardCredit": "Photo: DNerenhausen / Wikimedia Commons",
+          "date": "September 12, 2022",
+          "mediaType": "photograph",
+          "scope": "This 2022 photograph shows the University of Wisconsin Law Building in Madison, where the Indigenous Law Students Association is based. The Atlas resized it for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wisconsin_Law_Building.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wisconsin_Law_Building.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Student Organizations, Journals & Activities",
+              "url": "https://law.wisc.edu/current/orgs.html"
+            },
+            {
+              "title": "Q&A with leaders of UW’s Indigenous Law Students Association",
+              "url": "https://news.wisc.edu/often-our-communities-feel-invisible-q-a-with-leaders-of-uws-indigenous-law-students-association/"
+            }
+          ],
+          "asset": "assets/profile-visuals/uw-madison-indigenous-law-students-law-building.jpg",
+          "cardAsset": "assets/profile-visuals/uw-madison-indigenous-law-students-law-building-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 798,
+              "bytes": 415903,
+              "sha256": "69c748b6ddb772690cd95c168f7b12383fc48d9027ed07967a67b6c60f88d2e0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 99648,
+              "sha256": "c3b0bb7eaee83878321d549d8e6f165fc88dd3fdd5ee007d39791479b3f28b56"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:213;--profile-angle:71deg;--profile-photo:url(\"../../assets/profile-visuals/uw-madison-indigenous-law-students-law-building.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -22410,6 +22594,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "oneida-nation-museum",
+      "name": "Oneida Nation Museum",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 78,
+      "angle": 64,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:78;--profile-angle:64deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "onondaga",
       "name": "Onondaga",
       "originalId": 269,
@@ -31310,6 +31517,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/wood-mountain-rodeo-grounds-2024.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "woodland-indian-art-inc",
+      "name": "Woodland Indian Art, Inc.",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 98,
+      "angle": -18,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:98;--profile-angle:-18deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
