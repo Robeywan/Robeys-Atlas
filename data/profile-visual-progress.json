@@ -3,15 +3,15 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 404,
+    "selectedProfiles": 407,
     "existingApache": 1,
-    "newProfileTreatments": 403,
-    "newTreatmentsWithPhotographs": 403,
+    "newProfileTreatments": 406,
+    "newTreatmentsWithPhotographs": 406,
     "decorativeTreatmentsAwaitingPhotographs": 0,
     "autoEnrolledThisBuild": [
-      "goschachgunk",
-      "greentown-delaware-village",
-      "indigenous-student-association-wilmington-college"
+      "native-american-and-indigenous-peoples-cohort-ohio-state-university",
+      "salem-mission",
+      "wakatomika"
     ]
   },
   "treatments": [
@@ -16628,6 +16628,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "native-american-and-indigenous-peoples-cohort-ohio-state-university",
+      "name": "Native American and Indigenous Peoples Cohort (Ohio State University)",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 305,
+      "angle": 53,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ohio-union-cohort-campus",
+          "profileSlugs": [
+            "native-american-and-indigenous-peoples-cohort-ohio-state-university"
+          ],
+          "title": "Ohio Union on Ohio State’s Columbus campus",
+          "alt": "The brick and glass entrance of the Ohio Union, with people crossing the plaza.",
+          "creator": "Robert Chriss",
+          "credit": "Robert Chriss",
+          "cardCredit": "Photo: Robert Chriss",
+          "scope": "Robert Chriss photographed the Ohio Union in 2010. Ohio State’s event notice identifies this building as the location of the cohort’s 2023 welcome gathering. The Atlas resized the photograph for display under the same license.",
+          "date": "April 12, 2010",
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:OhioUnionFront.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/OhioUnionFront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Ohio State’s Native American and Indigenous Welcome Gathering notice",
+              "url": "https://www.bme.osu.edu/events/2023/08/native-american-and-indigenous-welcome-gathering"
+            }
+          ],
+          "asset": "assets/profile-visuals/ohio-union-cohort-campus.jpg",
+          "cardAsset": "assets/profile-visuals/ohio-union-cohort-campus-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 472468,
+              "sha256": "c8a57d723d151e19d1ef8edf72a479126cfc75673cab46b33de1d292da9f7661"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 82771,
+              "sha256": "09b25cb78b4ecdfdc8acaaaa3ee7e3883ee756ae03400b4a18384767aa4b8fe3"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:305;--profile-angle:53deg;--profile-photo:url(\"../../assets/profile-visuals/ohio-union-cohort-campus.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "native-hawaiian-kanaka-maoli",
       "name": "Native Hawaiian (Kānaka Maoli)",
       "originalId": null,
@@ -22322,6 +22387,71 @@
       "substantiveInspectedSources": 1
     },
     {
+      "slug": "salem-mission",
+      "name": "Salem Mission",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 290,
+      "angle": -79,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "salem-mission-tuscarawas-aerial",
+          "profileSlugs": [
+            "salem-mission"
+          ],
+          "title": "Landscape near the Salem Mission marker, Ohio",
+          "alt": "Aerial view of open fields and roads near the public Salem Mission marker south of Port Washington.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency NAIP. Data available from U.S. Geological Survey, National Geospatial Program.",
+          "cardCredit": "Photo: USDA Farm Service Agency NAIP. Data available from U.S. Geological Survey, National Geospatial Program.",
+          "scope": "This 2023 aerial photograph shows the modern landscape around the public Salem Mission marker south of Port Washington. The Atlas prepared JPEG display copies from the public imagery.",
+          "date": "May 18, 2023",
+          "mediaType": "photograph",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=453906.202%2C4461642.346%2C454786.202%2C4462242.346&bboxSR=26917&imageSR=26917&size=1100%2C750&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B147290%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Ohio historical marker for the Salem Mission",
+              "url": "https://remarkableohio.org/marker/2-79-the-salem-mission-john-gottlieb-ernestus-heckwelder-1743-1823/"
+            }
+          ],
+          "asset": "assets/profile-visuals/salem-mission-tuscarawas-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/salem-mission-tuscarawas-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1100,
+              "height": 750,
+              "bytes": 144899,
+              "sha256": "a8f7a84088808e77e40cf9b2192438cf737ea00510ce844fc44c19f16048cbea"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 436,
+              "bytes": 34819,
+              "sha256": "c7353a03d8d195251359caddd013e14d49da6b65e4f66e8a37890c7b7876dc67"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:290;--profile-angle:-79deg;--profile-photo:url(\"../../assets/profile-visuals/salem-mission-tuscarawas-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "samish",
       "name": "Samish",
       "originalId": null,
@@ -26399,6 +26529,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "wakatomika",
+      "name": "Wakatomika",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 190,
+      "angle": -52,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "wakatomika-muskingum-dresden",
+          "profileSlugs": [
+            "wakatomika"
+          ],
+          "title": "Muskingum River at Dresden, Ohio",
+          "alt": "Aerial view of bridges crossing the Muskingum River between wooded banks at Dresden.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency NAIP. Data available from U.S. Geological Survey, National Geospatial Program.",
+          "cardCredit": "Photo: USDA Farm Service Agency NAIP. Data available from U.S. Geological Survey, National Geospatial Program.",
+          "scope": "This 2023 aerial photograph shows the Muskingum River at Dresden, near the setting described by Muskingum County History. The Atlas selected the visible river area from the public imagery and saved JPEG display copies.",
+          "date": "May 21, 2023",
+          "mediaType": "photograph",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=414373.183%2C4441285.948%2C415253.183%2C4441885.948&bboxSR=26917&imageSR=26917&size=1100%2C750&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B147341%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Muskingum County History’s Wakatomika program",
+              "url": "https://www.muskingumcountyhistory.org/new-events/2025/9/17/lord-dunmores-war-and-the-burning-of-wakatomika"
+            },
+            {
+              "title": "USGS water data location for the Muskingum River at Dresden",
+              "url": "https://waterdata.usgs.gov/monitoring-location/USGS-03144500/"
+            }
+          ],
+          "asset": "assets/profile-visuals/wakatomika-muskingum-dresden.jpg",
+          "cardAsset": "assets/profile-visuals/wakatomika-muskingum-dresden-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 774,
+              "height": 645,
+              "bytes": 165764,
+              "sha256": "e4e6dfe7caa9a88ff8e5c0e797b5fca28d3f535dcc700769a9f2d2439d81d080"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 533,
+              "bytes": 89649,
+              "sha256": "716632fb66dec88575b35fdd51c082b4b82eba8cd97edbd6ad0bfbb76a03fd49"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:190;--profile-angle:-52deg;--profile-photo:url(\"../../assets/profile-visuals/wakatomika-muskingum-dresden.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "walla-walla",
