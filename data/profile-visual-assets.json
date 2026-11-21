@@ -19223,6 +19223,88 @@
           "sha256": "b7ea11a4d789297e802ede62a51e1cc085c53c4b689ab3d6d30262c8df146182"
         }
       }
+    },
+    {
+      "id": "first-nations-film-evanston-library",
+      "profileSlugs": [
+        "first-nations-film-and-video-festival"
+      ],
+      "title": "Evanston public library",
+      "alt": "The brick Evanston Public Library building seen from the street, with trees in front.",
+      "creator": "ejojola",
+      "credit": "ejojola / Wikimedia Commons",
+      "cardCredit": "Photo: ejojola / Wikimedia Commons",
+      "date": "July 31, 2009",
+      "mediaType": "photograph",
+      "scope": "This 2009 exterior photograph shows Evanston Public Library, which the festival listed as a screening venue in fall 2026. The Atlas resized the photograph for display.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Evanston_public_library.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Evanston_public_library.jpg",
+      "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rightsLabel": "CC BY 2.0",
+      "reviewedAt": "2026-11-21",
+      "contextSources": [
+        {
+          "title": "Fall 2026 FNFVF",
+          "url": "https://fnfvf.org/events/fall-2026-fnfvf"
+        }
+      ],
+      "asset": "assets/profile-visuals/first-nations-film-evanston-library.jpg",
+      "cardAsset": "assets/profile-visuals/first-nations-film-evanston-library-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1024,
+          "height": 768,
+          "bytes": 290826,
+          "sha256": "9cce3a612ad58822beb5feb9b0abe70819836a8a982fbca5fce9d86546ca9e2d"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 480,
+          "bytes": 94285,
+          "sha256": "9edfc7c8d985d10e57290dd3cbf6dbbbd2d083a3fc11e8e67fe6699bd9a500a6"
+        }
+      }
+    },
+    {
+      "id": "millstone-bluff-forest-landscape",
+      "profileSlugs": [
+        "millstone-bluff-village"
+      ],
+      "title": "Wooded Millstone Bluff in Shawnee National Forest",
+      "alt": "Aerial view of dense woodland and nearby fields at Millstone Bluff.",
+      "creator": "USDA Farm Service Agency NAIP",
+      "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+      "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+      "date": "September 18, 2019",
+      "mediaType": "photograph",
+      "scope": "This aerial photograph shows the surrounding woodland at Millstone Bluff in Pope County. The Atlas cropped the aerial image to the delivered landscape and resized it for display.",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=349924.807%2C4147847.269%2C351222.807%2C4148749.269&bboxSR=26916&imageSR=26916&size=1180%2C820&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B53641%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+      "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+      "rightsLabel": "U.S. public domain (USDA NAIP)",
+      "reviewedAt": "2026-11-21",
+      "contextSources": [
+        {
+          "title": "Millstone Bluff",
+          "url": "https://www.fs.usda.gov/media/192655"
+        }
+      ],
+      "asset": "assets/profile-visuals/millstone-bluff-forest-landscape.jpg",
+      "cardAsset": "assets/profile-visuals/millstone-bluff-forest-landscape-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 696,
+          "height": 820,
+          "bytes": 197137,
+          "sha256": "9fc74314274fae1faa22d3206709c4bdd754ac57af896e429fbe6da88f577b46"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 754,
+          "bytes": 137726,
+          "sha256": "5bc6afe4a9058d557079b4ab4ac0ee37a4a21460d77f80ecfade4282ce759789"
+        }
+      }
     }
   ],
   "deferred": [
