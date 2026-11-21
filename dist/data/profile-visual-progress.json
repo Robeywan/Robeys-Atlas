@@ -3,18 +3,23 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 485,
+    "selectedProfiles": 496,
     "existingApache": 1,
-    "newProfileTreatments": 484,
-    "newTreatmentsWithPhotographs": 441,
-    "decorativeTreatmentsAwaitingPhotographs": 43,
+    "newProfileTreatments": 495,
+    "newTreatmentsWithPhotographs": 445,
+    "decorativeTreatmentsAwaitingPhotographs": 50,
     "autoEnrolledThisBuild": [
-      "darcy-mcnickle-center-for-american-indian-and-indigenous-studies",
-      "horseshoe-lake-mound-and-village-site",
-      "hubele-mounds-and-village-site",
-      "lunsfordpulcher-settlement",
-      "michigamea",
-      "native-american-indigenous-student-association-depaul-university"
+      "ancient-aztalan-village",
+      "brothertown-indian-nation",
+      "college-of-menominee-nation",
+      "gerald-l-ignace-indian-health-center",
+      "great-lakes-indian-fish-wildlife-commission",
+      "great-lakes-intertribal-council",
+      "indian-community-school",
+      "lac-courte-oreilles-ojibwe-university",
+      "trempealeau-mississippian-settlement",
+      "wisconsin-indian-education-association",
+      "wunk-sheek"
     ]
   },
   "treatments": [
@@ -1755,6 +1760,75 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 11
+    },
+    {
+      "slug": "ancient-aztalan-village",
+      "name": "Ancient Aztalan Village",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 132,
+      "angle": -14,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "aztalan-village-park-landscape",
+          "profileSlugs": [
+            "ancient-aztalan-village"
+          ],
+          "title": "Ancient Aztalan Village at Aztalan State Park",
+          "alt": "Grassy earthen terraces with steps and a wooden stockade visible at Aztalan State Park.",
+          "creator": "Joshua Mayer",
+          "credit": "Joshua Mayer / Wikimedia Commons",
+          "cardCredit": "Photo: Joshua Mayer / Wikimedia Commons",
+          "date": "September 26, 2009",
+          "mediaType": "photograph",
+          "scope": "This photograph shows the present-day state park landscape at Ancient Aztalan Village. The Atlas resized the photograph for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Aztalan_Village.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ancient_Aztalan_Village.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "rightsLabel": "CC BY-SA 2.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Ancient Aztalan Village",
+              "url": "https://dnr.wisconsin.gov/topic/statenaturalareas/AncientAztalanVillage"
+            },
+            {
+              "title": "History of Aztalan State Park",
+              "url": "https://dnr.wisconsin.gov/topic/parks/aztalan/history"
+            }
+          ],
+          "asset": "assets/profile-visuals/aztalan-village-park-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/aztalan-village-park-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 964,
+              "bytes": 221945,
+              "sha256": "f9022c7e24bfef26260518c5a315c33c9e5e23fd089928d2682064ed6b7077bd"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 428,
+              "bytes": 38052,
+              "sha256": "426bc3fdcdb577de821eefe8839cad798a99b95940ba3c039a9ff3f305f078c1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:132;--profile-angle:-14deg;--profile-photo:url(\"../../assets/profile-visuals/aztalan-village-park-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "andersons-town",
@@ -4116,6 +4190,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "brothertown-indian-nation",
+      "name": "Brothertown Indian Nation",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 101,
+      "angle": -13,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "brothertown-lake-winnebago-harbor",
+          "profileSlugs": [
+            "brothertown-indian-nation"
+          ],
+          "title": "Lake Winnebago shoreline at Brothertown Harbor",
+          "alt": "Aerial photograph of the tree-lined east shore of Lake Winnebago and the parking area at Brothertown Harbor.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "June 23, 2022",
+          "mediaType": "photograph",
+          "scope": "The Nation’s history describes settlement on the east shore of Lake Winnebago. This 2022 aerial photograph shows the present-day public harbor on that shore. The Atlas selected a local view and resized it for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=393830.806%2C4868840.611%2C394512.806%2C4869324.211&bboxSR=26916&imageSR=26916&size=1100%2C780&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B210375%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "History",
+              "url": "https://brothertownindians.org/history/"
+            },
+            {
+              "title": "Brothertown Harbor",
+              "url": "https://calumetcounty.org/654/Brothertown-Harbor"
+            }
+          ],
+          "asset": "assets/profile-visuals/brothertown-lake-winnebago-harbor.jpg",
+          "cardAsset": "assets/profile-visuals/brothertown-lake-winnebago-harbor-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1100,
+              "height": 780,
+              "bytes": 206074,
+              "sha256": "4afd0f3791f55c4eab911e8e310dab81d901cf8c7885349265e506fac54d13d7"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 454,
+              "bytes": 71711,
+              "sha256": "275103b2a210721f37eae4e01269d3dbd60955804151341e28a31f582463d57e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:101;--profile-angle:-13deg;--profile-photo:url(\"../../assets/profile-visuals/brothertown-lake-winnebago-harbor.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "buckongahelas-town",
       "name": "Buckongahelas’ Town",
       "originalId": null,
@@ -6451,6 +6594,29 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "college-of-menominee-nation",
+      "name": "College of Menominee Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 40,
+      "angle": 70,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:40;--profile-angle:70deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "colville",
       "name": "Colville",
       "originalId": 82,
@@ -8562,6 +8728,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "gerald-l-ignace-indian-health-center",
+      "name": "Gerald L. Ignace Indian Health Center",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 34,
+      "angle": 39,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:34;--profile-angle:39deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "gichigamiin-indigenous-nations-museum",
       "name": "Gichigamiin Indigenous Nations Museum",
       "originalId": null,
@@ -9161,6 +9350,52 @@
         "used": 0
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:6;--profile-angle:-10deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "great-lakes-indian-fish-wildlife-commission",
+      "name": "Great Lakes Indian Fish & Wildlife Commission",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 19,
+      "angle": 52,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:19;--profile-angle:52deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "great-lakes-intertribal-council",
+      "name": "Great Lakes Inter-Tribal Council",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 342,
+      "angle": -43,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:342;--profile-angle:-43deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -10933,6 +11168,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "indian-community-school",
+      "name": "Indian Community School",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 33,
+      "angle": -46,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:33;--profile-angle:-46deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "indiana-indian-movement",
@@ -13770,6 +14028,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "lac-courte-oreilles-ojibwe-university",
+      "name": "Lac Courte Oreilles Ojibwe University",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 308,
+      "angle": -62,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:308;--profile-angle:-62deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "lac-du-flambeau-band-of-lake-superior-chippewa",
@@ -29193,6 +29474,75 @@
       "substantiveInspectedSources": 12
     },
     {
+      "slug": "trempealeau-mississippian-settlement",
+      "name": "Trempealeau Mississippian Settlement",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 79,
+      "angle": -71,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "trempealeau-river-landscape",
+          "profileSlugs": [
+            "trempealeau-mississippian-settlement"
+          ],
+          "title": "Trempealeau Mountain and River at Perrot State Park",
+          "alt": "The wooded Trempealeau Mountain rising beyond the Trempealeau River in autumn.",
+          "creator": "Royalbroil",
+          "credit": "Royalbroil / Wikimedia Commons",
+          "cardCredit": "Photo: Royalbroil / Wikimedia Commons",
+          "date": "October 11, 2009",
+          "mediaType": "photograph",
+          "scope": "This photograph shows the landscape of the Trempealeau area at Perrot State Park, with the river in the foreground. The Atlas resized the photograph for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PerrotStateParkWisconsinTrempealeauMountain.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/PerrotStateParkWisconsinTrempealeauMountain.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Trempealeau Entanglements: An Ancient Colony’s Causes and Effects",
+              "url": "https://www.cambridge.org/core/journals/american-antiquity/article/abs/trempealeau-entanglements-an-ancient-colonys-causes-and-effects/4D9AEB03BA74C7DFB7C76D746462F454"
+            },
+            {
+              "title": "History of Perrot State Park",
+              "url": "https://dnr.wisconsin.gov/topic/parks/perrot/history"
+            }
+          ],
+          "asset": "assets/profile-visuals/trempealeau-river-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/trempealeau-river-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 275754,
+              "sha256": "3277ceb6061891184402005dd69acb357be01d8c40a6793c51332bded9f9bae5"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 48679,
+              "sha256": "6f4298bbb54623aa2911a454c629c7e36e5d60c8f34c1274efde5cbe009334f6"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:79;--profile-angle:-71deg;--profile-photo:url(\"../../assets/profile-visuals/trempealeau-river-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tribe-at-illinois-state-university",
       "name": "TRIBE at Illinois State University",
       "originalId": null,
@@ -30608,6 +30958,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "wisconsin-indian-education-association",
+      "name": "Wisconsin Indian Education Association",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 173,
+      "angle": -24,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:173;--profile-angle:-24deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "wood-mountain-lakota-first-nation",
       "name": "Wood Mountain Lakota First Nation",
       "originalId": null,
@@ -30670,6 +31043,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/wood-mountain-rodeo-grounds-2024.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "wunk-sheek",
+      "name": "Wunk Sheek",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 37,
+      "angle": 34,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "wunk-sheek-wisconsin-field-house",
+          "profileSlugs": [
+            "wunk-sheek"
+          ],
+          "title": "Wisconsin Field House in Madison",
+          "alt": "A corner view of the brick Wisconsin Field House with its tall arched windows.",
+          "creator": "James Steakley",
+          "credit": "James Steakley / Wikimedia Commons",
+          "cardCredit": "Photo: James Steakley / Wikimedia Commons",
+          "date": "April 22, 2012",
+          "mediaType": "photograph",
+          "scope": "This 2012 photograph shows the Wisconsin Field House, the advertised venue for the 2026 spring powwow that Wunk Sheek helped organize. The Atlas resized the photograph for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wisconsin_Field_House.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wisconsin_Field_House.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "On Wisconsin Annual Spring Powwow is April 11–12 at Field House",
+              "url": "https://news.wisc.edu/on-wisconsin-annual-spring-powwow-is-april-11-12-at-field-house/"
+            }
+          ],
+          "asset": "assets/profile-visuals/wunk-sheek-wisconsin-field-house.jpg",
+          "cardAsset": "assets/profile-visuals/wunk-sheek-wisconsin-field-house-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1047,
+              "bytes": 451717,
+              "sha256": "713068dda4acdd84bf32099c3791de2cf255bb0c158d127c7b797e752ea54488"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 465,
+              "bytes": 75285,
+              "sha256": "c97aaa6f848a73b4aaf83b825e532f8994910b8483f43d1939db9b3555b5d317"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:37;--profile-angle:34deg;--profile-photo:url(\"../../assets/profile-visuals/wunk-sheek-wisconsin-field-house.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
