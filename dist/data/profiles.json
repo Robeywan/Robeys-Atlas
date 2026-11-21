@@ -5098,14 +5098,210 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Alaska Native tribal community / government",
     "region": "Alaska",
-    "overview": "Agdaagux Tribe of King Cove has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
-    "relationshipNote": "An individually named Alaska Native tribal-community/government route, retained separately from broader people and language collections. This identification-only check does not establish ethnicity, constituent peoples, descent or membership from the name; fuller relationships and history remain queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "overview": "The Agdaagux Tribe of King Cove is an Alaska Native tribal government based in King Cove on the south side of the Alaska Peninsula. The Tribe’s own site identifies its Tribal Council. The Aleutian Pribilof Islands Association describes King Cove as a community shaped by Unangan fishing traditions, people moving from other villages, and a cannery built in 1911.",
+    "relationshipNote": "Historical accounts of King Cove describe families arriving from several communities, including Belkofski, Sanak and False Pass.",
+    "researchStatus": "source-guide",
+    "entryStage": "reviewed-starting-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "cited-starting-guide",
+    "sections": [
+      {
+        "title": "The Tribe and King Cove",
+        "text": "The Tribe identifies its Tribal Council on its official site and lists its address in King Cove, Alaska. The Aleutian Pribilof Islands Association locates the town on the south side of the Alaska Peninsula, across the water from Deer Island.",
+        "sourceIds": [
+          "s-ak-agdaagux-tribe-20261120",
+          "s-ak-agdaagux-king-cove-20261120"
+        ]
+      },
+      {
+        "title": "The cannery and the families who came to King Cove",
+        "text": "Pacific American Fisheries built a salmon cannery at King Cove in 1911. The regional association’s accounts describe workers and families arriving from nearby villages, including Belkofski, Sanak and False Pass. Its history of King Cove records a 1976 fire and subsequent rebuilding.",
+        "sourceIds": [
+          "s-ak-agdaagux-king-cove-20261120",
+          "s-ak-agdaagux-place-name-20261120"
+        ]
+      },
+      {
+        "title": "Remembering Belkofski in King Cove",
+        "text": "When families moved from Belkofski to King Cove, they brought church bells and icons with them. The Orthodox Church in America documents how residents and the Belkofski Tribal Council helped bring the bells back into use at Saint Herman Church in 2016.",
+        "sourceIds": [
+          "s-ak-agdaagux-belkofski-20261120",
+          "s-ak-agdaagux-bells-20261120"
+        ]
+      },
+      {
+        "title": "Language, art, and public celebrations",
+        "text": "The Aleutian Pribilof Islands Association gives the Unangam Tunuu name Agdaaĝux̂ for King Cove and credits Lucy Kenezuroff of Belkofski for the pronunciation recording. Tribal member Sean Mack writes about making a beaded glass float on an Aleutian research expedition. The Aleutians East Borough documents the King Cove Unangan Dancers performing at the school during a 2022 visit.",
+        "sourceIds": [
+          "s-ak-agdaagux-place-name-20261120",
+          "s-ak-agdaagux-sean-mack-20261120",
+          "s-ak-agdaagux-dance-20261120"
+        ]
+      },
+      {
+        "title": "Environmental work and local knowledge",
+        "text": "The Tribe’s environmental department describes monitoring water and shellfish and working with local youth on environmental education. Liza Mack’s dissertation examines how Eastern Aleutian leaders learn about and respond to rules affecting access to local resources.",
+        "sourceIds": [
+          "s-ak-agdaagux-stewardship-20261120",
+          "s-ak-agdaagux-liza-mack-20261120"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-ak-agdaagux-tribe-20261120",
+        "title": "Agdaagux Tribe of King Cove",
+        "url": "https://agdaagux.com/",
+        "publisher": "Agdaagux Tribe of King Cove",
+        "type": "Tribal government",
+        "topics": [
+          "Tribal Council",
+          "King Cove",
+          "Alaska map connection"
+        ],
+        "annotation": "The Tribe’s homepage identifies its Tribal Council and gives its location in King Cove, Alaska.",
+        "contentReviewScope": "Displayed Tribal Council heading and the Tribe’s own name and King Cove, Alaska address.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-king-cove-20261120",
+        "title": "King Cove",
+        "url": "https://www.apiai.org/tribes/king-cove/",
+        "publisher": "Aleutian Pribilof Islands Association",
+        "type": "Regional Indigenous organization",
+        "topics": [
+          "King Cove",
+          "Salmon cannery",
+          "Unangan history"
+        ],
+        "annotation": "The regional association describes the south Alaska Peninsula setting, the 1911 cannery, and King Cove’s fishing and fish-processing history.",
+        "contentReviewScope": "The location and history paragraphs about the settlement and salmon cannery.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-place-name-20261120",
+        "title": "King Cove",
+        "url": "https://www.apiai.org/wotw/king-cove/",
+        "publisher": "Aleutian Pribilof Islands Association",
+        "type": "Indigenous language resource",
+        "topics": [
+          "Unangam Tunuu",
+          "Place names",
+          "Lucy Kenezuroff"
+        ],
+        "annotation": "The association’s place-name page gives Agdaaĝux̂ for King Cove and credits Lucy Kenezuroff of Belkofski as the speaker.",
+        "contentReviewScope": "The displayed place name, English gloss, speaker credit, and the page’s historical summary. Text review.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-belkofski-20261120",
+        "title": "Belkofski",
+        "url": "https://www.apiai.org/tribes/belkofski/",
+        "publisher": "Aleutian Pribilof Islands Association",
+        "type": "Regional Indigenous organization",
+        "topics": [
+          "Belkofski",
+          "King Cove",
+          "Family migration"
+        ],
+        "annotation": "The association describes families’ moves to King Cove and the transfer of church bells and icons from Belkofski.",
+        "contentReviewScope": "The page’s location and history text on Belkofski and family moves to King Cove.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-bells-20261120",
+        "title": "Historic bells once again proclaim Alaskan community’s faith, heritage",
+        "url": "https://www.oca.org/news/headline-news/historic-bells-once-again-proclaim-alaskan-communitys-faith-heritage",
+        "publisher": "Orthodox Church in America",
+        "type": "Community history report",
+        "topics": [
+          "Belkofski",
+          "Saint Herman Church",
+          "Church bells"
+        ],
+        "annotation": "This 2016 account describes residents and the Belkofski Tribal Council helping restore and install historic bells at Saint Herman Church in King Cove.",
+        "contentReviewScope": "The parish account of the bells’ transfer from Belkofski, restoration, installation, and use in King Cove.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-sean-mack-20261120",
+        "title": "A Unangan Perspective: Reflections from Sean Mack",
+        "url": "https://oceanexplorer.noaa.gov/expedition-feature/24attu-battlefield-features-unangan-mack/",
+        "publisher": "NOAA Ocean Exploration",
+        "type": "First-person account",
+        "topics": [
+          "Sean Mack",
+          "Unangan arts",
+          "King Cove"
+        ],
+        "annotation": "Sean Mack identifies himself as a member of the Agdaagux Tribe of King Cove and describes bringing his knowledge and art to a research expedition in the Aleutians.",
+        "contentReviewScope": "Mack’s account of King Cove, his tribal membership as described in his own words, and his beaded glass float.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-liza-mack-20261120",
+        "title": "Unangam Unikangis: Aleut stories of leadership and knowing",
+        "url": "https://scholarworks.alaska.edu/uaf_grad_indigenous_studies/41/",
+        "publisher": "University of Alaska Fairbanks",
+        "type": "Dissertation abstract and record",
+        "topics": [
+          "Liza Mack",
+          "Eastern Aleutians",
+          "Natural resources"
+        ],
+        "annotation": "Liza Mack’s 2019 dissertation abstract describes using interviews, a survey, and other research methods to examine how Eastern Aleutian leaders address access to local resources.",
+        "contentReviewScope": "The repository’s author, date, and abstract, including the stated region and research question.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-stewardship-20261120",
+        "title": "IGAP",
+        "url": "https://agdaagux.com/igap",
+        "publisher": "Agdaagux Tribe of King Cove",
+        "type": "Tribal environmental program",
+        "topics": [
+          "Tribal environmental stewardship",
+          "Water sampling",
+          "Youth education"
+        ],
+        "annotation": "The Tribe’s environmental department describes water sampling, shellfish monitoring, and youth activities with the school.",
+        "contentReviewScope": "The Tribe’s approach and youth outreach descriptions, including examples of water and shellfish monitoring and school activities.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ak-agdaagux-dance-20261120",
+        "title": "U.S. Interior Secretary Deb Haaland Meets with Tribal, Community Leaders and Residents in King Cove, AK",
+        "url": "https://www.aleutianseast.org/u-s-interior-secretary-deb-haaland-meets-with-tribal-community-leaders-and-residents-in-king-cove-ak/",
+        "publisher": "Aleutians East Borough",
+        "type": "Dated borough event report",
+        "topics": [
+          "King Cove Unangan Dancers",
+          "Cultural education",
+          "2022 visit"
+        ],
+        "annotation": "The borough records a performance by the King Cove Unangan Dancers at the school and a naming ceremony led by cultural educator Dustin Newman during a 2022 visit.",
+        "contentReviewScope": "The dated school visit and public cultural programming paragraph.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -5121,18 +5317,18 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "More Agdaagux-authored oral histories and dated community accounts could deepen the guide’s coverage of fishing, language, and local history."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
-      "remainingLimits": [
-        "History, reading sources and imagery remain queued."
-      ]
+      "rationale": "Selected sources support a starting guide to the Tribe, its setting, community history, and environmental work."
     },
+    "overviewSourceIds": [
+      "s-ak-agdaagux-tribe-20261120",
+      "s-ak-agdaagux-king-cove-20261120"
+    ],
+    "reviewedAt": "2026-11-20",
     "slug": "agdaagux-tribe-of-king-cove",
     "regionGroups": [
       "Arctic & Alaska"

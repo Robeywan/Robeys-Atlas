@@ -3,15 +3,13 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 410,
+    "selectedProfiles": 411,
     "existingApache": 1,
-    "newProfileTreatments": 409,
-    "newTreatmentsWithPhotographs": 409,
+    "newProfileTreatments": 410,
+    "newTreatmentsWithPhotographs": 410,
     "decorativeTreatmentsAwaitingPhotographs": 0,
     "autoEnrolledThisBuild": [
-      "native-peoples-awareness-coalition-ohio-university",
-      "peckuwe",
-      "pluggys-town"
+      "agdaagux-tribe-of-king-cove"
     ]
   },
   "treatments": [
@@ -709,6 +707,71 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:257;--profile-angle:-68deg;--profile-photo:url(\"../../assets/profile-visuals/adams-lake-lower-adams-river-salmon-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "agdaagux-tribe-of-king-cove",
+      "name": "Agdaagux Tribe of King Cove",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 344,
+      "angle": -37,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "king-cove-james-brooks",
+          "title": "King Cove harbor, Alaska",
+          "alt": "Fishing boats and docks in King Cove harbor below cloud-covered mountains.",
+          "creator": "James Brooks",
+          "credit": "James Brooks",
+          "cardCredit": "Photo: James Brooks",
+          "date": "July 16, 2021",
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:210716_King_Cove_(51325435378).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/210716_King_Cove_%2851325435378%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "rightsLabel": "CC BY 2.0",
+          "reviewedAt": "2026-11-20",
+          "profileSlugs": [
+            "agdaagux-tribe-of-king-cove"
+          ],
+          "scope": "James Brooks photographed the King Cove harbor in 2021. The Atlas resized the photograph for the directory card and photo viewer.",
+          "contextSources": [
+            {
+              "title": "King Cove community profile",
+              "url": "https://www.apiai.org/tribes/king-cove/"
+            }
+          ],
+          "asset": "assets/profile-visuals/king-cove-james-brooks.jpg",
+          "cardAsset": "assets/profile-visuals/king-cove-james-brooks-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 947,
+              "bytes": 253110,
+              "sha256": "89cd855a924bd16d6b788bcfb24544a9da02482f9cbf7bfc57c42529f341ca6f"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 421,
+              "bytes": 44971,
+              "sha256": "9a9d229df8ea4dd09eff9979923a30c7ff8954db76a838dfe29ef9a1486946f0"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:344;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/king-cove-james-brooks.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
