@@ -3,18 +3,16 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 537,
+    "selectedProfiles": 541,
     "existingApache": 1,
-    "newProfileTreatments": 536,
-    "newTreatmentsWithPhotographs": 457,
-    "decorativeTreatmentsAwaitingPhotographs": 79,
+    "newProfileTreatments": 540,
+    "newTreatmentsWithPhotographs": 462,
+    "decorativeTreatmentsAwaitingPhotographs": 78,
     "autoEnrolledThisBuild": [
-      "american-indian-council",
-      "chanyata-site",
-      "latinonative-american-alumni-alliance",
-      "phipps-site",
-      "poweshieks-iowa-river-village",
-      "west-oak-forest-earthlodge-site"
+      "cloud-mans-village",
+      "kaposia",
+      "little-earth-of-united-tribes",
+      "mendota-mdewakanton-dakota-tribal-community"
     ]
   },
   "treatments": [
@@ -6446,6 +6444,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:220;--profile-angle:-63deg;--profile-photo:url(\"../../assets/profile-visuals/oh-cleveland-aim-dennis-banks-2013.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "cloud-mans-village",
+      "name": "Cloud Man’s Village",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 169,
+      "angle": 51,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "bde-maka-ska-chad-davis-2022",
+          "profileSlugs": [
+            "cloud-mans-village"
+          ],
+          "title": "Bde Maka Ska, Minneapolis, 2022",
+          "alt": "Lights from the Minneapolis skyline reflect across Bde Maka Ska at dusk.",
+          "creator": "Chad Davis",
+          "credit": "Chad Davis",
+          "cardCredit": "Photo: Chad Davis",
+          "date": "2022-05-30",
+          "mediaType": "photograph",
+          "scope": "This modern view shows the lake that provides geographic context for Cloud Man’s historic village. Resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bde_Maka_Ska%2C_Minneapolis_%2852136637066%29.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bde_Maka_Ska%2C_Minneapolis_%2852136637066%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "rightsLabel": "CC BY 2.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Dakota of Cloud Man’s Village",
+              "url": "https://rchs.com/gibbs-farm/our-story/dakota-of-cloud-mans-village/"
+            }
+          ],
+          "asset": "assets/profile-visuals/bde-maka-ska-chad-davis-2022.jpg",
+          "cardAsset": "assets/profile-visuals/bde-maka-ska-chad-davis-2022-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 190614,
+              "sha256": "380322ac8f8e1c502d181e8ede562b3e1d5fc37c0267d1e7afe76a347de66548"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 35584,
+              "sha256": "3dde3060995b8dfced1bb89ec216f14ad091d55d80ba06ef2fb383a579875795"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:169;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/bde-maka-ska-chad-davis-2022.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -13020,6 +13083,75 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "kaposia",
+      "name": "Kaposia",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 279,
+      "angle": 19,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "mississippi-saint-paul-michael-barera-2025",
+          "profileSlugs": [
+            "kaposia"
+          ],
+          "title": "Mississippi River in Saint Paul, 2025",
+          "alt": "The Mississippi River in Saint Paul, Minnesota.",
+          "creator": "Michael Barera",
+          "credit": "Michael Barera",
+          "cardCredit": "Photo: Michael Barera",
+          "date": "2025-04-13",
+          "mediaType": "photograph",
+          "scope": "A modern view of the river in the Saint Paul area. The river was central to Kaposia’s seasonal community. Resized for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Paul_April_2025_18_%28Mississippi_River%29.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Saint_Paul_April_2025_18_%28Mississippi_River%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Kaposia Indian Site",
+              "url": "https://www.nps.gov/miss/planyourvisit/kapoindi.htm"
+            },
+            {
+              "title": "Kaposia",
+              "url": "https://bdotememorymap.org/point/kaposia/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mississippi-saint-paul-michael-barera-2025.jpg",
+          "cardAsset": "assets/profile-visuals/mississippi-saint-paul-michael-barera-2025-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 249763,
+              "sha256": "59d323c8c8db50ea812a18f7e6c9ec65bd39726e805553dfe265e3822a8deda9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 47161,
+              "sha256": "1538e1e3185c4c356aa9e793e409295e4fc5971500c51663444541f3bf63562d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:279;--profile-angle:19deg;--profile-photo:url(\"../../assets/profile-visuals/mississippi-saint-paul-michael-barera-2025.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "karankawa",
       "name": "Karankawa",
       "originalId": 157,
@@ -15400,6 +15532,71 @@
       "substantiveInspectedSources": 14
     },
     {
+      "slug": "little-earth-of-united-tribes",
+      "name": "Little Earth of United Tribes",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 164,
+      "angle": -55,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "little-earth-city-archives-circa-1980",
+          "profileSlugs": [
+            "little-earth-of-united-tribes"
+          ],
+          "title": "Little Earth of United Tribes, circa 1980",
+          "alt": "Rows of homes and a street at Little Earth of United Tribes in Minneapolis.",
+          "creator": "City of Minneapolis Archives",
+          "credit": "City of Minneapolis Archives",
+          "cardCredit": "Photo: City of Minneapolis Archives",
+          "date": "Circa 1980 (City of Minneapolis Archives)",
+          "mediaType": "photograph",
+          "scope": "The City of Minneapolis Archives identifies this view of the Little Earth community as circa 1980. Resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Earth_of_United_Tribes_%2820526182658%29.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Little_Earth_of_United_Tribes_%2820526182658%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "rightsLabel": "CC BY 2.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Little Earth Housing",
+              "url": "https://www.littleearthhousing.org/"
+            }
+          ],
+          "asset": "assets/profile-visuals/little-earth-city-archives-circa-1980.jpg",
+          "cardAsset": "assets/profile-visuals/little-earth-city-archives-circa-1980-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 959,
+              "bytes": 237913,
+              "sha256": "85e00780786c3a60e7f1c39666863f10e8fe02cc455d8c20ec99f3a61bffdb5e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 56739,
+              "sha256": "7f57b789a6b53641b408e408176c3b86ec92244cb25d1887aa45d53b6b50b63b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:164;--profile-angle:-55deg;--profile-photo:url(\"../../assets/profile-visuals/little-earth-city-archives-circa-1980.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "little-river-band-of-ottawa-indians",
       "name": "Little River Band of Ottawa Indians",
       "originalId": null,
@@ -17404,6 +17601,75 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:168;--profile-angle:-74deg;--profile-photo:url(\"../../assets/profile-visuals/meier-farm-onalaska-lake-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "mendota-mdewakanton-dakota-tribal-community",
+      "name": "Mendota Mdewakanton Dakota Tribal Community",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 83,
+      "angle": -10,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "bdote-confluence-oncamera-2023",
+          "profileSlugs": [
+            "mendota-mdewakanton-dakota-tribal-community"
+          ],
+          "title": "Bdote, the Minnesota and Mississippi river confluence",
+          "alt": "The river at Bdote with a wooded shoreline and bluff in the background.",
+          "creator": "Oncamera (Wikimedia Commons)",
+          "credit": "Oncamera (Wikimedia Commons)",
+          "cardCredit": "Photo: Oncamera (Wikimedia Commons)",
+          "date": "2023-07-13",
+          "mediaType": "photograph",
+          "scope": "A 2023 view of Bdote near Mendota. This landscape provides regional context for the community’s cultural work in the area. Resized for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bdote_the_confluence_of_the_Minnesota_and_Mississippi_Rivers_at_Wita_Tanka_%28Pike_Island%2C_Minnesota%29.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bdote_the_confluence_of_the_Minnesota_and_Mississippi_Rivers_at_Wita_Tanka_%28Pike_Island%2C_Minnesota%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Mendota Mdewakanton Dakota Tribal Community",
+              "url": "https://www.cityofmendota.org/mendota-mdewakaton"
+            },
+            {
+              "title": "The Dakota People",
+              "url": "https://www.mnhs.org/fortsnelling/learn/native-americans/dakota-people"
+            }
+          ],
+          "asset": "assets/profile-visuals/bdote-confluence-oncamera-2023.jpg",
+          "cardAsset": "assets/profile-visuals/bdote-confluence-oncamera-2023-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1084,
+              "bytes": 477729,
+              "sha256": "6c7a43026279b96141c88dad9418803c9089cabedf1dae48d0b3d8b55c481eb1"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 482,
+              "bytes": 84861,
+              "sha256": "4fbd460c4f4ed980db387d97b263ae241a231eb3b2caba2368d1e505de63640b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:83;--profile-angle:-10deg;--profile-photo:url(\"../../assets/profile-visuals/bdote-confluence-oncamera-2023.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -31517,14 +31783,56 @@
       "hue": 296,
       "angle": -43,
       "composition": "ribbon",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sakatah-lake-state-park-mcghiever-2006",
+          "profileSlugs": [
+            "wahpekute-dakota"
+          ],
+          "title": "Sakatah Lake in southern Minnesota",
+          "alt": "Sakatah Lake seen from a wooded shore on a summer day.",
+          "creator": "McGhiever",
+          "credit": "McGhiever",
+          "cardCredit": "Photo: McGhiever",
+          "date": "2006-06-30",
+          "mediaType": "photograph",
+          "scope": "The Minnesota DNR documents Wahpekute Dakota history in the Sakatah Lake area. This photograph shows its modern landscape in 2006.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SakatahLakeStatePark.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/SakatahLakeStatePark.jpg",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "rightsLabel": "Public domain",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Sakatah Lake State Park Management Plan",
+              "url": "https://files.dnr.state.mn.us/parks_trails/mgmtplans/sakatah_lk_plan.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/sakatah-lake-state-park-mcghiever-2006.jpg",
+          "cardAsset": "assets/profile-visuals/sakatah-lake-state-park-mcghiever-2006-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 600,
+              "height": 300,
+              "bytes": 56737,
+              "sha256": "7dbb94c526543f9cd404b0ff4d353d140532f645e19f2dc941f863ba5c6da8cd"
+            },
+            "cardAsset": {
+              "width": 600,
+              "height": 300,
+              "bytes": 49910,
+              "sha256": "ffae7529eb13cfadaae9ae62aa8f1db283b229f40d081464cf7c19bae3fd77aa"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:296;--profile-angle:-43deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:296;--profile-angle:-43deg;--profile-photo:url(\"../../assets/profile-visuals/sakatah-lake-state-park-mcghiever-2006.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
