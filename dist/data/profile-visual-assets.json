@@ -18211,6 +18211,133 @@
           "sha256": "38dbc0d97906f7c42bbd96b9fdc0fc57e325e79bc454019c9b59e017d8fb92c4"
         }
       }
+    },
+    {
+      "id": "gekelukpechink-newcomerstown-tuscarawas",
+      "profileSlugs": [
+        "gekelukpechink"
+      ],
+      "title": "The Tuscarawas River at present-day Newcomerstown, Ohio",
+      "alt": "Aerial photograph of a bridge crossing the Tuscarawas River between wooded banks and fields near Newcomerstown.",
+      "creator": "USDA Farm Service Agency NAIP",
+      "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+      "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+      "date": "May 18, 2023",
+      "mediaType": "photograph",
+      "scope": "This aerial photograph shows the modern Tuscarawas River landscape in Newcomerstown. The crop is centered on the river near the U.S. Geological Survey gauge. The Atlas cropped and resized the image.",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=447776.966%2C4456658.775%2C448650.566%2C4457251.575&bboxSR=26917&imageSR=26917&size=1120%2C760&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B147291%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+      "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+      "rightsLabel": "U.S. public domain (USDA NAIP)",
+      "reviewedAt": "2026-11-21",
+      "contextSources": [
+        {
+          "title": "U.S. Geological Survey river gauge at Newcomerstown",
+          "url": "https://waterdata.usgs.gov/monitoring-location/USGS-03129000/"
+        }
+      ],
+      "asset": "assets/profile-visuals/gekelukpechink-newcomerstown-tuscarawas.jpg",
+      "cardAsset": "assets/profile-visuals/gekelukpechink-newcomerstown-tuscarawas-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1120,
+          "height": 760,
+          "bytes": 201247,
+          "sha256": "dba4109d8a46ff2cf3c2d76a04077cdb711171b73ec99b31be67916afcec4b3d"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 434,
+          "bytes": 52673,
+          "sha256": "858ba4e769846d07d61be4a0f967a15b311c78cb552bae720d458483406ab709"
+        }
+      }
+    },
+    {
+      "id": "molunthas-town-upper-mad-river",
+      "profileSlugs": [
+        "molunthas-town"
+      ],
+      "title": "The Upper Mad River landscape at West Liberty, Ohio",
+      "alt": "Aerial photograph of a wooded river corridor, playing fields, and farmland on the east side of West Liberty.",
+      "creator": "USDA Farm Service Agency NAIP",
+      "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+      "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+      "date": "May 18, 2023",
+      "mediaType": "photograph",
+      "scope": "This aerial photograph shows the present-day Upper Mad River landscape where the river passes State Route 245 in West Liberty. The photo illustrates the area described by the historical sources. The Atlas cropped and resized the image.",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=265698.609%2C4459083.220%2C266572.209%2C4459676.020&bboxSR=26917&imageSR=26917&size=1120%2C760&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B147799%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+      "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+      "rightsLabel": "U.S. public domain (USDA NAIP)",
+      "reviewedAt": "2026-11-21",
+      "contextSources": [
+        {
+          "title": "Miami Conservancy District, West Liberty Park at State Route 245",
+          "url": "https://mcdwater.org/maps/west-liberty-park-rt-245-mad-river-mile-51-1"
+        }
+      ],
+      "asset": "assets/profile-visuals/molunthas-town-upper-mad-river.jpg",
+      "cardAsset": "assets/profile-visuals/molunthas-town-upper-mad-river-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 716,
+          "height": 760,
+          "bytes": 158051,
+          "sha256": "9ee9cee56e4fa211ea0e506582ca84919938451b7ff3ff4dfb831b9c6f95fc78"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 679,
+          "bytes": 98951,
+          "sha256": "865850268063dc24698bf0595615b12204201b8c3b1070601f45327fdebd7e82"
+        }
+      }
+    },
+    {
+      "id": "sai-hale-hall-columbus",
+      "profileSlugs": [
+        "society-of-american-indians"
+      ],
+      "title": "Hale Hall, the original Ohio Union, in Columbus",
+      "alt": "Street view of Hale Hall’s red brick facade and steep slate roofs on the Ohio State campus.",
+      "creator": "East of the Mississippi",
+      "credit": "East of the Mississippi",
+      "cardCredit": "Photo: East of the Mississippi",
+      "date": "September 21, 2019",
+      "mediaType": "photograph",
+      "scope": "The building now known as Hale Hall was the Ohio Union in 1911, when it hosted daytime sessions of the Society’s first conference. The Atlas resized the photograph for display under CC BY-SA 4.0.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Old_Ohio_Union,_now_known_as_Hale_Hall_at_Ohio_State.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Front_view_of_the_Old_Ohio_Union%2C_now_known_as_Hale_Hall_at_Ohio_State.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rightsLabel": "CC BY-SA 4.0",
+      "reviewedAt": "2026-11-21",
+      "contextSources": [
+        {
+          "title": "Ohio State University Libraries, Hale Hall",
+          "url": "https://library.osu.edu/osu-buckeye-stroll/h-buildings"
+        },
+        {
+          "title": "Introduction: Locating the Society of American Indians",
+          "url": "https://www.academia.edu/73572249/Introduction_Locating_the_Society_of_American_Indians"
+        }
+      ],
+      "asset": "assets/profile-visuals/sai-hale-hall-columbus.jpg",
+      "cardAsset": "assets/profile-visuals/sai-hale-hall-columbus-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1440,
+          "height": 960,
+          "bytes": 377449,
+          "sha256": "0ed8259d6c79672fcb356dc76bded7b4929802634928b5e38d3d86771c0d4e1a"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 427,
+          "bytes": 64052,
+          "sha256": "6dffef702279f2fa75dcf1545d27f287c467d47accf376c91937256b7c328233"
+        }
+      }
     }
   ],
   "deferred": [
