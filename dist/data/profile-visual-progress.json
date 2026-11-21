@@ -3,11 +3,11 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 366,
+    "selectedProfiles": 396,
     "existingApache": 1,
-    "newProfileTreatments": 365,
-    "newTreatmentsWithPhotographs": 354,
-    "decorativeTreatmentsAwaitingPhotographs": 11,
+    "newProfileTreatments": 395,
+    "newTreatmentsWithPhotographs": 394,
+    "decorativeTreatmentsAwaitingPhotographs": 1,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -1310,14 +1310,56 @@
       "hue": 70,
       "angle": 48,
       "composition": "fold",
-      "images": [],
+      "images": [
+        {
+          "id": "amuzgo-xochistlahuaca-community-museum-2012",
+          "title": "Community museum in Xochistlahuaca, Guerrero",
+          "alt": "The covered entrance of the Amuzgo community museum in Xochistlahuaca.",
+          "creator": "AlejandroLinaresGarcia",
+          "credit": "AlejandroLinaresGarcia / Wikimedia Commons",
+          "date": "April 6, 2012",
+          "scope": "The public-facing museum in Xochistlahuaca provides location context for one Amuzgo community in Guerrero. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:XochistlahuacaCommMuseum01.JPG",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "INPI: Etnografía del pueblo amuzgo",
+              "url": "https://www.gob.mx/inpi/articulos/etnografia-del-pueblo-amuzgo-tzjon-non"
+            }
+          ],
+          "profileSlugs": [
+            "amuzgo"
+          ],
+          "asset": "assets/profile-visuals/amuzgo-xochistlahuaca-community-museum-2012.jpg",
+          "cardAsset": "assets/profile-visuals/amuzgo-xochistlahuaca-community-museum-2012.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/XochistlahuacaCommMuseum01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: AlejandroLinaresGarcia / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 964,
+              "bytes": 281546,
+              "sha256": "04948a348fea5e9969d5e09ef063f7e99fabe9da7cfc93ae0881db56f2f93e17"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 964,
+              "bytes": 281546,
+              "sha256": "04948a348fea5e9969d5e09ef063f7e99fabe9da7cfc93ae0881db56f2f93e17"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:70;--profile-angle:48deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:70;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/amuzgo-xochistlahuaca-community-museum-2012.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -2419,14 +2461,56 @@
       "hue": 357,
       "angle": 79,
       "composition": "sweep",
-      "images": [],
+      "images": [
+        {
+          "id": "awakateko-aguacatan-rio-san-juan-2009",
+          "title": "Río San Juan area in Aguacatán, Guatemala",
+          "alt": "A view across trees to a parking area at the Río San Juan in the Aguacatán valley.",
+          "creator": "Nelson Ríos",
+          "credit": "Nelson Ríos / Wikimedia Commons",
+          "date": "April 11, 2009",
+          "scope": "A view of the Río San Juan recreation area in Aguacatán. The Academia de Lenguas Mayas de Guatemala documents the Awakateko community setting in its municipal monograph. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parqueo_Rio_San_Juan.jpg",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "contextSources": [
+            {
+              "title": "ALMG: Introducción a la monografía de Aguacatán",
+              "url": "https://almg.org.gt/wp-content/uploads/2025/09/6.-Awakateka-Introduccion-a-La-Monografia-de-Aguacatan-ALMG.pdf"
+            }
+          ],
+          "profileSlugs": [
+            "awakateko"
+          ],
+          "asset": "assets/profile-visuals/awakateko-aguacatan-rio-san-juan-2009.jpg",
+          "cardAsset": "assets/profile-visuals/awakateko-aguacatan-rio-san-juan-2009.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Parqueo_Rio_San_Juan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Nelson Ríos / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 106117,
+              "sha256": "087d7e19335129d7372a09ade715715d671693c8c7f6e27489de43d8ba74cc7e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 106117,
+              "sha256": "087d7e19335129d7372a09ade715715d671693c8c7f6e27489de43d8ba74cc7e"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Legacy developed profile; inspected-source assessment pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:357;--profile-angle:79deg;--profile-photo:none",
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:357;--profile-angle:79deg;--profile-photo:url(\"../../assets/profile-visuals/awakateko-aguacatan-rio-san-juan-2009.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -2507,14 +2591,56 @@
       "hue": 350,
       "angle": -17,
       "composition": "orbit",
-      "images": [],
+      "images": [
+        {
+          "id": "ayapaneco-ayapa-church-2011",
+          "title": "Church in Ayapa, Tabasco, 2011",
+          "alt": "Blue-and-white church façade and two bell towers across a wet plaza in Ayapa.",
+          "creator": "AlejandroLinaresGarcia",
+          "credit": "AlejandroLinaresGarcia / Wikimedia Commons",
+          "date": "December 26, 2011",
+          "scope": "Photograph of the village associated with the Ayapaneco language in the INPI ethnographic account. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AyapaChurch.JPG",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "INPI: Ayapanecos — Etnografía",
+              "url": "https://atlas.inpi.gob.mx/ayapanecos-etnografia/"
+            }
+          ],
+          "profileSlugs": [
+            "ayapaneco"
+          ],
+          "asset": "assets/profile-visuals/ayapaneco-ayapa-church-2011.jpg",
+          "cardAsset": "assets/profile-visuals/ayapaneco-ayapa-church-2011.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/AyapaChurch.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: AlejandroLinaresGarcia / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1113,
+              "bytes": 243227,
+              "sha256": "37e885b0eb7dcaf20c007b584010f1fd2a111e630e25f8acbf4c1a2968410e28"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1113,
+              "bytes": 243227,
+              "sha256": "37e885b0eb7dcaf20c007b584010f1fd2a111e630e25f8acbf4c1a2968410e28"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Legacy developed profile; inspected-source assessment pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:350;--profile-angle:-17deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:350;--profile-angle:-17deg;--profile-photo:url(\"../../assets/profile-visuals/ayapaneco-ayapa-church-2011.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -4288,14 +4414,56 @@
       "hue": 82,
       "angle": -70,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "cheyenne-river-reservation-farmland-2007",
+          "title": "Farmland on the Cheyenne River Reservation, South Dakota",
+          "alt": "A broad green field and low hills under a blue sky.",
+          "creator": "Spencer",
+          "credit": "Spencer / Wikimedia Commons",
+          "date": "June 25, 2007",
+          "scope": "The photographer identifies the landscape as farmland on the Cheyenne River Reservation near U.S. Route 212. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheyenne_River_IR.jpg",
+          "rightsLabel": "CC BY-SA 2.5",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+          "contextSources": [
+            {
+              "title": "Cheyenne River Sioux Tribe",
+              "url": "https://www.cheyenneriversioux.com/"
+            }
+          ],
+          "profileSlugs": [
+            "cheyenne-river-sioux-tribe-of-the-cheyenne-river-reservation-south-dakota"
+          ],
+          "asset": "assets/profile-visuals/cheyenne-river-reservation-farmland-2007.jpg",
+          "cardAsset": "assets/profile-visuals/cheyenne-river-reservation-farmland-2007.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cheyenne_River_IR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Spencer / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 221546,
+              "sha256": "0836b7babf05c4313b7f814b8c1d3a667065084daba3d1be93448d7f0ffebec4"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 221546,
+              "sha256": "0836b7babf05c4313b7f814b8c1d3a667065084daba3d1be93448d7f0ffebec4"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:82;--profile-angle:-70deg;--profile-photo:none",
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:82;--profile-angle:-70deg;--profile-photo:url(\"../../assets/profile-visuals/cheyenne-river-reservation-farmland-2007.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -6961,6 +7129,140 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "eno",
+      "name": "Eno",
+      "originalId": 103,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 199,
+      "angle": -1,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "eno-river-footbridge",
+          "title": "Footbridge over the Eno River, North Carolina",
+          "alt": "A footbridge spans a rocky river with autumn foliage on both banks.",
+          "creator": "Larry Lamb",
+          "credit": "Larry Lamb / Wikimedia Commons",
+          "date": "Photograph date unrecorded (posted 2008)",
+          "scope": "A view of the North Carolina river associated with the historical Eno people in the Atlas’s source guide. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Footbridge_over_the_Eno_River_-_panoramio.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "North Carolina State Parks: Eno River State Park",
+              "url": "https://www.ncparks.gov/state-parks/eno-river-state-park"
+            },
+            {
+              "title": "NCpedia: Eno Indians",
+              "url": "https://www.ncpedia.org/eno-indians"
+            }
+          ],
+          "profileSlugs": [
+            "eno"
+          ],
+          "asset": "assets/profile-visuals/eno-river-footbridge.jpg",
+          "cardAsset": "assets/profile-visuals/eno-river-footbridge.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Footbridge_over_the_Eno_River_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Larry Lamb / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 114636,
+              "sha256": "fac302bbdf0960418ef54a66445fcf11ec7260b6a76cb709d5635c8b4a89e033"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 114636,
+              "sha256": "fac302bbdf0960418ef54a66445fcf11ec7260b6a76cb709d5635c8b4a89e033"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:199;--profile-angle:-1deg;--profile-photo:url(\"../../assets/profile-visuals/eno-river-footbridge.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "erie",
+      "name": "Erie",
+      "originalId": 104,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 200,
+      "angle": 75,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "erie-presque-isle-bay-iss-2017",
+          "title": "Presque Isle Bay and Erie, Pennsylvania, 2017",
+          "alt": "Astronaut photograph showing Lake Erie, the curved Presque Isle peninsula, and the city and bay, with place labels.",
+          "creator": "NASA / Johnson Space Center, Expedition 52 crew",
+          "credit": "NASA / Johnson Space Center, Expedition 52 crew",
+          "date": "June 21, 2017",
+          "scope": "Modern view of the Lake Erie shoreline discussed in Erie County’s account of the Eriez. NASA labels the modern bay, lake and city in the photograph. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS-052-E006364_(Presque_Isle_Bay_and_Erie).jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:ISS-052-E006364_(Presque_Isle_Bay_and_Erie).jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "History of Erie County",
+              "url": "https://eriecountypa.gov/about/about-erie-county/history-of-erie-county/"
+            }
+          ],
+          "profileSlugs": [
+            "erie"
+          ],
+          "asset": "assets/profile-visuals/erie-presque-isle-bay-iss-2017.jpg",
+          "cardAsset": "assets/profile-visuals/erie-presque-isle-bay-iss-2017.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/ISS-052-E006364_%28Presque_Isle_Bay_and_Erie%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: NASA / Johnson Space Center, Expedition 52 crew",
+          "derivatives": {
+            "asset": {
+              "width": 720,
+              "height": 480,
+              "bytes": 164563,
+              "sha256": "1765656d72712bb08748a752350ce40fa7dad8f4dd72cf28d7387a7dea3015a3"
+            },
+            "cardAsset": {
+              "width": 720,
+              "height": 480,
+              "bytes": 164563,
+              "sha256": "1765656d72712bb08748a752350ce40fa7dad8f4dd72cf28d7387a7dea3015a3"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:200;--profile-angle:75deg;--profile-photo:url(\"../../assets/profile-visuals/erie-presque-isle-bay-iss-2017.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "fond-du-lac-band-of-lake-superior-chippewa",
       "name": "Fond du Lac Band of Lake Superior Chippewa",
       "originalId": null,
@@ -7646,6 +7948,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "guilford-native-american-association",
+      "name": "Guilford Native American Association",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 14,
+      "angle": 56,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "gnaa-greensboro-history-museum-2012",
+          "title": "Greensboro History Museum, North Carolina",
+          "alt": "Brick museum building seen from across the road.",
+          "creator": "Rhpotter",
+          "credit": "Rhpotter / Wikimedia Commons",
+          "date": "September 24, 2012",
+          "scope": "The Greensboro History Museum hosted an exhibition marking the Guilford Native American Association’s 50th anniversary. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Former_Presbyterian_Church,_Former_Confederate_Hospital,_Greensboro_Historical_Museum.JPG",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "Museum Celebrates 50 Years of Guilford Native American Association",
+              "url": "https://greensborohistory.org/news/museum-celebrates-50-years-of-guilford-native-american-association-august-15/"
+            }
+          ],
+          "profileSlugs": [
+            "guilford-native-american-association"
+          ],
+          "asset": "assets/profile-visuals/gnaa-greensboro-history-museum-2012.jpg",
+          "cardAsset": "assets/profile-visuals/gnaa-greensboro-history-museum-2012.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Former_Presbyterian_Church%2C_Former_Confederate_Hospital%2C_Greensboro_Historical_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Rhpotter / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 253267,
+              "sha256": "e14018281e8bcfe86236dd049469b6ab9ab27e64b47499253047dbdbb3774ae5"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 253267,
+              "sha256": "e14018281e8bcfe86236dd049469b6ab9ab27e64b47499253047dbdbb3774ae5"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:14;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/gnaa-greensboro-history-museum-2012.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "gulkana-village-council",
       "name": "Gulkana Village Council",
       "originalId": null,
@@ -7716,6 +8083,71 @@
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
+      "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "guna-gunadule",
+      "name": "Guna (Gunadule)",
+      "originalId": 119,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 282,
+      "angle": 50,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "guna-carti-sugtupu-2010",
+          "title": "Cartí Sugtupu (Gardi Sugdub), Gunayala, in 2010",
+          "alt": "Houses line a low island shore and a small boat floats in the water.",
+          "creator": "Cotopaxi5897",
+          "credit": "Cotopaxi5897 / Wikimedia Commons",
+          "date": "December 22, 2010",
+          "scope": "A dated view of a Guna community in Panama. Panama’s Ministry of Environment identifies Gardi Sugdub as part of Guna Yala. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carti_Sugtupu.jpg",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "contextSources": [
+            {
+              "title": "MiAmbiente: Comunidad de Gardi Sugdub",
+              "url": "https://miambiente.gob.pa/parlamentarios-britanicos-visitan-la-comunidad-de-gardi-sugdub-en-la-comarca-guna-yala/"
+            }
+          ],
+          "profileSlugs": [
+            "guna-gunadule"
+          ],
+          "asset": "assets/profile-visuals/guna-carti-sugtupu-2010.jpg",
+          "cardAsset": "assets/profile-visuals/guna-carti-sugtupu-2010.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Carti_Sugtupu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Cotopaxi5897 / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 323783,
+              "sha256": "484db41ccc949b9077bbfdbe39ae2a6f598a7593ce7778d0e69f94d5b3db4998"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 323783,
+              "sha256": "484db41ccc949b9077bbfdbe39ae2a6f598a7593ce7778d0e69f94d5b3db4998"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:282;--profile-angle:50deg;--profile-photo:url(\"../../assets/profile-visuals/guna-carti-sugtupu-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 2
     },
     {
@@ -7862,6 +8294,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "han",
+      "name": "Han",
+      "originalId": 123,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 300,
+      "angle": -48,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "han-yukon-river-near-dawson-2022",
+          "title": "Yukon River valley near Dawson City, 2022",
+          "alt": "A view from above the Yukon River, with islands, wooded banks and hills.",
+          "creator": "Alistair Maitland for the Tr’ondëk Hwëch’in Government",
+          "credit": "Alistair Maitland for the Tr’ondëk Hwëch’in Government / Wikimedia Commons",
+          "date": "July 28, 2022",
+          "scope": "The Tr’ondëk Hwëch’in Government describes the Yukon River region within its Hän history. The image record credits Alistair Maitland for the government. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moosehide_-_Aerial_View.jpg",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0",
+          "contextSources": [
+            {
+              "title": "Tr’ondëk Hwëch’in Government: Our Story",
+              "url": "https://www.trondek.ca/who-we-are/our-story/"
+            }
+          ],
+          "profileSlugs": [
+            "han"
+          ],
+          "asset": "assets/profile-visuals/han-yukon-river-near-dawson-2022.jpg",
+          "cardAsset": "assets/profile-visuals/han-yukon-river-near-dawson-2022.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Moosehide_-_Aerial_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Alistair Maitland for the Tr’ondëk Hwëch’in Government / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 749,
+              "bytes": 279900,
+              "sha256": "e88e37ae6ab4803a267d435cd3ad98453bb359de1efcaba0ca9fb523bfc2be44"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 749,
+              "bytes": 279900,
+              "sha256": "e88e37ae6ab4803a267d435cd3ad98453bb359de1efcaba0ca9fb523bfc2be44"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:300;--profile-angle:-48deg;--profile-photo:url(\"../../assets/profile-visuals/han-yukon-river-near-dawson-2022.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 1
     },
     {
       "slug": "hannahville-indian-community",
@@ -8991,6 +9488,66 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "innu",
+      "name": "Innu",
+      "originalId": 141,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 103,
+      "angle": 7,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "innu-canoes-sheshatshiu-c1920",
+          "title": "Innu making canoes near Sheshatshiu, circa 1920",
+          "alt": "Sepia photograph of people working beside canoes on an open shoreline.",
+          "creator": "Fred C. Sears / Library and Archives Canada (PA-148593)",
+          "credit": "Fred C. Sears / Library and Archives Canada (PA-148593)",
+          "date": "Circa 1920",
+          "scope": "The archival caption identifies the scene as Innu canoe making near Sheshatshiu, Labrador. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Innu_making_canoes_near_Sheshatshiu,_ca._1920.jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Innu_making_canoes_near_Sheshatshiu,_ca._1920.jpg#Licensing",
+          "contextSources": [],
+          "profileSlugs": [
+            "innu"
+          ],
+          "asset": "assets/profile-visuals/innu-canoes-sheshatshiu-c1920.jpg",
+          "cardAsset": "assets/profile-visuals/innu-canoes-sheshatshiu-c1920.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Innu_making_canoes_near_Sheshatshiu%2C_ca._1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Fred C. Sears / Library and Archives Canada (PA-148593)",
+          "derivatives": {
+            "asset": {
+              "width": 600,
+              "height": 357,
+              "bytes": 51691,
+              "sha256": "8a89e2f533669829cfe882a31f6b3856415f9e0e6c04a6fb14fb5aa6010a3ada"
+            },
+            "cardAsset": {
+              "width": 600,
+              "height": 357,
+              "bytes": 51691,
+              "sha256": "8a89e2f533669829cfe882a31f6b3856415f9e0e6c04a6fb14fb5aa6010a3ada"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:103;--profile-angle:7deg;--profile-photo:url(\"../../assets/profile-visuals/innu-canoes-sheshatshiu-c1920.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "inuit",
       "name": "Inuit",
       "originalId": 142,
@@ -9060,6 +9617,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 5
+    },
+    {
+      "slug": "inupiat",
+      "name": "Iñupiat",
+      "originalId": 139,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 355,
+      "angle": 29,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "inupiat-heritage-center",
+          "title": "Iñupiat Heritage Center in Utqiaġvik, Alaska",
+          "alt": "The Iñupiat Heritage Center building beside a snow-covered road.",
+          "creator": "National Park Service",
+          "credit": "National Park Service",
+          "date": "Date unrecorded",
+          "scope": "The National Park Service identifies this center as a place for Iñupiaq history, language and cultural programs. Shown as a JPEG display copy.",
+          "sourceUrl": "https://www.nps.gov/inup/index.htm",
+          "rightsLabel": "U.S. public domain (NPS photo)",
+          "rightsUrl": "https://www.nps.gov/aboutus/publications.htm",
+          "contextSources": [
+            {
+              "title": "Iñupiat Heritage Center",
+              "url": "https://www.nps.gov/inup/index.htm"
+            }
+          ],
+          "profileSlugs": [
+            "inupiat"
+          ],
+          "asset": "assets/profile-visuals/inupiat-heritage-center.jpg",
+          "cardAsset": "assets/profile-visuals/inupiat-heritage-center.jpg",
+          "sourceImageUrl": "https://www.nps.gov/common/uploads/structured_data/3C813407-1DD8-B71B-0B75242ED1BE1F58.jpg?maxHeight=800&maxWidth=1200&quality=90",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: National Park Service",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 797,
+              "bytes": 130878,
+              "sha256": "5e35f66366f9c75f788bad28a320e387fc6dc59ef309c0fd26b193facb3ff4d6"
+            },
+            "cardAsset": {
+              "width": 1200,
+              "height": 797,
+              "bytes": 130878,
+              "sha256": "5e35f66366f9c75f788bad28a320e387fc6dc59ef309c0fd26b193facb3ff4d6"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:355;--profile-angle:29deg;--profile-photo:url(\"../../assets/profile-visuals/inupiat-heritage-center.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "inuvialuit",
@@ -9349,6 +9971,140 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "ixil",
+      "name": "Ixil",
+      "originalId": 148,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 345,
+      "angle": 18,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ixil-nebaj-plaza-2014",
+          "title": "Public plaza in Nebaj, Guatemala, 2014",
+          "alt": "Two men in a plaza in Nebaj, one wearing a hat and another reading a newspaper.",
+          "creator": "Adam Jones",
+          "credit": "Adam Jones / Wikimedia Commons",
+          "date": "December 3, 2014",
+          "scope": "The photographer identifies the location as Nebaj in the Ixil highlands. The photograph illustrates the place and daily public life there. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Men_in_Plaza_-_Nebaj_-_Ixil_Triangle_-_Guatemala_(15755691317).jpg",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "contextSources": [
+            {
+              "title": "INPI: Ixiles — Etnografía",
+              "url": "https://atlas.inpi.gob.mx/ixiles-etnografia/"
+            }
+          ],
+          "profileSlugs": [
+            "ixil"
+          ],
+          "asset": "assets/profile-visuals/ixil-nebaj-plaza-2014.jpg",
+          "cardAsset": "assets/profile-visuals/ixil-nebaj-plaza-2014.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Men_in_Plaza_-_Nebaj_-_Ixil_Triangle_-_Guatemala_%2815755691317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Adam Jones / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1080,
+              "height": 1440,
+              "bytes": 252219,
+              "sha256": "e1df162f6ba70c9c022185973dfe6c06e9149825f0bff72a8ba204e9a71ae324"
+            },
+            "cardAsset": {
+              "width": 1080,
+              "height": 1440,
+              "bytes": 252219,
+              "sha256": "e1df162f6ba70c9c022185973dfe6c06e9149825f0bff72a8ba204e9a71ae324"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:345;--profile-angle:18deg;--profile-photo:url(\"../../assets/profile-visuals/ixil-nebaj-plaza-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "jakaltek",
+      "name": "Jakaltek",
+      "originalId": 149,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 136,
+      "angle": -63,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "jakaltek-jacaltenango-hills-1986",
+          "title": "Jacaltenango in Huehuetenango, Guatemala, 1986",
+          "alt": "Rooftops and wooded hills in a historical view of Jacaltenango.",
+          "creator": "ArtProf",
+          "credit": "ArtProf / Wikimedia Commons",
+          "date": "1986",
+          "scope": "View of Jacaltenango, part of the regional setting for the Jakaltek or Popti’ people. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacaltenango1986.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "INPI: Jakaltecos — Etnografía",
+              "url": "https://atlas.inpi.gob.mx/jakaltekos-etnografia/"
+            },
+            {
+              "title": "Guatemala: Jacaltenango municipal plan",
+              "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2022/08/PDM_1307.pdf"
+            }
+          ],
+          "profileSlugs": [
+            "jakaltek"
+          ],
+          "asset": "assets/profile-visuals/jakaltek-jacaltenango-hills-1986.jpg",
+          "cardAsset": "assets/profile-visuals/jakaltek-jacaltenango-hills-1986.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jacaltenango1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: ArtProf / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 325,
+              "bytes": 64596,
+              "sha256": "5b41463889ba3bb042f8804251095c52afae057f09b258d266088b7ee9148b0e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 325,
+              "bytes": 64596,
+              "sha256": "5b41463889ba3bb042f8804251095c52afae057f09b258d266088b7ee9148b0e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:136;--profile-angle:-63deg;--profile-photo:url(\"../../assets/profile-visuals/jakaltek-jacaltenango-hills-1986.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "jemez-pueblo",
       "name": "Jemez Pueblo",
       "originalId": 150,
@@ -9616,6 +10372,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "kansa-kaw",
+      "name": "Kansa (Kaw)",
+      "originalId": 155,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 73,
+      "angle": -21,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "kaw-lands-council-grove-mission",
+          "title": "Kaw Mission in Council Grove, Kansas",
+          "alt": "Historic photograph of a stone building with chimneys partly screened by trees.",
+          "creator": "Photographer unrecorded / National Park Service",
+          "credit": "Photographer unrecorded / National Park Service",
+          "date": "Date unrecorded",
+          "scope": "The National Park Service marks this historical view public domain and describes the building’s use as a school for Kaw boys in the 1850s. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://www.nps.gov/places/kaw-mission-state-historic-site.htm",
+          "rightsLabel": "Public domain (NPS image record)",
+          "rightsUrl": "https://www.nps.gov/places/kaw-mission-state-historic-site.htm",
+          "contextSources": [
+            {
+              "title": "Kaw Mission State Historic Site",
+              "url": "https://www.nps.gov/places/kaw-mission-state-historic-site.htm"
+            }
+          ],
+          "profileSlugs": [
+            "kansa-kaw"
+          ],
+          "asset": "assets/profile-visuals/kaw-lands-council-grove-mission.jpg",
+          "cardAsset": "assets/profile-visuals/kaw-lands-council-grove-mission.jpg",
+          "sourceImageUrl": "https://www.nps.gov/common/uploads/cropped_image/primary/AC0B21A2-AEEF-1CB9-BEB1FAAD141C059F.jpg?mode=crop&quality=90&width=1600",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Photographer unrecorded / National Park Service",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 376201,
+              "sha256": "a320ff431557008c553e43144ca7f05e12acb8b9bba3331a881d3573c7162d9c"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 376201,
+              "sha256": "a320ff431557008c553e43144ca7f05e12acb8b9bba3331a881d3573c7162d9c"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:73;--profile-angle:-21deg;--profile-photo:url(\"../../assets/profile-visuals/kaw-lands-council-grove-mission.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "karankawa",
@@ -10281,6 +11102,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "kiliwa",
+      "name": "Kiliwa",
+      "originalId": 166,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 74,
+      "angle": 79,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "kiliwa-san-pedro-martir-national-park-2012",
+          "title": "Sierra de San Pedro Mártir, Baja California",
+          "alt": "A wooden sign beside a snow-covered path among tall trees in a national park.",
+          "creator": "JOE BLOWE",
+          "credit": "JOE BLOWE / Wikimedia Commons",
+          "date": "February 19, 2012",
+          "scope": "The Kiliwa community website places Arroyo de León in the region of the northern Sierra de San Pedro Mártir. This photograph is a regional view from the national park. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sierra_de_San_Pedro_M%C3%A1rtir_National_Park_(6963461443).jpg",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "contextSources": [
+            {
+              "title": "Ejido Tribu Kiliwas: ¿Dónde viven?",
+              "url": "https://www.ejidotribukiliwas.org/conoce-a-los-kiliwas/donde-viven/"
+            }
+          ],
+          "profileSlugs": [
+            "kiliwa"
+          ],
+          "asset": "assets/profile-visuals/kiliwa-san-pedro-martir-national-park-2012.jpg",
+          "cardAsset": "assets/profile-visuals/kiliwa-san-pedro-martir-national-park-2012.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sierra_de_San_Pedro_M%C3%A1rtir_National_Park_%286963461443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: JOE BLOWE / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 335604,
+              "sha256": "8e2da384aee80e0f98fdd591ce879f0f10ff61162c0e87418fb33cb3563a0a1b"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 335604,
+              "sha256": "8e2da384aee80e0f98fdd591ce879f0f10ff61162c0e87418fb33cb3563a0a1b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:74;--profile-angle:79deg;--profile-photo:url(\"../../assets/profile-visuals/kiliwa-san-pedro-martir-national-park-2012.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "kiowa",
       "name": "Kiowa",
       "originalId": 167,
@@ -10342,6 +11228,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 9
+    },
+    {
+      "slug": "kiowa-apache",
+      "name": "Kiowa Apache",
+      "originalId": 168,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 27,
+      "angle": 58,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "kiowa-apache-pacer-soule-c1870",
+          "title": "Pacer (Essa-queta), attributed portrait, circa 1870",
+          "alt": "A close black-and-white portrait of a man with long hair and earrings.",
+          "creator": "William S. Soule / U.S. National Archives (518914)",
+          "credit": "William S. Soule / U.S. National Archives (518914)",
+          "date": "Circa 1870",
+          "scope": "The archival record has been catalogued as a portrait of the Kiowa-Apache leader Pacer. This is the crop retained in the image record. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Face_detail,_Pacer_(Peso,_Essa-queta),_a_Kiowa-Apache_chief,_half-length,_seated,_wearing_earrings,_1868_-_1874_-_NARA_-_518914_(cropped).jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Face_detail,_Pacer_(Peso,_Essa-queta),_a_Kiowa-Apache_chief,_half-length,_seated,_wearing_earrings,_1868_-_1874_-_NARA_-_518914_(cropped).jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "National Archives: Reference Information Paper, Native Americans",
+              "url": "https://files.eric.ed.gov/fulltext/ED256560.pdf"
+            }
+          ],
+          "profileSlugs": [
+            "kiowa-apache"
+          ],
+          "asset": "assets/profile-visuals/kiowa-apache-pacer-soule-c1870.jpg",
+          "cardAsset": "assets/profile-visuals/kiowa-apache-pacer-soule-c1870.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Face_detail%2C_Pacer_%28Peso%2C_Essa-queta%29%2C_a_Kiowa-Apache_chief%2C_half-length%2C_seated%2C_wearing_earrings%2C_1868_-_1874_-_NARA_-_518914_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: William S. Soule / U.S. National Archives (518914)",
+          "derivatives": {
+            "asset": {
+              "width": 1147,
+              "height": 1000,
+              "bytes": 232428,
+              "sha256": "6932917d34f39a88b6ece929873a58cf5cac774c188512e6b26006e462ce41b1"
+            },
+            "cardAsset": {
+              "width": 1147,
+              "height": 1000,
+              "bytes": 232428,
+              "sha256": "6932917d34f39a88b6ece929873a58cf5cac774c188512e6b26006e462ce41b1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:27;--profile-angle:58deg;--profile-photo:url(\"../../assets/profile-visuals/kiowa-apache-pacer-soule-c1870.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "kitsai",
@@ -10716,14 +11667,56 @@
       "hue": 280,
       "angle": 75,
       "composition": "fold",
-      "images": [],
+      "images": [
+        {
+          "id": "kotsoteka-santa-fe-panorama-2016",
+          "title": "Downtown Santa Fe, New Mexico, in 2016",
+          "alt": "A panoramic rooftop view of low buildings and distant mountains in Santa Fe.",
+          "creator": "Road Travel America",
+          "credit": "Road Travel America / Wikimedia Commons",
+          "date": "August 29, 2016",
+          "scope": "The National Park Service describes how Ecueracapa, a Kotsoteka leader, took part in diplomacy in Santa Fe in 1786. The photograph shows the modern city. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_downtown_Santa_Fe,_New_Mexico.jpg",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0",
+          "contextSources": [
+            {
+              "title": "National Park Service: Indigenous Diplomacy, The Ute-Comanche Treaty of 1786",
+              "url": "https://home.nps.gov/articles/000/indigenous-diplomacy-the-ute-comanche-treaty-of-1786.htm"
+            }
+          ],
+          "profileSlugs": [
+            "kotsoteka"
+          ],
+          "asset": "assets/profile-visuals/kotsoteka-santa-fe-panorama-2016.jpg",
+          "cardAsset": "assets/profile-visuals/kotsoteka-santa-fe-panorama-2016.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Panoramic_view_of_downtown_Santa_Fe%2C_New_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Road Travel America / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 389,
+              "bytes": 148778,
+              "sha256": "ae3ae5c7caa77ae02686177541bf97e57b17b3d03f51fba061e9d8a1152457e4"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 389,
+              "bytes": 148778,
+              "sha256": "ae3ae5c7caa77ae02686177541bf97e57b17b3d03f51fba061e9d8a1152457e4"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:280;--profile-angle:75deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:280;--profile-angle:75deg;--profile-photo:url(\"../../assets/profile-visuals/kotsoteka-santa-fe-panorama-2016.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -11037,6 +12030,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "lacandon",
+      "name": "Lacandón",
+      "originalId": 178,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 297,
+      "angle": -13,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "lacandon-lacanja-dugout-2001",
+          "title": "Dugout canoe in Lacanjá, Chiapas, 2001",
+          "alt": "A small wooden dugout rests at the edge of a wooded stream.",
+          "creator": "Phil Konstantin",
+          "credit": "Phil Konstantin / Wikimedia Commons",
+          "date": "October 2001",
+          "scope": "The photographer identifies the village as Lacanjá. Mexico’s cultural information service lists Lacanjá Chansayab among Hach Winik communities. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lacanj%C3%A1ByPhilKonstantin.jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Lacanj%C3%A1ByPhilKonstantin.jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "Mexico’s Cultural Information System: Jach tꞋaan (lacandón)",
+              "url": "https://sic.gob.mx/ficha.php?disciplina=&table=frpintangible&table_id=729"
+            }
+          ],
+          "profileSlugs": [
+            "lacandon"
+          ],
+          "asset": "assets/profile-visuals/lacandon-lacanja-dugout-2001.jpg",
+          "cardAsset": "assets/profile-visuals/lacandon-lacanja-dugout-2001.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lacanj%C3%A1ByPhilKonstantin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Phil Konstantin / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 42434,
+              "sha256": "8e7632ec054b029c17c09394ca4bb00cad27b029c2acec6541698d0e715ba3ab"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 42434,
+              "sha256": "8e7632ec054b029c17c09394ca4bb00cad27b029c2acec6541698d0e715ba3ab"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:297;--profile-angle:-13deg;--profile-photo:url(\"../../assets/profile-visuals/lacandon-lacanja-dugout-2001.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "laguna-pueblo",
@@ -11653,14 +12711,56 @@
       "hue": 28,
       "angle": 53,
       "composition": "sweep",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "lower-brule-reservation-entrance-2004",
+          "title": "Lower Brule Reservation entrance, South Dakota",
+          "alt": "A Lower Brule Sioux Reservation entrance sign in open green hills beneath a blue sky.",
+          "creator": "Rolf Blauert (Dk4hb)",
+          "credit": "Rolf Blauert (Dk4hb) / Wikimedia Commons",
+          "date": "June 2004",
+          "scope": "A dated view of a Lower Brule Reservation entrance sign in central South Dakota. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lower_brule_reservation_sd.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "contextSources": [
+            {
+              "title": "Lower Brule Sioux Tribe: About Us",
+              "url": "https://www.lowerbrulesiouxtribe.com/about-us"
+            }
+          ],
+          "profileSlugs": [
+            "lower-brule-sioux-tribe-of-the-lower-brule-reservation-south-dakota"
+          ],
+          "asset": "assets/profile-visuals/lower-brule-reservation-entrance-2004.jpg",
+          "cardAsset": "assets/profile-visuals/lower-brule-reservation-entrance-2004.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lower_brule_reservation_sd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Rolf Blauert (Dk4hb) / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 319010,
+              "sha256": "59db2c6c41232c3f556d4214355bf253b77bb0172ed0264f38106c8bc9140233"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 319010,
+              "sha256": "59db2c6c41232c3f556d4214355bf253b77bb0172ed0264f38106c8bc9140233"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:53deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:53deg;--profile-photo:url(\"../../assets/profile-visuals/lower-brule-reservation-entrance-2004.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -12243,6 +13343,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "maricopa",
+      "name": "Maricopa",
+      "originalId": 197,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 235,
+      "angle": -26,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "maricopa-juan-chivaria-gentile-c1870",
+          "title": "Juan Chivaria, Maricopa leader, circa 1870",
+          "alt": "Sepia studio portrait of Juan Chivaria wearing a head wrap.",
+          "creator": "Carlo Gentile / Library of Congress",
+          "credit": "Carlo Gentile / Library of Congress",
+          "date": "Circa 1870",
+          "scope": "The Library of Congress identifies Chivaria as a Maricopa leader in Carlo Gentile’s Arizona photographic series. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juan_Chivaria_the_most_distinguished_chief_in_Arizona.jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Juan_Chivaria_the_most_distinguished_chief_in_Arizona.jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "Library of Congress: Series of photographic views and portraits of Arizona and Arizona Indian tribes",
+              "url": "https://www.loc.gov/pictures/item/92510420/"
+            }
+          ],
+          "profileSlugs": [
+            "maricopa"
+          ],
+          "asset": "assets/profile-visuals/maricopa-juan-chivaria-gentile-c1870.jpg",
+          "cardAsset": "assets/profile-visuals/maricopa-juan-chivaria-gentile-c1870.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Juan_Chivaria_the_most_distinguished_chief_in_Arizona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Carlo Gentile / Library of Congress",
+          "derivatives": {
+            "asset": {
+              "width": 958,
+              "height": 1440,
+              "bytes": 195481,
+              "sha256": "0145ff89e353d3d06f7a7a5558d2adbb83fc01b49dcc1004ba5984a3959ce86e"
+            },
+            "cardAsset": {
+              "width": 958,
+              "height": 1440,
+              "bytes": 195481,
+              "sha256": "0145ff89e353d3d06f7a7a5558d2adbb83fc01b49dcc1004ba5984a3959ce86e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:235;--profile-angle:-26deg;--profile-photo:url(\"../../assets/profile-visuals/maricopa-juan-chivaria-gentile-c1870.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "mashantucket-pequot",
       "name": "Mashantucket Pequot",
       "originalId": 198,
@@ -12598,6 +13763,201 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 6
+    },
+    {
+      "slug": "mayangna",
+      "name": "Mayangna",
+      "originalId": 203,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 263,
+      "angle": -73,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "mayangna-bosawas-penas-blancas-2013",
+          "title": "Peñas Blancas in the Bosawás Biosphere Reserve, Nicaragua",
+          "alt": "Forested slopes and a ridge seen across dense vegetation.",
+          "creator": "Rebecca Ore",
+          "credit": "Rebecca Ore / Wikimedia Commons",
+          "date": "March 3, 2013",
+          "scope": "The Bosawás landscape provides geographic context for the Mayangna communities documented in the reserve. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PenasBlancas,_part_of_the_Bosawas_Reserve,_Jinotega_Department,_Nicaragua.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "UNESCO: Mayangna language, culture and knowledge",
+              "url": "https://www.unesco.org/en/links/mayangna"
+            }
+          ],
+          "profileSlugs": [
+            "mayangna"
+          ],
+          "asset": "assets/profile-visuals/mayangna-bosawas-penas-blancas-2013.jpg",
+          "cardAsset": "assets/profile-visuals/mayangna-bosawas-penas-blancas-2013.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/PenasBlancas%2C_part_of_the_Bosawas_Reserve%2C_Jinotega_Department%2C_Nicaragua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Rebecca Ore / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 610123,
+              "sha256": "935ba0971668c9960569d2b8de0166f0ccd0284f110330bee98dc784151e3305"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 610123,
+              "sha256": "935ba0971668c9960569d2b8de0166f0ccd0284f110330bee98dc784151e3305"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:263;--profile-angle:-73deg;--profile-photo:url(\"../../assets/profile-visuals/mayangna-bosawas-penas-blancas-2013.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "mayo-yoreme",
+      "name": "Mayo (Yoreme)",
+      "originalId": 204,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 81,
+      "angle": 60,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "mayo-yoreme-etchojoa-welcome-2011",
+          "title": "Welcome sign in Etchojoa, Sonora, 2011",
+          "alt": "A roadside welcome sign for Etchojoa, Sonora.",
+          "creator": "Gildardo Quijada",
+          "credit": "Gildardo Quijada / Wikimedia Commons",
+          "date": "March 9, 2011",
+          "scope": "Geographic context for Mayo or Yoreme communities in southern Sonora. The photograph shows the municipal welcome sign. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ACCESO_A_ETCHOJOA,_SONORA_-_panoramio.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "INPI: Pueblo Yoreme / Mayo",
+              "url": "https://catalogo.inpi.gob.mx/yoreme-mayo/"
+            }
+          ],
+          "profileSlugs": [
+            "mayo-yoreme"
+          ],
+          "asset": "assets/profile-visuals/mayo-yoreme-etchojoa-welcome-2011.jpg",
+          "cardAsset": "assets/profile-visuals/mayo-yoreme-etchojoa-welcome-2011.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ACCESO_A_ETCHOJOA%2C_SONORA_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Gildardo Quijada / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 346848,
+              "sha256": "25f6e1aef796afd7ee9fcfe98c1272157da5c775275f1456077b5a72f51783ce"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 346848,
+              "sha256": "25f6e1aef796afd7ee9fcfe98c1272157da5c775275f1456077b5a72f51783ce"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:81;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/mayo-yoreme-etchojoa-welcome-2011.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "mazatec",
+      "name": "Mazatec",
+      "originalId": 206,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 238,
+      "angle": 9,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "mazatec-dance-huautla",
+          "title": "Dance in Huautla de Jiménez, Oaxaca",
+          "alt": "People in embroidered dresses gathered during a dance in Huautla de Jiménez.",
+          "creator": "Evan Paunde",
+          "credit": "Evan Paunde / Wikimedia Commons",
+          "date": "Date unrecorded",
+          "scope": "The photographer describes this as a Mazatec dance in Huautla de Jiménez. The image shows an outdoor dance scene. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huautla_de_Jimenez.jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Huautla_de_Jimenez.jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "INPI: Etnografía del pueblo mazateco de Oaxaca",
+              "url": "https://www.gob.mx/inpi/articulos/etnografia-del-pueblo-mazateco-de-oaxaca-ha-shuta-enima?idiom=es"
+            }
+          ],
+          "profileSlugs": [
+            "mazatec"
+          ],
+          "asset": "assets/profile-visuals/mazatec-dance-huautla.jpg",
+          "cardAsset": "assets/profile-visuals/mazatec-dance-huautla.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Huautla_de_Jimenez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Evan Paunde / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 500,
+              "height": 416,
+              "bytes": 82653,
+              "sha256": "f81418804712a5b6e3fb4608f5d8f0275e4b2fc90cb398f35e266770b00024f4"
+            },
+            "cardAsset": {
+              "width": 500,
+              "height": 416,
+              "bytes": 82653,
+              "sha256": "f81418804712a5b6e3fb4608f5d8f0275e4b2fc90cb398f35e266770b00024f4"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:238;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/mazatec-dance-huautla.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "mchigeeng-first-nation",
@@ -13307,6 +14667,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "mikmaq",
+      "name": "Mi'kmaq",
+      "originalId": 214,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 321,
+      "angle": -40,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "mikmaq-mersey-river-kejimkujik-2023",
+          "title": "Mersey River at Kejimkujik, Nova Scotia",
+          "alt": "A river reflects the sky and surrounding trees beside a grassy bank.",
+          "creator": "Z3lvs",
+          "credit": "Z3lvs / Wikimedia Commons",
+          "date": "July 17, 2023",
+          "scope": "Parks Canada interprets Kejimkujik in the context of Mi’kmaw travel and water routes. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_with_a_grassy_bank_and_reflections,_Mersey_River,_Kejimkujik_National_Park,_Nova_Scotia.jpg",
+          "rightsLabel": "CC0 1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "contextSources": [
+            {
+              "title": "Parks Canada: A Mi’kmaw History",
+              "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/culture/autochtone-indigenous/mikmaq"
+            }
+          ],
+          "profileSlugs": [
+            "mikmaq"
+          ],
+          "asset": "assets/profile-visuals/mikmaq-mersey-river-kejimkujik-2023.jpg",
+          "cardAsset": "assets/profile-visuals/mikmaq-mersey-river-kejimkujik-2023.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/River_with_a_grassy_bank_and_reflections%2C_Mersey_River%2C_Kejimkujik_National_Park%2C_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Z3lvs / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1079,
+              "bytes": 554184,
+              "sha256": "4a32b5972e65f687853a7996494697b4e268251bc2d453e3f78b854939e7b334"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1079,
+              "bytes": 554184,
+              "sha256": "4a32b5972e65f687853a7996494697b4e268251bc2d453e3f78b854939e7b334"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:321;--profile-angle:-40deg;--profile-photo:url(\"../../assets/profile-visuals/mikmaq-mersey-river-kejimkujik-2023.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "mille-lacs-band-of-ojibwe",
       "name": "Mille Lacs Band of Ojibwe",
       "originalId": null,
@@ -13382,6 +14807,71 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "mingo",
+      "name": "Mingo",
+      "originalId": 215,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 13,
+      "angle": 61,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "mingo-logan-elm-memorial-2014",
+          "title": "Logan Elm State Memorial, Pickaway County, Ohio",
+          "alt": "The Logan Elm State Memorial entrance sign in front of a lawn and trees.",
+          "creator": "Aesopposea",
+          "credit": "Aesopposea / Wikimedia Commons",
+          "date": "June 1, 2014",
+          "scope": "Ohio History Connection interprets Logan and the Mingo in this public memorial park. The view shows the entrance sign. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:LoganElm1.JPG",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "Ohio History Connection: Logan Elm State Memorial Park",
+              "url": "https://www.ohiohistory.org/visit/browse-historical-sites/logan-elm/"
+            }
+          ],
+          "profileSlugs": [
+            "mingo"
+          ],
+          "asset": "assets/profile-visuals/mingo-logan-elm-memorial-2014.jpg",
+          "cardAsset": "assets/profile-visuals/mingo-logan-elm-memorial-2014.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/LoganElm1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Aesopposea / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1440,
+              "bytes": 671310,
+              "sha256": "59895f0c048ebe34ad09d5bf7ed055f9937dc69c2aed42c13d4976777b188d5d"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1440,
+              "bytes": 671310,
+              "sha256": "59895f0c048ebe34ad09d5bf7ed055f9937dc69c2aed42c13d4976777b188d5d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:13;--profile-angle:61deg;--profile-photo:url(\"../../assets/profile-visuals/mingo-logan-elm-memorial-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "mississauga-8-first-nation",
@@ -13525,6 +15015,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "mobile",
+      "name": "Mobile",
+      "originalId": 219,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 255,
+      "angle": -34,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "mobile-river-near-mount-vernon-2009",
+          "title": "Mobile River near Mount Vernon, Alabama",
+          "alt": "A wide river between low, wooded banks in Alabama.",
+          "creator": "Altairisfar",
+          "credit": "Altairisfar / Wikimedia Commons",
+          "date": "March 21, 2009",
+          "scope": "A present-day view along the Mobile River near Mount Vernon. The National Park Service places Old Mobile on the same river and the History Museum of Mobile provides the historical context for the Mobile people. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobile_River.JPG",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Mobile_River.JPG#Licensing",
+          "contextSources": [
+            {
+              "title": "National Park Service: Old Mobile Site",
+              "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/old-mobile-site.htm"
+            },
+            {
+              "title": "History Museum of Mobile: Old Ways New Days",
+              "url": "https://www.museumofmobile.com/old-ways-new-days-part-i"
+            }
+          ],
+          "profileSlugs": [
+            "mobile"
+          ],
+          "asset": "assets/profile-visuals/mobile-river-near-mount-vernon-2009.jpg",
+          "cardAsset": "assets/profile-visuals/mobile-river-near-mount-vernon-2009.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mobile_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Altairisfar / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 181347,
+              "sha256": "5283d0b983f0c758705a0e1ea73084ab731596ccd48de6e14c293029392361ff"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 181347,
+              "sha256": "5283d0b983f0c758705a0e1ea73084ab731596ccd48de6e14c293029392361ff"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:255;--profile-angle:-34deg;--profile-photo:url(\"../../assets/profile-visuals/mobile-river-near-mount-vernon-2009.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "modoc",
@@ -14552,6 +16111,140 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "natchez",
+      "name": "Natchez",
+      "originalId": 241,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 100,
+      "angle": -43,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "natchez-emerald-mound-aerial",
+          "title": "Emerald Mound near Natchez, Mississippi",
+          "alt": "Aerial photograph of a broad, grassy platform mound surrounded by wooded land.",
+          "creator": "National Park Service",
+          "credit": "National Park Service",
+          "date": "Date unrecorded",
+          "scope": "The National Park Service interprets Emerald Mound within regional Mississippian and Natchez-era history. The aerial photograph shows the public site from above. Shown as a JPEG display copy.",
+          "sourceUrl": "https://www.nps.gov/natr/learn/historyculture/emeraldmound.htm",
+          "rightsLabel": "U.S. public domain (NPS photo)",
+          "rightsUrl": "https://www.nps.gov/aboutus/publications.htm",
+          "contextSources": [
+            {
+              "title": "Emerald Mound, Natchez Trace Parkway",
+              "url": "https://www.nps.gov/natr/learn/historyculture/emeraldmound.htm"
+            },
+            {
+              "title": "The Natchez Indians, National Park Service",
+              "url": "https://www.nps.gov/natc/learn/historyculture/indians.htm"
+            }
+          ],
+          "profileSlugs": [
+            "natchez"
+          ],
+          "asset": "assets/profile-visuals/natchez-emerald-mound-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/natchez-emerald-mound-aerial.jpg",
+          "sourceImageUrl": "https://www.nps.gov/natr/learn/historyculture/images/Emerald-mound-resized.jpg?autorotate=false&maxwidth=1300",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: National Park Service",
+          "derivatives": {
+            "asset": {
+              "width": 1300,
+              "height": 586,
+              "bytes": 182159,
+              "sha256": "9403bf6a51377a808921596c22d5f9862d24b1a0e225a0a846d1df1d03c7110a"
+            },
+            "cardAsset": {
+              "width": 1300,
+              "height": 586,
+              "bytes": 182159,
+              "sha256": "9403bf6a51377a808921596c22d5f9862d24b1a0e225a0a846d1df1d03c7110a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:100;--profile-angle:-43deg;--profile-photo:url(\"../../assets/profile-visuals/natchez-emerald-mound-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "natchitoches",
+      "name": "Natchitoches",
+      "originalId": 242,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 144,
+      "angle": 53,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "natchitoches-fort-site-building-2009",
+          "title": "Fort St. Jean Baptiste State Historic Site, Natchitoches",
+          "alt": "A building with a white-railed front porch at the fort historic site.",
+          "creator": "Billy Hathorn",
+          "credit": "Billy Hathorn / Wikimedia Commons",
+          "date": "August 8, 2009",
+          "scope": "The National Park Service interprets the French fort in the context of trade with the Natchitoches and other Indigenous neighbors. This photograph shows the modern historic site. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Restored_Fort_Saint_Jean_Baptiste_in_Natchitoches,_LA_IMG_2032.JPG",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "Fort St. Jean Baptiste State Historic Site",
+              "url": "https://www.nps.gov/places/fort-st-jean-baptiste-state-historic-site.htm"
+            }
+          ],
+          "profileSlugs": [
+            "natchitoches"
+          ],
+          "asset": "assets/profile-visuals/natchitoches-fort-site-building-2009.jpg",
+          "cardAsset": "assets/profile-visuals/natchitoches-fort-site-building-2009.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Restored_Fort_Saint_Jean_Baptiste_in_Natchitoches%2C_LA_IMG_2032.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Billy Hathorn / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 375949,
+              "sha256": "0b651907ca28e14ad193550bba427cff71309cf93b0bbd9bcc7533768de7367e"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 375949,
+              "sha256": "0b651907ca28e14ad193550bba427cff71309cf93b0bbd9bcc7533768de7367e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:53deg;--profile-photo:url(\"../../assets/profile-visuals/natchitoches-fort-site-building-2009.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "native-hawaiian-kanaka-maoli",
       "name": "Native Hawaiian (Kānaka Maoli)",
       "originalId": null,
@@ -14928,6 +16621,140 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "nauset",
+      "name": "Nauset",
+      "originalId": 243,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 221,
+      "angle": 32,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nauset-marsh-fort-hill-2010",
+          "title": "Nauset Marsh from Fort Hill, Cape Cod",
+          "alt": "A split-rail fence overlooking the grassy shore and open water of Nauset Marsh.",
+          "creator": "John Phelan (Faolin42)",
+          "credit": "John Phelan (Faolin42) / Wikimedia Commons",
+          "date": "May 29, 2010",
+          "scope": "A present-day view of the Cape Cod landscape linked in Eastham’s historical account to the Nauset. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Fort_Hill,_Eastham_MA.jpg",
+          "rightsLabel": "CC BY 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0",
+          "contextSources": [
+            {
+              "title": "Town of Eastham: Nauset Indians",
+              "url": "https://www.eastham-ma.gov/468/Nauset-Indians"
+            },
+            {
+              "title": "Cape Cod National Seashore: Fort Hill Trail",
+              "url": "https://home.nps.gov/thingstodo/hike-the-fort-hill-trail.htm"
+            }
+          ],
+          "profileSlugs": [
+            "nauset"
+          ],
+          "asset": "assets/profile-visuals/nauset-marsh-fort-hill-2010.jpg",
+          "cardAsset": "assets/profile-visuals/nauset-marsh-fort-hill-2010.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/View_from_Fort_Hill%2C_Eastham_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: John Phelan (Faolin42) / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 330017,
+              "sha256": "6483ec2d14eb95476792fbb3801a0178115347a11015f5d50f2bc50cc7b9117f"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 330017,
+              "sha256": "6483ec2d14eb95476792fbb3801a0178115347a11015f5d50f2bc50cc7b9117f"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:221;--profile-angle:32deg;--profile-photo:url(\"../../assets/profile-visuals/nauset-marsh-fort-hill-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "nausewaiwash-band-of-indians-inc",
+      "name": "Nause-Waiwash Band of Indians, Inc.",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 147,
+      "angle": -32,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nause-waiwash-longhouse-dorchester-2011",
+          "title": "Nause-Waiwash Longhouse, Dorchester County, Maryland",
+          "alt": "A one-story white meetinghouse with a red door and green shutters.",
+          "creator": "Art Anderson",
+          "credit": "Art Anderson / Wikimedia Commons",
+          "date": "May 29, 2011",
+          "scope": "The Maryland Historical Trust identifies the former Hughes AME Chapel, built about 1894, as the Nause-Waiwash Longhouse. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nausewaiwash_Longhouse_c._1800_-_panoramio.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "Maryland Historical Trust: Hughes A.M.E. Chapel",
+              "url": "https://apps.mht.maryland.gov/nr/NRDetail.aspx?COUNTY=Dorchester&FROM=NRCountyList.aspx&NRID=1692"
+            }
+          ],
+          "profileSlugs": [
+            "nausewaiwash-band-of-indians-inc"
+          ],
+          "asset": "assets/profile-visuals/nause-waiwash-longhouse-dorchester-2011.jpg",
+          "cardAsset": "assets/profile-visuals/nause-waiwash-longhouse-dorchester-2011.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nausewaiwash_Longhouse_c._1800_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Art Anderson / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 630061,
+              "sha256": "d4416e7e7d35cacaf188215b9840d89fd431f500dd334467f9169d24fb198053"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 630061,
+              "sha256": "d4416e7e7d35cacaf188215b9840d89fd431f500dd334467f9169d24fb198053"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:147;--profile-angle:-32deg;--profile-photo:url(\"../../assets/profile-visuals/nause-waiwash-longhouse-dorchester-2011.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 1
+    },
+    {
       "slug": "navajo-dine",
       "name": "Navajo (Diné)",
       "originalId": 244,
@@ -15062,6 +16889,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "neutral-nation",
+      "name": "Neutral Nation",
+      "originalId": 246,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 152,
+      "angle": 9,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "neutral-nation-lawson-site-longhouse-2012",
+          "title": "Reconstructed longhouse at the Lawson Site, Ontario",
+          "alt": "A reconstructed longhouse and palisade on a grassy clearing.",
+          "creator": "QuartierLatin1968",
+          "credit": "QuartierLatin1968 / Wikimedia Commons",
+          "date": "July 6, 2012",
+          "scope": "Canada’s Historic Places register describes the Lawson Site as a pre-contact Neutral Iroquoian village. The photograph shows a modern reconstruction. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MusOntarArchae_4618a.jpg",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "Canada’s Historic Places: Lawson Site",
+              "url": "https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=1504"
+            }
+          ],
+          "profileSlugs": [
+            "neutral-nation"
+          ],
+          "asset": "assets/profile-visuals/neutral-nation-lawson-site-longhouse-2012.jpg",
+          "cardAsset": "assets/profile-visuals/neutral-nation-lawson-site-longhouse-2012.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/MusOntarArchae_4618a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: QuartierLatin1968 / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 931,
+              "bytes": 295130,
+              "sha256": "a434c60da5d28f9e53a12a72f19c253cf7276a3a43f4b01dcc645038ab917d79"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 931,
+              "bytes": 295130,
+              "sha256": "a434c60da5d28f9e53a12a72f19c253cf7276a3a43f4b01dcc645038ab917d79"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:152;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/neutral-nation-lawson-site-longhouse-2012.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "nez-perce-nimiipuu",
@@ -16133,6 +18025,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 5
+    },
+    {
+      "slug": "oconee",
+      "name": "Oconee",
+      "originalId": 261,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 80,
+      "angle": -20,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "oconee-river-wallace-dam-2008",
+          "title": "The Oconee River at Wallace Dam, Georgia",
+          "alt": "A dam spans the Oconee River at a point surrounded by wooded hills.",
+          "creator": "Freddyboy",
+          "credit": "Freddyboy / Wikimedia Commons",
+          "date": "March 8, 2008",
+          "scope": "A modern view of the Oconee River. Mark Williams’s University of Georgia report connects the river’s name to Oconee Old Town along the river. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wallacedam.JPG",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Wallacedam.JPG#Licensing",
+          "contextSources": [
+            {
+              "title": "UGA Archaeology: Oconee Old Town History and Archaeological Excavations",
+              "url": "https://archaeology.uga.edu/gasf/report/14851"
+            }
+          ],
+          "profileSlugs": [
+            "oconee"
+          ],
+          "asset": "assets/profile-visuals/oconee-river-wallace-dam-2008.jpg",
+          "cardAsset": "assets/profile-visuals/oconee-river-wallace-dam-2008.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Wallacedam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Freddyboy / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 300,
+              "height": 200,
+              "bytes": 18044,
+              "sha256": "82df5ba499599a22747500f13c6e1774918a07c29c40769c1468f3b3aa05b03c"
+            },
+            "cardAsset": {
+              "width": 300,
+              "height": 200,
+              "bytes": 18044,
+              "sha256": "82df5ba499599a22747500f13c6e1774918a07c29c40769c1468f3b3aa05b03c"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:80;--profile-angle:-20deg;--profile-photo:url(\"../../assets/profile-visuals/oconee-river-wallace-dam-2008.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "oglala-sioux-tribe",
@@ -17787,6 +19744,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "pensacola",
+      "name": "Pensacola",
+      "originalId": 287,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 49,
+      "angle": -9,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "pensacola-bay-aster-views",
+          "title": "ASTER satellite views of Pensacola Bay, Florida",
+          "alt": "Two satellite views of Pensacola Bay show a long bridge crossing and red-toned land on both sides of the bay.",
+          "creator": "NASA/METI/AIST/Japan Space Systems and U.S./Japan ASTER Science Team",
+          "credit": "NASA/METI/AIST/Japan Space Systems and U.S./Japan ASTER Science Team",
+          "date": "Paired views from 2003 and 2004",
+          "scope": "The satellite comparison documents the Interstate 10 crossing before and after Hurricane Ivan. The bay provides geographic context for historical Panzacola research. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pensacola_Bay_(ASTER).jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Pensacola_Bay_(ASTER).jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "Patrick Anthony DeRoche: In Pursuit of the Panzacola",
+              "url": "https://ircommons.uwf.edu/esploro/outputs/graduate/In-Pursuit-of-the-Panzacola-A/99380599142006600"
+            }
+          ],
+          "profileSlugs": [
+            "pensacola"
+          ],
+          "asset": "assets/profile-visuals/pensacola-bay-aster-views.jpg",
+          "cardAsset": "assets/profile-visuals/pensacola-bay-aster-views.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pensacola_Bay_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: NASA/METI/AIST/Japan Space Systems and U.S./Japan ASTER Science Team",
+          "derivatives": {
+            "asset": {
+              "width": 870,
+              "height": 390,
+              "bytes": 49571,
+              "sha256": "7288173d094deac9b202faf1a1ab3f38ad9ea0d77bb3de6033ed7f92ac577d2a"
+            },
+            "cardAsset": {
+              "width": 870,
+              "height": 390,
+              "bytes": 49571,
+              "sha256": "7288173d094deac9b202faf1a1ab3f38ad9ea0d77bb3de6033ed7f92ac577d2a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:49;--profile-angle:-9deg;--profile-photo:url(\"../../assets/profile-visuals/pensacola-bay-aster-views.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "peoria",
       "name": "Peoria",
       "originalId": 289,
@@ -18007,6 +20029,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "piscataway",
+      "name": "Piscataway",
+      "originalId": 295,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 131,
+      "angle": -39,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "piscataway-park-accokeek-creek-2014",
+          "title": "Accokeek Creek entrance to Piscataway Park, Maryland",
+          "alt": "A National Park Service entrance sign surrounded by leafy trees.",
+          "creator": "Azaelpitti07",
+          "credit": "Azaelpitti07 / Wikimedia Commons",
+          "date": "August 6, 2014",
+          "scope": "The National Park Service identifies Piscataway Park as part of the Piscataway homeland. The photograph shows the park’s Accokeek Creek sign. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piscataway_Park_1.JPG",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "contextSources": [
+            {
+              "title": "National Park Service: Piscataway Park",
+              "url": "https://home.nps.gov/places/000/piscataway-park.htm"
+            }
+          ],
+          "profileSlugs": [
+            "piscataway"
+          ],
+          "asset": "assets/profile-visuals/piscataway-park-accokeek-creek-2014.jpg",
+          "cardAsset": "assets/profile-visuals/piscataway-park-accokeek-creek-2014.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Piscataway_Park_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Azaelpitti07 / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 954,
+              "bytes": 398680,
+              "sha256": "8788c9484ce0f696b21673c59328e6cdbaeb3f76a63dadab91021f7953a6d70b"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 954,
+              "bytes": 398680,
+              "sha256": "8788c9484ce0f696b21673c59328e6cdbaeb3f76a63dadab91021f7953a6d70b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:131;--profile-angle:-39deg;--profile-photo:url(\"../../assets/profile-visuals/piscataway-park-accokeek-creek-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "pit-river-tribe",
@@ -19523,14 +21610,56 @@
       "hue": 289,
       "angle": -29,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sauk-black-hawk-site-rock-river-2016",
+          "title": "Black Hawk State Historic Site, Rock Island, Illinois",
+          "alt": "A road and an elevated walkway at Black Hawk State Historic Site near the Rock River.",
+          "creator": "Chris Light",
+          "credit": "Chris Light / Wikimedia Commons",
+          "date": "July 16, 2016",
+          "scope": "The park includes part of the historic Sauk village site of Saukenuk. The photograph shows the present-day park. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Hawk_SP2016-07-12_035.jpg",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "contextSources": [
+            {
+              "title": "Black Hawk State Historic Site, Illinois Department of Natural Resources",
+              "url": "https://dnrhistoric.illinois.gov/experience/sites/site.black-hawk.html"
+            }
+          ],
+          "profileSlugs": [
+            "sac-sauk"
+          ],
+          "asset": "assets/profile-visuals/sauk-black-hawk-site-rock-river-2016.jpg",
+          "cardAsset": "assets/profile-visuals/sauk-black-hawk-site-rock-river-2016.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Black_Hawk_SP2016-07-12_035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Chris Light / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 383650,
+              "sha256": "26a3319b1b9856cba76cd33b3fc9ce833f363c679d4268f728f8f843659bcbc0"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 383650,
+              "sha256": "26a3319b1b9856cba76cd33b3fc9ce833f363c679d4268f728f8f843659bcbc0"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:289;--profile-angle:-29deg;--profile-photo:none",
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:289;--profile-angle:-29deg;--profile-photo:url(\"../../assets/profile-visuals/sauk-black-hawk-site-rock-river-2016.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -21816,14 +23945,56 @@
       "hue": 37,
       "angle": 44,
       "composition": "orbit",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "standing-rock-administrative-building-2014",
+          "title": "Standing Rock administrative building in Fort Yates",
+          "alt": "The administrative building at Standing Rock, with red roof accents and a stone wall along the street.",
+          "creator": "U.S. Department of the Interior",
+          "credit": "U.S. Department of the Interior / Wikimedia Commons",
+          "date": "June 14, 2014",
+          "scope": "The U.S. Department of the Interior describes this as the Standing Rock Reservation administrative building in North Dakota. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Standing_Rock_Administrative_Service_(14235787848).jpg",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "contextSources": [
+            {
+              "title": "Standing Rock Sioux Tribe: About",
+              "url": "https://www.standingrock.org/about/"
+            }
+          ],
+          "profileSlugs": [
+            "standing-rock-sioux-tribe"
+          ],
+          "asset": "assets/profile-visuals/standing-rock-administrative-building-2014.jpg",
+          "cardAsset": "assets/profile-visuals/standing-rock-administrative-building-2014.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Standing_Rock_Administrative_Service_%2814235787848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: U.S. Department of the Interior / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1024,
+              "height": 576,
+              "bytes": 129305,
+              "sha256": "5f4dbdd28f9664a096a31410736c1a9133e3e25e78c7c690c893191e40532f8e"
+            },
+            "cardAsset": {
+              "width": 1024,
+              "height": 576,
+              "bytes": 129305,
+              "sha256": "5f4dbdd28f9664a096a31410736c1a9133e3e25e78c7c690c893191e40532f8e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:37;--profile-angle:44deg;--profile-photo:none",
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:37;--profile-angle:44deg;--profile-photo:url(\"../../assets/profile-visuals/standing-rock-administrative-building-2014.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -22699,6 +24870,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "tillamook",
+      "name": "Tillamook",
+      "originalId": 384,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 95,
+      "angle": 26,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "tillamook-bay-historic-forest-service",
+          "title": "Historic view of Tillamook Bay near Bay City, Oregon",
+          "alt": "Black-and-white photograph of Tillamook Bay between forested banks.",
+          "creator": "U.S. Forest Service, Pacific Northwest Region",
+          "credit": "U.S. Forest Service, Pacific Northwest Region",
+          "date": "Photograph date unrecorded",
+          "scope": "This historic view is from the U.S. Forest Service collection. The bay is part of the northern Oregon coastal setting documented in Tillamook histories. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:-29_Tillamook_Bay_near_Bay_City_Ore._(22540183400).jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:-29_Tillamook_Bay_near_Bay_City_Ore._(22540183400).jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "Tillamook County Pioneer Museum: History of Kilchis Point Reserve",
+              "url": "https://www.tcpm.org/history-of-kilchis-point-reserve.html"
+            },
+            {
+              "title": "The Oregon Encyclopedia: Tillamook Bay",
+              "url": "https://www.oregonencyclopedia.org/articles/tillamook_bay/"
+            }
+          ],
+          "profileSlugs": [
+            "tillamook"
+          ],
+          "asset": "assets/profile-visuals/tillamook-bay-historic-forest-service.jpg",
+          "cardAsset": "assets/profile-visuals/tillamook-bay-historic-forest-service.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/-29_Tillamook_Bay_near_Bay_City_Ore._%2822540183400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: U.S. Forest Service, Pacific Northwest Region",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 896,
+              "bytes": 227073,
+              "sha256": "738445b64fec123f144edbda71b918aba82d9b6813afcdc4a70b9e4b5fe4e408"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 896,
+              "bytes": 227073,
+              "sha256": "738445b64fec123f144edbda71b918aba82d9b6813afcdc4a70b9e4b5fe4e408"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:95;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/tillamook-bay-historic-forest-service.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 1
     },
     {
       "slug": "tittabawassee-ojibwe-communities",
@@ -23644,6 +25884,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "walla-walla",
+      "name": "Walla Walla",
+      "originalId": 424,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 146,
+      "angle": 18,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "walla-walla-tamastslikt-institute-2010",
+          "title": "Tamástslikt Cultural Institute, Oregon, in 2010",
+          "alt": "A museum building with a round stone wall and layered wood roof.",
+          "creator": "Gary Halvorson, Oregon State Archives",
+          "credit": "Gary Halvorson, Oregon State Archives",
+          "date": "August 2010",
+          "scope": "The Confederated Tribes of the Umatilla Indian Reservation include the Walla Walla, Cayuse and Umatilla peoples. This photograph shows the shared cultural institute. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamastslikt_Cultural_Institute_(Umatilla_County,_Oregon_scenic_images)_(umaDA0003).jpg",
+          "rightsLabel": "Oregon State Archives attribution license",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Tamastslikt_Cultural_Institute_(Umatilla_County,_Oregon_scenic_images)_(umaDA0003).jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "Confederated Tribes of the Umatilla Indian Reservation: Brief history",
+              "url": "https://ctuir.org/about/brief-history-of-ctuir/"
+            }
+          ],
+          "profileSlugs": [
+            "walla-walla"
+          ],
+          "asset": "assets/profile-visuals/walla-walla-tamastslikt-institute-2010.jpg",
+          "cardAsset": "assets/profile-visuals/walla-walla-tamastslikt-institute-2010.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tamastslikt_Cultural_Institute_%28Umatilla_County%2C_Oregon_scenic_images%29_%28umaDA0003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Gary Halvorson, Oregon State Archives",
+          "derivatives": {
+            "asset": {
+              "width": 488,
+              "height": 324,
+              "bytes": 30976,
+              "sha256": "0107633be54b27e64d4e06edf36b33bed08833d31bf6eaf46dfd7d55c7ca3a01"
+            },
+            "cardAsset": {
+              "width": 488,
+              "height": 324,
+              "bytes": 30976,
+              "sha256": "0107633be54b27e64d4e06edf36b33bed08833d31bf6eaf46dfd7d55c7ca3a01"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:146;--profile-angle:18deg;--profile-photo:url(\"../../assets/profile-visuals/walla-walla-tamastslikt-institute-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 1
+    },
+    {
       "slug": "wampanoag",
       "name": "Wampanoag",
       "originalId": 425,
@@ -24276,14 +26581,60 @@
       "hue": 218,
       "angle": 12,
       "composition": "ribbon",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "wood-mountain-rodeo-grounds-2024",
+          "title": "Rodeo grounds at Wood Mountain Regional Park, Saskatchewan",
+          "alt": "A fenced rodeo ring seen from under a shelter at Wood Mountain Regional Park.",
+          "creator": "Masterhatch",
+          "credit": "Masterhatch / Wikimedia Commons",
+          "date": "August 23, 2024",
+          "scope": "The grounds provide regional context for Wood Mountain Lakota rodeo history, documented through oral and archival research. The Atlas resized the display copy and saved it as a JPEG.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wood_Mountain_rodeo_grounds.jpg",
+          "rightsLabel": "CC0 1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "contextSources": [
+            {
+              "title": "Claire Thomson: Wood Mountain Lakota ranching and rodeo",
+              "url": "https://harvest.usask.ca/items/860c2509-9846-4ca2-b244-ebb6cac3c70a"
+            },
+            {
+              "title": "Wood Mountain Rodeo Ranch Museum",
+              "url": "https://www.woodmountainrodeoranchmuseum.org/about"
+            }
+          ],
+          "profileSlugs": [
+            "wood-mountain-lakota-first-nation"
+          ],
+          "asset": "assets/profile-visuals/wood-mountain-rodeo-grounds-2024.jpg",
+          "cardAsset": "assets/profile-visuals/wood-mountain-rodeo-grounds-2024.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wood_Mountain_rodeo_grounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Masterhatch / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 387951,
+              "sha256": "e50489c9bb8badbdabf2c530b6674013d08002a45229dd790ad78a6dd65e2025"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 387951,
+              "sha256": "e50489c9bb8badbdabf2c530b6674013d08002a45229dd790ad78a6dd65e2025"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:12deg;--profile-photo:none",
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/wood-mountain-rodeo-grounds-2024.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -24484,14 +26835,56 @@
       "hue": 200,
       "angle": 5,
       "composition": "ribbon",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "yamparika-ten-bears-portrait",
+          "title": "Ten Bears, before 1872",
+          "alt": "Black-and-white seated portrait of Ten Bears wearing a vest and a large round medallion.",
+          "creator": "Photographer unrecorded",
+          "credit": "Photographer unrecorded / Wikimedia Commons",
+          "date": "Before 1872",
+          "scope": "The Texas State Historical Association identifies Ten Bears as a Yamparika Comanche leader. The photographer is unrecorded in the image record. Shown as a JPEG display copy.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ten_bears.jpg",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Ten_bears.jpg#Licensing",
+          "contextSources": [
+            {
+              "title": "Texas State Historical Association: Yamparika Indians",
+              "url": "https://www.tshaonline.org/handbook/entries/yamparika-indians"
+            }
+          ],
+          "profileSlugs": [
+            "yamparika"
+          ],
+          "asset": "assets/profile-visuals/yamparika-ten-bears-portrait.jpg",
+          "cardAsset": "assets/profile-visuals/yamparika-ten-bears-portrait.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ten_bears.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Photographer unrecorded / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 325,
+              "height": 412,
+              "bytes": 29911,
+              "sha256": "e4b4927fb5b1a9151baed6a57e0c8ffef88d891405c76d0f8735d5a6e3097f58"
+            },
+            "cardAsset": {
+              "width": 325,
+              "height": 412,
+              "bytes": 29911,
+              "sha256": "e4b4927fb5b1a9151baed6a57e0c8ffef88d891405c76d0f8735d5a6e3097f58"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:200;--profile-angle:5deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:200;--profile-angle:5deg;--profile-photo:url(\"../../assets/profile-visuals/yamparika-ten-bears-portrait.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
