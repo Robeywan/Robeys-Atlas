@@ -3,17 +3,30 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 451,
+    "selectedProfiles": 469,
     "existingApache": 1,
-    "newProfileTreatments": 450,
-    "newTreatmentsWithPhotographs": 430,
-    "decorativeTreatmentsAwaitingPhotographs": 20,
+    "newProfileTreatments": 468,
+    "newTreatmentsWithPhotographs": 437,
+    "decorativeTreatmentsAwaitingPhotographs": 31,
     "autoEnrolledThisBuild": [
-      "aciipihkahkionki",
-      "americans-of-abya-yala-at-indiana-university",
-      "killibucks-village",
-      "lower-delaware-town",
-      "national-center-for-great-lakes-native-american-culture"
+      "american-indian-center-of-chicago",
+      "american-indian-health-service-of-chicago",
+      "cahokia-mounds",
+      "chicago-american-indian-community-collaborative",
+      "gichigamiin-indigenous-nations-museum",
+      "grand-village-of-the-kaskaskia",
+      "historic-cahokia-village",
+      "kennekuks-kickapoo-village",
+      "kincaid-mounds",
+      "midwest-soarring-foundation",
+      "native-american-and-indigenous-student-alliance-northwestern-university",
+      "native-american-chamber-of-commerce-of-illinois",
+      "native-american-house-at-the-university-of-illinois",
+      "native-american-support-program-at-the-university-of-illinois-chicago",
+      "saint-kateri-center-of-chicago",
+      "saukenuk",
+      "tribe-at-illinois-state-university",
+      "trickster-cultural-center"
     ]
   },
   "treatments": [
@@ -1484,6 +1497,29 @@
       "substantiveInspectedSources": 10
     },
     {
+      "slug": "american-indian-center-of-chicago",
+      "name": "American Indian Center of Chicago",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 232,
+      "angle": -6,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:232;--profile-angle:-6deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "american-indian-center-of-indiana",
       "name": "American Indian Center of Indiana",
       "originalId": null,
@@ -1500,6 +1536,29 @@
         "used": 0
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:186;--profile-angle:-17deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "american-indian-health-service-of-chicago",
+      "name": "American Indian Health Service of Chicago",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 319,
+      "angle": -61,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:-61deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -4249,6 +4308,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "cahokia-mounds",
+      "name": "Cahokia Mounds",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 348,
+      "angle": -72,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "cahokia-monks-mound",
+          "profileSlugs": [
+            "cahokia-mounds"
+          ],
+          "title": "Monks Mound at Cahokia",
+          "alt": "An earthen mound rises beyond an open lawn and trees at Cahokia Mounds State Historic Site.",
+          "creator": "Joe Passe",
+          "credit": "Joe Passe / Wikimedia Commons",
+          "cardCredit": "Photo: Joe Passe / Wikimedia Commons",
+          "date": "September 27, 2007",
+          "mediaType": "photograph",
+          "scope": "The photograph shows Monks Mound from the public landscape at Cahokia. The Atlas resized it and distributes both versions under CC BY-SA 2.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monks_Mound,_Cahokia_Mounds_State_Historic_Site.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Monks_Mound%2C_Cahokia_Mounds_State_Historic_Site.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "rightsLabel": "CC BY-SA 2.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Cahokia Mounds State Historic Site",
+              "url": "https://whc.unesco.org/en/list/198/"
+            },
+            {
+              "title": "Cahokia Mounds",
+              "url": "https://dnrhistoric.illinois.gov/experience/sites/site.cahokia-mounds.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/cahokia-monks-mound.jpg",
+          "cardAsset": "assets/profile-visuals/cahokia-monks-mound-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 896,
+              "bytes": 246601,
+              "sha256": "8d93ebe0b4e315118f5f886d916b88509e98d99c17c4d42677c3a727f25d4c2f"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 398,
+              "bytes": 51007,
+              "sha256": "fe2634f401fc0701c4380e97f73486889eb2d556b61b7260205c713ef08d7c84"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:348;--profile-angle:-72deg;--profile-photo:url(\"../../assets/profile-visuals/cahokia-monks-mound.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "catawba",
       "name": "Catawba",
       "originalId": 42,
@@ -4895,6 +5023,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:82;--profile-angle:-70deg;--profile-photo:url(\"../../assets/profile-visuals/cheyenne-river-reservation-farmland-2007.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "chicago-american-indian-community-collaborative",
+      "name": "Chicago American Indian Community Collaborative",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 4,
+      "angle": -25,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:4;--profile-angle:-25deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -8201,6 +8352,75 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "gichigamiin-indigenous-nations-museum",
+      "name": "Gichigamiin Indigenous Nations Museum",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 132,
+      "angle": 56,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "gichigamiin-museum-exterior",
+          "profileSlugs": [
+            "gichigamiin-indigenous-nations-museum"
+          ],
+          "title": "Evanston museum exterior in 2023",
+          "alt": "A brick museum building at the intersection of Central Street and Central Park Avenue in Evanston.",
+          "creator": "Nick Number",
+          "credit": "Nick Number / Wikimedia Commons",
+          "cardCredit": "Photo: Nick Number / Wikimedia Commons",
+          "date": "November 26, 2023",
+          "mediaType": "photograph",
+          "scope": "This photograph shows the Evanston museum while it used the Mitchell Museum of the American Indian name. The Atlas resized it for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mitchell_Museum_of_the_American_Indian,_Evanston,_IL.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mitchell_Museum_of_the_American_Indian%2C_Evanston%2C_IL.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Gichigamiin Indigenous Nations Museum",
+              "url": "https://gichigamiin-museum.org/"
+            },
+            {
+              "title": "The Mitchell Museum of the American Indian Rebrands as the Gichigamiin Indigenous Nations Museum",
+              "url": "https://gichigamiin-museum.org/wp-content/uploads/2024/11/MMAI-GINM-Rebranding-Announcement-Press-Release_FINAL-.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/gichigamiin-museum-exterior.jpg",
+          "cardAsset": "assets/profile-visuals/gichigamiin-museum-exterior-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 629,
+              "bytes": 286499,
+              "sha256": "2ef4c2980c3d1d63c730e6049ad75b242a3112f98970878ecedc6fdb8839178a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 279,
+              "bytes": 48687,
+              "sha256": "b77175997a439340caf6936742c11c792e477d50b8e4049ce21c6b4c48b67c77"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:132;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/gichigamiin-museum-exterior.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "gitxsan",
       "name": "Gitxsan",
       "originalId": 113,
@@ -8644,6 +8864,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "grand-village-of-the-kaskaskia",
+      "name": "Grand Village of the Kaskaskia",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 332,
+      "angle": -19,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "grand-village-illinois-river",
+          "profileSlugs": [
+            "grand-village-of-the-kaskaskia"
+          ],
+          "title": "Illinois River from Starved Rock",
+          "alt": "A wooded island and the Illinois River viewed from a wooded bluff.",
+          "creator": "Visviva",
+          "credit": "Visviva / Wikimedia Commons",
+          "cardCredit": "Photo: Visviva / Wikimedia Commons",
+          "date": "March 15, 2020",
+          "mediaType": "photograph",
+          "scope": "This photograph looks along the Illinois River valley from Starved Rock. It shows the river corridor documented in the village sources. The Atlas resized it for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plum_Island_from_Starved_Rock.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Plum_Island_from_Starved_Rock.jpg",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "rightsLabel": "CC0 1.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Zimmerman Site",
+              "url": "https://www.museum.state.il.us/muslink/nat_amer/post/htmls/arch_zim.html"
+            },
+            {
+              "title": "Grand Village of the Illinois",
+              "url": "https://dnrhistoric.illinois.gov/experience/sites/site.grand-village-of-the-illinois.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/grand-village-illinois-river.jpg",
+          "cardAsset": "assets/profile-visuals/grand-village-illinois-river-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1079,
+              "bytes": 369798,
+              "sha256": "df405061f8238aa6895fb6fea73240923385acf9c2860cf870a4d2978439dcc2"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 479,
+              "bytes": 62900,
+              "sha256": "726b01e0786c3ecbf0fe091ceaffca3b4a71ee54b17c1fb8e9c41aa84a69f70d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:332;--profile-angle:-19deg;--profile-photo:url(\"../../assets/profile-visuals/grand-village-illinois-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "greentown-delaware-village",
@@ -9701,6 +9990,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 1
+    },
+    {
+      "slug": "historic-cahokia-village",
+      "name": "Historic Cahokia Village",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 232,
+      "angle": -1,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:232;--profile-angle:-1deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "hochunk",
@@ -11813,6 +12125,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "kennekuks-kickapoo-village",
+      "name": "Kennekuk’s Kickapoo Village",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 85,
+      "angle": 75,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:85;--profile-angle:75deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ketchikan-indian-community",
       "name": "Ketchikan Indian Community",
       "originalId": null,
@@ -12330,6 +12665,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:333;--profile-angle:-54deg;--profile-photo:url(\"../../assets/profile-visuals/killibucks-village-chesterfield-white-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kincaid-mounds",
+      "name": "Kincaid Mounds",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 85,
+      "angle": -65,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "kincaid-mounds-landscape",
+          "profileSlugs": [
+            "kincaid-mounds"
+          ],
+          "title": "Kincaid Mounds from the viewing platform",
+          "alt": "An overlook with information signs faces a grassy field and low mounds at Kincaid.",
+          "creator": "Herb Roe (Heironymous Rowe)",
+          "credit": "Herb Roe (Heironymous Rowe) / Wikimedia Commons",
+          "cardCredit": "Photo: Herb Roe (Heironymous Rowe) / Wikimedia Commons",
+          "date": "May 28, 2009",
+          "mediaType": "photograph",
+          "scope": "This photograph shows the mounds and public viewing area. The Atlas resized it for display under CC BY-SA 3.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kincaid_Site_mounds_HRoe_01.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kincaid_Site_mounds_HRoe_01.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Kincaid Mounds",
+              "url": "https://dnrhistoric.illinois.gov/experience/sites/site.kincaid-mounds.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/kincaid-mounds-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/kincaid-mounds-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 600,
+              "height": 451,
+              "bytes": 52920,
+              "sha256": "f70d52782f0c07dde8f8d8c350d28467187021b7230afb113e74a06cd8b25838"
+            },
+            "cardAsset": {
+              "width": 600,
+              "height": 451,
+              "bytes": 43574,
+              "sha256": "b7ea11a4d789297e802ede62a51e1cc085c53c4b689ab3d6d30262c8df146182"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:85;--profile-angle:-65deg;--profile-photo:url(\"../../assets/profile-visuals/kincaid-mounds-landscape.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -16273,6 +16673,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "midwest-soarring-foundation",
+      "name": "Midwest SOARRING Foundation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 168,
+      "angle": 56,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "midwest-soarring-lockport-depot",
+          "profileSlugs": [
+            "midwest-soarring-foundation"
+          ],
+          "title": "Historic Lockport train station in 2008",
+          "alt": "A one-story stone train station stands beside railroad tracks in Lockport.",
+          "creator": "Ron Reiring",
+          "credit": "Ron Reiring / Wikimedia Commons",
+          "cardCredit": "Photo: Ron Reiring / Wikimedia Commons",
+          "date": "October 7, 2008",
+          "mediaType": "photograph",
+          "scope": "The building later housed part of Midwest SOARRING Foundation’s cultural center, as documented by the City of Lockport. This photograph predates that use. The Atlas resized it for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lockport,_IL_train_station.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lockport%2C_IL_train_station.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "rightsLabel": "CC BY 2.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Midwest SOARRING Foundation",
+              "url": "https://www.midwestsoarring.org/"
+            },
+            {
+              "title": "Extension of the License Agreement with Midwest SOARRING Foundation",
+              "url": "https://d2kbkoa27fdvtw.cloudfront.net/lockport/2d2ded23418ecb2b35a0a89a46a2b1850.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/midwest-soarring-lockport-depot.jpg",
+          "cardAsset": "assets/profile-visuals/midwest-soarring-lockport-depot-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 922,
+              "bytes": 446302,
+              "sha256": "879543e531001eb7148a5512bff44e49749cfa120b006d2d27bc27c3bc00cb2e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 410,
+              "bytes": 78209,
+              "sha256": "36da57b1eb15f1e08f6035d7d1c8c37560f72cfedeaf6f502bb65024682970ed"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:168;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/midwest-soarring-lockport-depot.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "mikmaq",
       "name": "Mi'kmaq",
       "originalId": 214,
@@ -18134,6 +18603,52 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "native-american-and-indigenous-student-alliance-northwestern-university",
+      "name": "Native American and Indigenous Student Alliance (Northwestern University)",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 324,
+      "angle": -60,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:324;--profile-angle:-60deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-chamber-of-commerce-of-illinois",
+      "name": "Native American Chamber of Commerce of Illinois",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 290,
+      "angle": -34,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:290;--profile-angle:-34deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "native-american-educational-and-cultural-center-purdue-university",
       "name": "Native American Educational and Cultural Center (Purdue University)",
       "originalId": null,
@@ -18150,6 +18665,29 @@
         "used": 0
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:175;--profile-angle:-29deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-house-at-the-university-of-illinois",
+      "name": "Native American House at the University of Illinois",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 97,
+      "angle": -13,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:97;--profile-angle:-13deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -18196,6 +18734,29 @@
         "used": 0
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:332;--profile-angle:-29deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-support-program-at-the-university-of-illinois-chicago",
+      "name": "Native American Support Program at the University of Illinois Chicago",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 358,
+      "angle": -1,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:358;--profile-angle:-1deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -24345,6 +24906,71 @@
       "substantiveInspectedSources": 1
     },
     {
+      "slug": "saint-kateri-center-of-chicago",
+      "name": "Saint Kateri Center of Chicago",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 238,
+      "angle": -31,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "saint-kateri-st-benedict-exterior",
+          "profileSlugs": [
+            "saint-kateri-center-of-chicago"
+          ],
+          "title": "St. Benedict Church exterior in Chicago",
+          "alt": "A brick church façade with pale stone trim, arched windows, and a cross.",
+          "creator": "Paul R. Burley",
+          "credit": "Paul R. Burley / Wikimedia Commons",
+          "cardCredit": "Photo: Paul R. Burley / Wikimedia Commons",
+          "date": "January 6, 2019",
+          "mediaType": "photograph",
+          "scope": "St. Benedict Parish documents a Chicago gathering it organized with Saint Kateri Center. The Atlas resized this photograph of the parish exterior for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Benedict_Catholic_Church_Chicago_Facade_2019-0997.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/St_Benedict_Catholic_Church_Chicago_Facade_2019-0997.jpg/1280px-St_Benedict_Catholic_Church_Chicago_Facade_2019-0997.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "A Prayer Service for Repentance and Healing",
+              "url": "https://parish.stbenedict.com/parish-news-blog/2021/7/15/1imjyabw6d88w9du2xy7g04rndxl4m-ll9nm"
+            }
+          ],
+          "asset": "assets/profile-visuals/saint-kateri-st-benedict-exterior.jpg",
+          "cardAsset": "assets/profile-visuals/saint-kateri-st-benedict-exterior-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 1024,
+              "bytes": 362731,
+              "sha256": "b7480f60ba932fbbd67cad03a32320200b49007c0948f9639e405e257ae7e322"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 512,
+              "bytes": 86737,
+              "sha256": "9a687312cb855289009fc3b6bc2476b83c5b2d98b4c9f03bc590499835176d19"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:238;--profile-angle:-31deg;--profile-photo:url(\"../../assets/profile-visuals/saint-kateri-st-benedict-exterior.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "salem-mission",
       "name": "Salem Mission",
       "originalId": null,
@@ -25068,6 +25694,75 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "saukenuk",
+      "name": "Saukenuk",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 346,
+      "angle": 33,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "saukenuk-rock-river-landscape",
+          "profileSlugs": [
+            "saukenuk"
+          ],
+          "title": "Rock River at Black Hawk State Historic Site",
+          "alt": "Aerial view of the wooded Black Hawk State Historic Site and the Rock River below it in Rock Island.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "August 2, 2019",
+          "mediaType": "photograph",
+          "scope": "This aerial photograph shows the present-day public historic site and part of the Rock River landscape near the documented town of Saukenuk. The Atlas resized it for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=702057.022%2C4592975.773%2C703399.022%2C4593910.773&bboxSR=26915&imageSR=26915&size=1220%2C850&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B57145%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Black Hawk",
+              "url": "https://dnrhistoric.illinois.gov/experience/sites/site.black-hawk.html"
+            },
+            {
+              "title": "Sac and Fox News, September 2023",
+              "url": "https://www.sacandfoxnation-nsn.gov/wp-content/uploads/2023/08/september-web-final-1.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/saukenuk-rock-river-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/saukenuk-rock-river-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1220,
+              "height": 850,
+              "bytes": 372401,
+              "sha256": "c0fc4debb839df7502bacfcdf18a78509751a9b30914bc94c019f8cae79379ec"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 446,
+              "bytes": 91725,
+              "sha256": "093ef2e8de37b44c017bc866669eacce26bb320de34b6226c5c47cccc5cdf6df"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:346;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/saukenuk-rock-river-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "sault-ste-marie-tribe-of-chippewa-indians",
@@ -27968,6 +28663,52 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 12
+    },
+    {
+      "slug": "tribe-at-illinois-state-university",
+      "name": "TRIBE at Illinois State University",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 146,
+      "angle": 73,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:146;--profile-angle:73deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "trickster-cultural-center",
+      "name": "Trickster Cultural Center",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 353,
+      "angle": -61,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:353;--profile-angle:-61deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "tsimshian",

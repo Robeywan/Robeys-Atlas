@@ -11385,6 +11385,97 @@
     ]
   },
   {
+    "name": "American Indian Center of Chicago",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native community organization",
+    "region": "Chicago, Illinois",
+    "overview": "The American Indian Center of Chicago supports the city’s Native community through cultural programs and gathering space.",
+    "overviewSourceIds": [
+      "s-il-aic-contact-20261121",
+      "s-il-aic-beadwork-20261121"
+    ],
+    "relationshipNote": "The Center identifies its Chicago location and describes its work supporting Chicago’s Native community.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-aic-contact-20261121",
+        "title": "Contact Us",
+        "url": "https://aicchicago.org/contact/",
+        "publisher": "American Indian Center of Chicago",
+        "type": "Community organization website",
+        "topics": [
+          "American Indian Center of Chicago",
+          "Illinois"
+        ],
+        "annotation": "The Center’s Chicago location and its account of its work with the city’s Native community.",
+        "contentReviewScope": "The Center’s Chicago location and its account of its work with the city’s Native community.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-aic-beadwork-20261121",
+        "title": "Open Beadwork Class",
+        "url": "https://aicchicago.org/open-beadwork-class/",
+        "publisher": "American Indian Center of Chicago",
+        "type": "Community program page",
+        "topics": [
+          "American Indian Center of Chicago",
+          "Illinois"
+        ],
+        "annotation": "The Center’s own description of a beadwork program at its Chicago site.",
+        "contentReviewScope": "The Center’s own description of a beadwork program at its Chicago site.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Community programs",
+        "text": "The Center’s program pages describe activities such as open beadwork classes at its Chicago home.",
+        "sourceIds": [
+          "s-il-aic-contact-20261121",
+          "s-il-aic-beadwork-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://aicchicago.org/contact/",
+        "title": "Contact Us",
+        "publisher": "American Indian Center of Chicago",
+        "scope": "The Center identifies its Chicago location and describes its work supporting Chicago’s Native community.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "american-indian-center-of-chicago",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
     "name": "American Indian Center of Indiana",
     "originalId": null,
     "added": true,
@@ -11475,6 +11566,98 @@
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
+      }
+    ]
+  },
+  {
+    "name": "American Indian Health Service of Chicago",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Urban Native health organization",
+    "region": "Chicago, Illinois",
+    "overview": "American Indian Health Service of Chicago is a community health organization serving American Indian and Alaska Native people and other underserved communities in Chicago.",
+    "overviewSourceIds": [
+      "s-il-aihsc-about-20261121",
+      "s-il-aihsc-contact-20261121"
+    ],
+    "relationshipNote": "The organization identifies its mission and lists its clinic in Chicago, Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-aihsc-about-20261121",
+        "title": "About",
+        "url": "https://aihschgo.org/about/",
+        "publisher": "American Indian Health Service of Chicago",
+        "type": "Community organization website",
+        "topics": [
+          "American Indian Health Service of Chicago",
+          "Illinois"
+        ],
+        "annotation": "The clinic’s account of its mission, history, and role in Native community health in Chicago.",
+        "contentReviewScope": "The clinic’s account of its mission, history, and role in Native community health in Chicago.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-aihsc-contact-20261121",
+        "title": "Contact us",
+        "url": "https://aihschgo.org/contact-us/",
+        "publisher": "American Indian Health Service of Chicago",
+        "type": "Community organization website",
+        "topics": [
+          "American Indian Health Service of Chicago",
+          "Illinois"
+        ],
+        "annotation": "The organization's publicly listed clinic location in Chicago, Illinois.",
+        "contentReviewScope": "The organization's publicly listed clinic location in Chicago, Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Community health and outreach",
+        "text": "The organization’s history describes preventive care and outreach as part of its community health work.",
+        "sourceIds": [
+          "s-il-aihsc-about-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://aihschgo.org/about/",
+        "title": "About",
+        "publisher": "American Indian Health Service of Chicago",
+        "scope": "The organization identifies its mission and lists its clinic in Chicago, Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "American Indian Health Service of Chicago, Inc."
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "american-indian-health-service-of-chicago",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -26870,6 +27053,101 @@
     ]
   },
   {
+    "name": "Cahokia Mounds",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Mississippian city",
+    "region": "Collinsville area, southwestern Illinois",
+    "overview": "Cahokia Mounds preserves part of a major Indigenous city that developed in the Mississippi River valley during the Mississippian period.",
+    "overviewSourceIds": [
+      "s-il-cahokia-mounds-unesco-20261121",
+      "s-il-cahokia-mounds-illinois-20261121"
+    ],
+    "relationshipNote": "UNESCO places the Mississippian settlement at present-day Collinsville, Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-cahokia-mounds-unesco-20261121",
+        "title": "Cahokia Mounds State Historic Site",
+        "url": "https://whc.unesco.org/en/list/198/",
+        "publisher": "UNESCO World Heritage Centre",
+        "type": "World Heritage site record",
+        "topics": [
+          "Cahokia Mounds",
+          "Illinois"
+        ],
+        "annotation": "The ancient Mississippian city in present-day Collinsville and the residential and public areas of the settlement.",
+        "contentReviewScope": "The ancient Mississippian city in present-day Collinsville and the residential and public areas of the settlement.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-cahokia-mounds-illinois-20261121",
+        "title": "Cahokia Mounds",
+        "url": "https://dnrhistoric.illinois.gov/experience/sites/site.cahokia-mounds.html",
+        "publisher": "Illinois Department of Natural Resources",
+        "type": "State historic site interpretation",
+        "topics": [
+          "Cahokia Mounds",
+          "Illinois"
+        ],
+        "annotation": "The remains of the city and the location of Monks Mound in Illinois.",
+        "contentReviewScope": "The remains of the city and the location of Monks Mound in Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "An Indigenous city in the Mississippi Valley",
+        "text": "The historic site preserves public and residential areas around Monks Mound. UNESCO records Cahokia as a regional center connected to smaller settlements.",
+        "sourceIds": [
+          "s-il-cahokia-mounds-unesco-20261121",
+          "s-il-cahokia-mounds-illinois-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/198/",
+        "title": "Cahokia Mounds State Historic Site",
+        "publisher": "UNESCO World Heritage Centre",
+        "scope": "UNESCO places the Mississippian settlement at present-day Collinsville, Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Cahokia (Mississippian city)"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "cahokia-mounds",
+    "regionGroups": [
+      "Southwest"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
     "name": "Cahto Tribe of the Laytonville Rancheria",
     "originalId": null,
     "added": true,
@@ -31875,6 +32153,81 @@
         "id": "US-TN",
         "name": "Tennessee",
         "key": "us-tn"
+      }
+    ]
+  },
+  {
+    "name": "Chicago American Indian Community Collaborative",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Interorganizational Native community coalition",
+    "region": "Greater Chicago, Illinois",
+    "overview": "The Chicago American Indian Community Collaborative brings together Native-serving organizations and programs in greater Chicago.",
+    "overviewSourceIds": [
+      "s-il-caicc-who-20261121"
+    ],
+    "relationshipNote": "The Collaborative describes itself as a greater Chicago network that coordinates work across Native-serving organizations.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-caicc-who-20261121",
+        "title": "Who We Are",
+        "url": "https://chicagoaicc.com/who-we-are/",
+        "publisher": "Chicago American Indian Community Collaborative",
+        "type": "Community coalition website",
+        "topics": [
+          "Chicago American Indian Community Collaborative",
+          "Illinois"
+        ],
+        "annotation": "The Collaborative’s name, greater Chicago scope, and description of its work across member organizations.",
+        "contentReviewScope": "The Collaborative’s name, greater Chicago scope, and description of its work across member organizations.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A network across the Chicago area",
+        "text": "Its members use the coalition to coordinate planning, mutual support, and advocacy for Chicago-area Native communities.",
+        "sourceIds": [
+          "s-il-caicc-who-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://chicagoaicc.com/who-we-are/",
+        "title": "Who We Are",
+        "publisher": "Chicago American Indian Community Collaborative",
+        "scope": "The Collaborative describes itself as a greater Chicago network that coordinates work across Native-serving organizations.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "CAICC"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "chicago-american-indian-community-collaborative",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -50899,6 +51252,99 @@
     ]
   },
   {
+    "name": "Gichigamiin Indigenous Nations Museum",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Indigenous cultural museum",
+    "region": "Evanston, Illinois",
+    "overview": "Gichigamiin Indigenous Nations Museum in Evanston shares Indigenous history, contemporary contributions, and knowledge through exhibits and public education.",
+    "overviewSourceIds": [
+      "s-il-gichigamiin-home-20261121",
+      "s-il-gichigamiin-name-20261121"
+    ],
+    "relationshipNote": "The museum identifies its Evanston location and traces its current name to its 2024 announcement.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-gichigamiin-home-20261121",
+        "title": "Gichigamiin Indigenous Nations Museum",
+        "url": "https://gichigamiin-museum.org/",
+        "publisher": "Gichigamiin Indigenous Nations Museum",
+        "type": "Museum website",
+        "topics": [
+          "Gichigamiin Indigenous Nations Museum",
+          "Illinois"
+        ],
+        "annotation": "The museum’s Evanston location, name, and public work with Indigenous knowledge, history, and contemporary cultures.",
+        "contentReviewScope": "The museum’s Evanston location, name, and public work with Indigenous knowledge, history, and contemporary cultures.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-gichigamiin-name-20261121",
+        "title": "The Mitchell Museum of the American Indian Rebrands as the Gichigamiin Indigenous Nations Museum",
+        "url": "https://gichigamiin-museum.org/wp-content/uploads/2024/11/MMAI-GINM-Rebranding-Announcement-Press-Release_FINAL-.pdf",
+        "publisher": "Gichigamiin Indigenous Nations Museum",
+        "type": "Museum announcement",
+        "topics": [
+          "Gichigamiin Indigenous Nations Museum",
+          "Illinois"
+        ],
+        "annotation": "The museum's November 2024 announcement of the new name and the name it previously used.",
+        "contentReviewScope": "The museum's November 2024 announcement of the new name and the name it previously used.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "The Evanston museum",
+        "text": "The institution previously used the name Mitchell Museum of the American Indian. Its current website describes exhibits and a teaching garden.",
+        "sourceIds": [
+          "s-il-gichigamiin-home-20261121",
+          "s-il-gichigamiin-name-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://gichigamiin-museum.org/",
+        "title": "Gichigamiin Indigenous Nations Museum",
+        "publisher": "Gichigamiin Indigenous Nations Museum",
+        "scope": "The museum identifies its Evanston location and traces its current name to its 2024 announcement.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Mitchell Museum of the American Indian"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "gichigamiin-indigenous-nations-museum",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
     "name": "Gila River Indian Community of the Gila River Indian Reservation, Arizona",
     "originalId": null,
     "added": true,
@@ -52342,6 +52788,101 @@
         "id": "US-MI",
         "name": "Michigan",
         "key": "us-mi"
+      }
+    ]
+  },
+  {
+    "name": "Grand Village of the Kaskaskia",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Kaskaskia Illinois village",
+    "region": "Illinois River near present-day Utica, Illinois",
+    "overview": "The Grand Village of the Kaskaskia was an Illinois River settlement. The Illinois State Museum identifies the Zimmerman archaeological site as its probable location.",
+    "overviewSourceIds": [
+      "s-il-grand-village-zimmerman-20261121",
+      "s-il-grand-village-historic-site-20261121"
+    ],
+    "relationshipNote": "The state museum places the former Kaskaskia village at the probable Zimmerman site in La Salle County, Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-grand-village-zimmerman-20261121",
+        "title": "Zimmerman Site",
+        "url": "https://www.museum.state.il.us/muslink/nat_amer/post/htmls/arch_zim.html",
+        "publisher": "Illinois State Museum",
+        "type": "State museum archaeological interpretation",
+        "topics": [
+          "Grand Village of the Kaskaskia",
+          "Illinois"
+        ],
+        "annotation": "The probable site of the Grand Village of the Kaskaskia in La Salle County, Illinois.",
+        "contentReviewScope": "The probable site of the Grand Village of the Kaskaskia in La Salle County, Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-grand-village-historic-site-20261121",
+        "title": "Grand Village of the Illinois",
+        "url": "https://dnrhistoric.illinois.gov/experience/sites/site.grand-village-of-the-illinois.html",
+        "publisher": "Illinois Department of Natural Resources",
+        "type": "State historic site interpretation",
+        "topics": [
+          "Grand Village of the Kaskaskia",
+          "Illinois"
+        ],
+        "annotation": "The historic village identification and its Illinois River setting.",
+        "contentReviewScope": "The historic village identification and its Illinois River setting.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A village in the Illinois River valley",
+        "text": "The state preserves the area under the name Grand Village of the Illinois. The museum explains that the same archaeological site also contains evidence of earlier occupations.",
+        "sourceIds": [
+          "s-il-grand-village-zimmerman-20261121",
+          "s-il-grand-village-historic-site-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://www.museum.state.il.us/muslink/nat_amer/post/htmls/arch_zim.html",
+        "title": "Zimmerman Site",
+        "publisher": "Illinois State Museum",
+        "scope": "The state museum places the former Kaskaskia village at the probable Zimmerman site in La Salle County, Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Grand Village of the Illinois"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "illinois-illiniwek"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "grand-village-of-the-kaskaskia",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -56217,6 +56758,99 @@
     "slug": "hill-springs",
     "regionGroups": [],
     "mapRegions": []
+  },
+  {
+    "name": "Historic Cahokia Village",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Cahokia and Tamaroa village",
+    "region": "Cahokia area, St. Clair County, Illinois",
+    "overview": "The Illinois State Museum describes historic Cahokia as a settlement inhabited by Cahokia and Tamaroa people along the Mississippi River in southwestern Illinois.",
+    "overviewSourceIds": [
+      "s-il-historic-cahokia-il-museum-20261121",
+      "s-il-historic-cahokia-nps-20261121"
+    ],
+    "relationshipNote": "The Illinois State Museum identifies the Cahokia and Tamaroa community at historic Cahokia, Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-historic-cahokia-il-museum-20261121",
+        "title": "Cahokia",
+        "url": "https://museum.state.il.us/exhibits/lewis_clark_il/htmls/il_country_exp/places/cahokia.html",
+        "publisher": "Illinois State Museum",
+        "type": "State museum historical interpretation",
+        "topics": [
+          "Historic Cahokia Village",
+          "Illinois"
+        ],
+        "annotation": "The historic village inhabited by Cahokia and Tamaroa people and its later colonial-era setting.",
+        "contentReviewScope": "The historic village inhabited by Cahokia and Tamaroa people and its later colonial-era setting.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-historic-cahokia-nps-20261121",
+        "title": "Old Cahokia Courthouse",
+        "url": "https://www.nps.gov/places/old-cahokia-courthouse.htm",
+        "publisher": "National Park Service",
+        "type": "Federal historic place interpretation",
+        "topics": [
+          "Historic Cahokia Village",
+          "Illinois"
+        ],
+        "annotation": "The documented village of Cahokia during the period of the Lewis and Clark expedition.",
+        "contentReviewScope": "The documented village of Cahokia during the period of the Lewis and Clark expedition.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "The village in the colonial era",
+        "text": "The museum describes a French mission established near the Native community in the late seventeenth century. The National Park Service documents the later village during the Lewis and Clark expedition.",
+        "sourceIds": [
+          "s-il-historic-cahokia-il-museum-20261121",
+          "s-il-historic-cahokia-nps-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://museum.state.il.us/exhibits/lewis_clark_il/htmls/il_country_exp/places/cahokia.html",
+        "title": "Cahokia",
+        "publisher": "Illinois State Museum",
+        "scope": "The Illinois State Museum identifies the Cahokia and Tamaroa community at historic Cahokia, Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "illinois-illiniwek"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "historic-cahokia-village",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
   },
   {
     "originalId": 128,
@@ -67035,6 +67669,81 @@
     ]
   },
   {
+    "name": "Kennekuk’s Kickapoo Village",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Kickapoo village",
+    "region": "Middle Fork and Salt Fork confluence, Vermilion County, Illinois",
+    "overview": "Illinois park history places a Kickapoo village where the Middle Fork and Salt Fork meet in present-day Vermilion County. Kennekuk lived there.",
+    "overviewSourceIds": [
+      "s-il-kennekuk-kickapoo-illinois-20261121"
+    ],
+    "relationshipNote": "Illinois Department of Natural Resources identifies this Kickapoo village at the confluence of the Middle Fork and Salt Fork in Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-kennekuk-kickapoo-illinois-20261121",
+        "title": "Kickapoo State Recreation Area",
+        "url": "https://dnr.illinois.gov/parks/about/park.kickapoo.html",
+        "publisher": "Illinois Department of Natural Resources",
+        "type": "State park history",
+        "topics": [
+          "Kennekuk’s Kickapoo Village",
+          "Illinois"
+        ],
+        "annotation": "The documented Kickapoo village at the confluence of the Middle Fork and Salt Fork, where Kennekuk lived.",
+        "contentReviewScope": "The documented Kickapoo village at the confluence of the Middle Fork and Salt Fork, where Kennekuk lived.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A Kickapoo village at the river confluence",
+        "text": "The park history identifies Kennekuk as a resident and religious leader. The two river forks give a documented regional setting for the village.",
+        "sourceIds": [
+          "s-il-kennekuk-kickapoo-illinois-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://dnr.illinois.gov/parks/about/park.kickapoo.html",
+        "title": "Kickapoo State Recreation Area",
+        "publisher": "Illinois Department of Natural Resources",
+        "scope": "Illinois Department of Natural Resources identifies this Kickapoo village at the confluence of the Middle Fork and Salt Fork in Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "kickapoo"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "kennekuks-kickapoo-village",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
     "name": "Keres",
     "region": "New Mexico",
     "kind": "Language-linked grouping",
@@ -68417,6 +69126,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
+      {
         "id": "US-KS",
         "name": "Kansas",
         "key": "us-ks"
@@ -68869,6 +69583,97 @@
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
+      }
+    ]
+  },
+  {
+    "name": "Kincaid Mounds",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Mississippian town",
+    "region": "Ohio River floodplain in southern Illinois",
+    "overview": "Kincaid Mounds preserves part of a Mississippian town in southern Illinois, including mounds and an associated village area.",
+    "overviewSourceIds": [
+      "s-il-kincaid-mounds-dnr-20261121",
+      "s-il-kincaid-mounds-history-20261121"
+    ],
+    "relationshipNote": "Illinois historic site interpretation identifies the remains of the Mississippian settlement at Kincaid Mounds.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-kincaid-mounds-dnr-20261121",
+        "title": "Kincaid Mounds",
+        "url": "https://dnrhistoric.illinois.gov/experience/sites/site.kincaid-mounds.html",
+        "publisher": "Illinois Department of Natural Resources",
+        "type": "State historic site interpretation",
+        "topics": [
+          "Kincaid Mounds",
+          "Illinois"
+        ],
+        "annotation": "The Mississippian town and its village area in southern Illinois.",
+        "contentReviewScope": "The Mississippian town and its village area in southern Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-kincaid-mounds-history-20261121",
+        "title": "History",
+        "url": "https://www.kincaidmounds.com/history/",
+        "publisher": "Kincaid Mounds Support Organization",
+        "type": "Site history",
+        "topics": [
+          "Kincaid Mounds",
+          "Illinois"
+        ],
+        "annotation": "The history of successive settlements and the site's Mississippian phase.",
+        "contentReviewScope": "The history of successive settlements and the site's Mississippian phase.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A southern Illinois settlement",
+        "text": "The state identifies the preserved village area and describes Kincaid’s possible trade connections. The site history also describes settlement in the area before the Mississippian town.",
+        "sourceIds": [
+          "s-il-kincaid-mounds-dnr-20261121",
+          "s-il-kincaid-mounds-history-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://dnrhistoric.illinois.gov/experience/sites/site.kincaid-mounds.html",
+        "title": "Kincaid Mounds",
+        "publisher": "Illinois Department of Natural Resources",
+        "scope": "Illinois historic site interpretation identifies the remains of the Mississippian settlement at Kincaid Mounds.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "kincaid-mounds",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -85156,6 +85961,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
+      {
         "id": "US-IA",
         "name": "Iowa",
         "key": "us-ia"
@@ -86342,6 +87152,115 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Midwest SOARRING Foundation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native cultural and community education organization",
+    "region": "Lockport, Illinois",
+    "overview": "Midwest SOARRING Foundation is a Native community education organization with a cultural center in Lockport, Illinois.",
+    "overviewSourceIds": [
+      "s-il-midwest-soarring-home-20261121",
+      "s-il-midwest-soarring-calendar-20261121",
+      "s-il-midwest-soarring-lockport-record-20261121"
+    ],
+    "relationshipNote": "The Foundation’s own website identifies its Lockport cultural center and its Indigenous education and community-building work.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-midwest-soarring-home-20261121",
+        "title": "Midwest SOARRING Foundation",
+        "url": "https://www.midwestsoarring.org/",
+        "publisher": "Midwest SOARRING Foundation",
+        "type": "Community organization website",
+        "topics": [
+          "Midwest SOARRING Foundation",
+          "Illinois"
+        ],
+        "annotation": "The Foundation’s mission, Native community education work, and Lockport cultural center location.",
+        "contentReviewScope": "The Foundation’s mission, Native community education work, and Lockport cultural center location.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-midwest-soarring-calendar-20261121",
+        "title": "Calendar",
+        "url": "https://www.midwestsoarring.org/calendar.html",
+        "publisher": "Midwest SOARRING Foundation",
+        "type": "Community programming",
+        "topics": [
+          "Midwest SOARRING Foundation",
+          "Illinois"
+        ],
+        "annotation": "Program examples in arts and community education at the Foundation’s Lockport center.",
+        "contentReviewScope": "Program examples in arts and community education at the Foundation’s Lockport center.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-midwest-soarring-lockport-record-20261121",
+        "title": "Extension of the License Agreement with Midwest SOARRING Foundation",
+        "url": "https://d2kbkoa27fdvtw.cloudfront.net/lockport/2d2ded23418ecb2b35a0a89a46a2b1850.pdf",
+        "publisher": "City of Lockport",
+        "type": "Municipal meeting record",
+        "topics": [
+          "Midwest SOARRING Foundation",
+          "Illinois"
+        ],
+        "annotation": "The recorded use of part of the historic Lockport train station by the Foundation during the period described.",
+        "contentReviewScope": "The recorded use of part of the historic Lockport train station by the Foundation during the period described.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A community space in Lockport",
+        "text": "The Foundation documents traditions-based arts programs and public gatherings. A city record describes its use of space in the historic Lockport train station.",
+        "sourceIds": [
+          "s-il-midwest-soarring-home-20261121",
+          "s-il-midwest-soarring-calendar-20261121",
+          "s-il-midwest-soarring-lockport-record-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://www.midwestsoarring.org/",
+        "title": "Midwest SOARRING Foundation",
+        "publisher": "Midwest SOARRING Foundation",
+        "scope": "The Foundation’s own website identifies its Lockport cultural center and its Indigenous education and community-building work.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "midwest-soarring-foundation",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -92847,6 +93766,192 @@
     ]
   },
   {
+    "name": "Native American and Indigenous Student Alliance (Northwestern University)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native and Indigenous student organization",
+    "region": "Evanston, Illinois",
+    "overview": "Northwestern’s Native American and Indigenous Student Alliance brings students together and organizes community cultural events in Evanston.",
+    "overviewSourceIds": [
+      "s-il-northwestern-naisa-pow-wow-20261121",
+      "s-il-northwestern-naisa-2026-pow-wow-20261121"
+    ],
+    "relationshipNote": "Northwestern documents the named student alliance and its campus powwow in Evanston, Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-northwestern-naisa-pow-wow-20261121",
+        "title": "NAISA Pow Wow",
+        "url": "https://cnair.northwestern.edu/our-community/naisa-pow-wow/",
+        "publisher": "Northwestern University, Center for Native American and Indigenous Research",
+        "type": "University program website",
+        "topics": [
+          "Native American and Indigenous Student Alliance (Northwestern University)",
+          "Illinois"
+        ],
+        "annotation": "The Alliance name and record of student organization of the Northwestern Pow Wow.",
+        "contentReviewScope": "The Alliance name and record of student organization of the Northwestern Pow Wow.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-northwestern-naisa-2026-pow-wow-20261121",
+        "title": "Things to do at NU: April 22 to 28",
+        "url": "https://news.northwestern.edu/stories/2026/4/things-to-do-at-nu-april-22-to-28",
+        "publisher": "Northwestern Now",
+        "type": "University reporting",
+        "topics": [
+          "Native American and Indigenous Student Alliance (Northwestern University)",
+          "Illinois"
+        ],
+        "annotation": "Documentation of the Alliance’s spring 2026 event in Evanston, Illinois.",
+        "contentReviewScope": "Documentation of the Alliance’s spring 2026 event in Evanston, Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A student-organized gathering",
+        "text": "Northwestern records the Alliance’s first campus powwow in 2022 and documents its spring 2026 gathering in Evanston.",
+        "sourceIds": [
+          "s-il-northwestern-naisa-pow-wow-20261121",
+          "s-il-northwestern-naisa-2026-pow-wow-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://cnair.northwestern.edu/our-community/naisa-pow-wow/",
+        "title": "NAISA Pow Wow",
+        "publisher": "Northwestern University, Center for Native American and Indigenous Research",
+        "scope": "Northwestern documents the named student alliance and its campus powwow in Evanston, Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Northwestern NAISA"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "native-american-and-indigenous-student-alliance-northwestern-university",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
+    "name": "Native American Chamber of Commerce of Illinois",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native business and professional organization",
+    "region": "Illinois",
+    "overview": "The Native American Chamber of Commerce of Illinois supports Native entrepreneurs through business education, mentoring, and networking.",
+    "overviewSourceIds": [
+      "s-il-nacc-il-services-20261121",
+      "s-il-nacc-il-caicc-20261121"
+    ],
+    "relationshipNote": "The Chamber identifies its Illinois scope and its business support work for Native people.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-nacc-il-services-20261121",
+        "title": "What We Do",
+        "url": "https://www.nacc-il.org/what-we-do",
+        "publisher": "Native American Chamber of Commerce of Illinois",
+        "type": "Community organization website",
+        "topics": [
+          "Native American Chamber of Commerce of Illinois",
+          "Illinois"
+        ],
+        "annotation": "The Chamber’s account of business education, mentoring, and related support in Illinois.",
+        "contentReviewScope": "The Chamber’s account of business education, mentoring, and related support in Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-nacc-il-caicc-20261121",
+        "title": "Native American Chamber of Commerce of Illinois",
+        "url": "https://chicagoaicc.com/organization/native-american-chamber-of-commerce-of-illinois/",
+        "publisher": "Chicago American Indian Community Collaborative",
+        "type": "Community organization description",
+        "topics": [
+          "Native American Chamber of Commerce of Illinois",
+          "Illinois"
+        ],
+        "annotation": "The Chamber’s member description of networking and support for Native entrepreneurs in Illinois.",
+        "contentReviewScope": "The Chamber’s member description of networking and support for Native entrepreneurs in Illinois.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Business education and mentoring",
+        "text": "The Chamber describes work with people starting or growing businesses in Illinois and opportunities to connect with other Native business owners.",
+        "sourceIds": [
+          "s-il-nacc-il-services-20261121",
+          "s-il-nacc-il-caicc-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nacc-il.org/what-we-do",
+        "title": "What We Do",
+        "publisher": "Native American Chamber of Commerce of Illinois",
+        "scope": "The Chamber identifies its Illinois scope and its business support work for Native people.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "NACC-IL"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "native-american-chamber-of-commerce-of-illinois",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
     "name": "Native American Educational and Cultural Center (Purdue University)",
     "originalId": null,
     "added": true,
@@ -92919,6 +94024,99 @@
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
+      }
+    ]
+  },
+  {
+    "name": "Native American House at the University of Illinois",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "University Native student and community center",
+    "region": "Urbana, Illinois",
+    "overview": "Native American House supports Native students and community engagement at the University of Illinois Urbana-Champaign.",
+    "overviewSourceIds": [
+      "s-il-native-american-house-urbana-20261121",
+      "s-il-native-american-house-mission-20261121"
+    ],
+    "relationshipNote": "The University identifies Native American House as a campus center located in Urbana, Illinois.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-native-american-house-urbana-20261121",
+        "title": "Our House",
+        "url": "https://nah.illinois.edu/about/house",
+        "publisher": "University of Illinois Urbana-Champaign, Native American House",
+        "type": "University community program website",
+        "topics": [
+          "Native American House at the University of Illinois",
+          "Illinois"
+        ],
+        "annotation": "The Native American House name, its Urbana address, and campus resources.",
+        "contentReviewScope": "The Native American House name, its Urbana address, and campus resources.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-native-american-house-mission-20261121",
+        "title": "Mission",
+        "url": "https://nah2022.web.illinois.edu/about/mission",
+        "publisher": "University of Illinois Urbana-Champaign, Native American House",
+        "type": "University program description",
+        "topics": [
+          "Native American House at the University of Illinois",
+          "Illinois"
+        ],
+        "annotation": "The House’s mission for student belonging, support, and community engagement.",
+        "contentReviewScope": "The House’s mission for student belonging, support, and community engagement.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Support and community space",
+        "text": "The House describes a campus gathering space and work around student belonging, academic support, and advocacy.",
+        "sourceIds": [
+          "s-il-native-american-house-urbana-20261121",
+          "s-il-native-american-house-mission-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://nah.illinois.edu/about/house",
+        "title": "Our House",
+        "publisher": "University of Illinois Urbana-Champaign, Native American House",
+        "scope": "The University identifies Native American House as a campus center located in Urbana, Illinois.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Native American House (University of Illinois Urbana-Champaign)"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "native-american-house-at-the-university-of-illinois",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -93190,6 +94388,97 @@
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
+      }
+    ]
+  },
+  {
+    "name": "Native American Support Program at the University of Illinois Chicago",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "University Native student support program",
+    "region": "Chicago, Illinois",
+    "overview": "The Native American Support Program at the University of Illinois Chicago connects students to campus support and the broader Chicago Native community.",
+    "overviewSourceIds": [
+      "s-il-uic-native-american-support-legacy-20261121",
+      "s-il-uic-nasp-resources-20261121"
+    ],
+    "relationshipNote": "UIC documents the program’s Chicago-campus setting and its work with Native students and community partners.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-uic-native-american-support-legacy-20261121",
+        "title": "UIC Native American Support Program marks 55-year legacy",
+        "url": "https://today.uic.edu/uic-native-american-support-program-celebrates-55%E2%80%91year-legacy/",
+        "publisher": "University of Illinois Chicago",
+        "type": "University reporting",
+        "topics": [
+          "Native American Support Program at the University of Illinois Chicago",
+          "Illinois"
+        ],
+        "annotation": "UIC's account of the program’s student support, community programming, and partnerships.",
+        "contentReviewScope": "UIC's account of the program’s student support, community programming, and partnerships.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-uic-nasp-resources-20261121",
+        "title": "UIC and Community Resources",
+        "url": "https://nasp.uic.edu/resources/uic-and-community-resources/",
+        "publisher": "University of Illinois Chicago, Native American Support Program",
+        "type": "University program website",
+        "topics": [
+          "Native American Support Program at the University of Illinois Chicago",
+          "Illinois"
+        ],
+        "annotation": "The program’s campus and Chicago community resource directory.",
+        "contentReviewScope": "The program’s campus and Chicago community resource directory.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Student support and community connections",
+        "text": "UIC describes a long-running support program and publishes resources for students and Chicago community connections.",
+        "sourceIds": [
+          "s-il-uic-native-american-support-legacy-20261121",
+          "s-il-uic-nasp-resources-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://today.uic.edu/uic-native-american-support-program-celebrates-55%E2%80%91year-legacy/",
+        "title": "UIC Native American Support Program marks 55-year legacy",
+        "publisher": "University of Illinois Chicago",
+        "scope": "UIC documents the program’s Chicago-campus setting and its work with Native students and community partners.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "native-american-support-program-at-the-university-of-illinois-chicago",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -113100,6 +114389,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
+      {
         "id": "US-IA",
         "name": "Iowa",
         "key": "us-ia"
@@ -117407,6 +118701,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
+      {
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
@@ -118520,6 +119819,11 @@
       "Great Plains"
     ],
     "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
       {
         "id": "US-IA",
         "name": "Iowa",
@@ -122880,6 +124184,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      },
+      {
         "id": "US-OK",
         "name": "Oklahoma",
         "key": "us-ok"
@@ -123442,6 +124751,99 @@
         "id": "US-MI",
         "name": "Michigan",
         "key": "us-mi"
+      }
+    ]
+  },
+  {
+    "name": "Saint Kateri Center of Chicago",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native American Catholic community ministry",
+    "region": "Chicago, Illinois",
+    "overview": "The Saint Kateri Center of Chicago is a Catholic ministry serving Native American Catholics through community gatherings and faith formation.",
+    "overviewSourceIds": [
+      "s-il-saint-kateri-home-20261121",
+      "s-il-saint-kateri-benedict-20261121"
+    ],
+    "relationshipNote": "The Center identifies itself as a Native American Catholic community ministry in the Archdiocese of Chicago.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-saint-kateri-home-20261121",
+        "title": "Saint Kateri Center of Chicago",
+        "url": "https://www.stkatericenterchicago.org/",
+        "publisher": "Saint Kateri Center of Chicago",
+        "type": "Community ministry website",
+        "topics": [
+          "Saint Kateri Center of Chicago",
+          "Illinois"
+        ],
+        "annotation": "The Center’s self-description as a Chicago ministry serving Native American Catholics.",
+        "contentReviewScope": "The Center’s self-description as a Chicago ministry serving Native American Catholics.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-saint-kateri-benedict-20261121",
+        "title": "A Prayer Service for Repentance and Healing",
+        "url": "https://parish.stbenedict.com/parish-news-blog/2021/7/15/1imjyabw6d88w9du2xy7g04rndxl4m-ll9nm",
+        "publisher": "St. Benedict Parish",
+        "type": "Parish event record",
+        "topics": [
+          "Saint Kateri Center of Chicago",
+          "Illinois"
+        ],
+        "annotation": "The parish’s August 2021 account of a jointly organized gathering and the Chicago venue.",
+        "contentReviewScope": "The parish’s August 2021 account of a jointly organized gathering and the Chicago venue.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ministry and community gathering",
+        "text": "The Center describes its work through faith formation and traditional prayer. St. Benedict Parish documents a Chicago gathering organized with the Center in 2021.",
+        "sourceIds": [
+          "s-il-saint-kateri-home-20261121",
+          "s-il-saint-kateri-benedict-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://www.stkatericenterchicago.org/",
+        "title": "Saint Kateri Center of Chicago",
+        "publisher": "Saint Kateri Center of Chicago",
+        "scope": "The Center identifies itself as a Native American Catholic community ministry in the Archdiocese of Chicago.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "St. Kateri Center of Chicago"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "saint-kateri-center-of-chicago",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -126105,6 +127507,99 @@
         "id": "US-VA",
         "name": "Virginia",
         "key": "us-va"
+      }
+    ]
+  },
+  {
+    "name": "Saukenuk",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Sauk town",
+    "region": "Rock River at present-day Rock Island, Illinois",
+    "overview": "Saukenuk was a Sauk town near the mouth of the Rock River at present-day Rock Island, Illinois.",
+    "overviewSourceIds": [
+      "s-il-saukenuk-black-hawk-site-20261121",
+      "s-il-saukenuk-sac-fox-news-20261121"
+    ],
+    "relationshipNote": "Illinois historic site interpretation identifies the town of Saukenuk at present-day Rock Island.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-saukenuk-black-hawk-site-20261121",
+        "title": "Black Hawk",
+        "url": "https://dnrhistoric.illinois.gov/experience/sites/site.black-hawk.html",
+        "publisher": "Illinois Department of Natural Resources",
+        "type": "State historic site interpretation",
+        "topics": [
+          "Saukenuk",
+          "Illinois"
+        ],
+        "annotation": "The identification of Saukenuk as a Sauk city at present-day Rock Island.",
+        "contentReviewScope": "The identification of Saukenuk as a Sauk city at present-day Rock Island.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-saukenuk-sac-fox-news-20261121",
+        "title": "Sac and Fox News, September 2023",
+        "url": "https://www.sacandfoxnation-nsn.gov/wp-content/uploads/2023/08/september-web-final-1.pdf",
+        "publisher": "Sac and Fox Nation",
+        "type": "Tribal newspaper",
+        "topics": [
+          "Saukenuk",
+          "Illinois"
+        ],
+        "annotation": "The account placing Saukenuk near the mouth of the Rock River at present-day Rock Island.",
+        "contentReviewScope": "The account placing Saukenuk near the mouth of the Rock River at present-day Rock Island.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A Sauk town on the Rock River",
+        "text": "The Sac and Fox Nation’s newspaper places Saukenuk near the river’s mouth and identifies it as the home community of Black Sparrow Hawk.",
+        "sourceIds": [
+          "s-il-saukenuk-black-hawk-site-20261121",
+          "s-il-saukenuk-sac-fox-news-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://dnrhistoric.illinois.gov/experience/sites/site.black-hawk.html",
+        "title": "Black Hawk",
+        "publisher": "Illinois Department of Natural Resources",
+        "scope": "Illinois historic site interpretation identifies the town of Saukenuk at present-day Rock Island.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "sac-sauk"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "saukenuk",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
@@ -142904,6 +144399,172 @@
         "id": "US-NC",
         "name": "North Carolina",
         "key": "us-nc"
+      }
+    ]
+  },
+  {
+    "name": "TRIBE at Illinois State University",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Indigenous student and allies organization",
+    "region": "Normal, Illinois",
+    "overview": "Illinois State University documents TRIBE as a campus organization for Indigenous students and allies in Normal, Illinois.",
+    "overviewSourceIds": [
+      "s-il-illinois-state-tribe-20261121"
+    ],
+    "relationshipNote": "The university lists its student group TRIBE under Native American Studies at Illinois State University.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-illinois-state-tribe-20261121",
+        "title": "Native American Students at ISU",
+        "url": "https://about.illinoisstate.edu/nativestudies/native-american-students-at-isu/",
+        "publisher": "Illinois State University, Native American Studies",
+        "type": "University student organization listing",
+        "topics": [
+          "TRIBE at Illinois State University",
+          "Illinois"
+        ],
+        "annotation": "Illinois State's listing of TRIBE, its full name, and its student activity in Normal.",
+        "contentReviewScope": "Illinois State's listing of TRIBE, its full name, and its student activity in Normal.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Indigenous student organizing",
+        "text": "The university gives TRIBE’s full name as Teaching, Reviving, Indigenizing, Beautifying, and Equalizing. Its account describes work to share Indigenous cultures and perspectives on campus.",
+        "sourceIds": [
+          "s-il-illinois-state-tribe-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://about.illinoisstate.edu/nativestudies/native-american-students-at-isu/",
+        "title": "Native American Students at ISU",
+        "publisher": "Illinois State University, Native American Studies",
+        "scope": "The university lists its student group TRIBE under Native American Studies at Illinois State University.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [
+      "Teaching, Reviving, Indigenizing, Beautifying, and Equalizing Illinois State University Chapter"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "tribe-at-illinois-state-university",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
+      }
+    ]
+  },
+  {
+    "name": "Trickster Cultural Center",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native-led cultural arts center",
+    "region": "Schaumburg, Illinois",
+    "overview": "Trickster Cultural Center is a Native-led cultural arts center in Schaumburg, Illinois, with gallery, education, and community programs.",
+    "overviewSourceIds": [
+      "s-il-trickster-caicc-20261121",
+      "s-il-trickster-visit-20261121"
+    ],
+    "relationshipNote": "The Collaborative’s member description identifies Trickster Cultural Center as a Native-led center in Schaumburg.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-il-trickster-caicc-20261121",
+        "title": "Trickster Cultural Center",
+        "url": "https://chicagoaicc.com/organization/trickster-cultural-center/",
+        "publisher": "Chicago American Indian Community Collaborative",
+        "type": "Community organization description",
+        "topics": [
+          "Trickster Cultural Center",
+          "Illinois"
+        ],
+        "annotation": "The Center’s member description of Native-led cultural arts and education in Schaumburg.",
+        "contentReviewScope": "The Center’s member description of Native-led cultural arts and education in Schaumburg.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-il-trickster-visit-20261121",
+        "title": "Visit Us",
+        "url": "https://tricksterculturalcenter.org/visit-us",
+        "publisher": "Trickster Cultural Center",
+        "type": "Community venue website",
+        "topics": [
+          "Trickster Cultural Center",
+          "Illinois"
+        ],
+        "annotation": "The Center’s location and description of its Schaumburg galleries and learning spaces.",
+        "contentReviewScope": "The Center’s location and description of its Schaumburg galleries and learning spaces.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Art and education in Schaumburg",
+        "text": "The Center describes its permanent gallery spaces and learning center, with programs around contemporary Native art and education.",
+        "sourceIds": [
+          "s-il-trickster-caicc-20261121",
+          "s-il-trickster-visit-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://chicagoaicc.com/organization/trickster-cultural-center/",
+        "title": "Trickster Cultural Center",
+        "publisher": "Chicago American Indian Community Collaborative",
+        "scope": "The Collaborative’s member description identifies Trickster Cultural Center as a Native-led center in Schaumburg.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "trickster-cultural-center",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IL",
+        "name": "Illinois",
+        "key": "us-il"
       }
     ]
   },
