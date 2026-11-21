@@ -3,11 +3,11 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 396,
+    "selectedProfiles": 400,
     "existingApache": 1,
-    "newProfileTreatments": 395,
-    "newTreatmentsWithPhotographs": 394,
-    "decorativeTreatmentsAwaitingPhotographs": 1,
+    "newProfileTreatments": 399,
+    "newTreatmentsWithPhotographs": 399,
+    "decorativeTreatmentsAwaitingPhotographs": 0,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -764,14 +764,60 @@
       "hue": 193,
       "angle": 24,
       "composition": "arc",
-      "images": [],
+      "images": [
+        {
+          "creator": "European Union Copernicus Sentinel-2 mission",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "id": "akateko-san-miguel-acatan-satellite",
+          "title": "Highlands around San Miguel Acatán, Huehuetenango",
+          "alt": "A satellite view of forested ridges and winding roads with San Miguel Acatán near the eastern edge.",
+          "date": "February 25, 2026",
+          "scope": "The municipal sociolinguistic report documents the Akateko language connection to San Miguel Acatán. This true-color satellite view shows the town and nearby highlands. The Atlas cropped the scene and saved it as a JPEG.",
+          "contextSources": [
+            {
+              "title": "San Miguel Acatán municipal sociolinguistic report",
+              "url": "https://www.munisanmiguelacatan.laip.gt/index.php/files/980/28-PERTENENCIA-SOCIOLINGUISTICA/1BIl5Ee-nOOQc0m2lbI_jc20AB-u3yGpz/28A042023-Pertenencia-sociolingueistica-abr-2023.pdf"
+            },
+            {
+              "title": "Toponimias Maya Akateka",
+              "url": "https://almg.org.gt/wp-content/uploads/2025/09/TOPONIMIA-ACTUALIZADA.pdf"
+            }
+          ],
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_15PXT_20260225_0_L2A",
+          "profileSlugs": [
+            "akateko"
+          ],
+          "asset": "assets/profile-visuals/akateko-san-miguel-acatan-satellite.jpg",
+          "cardAsset": "assets/profile-visuals/akateko-san-miguel-acatan-satellite.jpg",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/15/P/XT/2026/2/S2B_15PXT_20260225_0_L2A/TCI.tif",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Contains modified Copernicus Sentinel data 2026",
+          "derivatives": {
+            "asset": {
+              "width": 480,
+              "height": 340,
+              "bytes": 58389,
+              "sha256": "1b289274b200903ddcede0855a70cd6a33b1f945439157094a87a86922db6e64"
+            },
+            "cardAsset": {
+              "width": 480,
+              "height": 340,
+              "bytes": 58389,
+              "sha256": "1b289274b200903ddcede0855a70cd6a33b1f945439157094a87a86922db6e64"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Explicit initial-adequacy assessment",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:193;--profile-angle:24deg;--profile-photo:none",
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:193;--profile-angle:24deg;--profile-photo:url(\"../../assets/profile-visuals/akateko-san-miguel-acatan-satellite.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -9971,6 +10017,75 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "ixcateco",
+      "name": "Ixcateco",
+      "originalId": 147,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 73,
+      "angle": -41,
+      "composition": "ribbon",
+      "images": [
+        {
+          "creator": "European Union Copernicus Sentinel-2 mission",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "id": "ixcateco-santa-maria-ixcatlan-satellite",
+          "title": "Santa María Ixcatlán, Oaxaca, from above",
+          "alt": "A satellite view of the streets and rooftops of Santa María Ixcatlán on a wooded plateau.",
+          "date": "February 16, 2026",
+          "scope": "The Instituto Nacional de los Pueblos Indígenas identifies Santa María Ixcatlán with the Ixcateco language. This true-color satellite view shows the town and its setting. The Atlas cropped the scene and saved it as a JPEG.",
+          "contextSources": [
+            {
+              "title": "INPI catalog entry for Ixcateco",
+              "url": "https://catalogo.inpi.gob.mx/ixcateco/"
+            },
+            {
+              "title": "INEGI statistical and geographic yearbook for Oaxaca",
+              "url": "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/anuarios_2017/702825094843.pdf"
+            }
+          ],
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_14QPE_20260216_0_L2A",
+          "profileSlugs": [
+            "ixcateco"
+          ],
+          "asset": "assets/profile-visuals/ixcateco-santa-maria-ixcatlan-satellite.jpg",
+          "cardAsset": "assets/profile-visuals/ixcateco-santa-maria-ixcatlan-satellite.jpg",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/14/Q/PE/2026/2/S2C_14QPE_20260216_0_L2A/TCI.tif",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Contains modified Copernicus Sentinel data 2026",
+          "derivatives": {
+            "asset": {
+              "width": 400,
+              "height": 290,
+              "bytes": 49899,
+              "sha256": "5ea4eeb827a166ea46b144f5aff7eadae3e324f1fbc1ea606b25417e63e76e21"
+            },
+            "cardAsset": {
+              "width": 400,
+              "height": 290,
+              "bytes": 49899,
+              "sha256": "5ea4eeb827a166ea46b144f5aff7eadae3e324f1fbc1ea606b25417e63e76e21"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:73;--profile-angle:-41deg;--profile-photo:url(\"../../assets/profile-visuals/ixcateco-santa-maria-ixcatlan-satellite.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ixil",
       "name": "Ixil",
       "originalId": 148,
@@ -13615,6 +13730,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "matlatzinca",
+      "name": "Matlatzinca",
+      "originalId": 200,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 123,
+      "angle": 45,
+      "composition": "sweep",
+      "images": [
+        {
+          "creator": "European Union Copernicus Sentinel-2 mission",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "id": "matlatzinca-san-francisco-oxtotilpan-satellite",
+          "title": "San Francisco Oxtotilpan, State of Mexico, from above",
+          "alt": "A satellite view of roofs and fields in a forested valley at San Francisco Oxtotilpan.",
+          "date": "February 9, 2026",
+          "scope": "The Instituto Nacional de los Pueblos Indígenas identifies San Francisco Oxtotilpan as a Matlatzinca community. This true-color satellite view shows the town and its valley. The Atlas cropped the scene and saved it as a JPEG.",
+          "contextSources": [
+            {
+              "title": "INPI ethnography of the Matlatzinca people in the State of Mexico",
+              "url": "https://www.gob.mx/inpi/articulos/etnografia-del-pueblo-matlatzinca-del-estado-de-mexico?idiom=es"
+            }
+          ],
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_14QMG_20260209_0_L2A",
+          "profileSlugs": [
+            "matlatzinca"
+          ],
+          "asset": "assets/profile-visuals/matlatzinca-san-francisco-oxtotilpan-satellite.jpg",
+          "cardAsset": "assets/profile-visuals/matlatzinca-san-francisco-oxtotilpan-satellite.jpg",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/14/Q/MG/2026/2/S2C_14QMG_20260209_0_L2A/TCI.tif",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Contains modified Copernicus Sentinel data 2026",
+          "derivatives": {
+            "asset": {
+              "width": 420,
+              "height": 300,
+              "bytes": 46146,
+              "sha256": "23e69be43716927de6fa10b1b2841380611d0f0375f1edf4319033c6e73b596d"
+            },
+            "cardAsset": {
+              "width": 420,
+              "height": 300,
+              "bytes": 46146,
+              "sha256": "23e69be43716927de6fa10b1b2841380611d0f0375f1edf4319033c6e73b596d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:123;--profile-angle:45deg;--profile-photo:url(\"../../assets/profile-visuals/matlatzinca-san-francisco-oxtotilpan-satellite.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "mattaponi-indian-tribe",
@@ -18092,6 +18272,75 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "ofo",
+      "name": "Ofo",
+      "originalId": 262,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 309,
+      "angle": 48,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ofo-marksville-historic-district",
+          "title": "Marksville Historic District, Louisiana",
+          "alt": "Brick storefronts and balconies face an empty street in downtown Marksville.",
+          "creator": "Z28scrambler",
+          "credit": "Z28scrambler",
+          "date": "September 2, 2016",
+          "scope": "This modern streetscape gives geographic context for John R. Swanton’s Ofo language fieldwork near Marksville, which he described in 1909. The Atlas resized the original photograph and shares this copy under the same license.",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "contextSources": [
+            {
+              "title": "A New Siouan Dialect, John R. Swanton (1909)",
+              "url": "https://moodle.kubsu.ru/pluginfile.php/30021/mod_folder/content/0/Swanton%2C%20J.%20%281909%29%20A%20New%20Siouan%20Dialect.pdf?forcedownload=1"
+            },
+            {
+              "title": "Dictionary of the Biloxi and Ofo Languages, Smithsonian Institution",
+              "url": "https://repository.si.edu/items/53fff5fb-2248-4c0b-b2ed-53faa2cd0a6e/full"
+            }
+          ],
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marksville_District.jpg",
+          "profileSlugs": [
+            "ofo"
+          ],
+          "asset": "assets/profile-visuals/ofo-marksville-historic-district.jpg",
+          "cardAsset": "assets/profile-visuals/ofo-marksville-historic-district.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Marksville_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Z28scrambler",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 957,
+              "bytes": 302794,
+              "sha256": "171b73149a80124207ce86ce4b67612e099be9f60e0ce2ffef202ea0e22b71d9"
+            },
+            "cardAsset": {
+              "width": 1440,
+              "height": 957,
+              "bytes": 302794,
+              "sha256": "171b73149a80124207ce86ce4b67612e099be9f60e0ce2ffef202ea0e22b71d9"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:309;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/ofo-marksville-historic-district.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "oglala-sioux-tribe",
       "name": "Oglala Sioux Tribe",
       "originalId": null,
@@ -22463,6 +22712,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "sappony",
+      "name": "Sappony",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 143,
+      "angle": -23,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "sappony-high-plains-calvary-baptist-church",
+          "title": "Calvary Baptist Church in the High Plains, North Carolina",
+          "alt": "An aerial view of the roof, curved driveway and grounds of Calvary Baptist Church along High Plains Road.",
+          "creator": "USDA Farm Service Agency NAIP / USGS The National Map",
+          "credit": "USDA Farm Service Agency NAIP / USGS The National Map",
+          "date": "September 14, 2022",
+          "scope": "A Virginia Department of Historic Resources report documents Calvary Baptist Church in Person County as a place of worship significant to the Sappony community. The Atlas selected this aerial view from USDA National Agriculture Imagery Program data and saved it as a JPEG.",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "rightsUrl": "https://catalog.data.gov/dataset/national-agriculture-imagery-program-naip-imagery",
+          "contextSources": [
+            {
+              "title": "The High Plains Sappony of North Carolina and Virginia, Virginia Department of Historic Resources",
+              "url": "https://www.dhr.virginia.gov/wp-content/uploads/2019/11/HA-081_High_Plains_Sappony_NCVA_Christie_Indian_Settlement_2017_WM_report.pdf"
+            }
+          ],
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "profileSlugs": [
+            "sappony"
+          ],
+          "asset": "assets/profile-visuals/sappony-high-plains-calvary-baptist-church.jpg",
+          "cardAsset": "assets/profile-visuals/sappony-high-plains-calvary-baptist-church.jpg",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=691552.789%2C4045379.412%2C691792.789%2C4045559.412&bboxSR=26917&imageSR=26917&size=400%2C300&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B112554%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: USDA Farm Service Agency NAIP / USGS The National Map",
+          "derivatives": {
+            "asset": {
+              "width": 400,
+              "height": 300,
+              "bytes": 50524,
+              "sha256": "3fd13ecb344ac070b738f6dd737e7269a7da2015151577225c67b902b028098e"
+            },
+            "cardAsset": {
+              "width": 400,
+              "height": 300,
+              "bytes": 50524,
+              "sha256": "3fd13ecb344ac070b738f6dd737e7269a7da2015151577225c67b902b028098e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:143;--profile-angle:-23deg;--profile-photo:url(\"../../assets/profile-visuals/sappony-high-plains-calvary-baptist-church.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 2
     },
     {
       "slug": "sault-ste-marie-tribe-of-chippewa-indians",
