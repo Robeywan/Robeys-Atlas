@@ -3,18 +3,17 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 436,
+    "selectedProfiles": 441,
     "existingApache": 1,
-    "newProfileTreatments": 435,
-    "newTreatmentsWithPhotographs": 422,
-    "decorativeTreatmentsAwaitingPhotographs": 13,
+    "newProfileTreatments": 440,
+    "newTreatmentsWithPhotographs": 425,
+    "decorativeTreatmentsAwaitingPhotographs": 15,
     "autoEnrolledThisBuild": [
-      "ashkums-village",
-      "aubbeenaubbees-village",
-      "little-turtles-miami-village",
-      "meteas-village",
-      "native-american-student-association-indiana-university-bloomington",
-      "ouiatenon-wea-village"
+      "eel-river-miami",
+      "meshingomesia-reservation-community",
+      "munsee-town",
+      "naswaukees-village",
+      "potawatomi-trail-of-death-association"
     ]
   },
   "treatments": [
@@ -7387,6 +7386,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "eel-river-miami",
+      "name": "Eel River Miami",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 100,
+      "angle": -78,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:100;--profile-angle:-78deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "eklutna-native-village",
@@ -15364,6 +15386,71 @@
       "substantiveInspectedSources": 8
     },
     {
+      "slug": "meshingomesia-reservation-community",
+      "name": "Meshingomesia Reservation Community",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 93,
+      "angle": 26,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "meshingomesia-miami-schoolhouse",
+          "profileSlugs": [
+            "meshingomesia-reservation-community"
+          ],
+          "title": "Sign on the reassembled Miami Indian Village Schoolhouse",
+          "alt": "A wooden sign reading Miami Indian Village School, 1860–1898, mounted on the schoolhouse siding.",
+          "creator": "Missvain",
+          "credit": "Sarah Stierch",
+          "cardCredit": "Photo: Sarah Stierch",
+          "date": "March 18, 2010",
+          "mediaType": "photograph",
+          "scope": "The photograph shows the sign on the reassembled schoolhouse. The Atlas resized the photo for display under the photographer’s CC0 dedication.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami_Indian_School,_Grant_County,_Indiana_-_Stierch.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Miami_Indian_School%2C_Grant_County%2C_Indiana_-_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "rightsLabel": "CC0 1.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Miami Nation of Indians of the State of Indiana, Meshingomesia Schoolhouse",
+              "url": "https://www.miamiindianfoundation.org/meshingomesia-schoolhouse"
+            }
+          ],
+          "asset": "assets/profile-visuals/meshingomesia-miami-schoolhouse.jpg",
+          "cardAsset": "assets/profile-visuals/meshingomesia-miami-schoolhouse-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1024,
+              "height": 768,
+              "bytes": 199761,
+              "sha256": "838f5a7aa24759912b7554792e9fed2443ae01dd7403f596b730d739f474f560"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 81857,
+              "sha256": "991f6c70c995e89bc0c2b6cc34330f02c2ce948732e61644d12fa6834b99aeb9"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:93;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/meshingomesia-miami-schoolhouse.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "meteas-village",
       "name": "Metea’s Village",
       "originalId": null,
@@ -16876,6 +16963,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "munsee-town",
+      "name": "Munsee Town",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 177,
+      "angle": 22,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "munsee-town-white-river-bridge",
+          "profileSlugs": [
+            "munsee-town"
+          ],
+          "title": "The White River at the West Washington Street Bridge in Muncie",
+          "alt": "The arched West Washington Street Bridge over the White River in Muncie, seen from the riverbank.",
+          "creator": "Nyttend",
+          "credit": "Nyttend",
+          "cardCredit": "Photo: Nyttend",
+          "date": "January 7, 2012",
+          "mediaType": "photograph",
+          "scope": "The photograph shows the White River in present-day Muncie, the setting documented for Munsee Town. The Atlas resized the photo for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Washington_Street_Bridge_in_Muncie.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/West_Washington_Street_Bridge_in_Muncie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:West_Washington_Street_Bridge_in_Muncie.jpg#Licensing",
+          "rightsLabel": "Public domain (creator dedication)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "White River History, East Central Indiana",
+              "url": "https://whiterivereci.com/history/"
+            }
+          ],
+          "asset": "assets/profile-visuals/munsee-town-white-river-bridge.jpg",
+          "cardAsset": "assets/profile-visuals/munsee-town-white-river-bridge-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 322365,
+              "sha256": "0b20b4abf0119f131f7311a0c56fbac4164481b27ee8289aab69f392246321ae"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 58919,
+              "sha256": "f8a282e85d38d8bba1ede9e78d921a3142fc4339b80e3e13c7e636ce143e0153"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:177;--profile-angle:22deg;--profile-photo:url(\"../../assets/profile-visuals/munsee-town-white-river-bridge.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "muscogee-creek",
       "name": "Muscogee (Creek)",
       "originalId": 232,
@@ -17295,6 +17447,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "naswaukees-village",
+      "name": "Nas-Wau-Kee’s Village",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 101,
+      "angle": 22,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "lake-maxinkuckee-shoreline-culver",
+          "profileSlugs": [
+            "naswaukees-village"
+          ],
+          "title": "Present-day Lake Maxinkuckee shoreline in Culver",
+          "alt": "A low shoreline and distant woods beside the waters of Lake Maxinkuckee on an overcast day.",
+          "creator": "Nyttend",
+          "credit": "Nyttend",
+          "cardCredit": "Photo: Nyttend",
+          "date": "January 21, 2013",
+          "mediaType": "photograph",
+          "scope": "The photograph shows Lake Maxinkuckee from the public shoreline in modern Culver. The Atlas resized the image for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Maxinkuckee_shoreline_at_Culver.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lake_Maxinkuckee_shoreline_at_Culver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Lake_Maxinkuckee_shoreline_at_Culver.jpg#Licensing",
+          "rightsLabel": "Public domain (creator dedication)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Culver Historical Society, Maxinkuckee Village",
+              "url": "https://www.culverahs.com/maxinkuckee-village/"
+            }
+          ],
+          "asset": "assets/profile-visuals/lake-maxinkuckee-shoreline-culver.jpg",
+          "cardAsset": "assets/profile-visuals/lake-maxinkuckee-shoreline-culver-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 194879,
+              "sha256": "2e65f8e73c820fb16cce26dc65ed1486009f1ce1d8d4c4592a6772104e1bc37f"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 32505,
+              "sha256": "20428dbbe6c74dc53bd8d3f68fc5fbedd769994be17daddd8b1c1cf1512c89cf"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:101;--profile-angle:22deg;--profile-photo:url(\"../../assets/profile-visuals/lake-maxinkuckee-shoreline-culver.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "natchez",
@@ -22166,6 +22383,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "potawatomi-trail-of-death-association",
+      "name": "Potawatomi Trail of Death Association",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 192,
+      "angle": -11,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:192;--profile-angle:-11deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "powhatan",
