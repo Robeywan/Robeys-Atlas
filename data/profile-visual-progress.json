@@ -3,17 +3,17 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 441,
+    "selectedProfiles": 446,
     "existingApache": 1,
-    "newProfileTreatments": 440,
-    "newTreatmentsWithPhotographs": 425,
-    "decorativeTreatmentsAwaitingPhotographs": 15,
+    "newProfileTreatments": 445,
+    "newTreatmentsWithPhotographs": 427,
+    "decorativeTreatmentsAwaitingPhotographs": 18,
     "autoEnrolledThisBuild": [
-      "eel-river-miami",
-      "meshingomesia-reservation-community",
-      "munsee-town",
-      "naswaukees-village",
-      "potawatomi-trail-of-death-association"
+      "buckongahelas-town",
+      "deaf-mans-village",
+      "godfroy-village",
+      "keewaunays-village",
+      "osage-village-mississinewa"
     ]
   },
   "treatments": [
@@ -3935,6 +3935,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "buckongahelas-town",
+      "name": "Buckongahelas’ Town",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 83,
+      "angle": -25,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:83;--profile-angle:-25deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "burt-lake-band-of-ottawa-and-chippewa-indians",
       "name": "Burt Lake Band of Ottawa and Chippewa Indians",
       "originalId": null,
@@ -7041,6 +7064,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "deaf-mans-village",
+      "name": "Deaf Man’s Village",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 208,
+      "angle": 51,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "deaf-mans-village-mississinewa-reservoir",
+          "profileSlugs": [
+            "deaf-mans-village"
+          ],
+          "title": "Mississinewa Reservoir near the Lost Sister Trail, Indiana",
+          "alt": "Aerial view of the Mississinewa Reservoir shoreline, wooded slopes, and the road by the dam.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "June 18, 2022",
+          "mediaType": "photograph",
+          "scope": "This aerial photograph shows the present-day public trail area beside Mississinewa Reservoir in Miami County. The Atlas resized it for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=588236.432%2C4507751.071%2C589440.032%2C4508567.071&bboxSR=26916&imageSR=26916&size=1180%2C800&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B59228%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Miami County, Lost Sister Trail",
+              "url": "https://www.miamicountyin.gov/332/Lost-Sister-Trail"
+            }
+          ],
+          "asset": "assets/profile-visuals/deaf-mans-village-mississinewa-reservoir.jpg",
+          "cardAsset": "assets/profile-visuals/deaf-mans-village-mississinewa-reservoir-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1180,
+              "height": 800,
+              "bytes": 272506,
+              "sha256": "54d0cf49366dce689d0c1aea9a789ad3092ea866b2c943725ea910d3d21fa450"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 434,
+              "bytes": 65623,
+              "sha256": "07bdbe887eb554e5dfcf237cedffc9160f7797651f8cdd8bac583ffdb687370c"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:208;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/deaf-mans-village-mississinewa-reservoir.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "delaware-lenape",
       "name": "Delaware (Lenape)",
       "originalId": 97,
@@ -8095,6 +8183,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "godfroy-village",
+      "name": "Godfroy Village",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 164,
+      "angle": 40,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:164;--profile-angle:40deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "goschachgunk",
@@ -11449,6 +11560,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "keewaunays-village",
+      "name": "Kee-wau-nay’s Village",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 167,
+      "angle": 25,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "kee-wau-nays-village-bruce-lake",
+          "profileSlugs": [
+            "keewaunays-village"
+          ],
+          "title": "Present-day Bruce Lake near Kewanna, Indiana",
+          "alt": "Aerial view of Bruce Lake, shoreline houses and trees, and nearby fields.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "June 18, 2022",
+          "mediaType": "photograph",
+          "scope": "The photograph shows present-day Bruce Lake, the lake the Citizen Potawatomi Nation identifies as the setting of the village. The Atlas resized it for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=544433.595%2C4546882.907%2C545849.595%2C4547842.907&bboxSR=26916&imageSR=26916&size=1180%2C800&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B60270%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Citizen Potawatomi Nation Cultural Heritage Center, Keewaunay",
+              "url": "https://www.potawatomiheritage.com/encyclopedia/keewaunay/"
+            },
+            {
+              "title": "Bruce Lake, Fulton County",
+              "url": "https://mapcarta.com/22182588"
+            }
+          ],
+          "asset": "assets/profile-visuals/kee-wau-nays-village-bruce-lake.jpg",
+          "cardAsset": "assets/profile-visuals/kee-wau-nays-village-bruce-lake-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1180,
+              "height": 800,
+              "bytes": 238799,
+              "sha256": "f0c5baa4db568ab48f8edfa2f1201569b5d7745385b5f10348e7c8689dfd78ba"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 434,
+              "bytes": 59408,
+              "sha256": "684d192b23d7eff25e840d52796235d24e3a0bf4c3668a833f3304f18d9429cb"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:167;--profile-angle:25deg;--profile-photo:url(\"../../assets/profile-visuals/kee-wau-nays-village-bruce-lake.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "kekionga",
@@ -20639,6 +20819,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "osage-village-mississinewa",
+      "name": "Osage Village (Mississinewa)",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 187,
+      "angle": -7,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:187;--profile-angle:-7deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "otoe",
