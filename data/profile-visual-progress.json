@@ -3,22 +3,18 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 479,
+    "selectedProfiles": 485,
     "existingApache": 1,
-    "newProfileTreatments": 478,
-    "newTreatmentsWithPhotographs": 439,
-    "decorativeTreatmentsAwaitingPhotographs": 39,
+    "newProfileTreatments": 484,
+    "newTreatmentsWithPhotographs": 441,
+    "decorativeTreatmentsAwaitingPhotographs": 43,
     "autoEnrolledThisBuild": [
-      "american-indian-association-of-illinois",
-      "american-indian-education-program-chicago-public-schools",
-      "chinations-youth-council",
-      "eveland-village",
-      "first-nations-film-and-video-festival",
-      "grand-village-of-the-kickapoo",
-      "indigenous-graduate-student-collective-northwestern-university",
-      "indigenous-students-association-university-of-chicago",
-      "millstone-bluff-village",
-      "morton-village"
+      "darcy-mcnickle-center-for-american-indian-and-indigenous-studies",
+      "horseshoe-lake-mound-and-village-site",
+      "hubele-mounds-and-village-site",
+      "lunsfordpulcher-settlement",
+      "michigamea",
+      "native-american-indigenous-student-association-depaul-university"
     ]
   },
   "treatments": [
@@ -7364,6 +7360,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "darcy-mcnickle-center-for-american-indian-and-indigenous-studies",
+      "name": "D’Arcy McNickle Center for American Indian and Indigenous Studies",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 118,
+      "angle": -76,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "newberry-library-early-20th-century",
+          "profileSlugs": [
+            "darcy-mcnickle-center-for-american-indian-and-indigenous-studies"
+          ],
+          "title": "Historic entrance of the Newberry Library in Chicago",
+          "alt": "Archival black-and-white photograph of three stone arches at the entrance to the Newberry Library.",
+          "creator": "Percy Haydn Sloan, Newberry Library (NBY 952)",
+          "credit": "Percy Haydn Sloan / Newberry Library (NBY 952)",
+          "cardCredit": "Photo: Percy Haydn Sloan / Newberry Library (NBY 952)",
+          "date": "1900–1925 (Newberry Library catalogue range)",
+          "mediaType": "photograph",
+          "scope": "Percy Haydn Sloan photographed the Newberry Library entrance between 1900 and 1925, according to the library’s catalogue. The building is home to the McNickle Center today. The Atlas resized the photograph for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newberry_Library,_Chicago,_early_20th_century_(NBY_952).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Newberry_Library%2C_Chicago%2C_early_20th_century_%28NBY_952%29.jpg",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "rightsLabel": "Public domain",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "D’Arcy McNickle Center for American Indian and Indigenous Studies",
+              "url": "https://www.newberry.org/research/research-centers/mcnickle-center"
+            }
+          ],
+          "asset": "assets/profile-visuals/newberry-library-early-20th-century.jpg",
+          "cardAsset": "assets/profile-visuals/newberry-library-early-20th-century-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 980,
+              "bytes": 375747,
+              "sha256": "2ebb11db549e7038c08c2e8dd4f0a14eef2cc4560f400e225f488391e17aba18"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 435,
+              "bytes": 75680,
+              "sha256": "7aad9b6d8dee08ee5d2709c4917705547dc390fa4e52e1ba0ccb6dca62f921e8"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:118;--profile-angle:-76deg;--profile-photo:url(\"../../assets/profile-visuals/newberry-library-early-20th-century.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "deaf-mans-village",
       "name": "Deaf Man’s Village",
       "originalId": null,
@@ -10510,6 +10571,29 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "horseshoe-lake-mound-and-village-site",
+      "name": "Horseshoe Lake Mound and Village Site",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 174,
+      "angle": -4,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:174;--profile-angle:-4deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "houlton-band-of-maliseet",
       "name": "Houlton Band of Maliseet",
       "originalId": 132,
@@ -10649,6 +10733,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "hubele-mounds-and-village-site",
+      "name": "Hubele Mounds and Village Site",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 332,
+      "angle": -69,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:332;--profile-angle:-69deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "hupa",
@@ -14979,6 +15086,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "lunsfordpulcher-settlement",
+      "name": "Lunsford-Pulcher Settlement",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 159,
+      "angle": 34,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:159;--profile-angle:34deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "mackachack",
       "name": "Mackachack",
       "originalId": null,
@@ -16815,6 +16945,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:13;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/miccosukee-biscayne-agreement-signing-2024.webp\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "michigamea",
+      "name": "Michigamea",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 280,
+      "angle": 30,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:280;--profile-angle:30deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -18837,6 +18990,75 @@
         "used": 0
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:298;--profile-angle:-28deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-indigenous-student-association-depaul-university",
+      "name": "Native American & Indigenous Student Association (DePaul University)",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 64,
+      "angle": -27,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "depaul-lincoln-park-student-center",
+          "profileSlugs": [
+            "native-american-indigenous-student-association-depaul-university"
+          ],
+          "title": "DePaul’s Lincoln Park Student Center",
+          "alt": "A street-level view of DePaul’s brick and glass Student Center from across a tree-lined intersection.",
+          "creator": "Wikimedia Commons contributor Just",
+          "credit": "Just / Wikimedia Commons",
+          "cardCredit": "Photo: Just / Wikimedia Commons",
+          "date": "July 15, 2012",
+          "mediaType": "photograph",
+          "scope": "This 2012 photograph shows DePaul University’s Lincoln Park Student Center in Chicago and gives campus context for the association. The Atlas resized the photograph for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Student_Center_on_the_Lincoln_Park_Campus_of_DePaul_University_in_Chicago,_IL.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Student_Center_on_the_Lincoln_Park_Campus_of_DePaul_University_in_Chicago%2C_IL.jpg",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "rightsLabel": "CC0 1.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Native American & Indigenous Student Association",
+              "url": "https://dehub.depaul.edu/naisa/home/"
+            },
+            {
+              "title": "Student Center (Lincoln Park)",
+              "url": "https://events.depaul.edu/student_center_496"
+            }
+          ],
+          "asset": "assets/profile-visuals/depaul-lincoln-park-student-center.jpg",
+          "cardAsset": "assets/profile-visuals/depaul-lincoln-park-student-center-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 495746,
+              "sha256": "03430e9cc3a9c1cd831e8c25d5ee9e60ea6dd9f6541093577944f4dca9a86f94"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 91705,
+              "sha256": "7289d646a2d4e78c910839b9bbe8129137b86beda71e120c604e3819509b2581"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:64;--profile-angle:-27deg;--profile-photo:url(\"../../assets/profile-visuals/depaul-lincoln-park-student-center.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
