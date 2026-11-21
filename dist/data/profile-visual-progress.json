@@ -3,25 +3,18 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 430,
+    "selectedProfiles": 436,
     "existingApache": 1,
-    "newProfileTreatments": 429,
-    "newTreatmentsWithPhotographs": 419,
-    "decorativeTreatmentsAwaitingPhotographs": 10,
+    "newProfileTreatments": 435,
+    "newTreatmentsWithPhotographs": 422,
+    "decorativeTreatmentsAwaitingPhotographs": 13,
     "autoEnrolledThisBuild": [
-      "american-indian-center-of-indiana",
-      "andersons-town",
-      "first-nations-educational-and-cultural-center-indiana-university-bloomington",
-      "five-medals-village",
-      "indiana-indian-movement",
-      "kekionga",
-      "menominee-village",
-      "miami-nation-of-indians-of-indiana",
-      "native-american-educational-and-cultural-center-purdue-university",
-      "native-american-student-association-of-notre-dame",
-      "piankashaw",
-      "prophetstown-community",
-      "wea"
+      "ashkums-village",
+      "aubbeenaubbees-village",
+      "little-turtles-miami-village",
+      "meteas-village",
+      "native-american-student-association-indiana-university-bloomington",
+      "ouiatenon-wea-village"
     ]
   },
   "treatments": [
@@ -2079,6 +2072,29 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "ashkums-village",
+      "name": "Ashkum’s Village",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 342,
+      "angle": 17,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:342;--profile-angle:17deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "assiniboine",
       "name": "Assiniboine",
       "originalId": 20,
@@ -2619,6 +2635,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "aubbeenaubbees-village",
+      "name": "Aubbeenaubbee’s Village",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 55,
+      "angle": -14,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "aubbeenaubbee-tippecanoe-river",
+          "profileSlugs": [
+            "aubbeenaubbees-village"
+          ],
+          "title": "Tippecanoe River near Rochester, Fulton County, Indiana",
+          "alt": "The Tippecanoe River flowing beneath the old Michigan Road bridge, with green grass and trees along its banks.",
+          "creator": "Chris Light",
+          "credit": "Chris Light",
+          "cardCredit": "Photo: Chris Light",
+          "date": "May 17, 2017",
+          "mediaType": "photograph",
+          "scope": "This photograph shows the present-day Tippecanoe River in Fulton County, the county where the historical gazetteer places the village. The Atlas resized the photo for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tippecanoe_River_2017-05-17_144.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tippecanoe_River_2017-05-17_144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Historical gazetteer entry for Aubbeenaubbee’s Village",
+              "url": "https://accessgenealogy.com/indiana/a-indiana-indian-villages-towns-and-settlements.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/aubbeenaubbee-tippecanoe-river.jpg",
+          "cardAsset": "assets/profile-visuals/aubbeenaubbee-tippecanoe-river-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 348512,
+              "sha256": "11a9dffc07e2659507620b1409b5ed5d8304980b4a920ba1445244b77d738093"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 62336,
+              "sha256": "e67188b373c0034df4b2fc483a7a3b3a3ce91750a2f932e8fd7dc117546b0c42"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:55;--profile-angle:-14deg;--profile-photo:url(\"../../assets/profile-visuals/aubbeenaubbee-tippecanoe-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "aundeck-omni-kaning-first-nation",
@@ -13366,6 +13447,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "little-turtles-miami-village",
+      "name": "Little Turtle’s Miami Village",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 172,
+      "angle": -59,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "little-turtle-miami-village-landscape",
+          "profileSlugs": [
+            "little-turtles-miami-village"
+          ],
+          "title": "Present-day landscape near the Little Turtle village marker",
+          "alt": "Aerial view of fields, roads, and a residential area in Whitley County east of Columbia City.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "date": "June 18, 2022",
+          "mediaType": "photograph",
+          "scope": "The aerial photograph shows the modern landscape around the publicly documented historical marker east of Columbia City. The Atlas resized the image for display.",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=633231.524%2C4557965.876%2C634149.924%2C4558589.076&bboxSR=26916&imageSR=26916&size=1120%2C760&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B60033%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Indiana Historical Bureau catalogue, entry 92.1966.2",
+              "url": "https://www.in.gov/history/files/All_State_Historical_Markers_as_of_2-9-15.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/little-turtle-miami-village-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/little-turtle-miami-village-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1120,
+              "height": 760,
+              "bytes": 179688,
+              "sha256": "2c19350322a7c3c67d61550f9375461edb664688f9e2e234a051d88f6eb0caac"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 434,
+              "bytes": 48071,
+              "sha256": "54392822323a76fabbd83e6670676cc9449667d11e3322306c5b461cbb45acb2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:172;--profile-angle:-59deg;--profile-photo:url(\"../../assets/profile-visuals/little-turtle-miami-village-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "long-lake-58-first-nation",
       "name": "Long Lake #58 First Nation",
       "originalId": null,
@@ -15216,6 +15362,29 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 8
+    },
+    {
+      "slug": "meteas-village",
+      "name": "Metea’s Village",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 285,
+      "angle": 50,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:285;--profile-angle:50deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "metis",
@@ -17343,6 +17512,29 @@
         "used": 0
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:175;--profile-angle:-29deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-student-association-indiana-university-bloomington",
+      "name": "Native American Student Association (Indiana University Bloomington)",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 228,
+      "angle": -32,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:228;--profile-angle:-32deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -20378,6 +20570,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "ouiatenon-wea-village",
+      "name": "Ouiatenon Wea Village",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 16,
+      "angle": -38,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "ouiatenon-blockhouse",
+          "profileSlugs": [
+            "ouiatenon-wea-village"
+          ],
+          "title": "Reconstructed blockhouse at Fort Ouiatenon Historical Park",
+          "alt": "A reconstructed two-story log blockhouse surrounded by grass and trees near West Lafayette.",
+          "creator": "John Schanlaub",
+          "credit": "John Schanlaub",
+          "cardCredit": "Photo: John Schanlaub",
+          "date": "August 27, 2011",
+          "mediaType": "photograph",
+          "scope": "The photograph shows the reconstructed blockhouse at the nearby historical park. The Atlas resized the photo for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Ouiatenon.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Fort_Ouiatenon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Tippecanoe County Historical Association, The Ouiatenon Preserve",
+              "url": "https://tippecanoehistory.org/our-places/the-ouiatenon-preserve/"
+            }
+          ],
+          "asset": "assets/profile-visuals/ouiatenon-blockhouse.jpg",
+          "cardAsset": "assets/profile-visuals/ouiatenon-blockhouse-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 662772,
+              "sha256": "5ff478fbc650dbcb9ec5b91ccbd034989812f2081932ad83d37087be730f98b5"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 112436,
+              "sha256": "33a81d925c84cfa28d80b115dcf8575669e2e811a206e3a04d5c1e02a3ab9126"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:16;--profile-angle:-38deg;--profile-photo:url(\"../../assets/profile-visuals/ouiatenon-blockhouse.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "paiute",
