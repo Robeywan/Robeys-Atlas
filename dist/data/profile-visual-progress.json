@@ -3,13 +3,15 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 401,
+    "selectedProfiles": 404,
     "existingApache": 1,
-    "newProfileTreatments": 400,
-    "newTreatmentsWithPhotographs": 400,
+    "newProfileTreatments": 403,
+    "newTreatmentsWithPhotographs": 403,
     "decorativeTreatmentsAwaitingPhotographs": 0,
     "autoEnrolledThisBuild": [
-      "yaquina"
+      "goschachgunk",
+      "greentown-delaware-village",
+      "indigenous-student-association-wilmington-college"
     ]
   },
   "treatments": [
@@ -7691,6 +7693,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "goschachgunk",
+      "name": "Goschachgunk",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 274,
+      "angle": -6,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "goschachgunk-walhonding-coshocton",
+          "profileSlugs": [
+            "goschachgunk"
+          ],
+          "title": "Walhonding River at Coshocton, Ohio",
+          "alt": "The Walhonding River flows between wooded banks at Coshocton.",
+          "creator": "Tim Kiser",
+          "credit": "Tim Kiser",
+          "cardCredit": "Photo: Tim Kiser",
+          "scope": "Tim Kiser photographed the Walhonding River at Coshocton in 2004. The river joins the Tuscarawas at the Forks of the Muskingum, where the county library places the historic Lenape town. The JPEG is reproduced at its original size.",
+          "date": "July 2, 2004",
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walhonding.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Walhonding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.5",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "All About Coshocton County",
+              "url": "https://www.coshoctonlibrary.org/sites/default/files/migrated/PDF%27s/Genealogy%20%26%20Local%20History/All%20About%20Coshocton%20County.pdf"
+            },
+            {
+              "title": "Muskingum River basin fact sheet and confluence diagram",
+              "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/35/permits/doc/0PD00004.fs.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/goschachgunk-walhonding-coshocton.jpg",
+          "cardAsset": "assets/profile-visuals/goschachgunk-walhonding-coshocton.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 332,
+              "height": 240,
+              "bytes": 23965,
+              "sha256": "d8991021f3f9e0a1c8ed1fd46130710764ebf8f9c9a6638dd75a34d89932929b"
+            },
+            "cardAsset": {
+              "width": 332,
+              "height": 240,
+              "bytes": 23965,
+              "sha256": "d8991021f3f9e0a1c8ed1fd46130710764ebf8f9c9a6638dd75a34d89932929b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:274;--profile-angle:-6deg;--profile-photo:url(\"../../assets/profile-visuals/goschachgunk-walhonding-coshocton.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "grand-portage-band-of-lake-superior-chippewa",
       "name": "Grand Portage Band of Lake Superior Chippewa",
       "originalId": null,
@@ -7901,6 +7972,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "greentown-delaware-village",
+      "name": "Greentown Delaware Village",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 239,
+      "angle": 74,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "greentown-black-fork-aerial",
+          "profileSlugs": [
+            "greentown-delaware-village"
+          ],
+          "title": "Black Fork valley near Greentown, Ohio",
+          "alt": "Aerial view of wooded slopes, fields, and a road near the Greentown historical marker.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency NAIP. Data available from U.S. Geological Survey, National Geospatial Program.",
+          "cardCredit": "Photo: USDA Farm Service Agency NAIP. Data available from U.S. Geological Survey, National Geospatial Program.",
+          "scope": "This 2023 aerial photograph shows the Black Fork landscape near the public Greentown historical marker. Ohio History Connection describes the former village as lying on an elevation near the Black Fork. The Atlas prepared JPEG display copies from the public imagery.",
+          "date": "May 26, 2023",
+          "mediaType": "photograph",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=387624.331%2C4505879.939%2C388274.331%2C4506333.639&bboxSR=26917&imageSR=26917&size=1000%2C698&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B147457%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Greentown Delaware Village",
+              "url": "https://remarkableohio.org/marker/4-3-greentown-delaware-village/"
+            }
+          ],
+          "asset": "assets/profile-visuals/greentown-black-fork-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/greentown-black-fork-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1000,
+              "height": 698,
+              "bytes": 234005,
+              "sha256": "e23b34a3ea7af0a67516bf3525922ee3cdf4e8a23c175bd262018388b7085e3d"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 447,
+              "bytes": 80084,
+              "sha256": "cf3fc1b96ffa894ce684487e6bf67b63dad78e5b40003589d4a9c8fdb1230338"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:239;--profile-angle:74deg;--profile-photo:url(\"../../assets/profile-visuals/greentown-black-fork-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "guaiqueri",
@@ -9534,6 +9670,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "indigenous-student-association-wilmington-college",
+      "name": "Indigenous Student Association (Wilmington College)",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 331,
+      "angle": -29,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "wilmington-college-hall-campus",
+          "profileSlugs": [
+            "indigenous-student-association-wilmington-college"
+          ],
+          "title": "College Hall at Wilmington College, Ohio",
+          "alt": "Brick College Hall stands behind trees and a lawn on the Wilmington College campus.",
+          "creator": "Nyttend",
+          "credit": "Nyttend",
+          "cardCredit": "Photo: Nyttend",
+          "scope": "The 2012 photograph shows College Hall and the grounds of Wilmington College. The college lists the Indigenous Student Association as one of its campus cultural organizations. The Atlas resized the photograph for display.",
+          "date": "March 19, 2012",
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:College_Hall_at_Wilmington_College.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/College_Hall_at_Wilmington_College.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Public domain (creator dedication)",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:College_Hall_at_Wilmington_College.jpg",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Wilmington College student-life overview",
+              "url": "https://www.wilmington.edu/student-life/diversity"
+            }
+          ],
+          "asset": "assets/profile-visuals/wilmington-college-hall-campus.jpg",
+          "cardAsset": "assets/profile-visuals/wilmington-college-hall-campus-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 600175,
+              "sha256": "5305bb2a1937dee51cf4094bf367cd8af69f46f25d1e25c171ffb2f976933b51"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 110961,
+              "sha256": "61f0e423f5fc15292475b9d47a5a3de9f218c61200d821aa0f8a961e9fdb25be"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:331;--profile-angle:-29deg;--profile-photo:url(\"../../assets/profile-visuals/wilmington-college-hall-campus.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "innu",
