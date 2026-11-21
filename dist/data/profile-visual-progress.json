@@ -3,15 +3,15 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 407,
+    "selectedProfiles": 410,
     "existingApache": 1,
-    "newProfileTreatments": 406,
-    "newTreatmentsWithPhotographs": 406,
+    "newProfileTreatments": 409,
+    "newTreatmentsWithPhotographs": 409,
     "decorativeTreatmentsAwaitingPhotographs": 0,
     "autoEnrolledThisBuild": [
-      "native-american-and-indigenous-peoples-cohort-ohio-state-university",
-      "salem-mission",
-      "wakatomika"
+      "native-peoples-awareness-coalition-ohio-university",
+      "peckuwe",
+      "pluggys-town"
     ]
   },
   "treatments": [
@@ -16779,6 +16779,75 @@
       "substantiveInspectedSources": 4
     },
     {
+      "slug": "native-peoples-awareness-coalition-ohio-university",
+      "name": "Native Peoples Awareness Coalition (Ohio University)",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 209,
+      "angle": 6,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "baker-university-center-athens",
+          "profileSlugs": [
+            "native-peoples-awareness-coalition-ohio-university"
+          ],
+          "title": "Baker University Center in Athens, Ohio",
+          "alt": "Brick and white stone exterior of Baker University Center with a walkway and yellow flowers.",
+          "creator": "George23520",
+          "credit": "George23520",
+          "cardCredit": "Photo: George23520",
+          "scope": "George23520 photographed Ohio University’s Baker University Center in 2010. The coalition identified the building as its meeting venue in an undated notice. The Atlas resized the photograph for display.",
+          "date": "May 24, 2010",
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ohio_University_Baker_University_Center.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ohio_University_Baker_University_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "rightsLabel": "CC0",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "The coalition’s meeting notice",
+              "url": "https://ou-npac.weebly.com/weekly-meetings.html"
+            },
+            {
+              "title": "Ohio University’s Baker University Center",
+              "url": "https://www.ohio.edu/student-affairs/event-services/baker-university-center"
+            }
+          ],
+          "asset": "assets/profile-visuals/baker-university-center-athens.jpg",
+          "cardAsset": "assets/profile-visuals/baker-university-center-athens-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 456856,
+              "sha256": "a3b5870a39c7118c78d210099896a058d04cec09e185e23e7cddb731d7f23fcd"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 85087,
+              "sha256": "b77c3105899571d5b2a6ef59401306b14cc8b72bc8fd37a1b83ef3465522d7f6"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:209;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/baker-university-center-athens.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "native-village-of-chitina",
       "name": "Native Village of Chitina",
       "originalId": null,
@@ -20120,6 +20189,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "peckuwe",
+      "name": "Peckuwe",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 19,
+      "angle": -73,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "peckuwe-park-landscape",
+          "profileSlugs": [
+            "peckuwe"
+          ],
+          "title": "George Rogers Clark Park near Springfield, Ohio",
+          "alt": "Aerial view of paths, clearings, and buildings amid the trees at George Rogers Clark Park.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "scope": "This USDA aerial photograph shows part of the modern public park associated with Peckuwe. The Atlas cropped and resized the image for display.",
+          "date": "May 18, 2023",
+          "mediaType": "photograph",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=250761.897%2C4421471.193%2C251568.297%2C4422018.393&bboxSR=26917&imageSR=26917&size=1120%2C760&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B146533%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Battle of Peckuwe Historical Battlesite",
+              "url": "https://ntprd.org/battle-of-peckuwe-historical-battlesite/"
+            },
+            {
+              "title": "Lower Valley Pike Scenic Byway corridor management plan",
+              "url": "https://dam.assets.ohio.gov/image/upload/transportation.ohio.gov/environmental-services/cultural-resources/ohiobyways/LVP_CMP_2020_Update.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/peckuwe-park-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/peckuwe-park-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 780,
+              "height": 478,
+              "bytes": 103024,
+              "sha256": "f63e868732550a83765329a99113a6b69a384ca151a0df2cc0cc0b966d03422b"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 392,
+              "bytes": 56256,
+              "sha256": "b80521c51280eef943b0e2c4f2d682909d6b7f839cb872ff4012f6cec74b8a51"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:19;--profile-angle:-73deg;--profile-photo:url(\"../../assets/profile-visuals/peckuwe-park-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "pecos-pueblo",
       "name": "Pecos Pueblo",
       "originalId": 285,
@@ -20675,6 +20813,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 5
+    },
+    {
+      "slug": "pluggys-town",
+      "name": "Pluggy’s Town",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 321,
+      "angle": -35,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "pluggy-town-mingo-park-landscape",
+          "profileSlugs": [
+            "pluggys-town"
+          ],
+          "title": "Mingo Park in Delaware, Ohio",
+          "alt": "Aerial view of Mingo Park’s sports grounds and pool beside a tree-lined road.",
+          "creator": "USDA Farm Service Agency NAIP",
+          "credit": "USDA Farm Service Agency, NAIP / USGS The National Map",
+          "cardCredit": "Photo: USDA Farm Service Agency, NAIP / USGS The National Map",
+          "scope": "This USDA aerial photograph shows part of modern Mingo Park near the documented village setting. The Atlas cropped and resized the image for display.",
+          "date": "July 30, 2023",
+          "mediaType": "photograph",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=324371.027%2C4463476.479%2C325177.427%2C4464023.679&bboxSR=26917&imageSR=26917&size=1120%2C760&bandIds=0%2C1%2C2&format=png&interpolation=RSP_NearestNeighbor&mosaicRule=%7B%22mosaicMethod%22%3A%22esriMosaicLockRaster%22%2C%22lockRasterIds%22%3A%5B147819%5D%2C%22mosaicOperation%22%3A%22MT_FIRST%22%7D&f=pjson",
+          "rightsUrl": "https://www.usgs.gov/programs/national-geospatial-program/supporting-themes?qt-science_support_page_related_con=0",
+          "rightsLabel": "U.S. public domain (USDA NAIP)",
+          "reviewedAt": "2026-11-20",
+          "contextSources": [
+            {
+              "title": "Meeker Homestead Museum Guide",
+              "url": "https://www.delawareohiohistory.org/meeker-homestead-museum/"
+            },
+            {
+              "title": "Ohio Department of Natural Resources Olentangy River survey",
+              "url": "https://dam.assets.ohio.gov/image/upload/ohiodnr.gov/documents/natural-areas/SQMAnnual/2016/16Olentangy.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/pluggy-town-mingo-park-landscape.jpg",
+          "cardAsset": "assets/profile-visuals/pluggy-town-mingo-park-landscape-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 450,
+              "height": 530,
+              "bytes": 79991,
+              "sha256": "dcdb650b0d1e7c06273d271fea0b51be69228a6d2ab93bd1364dd80aacf332ec"
+            },
+            "cardAsset": {
+              "width": 450,
+              "height": 530,
+              "bytes": 66272,
+              "sha256": "a1f546d2ba32a4c11d01689b8d18e37f5085781862fa08b30359c4959d9328f2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:321;--profile-angle:-35deg;--profile-photo:url(\"../../assets/profile-visuals/pluggy-town-mingo-park-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "pojoaque-pueblo",
