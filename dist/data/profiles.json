@@ -4483,15 +4483,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named community label as listed in introductory text of Aleutian Pribilof Islands Association Tribes directory",
-    "region": "Unassigned - directory-ascribed naming only; present setting and base unassessed.",
-    "overview": "An empty identification outline for Adak, using the exact listed name and neutral kind in Tribes |   Aleutian Pribilof Islands Association. Present continuity, status, setting, base and relationships remain unassessed.",
-    "relationshipNote": "Adak is selected only as a source-ascribed introductory community label. The bounded metadata review had no exact identity/alias/full-route blockers or reference hits; this establishes no global absence, distinctness, currentness, status, setting or continuity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "region": "Adak Island, Aleutian Islands, Alaska",
+    "overview": "The Aleutian Pribilof Islands Association describes the formation of modern Adak on Adak Island, Alaska, following the closure of the naval station. The City of Adak offers a guide to local organizations and services.",
+    "relationshipNote": "This entry covers Adak on Adak Island. The supplied study also discusses Unangax̂ history across the Aleutian Islands.",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-adak-apiai-history",
+        "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+        "title": "History",
+        "publisher": "Aleutian Pribilof Islands Association",
+        "type": "Regional history",
+        "annotation": "The association describes the modern community of Adak on the island after the naval station closed.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "contentReviewScope": "Selected passage about the establishment of the modern Adak community in 1998.",
+        "indigenousLed": true,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "adak-apiai-history",
+        "topics": []
+      },
+      {
+        "id": "s-adak-community-city",
+        "url": "https://www.adak-ak.gov/1488/Community",
+        "title": "Community",
+        "publisher": "City of Adak",
+        "type": "Municipal website",
+        "annotation": "Follow the city’s links to community organizations and services, including the Adak Community Development Corporation.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "contentReviewScope": "Community page title and the City’s description of the Community Development Corporation.",
+        "indigenousLed": false,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "adak-city-community",
+        "topics": []
+      }
+    ],
+    "sections": [
+      {
+        "title": "Adak Island and the modern community",
+        "text": "The Aleutian Pribilof Islands Association dates the establishment of the modern community on Adak Island to 1998, after the naval station closed. The City of Adak links local organizations, including the Adak Community Development Corporation.",
+        "sourceIds": [
+          "s-adak-apiai-history",
+          "s-adak-community-city"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-12",
     "identificationEvidence": [
       {
@@ -4509,17 +4549,386 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Source-ascribed introductory naming fragment and reviewed neutral kind only; no verified legal/current status, present-base or continuity finding.",
-      "Adak is selected only as a source-ascribed introductory community label. The bounded metadata review had no exact identity/alias/full-route blockers or reference hits; this establishes no global absence, distinctness, currentness, status, setting or continuity.",
-      "Substantive research remains unassessed; no fixed source, history or image count is a prerequisite."
+      "The supplied study’s historical and archaeological claims await source-by-source review."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Narrow listed name and directory-ascribed kind only; substantive adequacy, present continuity, status, setting and relationships remain unassessed."
+      "rationale": "Selected public sources provide a starting point for the community profile."
     },
+    "overviewSourceIds": [
+      "s-adak-apiai-history",
+      "s-adak-community-city"
+    ],
+    "studyKeys": [
+      "Adak_Unangax_Deep_Dive"
+    ],
+    "researchLeads": [
+      {
+        "url": "https://docsteach.org/document/map-native-tribes-alaska/",
+        "title": "Supplied reference 1: docsteach.org",
+        "sourceNumber": 1,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.trumanlibrary.gov/maps/m1137-map-landing-adak-island",
+        "title": "Supplied reference 2: www.trumanlibrary.gov",
+        "sourceNumber": 2,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://store.usgs.gov/product/833944",
+        "title": "Supplied reference 3: store.usgs.gov",
+        "sourceNumber": 3,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.uaf.edu/anla/collections/map/",
+        "title": "Supplied reference 4: www.uaf.edu",
+        "sourceNumber": 4,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://dggs.alaska.gov/pubs/id/30186",
+        "title": "Supplied reference 5: dggs.alaska.gov",
+        "sourceNumber": 5,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.fws.gov/r7/nwr/Realty/data/Maps/GenLS/30K/AKM-067.pdf",
+        "title": "Supplied reference 6: www.fws.gov",
+        "sourceNumber": 6,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.commerce.alaska.gov/web/Portals/4/pub/LBC/Municipal_Certificates/Cities/adak.pdf",
+        "title": "Supplied reference 7: www.commerce.alaska.gov",
+        "sourceNumber": 7,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://dec.alaska.gov/spar/csp/sites/adak/",
+        "title": "Supplied reference 8: dec.alaska.gov",
+        "sourceNumber": 8,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.uaf.edu/anla/collections/map/names/",
+        "title": "Supplied reference 9: www.uaf.edu",
+        "sourceNumber": 9,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.uaf.edu/anlc/languages-move/aleut.php",
+        "title": "Supplied reference 10: www.uaf.edu",
+        "sourceNumber": 10,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://aleut-international.org/communities/",
+        "title": "Supplied reference 11: aleut-international.org",
+        "sourceNumber": 11,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.apiai.org/tribes/atka/",
+        "title": "Supplied reference 12: www.apiai.org",
+        "sourceNumber": 12,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.apiai.org/2013/12/crystal-dushkin/",
+        "title": "Supplied reference 13: www.apiai.org",
+        "sourceNumber": 13,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+        "title": "Supplied reference 14: www.apiai.org",
+        "sourceNumber": 14,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.aranzadi.eus/fileadmin/docs/Munibe/2010001309.pdf",
+        "title": "Supplied reference 15: www.aranzadi.eus",
+        "sourceNumber": 15,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-01-30/pdf/2026-01899.pdf",
+        "title": "Supplied reference 16: www.govinfo.gov",
+        "sourceNumber": 16,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.adak-ak.gov/1494/Former-Naval-Air-Facility-Adak",
+        "title": "Supplied reference 17: www.adak-ak.gov",
+        "sourceNumber": 17,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.alaskaanthropology.org/wp-content/uploads/2015/11/AJA-v101-2-optimized.pdf",
+        "title": "Supplied reference 18: www.alaskaanthropology.org",
+        "sourceNumber": 18,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://dnr.alaska.gov/parks/oha/publications/oha173overviewofalaskaprehistory.pdf",
+        "title": "Supplied reference 19: dnr.alaska.gov",
+        "sourceNumber": 19,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.cambridge.org/core/journals/radiocarbon/article/abs/marine-radiocarbon-reservoir-effect-on-adak-island-central-aleutian-islands-alaska/94D41FE7AEBF3A50142734530F277684",
+        "title": "Supplied reference 20: www.cambridge.org",
+        "sourceNumber": 20,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://irma.nps.gov/DataStore/Reference/Profile/2279825",
+        "title": "Supplied reference 21: irma.nps.gov",
+        "sourceNumber": 21,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.kucb.org/arts-culture/2025-07-23/unangax-elder-tells-story-of-wwii-evacuation-through-new-zine",
+        "title": "Supplied reference 22: www.kucb.org",
+        "sourceNumber": 22,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.nps.gov/articles/aleu-mobley-ch-4-pt-1.htm",
+        "title": "Supplied reference 23: www.nps.gov",
+        "sourceNumber": 23,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.archives.gov/education/lessons/alaska/purchase-treaty.html",
+        "title": "Supplied reference 24: www.archives.gov",
+        "sourceNumber": 24,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://naturalhistory.si.edu/sites/default/files/media/file/casereportsummariesalaskarev3.pdf",
+        "title": "Supplied reference 25: naturalhistory.si.edu",
+        "sourceNumber": 25,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.nps.gov/places/adak-army-base-and-naval-operating-base.htm",
+        "title": "Supplied reference 26: www.nps.gov",
+        "sourceNumber": 26,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.nps.gov/aleu/learn/historyculture/attuans-wwii-experience.htm",
+        "title": "Supplied reference 27: www.nps.gov",
+        "sourceNumber": 27,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2025-03-19/pdf/2025-04464.pdf",
+        "title": "Supplied reference 28: www.govinfo.gov",
+        "sourceNumber": 28,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.nps.gov/aleu/learn/historyculture/unangax-history-and-culture.htm",
+        "title": "Supplied reference 29: www.nps.gov",
+        "sourceNumber": 29,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.oca.org/saints/lives/0201/07/26/102091-repose-of-saint-jacob-netsvetov-enlightener-of-the-peoples-of-al",
+        "title": "Supplied reference 30: www.oca.org",
+        "sourceNumber": 30,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://collections.si.edu/search/detail/edanmdm:yt_XvS4ngBVgTc",
+        "title": "Supplied reference 31: collections.si.edu",
+        "sourceNumber": 31,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://library.alaska.gov/hist/hist_docs/docs/anlm/Alaska_Native_Language_Bibliography.pdf",
+        "title": "Supplied reference 32: library.alaska.gov",
+        "sourceNumber": 32,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ239/pdf/PLAW-107publ239.pdf",
+        "title": "Supplied reference 33: www.govinfo.gov",
+        "sourceNumber": 33,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title50/html/USCODE-2022-title50-chap52.htm",
+        "title": "Supplied reference 34: www.govinfo.gov",
+        "sourceNumber": 34,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://iucat.iu.edu/iusb/11687083",
+        "title": "Supplied reference 35: iucat.iu.edu",
+        "sourceNumber": 35,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      },
+      {
+        "url": "https://experts.illinois.edu/en/publications/genetic-and-archaeological-evidence-for-a-former-breeding-populat/",
+        "title": "Supplied reference 36: experts.illinois.edu",
+        "sourceNumber": 36,
+        "documentKey": "Adak_Unangax_Deep_Dive",
+        "documentTitle": "Adak and the Unangax̂",
+        "contextNote": "Owner-supplied study on Adak Island and Unangax̂ history, including a chronology, map references, and a bibliography. The supplied assertions, dates, and citations await original-source review.",
+        "reviewStatus": "Awaiting original-source review",
+        "addedAt": "2026-11-20"
+      }
+    ],
     "slug": "adak",
-    "regionGroups": [],
+    "regionGroups": [
+      "Arctic & Alaska"
+    ],
     "mapRegions": [
       {
         "id": "US-AK",

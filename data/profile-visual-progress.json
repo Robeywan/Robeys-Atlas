@@ -3,11 +3,11 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 356,
+    "selectedProfiles": 359,
     "existingApache": 1,
-    "newProfileTreatments": 355,
-    "newTreatmentsWithPhotographs": 337,
-    "decorativeTreatmentsAwaitingPhotographs": 18,
+    "newProfileTreatments": 358,
+    "newTreatmentsWithPhotographs": 344,
+    "decorativeTreatmentsAwaitingPhotographs": 14,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -573,6 +573,74 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 15
+    },
+    {
+      "slug": "adak",
+      "name": "Adak",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 96,
+      "angle": 62,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "adak-town-paxson-woelber",
+          "title": "Adak on Adak Island, Alaska",
+          "creator": "Paxson Woelber",
+          "credit": "Paxson Woelber / Flickr, CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_city_of_Adak,_Alaska_(47996644657).jpg",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "alt": "Panoramic view of rows of small buildings in Adak, with mountains, open water and clouds in the distance.",
+          "scope": "Paxson Woelber’s panorama shows the town of Adak on Adak Island. The Atlas uses the proportional web-size copy.",
+          "contextSources": [
+            {
+              "title": "City of Adak community page",
+              "url": "https://www.adak-ak.gov/1488/Community"
+            },
+            {
+              "title": "Paxson Woelber’s original Flickr photograph",
+              "url": "https://www.flickr.com/photos/59306007@N08/47996644657"
+            }
+          ],
+          "profileSlugs": [
+            "adak"
+          ],
+          "asset": "assets/profile-visuals/adak-town-paxson-woelber.jpg",
+          "cardAsset": "assets/profile-visuals/adak-town-paxson-woelber.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/The_city_of_Adak,_Alaska_(47996644657).jpg/1280px-The_city_of_Adak,_Alaska_(47996644657).jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Paxson Woelber / Flickr, CC BY 2.0",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 427,
+              "bytes": 176568,
+              "sha256": "5f3fbb7a0968431bf6f3d8fe8a7a6102a9fcf98498b4f20dc1775502b668c795"
+            },
+            "cardAsset": {
+              "width": 1280,
+              "height": 427,
+              "bytes": 176568,
+              "sha256": "5f3fbb7a0968431bf6f3d8fe8a7a6102a9fcf98498b4f20dc1775502b668c795"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:96;--profile-angle:62deg;--profile-photo:url(\"../../assets/profile-visuals/adak-town-paxson-woelber.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "ahtna",
@@ -1731,14 +1799,56 @@
       "hue": 198,
       "angle": 69,
       "composition": "sweep",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "fort-peck-yellowstone-bison-release-2019",
+          "title": "Bison release at Fort Peck, 2019",
+          "creator": "Jacob W. Frank, National Park Service",
+          "credit": "Jacob W. Frank / National Park Service",
+          "sourceUrl": "https://www.nps.gov/yell/learn/management/bison.htm",
+          "rightsLabel": "U.S. public domain",
+          "rightsUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "date": "2019-08-19",
+          "alt": "A bison runs through yellow wildflowers during the release at Fort Peck.",
+          "scope": "The National Park Service photographed this bison at the 2019 release on the Fort Peck Indian Reservation, part of a conservation partnership with the Tribes.",
+          "contextSources": [
+            {
+              "title": "Yellowstone National Park’s original Flickr photograph",
+              "url": "https://www.flickr.com/photos/yellowstonenps/48595272596"
+            }
+          ],
+          "profileSlugs": [
+            "assiniboine-and-sioux-tribes-of-the-fort-peck-indian-reservation-montana"
+          ],
+          "asset": "assets/profile-visuals/fort-peck-yellowstone-bison-release-2019.jpg",
+          "cardAsset": "assets/profile-visuals/fort-peck-yellowstone-bison-release-2019.jpg",
+          "sourceImageUrl": "https://www.nps.gov/yell/learn/management/images/48595272596_4c994a6939_6k.jpg?autorotate=false&maxwidth=1300",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: Jacob W. Frank / National Park Service",
+          "derivatives": {
+            "asset": {
+              "width": 1300,
+              "height": 731,
+              "bytes": 229649,
+              "sha256": "ee0352e697c587524698d55655933b00692c402515ca9d49e1195f1f2ff60bea"
+            },
+            "cardAsset": {
+              "width": 1300,
+              "height": 731,
+              "bytes": 229649,
+              "sha256": "ee0352e697c587524698d55655933b00692c402515ca9d49e1195f1f2ff60bea"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:198;--profile-angle:69deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:198;--profile-angle:69deg;--profile-photo:url(\"../../assets/profile-visuals/fort-peck-yellowstone-bison-release-2019.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -5566,14 +5676,51 @@
       "hue": 100,
       "angle": 7,
       "composition": "ribbon",
-      "images": [],
+      "images": [
+        {
+          "id": "comanche-nation-museum-lawton-2025",
+          "title": "Comanche National Museum and Cultural Center, Lawton",
+          "creator": "TulGuy",
+          "credit": "TulGuy / Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lawton_Comanche_Museum_3-2025_Wikipedia.jpg",
+          "rightsLabel": "CC0 1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "date": "March 2025",
+          "alt": "Entrance to the Comanche National Museum and Cultural Center beside shrubs and low plantings in Lawton, Oklahoma.",
+          "scope": "Photograph of the museum entrance in Lawton, Oklahoma, where the Comanche Nation’s museum presents Comanche history and culture.",
+          "profileSlugs": [
+            "comanche-nation-oklahoma"
+          ],
+          "asset": "assets/profile-visuals/comanche-nation-museum-lawton-2025.jpg",
+          "cardAsset": "assets/profile-visuals/comanche-nation-museum-lawton-2025.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lawton_Comanche_Museum_3-2025_Wikipedia.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: TulGuy / Wikimedia Commons",
+          "contextSources": [],
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 150844,
+              "sha256": "c266dd8c7e235d48cb54ff80867b6e892dacd202bbf9a141d55e50576bec1eb6"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 150844,
+              "sha256": "c266dd8c7e235d48cb54ff80867b6e892dacd202bbf9a141d55e50576bec1eb6"
+            }
+          }
+        }
+      ],
       "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:100;--profile-angle:7deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:100;--profile-angle:7deg;--profile-photo:url(\"../../assets/profile-visuals/comanche-nation-museum-lawton-2025.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -7760,14 +7907,56 @@
       "hue": 176,
       "angle": 57,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "haudenosaunee-deskaheh-the-graphic-1922",
+          "title": "Deskaheh (Levi General), published in 1922",
+          "creator": "Photographer unrecorded",
+          "credit": "The Graphic, 1922 / Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deskaheh_photo_(cropped).JPG",
+          "rightsLabel": "U.S. public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Deskaheh_photo_(cropped).JPG#Licensing",
+          "date": "1922 (publication)",
+          "alt": "Black-and-white profile portrait of Deskaheh wearing a feathered headdress. A handwritten signature appears across the bottom.",
+          "scope": "Portrait of the Cayuga chief who represented the Six Nations of the Grand River in its appeal to the League of Nations. This copy uses the crop documented in the Commons file history.",
+          "contextSources": [
+            {
+              "title": "Six Nations appeals to the League of Nations, 1922–31",
+              "url": "https://historybeyondborders.ca/?p=189"
+            }
+          ],
+          "profileSlugs": [
+            "haudenosaunee"
+          ],
+          "asset": "assets/profile-visuals/haudenosaunee-deskaheh-the-graphic-1922.jpg",
+          "cardAsset": "assets/profile-visuals/haudenosaunee-deskaheh-the-graphic-1922.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Deskaheh_photo_(cropped).JPG?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: The Graphic, 1922 / Wikimedia Commons",
+          "derivatives": {
+            "asset": {
+              "width": 267,
+              "height": 342,
+              "bytes": 32354,
+              "sha256": "a56d461686cf666de6a28a32dcf1451b1d4e3908e36ccab989ebe6c0ff54db32"
+            },
+            "cardAsset": {
+              "width": 267,
+              "height": 342,
+              "bytes": 32354,
+              "sha256": "a56d461686cf666de6a28a32dcf1451b1d4e3908e36ccab989ebe6c0ff54db32"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:176;--profile-angle:57deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:176;--profile-angle:57deg;--profile-photo:url(\"../../assets/profile-visuals/haudenosaunee-deskaheh-the-graphic-1922.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -10757,14 +10946,56 @@
       "hue": 263,
       "angle": 72,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "lakota-red-cloud-delegation-nara",
+          "title": "Red Cloud’s Oglala Lakota delegation, before 1876",
+          "creator": "Photographer unrecorded",
+          "credit": "National Archives, 106-IN-200",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dakota_delegation._Identified,_l_to_r,_Little_Wound,_Red_Cloud,_American_Horse,_and_Red_Shirt._-_NARA_-_523664.jpg",
+          "rightsLabel": "U.S. public domain",
+          "rightsUrl": "https://www.archives.gov/research/native-americans/pictures",
+          "date": "Before 1876",
+          "alt": "Black-and-white studio photograph of five seated men and one man standing behind the group.",
+          "scope": "The National Archives identifies this photograph as a delegation of Oglala Lakota leaders with an interpreter. The Atlas uses a proportional web-size copy.",
+          "contextSources": [
+            {
+              "title": "National Archives record 523664",
+              "url": "https://catalog.archives.gov/id/523664"
+            }
+          ],
+          "profileSlugs": [
+            "lakota"
+          ],
+          "asset": "assets/profile-visuals/lakota-red-cloud-delegation-nara.jpg",
+          "cardAsset": "assets/profile-visuals/lakota-red-cloud-delegation-nara.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dakota_delegation._Identified,_l_to_r,_Little_Wound,_Red_Cloud,_American_Horse,_and_Red_Shirt._-_NARA_-_523664.jpg/960px-Dakota_delegation._Identified,_l_to_r,_Little_Wound,_Red_Cloud,_American_Horse,_and_Red_Shirt._-_NARA_-_523664.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: National Archives, 106-IN-200",
+          "derivatives": {
+            "asset": {
+              "width": 960,
+              "height": 771,
+              "bytes": 184146,
+              "sha256": "7206c69fed74c3e2172bbb30871879fcd2f7e1f4e8faf8393da0ddaa7629465c"
+            },
+            "cardAsset": {
+              "width": 960,
+              "height": 771,
+              "bytes": 184146,
+              "sha256": "7206c69fed74c3e2172bbb30871879fcd2f7e1f4e8faf8393da0ddaa7629465c"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:263;--profile-angle:72deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:263;--profile-angle:72deg;--profile-photo:url(\"../../assets/profile-visuals/lakota-red-cloud-delegation-nara.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -11349,6 +11580,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 4
+    },
+    {
+      "slug": "lumbee",
+      "name": "Lumbee",
+      "originalId": 188,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 215,
+      "angle": 21,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "lumbee-powwow-lumberton-2015",
+          "title": "Tenth Annual Lumbee Powwow, Lumberton, 2015",
+          "creator": "bobistraveling",
+          "credit": "bobistraveling / Flickr, CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:10th_Annual_Lumbee_Powwow_Lumberton.jpg",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2015-05-02",
+          "alt": "Participants in brightly colored regalia gather inside a hall at the Lumbee Powwow.",
+          "scope": "The photographer identifies the event as the Tenth Annual Lumbee Powwow in Lumberton, North Carolina. The Atlas uses the proportional web-size copy.",
+          "contextSources": [
+            {
+              "title": "Original Flickr photograph",
+              "url": "https://www.flickr.com/photos/bobistraveling/16800080154"
+            }
+          ],
+          "profileSlugs": [
+            "lumbee"
+          ],
+          "asset": "assets/profile-visuals/lumbee-powwow-lumberton-2015.jpg",
+          "cardAsset": "assets/profile-visuals/lumbee-powwow-lumberton-2015.jpg",
+          "sourceImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/10th_Annual_Lumbee_Powwow_Lumberton.jpg/960px-10th_Annual_Lumbee_Powwow_Lumberton.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Photo: bobistraveling / Flickr, CC BY 2.0",
+          "derivatives": {
+            "asset": {
+              "width": 960,
+              "height": 692,
+              "bytes": 306211,
+              "sha256": "120b47a39d3a7639831826b9f3412b16e62b38dcf5fb8022ec07bc55f2d6e842"
+            },
+            "cardAsset": {
+              "width": 960,
+              "height": 692,
+              "bytes": 306211,
+              "sha256": "120b47a39d3a7639831826b9f3412b16e62b38dcf5fb8022ec07bc55f2d6e842"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:215;--profile-angle:21deg;--profile-photo:url(\"../../assets/profile-visuals/lumbee-powwow-lumberton-2015.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 1
     },
     {
       "slug": "lummi",
@@ -14134,6 +14430,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "navajo-dine",
+      "name": "Navajo (Diné)",
+      "originalId": 244,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 167,
+      "angle": -50,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "lyle-harvey-weaving-2022",
+          "title": "Lyle J. Harvey demonstrates Diné weaving, 2022",
+          "creator": "L. Cisneros, National Park Service",
+          "credit": "L. Cisneros / National Park Service, CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lyle_Harvey_shows_visitors_weaving_techniques_on_a_loom_(52288481775).jpg",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2022-08-15",
+          "alt": "Lyle Harvey works at a wooden weaving loom during a public demonstration outside Grand Canyon Lodge.",
+          "scope": "Lyle J. Harvey (Diné/Navajo) demonstrates weaving at Grand Canyon’s Native American Heritage Days on August 15, 2022. This is the same credited crop and web-size file used on the directory card.",
+          "contextSources": [
+            {
+              "title": "Grand Canyon National Park’s original Flickr photograph",
+              "url": "https://flickr.com/photos/50693818@N08/52288481775"
+            }
+          ],
+          "profileSlugs": [
+            "navajo-dine"
+          ],
+          "asset": "assets/lyle-harvey-weaving-2022.webp",
+          "cardAsset": "assets/lyle-harvey-weaving-2022.webp",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lyle_Harvey_shows_visitors_weaving_techniques_on_a_loom_%2852288481775%29.jpg",
+          "reviewedAt": "2026-11-20",
+          "mediaType": "photograph",
+          "cardCredit": "Lyle J. Harvey weaving · NPS / L. Cisneros",
+          "derivatives": {
+            "asset": {
+              "width": 1322,
+              "height": 1006,
+              "bytes": 175452,
+              "sha256": "22c8636e4dff2e988ee3a86eef171e50485ba7a7f43783ae87bdfedfa7e72083"
+            },
+            "cardAsset": {
+              "width": 1322,
+              "height": 1006,
+              "bytes": 175452,
+              "sha256": "22c8636e4dff2e988ee3a86eef171e50485ba7a7f43783ae87bdfedfa7e72083"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:167;--profile-angle:-50deg;--profile-photo:url(\"../../assets/lyle-harvey-weaving-2022.webp\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "netmizaaggamig-nishnaabeg",

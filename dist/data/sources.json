@@ -4122,6 +4122,83 @@
     ]
   },
   {
+    "id": "s-adak-apiai-history",
+    "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+    "title": "History",
+    "publisher": "Aleutian Pribilof Islands Association",
+    "type": "Regional history",
+    "annotation": "The association describes the modern community of Adak on the island after the naval station closed.",
+    "accessed": "2026-11-20",
+    "contentReviewedAt": "2026-11-20",
+    "contentReviewScope": "Selected passage about the establishment of the modern Adak community in 1998.",
+    "indigenousLed": true,
+    "countsTowardMinimum": false,
+    "sourceUnitKey": "adak-apiai-history",
+    "topics": [
+      "History",
+      "Homelands",
+      "Colonialism",
+      "Institutions"
+    ],
+    "nations": [
+      {
+        "name": "Adak",
+        "slug": "adak"
+      },
+      {
+        "name": "Aleut (Unangax̂)",
+        "slug": "aleut-unangax"
+      }
+    ],
+    "profileContexts": [
+      {
+        "profileName": "Adak",
+        "profileSlug": "adak",
+        "profileOriginalId": null,
+        "sourceId": "s-adak-apiai-history",
+        "profileAnchor": "source-1",
+        "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+        "title": "History",
+        "publisher": "Aleutian Pribilof Islands Association",
+        "type": "Regional history",
+        "annotation": "The association describes the modern community of Adak on the island after the naval station closed.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "contentReviewScope": "Selected passage about the establishment of the modern Adak community in 1998.",
+        "indigenousLed": true,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "adak-apiai-history",
+        "topics": []
+      },
+      {
+        "profileName": "Aleut (Unangax̂)",
+        "profileSlug": "aleut-unangax",
+        "profileOriginalId": 10,
+        "sourceId": "p10-s1",
+        "profileAnchor": "source-1",
+        "title": "History: Unangax̂, Coastal People of Far Southwestern Alaska",
+        "publisher": "Aleutian Pribilof Islands Association; Douglas W. Veltre",
+        "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+        "type": "Indigenous-led",
+        "topics": [
+          "History",
+          "Homelands",
+          "Colonialism",
+          "Institutions"
+        ],
+        "annotation": "APIA publishes this substantial condensation by anthropologist Douglas W. Veltre. Selected sections explain homeland geography, colonial coercion, Pribilof settlement and institutional differences. Undated present-day statistics and broad biological or religious generalizations require separate verification.",
+        "accessed": "2026-10-21",
+        "contentReviewedAt": "2026-10-21",
+        "contentReviewScope": "Read Introduction/Population and Territory, Russian and American Periods, Pribilof Islands, and Unangax̂ Today. This is the web condensation, not inspection of a longer original work.",
+        "publicationDate": "Undated web condensation"
+      }
+    ],
+    "sourceKey": "ref-e5778801dd02d79e",
+    "perspectives": [
+      "Indigenous-led"
+    ]
+  },
+  {
     "id": "p10-s5",
     "title": "Tribes: The Aleutian/Pribilof Region",
     "publisher": "Aleutian Pribilof Islands Association",
@@ -4213,58 +4290,6 @@
       }
     ],
     "sourceKey": "ref-cf87ddc00eecf614",
-    "perspectives": [
-      "Indigenous-led"
-    ]
-  },
-  {
-    "id": "p10-s1",
-    "title": "History: Unangax̂, Coastal People of Far Southwestern Alaska",
-    "publisher": "Aleutian Pribilof Islands Association; Douglas W. Veltre",
-    "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
-    "type": "Indigenous-led",
-    "topics": [
-      "History",
-      "Homelands",
-      "Colonialism",
-      "Institutions"
-    ],
-    "annotation": "APIA publishes this substantial condensation by anthropologist Douglas W. Veltre. Selected sections explain homeland geography, colonial coercion, Pribilof settlement and institutional differences. Undated present-day statistics and broad biological or religious generalizations require separate verification.",
-    "accessed": "2026-10-21",
-    "contentReviewedAt": "2026-10-21",
-    "contentReviewScope": "Read Introduction/Population and Territory, Russian and American Periods, Pribilof Islands, and Unangax̂ Today. This is the web condensation, not inspection of a longer original work.",
-    "publicationDate": "Undated web condensation",
-    "nations": [
-      {
-        "name": "Aleut (Unangax̂)",
-        "slug": "aleut-unangax"
-      }
-    ],
-    "profileContexts": [
-      {
-        "profileName": "Aleut (Unangax̂)",
-        "profileSlug": "aleut-unangax",
-        "profileOriginalId": 10,
-        "sourceId": "p10-s1",
-        "profileAnchor": "source-1",
-        "title": "History: Unangax̂, Coastal People of Far Southwestern Alaska",
-        "publisher": "Aleutian Pribilof Islands Association; Douglas W. Veltre",
-        "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
-        "type": "Indigenous-led",
-        "topics": [
-          "History",
-          "Homelands",
-          "Colonialism",
-          "Institutions"
-        ],
-        "annotation": "APIA publishes this substantial condensation by anthropologist Douglas W. Veltre. Selected sections explain homeland geography, colonial coercion, Pribilof settlement and institutional differences. Undated present-day statistics and broad biological or religious generalizations require separate verification.",
-        "accessed": "2026-10-21",
-        "contentReviewedAt": "2026-10-21",
-        "contentReviewScope": "Read Introduction/Population and Territory, Russian and American Periods, Pribilof Islands, and Unangax̂ Today. This is the web condensation, not inspection of a longer original work.",
-        "publicationDate": "Undated web condensation"
-      }
-    ],
-    "sourceKey": "ref-e5778801dd02d79e",
     "perspectives": [
       "Indigenous-led"
     ]
@@ -18904,6 +18929,52 @@
     "sourceKey": "ref-9bd3beb35c0ff643",
     "perspectives": [
       "Museum / archive"
+    ]
+  },
+  {
+    "id": "s-adak-community-city",
+    "url": "https://www.adak-ak.gov/1488/Community",
+    "title": "Community",
+    "publisher": "City of Adak",
+    "type": "Municipal website",
+    "annotation": "Follow the city’s links to community organizations and services, including the Adak Community Development Corporation.",
+    "accessed": "2026-11-20",
+    "contentReviewedAt": "2026-11-20",
+    "contentReviewScope": "Community page title and the City’s description of the Community Development Corporation.",
+    "indigenousLed": false,
+    "countsTowardMinimum": false,
+    "sourceUnitKey": "adak-city-community",
+    "topics": [],
+    "nations": [
+      {
+        "name": "Adak",
+        "slug": "adak"
+      }
+    ],
+    "profileContexts": [
+      {
+        "profileName": "Adak",
+        "profileSlug": "adak",
+        "profileOriginalId": null,
+        "sourceId": "s-adak-community-city",
+        "profileAnchor": "source-2",
+        "url": "https://www.adak-ak.gov/1488/Community",
+        "title": "Community",
+        "publisher": "City of Adak",
+        "type": "Municipal website",
+        "annotation": "Follow the city’s links to community organizations and services, including the Adak Community Development Corporation.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "contentReviewScope": "Community page title and the City’s description of the Community Development Corporation.",
+        "indigenousLed": false,
+        "countsTowardMinimum": false,
+        "sourceUnitKey": "adak-city-community",
+        "topics": []
+      }
+    ],
+    "sourceKey": "ref-46ee42821e90e788",
+    "perspectives": [
+      "Other / see annotation"
     ]
   },
   {

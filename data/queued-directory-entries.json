@@ -30883,14 +30883,52 @@
       "slug": "adak",
       "originalId": null,
       "entryType": "named-community-or-institution",
-      "entryStage": "name-only-outline",
-      "researchStatus": "queued",
+      "entryStage": "source-context",
+      "researchStatus": "source-guide",
       "researchComplete": false,
       "substantiveWorks": 0,
       "supportingIdentificationReferences": 1,
-      "readingSourceCards": 0,
-      "sources": [],
-      "sections": [],
+      "readingSourceCards": 2,
+      "sources": [
+        {
+          "id": "s-adak-apiai-history",
+          "url": "https://www.apiai.org/departments/cultural-heritage-department/culture-history/history/",
+          "title": "History",
+          "publisher": "Aleutian Pribilof Islands Association",
+          "type": "Regional history",
+          "annotation": "The association describes the modern community of Adak on the island after the naval station closed.",
+          "accessed": "2026-11-20",
+          "contentReviewedAt": "2026-11-20",
+          "contentReviewScope": "Selected passage about the establishment of the modern Adak community in 1998.",
+          "indigenousLed": true,
+          "countsTowardMinimum": false,
+          "sourceUnitKey": "adak-apiai-history"
+        },
+        {
+          "id": "s-adak-community-city",
+          "url": "https://www.adak-ak.gov/1488/Community",
+          "title": "Community",
+          "publisher": "City of Adak",
+          "type": "Municipal website",
+          "annotation": "Follow the city’s links to community organizations and services, including the Adak Community Development Corporation.",
+          "accessed": "2026-11-20",
+          "contentReviewedAt": "2026-11-20",
+          "contentReviewScope": "Community page title and the City’s description of the Community Development Corporation.",
+          "indigenousLed": false,
+          "countsTowardMinimum": false,
+          "sourceUnitKey": "adak-city-community"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Adak Island and the modern community",
+          "text": "The Aleutian Pribilof Islands Association dates the establishment of the modern community on Adak Island to 1998, after the naval station closed. The City of Adak links local organizations, including the Adak Community Development Corporation.",
+          "sourceIds": [
+            "s-adak-apiai-history",
+            "s-adak-community-city"
+          ]
+        }
+      ],
       "identificationEvidence": [
         {
           "url": "https://www.apiai.org/tribes/",
@@ -30903,7 +30941,9 @@
           "accessNotes": "The retained reader response delivered all343 numbered text lines0-342 of provider-reported343 for this response. This is text receipt only, not factual/layout/image/linked-page review. Actual November12,2026 narrow naming review is separate from unknown original first-publication/update/byline; crawl metadata is not publication. This constructor made no original, linked, image or remainder request and renews no old packet dates or original retrieval."
         }
       ],
-      "addedAt": null
+      "addedAt": null,
+      "listedReadingSources": 2,
+      "imageStatus": "Reviewed photograph with credit and reuse terms"
     },
     {
       "name": "Amchitka",
