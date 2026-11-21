@@ -11720,6 +11720,112 @@
     ]
   },
   {
+    "name": "American Indian Council",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native workforce services organization",
+    "region": "Iowa, Kansas, and Missouri",
+    "overview": "The American Indian Council helps Native job seekers with employment and training services. The organization lists Iowa field offices in Marshalltown and Sioux City.",
+    "overviewSourceIds": [
+      "s-ia2-american-indian-council-offices-20261121",
+      "s-ia2-american-indian-council-history-20261121"
+    ],
+    "relationshipNote": "The Council’s office directory identifies two Iowa locations, in Marshalltown and Sioux City.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ia2-american-indian-council-offices-20261121",
+        "title": "Contact and office locations",
+        "url": "https://www.indiancouncil.net/contacts.html",
+        "publisher": "American Indian Council",
+        "type": "Community organization website",
+        "topics": [
+          "Marshalltown",
+          "Sioux City",
+          "Wichita",
+          "North Kansas City"
+        ],
+        "annotation": "The Council lists Iowa field offices in Marshalltown and Sioux City, along with its Missouri administrative office and a Kansas field office.",
+        "contentReviewScope": "The organization’s named office locations, including its two Iowa field offices.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ia2-american-indian-council-history-20261121",
+        "title": "About the American Indian Council",
+        "url": "https://www.indiancouncil.net/about.html",
+        "publisher": "American Indian Council",
+        "type": "Community organization website",
+        "topics": [
+          "Native workforce development",
+          "Iowa",
+          "Community services"
+        ],
+        "annotation": "The Council traces its origins to 1972 and describes its work with Native job seekers and workforce partners.",
+        "contentReviewScope": "The organization’s description of its founding and employment and training programs in Iowa, Missouri, and Kansas.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Employment and training",
+        "text": "The Council dates its founding to 1972 and describes programs for job seekers in Iowa, Kansas, and Missouri. Its Iowa offices work within a network of regional workforce services.",
+        "sourceIds": [
+          "s-ia2-american-indian-council-offices-20261121",
+          "s-ia2-american-indian-council-history-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://www.indiancouncil.net/contacts.html",
+        "title": "Contact and office locations",
+        "publisher": "American Indian Council",
+        "scope": "The Council’s office directory identifies two Iowa locations, in Marshalltown and Sioux City.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "american-indian-council",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      },
+      {
+        "id": "US-KS",
+        "name": "Kansas",
+        "key": "us-ks"
+      },
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
+      }
+    ]
+  },
+  {
     "name": "American Indian Education Program (Chicago Public Schools)",
     "originalId": null,
     "added": true,
@@ -29687,6 +29793,101 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Chan-Ya-Ta Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Mill Creek village site",
+    "region": "Buena Vista County, Iowa",
+    "overview": "The Chan-Ya-Ta Site preserves evidence of an Indigenous village in Buena Vista County. Iowa’s regional archaeological summary identifies it with the Mill Creek tradition.",
+    "overviewSourceIds": [
+      "s-ia2-chan-ya-ta-nps-20261121",
+      "s-ia2-chan-ya-ta-mill-creek-20261121"
+    ],
+    "relationshipNote": "The National Register locates Chan-Ya-Ta in Buena Vista County, and the state’s regional plan identifies the settlement as a Mill Creek village.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ia2-chan-ya-ta-nps-20261121",
+        "title": "Chan-Ya-Ta Site",
+        "url": "https://npgallery.nps.gov/AssetDetail/NRIS/78001209",
+        "publisher": "U.S. National Park Service, National Register of Historic Places",
+        "type": "Government",
+        "topics": [
+          "Buena Vista County",
+          "Chan-Ya-Ta",
+          "Archaeological site"
+        ],
+        "annotation": "The National Register identifies the Chan-Ya-Ta Site in Buena Vista County, Iowa.",
+        "contentReviewScope": "The National Register record’s exact site name, type, and Buena Vista County location.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ia2-chan-ya-ta-mill-creek-20261121",
+        "title": "Glacial Trail Scenic Byway Corridor Management Plan",
+        "url": "https://www.iowadot.gov/iowasbyways/GTSB_CMP.pdf",
+        "publisher": "Iowa Department of Transportation",
+        "type": "Government",
+        "topics": [
+          "Mill Creek villages",
+          "Chan-Ya-Ta",
+          "Buena Vista County"
+        ],
+        "annotation": "The regional plan identifies Chan-Ya-Ta as a Mill Creek village and summarizes evidence of its former dwellings.",
+        "contentReviewScope": "The archaeological context for the Chan-Ya-Ta settlement and its place among separately documented Mill Creek villages.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Evidence of village life",
+        "text": "The regional plan summarizes archaeological evidence of earthlodges and storage pits. It describes rows of dwellings and the rebuilding of houses over time.",
+        "sourceIds": [
+          "s-ia2-chan-ya-ta-nps-20261121",
+          "s-ia2-chan-ya-ta-mill-creek-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://npgallery.nps.gov/AssetDetail/NRIS/78001209",
+        "title": "Chan-Ya-Ta Site",
+        "publisher": "U.S. National Park Service, National Register of Historic Places",
+        "scope": "The National Register locates Chan-Ya-Ta in Buena Vista County, and the state’s regional plan identifies the settlement as a Mill Creek village.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "wittrock-indian-village"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "chanyata-site",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
       }
     ]
   },
@@ -79258,6 +79459,102 @@
     ]
   },
   {
+    "name": "Latino-Native American Alumni Alliance",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Native and Latino alumni organization",
+    "region": "Iowa City, Iowa",
+    "overview": "The Latino-Native American Alumni Alliance connects Native American and Latino alumni and students at the University of Iowa. It supports campus programming and the Latino Native American Cultural Center.",
+    "overviewSourceIds": [
+      "s-ia2-ui-latino-native-alumni-alliance-20261121",
+      "s-ia2-ui-alumni-alliance-reunion-20261121"
+    ],
+    "relationshipNote": "The University of Iowa identifies the Alliance and documents an in-person reunion in Iowa City.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ia2-ui-latino-native-alumni-alliance-20261121",
+        "title": "Latino-Native American Alumni Alliance",
+        "url": "https://www.foriowa.org/communities/latino-native-alliance.php",
+        "publisher": "University of Iowa Center for Advancement",
+        "type": "Academic / reference",
+        "topics": [
+          "Iowa City",
+          "Native alumni",
+          "Latino alumni"
+        ],
+        "annotation": "The university’s alumni office describes the group’s work with Native American and Latino alumni and students.",
+        "contentReviewScope": "The Alliance’s official name, purpose, stated campus programs, and support for the Latino Native American Cultural Center.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ia2-ui-alumni-alliance-reunion-20261121",
+        "title": "Famed Writers Cisneros, Harjo, Herrera Return for Iowa’s LNACC Reunion",
+        "url": "https://magazine.foriowa.org/story.php?ed=true&storyid=2480",
+        "publisher": "Iowa Magazine, University of Iowa Center for Advancement",
+        "type": "Reporting / interview",
+        "topics": [
+          "Iowa City",
+          "Alumni reunion",
+          "Latino Native American Cultural Center"
+        ],
+        "annotation": "The university’s reunion coverage documents the Alliance’s work with the cultural center and an archives program at the Main Library.",
+        "contentReviewScope": "The university magazine’s account of Alliance reunion activities in Iowa City and the program at the University Libraries.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false,
+        "author": "Sanjna Singh"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Campus connections",
+        "text": "The Alliance describes networking opportunities for alumni and students. The university’s 2024 reunion coverage describes events at the cultural center and an archives open house at the Main Library.",
+        "sourceIds": [
+          "s-ia2-ui-latino-native-alumni-alliance-20261121",
+          "s-ia2-ui-alumni-alliance-reunion-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://www.foriowa.org/communities/latino-native-alliance.php",
+        "title": "Latino-Native American Alumni Alliance",
+        "publisher": "University of Iowa Center for Advancement",
+        "scope": "The University of Iowa identifies the Alliance and documents an in-person reunion in Iowa City.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "latino-native-american-cultural-center"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "latinonative-american-alumni-alliance",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      }
+    ]
+  },
+  {
     "name": "Lawáak (Klawock)",
     "originalId": null,
     "added": true,
@@ -118859,6 +119156,101 @@
     ]
   },
   {
+    "name": "Phipps Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Mill Creek village site",
+    "region": "Cherokee County, Iowa",
+    "overview": "The Phipps Site represents an Indigenous village in Cherokee County. The Office of the State Archaeologist identifies it as a key site of the Mill Creek tradition in northwestern Iowa.",
+    "overviewSourceIds": [
+      "s-ia2-phipps-site-ceramics-20261121",
+      "s-ia2-phipps-site-mill-creek-20261121"
+    ],
+    "relationshipNote": "The Iowa archaeological report identifies Phipps with the Mill Creek tradition, and the regional plan lists it as a village site in Cherokee County.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ia2-phipps-site-ceramics-20261121",
+        "title": "Phipps Site Ceramics",
+        "url": "https://iowaarchaeology.org/product/report-25/",
+        "publisher": "University of Iowa Office of the State Archaeologist",
+        "type": "Academic / reference",
+        "topics": [
+          "Mill Creek villages",
+          "Phipps Site",
+          "Ceramics"
+        ],
+        "annotation": "The Office of the State Archaeologist identifies Phipps as a significant Mill Creek site in northwestern Iowa.",
+        "contentReviewScope": "The publisher’s description of the Phipps Site and Report 25’s analysis of the ceramics.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ia2-phipps-site-mill-creek-20261121",
+        "title": "Glacial Trail Scenic Byway Corridor Management Plan",
+        "url": "https://www.iowadot.gov/iowasbyways/GTSB_CMP.pdf",
+        "publisher": "Iowa Department of Transportation",
+        "type": "Government",
+        "topics": [
+          "Phipps Site",
+          "Mill Creek villages",
+          "Cherokee County"
+        ],
+        "annotation": "The regional plan distinguishes the Phipps village site from other sites in Cherokee County and the Little Sioux watershed.",
+        "contentReviewScope": "The plan’s list of the distinct Mill Creek village sites and its identification of Phipps in Cherokee County.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Archaeological research",
+        "text": "The Office of the State Archaeologist’s report examines ceramics from the site and discusses what their distribution reveals about the village’s use over time.",
+        "sourceIds": [
+          "s-ia2-phipps-site-ceramics-20261121",
+          "s-ia2-phipps-site-mill-creek-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://iowaarchaeology.org/product/report-25/",
+        "title": "Phipps Site Ceramics",
+        "publisher": "University of Iowa Office of the State Archaeologist",
+        "scope": "The Iowa archaeological report identifies Phipps with the Mill Creek tradition, and the regional plan lists it as a village site in Cherokee County.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "wittrock-indian-village"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "phipps-site",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
+      }
+    ]
+  },
+  {
     "name": "Piankashaw",
     "originalId": null,
     "added": true,
@@ -123305,6 +123697,82 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Poweshiek’s Iowa River Village",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Meskwaki village",
+    "region": "Iowa River near Iowa City, Iowa",
+    "overview": "Poweshiek led a Meskwaki community with a village along the Iowa River near present-day Iowa City. The Biographical Dictionary of Iowa describes his later move farther west in Iowa.",
+    "overviewSourceIds": [
+      "s-ia2-poweshieks-village-biography-20261121"
+    ],
+    "relationshipNote": "The University of Iowa Press biography identifies the Meskwaki leader and situates his earlier village along the Iowa River near Iowa City.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ia2-poweshieks-village-biography-20261121",
+        "title": "Poweshiek",
+        "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=309",
+        "publisher": "The Biographical Dictionary of Iowa, University of Iowa Press",
+        "type": "Academic / reference",
+        "topics": [
+          "Meskwaki",
+          "Iowa River",
+          "Iowa City"
+        ],
+        "annotation": "This biography distinguishes the Iowa River village from the location farther west to which Poweshiek moved his village.",
+        "contentReviewScope": "The biography’s description of Poweshiek’s earlier Meskwaki village by the Iowa River near present-day Iowa City.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "A village on the Iowa River",
+        "text": "The biography places the earlier village near present-day Iowa City and describes Poweshiek moving his village farther west after returning from an 1837 delegation.",
+        "sourceIds": [
+          "s-ia2-poweshieks-village-biography-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://uipress.lib.uiowa.edu/bdi/DetailsPage.aspx?id=309",
+        "title": "Poweshiek",
+        "publisher": "The Biographical Dictionary of Iowa, University of Iowa Press",
+        "scope": "The University of Iowa Press biography identifies the Meskwaki leader and situates his earlier village along the Iowa River near Iowa City.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "meskwaki"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "poweshieks-iowa-river-village",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
       }
     ]
   },
@@ -158020,6 +158488,101 @@
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
+      }
+    ]
+  },
+  {
+    "name": "West Oak Forest Earthlodge Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-21",
+    "kind": "Historic Indigenous earthlodge site",
+    "region": "Loess Hills, Mills County, Iowa",
+    "overview": "West Oak Forest Earthlodge Site is a recorded Indigenous habitation site in western Iowa’s Loess Hills. Mills County associates the earthlodge evidence in the area with the Glenwood archaeological tradition.",
+    "overviewSourceIds": [
+      "s-ia2-west-oak-forest-earthlodge-nps-20261121",
+      "s-ia2-west-oak-forest-county-guide-20261121"
+    ],
+    "relationshipNote": "The National Register identifies the earthlodge site in Mills County, and the county describes earthlodge evidence in West Oak Forest.",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ia2-west-oak-forest-earthlodge-nps-20261121",
+        "title": "West Oak Forest Earthlodge Site",
+        "url": "https://npgallery.nps.gov/AssetDetail/NRIS/10000342",
+        "publisher": "U.S. National Park Service, National Register of Historic Places",
+        "type": "Government",
+        "topics": [
+          "Loess Hills",
+          "Mills County",
+          "Earthlodges"
+        ],
+        "annotation": "The National Register identifies a historic earthlodge site in Mills County within its study of archaeological resources in the Loess Hills.",
+        "contentReviewScope": "The National Register listing’s site name, resource type, and Mills County location.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ia2-west-oak-forest-county-guide-20261121",
+        "title": "West Oak Forest",
+        "url": "https://www.millscountyiowa.gov/DocumentCenter/View/238/West-Oak-Forest-PDF",
+        "publisher": "Mills County Conservation Board",
+        "type": "Government",
+        "topics": [
+          "West Oak Forest",
+          "Loess Hills",
+          "Glenwood archaeological tradition"
+        ],
+        "annotation": "The county guide describes the surrounding Indigenous habitation evidence and associates it with the Glenwood archaeological tradition.",
+        "contentReviewScope": "The county park guide’s account of Indigenous earthlodge evidence in West Oak Forest.",
+        "accessed": "2026-11-21",
+        "contentReviewedAt": "2026-11-21",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Earthlodge evidence in the Loess Hills",
+        "text": "The National Register records this site as part of the region’s Indigenous archaeological heritage. Mills County’s park guide describes the evidence as part of a wider historic habitation landscape.",
+        "sourceIds": [
+          "s-ia2-west-oak-forest-earthlodge-nps-20261121",
+          "s-ia2-west-oak-forest-county-guide-20261121"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-21",
+    "identificationEvidence": [
+      {
+        "url": "https://npgallery.nps.gov/AssetDetail/NRIS/10000342",
+        "title": "West Oak Forest Earthlodge Site",
+        "publisher": "U.S. National Park Service, National Register of Historic Places",
+        "scope": "The National Register identifies the earthlodge site in Mills County, and the county describes earthlodge evidence in West Oak Forest.",
+        "reviewedAt": "2026-11-21",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "glenwood-archaeological-state-preserve"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the documented name and mapped connections."
+    },
+    "slug": "west-oak-forest-earthlodge-site",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-IA",
+        "name": "Iowa",
+        "key": "us-ia"
       }
     ]
   },
