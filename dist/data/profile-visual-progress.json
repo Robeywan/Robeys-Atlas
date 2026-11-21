@@ -3,12 +3,14 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 400,
+    "selectedProfiles": 401,
     "existingApache": 1,
-    "newProfileTreatments": 399,
-    "newTreatmentsWithPhotographs": 399,
+    "newProfileTreatments": 400,
+    "newTreatmentsWithPhotographs": 400,
     "decorativeTreatmentsAwaitingPhotographs": 0,
-    "autoEnrolledThisBuild": []
+    "autoEnrolledThisBuild": [
+      "yaquina"
+    ]
   },
   "treatments": [
     {
@@ -27267,6 +27269,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 9
+    },
+    {
+      "slug": "yaquina",
+      "name": "Yaquina",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 125,
+      "angle": -30,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "yaquina-bay-newport",
+          "title": "Beach at Yaquina Bay, Newport, Oregon",
+          "alt": "Wind-shaped sand dunes on the beach at Yaquina Bay under a clear sky.",
+          "creator": "Gary Halvorson, Oregon State Archives",
+          "credit": "Gary Halvorson, Oregon State Archives",
+          "cardCredit": "Photo: Gary Halvorson, Oregon State Archives",
+          "date": "September 21, 2004",
+          "mediaType": "photograph",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yaquina_Bay,_Newport_-_DPLA_-_6be665dc7cb4a1fd86e3e4b58038cafe.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Yaquina_Bay%2C_Newport_-_DPLA_-_6be665dc7cb4a1fd86e3e4b58038cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0",
+          "reviewedAt": "2026-11-20",
+          "profileSlugs": [
+            "yaquina"
+          ],
+          "scope": "Gary Halvorson’s 2004 photograph shows the beach at Yaquina Bay in Newport. The bay provides geographic context for the Yaquina homeland described in the Oregon curriculum and Byram’s study. The Atlas resized the original for the directory card and photo viewer.",
+          "contextSources": [
+            {
+              "title": "Selected English Place Names with Indigenous Origins in Western Oregon",
+              "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/yaquina-bay-newport.jpg",
+          "cardAsset": "assets/profile-visuals/yaquina-bay-newport-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 958,
+              "bytes": 267102,
+              "sha256": "161731334459bbac4b3dd3a4a54471486e77693551052815b8460200dcfc13ba"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 43001,
+              "sha256": "7899c28c09c5c01add80e69527030edeb87c8bc38b42863884a8f2a2c94ece03"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:125;--profile-angle:-30deg;--profile-photo:url(\"../../assets/profile-visuals/yaquina-bay-newport.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "yavapai",

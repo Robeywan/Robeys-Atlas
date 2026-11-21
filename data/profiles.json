@@ -137563,5 +137563,103 @@
     "overviewSourceIds": [
       "s-oh-oldtown-20261120"
     ]
+  },
+  {
+    "name": "Yaquina",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-20",
+    "kind": "People / community",
+    "region": "Central Oregon coast / Yaquina River and Yaquina Bay",
+    "overview": "The Yaquina are an Indigenous people of Oregon’s central coast. Their traditional homeland includes the Yaquina River valley and Yaquina Bay. The Yaquina are one of the ancestral peoples of the Confederated Tribes of Siletz Indians.",
+    "relationshipNote": "The Oregon map link locates the traditional homeland described by the education resource and Byram’s study.",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-or-yaquina-names-20261120",
+        "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf",
+        "title": "Selected English Place Names with Indigenous Origins in Western Oregon",
+        "publisher": "Oregon Department of Education; Tribal History/Shared History",
+        "type": "Government",
+        "topics": [
+          "Homelands",
+          "Names",
+          "Language distinctions"
+        ],
+        "annotation": "The curriculum identifies Yaquina as an Indigenous people of central coastal Oregon and explains how the name Yaqona refers to their river valley in the Alsea and Yaquina languages.",
+        "contentReviewScope": "The first page’s Alsea and Yaquina homelands and the Yaquina (Yaqona) entry.",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-or-yaquina-byram-20261120",
+        "url": "https://www.academia.edu/28938960/Colonial_Power_and_Indigenous_Justice_Fur_Trade_Violence_and_Its_Aftermath_in_Yaquina_Narrative",
+        "title": "Colonial Power and Indigenous Justice: Fur Trade Violence and Its Aftermath in Yaquina Narrative",
+        "author": "R. Scott Byram",
+        "publisher": "Oregon Historical Quarterly",
+        "publicationDate": "Fall 2008",
+        "type": "Scholarly historical article",
+        "topics": [
+          "Yaquina history",
+          "Community geography",
+          "Oral history"
+        ],
+        "annotation": "Byram’s opening pages place Yaquina villages near the bay and along related waterways and identify the Yaquina as one of the ancestral peoples of today’s Confederated Tribes of Siletz Indians. The article notes whose oral accounts it draws on.",
+        "contentReviewScope": "The opening identification of the Yaquina, pre-mid-1850s settlement context, and introduction of the oral sources in Oregon Historical Quarterly 109(3).",
+        "accessed": "2026-11-20",
+        "contentReviewedAt": "2026-11-20",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Homeland and name",
+        "text": "Oregon’s Tribal History/Shared History curriculum explains that Yaqona names the river valley in the Alsea and Yaquina languages. English usage extended Yaquina to the people and to places such as the river, bay, and headland.",
+        "sourceIds": [
+          "s-or-yaquina-names-20261120"
+        ]
+      },
+      {
+        "title": "Villages and connections to Siletz",
+        "text": "Historian and archaeologist R. Scott Byram describes Yaquina villages around the bay and smaller settlements on rivers and tributaries before the mid-1850s. He identifies the Yaquina as one of the ancestral peoples of today’s Confederated Tribes of Siletz Indians.",
+        "sourceIds": [
+          "s-or-yaquina-byram-20261120"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-20",
+    "identificationEvidence": [
+      {
+        "url": "https://www.oregon.gov/ode/students-and-family/equity/NativeAmericanEducation/Documents/SB13%20Curriculum/Selected_English_Place_Names_from_Indigenous_Languages.pdf",
+        "title": "Selected English Place Names with Indigenous Origins in Western Oregon",
+        "publisher": "Oregon Department of Education; Tribal History/Shared History",
+        "scope": "The Oregon Department of Education’s curriculum identifies the Yaquina as an Indigenous people of the central Oregon coast and identifies Yaqona as their river valley. Byram describes Yaquina villages at the bay and on nearby waterways.",
+        "reviewedAt": "2026-11-20",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "alsea",
+      "confederated-tribes-of-siletz-indians-of-oregon"
+    ],
+    "researchGaps": [
+      "Further accounts from Yaquina families and the Confederated Tribes of Siletz Indians would expand this introduction."
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "This guide covers the name, homeland and documented community context."
+    },
+    "overviewSourceIds": [
+      "s-or-yaquina-names-20261120",
+      "s-or-yaquina-byram-20261120"
+    ]
   }
 ]
