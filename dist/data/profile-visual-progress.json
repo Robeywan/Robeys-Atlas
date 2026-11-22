@@ -3,16 +3,18 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 541,
+    "selectedProfiles": 547,
     "existingApache": 1,
-    "newProfileTreatments": 540,
-    "newTreatmentsWithPhotographs": 462,
-    "decorativeTreatmentsAwaitingPhotographs": 78,
+    "newProfileTreatments": 546,
+    "newTreatmentsWithPhotographs": 465,
+    "decorativeTreatmentsAwaitingPhotographs": 81,
     "autoEnrolledThisBuild": [
-      "cloud-mans-village",
-      "kaposia",
-      "little-earth-of-united-tribes",
-      "mendota-mdewakanton-dakota-tribal-community"
+      "american-indian-movement",
+      "black-dogs-village",
+      "dakota-wicohan",
+      "leech-lake-tribal-college",
+      "mahkato-mdewakanton-association",
+      "minneapolis-american-indian-center"
     ]
   },
   "treatments": [
@@ -1706,6 +1708,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:74;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/toledo-point-place-cullen-park.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "american-indian-movement",
+      "name": "American Indian Movement",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 213,
+      "angle": -14,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:213;--profile-angle:-14deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -3975,6 +4000,29 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 13
+    },
+    {
+      "slug": "black-dogs-village",
+      "name": "Black Dog’s Village",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 281,
+      "angle": -70,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:281;--profile-angle:-70deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "black-river-band-ojibwe",
@@ -7736,6 +7784,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 13
+    },
+    {
+      "slug": "dakota-wicohan",
+      "name": "Dakota Wicohan",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 351,
+      "angle": -12,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "mn-morton-outcrops-kiser-2025",
+          "profileSlugs": [
+            "dakota-wicohan"
+          ],
+          "title": "Morton Outcrops Scientific and Natural Area",
+          "alt": "Rounded rock outcrops ringed by grass and shrubs in Morton, Minnesota",
+          "creator": "Tim Kiser / Wikimedia Commons",
+          "credit": "Tim Kiser / Wikimedia Commons",
+          "cardCredit": "Photo: Tim Kiser / Wikimedia Commons",
+          "date": "2025-08-15",
+          "mediaType": "photograph",
+          "scope": "A view of the Morton landscape near the organization’s listed contact location. Resized for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morton_Outcrops_Scientific_and_Natural_Area%2C_Morton_Gneiss.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Morton_Outcrops_Scientific_and_Natural_Area%2C_Morton_Gneiss.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Contact",
+              "url": "https://dakotawicohan.org/contact/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mn-morton-outcrops-kiser-2025.jpg",
+          "cardAsset": "assets/profile-visuals/mn-morton-outcrops-kiser-2025-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 900,
+              "bytes": 454131,
+              "sha256": "45b9f00d0282e8b174e366ce83db9f5e7706c3a82c32a88e0842fef8fac50e4e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 400,
+              "bytes": 77419,
+              "sha256": "ec78cc12ba132779f8d0be1c53a3f95d8c2609e48759e5ba46f0c154f8efe1f1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:351;--profile-angle:-12deg;--profile-photo:url(\"../../assets/profile-visuals/mn-morton-outcrops-kiser-2025.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "dangriga-belize",
@@ -15399,6 +15512,71 @@
       "substantiveInspectedSources": 1
     },
     {
+      "slug": "leech-lake-tribal-college",
+      "name": "Leech Lake Tribal College",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 109,
+      "angle": 3,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "mn-leech-lake-tribal-college-lewer-2009",
+          "profileSlugs": [
+            "leech-lake-tribal-college"
+          ],
+          "title": "Leech Lake Tribal College campus in 2009",
+          "alt": "Aerial view of two red-roofed buildings on the Leech Lake Tribal College campus with water beyond the trees",
+          "creator": "Mark Lewer / Leech Lake Tribal College",
+          "credit": "Mark Lewer / Leech Lake Tribal College",
+          "cardCredit": "Photo: Mark Lewer / Leech Lake Tribal College",
+          "date": "2009-07-27",
+          "mediaType": "photograph",
+          "scope": "Mark Lewer photographed the campus during the college’s 2009 National Summer Transportation Institute. Resized for display under the source’s attribution terms.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:LLTC_2009_NSTI_Aerial_Shot.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/LLTC_2009_NSTI_Aerial_Shot.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:LLTC_2009_NSTI_Aerial_Shot.jpg#Licensing",
+          "rightsLabel": "Attribution required (unrestricted reuse)",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Our History",
+              "url": "https://www.lltc.edu/about/our-history/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mn-leech-lake-tribal-college-lewer-2009.jpg",
+          "cardAsset": "assets/profile-visuals/mn-leech-lake-tribal-college-lewer-2009-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 394735,
+              "sha256": "9e006175753418214f88634d6c9fa6b71f09b72909a5b3df27fedc268ee2b5e7"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 70391,
+              "sha256": "6488ce0e8ea01d2a069485f93cc4f462ee9dcbb0d9427b40306f736f500f9e85"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:109;--profile-angle:3deg;--profile-photo:url(\"../../assets/profile-visuals/mn-leech-lake-tribal-college-lewer-2009.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "lenape",
       "name": "Lenape",
       "originalId": 182,
@@ -16513,6 +16691,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "mahkato-mdewakanton-association",
+      "name": "Mahkato Mdewakanton Association",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 224,
+      "angle": 28,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "mn-land-of-memories-park-webster-2018",
+          "profileSlugs": [
+            "mahkato-mdewakanton-association"
+          ],
+          "title": "Land of Memories Park in winter",
+          "alt": "Leafless trees and snow at Land of Memories Park in Mankato at sunrise",
+          "creator": "Tony Webster",
+          "credit": "Tony Webster",
+          "cardCredit": "Photo: Tony Webster",
+          "date": "2018-03-07",
+          "mediaType": "photograph",
+          "scope": "A 2018 winter photograph of the Mankato park that hosts the Mahkato Wacipi. Resized for display under CC BY 2.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Land_of_Memories_Park%2C_Winter_in_Mankato%2C_Minnesota_%2825819714407%29.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Land_of_Memories_Park%2C_Winter_in_Mankato%2C_Minnesota_%2825819714407%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "rightsLabel": "CC BY 2.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Mahkato Mdewakanton Association",
+              "url": "https://www.mahkatowacipi.org/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mn-land-of-memories-park-webster-2018.jpg",
+          "cardAsset": "assets/profile-visuals/mn-land-of-memories-park-webster-2018-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 963,
+              "bytes": 421218,
+              "sha256": "3c05383d6d434faf063c7e50b6918779e16953b6f375333964ff98f6c575856a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 428,
+              "bytes": 74468,
+              "sha256": "b47c303494cd01962ad94acde2839e00f21a7850e52b9cb16c558730cffcd5bf"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:224;--profile-angle:28deg;--profile-photo:url(\"../../assets/profile-visuals/mn-land-of-memories-park-webster-2018.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "makah",
@@ -18920,6 +19163,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:13;--profile-angle:61deg;--profile-photo:url(\"../../assets/profile-visuals/mingo-logan-elm-memorial-2014.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "minneapolis-american-indian-center",
+      "name": "Minneapolis American Indian Center",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 179,
+      "angle": -28,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:179;--profile-angle:-28deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
