@@ -6,8 +6,8 @@
     "selectedProfiles": 736,
     "existingApache": 1,
     "newProfileTreatments": 735,
-    "newTreatmentsWithPhotographs": 646,
-    "decorativeTreatmentsAwaitingPhotographs": 89,
+    "newTreatmentsWithPhotographs": 654,
+    "decorativeTreatmentsAwaitingPhotographs": 81,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -850,14 +850,64 @@
       "hue": 144,
       "angle": -72,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-agency-chiefs-tribal-council",
+          "profileSlugs": [
+            "agency-chiefs-tribal-council"
+          ],
+          "title": "Big River sawmill and Highway 55",
+          "alt": "Satellite view of the Big River sawmill beside Highway 55, with forest, fields and lumber yards.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-09-06",
+          "mediaType": "photograph",
+          "scope": "This satellite view shows the Big River sawmill operated by Carrier Forest Products. Agency Chiefs Tribal Council’s CEO described a 2021 timber supply agreement between A.C. Forestry and Carrier for timber from the area. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_13UCV_20250906_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/13/U/CV/2025/9/S2C_13UCV_20250906_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Carrier Forest Products — Big River mill",
+              "url": "https://www.carrierlumber.ca/operations/mills-operations/carrier-forest-products-ltd-big-river-mill"
+            },
+            {
+              "title": "Saskatchewan report — A.C. Forestry in the Prince Albert Forest Management Area",
+              "url": "https://publications.saskatchewan.ca/api/v1/products/108456/formats/121897/download"
+            },
+            {
+              "title": "saskNOW — Interview on the A.C. Forestry agreement",
+              "url": "https://sasknow.com/2021/02/12/a-c-forestry-inks-deal-with-carrier-forest-products/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 660,
+              "height": 470,
+              "bytes": 78557,
+              "sha256": "d500a9e1e7abbe51544f2ed5a914433ea2c77913290b72702bf7418ae8a4f0c8"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 456,
+              "bytes": 51451,
+              "sha256": "3d72d42267a091d0077ebc3f86980d2a001d8093328b645308e70cbfd8c6457f"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-agency-chiefs-tribal-council.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-agency-chiefs-tribal-council-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:-72deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:-72deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-agency-chiefs-tribal-council.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -3980,14 +4030,60 @@
       "hue": 309,
       "angle": -72,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-battlefords-agency-tribal-chiefs",
+          "profileSlugs": [
+            "battlefords-agency-tribal-chiefs"
+          ],
+          "title": "Western Development Museum grounds, North Battleford",
+          "alt": "Grain elevator, rail equipment and smaller buildings on the Western Development Museum grounds in North Battleford.",
+          "creator": "waferboard",
+          "credit": "waferboard",
+          "cardCredit": "waferboard",
+          "date": "2010-04-20",
+          "mediaType": "photograph",
+          "scope": "This 2010 photograph shows the museum grounds. The North Battleford museum hosted Battlefords Agency Tribal Chiefs’ inaugural Two-Spirit Masquerade Ball and an accompanying community history exhibit in June 2023. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_Battleford_SK_-_grain_elevator.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/North_Battleford_SK_-_grain_elevator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Western Development Museum — Reconciliation report, North Battleford",
+              "url": "https://wdm.ca/wp-content/uploads/2024/09/WDM-Calls-to-Action-Summary-Update-Fall-2024.pdf"
+            },
+            {
+              "title": "Western Development Museum — North Battleford",
+              "url": "https://wdm.ca/visit/north-battleford/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1000,
+              "height": 376,
+              "bytes": 94970,
+              "sha256": "6f11c5b95e6c5841beb3c4197c0bd93c3172d1cc7e52b194d19d3c9bed00f49d"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 241,
+              "bytes": 36855,
+              "sha256": "e6e91355fcdd50ba8475584d5dc78891e8730d903af7fe7bcbaf0aead27a4767"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-battlefords-agency-tribal-chiefs.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-battlefords-agency-tribal-chiefs-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:309;--profile-angle:-72deg;--profile-photo:none",
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:309;--profile-angle:-72deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-battlefords-agency-tribal-chiefs.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -4003,14 +4099,60 @@
       "hue": 224,
       "angle": 43,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-battlefords-tribal-council",
+          "profileSlugs": [
+            "battlefords-tribal-council"
+          ],
+          "title": "North Battleford around the Battlefords Family Health Centre",
+          "alt": "Satellite view of downtown North Battleford, including the area around 101st Street and 12th Avenue.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-08-27",
+          "mediaType": "photograph",
+          "scope": "This satellite photograph shows the neighbourhood around the health centre. Saskatchewan’s 2000 opening announcement records that Battlefords Tribal Council purchased and renovated the former Eaton’s building for the centre. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_12UXD_20250827_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/U/XD/2025/8/S2C_12UXD_20250827_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Government of Saskatchewan — Health centre opening, 2000",
+              "url": "https://www.saskatchewan.ca/government/news-and-media/2000/july/26/health-centre-opens-in-the-battlefords"
+            },
+            {
+              "title": "Saskatchewan Health Authority — Health centre location",
+              "url": "https://www.saskhealthauthority.ca/facilities-locations/battlefords-family-health-centre"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 450,
+              "height": 360,
+              "bytes": 69875,
+              "sha256": "a839eda4611200a4d1fb0c70d94cc16113191925b124960a135a894e331de3a8"
+            },
+            "cardAsset": {
+              "width": 450,
+              "height": 360,
+              "bytes": 50234,
+              "sha256": "513bea43fb91464d7ca59024cf3626787308175b67cbe949f964de9e0ea01e94"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-battlefords-tribal-council.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-battlefords-tribal-council-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:224;--profile-angle:43deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:224;--profile-angle:43deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-battlefords-tribal-council.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -35282,14 +35424,60 @@
       "hue": 180,
       "angle": -48,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-prince-albert-grand-council",
+          "profileSlugs": [
+            "prince-albert-grand-council"
+          ],
+          "title": "West Hill around the Prince Albert Grand Council offices",
+          "alt": "Satellite view of western Prince Albert around Chief Joseph Custer Reserve, with wooded areas, roads and city blocks.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-09-08",
+          "mediaType": "photograph",
+          "scope": "This satellite view includes Chief Joseph Custer Reserve #201 in western Prince Albert. Prince Albert Grand Council lists its main office on the reserve. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_13UDV_20250908_1_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/13/U/DV/2025/9/S2B_13UDV_20250908_1_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Prince Albert Grand Council — Main office address",
+              "url": "https://pagc.sk.ca/contact-us/"
+            },
+            {
+              "title": "National Indigenous Economic Development Board — Chief Joseph Custer Reserve map, appendix A",
+              "url": "https://www.niedb-cndea.ca/wp-content/uploads/2024/11/improving-the-economic-success-of-urban-atr.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 560,
+              "height": 420,
+              "bytes": 92223,
+              "sha256": "766e2b4da615a7f173b267b91fe3818a77c1d805a027d8fcbe36dd9057bbb88d"
+            },
+            "cardAsset": {
+              "width": 560,
+              "height": 420,
+              "bytes": 64804,
+              "sha256": "dfc3bbb32e05b37a858013eb833cb54ca6b2540cd5aaa839433d3263d1553ba3"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-prince-albert-grand-council.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-prince-albert-grand-council-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:180;--profile-angle:-48deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:180;--profile-angle:-48deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-prince-albert-grand-council.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -38140,14 +38328,60 @@
       "hue": 151,
       "angle": 78,
       "composition": "orbit",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-saskatoon-tribal-council",
+          "profileSlugs": [
+            "saskatoon-tribal-council"
+          ],
+          "title": "SaskTel Centre, Saskatoon",
+          "alt": "Exterior of SaskTel Centre in Saskatoon, with the arena name visible above the entrance.",
+          "creator": "SpiritedMichelle",
+          "credit": "SpiritedMichelle",
+          "cardCredit": "SpiritedMichelle",
+          "date": "2025-10-31",
+          "mediaType": "photograph",
+          "scope": "This 2025 photograph shows the arena that Saskatoon Tribal Council listed as the venue for its 2026 Every Child Matters Pow Wow. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SaskTel_Centre_in_2025.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/SaskTel_Centre_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Saskatoon Tribal Council — 2026 Every Child Matters Pow Wow",
+              "url": "https://sktc.sk.ca/events/every-child-matters-pow-wow-2026/"
+            },
+            {
+              "title": "SaskTel Centre — Saskatoon Tribal Council event listing",
+              "url": "https://www.sasktelcentre.com/event/saskatoon-tribal-council-every-child-matters-annual-pow-wow-2/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 474434,
+              "sha256": "437464c43805ed500de39e41a7c35aa55783c4e00df22b945a79c5f4770c1619"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 70064,
+              "sha256": "d7a658b3e6a0a5883c54bc47d5ce8de53718095691296581d128cc9d56362d36"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-saskatoon-tribal-council.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-saskatoon-tribal-council-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:151;--profile-angle:78deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:151;--profile-angle:78deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-saskatoon-tribal-council.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -40180,14 +40414,60 @@
       "hue": 198,
       "angle": -21,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-south-east-treaty-4-tribal-council",
+          "profileSlugs": [
+            "south-east-treaty-4-tribal-council"
+          ],
+          "title": "Inside Brandt Centre, formerly the Regina Agridome",
+          "alt": "Rows of seats overlooking the floor of Brandt Centre in Regina.",
+          "creator": "Asessippi41",
+          "credit": "Asessippi41",
+          "cardCredit": "Asessippi41",
+          "date": "2015-08-25",
+          "mediaType": "photograph",
+          "scope": "This 2015 photograph shows the arena that hosted the opening ceremony of the 1999 Saskatchewan Indian Winter Games. South East Treaty #4 Tribal Council co-hosted the Games. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandt_2.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Brandt_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Saskatchewan Sage — Report on the 1999 Winter Games",
+              "url": "https://ammsa.com/publications/saskatchewan-sage/meadow-lake-captures-third-straight-winter-games-title-0"
+            },
+            {
+              "title": "REAL District — Arena history",
+              "url": "https://www.realdistrict.ca/about-real/our-history/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 346322,
+              "sha256": "c67f52b589c6ef8c0982d5acc340fd567f050db61e2587bd9d1616263293b475"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 63507,
+              "sha256": "0fc2204c98f64d0544a80e0b1715c60b1f0396f4f16cffb08bcc161d55edc013"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-south-east-treaty-4-tribal-council.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-south-east-treaty-4-tribal-council-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:198;--profile-angle:-21deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:198;--profile-angle:-21deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-south-east-treaty-4-tribal-council.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -40514,14 +40794,64 @@
       "hue": 276,
       "angle": 59,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-st-isadore-de-belleville-metis-settlement",
+          "profileSlugs": [
+            "st-isadore-de-belleville-metis-settlement"
+          ],
+          "title": "Present-day St. Isidore-de-Bellevue and surrounding fields",
+          "alt": "Satellite view of St. Isidore-de-Bellevue, with the village clustered along a road amid green fields.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-06-30",
+          "mediaType": "photograph",
+          "scope": "This satellite view shows present-day St. Isidore-de-Bellevue and the surrounding farmland. Centre francophone BDS documents Métis families among Bellevue’s early settlers. The 1918 Postmaster General’s report lists a Saskatchewan post office as St. Isidore de Belleville. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_13UDU_20250630_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/13/U/DU/2025/6/S2B_13UDU_20250630_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Centre francophone BDS — Bellevue and its Métis heritage",
+              "url": "https://centrefrancophonebds.ca/"
+            },
+            {
+              "title": "Postmaster General — Saskatchewan listing, 1918",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Report_of_the_Postmaster_General%2C_for_the_year_ending_31st_March%2C_1918._%28IA_1919v54i8p24_1435%29.pdf"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Modern hamlet location",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=HAHFP"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 580,
+              "height": 430,
+              "bytes": 60283,
+              "sha256": "d21000df75bab2f375eed4cf0b2dbc761d111db3822eda0e6254e7eee9922c40"
+            },
+            "cardAsset": {
+              "width": 580,
+              "height": 430,
+              "bytes": 41583,
+              "sha256": "2c1d40e21cd91de1299ab7738e186c5e4b6e68c318e6d1bdd603bc1b95dca7a6"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-st-isadore-de-belleville-metis-settlement.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-st-isadore-de-belleville-metis-settlement-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:276;--profile-angle:59deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:276;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-st-isadore-de-belleville-metis-settlement.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -46112,14 +46442,60 @@
       "hue": 156,
       "angle": 39,
       "composition": "orbit",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sk-photo-yorkton-tribal-council",
+          "profileSlugs": [
+            "yorkton-tribal-council"
+          ],
+          "title": "Western Development Museum and surrounding area, Yorkton",
+          "alt": "Satellite view of the Western Development Museum grounds, fields and neighbourhoods in western Yorkton.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-07-02",
+          "mediaType": "photograph",
+          "scope": "This satellite photograph shows the area around the Western Development Museum in Yorkton. The museum documents its partnership with Yorkton Tribal Council on its annual July 1 picnic. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_13UFS_20250702_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/13/U/FS/2025/7/S2C_13UFS_20250702_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Western Development Museum — Reconciliation report, Yorkton",
+              "url": "https://wdm.ca/wp-content/uploads/2024/09/WDM-Calls-to-Action-Summary-Update-Fall-2024.pdf"
+            },
+            {
+              "title": "Western Development Museum — Yorkton",
+              "url": "https://wdm.ca/visit/yorkton/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 535,
+              "height": 410,
+              "bytes": 92207,
+              "sha256": "8b5192ff8520a4392c0d62b8066617998236febb2992416c26bf2ba08c11f429"
+            },
+            "cardAsset": {
+              "width": 535,
+              "height": 410,
+              "bytes": 66186,
+              "sha256": "b6d37e112e225bf15ca1f404b33076574e6efd52e03c16f53c4e6d7153e7a17d"
+            }
+          },
+          "asset": "assets/profile-visuals/sk-photo-yorkton-tribal-council.jpg",
+          "cardAsset": "assets/profile-visuals/sk-photo-yorkton-tribal-council-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:156;--profile-angle:39deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:156;--profile-angle:39deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-yorkton-tribal-council.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
