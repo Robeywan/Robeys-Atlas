@@ -3,18 +3,20 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 547,
+    "selectedProfiles": 555,
     "existingApache": 1,
-    "newProfileTreatments": 546,
-    "newTreatmentsWithPhotographs": 465,
-    "decorativeTreatmentsAwaitingPhotographs": 81,
+    "newProfileTreatments": 554,
+    "newTreatmentsWithPhotographs": 469,
+    "decorativeTreatmentsAwaitingPhotographs": 85,
     "autoEnrolledThisBuild": [
-      "american-indian-movement",
-      "black-dogs-village",
-      "dakota-wicohan",
-      "leech-lake-tribal-college",
-      "mahkato-mdewakanton-association",
-      "minneapolis-american-indian-center"
+      "american-indian-health-family-services",
+      "bay-mills-community-college",
+      "keweenaw-bay-ojibwa-community-college",
+      "mackinac-bands-of-chippewa-and-ottawa-indians",
+      "nokomis-cultural-heritage-center",
+      "north-american-indian-association-of-detroit",
+      "saginaw-chippewa-tribal-college",
+      "ziibiwing-center-of-anishinabe-culture-lifeways"
     ]
   },
   "treatments": [
@@ -1616,6 +1618,29 @@
         "used": 0
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:184;--profile-angle:23deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "american-indian-health-family-services",
+      "name": "American Indian Health & Family Services",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 8,
+      "angle": 26,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:8;--profile-angle:26deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -3547,6 +3572,71 @@
         "used": 0
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:71;--profile-angle:63deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "bay-mills-community-college",
+      "name": "Bay Mills Community College",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 77,
+      "angle": -51,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "mi-bay-mills-college-rossograph-2019",
+          "profileSlugs": [
+            "bay-mills-community-college"
+          ],
+          "title": "Bay Mills Community College campus",
+          "alt": "Low building with a red metal roof and covered entrance at Bay Mills Community College",
+          "creator": "Rossograph",
+          "credit": "Rossograph",
+          "date": "2019-06-09",
+          "cardCredit": "Photo: Rossograph",
+          "mediaType": "photograph",
+          "scope": "The photographer identifies the building as Bay Mills Community College. Resized for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bay_Mills_Community_College.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bay_Mills_Community_College.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "About BMCC Overview",
+              "url": "https://bmcc.edu/about-us/index.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/mi-bay-mills-college-rossograph-2019.jpg",
+          "cardAsset": "assets/profile-visuals/mi-bay-mills-college-rossograph-2019-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 564,
+              "bytes": 207322,
+              "sha256": "f6073014a3c6338b5081a2b3c1849704dc84e1fd378ac8971f2881014aaff2fc"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 251,
+              "bytes": 35142,
+              "sha256": "f9f98c2112ec670ec4671242a36f0f52c06465cd19a8f503e45768ea79c941f0"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:77;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/mi-bay-mills-college-rossograph-2019.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -13853,6 +13943,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "keweenaw-bay-ojibwa-community-college",
+      "name": "Keweenaw Bay Ojibwa Community College",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 288,
+      "angle": -34,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "mi-keweenaw-bay-royalbroil-2010",
+          "profileSlugs": [
+            "keweenaw-bay-ojibwa-community-college"
+          ],
+          "title": "Keweenaw Bay shoreline",
+          "alt": "Open water on Keweenaw Bay with a wooded shoreline and buildings in the distance near Baraga, Michigan",
+          "creator": "Royalbroil",
+          "credit": "Royalbroil",
+          "date": "2010-08-25",
+          "cardCredit": "Photo: Royalbroil",
+          "mediaType": "photograph",
+          "scope": "A view across Keweenaw Bay toward neighboring Baraga, in the same bay area as the college in L’Anse. Resized for display under CC BY-SA 3.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:BaragaMichiganPanoramaKeweenawBayLakeSuperior.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/BaragaMichiganPanoramaKeweenawBayLakeSuperior.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://www.kbocc.edu/about-us/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mi-keweenaw-bay-royalbroil-2010.jpg",
+          "cardAsset": "assets/profile-visuals/mi-keweenaw-bay-royalbroil-2010-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 958,
+              "bytes": 254389,
+              "sha256": "0cc2711a9ddd2fb73a74af0f68cc25e47933fea47396e16c8f9f67548e232114"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 47887,
+              "sha256": "2d74f20dacde281ded224871edc5908ec048e6690fd09b36eee9727b6252f9d1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:288;--profile-angle:-34deg;--profile-photo:url(\"../../assets/profile-visuals/mi-keweenaw-bay-royalbroil-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "kiche",
       "name": "K'iche'",
       "originalId": 169,
@@ -16542,6 +16697,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:116;--profile-angle:-26deg;--profile-photo:url(\"../../assets/profile-visuals/mackachack-mac-a-cheek-castle.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "mackinac-bands-of-chippewa-and-ottawa-indians",
+      "name": "Mackinac Bands of Chippewa and Ottawa Indians",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 175,
+      "angle": -79,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "mi-st-ignace-harbor-haeri-2009",
+          "profileSlugs": [
+            "mackinac-bands-of-chippewa-and-ottawa-indians"
+          ],
+          "title": "St. Ignace ferry harbor",
+          "alt": "Open water at St. Ignace ferry harbor with Mackinac Island in the distance",
+          "creator": "Bobak Ha'Eri",
+          "credit": "Bobak Ha'Eri",
+          "date": "2009-06-18",
+          "cardCredit": "Photo: Bobak Ha'Eri",
+          "mediaType": "photograph",
+          "scope": "A photograph of the harbor in St. Ignace, where the organization lists its mailing location. Resized for display under CC BY 3.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2009-0618-StIgnace-harbor.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/2009-0618-StIgnace-harbor.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "rightsLabel": "CC BY 3.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://www.mackinacbands.org/about-us"
+            }
+          ],
+          "asset": "assets/profile-visuals/mi-st-ignace-harbor-haeri-2009.jpg",
+          "cardAsset": "assets/profile-visuals/mi-st-ignace-harbor-haeri-2009-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 834,
+              "bytes": 191568,
+              "sha256": "682a4485d5a28e9a7e8a98bad91923029532a364de9fdec76e1f4128e83892b1"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 371,
+              "bytes": 34010,
+              "sha256": "ae7241c55432620111bf9d66fefd42e06cdd6797e6c727bdef9b8416deae61fe"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:175;--profile-angle:-79deg;--profile-photo:url(\"../../assets/profile-visuals/mi-st-ignace-harbor-haeri-2009.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -22386,6 +22606,29 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "nokomis-cultural-heritage-center",
+      "name": "Nokomis Cultural Heritage Center",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 168,
+      "angle": -54,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:168;--profile-angle:-54deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "nokoni",
       "name": "Nokoni",
       "originalId": null,
@@ -22532,6 +22775,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "north-american-indian-association-of-detroit",
+      "name": "North American Indian Association of Detroit",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 359,
+      "angle": 24,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:359;--profile-angle:24deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "northern-paiute",
@@ -27531,6 +27797,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 1
+    },
+    {
+      "slug": "saginaw-chippewa-tribal-college",
+      "name": "Saginaw Chippewa Tribal College",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 0,
+      "angle": -10,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:0;--profile-angle:-10deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "saint-kateri-center-of-chicago",
@@ -33939,6 +34228,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "ziibiwing-center-of-anishinabe-culture-lifeways",
+      "name": "Ziibiwing Center of Anishinabe Culture & Lifeways",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 216,
+      "angle": 42,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "mi-ziibiwing-entrance-nathan-strait-2024",
+          "profileSlugs": [
+            "ziibiwing-center-of-anishinabe-culture-lifeways"
+          ],
+          "title": "Entrance to the Ziibiwing Center",
+          "alt": "A rounded white entrance canopy between two evergreen trees at the Ziibiwing Center",
+          "creator": "Nathan Strait",
+          "credit": "Nathan Strait",
+          "date": "2024-03-13",
+          "cardCredit": "Photo: Nathan Strait",
+          "mediaType": "photograph",
+          "scope": "The center’s entrance in March 2024. Resized for display under CC BY-SA 4.0.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ziibiwing_Center_of_Anishinabe_Culture_%26_Lifeways%2C_building_entrance%2C_March_2024.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ziibiwing_Center_of_Anishinabe_Culture_%26_Lifeways%2C_building_entrance%2C_March_2024.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "reviewedAt": "2026-11-21",
+          "contextSources": [
+            {
+              "title": "Ziibiwing Contact",
+              "url": "https://www.sagchip.org/ziibiwing/aboutus/contact.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/mi-ziibiwing-entrance-nathan-strait-2024.jpg",
+          "cardAsset": "assets/profile-visuals/mi-ziibiwing-entrance-nathan-strait-2024-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 322801,
+              "sha256": "5ea05e3637f4032ef51f48576d21d472fa12d4996619c1fe266ccf4845c80b7a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 59056,
+              "sha256": "286495a0c58d871ea105592402eb0831bf0d4e1666a5fb8bd7f7458997f6f283"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:216;--profile-angle:42deg;--profile-photo:url(\"../../assets/profile-visuals/mi-ziibiwing-entrance-nathan-strait-2024.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "zuni",
