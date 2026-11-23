@@ -3,22 +3,59 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 1068,
+    "selectedProfiles": 1117,
     "existingApache": 1,
-    "newProfileTreatments": 1067,
-    "newTreatmentsWithPhotographs": 986,
+    "newProfileTreatments": 1116,
+    "newTreatmentsWithPhotographs": 1035,
     "decorativeTreatmentsAwaitingPhotographs": 81,
     "autoEnrolledThisBuild": [
-      "carcross-tagish-first-nation",
-      "champagne-and-aishihik-first-nations",
-      "first-nation-of-nacho-nyak-dun",
-      "kluane-first-nation",
-      "kwanlin-dun-first-nation",
-      "liard-first-nation",
-      "little-salmon-carmacks-first-nation",
-      "ross-river-dena-council",
-      "teslin-tlingit-council",
-      "white-river-first-nation"
+      "acho-dene-koe-first-nation",
+      "akaitcho-territory-government",
+      "aklavik",
+      "behdzi-ahda-first-nation",
+      "community-government-of-behchoko",
+      "community-government-of-gameti",
+      "community-government-of-wekweeti",
+      "community-government-of-whati",
+      "deh-gah-gotie-dene-first-nation",
+      "dehcho-first-nations",
+      "del-ne-got-ne-government",
+      "deninu-kue-first-nation",
+      "ehdiitat-gwichin-council",
+      "fort-liard-metis-local-67",
+      "fort-providence-metis-council",
+      "fort-resolution-metis-government",
+      "fort-simpson-metis",
+      "fort-smith-metis-council",
+      "gwichin-tribal-council",
+      "gwichya-gwichin-council",
+      "hay-river-metis-government-council",
+      "inuvialuit-regional-corporation",
+      "inuvik",
+      "kaagee-tu-first-nation",
+      "kat-odeeche-first-nation",
+      "dl-kue-first-nation",
+      "lutsel-ke-dene-first-nation",
+      "nahanni-butte-dene-band",
+      "nihtat-gwichin-council",
+      "northwest-territory-metis-nation",
+      "paulatuk",
+      "pehdzeh-ki-first-nation",
+      "sachs-harbour",
+      "sahtu-dene-and-metis-of-fort-good-hope",
+      "sahtu-dene-and-metis-of-norman-wells",
+      "sahtu-dene-and-metis-of-tulita",
+      "sahtu-secretariat-incorporated",
+      "salt-river-first-nation",
+      "sambaa-ke-first-nation",
+      "smiths-landing-first-nation",
+      "tet-it-gwichin-council",
+      "t-icho-government",
+      "tthetsehkedel-first-nation",
+      "tuktoyaktuk",
+      "ulukhaktok",
+      "west-point-first-nation",
+      "yellowknives-dene-first-nation"
     ]
   },
   "treatments": [
@@ -418,6 +455,80 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 15
+    },
+    {
+      "slug": "acho-dene-koe-first-nation",
+      "name": "Acho Dene Koe First Nation",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 34,
+      "angle": 34,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-fort-liard",
+          "profileSlugs": [
+            "acho-dene-koe-first-nation",
+            "fort-liard-metis-local-67"
+          ],
+          "title": "Fort Liard and the Liard River",
+          "alt": "The settlement of Fort Liard beside the broad Liard River, with roads in the surrounding forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Liard area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_10VDM_20260714_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/10/V/DM/2026/7/S2C_10VDM_20260714_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 970,
+              "height": 710,
+              "bytes": 154254,
+              "sha256": "6b37ee5f882ec69454a2958ef9e8040bb1cc3c986a5410ae2855d54d0997a46f"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 468,
+              "bytes": 43627,
+              "sha256": "fabf59eeb40fc8dbc3744570f04e31fbade0081eda8b122e7794d80e608055f4"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-liard.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-liard-card.jpg",
+          "date": "2026-07-14"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:34;--profile-angle:34deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-liard.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "achumawi",
@@ -1173,6 +1284,89 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "akaitcho-territory-government",
+      "name": "Akaitcho Territory Government",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 88,
+      "angle": -39,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-fort-resolution",
+          "profileSlugs": [
+            "akaitcho-territory-government",
+            "deninu-kue-first-nation",
+            "fort-resolution-metis-government"
+          ],
+          "title": "Fort Resolution and the shore of Great Slave Lake",
+          "alt": "The buildings and roads of Fort Resolution along a curving shoreline of Great Slave Lake.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Resolution area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VUN_20260717_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/UN/2026/7/S2B_12VUN_20260717_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Akaitcho — Our Mandate and First Nations",
+              "url": "https://akaitcho.ca/"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1010,
+              "height": 760,
+              "bytes": 170800,
+              "sha256": "4579d0050c95277c1a045c94e3044d37ef8c2f1c337f576ed857355197c9a0c7"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 482,
+              "bytes": 54945,
+              "sha256": "50da76beba0b0e60b27df26a1f5ca76dd4faf863dc36632bc3410e50fb40f7c2"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-resolution.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-resolution-card.jpg",
+          "date": "2026-07-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:88;--profile-angle:-39deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-resolution.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "akateko",
       "name": "Akateko",
       "originalId": 8,
@@ -1240,6 +1434,80 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 12
+    },
+    {
+      "slug": "aklavik",
+      "name": "Aklavik",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 176,
+      "angle": -33,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-aklavik",
+          "profileSlugs": [
+            "ehdiitat-gwichin-council",
+            "aklavik"
+          ],
+          "title": "Aklavik and the Mackenzie Delta",
+          "alt": "The buildings of Aklavik beside a wide bend in the Peel Channel, surrounded by wetlands.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Aklavik area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_8WMA_20260721_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/8/W/MA/2026/7/S2C_8WMA_20260721_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 850,
+              "height": 650,
+              "bytes": 105845,
+              "sha256": "e1433cda119d5617645ee2a3e19e848b04f865a4e3a2a9cf16530526ddb164f6"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 489,
+              "bytes": 45830,
+              "sha256": "7b0911ad09432c4bf79cb44cfec5bdaf82ba363550d2b59e30d26de7e76675ed"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-aklavik.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-aklavik-card.jpg",
+          "date": "2026-07-21"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:176;--profile-angle:-33deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-aklavik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "alabama",
@@ -5368,6 +5636,79 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:291;--profile-angle:-74deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-beecher-bay-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "behdzi-ahda-first-nation",
+      "name": "Behdzi Ahda First Nation",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 163,
+      "angle": -25,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-colville-lake",
+          "profileSlugs": [
+            "behdzi-ahda-first-nation"
+          ],
+          "title": "Colville Lake shoreline",
+          "alt": "The small community of Colville Lake and its airstrip along the shore.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Colville Lake area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9WXQ_20260807_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/W/XQ/2026/8/S2B_9WXQ_20260807_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Sahtu Dene and Métis",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/sahtu-3"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1020,
+              "height": 760,
+              "bytes": 160870,
+              "sha256": "1b789694b7d942cdd205b5fdbd7424dff29d655e41afecad64e3f08cb4274b73"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 477,
+              "bytes": 49742,
+              "sha256": "f9ac42d3a948f0bb605aa7cc5f6c3dd3ab50d6b21b465a11d93aad061a5038a5"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-colville-lake.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-colville-lake-card.jpg",
+          "date": "2026-08-07"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:163;--profile-angle:-25deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-colville-lake.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -11840,6 +12181,308 @@
       "substantiveInspectedSources": 1
     },
     {
+      "slug": "community-government-of-behchoko",
+      "name": "Community Government of Behchokǫ̀",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 204,
+      "angle": -70,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-behchoko",
+          "profileSlugs": [
+            "t-icho-government",
+            "community-government-of-behchoko"
+          ],
+          "title": "Behchokǫ̀ and nearby waters",
+          "alt": "A built-up shoreline at Behchokǫ̀ beside blue-green channels and rocky land.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Behchokǫ̀ area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VNK_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/NK/2026/8/S2C_11VNK_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1000,
+              "height": 760,
+              "bytes": 206250,
+              "sha256": "38e2267fd76aab6b95181f402fef5472d32a0b8b6912c8a7db4592a77b67abd0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 486,
+              "bytes": 67691,
+              "sha256": "7c40039db88a8b53dabc02328f361531d02bd93367e4a5fe50c11d27065cf47c"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-behchoko.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-behchoko-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:204;--profile-angle:-70deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-behchoko.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "community-government-of-gameti",
+      "name": "Community Government of Gamètì",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 102,
+      "angle": 12,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-gameti",
+          "profileSlugs": [
+            "community-government-of-gameti"
+          ],
+          "title": "Gamètì and the surrounding lakes",
+          "alt": "Gamètì on a narrow stretch of land between lakes edged with bright green shallows.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Gamètì area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_11WMM_20260716_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/W/MM/2026/7/S2B_11WMM_20260716_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 970,
+              "height": 720,
+              "bytes": 188337,
+              "sha256": "7b9174e0d24ea9f4249342895fdf8b7f05121e99f0f47ee7eca94448cf2905ce"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 475,
+              "bytes": 66734,
+              "sha256": "ef9943b39e91e83f69df93f64ecdfb0212763a31276a5af94d85262757b72625"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-gameti.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-gameti-card.jpg",
+          "date": "2026-07-16"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:102;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-gameti.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "community-government-of-wekweeti",
+      "name": "Community Government of Wekweètì",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 76,
+      "angle": 79,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-wekweeti",
+          "profileSlugs": [
+            "community-government-of-wekweeti"
+          ],
+          "title": "Wekweètì and the surrounding lakes",
+          "alt": "Wekweètì and its airstrip near the shore of a dark lake amid rock and forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Wekweètì area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_11WPM_20260723_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/W/PM/2026/7/S2B_11WPM_20260723_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 970,
+              "height": 735,
+              "bytes": 159056,
+              "sha256": "acb7794c05fbac5a29b84fbe86175d705bc51e2934f6fd0ee228c5fab0000ab0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 485,
+              "bytes": 53673,
+              "sha256": "1b33779cd158b749afbeee2b0074f8893971cf5ddac2f54d182e56453eb63382"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-wekweeti.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-wekweeti-card.jpg",
+          "date": "2026-07-23"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:76;--profile-angle:79deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-wekweeti.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "community-government-of-whati",
+      "name": "Community Government of Whatì",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 204,
+      "angle": -5,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-whati",
+          "profileSlugs": [
+            "community-government-of-whati",
+            "dogrib-t-cho"
+          ],
+          "title": "Whatì and Lac La Martre",
+          "alt": "Whatì at the edge of blue-green waters, with its road extending into the surrounding woodland.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Whatì area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VML_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/ML/2026/8/S2C_11VML_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1120,
+              "height": 785,
+              "bytes": 218790,
+              "sha256": "3e1c74aab417ef8dabeba092112f928d49acd6995879232c8e4b429c7ac3d383"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 449,
+              "bytes": 61072,
+              "sha256": "3562d10ddc57a787f12ed036b8d254874fe0612f4f18c2a30b96cfe26ee9a396"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-whati.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-whati-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:204;--profile-angle:-5deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-whati.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "comox",
       "name": "Comox",
       "originalId": 84,
@@ -13933,6 +14576,176 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "deh-gah-gotie-dene-first-nation",
+      "name": "Deh Gáh Got'ie Dene First Nation",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 260,
+      "angle": 27,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-fort-providence",
+          "profileSlugs": [
+            "deh-gah-gotie-dene-first-nation",
+            "fort-providence-metis-council",
+            "slavey"
+          ],
+          "title": "Fort Providence on the Mackenzie River",
+          "alt": "Fort Providence beside an island-dotted reach of the Mackenzie River.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Providence area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VMJ_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/MJ/2026/8/S2C_11VMJ_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1030,
+              "height": 780,
+              "bytes": 195215,
+              "sha256": "6b1023f87cfa3107ed0a7762f4abba43161bcb92432fc81b6d14fae7a95bc4c5"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 485,
+              "bytes": 58966,
+              "sha256": "51859401683c20b5fc4460f95e2ab48529b72cfd520456377c1d0648eaa332ed"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-providence.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-providence-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:260;--profile-angle:27deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-providence.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "dehcho-first-nations",
+      "name": "Dehcho First Nations",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 8,
+      "angle": 66,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-fort-simpson",
+          "profileSlugs": [
+            "dehcho-first-nations",
+            "dl-kue-first-nation",
+            "fort-simpson-metis"
+          ],
+          "title": "Fort simpson confluence",
+          "alt": "A sandy, rocky bank of the Mackenzie River at Fort Simpson, with the river junction in the distance.",
+          "creator": "david adamec",
+          "credit": "david adamec",
+          "cardCredit": "david adamec",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Simpson area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_simpson_confluence.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fort_simpson_confluence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Fort_simpson_confluence.jpg#Licensing",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Contact Us — Łı́ı́dlı̨ı̨ Kų́ę́ First Nation",
+              "url": "https://liidliikue.ca/about/contact-us/"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1134,
+              "height": 619,
+              "bytes": 179329,
+              "sha256": "1162e9eda4bb48e689b8944b036ec3d69ea822b0f697ad2fa411cd6befcd4c1e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 349,
+              "bytes": 46952,
+              "sha256": "3227eb6b76787923c7f0a8d4bd94f9374bfa8e7461696914930b77fb6350dbe6"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-simpson.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-simpson-card.jpg",
+          "date": "2009"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:8;--profile-angle:66deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-simpson.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "delaware-lenape",
       "name": "Delaware (Lenape)",
       "originalId": 97,
@@ -13994,6 +14807,88 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:290;--profile-angle:-19deg;--profile-photo:url(\"../../assets/profile-visuals/lenape-bodasin-catlin-1830.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "del-ne-got-ne-government",
+      "name": "Délı̨nę Got’ı̨nę Government",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 85,
+      "angle": -40,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-deline",
+          "profileSlugs": [
+            "sahtu-secretariat-incorporated",
+            "del-ne-got-ne-government"
+          ],
+          "title": "Deline, NWT -a",
+          "alt": "Houses at Délı̨nę beside Great Bear Lake, with ice along the shore under a cloudy sky.",
+          "creator": "mattcatpurple from Hay River, Canada",
+          "credit": "mattcatpurple from Hay River, Canada",
+          "cardCredit": "mattcatpurple from Hay River, Canada",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Délı̨nę area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deline,_NWT_-a.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Deline%2C_NWT_-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Sahtu Dene and Métis",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/sahtu-3"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 81681,
+              "sha256": "ef23e4d05a87396e7117e4972149d50cb93e68cb14be91c0aa96ab5f6cef303a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 68171,
+              "sha256": "16ca4dfdff895d1d7adcad8b0e342e8f459e3f9d4f8c51f05735b7c760c9030f"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-deline.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-deline-card.jpg",
+          "date": "2006-05-24"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:85;--profile-angle:-40deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-deline.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -14201,6 +15096,89 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "deninu-kue-first-nation",
+      "name": "Deninu Kue First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 313,
+      "angle": 64,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-fort-resolution",
+          "profileSlugs": [
+            "akaitcho-territory-government",
+            "deninu-kue-first-nation",
+            "fort-resolution-metis-government"
+          ],
+          "title": "Fort Resolution and the shore of Great Slave Lake",
+          "alt": "The buildings and roads of Fort Resolution along a curving shoreline of Great Slave Lake.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Resolution area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VUN_20260717_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/UN/2026/7/S2B_12VUN_20260717_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Akaitcho — Our Mandate and First Nations",
+              "url": "https://akaitcho.ca/"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1010,
+              "height": 760,
+              "bytes": 170800,
+              "sha256": "4579d0050c95277c1a045c94e3044d37ef8c2f1c337f576ed857355197c9a0c7"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 482,
+              "bytes": 54945,
+              "sha256": "50da76beba0b0e60b27df26a1f5ca76dd4faf863dc36632bc3410e50fb40f7c2"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-resolution.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-resolution-card.jpg",
+          "date": "2026-07-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:313;--profile-angle:64deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-resolution.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ditidaht-first-nation",
       "name": "Ditidaht First Nation",
       "originalId": null,
@@ -14286,6 +15264,80 @@
         "used": 0
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:121;--profile-angle:0deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "dogrib-t-cho",
+      "name": "Dogrib (Tłı̨chǫ)",
+      "originalId": 101,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 214,
+      "angle": 36,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-whati",
+          "profileSlugs": [
+            "community-government-of-whati",
+            "dogrib-t-cho"
+          ],
+          "title": "Whatì and Lac La Martre",
+          "alt": "Whatì at the edge of blue-green waters, with its road extending into the surrounding woodland.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Whatì area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VML_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/ML/2026/8/S2C_11VML_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1120,
+              "height": 785,
+              "bytes": 218790,
+              "sha256": "3e1c74aab417ef8dabeba092112f928d49acd6995879232c8e4b429c7ac3d383"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 449,
+              "bytes": 61072,
+              "sha256": "3562d10ddc57a787f12ed036b8d254874fe0612f4f18c2a30b96cfe26ee9a396"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-whati.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-whati-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:214;--profile-angle:36deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-whati.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -15063,6 +16115,80 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:60;--profile-angle:17deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-ehatteshaht.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "ehdiitat-gwichin-council",
+      "name": "Ehdiitat Gwich’in Council",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 329,
+      "angle": 51,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-aklavik",
+          "profileSlugs": [
+            "ehdiitat-gwichin-council",
+            "aklavik"
+          ],
+          "title": "Aklavik and the Mackenzie Delta",
+          "alt": "The buildings of Aklavik beside a wide bend in the Peel Channel, surrounded by wetlands.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Aklavik area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_8WMA_20260721_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/8/W/MA/2026/7/S2C_8WMA_20260721_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 850,
+              "height": 650,
+              "bytes": 105845,
+              "sha256": "e1433cda119d5617645ee2a3e19e848b04f865a4e3a2a9cf16530526ddb164f6"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 489,
+              "bytes": 45830,
+              "sha256": "7b0911ad09432c4bf79cb44cfec5bdaf82ba363550d2b59e30d26de7e76675ed"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-aklavik.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-aklavik-card.jpg",
+          "date": "2026-07-21"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:329;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-aklavik.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -16604,6 +17730,80 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "fort-liard-metis-local-67",
+      "name": "Fort Liard Métis Local #67",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 80,
+      "angle": -45,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-fort-liard",
+          "profileSlugs": [
+            "acho-dene-koe-first-nation",
+            "fort-liard-metis-local-67"
+          ],
+          "title": "Fort Liard and the Liard River",
+          "alt": "The settlement of Fort Liard beside the broad Liard River, with roads in the surrounding forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Liard area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_10VDM_20260714_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/10/V/DM/2026/7/S2C_10VDM_20260714_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 970,
+              "height": 710,
+              "bytes": 154254,
+              "sha256": "6b37ee5f882ec69454a2958ef9e8040bb1cc3c986a5410ae2855d54d0997a46f"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 468,
+              "bytes": 43627,
+              "sha256": "fabf59eeb40fc8dbc3744570f04e31fbade0081eda8b122e7794d80e608055f4"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-liard.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-liard-card.jpg",
+          "date": "2026-07-14"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:80;--profile-angle:-45deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-liard.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "fort-mckay-first-nation",
       "name": "Fort McKay First Nation",
       "originalId": null,
@@ -16869,6 +18069,351 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:359;--profile-angle:34deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-fort-nelson-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fort-providence-metis-council",
+      "name": "Fort Providence Métis Council",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 299,
+      "angle": 37,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-fort-providence",
+          "profileSlugs": [
+            "deh-gah-gotie-dene-first-nation",
+            "fort-providence-metis-council",
+            "slavey"
+          ],
+          "title": "Fort Providence on the Mackenzie River",
+          "alt": "Fort Providence beside an island-dotted reach of the Mackenzie River.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Providence area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VMJ_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/MJ/2026/8/S2C_11VMJ_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1030,
+              "height": 780,
+              "bytes": 195215,
+              "sha256": "6b1023f87cfa3107ed0a7762f4abba43161bcb92432fc81b6d14fae7a95bc4c5"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 485,
+              "bytes": 58966,
+              "sha256": "51859401683c20b5fc4460f95e2ab48529b72cfd520456377c1d0648eaa332ed"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-providence.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-providence-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:299;--profile-angle:37deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-providence.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fort-resolution-metis-government",
+      "name": "Fort Resolution Métis Government",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 250,
+      "angle": 11,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-fort-resolution",
+          "profileSlugs": [
+            "akaitcho-territory-government",
+            "deninu-kue-first-nation",
+            "fort-resolution-metis-government"
+          ],
+          "title": "Fort Resolution and the shore of Great Slave Lake",
+          "alt": "The buildings and roads of Fort Resolution along a curving shoreline of Great Slave Lake.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Resolution area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VUN_20260717_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/UN/2026/7/S2B_12VUN_20260717_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Akaitcho — Our Mandate and First Nations",
+              "url": "https://akaitcho.ca/"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1010,
+              "height": 760,
+              "bytes": 170800,
+              "sha256": "4579d0050c95277c1a045c94e3044d37ef8c2f1c337f576ed857355197c9a0c7"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 482,
+              "bytes": 54945,
+              "sha256": "50da76beba0b0e60b27df26a1f5ca76dd4faf863dc36632bc3410e50fb40f7c2"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-resolution.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-resolution-card.jpg",
+          "date": "2026-07-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:250;--profile-angle:11deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-resolution.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fort-simpson-metis",
+      "name": "Fort Simpson Métis",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 41,
+      "angle": -75,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-fort-simpson",
+          "profileSlugs": [
+            "dehcho-first-nations",
+            "dl-kue-first-nation",
+            "fort-simpson-metis"
+          ],
+          "title": "Fort simpson confluence",
+          "alt": "A sandy, rocky bank of the Mackenzie River at Fort Simpson, with the river junction in the distance.",
+          "creator": "david adamec",
+          "credit": "david adamec",
+          "cardCredit": "david adamec",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Simpson area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_simpson_confluence.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fort_simpson_confluence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Fort_simpson_confluence.jpg#Licensing",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Contact Us — Łı́ı́dlı̨ı̨ Kų́ę́ First Nation",
+              "url": "https://liidliikue.ca/about/contact-us/"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1134,
+              "height": 619,
+              "bytes": 179329,
+              "sha256": "1162e9eda4bb48e689b8944b036ec3d69ea822b0f697ad2fa411cd6befcd4c1e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 349,
+              "bytes": 46952,
+              "sha256": "3227eb6b76787923c7f0a8d4bd94f9374bfa8e7461696914930b77fb6350dbe6"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-simpson.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-simpson-card.jpg",
+          "date": "2009"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:41;--profile-angle:-75deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-simpson.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fort-smith-metis-council",
+      "name": "Fort Smith Métis Council",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 307,
+      "angle": -7,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-fort-smith",
+          "profileSlugs": [
+            "northwest-territory-metis-nation",
+            "salt-river-first-nation",
+            "smiths-landing-first-nation",
+            "fort-smith-metis-council"
+          ],
+          "title": "Fort Smith on the Slave River",
+          "alt": "Fort Smith’s streets and airstrip above the Slave River, bordered by extensive forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Smith area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VVM_20260908_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/VM/2026/9/S2B_12VVM_20260908_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Northwest Territory Métis Nation",
+              "url": "https://nwtmetisnation.ca/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Get to Know Your Region",
+              "url": "https://www.rmwb.ca/communities-and-neighbourhoods/truth-and-reconciliation/learn/get-to-know-your-region/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1220,
+              "height": 930,
+              "bytes": 271523,
+              "sha256": "96652b3503db02f54b0a9ea070ac39ee67fc781f1a98fd8bf14711c71964fb71"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 488,
+              "bytes": 61277,
+              "sha256": "6bd102df849fb8d598b25f38aa6d4fcc31de02866f8d3cd261c78636109e757e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-smith.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-smith-card.jpg",
+          "date": "2026-09-08"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:307;--profile-angle:-7deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-smith.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -19903,6 +21448,159 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "gwichin-tribal-council",
+      "name": "Gwich’in Tribal Council",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 99,
+      "angle": 27,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-inuvik",
+          "profileSlugs": [
+            "gwichin-tribal-council",
+            "inuvialuit-regional-corporation",
+            "nihtat-gwichin-council",
+            "inuvik"
+          ],
+          "title": "View up Mackenzie River east channel to Inuvik, NT",
+          "alt": "A calm reach of the Mackenzie River’s East Channel with forest and bright green banks, looking toward Inuvik.",
+          "creator": "Daniel Case",
+          "credit": "Daniel Case",
+          "cardCredit": "Daniel Case",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Inuvik area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_up_Mackenzie_River_east_channel_to_Inuvik,_NT.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/View_up_Mackenzie_River_east_channel_to_Inuvik%2C_NT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 766,
+              "bytes": 111715,
+              "sha256": "6883944324676097b752e3641f4db66dcfa44f5739ff6b65638a32bf67f293c9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 340,
+              "bytes": 19205,
+              "sha256": "25dfff7294332e4f28d4963f290b6c243695da056b336873d23f468940d6a1d8"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-inuvik.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-inuvik-card.jpg",
+          "date": "2015-06-30"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:99;--profile-angle:27deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-inuvik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "gwichya-gwichin-council",
+      "name": "Gwichya Gwich’in Council",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 105,
+      "angle": 28,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-tsiigehtchic",
+          "profileSlugs": [
+            "gwichya-gwichin-council"
+          ],
+          "title": "Tsiigehtchic at the river junction",
+          "alt": "The settlement of Tsiigehtchic near the mouth of the Arctic Red River where it meets the Mackenzie River.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Tsiigehtchic area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_8WNV_20260707_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/8/W/NV/2026/7/S2B_8WNV_20260707_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1140,
+              "height": 850,
+              "bytes": 189214,
+              "sha256": "e4662b3b526eaafdec9d4a6ebb6944841df85792de6889348f5980a5fd2a28ca"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 477,
+              "bytes": 49707,
+              "sha256": "c3fddd305ab2af915e5542e09f27dbc83cdb10e49730083b738fb8ba912a7384"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-tsiigehtchic.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-tsiigehtchic-card.jpg",
+          "date": "2026-07-07"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:105;--profile-angle:28deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-tsiigehtchic.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "hagwilget-village-council",
       "name": "Hagwilget Village Council",
       "originalId": null,
@@ -20683,6 +22381,88 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "hay-river-metis-government-council",
+      "name": "Hay River Métis Government Council",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 229,
+      "angle": 38,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-hay-river",
+          "profileSlugs": [
+            "west-point-first-nation",
+            "hay-river-metis-government-council"
+          ],
+          "title": "Hay River and its surrounding woodland",
+          "alt": "A built-up strip beside the Hay River, with bridges and roads extending into nearby forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Hay River area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VNH_20260824_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/NH/2026/8/S2C_11VNH_20260824_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1110,
+              "height": 790,
+              "bytes": 232918,
+              "sha256": "3184423581f7a16ca24d45041ae0cb00e050960fd7ef7fd5f1da3789cf5f46c9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 455,
+              "bytes": 62341,
+              "sha256": "6b179a4e6b4f750801b37ffd7b217d265d0d7f8a560ebb9b9c982312415be52e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-hay-river.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-hay-river-card.jpg",
+          "date": "2026-08-24"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:229;--profile-angle:38deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-hay-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "heart-lake-first-nation",
@@ -22910,6 +24690,174 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "inuvialuit-regional-corporation",
+      "name": "Inuvialuit Regional Corporation",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 198,
+      "angle": -56,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-inuvik",
+          "profileSlugs": [
+            "gwichin-tribal-council",
+            "inuvialuit-regional-corporation",
+            "nihtat-gwichin-council",
+            "inuvik"
+          ],
+          "title": "View up Mackenzie River east channel to Inuvik, NT",
+          "alt": "A calm reach of the Mackenzie River’s East Channel with forest and bright green banks, looking toward Inuvik.",
+          "creator": "Daniel Case",
+          "credit": "Daniel Case",
+          "cardCredit": "Daniel Case",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Inuvik area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_up_Mackenzie_River_east_channel_to_Inuvik,_NT.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/View_up_Mackenzie_River_east_channel_to_Inuvik%2C_NT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 766,
+              "bytes": 111715,
+              "sha256": "6883944324676097b752e3641f4db66dcfa44f5739ff6b65638a32bf67f293c9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 340,
+              "bytes": 19205,
+              "sha256": "25dfff7294332e4f28d4963f290b6c243695da056b336873d23f468940d6a1d8"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-inuvik.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-inuvik-card.jpg",
+          "date": "2015-06-30"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:198;--profile-angle:-56deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-inuvik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "inuvik",
+      "name": "Inuvik",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 29,
+      "angle": 23,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-inuvik",
+          "profileSlugs": [
+            "gwichin-tribal-council",
+            "inuvialuit-regional-corporation",
+            "nihtat-gwichin-council",
+            "inuvik"
+          ],
+          "title": "View up Mackenzie River east channel to Inuvik, NT",
+          "alt": "A calm reach of the Mackenzie River’s East Channel with forest and bright green banks, looking toward Inuvik.",
+          "creator": "Daniel Case",
+          "credit": "Daniel Case",
+          "cardCredit": "Daniel Case",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Inuvik area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_up_Mackenzie_River_east_channel_to_Inuvik,_NT.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/View_up_Mackenzie_River_east_channel_to_Inuvik%2C_NT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 766,
+              "bytes": 111715,
+              "sha256": "6883944324676097b752e3641f4db66dcfa44f5739ff6b65638a32bf67f293c9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 340,
+              "bytes": 19205,
+              "sha256": "25dfff7294332e4f28d4963f290b6c243695da056b336873d23f468940d6a1d8"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-inuvik.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-inuvik-card.jpg",
+          "date": "2015-06-30"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:29;--profile-angle:23deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-inuvik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "iowa-ioway",
       "name": "Iowa (Ioway)",
       "originalId": 144,
@@ -23755,6 +25703,79 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "kaagee-tu-first-nation",
+      "name": "Ka’a’gee Tu First Nation",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 50,
+      "angle": -4,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-kakisa",
+          "profileSlugs": [
+            "kaagee-tu-first-nation"
+          ],
+          "title": "Kakisa and Kakisa Lake",
+          "alt": "The small settlement of Kakisa near the forested shoreline of Kakisa Lake.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Kakisa area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_11VMH_20260904_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/MH/2026/9/S2B_11VMH_20260904_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 850,
+              "height": 650,
+              "bytes": 91715,
+              "sha256": "008aaacbdfad8eb5449e100dee6afb49b8691c2d53e74d0e45b8fc94c8e72353"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 489,
+              "bytes": 35482,
+              "sha256": "15804a5b782671340e58e6a4382ab765793c246e22748abb5806ab89554649c5"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-kakisa.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-kakisa-card.jpg",
+          "date": "2026-09-04"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:50;--profile-angle:-4deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-kakisa.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "kahkewistihaw-first-nation",
       "name": "Kahkewistihaw First Nation",
       "originalId": null,
@@ -24413,6 +26434,79 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:154;--profile-angle:24deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-kaska.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kat-odeeche-first-nation",
+      "name": "Kátł’odeeche First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 216,
+      "angle": 37,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-hay-river-dene-reserve",
+          "profileSlugs": [
+            "kat-odeeche-first-nation"
+          ],
+          "title": "The area of the Hay River Dene Reserve",
+          "alt": "Forest near the Hay River Dene Reserve, with the river and built-up land along the left edge.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Hay River Dene Reserve area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VNH_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/NH/2026/8/S2C_11VNH_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 740,
+              "height": 630,
+              "bytes": 114754,
+              "sha256": "88cd4432abdc0d21bf2ebd9ef2b97ebbe8db980b1d2a91c0aaab4ec006d6f8cb"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 545,
+              "bytes": 62021,
+              "sha256": "14856b50d5444e4dd695c634f311d68c98edcba78bd4602fd9f3cbceed86d305"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-hay-river-dene-reserve.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-hay-river-dene-reserve-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:216;--profile-angle:37deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-hay-river-dene-reserve.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -30130,6 +32224,93 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "dl-kue-first-nation",
+      "name": "Łı́ı́dlı̨ı̨ Kų́ę́ First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 256,
+      "angle": 77,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-fort-simpson",
+          "profileSlugs": [
+            "dehcho-first-nations",
+            "dl-kue-first-nation",
+            "fort-simpson-metis"
+          ],
+          "title": "Fort simpson confluence",
+          "alt": "A sandy, rocky bank of the Mackenzie River at Fort Simpson, with the river junction in the distance.",
+          "creator": "david adamec",
+          "credit": "david adamec",
+          "cardCredit": "david adamec",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Simpson area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_simpson_confluence.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fort_simpson_confluence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Fort_simpson_confluence.jpg#Licensing",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Contact Us — Łı́ı́dlı̨ı̨ Kų́ę́ First Nation",
+              "url": "https://liidliikue.ca/about/contact-us/"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1134,
+              "height": 619,
+              "bytes": 179329,
+              "sha256": "1162e9eda4bb48e689b8944b036ec3d69ea822b0f697ad2fa411cd6befcd4c1e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 349,
+              "bytes": 46952,
+              "sha256": "3227eb6b76787923c7f0a8d4bd94f9374bfa8e7461696914930b77fb6350dbe6"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-simpson.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-simpson-card.jpg",
+          "date": "2009"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:256;--profile-angle:77deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-simpson.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "long-lake-58-first-nation",
       "name": "Long Lake #58 First Nation",
       "originalId": null,
@@ -31107,6 +33288,79 @@
         "used": 0
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:159;--profile-angle:34deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "lutsel-ke-dene-first-nation",
+      "name": "Lutsel K’e Dene First Nation",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 251,
+      "angle": -4,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-lutselke",
+          "profileSlugs": [
+            "lutsel-ke-dene-first-nation"
+          ],
+          "title": "Łutselk’e and Great Slave Lake",
+          "alt": "The peninsula and shoreline around Łutselk’e on the East Arm of Great Slave Lake.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Łutselk’e area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_12VWQ_20260715_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/WQ/2026/7/S2C_12VWQ_20260715_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Akaitcho — Our Mandate and First Nations",
+              "url": "https://akaitcho.ca/"
+            },
+            {
+              "title": "Akaitcho Dene First Nations",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/akaitcho"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 960,
+              "height": 750,
+              "bytes": 170904,
+              "sha256": "207a930813ef112be1e982466636ac389074d61ef97fac2aba5a2f01b4980ae9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 500,
+              "bytes": 49155,
+              "sha256": "2fdd9d428a2677f3449490ab9f629c71c5020b4e19118890e7b48111623caeb5"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-lutselke.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-lutselke-card.jpg",
+          "date": "2026-07-15"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:251;--profile-angle:-4deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-lutselke.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -37611,6 +39865,79 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "nahanni-butte-dene-band",
+      "name": "Nahanni Butte Dene Band",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 212,
+      "angle": -69,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-nahanni-butte",
+          "profileSlugs": [
+            "nahanni-butte-dene-band"
+          ],
+          "title": "Nahanni Butte and the river valley",
+          "alt": "Nahanni Butte among river channels and oxbows near the junction of the South Nahanni and Liard rivers.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Nahanni Butte area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_10VDN_20260714_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/10/V/DN/2026/7/S2C_10VDN_20260714_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1120,
+              "height": 855,
+              "bytes": 190608,
+              "sha256": "096249ba5456361274c4ee3ec7a57e10ebb8eb05f29cce6d4ed1fcef89267bb3"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 489,
+              "bytes": 44567,
+              "sha256": "5e91ba9ce706c676d82e131178d34c5bbd04c712db508f5f3825c8c82419959d"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-nahanni-butte.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-nahanni-butte-card.jpg",
+          "date": "2026-07-14"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:212;--profile-angle:-69deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-nahanni-butte.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "nakazdli-whuten",
       "name": "Nak'azdli Whut'en",
       "originalId": null,
@@ -40150,6 +42477,90 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "nihtat-gwichin-council",
+      "name": "Nihtat Gwich’in Council",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 155,
+      "angle": 39,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-inuvik",
+          "profileSlugs": [
+            "gwichin-tribal-council",
+            "inuvialuit-regional-corporation",
+            "nihtat-gwichin-council",
+            "inuvik"
+          ],
+          "title": "View up Mackenzie River east channel to Inuvik, NT",
+          "alt": "A calm reach of the Mackenzie River’s East Channel with forest and bright green banks, looking toward Inuvik.",
+          "creator": "Daniel Case",
+          "credit": "Daniel Case",
+          "cardCredit": "Daniel Case",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Inuvik area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_up_Mackenzie_River_east_channel_to_Inuvik,_NT.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/View_up_Mackenzie_River_east_channel_to_Inuvik%2C_NT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 766,
+              "bytes": 111715,
+              "sha256": "6883944324676097b752e3641f4db66dcfa44f5739ff6b65638a32bf67f293c9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 340,
+              "bytes": 19205,
+              "sha256": "25dfff7294332e4f28d4963f290b6c243695da056b336873d23f468940d6a1d8"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-inuvik.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-inuvik-card.jpg",
+          "date": "2015-06-30"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:155;--profile-angle:39deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-inuvik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "nipissing-first-nation",
       "name": "Nipissing First Nation",
       "originalId": null,
@@ -41433,6 +43844,98 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:192;--profile-angle:79deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-northwest-bc-metis-association.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "northwest-territory-metis-nation",
+      "name": "Northwest Territory Métis Nation",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 165,
+      "angle": 65,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "nt-photo-fort-smith",
+          "profileSlugs": [
+            "northwest-territory-metis-nation",
+            "salt-river-first-nation",
+            "smiths-landing-first-nation",
+            "fort-smith-metis-council"
+          ],
+          "title": "Fort Smith on the Slave River",
+          "alt": "Fort Smith’s streets and airstrip above the Slave River, bordered by extensive forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Smith area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VVM_20260908_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/VM/2026/9/S2B_12VVM_20260908_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Northwest Territory Métis Nation",
+              "url": "https://nwtmetisnation.ca/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Get to Know Your Region",
+              "url": "https://www.rmwb.ca/communities-and-neighbourhoods/truth-and-reconciliation/learn/get-to-know-your-region/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1220,
+              "height": 930,
+              "bytes": 271523,
+              "sha256": "96652b3503db02f54b0a9ea070ac39ee67fc781f1a98fd8bf14711c71964fb71"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 488,
+              "bytes": 61277,
+              "sha256": "6bd102df849fb8d598b25f38aa6d4fcc31de02866f8d3cd261c78636109e757e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-smith.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-smith-card.jpg",
+          "date": "2026-09-08"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:165;--profile-angle:65deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-smith.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -45031,6 +47534,75 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "paulatuk",
+      "name": "Paulatuk",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 54,
+      "angle": 76,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-paulatuk",
+          "profileSlugs": [
+            "paulatuk"
+          ],
+          "title": "Paulatuk on the Arctic coast",
+          "alt": "Paulatuk and nearby shoreline between blue-green coastal waters and light-coloured tundra.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Paulatuk area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9WXT_20260807_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/W/XT/2026/8/S2B_9WXT_20260807_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1100,
+              "height": 820,
+              "bytes": 214680,
+              "sha256": "da761ab35c45b2076d66e2d1cbd9b05b30b3dafd926100de211fab61be2afec1"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 477,
+              "bytes": 62547,
+              "sha256": "e5535844895ea049824706e4bc26db2f891f5b5cbf09c2fc37a0e4ac385e906c"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-paulatuk.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-paulatuk-card.jpg",
+          "date": "2026-08-07"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:54;--profile-angle:76deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-paulatuk.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "pauquachin-first-nation",
       "name": "Pauquachin First Nation",
       "originalId": null,
@@ -45649,6 +48221,79 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:51;--profile-angle:-59deg;--profile-photo:url(\"../../assets/profile-visuals/mbp-peguis-st-peter-dynevor.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "pehdzeh-ki-first-nation",
+      "name": "Pehdzeh Ki First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 121,
+      "angle": 0,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-wrigley",
+          "profileSlugs": [
+            "pehdzeh-ki-first-nation"
+          ],
+          "title": "Wrigley on the Mackenzie River",
+          "alt": "Wrigley and its local roads on a high bank beside a broad reach of the Mackenzie River.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Wrigley area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_10VDR_20260717_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/10/V/DR/2026/7/S2C_10VDR_20260717_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1090,
+              "height": 800,
+              "bytes": 168151,
+              "sha256": "556de52e9561452bbc2e02ef79706f38d29007f29ea76a01bf995a1e74a571d3"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 470,
+              "bytes": 44645,
+              "sha256": "4612568c502ac408882cfc335741f12961b639e9e11b9f34580f563efde759a3"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-wrigley.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-wrigley-card.jpg",
+          "date": "2026-07-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:121;--profile-angle:0deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-wrigley.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -50576,6 +53221,75 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "sachs-harbour",
+      "name": "Sachs Harbour",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 177,
+      "angle": -73,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-sachs-harbour",
+          "profileSlugs": [
+            "sachs-harbour"
+          ],
+          "title": "Sachs Harbour on Banks Island",
+          "alt": "The shoreline at Sachs Harbour, with the community, shallow ponds and the Arctic coast.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Sachs Harbour area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9WXV_20260823_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/W/XV/2026/8/S2B_9WXV_20260823_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1150,
+              "height": 880,
+              "bytes": 213359,
+              "sha256": "1d1f9d39b6c3cefb2bcc73fb600f76fbd4cf62562c304d7fe43034a6c2060d05"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 490,
+              "bytes": 50059,
+              "sha256": "728fced1a101f39558745238ea75accfdfea808042037010385ff1199a635d3e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-sachs-harbour.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-sachs-harbour-card.jpg",
+          "date": "2026-08-23"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:177;--profile-angle:-73deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-sachs-harbour.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "saddle-lake-cree-nation",
       "name": "Saddle Lake Cree Nation",
       "originalId": null,
@@ -50908,6 +53622,295 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "sahtu-dene-and-metis-of-fort-good-hope",
+      "name": "Sahtu Dene and Métis of Fort Good Hope",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 333,
+      "angle": -54,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-fort-good-hope",
+          "profileSlugs": [
+            "sahtu-dene-and-metis-of-fort-good-hope"
+          ],
+          "title": "Fort Good Hope on the Mackenzie River",
+          "alt": "Fort Good Hope and its airstrip on the bank of the Mackenzie River, across from long wooded islands.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Good Hope area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9WWP_20260707_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/W/WP/2026/7/S2B_9WWP_20260707_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Sahtu Dene and Métis",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/sahtu-3"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 910,
+              "height": 690,
+              "bytes": 124884,
+              "sha256": "c60b8ac71bc88cbf368fa26f8a8e07c7e1a58ae99c70ae7425086e9e8e4de3a8"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 485,
+              "bytes": 46439,
+              "sha256": "ff8bcc060c8d72b31231d24fb6deba9890de755b24b3ef5248d7c390c8733c93"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-good-hope.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-good-hope-card.jpg",
+          "date": "2026-07-07"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:333;--profile-angle:-54deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-good-hope.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "sahtu-dene-and-metis-of-norman-wells",
+      "name": "Sahtu Dene and Métis of Norman Wells",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 282,
+      "angle": 50,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-norman-wells",
+          "profileSlugs": [
+            "sahtu-dene-and-metis-of-norman-wells"
+          ],
+          "title": "Norman Wells on the Mackenzie River",
+          "alt": "The streets and shoreline of Norman Wells along the Mackenzie River, with islands across the channel.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Norman Wells area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9WWN_20260807_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/W/WN/2026/8/S2B_9WWN_20260807_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Sahtu Dene and Métis",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/sahtu-3"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1160,
+              "height": 890,
+              "bytes": 217742,
+              "sha256": "b33046db153ce066de6da3e716a20a656039bef367d49b4652234836715f92cd"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 491,
+              "bytes": 54760,
+              "sha256": "7f6e5db4e8572d0be9a63ccf1dfa053253f26a7a133fc6d97052f6826ba2542e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-norman-wells.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-norman-wells-card.jpg",
+          "date": "2026-08-07"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:282;--profile-angle:50deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-norman-wells.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "sahtu-dene-and-metis-of-tulita",
+      "name": "Sahtu Dene and Métis of Tulita",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 188,
+      "angle": -37,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-tulita",
+          "profileSlugs": [
+            "sahtu-dene-and-metis-of-tulita"
+          ],
+          "title": "Tulita where the rivers meet",
+          "alt": "A sweeping bend of the Mackenzie River and the smaller Great Bear River alongside Tulita.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Tulita area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9WXN_20260807_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/W/XN/2026/8/S2B_9WXN_20260807_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Sahtu Dene and Métis",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/sahtu-3"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1120,
+              "height": 845,
+              "bytes": 181892,
+              "sha256": "527d00be9c9ba4eeed6e71e9564368f7a2a44c7041ff1b2bd37c4ef1baee2176"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 483,
+              "bytes": 46603,
+              "sha256": "98943aad10b825d1a4a758586eec374d5b22cfc97418c8bf3c1e069e29fbca5b"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-tulita.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-tulita-card.jpg",
+          "date": "2026-08-07"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:188;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-tulita.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "sahtu-secretariat-incorporated",
+      "name": "Sahtu Secretariat Incorporated",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 287,
+      "angle": 15,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-deline",
+          "profileSlugs": [
+            "sahtu-secretariat-incorporated",
+            "del-ne-got-ne-government"
+          ],
+          "title": "Deline, NWT -a",
+          "alt": "Houses at Délı̨nę beside Great Bear Lake, with ice along the shore under a cloudy sky.",
+          "creator": "mattcatpurple from Hay River, Canada",
+          "credit": "mattcatpurple from Hay River, Canada",
+          "cardCredit": "mattcatpurple from Hay River, Canada",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Délı̨nę area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deline,_NWT_-a.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Deline%2C_NWT_-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Sahtu Dene and Métis",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/sahtu-3"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 81681,
+              "sha256": "ef23e4d05a87396e7117e4972149d50cb93e68cb14be91c0aa96ab5f6cef303a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 68171,
+              "sha256": "16ca4dfdff895d1d7adcad8b0e342e8f459e3f9d4f8c51f05735b7c760c9030f"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-deline.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-deline-card.jpg",
+          "date": "2006-05-24"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:287;--profile-angle:15deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-deline.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "saikuz-first-nation",
       "name": "Saik'uz First Nation",
       "originalId": null,
@@ -51176,6 +54179,98 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "salt-river-first-nation",
+      "name": "Salt River First Nation",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 307,
+      "angle": -12,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-fort-smith",
+          "profileSlugs": [
+            "northwest-territory-metis-nation",
+            "salt-river-first-nation",
+            "smiths-landing-first-nation",
+            "fort-smith-metis-council"
+          ],
+          "title": "Fort Smith on the Slave River",
+          "alt": "Fort Smith’s streets and airstrip above the Slave River, bordered by extensive forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Smith area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VVM_20260908_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/VM/2026/9/S2B_12VVM_20260908_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Northwest Territory Métis Nation",
+              "url": "https://nwtmetisnation.ca/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Get to Know Your Region",
+              "url": "https://www.rmwb.ca/communities-and-neighbourhoods/truth-and-reconciliation/learn/get-to-know-your-region/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1220,
+              "height": 930,
+              "bytes": 271523,
+              "sha256": "96652b3503db02f54b0a9ea070ac39ee67fc781f1a98fd8bf14711c71964fb71"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 488,
+              "bytes": 61277,
+              "sha256": "6bd102df849fb8d598b25f38aa6d4fcc31de02866f8d3cd261c78636109e757e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-smith.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-smith-card.jpg",
+          "date": "2026-09-08"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:307;--profile-angle:-12deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-smith.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "samahquam-first-nation",
       "name": "Samahquam First Nation",
       "originalId": null,
@@ -51238,6 +54333,79 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:106;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-samahquam-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "sambaa-ke-first-nation",
+      "name": "Sambaa K’e First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 312,
+      "angle": 4,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-sambaa-ke",
+          "profileSlugs": [
+            "sambaa-ke-first-nation"
+          ],
+          "title": "Sambaa K’e and Trout Lake",
+          "alt": "The small community of Sambaa K’e on the wooded edge of Trout Lake.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Sambaa K’e area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_10VEN_20260721_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/10/V/EN/2026/7/S2C_10VEN_20260721_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 990,
+              "height": 790,
+              "bytes": 137222,
+              "sha256": "917a0681ade75ae819366ce0353b81896d232c70c68bd1486dc495bcfdfa96dd"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 511,
+              "bytes": 40725,
+              "sha256": "ba8c0991c87bf67a291c94d818c97f12c7290fcfda97f35ac4f065279f98d1bd"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-sambaa-ke.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-sambaa-ke-card.jpg",
+          "date": "2026-07-21"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:312;--profile-angle:4deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-sambaa-ke.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -55603,6 +58771,181 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "slavey",
+      "name": "Slavey",
+      "originalId": 353,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 51,
+      "angle": 71,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-fort-providence",
+          "profileSlugs": [
+            "deh-gah-gotie-dene-first-nation",
+            "fort-providence-metis-council",
+            "slavey"
+          ],
+          "title": "Fort Providence on the Mackenzie River",
+          "alt": "Fort Providence beside an island-dotted reach of the Mackenzie River.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Providence area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VMJ_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/MJ/2026/8/S2C_11VMJ_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1030,
+              "height": 780,
+              "bytes": 195215,
+              "sha256": "6b1023f87cfa3107ed0a7762f4abba43161bcb92432fc81b6d14fae7a95bc4c5"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 485,
+              "bytes": 58966,
+              "sha256": "51859401683c20b5fc4460f95e2ab48529b72cfd520456377c1d0648eaa332ed"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-providence.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-providence-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:51;--profile-angle:71deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-providence.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "smiths-landing-first-nation",
+      "name": "Smith’s Landing First Nation",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 68,
+      "angle": 13,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-fort-smith",
+          "profileSlugs": [
+            "northwest-territory-metis-nation",
+            "salt-river-first-nation",
+            "smiths-landing-first-nation",
+            "fort-smith-metis-council"
+          ],
+          "title": "Fort Smith on the Slave River",
+          "alt": "Fort Smith’s streets and airstrip above the Slave River, bordered by extensive forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort Smith area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_12VVM_20260908_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/VM/2026/9/S2B_12VVM_20260908_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Northwest Territory Métis Nation",
+              "url": "https://nwtmetisnation.ca/"
+            },
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Get to Know Your Region",
+              "url": "https://www.rmwb.ca/communities-and-neighbourhoods/truth-and-reconciliation/learn/get-to-know-your-region/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1220,
+              "height": 930,
+              "bytes": 271523,
+              "sha256": "96652b3503db02f54b0a9ea070ac39ee67fc781f1a98fd8bf14711c71964fb71"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 488,
+              "bytes": 61277,
+              "sha256": "6bd102df849fb8d598b25f38aa6d4fcc31de02866f8d3cd261c78636109e757e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-smith.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-smith-card.jpg",
+          "date": "2026-09-08"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:68;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-smith.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "snoqualmie",
       "name": "Snoqualmie",
       "originalId": 355,
@@ -59570,6 +62913,75 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "tet-it-gwichin-council",
+      "name": "Tetł’it Gwich’in Council",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 254,
+      "angle": 1,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-fort-mcpherson",
+          "profileSlugs": [
+            "tet-it-gwichin-council"
+          ],
+          "title": "Teetł’it Zheh and the Peel River",
+          "alt": "The community of Fort McPherson on one bank of the Peel River, with lakes and wetlands around it.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Fort McPherson area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_8WNV_20260706_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/8/W/NV/2026/7/S2B_8WNV_20260706_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Gwich’in Councils",
+              "url": "https://www.gwichintribal.ca/gwichin-councils.html"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 950,
+              "height": 740,
+              "bytes": 147156,
+              "sha256": "921dd93793b7f7c3ffa4b697a5aaacd236393dbb6b721d71a8c1e37d85ef4991"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 499,
+              "bytes": 52169,
+              "sha256": "5acf1509b423f377d4feacb7d6e734ca4d25a82f80d4bafae63621f693dd6cb4"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-fort-mcpherson.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-fort-mcpherson-card.jpg",
+          "date": "2026-07-06"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:254;--profile-angle:1deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-fort-mcpherson.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "texas-band-of-yaqui-indians",
       "name": "Texas Band of Yaqui Indians",
       "originalId": null,
@@ -60759,6 +64171,88 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:67;--profile-angle:-42deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-tletinqox-government.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "t-icho-government",
+      "name": "Tłįchǫ Government",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 149,
+      "angle": -67,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "nt-photo-behchoko",
+          "profileSlugs": [
+            "t-icho-government",
+            "community-government-of-behchoko"
+          ],
+          "title": "Behchokǫ̀ and nearby waters",
+          "alt": "A built-up shoreline at Behchokǫ̀ beside blue-green channels and rocky land.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Behchokǫ̀ area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VNK_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/NK/2026/8/S2C_11VNK_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "NWT Indigenous Government Directory",
+              "url": "https://www.eia.gov.nt.ca/en/nwt-indigenous-government-directory"
+            },
+            {
+              "title": "Indigenous Governments of the NWT",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official Indigenous Languages and Dialects Spoken by Community",
+              "url": "https://www.ece.gov.nt.ca/en/services/indigenous-language-resources/official-indigenous-languages-and-dialects-spoken-community"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1000,
+              "height": 760,
+              "bytes": 206250,
+              "sha256": "38e2267fd76aab6b95181f402fef5472d32a0b8b6912c8a7db4592a77b67abd0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 486,
+              "bytes": 67691,
+              "sha256": "7c40039db88a8b53dabc02328f361531d02bd93367e4a5fe50c11d27065cf47c"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-behchoko.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-behchoko-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:149;--profile-angle:-67deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-behchoko.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -62784,6 +66278,148 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "tthetsehkedel-first-nation",
+      "name": "Tthets’éhk’édélı̨ First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 112,
+      "angle": 34,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "nt-photo-jean-marie-river",
+          "profileSlugs": [
+            "tthetsehkedel-first-nation"
+          ],
+          "title": "Jean Marie River and the Mackenzie shoreline",
+          "alt": "Jean Marie River’s road and buildings beside the Mackenzie River in a heavily wooded setting.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Jean Marie River area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_11VLJ_20250806_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/LJ/2025/8/S2B_11VLJ_20250806_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 900,
+              "height": 670,
+              "bytes": 114481,
+              "sha256": "4cc57814aa028a3c889f5679973e26df273cab8fb5f01fcb222fae7ee10b0e0e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 476,
+              "bytes": 41358,
+              "sha256": "f805d6b03f4abb595de126ab1ae0f3c4ca4a11063914909535c00d9a6e1fc7e1"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-jean-marie-river.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-jean-marie-river-card.jpg",
+          "date": "2025-08-06"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:112;--profile-angle:34deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-jean-marie-river.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tuktoyaktuk",
+      "name": "Tuktoyaktuk",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 179,
+      "angle": 52,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-tuktoyaktuk",
+          "profileSlugs": [
+            "tuktoyaktuk"
+          ],
+          "title": "View from Cessna 172 over Tuktoyaktuk, Northwest Territories, Canada",
+          "alt": "An aerial view of Tuktoyaktuk, showing houses among coastal inlets, ponds and tundra.",
+          "creator": "Adam Jones",
+          "credit": "Adam Jones",
+          "cardCredit": "Adam Jones",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Tuktoyaktuk area in the Northwest Territories. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Cessna_172_over_Tuktoyaktuk,_Northwest_Territories,_Canada.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/View_from_Cessna_172_over_Tuktoyaktuk%2C_Northwest_Territories%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 409180,
+              "sha256": "b72f59c13e7bb32a16c2ae5f0fc3a32486154256d6e584d7a6fc2a50c39a24db"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 63654,
+              "sha256": "9feea42aada8c5b298a66cc1c4dd7c76739520fd45e947b5d1c1e3555dce0923"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-tuktoyaktuk.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-tuktoyaktuk-card.jpg",
+          "date": "2013-08-06"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:179;--profile-angle:52deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-tuktoyaktuk.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tulalip",
       "name": "Tulalip",
       "originalId": 409,
@@ -63416,6 +67052,75 @@
         "used": 1
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:229;--profile-angle:-52deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-ulkatcho-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "ulukhaktok",
+      "name": "Ulukhaktok",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 214,
+      "angle": 11,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "nt-photo-ulukhaktok",
+          "profileSlugs": [
+            "ulukhaktok"
+          ],
+          "title": "Ulukhaktok and nearby Arctic waters",
+          "alt": "Rocky headlands along the coast near Ulukhaktok with broken sea ice offshore.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Ulukhaktok area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_11WMU_20260708_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/W/MU/2026/7/S2B_11WMU_20260708_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Inuvialuit Settlement Region Communities",
+              "url": "https://www.irc.inuvialuit.com/about-irc/communities/"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1080,
+              "height": 850,
+              "bytes": 352076,
+              "sha256": "297209c4e25e6078c9a2cc3a0f1247d660f9ce445602a763a714dbf3574a6459"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 504,
+              "bytes": 106946,
+              "sha256": "0ddc264d0937260f6138e382a1bc621bf00dbf03645af8ea2edf75a435ea0999"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-ulukhaktok.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-ulukhaktok-card.jpg",
+          "date": "2026-07-08"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:214;--profile-angle:11deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-ulukhaktok.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -65621,6 +69326,88 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:188;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/west-oak-forest-earthlodge-2010.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "west-point-first-nation",
+      "name": "West Point First Nation",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 30,
+      "angle": -52,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "nt-photo-hay-river",
+          "profileSlugs": [
+            "west-point-first-nation",
+            "hay-river-metis-government-council"
+          ],
+          "title": "Hay River and its surrounding woodland",
+          "alt": "A built-up strip beside the Hay River, with bridges and roads extending into nearby forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Hay River area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VNH_20260824_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/NH/2026/8/S2C_11VNH_20260824_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Communities & Leadership",
+              "url": "https://dehcho.org/community/communities/"
+            },
+            {
+              "title": "First Nation Profiles — Dehcho First Nations",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/TCMain.aspx?TC_NUMBER=1036&lang=eng"
+            },
+            {
+              "title": "Regional, Indigenous Government and Organization Contacts",
+              "url": "https://www.gov.nt.ca/ecc/sites/ecc/files/resources/all_regions_contact_list_for_wrps_and_wos_-_april_27_2026.pdf"
+            },
+            {
+              "title": "Northwest Territory Métis Nation Communities",
+              "url": "https://www.eia.gov.nt.ca/en/priorities/indigenous-governments-nwt/northwest-territory-metis-nation"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1110,
+              "height": 790,
+              "bytes": 232918,
+              "sha256": "3184423581f7a16ca24d45041ae0cb00e050960fd7ef7fd5f1da3789cf5f46c9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 455,
+              "bytes": 62341,
+              "sha256": "6b179a4e6b4f750801b37ffd7b217d265d0d7f8a560ebb9b9c982312415be52e"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-hay-river.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-hay-river-card.jpg",
+          "date": "2026-08-24"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:30;--profile-angle:-52deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-hay-river.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -68440,6 +72227,79 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:310;--profile-angle:-17deg;--profile-photo:url(\"../../assets/profile-visuals/sk-sentinel-yellow-quill-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "yellowknives-dene-first-nation",
+      "name": "Yellowknives Dene First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 241,
+      "angle": -10,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "nt-photo-dettah",
+          "profileSlugs": [
+            "yellowknives-dene-first-nation"
+          ],
+          "title": "Dettah on Yellowknife Bay",
+          "alt": "The shore at Dettah and nearby Yellowknife Bay, with forest and pale rock along the water.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Geographic view of the Dettah area in the Northwest Territories. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_12VUQ_20260715_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/UQ/2026/7/S2C_12VUQ_20260715_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Akaitcho — Our Mandate and First Nations",
+              "url": "https://akaitcho.ca/"
+            },
+            {
+              "title": "Community Government Directory",
+              "url": "https://www.maca.gov.nt.ca/en/mail-merge?order=title_field&sort=asc"
+            },
+            {
+              "title": "Official NWT Community Names, Government of the Northwest Territories",
+              "url": "https://www.ece.gov.nt.ca/sites/ece/files/resources/official_nwt_community_names.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 630,
+              "bytes": 115180,
+              "sha256": "67789093ad711d9011f14e663a39292a521c2461d4a61ad84334367202cb6288"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 504,
+              "bytes": 52167,
+              "sha256": "21c587974c23097221b8afceab43ad2d5a0db5b11914ed91fa47709b08066788"
+            }
+          },
+          "asset": "assets/profile-visuals/nt-photo-dettah.jpg",
+          "cardAsset": "assets/profile-visuals/nt-photo-dettah-card.jpg",
+          "date": "2026-07-15"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:241;--profile-angle:-10deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-dettah.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
