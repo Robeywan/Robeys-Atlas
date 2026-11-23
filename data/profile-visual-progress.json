@@ -6,74 +6,9 @@
     "selectedProfiles": 804,
     "existingApache": 1,
     "newProfileTreatments": 803,
-    "newTreatmentsWithPhotographs": 715,
-    "decorativeTreatmentsAwaitingPhotographs": 88,
-    "autoEnrolledThisBuild": [
-      "alexander-first-nation",
-      "alexis-nakota-sioux-nation",
-      "aseniwuche-winewak-nation",
-      "athabasca-chipewyan-first-nation",
-      "athabasca-landing-metis-community-association",
-      "bearspaw-first-nation",
-      "beaver-first-nation",
-      "beaver-lake-cree-nation",
-      "bigstone-cree-nation",
-      "buffalo-lake-metis-settlement",
-      "cadotte-lake-metis-nation-association",
-      "chard-metis-nation",
-      "chiniki-first-nation",
-      "chipewyan-prairie-first-nation",
-      "cold-lake-first-nations",
-      "dene-tha-first-nation",
-      "driftpile-cree-nation",
-      "duncans-first-nation",
-      "east-prairie-metis-settlement",
-      "elizabeth-metis-settlement",
-      "enoch-cree-nation",
-      "ermineskin-cree-nation",
-      "fishing-lake-metis-settlement",
-      "fort-chipewyan-metis-nation",
-      "fort-mckay-first-nation",
-      "fort-mckay-metis-nation-association",
-      "fort-mcmurray-no-468-first-nation",
-      "frog-lake-cree-nation",
-      "gift-lake-metis-settlement",
-      "goodstoney-first-nation",
-      "heart-lake-first-nation",
-      "horse-lake-first-nation",
-      "kapaweno-first-nation",
-      "kehewin-cree-nation",
-      "kikino-metis-settlement",
-      "lac-ste-anne-metis-community-association",
-      "lakeland-metis-nation",
-      "little-red-river-cree-nation",
-      "loon-river-cree-nation-no-476",
-      "louis-bull-tribe",
-      "lubicon-lake-band-no-453",
-      "mikisew-cree-first-nation",
-      "montana-first-nation",
-      "mountain-metis-community-association",
-      "ochiese-first-nation",
-      "owl-river-metis-community-association",
-      "paddle-prairie-metis-settlement",
-      "paul-first-nation",
-      "peavine-metis-settlement",
-      "peerless-trout-first-nation",
-      "piikani-nation",
-      "saddle-lake-cree-nation",
-      "samson-cree-nation",
-      "sawridge-first-nation",
-      "sturgeon-lake-cree-nation",
-      "sucker-creek-first-nation",
-      "sunchild-first-nation",
-      "swan-river-first-nation",
-      "tallcree-first-nation",
-      "tthebatthie-denesu-ine-nation",
-      "whitefish-lake-first-nation-no-128",
-      "whitefish-lake-first-nation-no-459",
-      "willow-lake-metis-nation",
-      "woodland-cree-first-nation"
-    ]
+    "newTreatmentsWithPhotographs": 722,
+    "decorativeTreatmentsAwaitingPhotographs": 81,
+    "autoEnrolledThisBuild": []
   },
   "treatments": [
     {
@@ -3276,14 +3211,56 @@
       "hue": 124,
       "angle": 75,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-athabasca-landing-metis-community-association",
+          "profileSlugs": [
+            "athabasca-landing-metis-community-association"
+          ],
+          "title": "Town of Athabasca, Alberta photograph",
+          "alt": "Buildings in the town of Athabasca across the river, with wooded hills behind them",
+          "creator": "Bulliver",
+          "credit": "Bulliver",
+          "cardCredit": "Bulliver",
+          "date": "2008-05-19",
+          "mediaType": "photograph",
+          "scope": "The Municipal Climate Change Action Centre reports that most Athabasca Landing Métis Community Association members live in the Town of Athabasca and Athabasca County. Bulliver photographed the town from the north side of the Athabasca River. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Town_of_Athabasca,_Alberta_photograph.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Town_of_Athabasca%2C_Alberta_photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Municipal Climate Change Action Centre — Athabasca Landing Métis Community Association climate resilience action plan",
+              "url": "https://mccac.ca/success-stories/athabasca-landing-metis-community-association-climate-resilience-action-plan/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 957,
+              "bytes": 493007,
+              "sha256": "ca5275897b605a3bcf2bccab9a29ae22ebf7171b037ebe0f2f16b819ae890f12"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 80101,
+              "sha256": "b09d5e6505995615862589d355a3aa85effbe6e19fd7da6585c611db6d3e4a55"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-athabasca-landing-metis-community-association.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-athabasca-landing-metis-community-association-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:124;--profile-angle:75deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:124;--profile-angle:75deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-athabasca-landing-metis-community-association.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -7158,14 +7135,60 @@
       "hue": 92,
       "angle": 6,
       "composition": "ribbon",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-cadotte-lake-metis-nation-association",
+          "profileSlugs": [
+            "cadotte-lake-metis-nation-association"
+          ],
+          "title": "Cadotte Lake and its northern shore",
+          "alt": "Satellite view of Cadotte Lake, with the hamlet area and a road along its northern shore",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-08-26",
+          "mediaType": "photograph",
+          "scope": "The community’s website identifies Cadotte Lake as its setting. This satellite view shows the lake and surrounding area, including the hamlet area north of the lake. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11VNC_20250826_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/V/NC/2025/8/S2C_11VNC_20250826_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Cadotte Lake Métis Nation — Community home page",
+              "url": "https://www.cadottelakemetisnation.ca/"
+            },
+            {
+              "title": "Gazetteer of Canada — Cadotte Lake and hamlet",
+              "url": "https://publications.gc.ca/collections/collection_2014/rncan-nrcan/M86-11-1988.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 540,
+              "bytes": 67636,
+              "sha256": "c0a49edad0b9fb465bf6b522f47e830470d079fa4430ad7ed04db86800501bd2"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 540,
+              "bytes": 44990,
+              "sha256": "06b5aee021b3986ffe37ee2c21c94eb5393b9e1424803ce47707605d827b09f3"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-cadotte-lake-metis-nation-association.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-cadotte-lake-metis-nation-association-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:92;--profile-angle:6deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:92;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-cadotte-lake-metis-nation-association.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -7844,14 +7867,60 @@
       "hue": 52,
       "angle": 51,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-chard-metis-nation",
+          "profileSlugs": [
+            "chard-metis-nation"
+          ],
+          "title": "The Chard area near Janvier South",
+          "alt": "Satellite view of forest, roads and a winding stream in the Chard area",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-09-12",
+          "mediaType": "photograph",
+          "scope": "The Regional Municipality of Wood Buffalo lists the Chard Métis community in the Janvier South area. This satellite photograph shows the landscape around the mapped locality of Chard. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_12UVG_20250912_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/U/VG/2025/9/S2C_12UVG_20250912_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Regional Municipality of Wood Buffalo — Chard and Janvier South",
+              "url": "https://www.rmwb.ca/communities-and-neighbourhoods/truth-and-reconciliation/learn/get-to-know-your-region/"
+            },
+            {
+              "title": "Mapcarta — Chard locality",
+              "url": "https://mapcarta.com/24185772"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 550,
+              "height": 420,
+              "bytes": 55327,
+              "sha256": "93f6c18c59d547a406b8917f82e71f24113cdaa5c8b95f9adb75be0bbb6a9afb"
+            },
+            "cardAsset": {
+              "width": 550,
+              "height": 420,
+              "bytes": 36221,
+              "sha256": "34a5fe195c98da6a68ee7c299c441449cdde31ca3f422af300ea442498f58b20"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-chard-metis-nation.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-chard-metis-nation-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:52;--profile-angle:51deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:52;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-chard-metis-nation.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -14258,14 +14327,64 @@
       "hue": 133,
       "angle": -44,
       "composition": "orbit",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-fort-mckay-metis-nation-association",
+          "profileSlugs": [
+            "fort-mckay-metis-nation-association"
+          ],
+          "title": "Fort McKay and the Athabasca River",
+          "alt": "Satellite view of the streets of Fort McKay beside the Athabasca River",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-09-12",
+          "mediaType": "photograph",
+          "scope": "Wood Buffalo identifies Fort McKay as home to the Fort McKay Métis Nation, which operates the local community centre. This satellite view shows the hamlet and the surrounding Athabasca River valley. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_12VVJ_20250912_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/12/V/VJ/2025/9/S2C_12VVJ_20250912_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Regional Municipality of Wood Buffalo — Fort McKay",
+              "url": "https://www.rmwb.ca/communities-and-neighbourhoods/indigenous-and-rural-communities/fort-mckay/"
+            },
+            {
+              "title": "Regional Municipality of Wood Buffalo — Fort McKay Community Centre",
+              "url": "https://www.rmwb.ca/news/posts/fort-mckay-community-centre-a-space-for-culture-and-connection/"
+            },
+            {
+              "title": "Mapcarta — Fort McKay hamlet locator",
+              "url": "https://mapcarta.com/Fort_McKay"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 470,
+              "height": 365,
+              "bytes": 51756,
+              "sha256": "886e799fcb1408a681e86f545d1b1db168e29305144f31beabbe651429da019b"
+            },
+            "cardAsset": {
+              "width": 470,
+              "height": 365,
+              "bytes": 35527,
+              "sha256": "ec012cd21cc236de27433b77ad286eed4cb3871129b2e6709f0f05cc3d49310d"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-fort-mckay-metis-nation-association.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-fort-mckay-metis-nation-association-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:133;--profile-angle:-44deg;--profile-photo:none",
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:133;--profile-angle:-44deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-fort-mckay-metis-nation-association.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -15321,14 +15440,64 @@
       "hue": 309,
       "angle": 33,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-goodstoney-first-nation",
+          "profileSlugs": [
+            "goodstoney-first-nation"
+          ],
+          "title": "Big Horn 144A in the Alberta foothills",
+          "alt": "Satellite view of part of Big Horn 144A, with wooded ridges and a river valley",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-09-05",
+          "mediaType": "photograph",
+          "scope": "The First Nations Advisory Committee lists Big Horn 144A in connection with Goodstoney First Nation and other Stoney Nakoda First Nations. This satellite view shows part of the mapped reserve and its surroundings. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11UNU_20250905_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/U/NU/2025/9/S2C_11UNU_20250905_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "First Nations Advisory Committee — Goodstoney and Big Horn 144A",
+              "url": "https://thefnac.ca/disputes/first-nation-class-members-eligible-to-use-the-cdrp/"
+            },
+            {
+              "title": "Indigenous Services Canada — Big Horn No. 144A",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/RVDetail.aspx?RESERVE_NUMBER=06640&lang=eng"
+            },
+            {
+              "title": "Alberta — First Nations reserve map layer",
+              "url": "https://geospatial.alberta.ca/titan/rest/services/boundaries/federal_indian_reserve/FeatureServer/0"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 560,
+              "height": 425,
+              "bytes": 65910,
+              "sha256": "5bdd2227909c00873d8633f5270a713c18248f5e6732ec2415f1c185bccdd179"
+            },
+            "cardAsset": {
+              "width": 560,
+              "height": 425,
+              "bytes": 43661,
+              "sha256": "c4642f3c0bcdc2dee6036dec4cb31f22c9d8e0bed0ce48c56c40c92622da4d68"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-goodstoney-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-goodstoney-first-nation-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:309;--profile-angle:33deg;--profile-photo:none",
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:309;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-goodstoney-first-nation.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -22228,14 +22397,64 @@
       "hue": 288,
       "angle": 31,
       "composition": "ribbon",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-lac-ste-anne-metis-community-association",
+          "profileSlugs": [
+            "lac-ste-anne-metis-community-association"
+          ],
+          "title": "Lac Ste. Anne and the Alberta Beach shoreline",
+          "alt": "Satellite view of Lac Ste. Anne, with Alberta Beach and fields along the southeastern shore",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-09-05",
+          "mediaType": "photograph",
+          "scope": "The Lac Ste. Anne Métis Community Association identifies Lac Ste. Anne as part of the community’s longstanding area. This satellite view shows the lake and its southeastern shore near Alberta Beach. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_11UPV_20250905_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/U/PV/2025/9/S2C_11UPV_20250905_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Lac Ste. Anne Métis Community Association — About Us",
+              "url": "https://lsametis.com/home/about-us/"
+            },
+            {
+              "title": "Village of Alberta Beach — Location & Maps",
+              "url": "https://albertabeach.com/location-maps/"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Alberta Beach",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=IAQGA&wbdisable=true"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 780,
+              "height": 550,
+              "bytes": 100202,
+              "sha256": "baf393ac3a816d287da668010a03d66ce1e5a1e6763ae017adb9333b7955a66a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 451,
+              "bytes": 49619,
+              "sha256": "acfaa1e298ab41994722050986c4b72dfa5261addcab3d23e972fa9bf4a15728"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-lac-ste-anne-metis-community-association.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-lac-ste-anne-metis-community-association-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:288;--profile-angle:31deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:288;--profile-angle:31deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-lac-ste-anne-metis-community-association.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -29535,14 +29754,64 @@
       "hue": 27,
       "angle": -47,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ab-photo-mountain-metis-community-association",
+          "profileSlugs": [
+            "mountain-metis-community-association"
+          ],
+          "title": "Pierre Grey’s Lakes and the surrounding forest",
+          "alt": "Satellite view of Pierre Grey’s Lakes and surrounding forest",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "date": "2025-08-27",
+          "mediaType": "photograph",
+          "scope": "Mountain Métis describes its Hide Away Camp beside the Pierre Grey’s Lakes area. This satellite view shows the lakes and nearby forest. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_11ULV_20250827_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/11/U/LV/2025/8/S2B_11ULV_20250827_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-22",
+          "contextSources": [
+            {
+              "title": "Mountain Métis — Hide Away Camp",
+              "url": "https://www.mountainmetis.com/hide-away-camp"
+            },
+            {
+              "title": "Alberta Parks — Pierre Grey’s Lakes Provincial Park",
+              "url": "https://new.albertaparks.ca/parks/central/pierre-grey-s-lakes-pp/"
+            },
+            {
+              "title": "Mapcarta — Pierre Greys Lakes locator",
+              "url": "https://mapcarta.com/24554320"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 635,
+              "height": 470,
+              "bytes": 67756,
+              "sha256": "af53cc0ac5756a0df8ca1475be28b42fa9eef5d2efbca36a439f902b73dcac71"
+            },
+            "cardAsset": {
+              "width": 635,
+              "height": 470,
+              "bytes": 45670,
+              "sha256": "7b97eab7284dfd294cb67774cd8a73b930c4c3e4169fd2a95016f803f1f32621"
+            }
+          },
+          "asset": "assets/profile-visuals/ab-photo-mountain-metis-community-association.jpg",
+          "cardAsset": "assets/profile-visuals/ab-photo-mountain-metis-community-association-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:27;--profile-angle:-47deg;--profile-photo:none",
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:27;--profile-angle:-47deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-mountain-metis-community-association.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
