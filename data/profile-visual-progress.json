@@ -3,12 +3,23 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 1050,
+    "selectedProfiles": 1068,
     "existingApache": 1,
-    "newProfileTreatments": 1049,
-    "newTreatmentsWithPhotographs": 968,
+    "newProfileTreatments": 1067,
+    "newTreatmentsWithPhotographs": 986,
     "decorativeTreatmentsAwaitingPhotographs": 81,
-    "autoEnrolledThisBuild": []
+    "autoEnrolledThisBuild": [
+      "carcross-tagish-first-nation",
+      "champagne-and-aishihik-first-nations",
+      "first-nation-of-nacho-nyak-dun",
+      "kluane-first-nation",
+      "kwanlin-dun-first-nation",
+      "liard-first-nation",
+      "little-salmon-carmacks-first-nation",
+      "ross-river-dena-council",
+      "teslin-tlingit-council",
+      "white-river-first-nation"
+    ]
   },
   "treatments": [
     {
@@ -8130,6 +8141,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "carcross-tagish-first-nation",
+      "name": "Carcross/Tagish First Nation",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 347,
+      "angle": -77,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "yt-photo-carcross-tagish-first-nation",
+          "profileSlugs": [
+            "carcross-tagish-first-nation"
+          ],
+          "title": "View of Bennett Lake from Carcross, Yukon, Aug 2016",
+          "alt": "Dark mountains across Bennett Lake from the sandy shore at Carcross.",
+          "creator": "Sunnya343",
+          "credit": "Sunnya343",
+          "cardCredit": "Sunnya343",
+          "mediaType": "photograph",
+          "scope": "The photograph looks out over Bennett Lake at Carcross, a community named in the First Nation’s description of its homeland. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Bennett_Lake_from_Carcross,_Yukon,_Aug_2016.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/View_of_Bennett_Lake_from_Carcross%2C_Yukon%2C_Aug_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About Us, Carcross/Tagish First Nation",
+              "url": "https://www.ctfn.ca/organization/about-us/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 339112,
+              "sha256": "2bf488f3572317f41af3cad41a5b6a6cc40d2dcc2296dfe57c3c1990b0190f56"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 54861,
+              "sha256": "5f8462cea21b7cd045f74f07451f83051b5235d769ef1e15a90f3d533b8e7e44"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-carcross-tagish-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-carcross-tagish-first-nation-card.jpg",
+          "date": "2016-08-10"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:347;--profile-angle:-77deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-carcross-tagish-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "carrier",
       "name": "Carrier",
       "originalId": 41,
@@ -8694,6 +8770,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:176;--profile-angle:-33deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-chakastaypasin-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "champagne-and-aishihik-first-nations",
+      "name": "Champagne and Aishihik First Nations",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 114,
+      "angle": 9,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "yt-photo-champagne-and-aishihik-first-nations",
+          "profileSlugs": [
+            "champagne-and-aishihik-first-nations"
+          ],
+          "title": "Dezadeash River and St. Elias Mountains (8715954833)",
+          "alt": "The snowy banks of the Dezadeash River in front of the St. Elias Mountains near Haines Junction.",
+          "creator": "Anthony DeLorenzo from Whitehorse, Yukon, Canada",
+          "credit": "Anthony DeLorenzo from Whitehorse, Yukon, Canada",
+          "cardCredit": "Anthony DeLorenzo from Whitehorse, Yukon, Canada",
+          "mediaType": "photograph",
+          "scope": "Landscape near Haines Junction, where Champagne and Aishihik First Nations has a community office. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dezadeash_River_and_St._Elias_Mountains_(8715954833).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dezadeash_River_and_St._Elias_Mountains_%288715954833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Champagne and Aishihik First Nations",
+              "url": "https://cafn.ca/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 409168,
+              "sha256": "8b2d82388c858861cd7e14f0b95cbc9a6c9693eff1f411dd6f8caac1d0394f98"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 61267,
+              "sha256": "fe7a9eb5c18b2c4b94d4633a9727d4ed9b964ece6fb80c115e05898530a58d0e"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-champagne-and-aishihik-first-nations.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-champagne-and-aishihik-first-nations-card.jpg",
+          "date": "2013-10-29"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:114;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-champagne-and-aishihik-first-nations.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -15715,6 +15856,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "first-nation-of-nacho-nyak-dun",
+      "name": "First Nation of Na-Cho Nyäk Dun",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 115,
+      "angle": -16,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "yt-photo-first-nation-of-nacho-nyak-dun",
+          "profileSlugs": [
+            "first-nation-of-nacho-nyak-dun"
+          ],
+          "title": "Mayo mit Stewart River",
+          "alt": "An aerial view of Mayo with the Stewart River curving through the surrounding forest.",
+          "creator": "Baumjoe",
+          "credit": "Baumjoe",
+          "cardCredit": "Baumjoe",
+          "mediaType": "photograph",
+          "scope": "The First Nation of Na-Cho Nyäk Dun identifies the Mayo area in its account of its homeland. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mayo_mit_Stewart_River.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mayo_mit_Stewart_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "First Nation of Na-Cho Nyak Dun",
+              "url": "https://www.nndfn.com/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 448,
+              "bytes": 107496,
+              "sha256": "c59c67d11b37ad7baa23a3ab3991a9d82b9c284b5fc801624f188cf7e14296b0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 448,
+              "bytes": 90707,
+              "sha256": "dfafd4939888cdc036eb15fc506aaad4ab4bb8ffb23c07c041465c1d5f5e63cd"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-first-nation-of-nacho-nyak-dun.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-first-nation-of-nacho-nyak-dun-card.jpg",
+          "date": "2000"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:115;--profile-angle:-16deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-first-nation-of-nacho-nyak-dun.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "first-nations-educational-and-cultural-center-indiana-university-bloomington",
       "name": "First Nations Educational and Cultural Center (Indiana University Bloomington)",
       "originalId": null,
@@ -19621,6 +19827,75 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:264;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-gwawaenuk-tribe.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "gwichin",
+      "name": "Gwich'in",
+      "originalId": 120,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 318,
+      "angle": -66,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "yt-photo-gwichin",
+          "profileSlugs": [
+            "gwichin"
+          ],
+          "title": "Wind River in the Peel watershed",
+          "alt": "Forest and winding river channels with pale gravel bars in the Peel River watershed.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "The Wind River is part of the Peel River watershed. The Gwich’in Tribal Council and its partners describe the significance of Teetł’it Gwinjik in their announcement on the proposed national park. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_8WMU_20260806_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/8/W/MU/2026/8/S2B_8WMU_20260806_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Teetł’it Gwinjik (Peel River) watershed, joint announcement",
+              "url": "https://yukon.ca/en/news/partners-confirm-feasibility-proposed-national-park-teetlit-gwinjik-peel-river-watershed"
+            },
+            {
+              "title": "Peel Watershed ecosystems, Government of Yukon",
+              "url": "https://yukon.ca/sites/default/files/env/env-ecosystems-peel-watershed.pdf"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1092,
+              "bytes": 333592,
+              "sha256": "1b9970e708252d187c252ed00cf2ccd3cc86f8ddb906786a0444939865f7f370"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 486,
+              "bytes": 59668,
+              "sha256": "01f47597649c5c861038a7bd5b99ce41f3c3101ea6649e35ce256c04c1573eb0"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-gwichin.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-gwichin-card.jpg",
+          "date": "2026-08-06"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:318;--profile-angle:-66deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-gwichin.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -26329,6 +26604,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "kluane-first-nation",
+      "name": "Kluane First Nation",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 50,
+      "angle": 16,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "yt-photo-kluane-first-nation",
+          "profileSlugs": [
+            "kluane-first-nation"
+          ],
+          "title": "Burwash Landing on Kluane Lake",
+          "alt": "The shoreline of Kluane Lake with the community and road at Burwash Landing.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Kluane First Nation describes Burwash Landing in its community guide. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_7VFJ_20260926_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/7/V/FJ/2026/9/S2C_7VFJ_20260926_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Living Here, Kluane First Nation",
+              "url": "https://kfn.ca/living-here/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 515,
+              "bytes": 73594,
+              "sha256": "ba41f6f22bf52db3a156afcde8a479cca5d3e92c49322b0a66a2d5eed8f797bf"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 515,
+              "bytes": 50283,
+              "sha256": "e5a775d7fcde13a79a2476f20d01221b94d729a9214c7038e595bbc3ef32c246"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-kluane-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-kluane-first-nation-card.jpg",
+          "date": "2026-09-26"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:50;--profile-angle:16deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-kluane-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "komoks-first-nation",
       "name": "K'ómoks First Nation",
       "originalId": null,
@@ -26882,6 +27222,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "kwanlin-dun-first-nation",
+      "name": "Kwanlin Dün First Nation",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 102,
+      "angle": -63,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "yt-photo-kwanlin-dun-first-nation",
+          "profileSlugs": [
+            "kwanlin-dun-first-nation"
+          ],
+          "title": "Aerial view of Whitehorse and the Yukon River -b",
+          "alt": "Whitehorse and the Yukon River from the air, with the valley and mountains beyond.",
+          "creator": "grampymoose",
+          "credit": "grampymoose",
+          "cardCredit": "grampymoose",
+          "mediaType": "photograph",
+          "scope": "The Kwanlin Dün First Nation describes its connection to the Yukon River and Whitehorse in its history. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Whitehorse_and_the_Yukon_River_-b.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aerial_view_of_Whitehorse_and_the_Yukon_River_-b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About Us, Kwanlin Dün First Nation",
+              "url": "https://www.kwanlindun.com/about-the-kwanlin-dun/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 328736,
+              "sha256": "8516de80eed7d50d15be567b33536d36c6f34a0092fc4a9ae6aed43b30ec8225"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 50453,
+              "sha256": "c76628ca11e92283f2b29d3aa443c3d9aa7043085755fdeedf78a2676fd5611e"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-kwanlin-dun-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-kwanlin-dun-first-nation-card.jpg",
+          "date": "2008"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:102;--profile-angle:-63deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-kwanlin-dun-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "kwantlen-first-nation",
@@ -28798,6 +29203,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "liard-first-nation",
+      "name": "Liard First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 32,
+      "angle": -76,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "yt-photo-liard-first-nation",
+          "profileSlugs": [
+            "liard-first-nation"
+          ],
+          "title": "The town of Watson Lake",
+          "alt": "The Watson Lake townsite, with roads and buildings among lakes and forest.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Watson Lake is a community centre named by Liard First Nation. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_9VWG_20260913_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/9/V/WG/2026/9/S2B_9VWG_20260913_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About Us, Liard First Nation",
+              "url": "https://liardfirstnation.ca/about-us/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 725,
+              "height": 565,
+              "bytes": 117514,
+              "sha256": "e4521b51e3a2f8099d379f9ac5ee0d632a61b23a32a3acfa55c486c2eb988715"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 499,
+              "bytes": 65133,
+              "sha256": "884959dd7fa3a042cb35fa0f3903c2383b941377b8db539760da22b76c3af1e9"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-liard-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-liard-first-nation-card.jpg",
+          "date": "2026-09-13"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:32;--profile-angle:-76deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-liard-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "lillooet-statimc",
       "name": "Lillooet (St'át'imc)",
       "originalId": 184,
@@ -29395,6 +29865,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 1
+    },
+    {
+      "slug": "little-salmon-carmacks-first-nation",
+      "name": "Little Salmon/Carmacks First Nation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 175,
+      "angle": -74,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "yt-photo-little-salmon-carmacks-first-nation",
+          "profileSlugs": [
+            "little-salmon-carmacks-first-nation"
+          ],
+          "title": "Carmacks Yukon",
+          "alt": "The Yukon River with Carmacks along its shore under a cloudy sky.",
+          "creator": "JKBrooks85",
+          "credit": "JKBrooks85",
+          "cardCredit": "JKBrooks85",
+          "mediaType": "photograph",
+          "scope": "Little Salmon/Carmacks First Nation describes Carmacks on the Yukon River as the homeland of its Northern Tutchone people. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carmacks_Yukon.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Carmacks_Yukon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Carmacks_Yukon.jpg#Licensing",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Little Salmon Carmacks First Nation",
+              "url": "https://www.lscfn.ca/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 643,
+              "bytes": 194363,
+              "sha256": "8daccf58e732872972ed394d9210d3da91c7fc15a6109f24dc8b292fe23cd5ac"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 286,
+              "bytes": 32679,
+              "sha256": "ae623fa37bc6dcebe531d02a16a82286ce60d46e4bd3d3134c0246d91fd65838"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-little-salmon-carmacks-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-little-salmon-carmacks-first-nation-card.jpg",
+          "date": "2009"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:175;--profile-angle:-74deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-little-salmon-carmacks-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "little-saskatchewan-first-nation",
@@ -49707,6 +50242,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "ross-river-dena-council",
+      "name": "Ross River Dena Council",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 6,
+      "angle": 60,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "yt-photo-ross-river-dena-council",
+          "profileSlugs": [
+            "ross-river-dena-council"
+          ],
+          "title": "Lapie Canyon near Ross River, Yukon",
+          "alt": "A black-and-white view of the narrow Lapie Canyon with steep rock walls and trees above.",
+          "creator": "Anthony DeLorenzo from Whitehorse, Yukon, Canada",
+          "credit": "Anthony DeLorenzo from Whitehorse, Yukon, Canada",
+          "cardCredit": "Anthony DeLorenzo from Whitehorse, Yukon, Canada",
+          "mediaType": "photograph",
+          "scope": "Lapie Canyon is a landscape near Ross River, the Yukon community served by Ross River Dena Council. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lapie_Canyon_near_Ross_River,_Yukon.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Lapie_Canyon_near_Ross_River%2C_Yukon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Ross River Dena Council",
+              "url": "https://www.rrdc.ca/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 920,
+              "bytes": 553060,
+              "sha256": "ba6ca521bd7b3cd813694f751c3380f25ed7b0aa822fbaf827925ad214447cd1"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 409,
+              "bytes": 94839,
+              "sha256": "3cf25c19f58362a756445a0e4e196ac2d15e4c14fb3164ed763e50e31bc0c8ea"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-ross-river-dena-council.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-ross-river-dena-council-card.jpg",
+          "date": "2013-10-13"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:6;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-ross-river-dena-council.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "round-prairie-metis-community",
       "name": "Round Prairie Métis community",
       "originalId": null,
@@ -52417,6 +53017,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:124;--profile-angle:-35deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-sekani.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "selkirk-first-nation",
+      "name": "Selkirk First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 177,
+      "angle": 67,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "yt-photo-selkirk-first-nation",
+          "profileSlugs": [
+            "selkirk-first-nation"
+          ],
+          "title": "Pelly Crossing and the Pelly River",
+          "alt": "A winding river surrounding the roads and buildings of Pelly Crossing, with forest on both sides.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "Selkirk First Nation identifies Pelly Crossing on the Pelly River as its community. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_8VMQ_20260903_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/8/V/MQ/2026/9/S2C_8VMQ_20260903_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Selkirk First Nation",
+              "url": "https://www.selkirkfn.com/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 660,
+              "height": 550,
+              "bytes": 98260,
+              "sha256": "2134ef1704ed496323366c011106b71f63f46d8fdb9415f97fece367b510ef24"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 533,
+              "bytes": 63711,
+              "sha256": "f5b2f3e79a2de5758a031c08dc544bb404075c22a06eaabe4854628ff571f2cc"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-selkirk-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-selkirk-first-nation-card.jpg",
+          "date": "2026-09-03"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:177;--profile-angle:67deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-selkirk-first-nation.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -58004,6 +58669,136 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "taan-kwachan",
+      "name": "Ta'an Kwäch'än",
+      "originalId": 365,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 113,
+      "angle": -56,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "yt-photo-taan-kwachan",
+          "profileSlugs": [
+            "taan-kwachan"
+          ],
+          "title": "Lake Laberge 2008",
+          "alt": "Sunset reflected on Lake Laberge, with dark trees in the foreground.",
+          "creator": "Fabi thegrosser at German Wikipedia",
+          "credit": "Fabi thegrosser at German Wikipedia",
+          "cardCredit": "Fabi thegrosser at German Wikipedia",
+          "mediaType": "photograph",
+          "scope": "The Ta’an Kwäch’än Council describes Tàa’an Män, or Lake Laberge, as the lake from which its people take their name. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Laberge_2008.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lake_Laberge_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "A Short History of the Ta’an Kwäch’än",
+              "url": "https://taan.ca/history-2021/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 367813,
+              "sha256": "912a64e3f125fbb43c12e2b48f15a7c3e994e5dd6a30a70a1b38f99c561adb7a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 63729,
+              "sha256": "c270ef23d9cc6a5afc7621673926b0d60d2f8fa01eeaf43af408dc52cc467c3a"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-taan-kwachan.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-taan-kwachan-card.jpg",
+          "date": "2008"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:113;--profile-angle:-56deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-taan-kwachan.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tagish",
+      "name": "Tagish",
+      "originalId": 367,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 237,
+      "angle": 79,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "yt-photo-tagish",
+          "profileSlugs": [
+            "tagish"
+          ],
+          "title": "Tagish Lake, Yukon",
+          "alt": "Tagish Lake between mountain slopes, with evergreen trees in the foreground.",
+          "creator": "Wknight94",
+          "credit": "Wknight94",
+          "cardCredit": "Wknight94",
+          "mediaType": "photograph",
+          "scope": "The Yukon Native Language Centre identifies Tagish Lake as one of the places where the Tā̀gish language was spoken. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tagish_Lake,_Yukon.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tagish_Lake%2C_Yukon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About the Tā̀gish language, Yukon Native Language Centre",
+              "url": "https://ynlc.ca/about-the-tagish-language/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 357809,
+              "sha256": "3d7ff9db0d461fefc6679524d3d96e53728a74358d22ec034ab48f9509793ce0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 49774,
+              "sha256": "85f770af3fc65d7594af029d3531b69355a0433cef04a17c5eaf5e9d9efa9f51"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-tagish.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-tagish-card.jpg",
+          "date": "2009-08-05"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:237;--profile-angle:79deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-tagish.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "taino",
       "name": "Taíno",
       "originalId": null,
@@ -58638,6 +59433,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "teslin-tlingit-council",
+      "name": "Teslin Tlingit Council",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 340,
+      "angle": -3,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "yt-photo-teslin-tlingit-council",
+          "profileSlugs": [
+            "teslin-tlingit-council"
+          ],
+          "title": "View over Hamlet of Teslin - Yukon Territory - Canada",
+          "alt": "A bridge and the community of Teslin across the water, framed by evergreens and mountains.",
+          "creator": "Adam Jones, Ph.D.",
+          "credit": "Adam Jones, Ph.D.",
+          "cardCredit": "Adam Jones, Ph.D.",
+          "mediaType": "photograph",
+          "scope": "This view shows Teslin, the community named by the Teslin Tlingit Council. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_over_Hamlet_of_Teslin_-_Yukon_Territory_-_Canada.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/View_over_Hamlet_of_Teslin_-_Yukon_Territory_-_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Teslin Tlingit Council",
+              "url": "https://ttc.yt/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 530003,
+              "sha256": "9d6052c815499dc015a000080fc49b999da79557d3950e22f3968b06371082a3"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 83092,
+              "sha256": "706e1551c27364742aece776c1f04125a49689719f2f63ad349e433320a2f246"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-teslin-tlingit-council.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-teslin-tlingit-council-card.jpg",
+          "date": "2013-07-30"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:340;--profile-angle:-3deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-teslin-tlingit-council.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "tesuque-pueblo",
@@ -60698,6 +61558,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "trondek-hwechin",
+      "name": "Tr'ondëk Hwëch'in",
+      "originalId": 398,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 199,
+      "angle": 19,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "yt-photo-trondek-hwechin",
+          "profileSlugs": [
+            "trondek-hwechin"
+          ],
+          "title": "Dawson City Rivers Lookout 3264px",
+          "alt": "Dawson City and the rivers beside it, viewed from the wooded slope of Midnight Dome.",
+          "creator": "Photo by and (c)2006 Derek Ramsey (Ram-Man)",
+          "credit": "Photo by and (c)2006 Derek Ramsey (Ram-Man)",
+          "cardCredit": "Photo by and (c)2006 Derek Ramsey (Ram-Man)",
+          "mediaType": "photograph",
+          "scope": "Tr’ondëk Hwëch’in Government’s account describes the Dawson area as part of its history and homeland. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dawson_City_Rivers_Lookout_3264px.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Dawson_City_Rivers_Lookout_3264px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.5",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Our Story, Tr’ondëk Hwëch’in Government",
+              "url": "https://www.trondek.ca/who-we-are/our-story/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 443266,
+              "sha256": "baf84a20db804008c5fd9163911b0f8af44f1ce46f0bccba2db66581805dd635"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 67497,
+              "sha256": "980488e18458e35fbe71e6c43f6009e1d9fa4490f077b8bc4be97fecf4c3e3dd"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-trondek-hwechin.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-trondek-hwechin-card.jpg",
+          "date": "2005-08-18"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:199;--profile-angle:19deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-trondek-hwechin.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tsalalh-first-nation",
       "name": "Tsal’alh First Nation",
       "originalId": null,
@@ -62082,6 +63007,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "tutchone",
+      "name": "Tutchone",
+      "originalId": 412,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 27,
+      "angle": -27,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "yt-photo-tutchone",
+          "profileSlugs": [
+            "tutchone"
+          ],
+          "title": "Yukon River at Five Finger Rapids, Yukon -a",
+          "alt": "Tree-covered rock islands divide the Yukon River at Five Finger Rapids near Carmacks.",
+          "creator": "Arthur Chapman",
+          "credit": "Arthur Chapman",
+          "cardCredit": "Arthur Chapman",
+          "mediaType": "photograph",
+          "scope": "The Yukon Native Language Centre identifies Carmacks as a Dän Kʼí, or Northern Tutchone, language community. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yukon_River_at_Five_Finger_Rapids,_Yukon_-a.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Yukon_River_at_Five_Finger_Rapids%2C_Yukon_-a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About the Dän Kʼí language, Yukon Native Language Centre",
+              "url": "https://ynlc.ca/about-the-northern-tutchone-lanaguage/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 453829,
+              "sha256": "78d0c14ae7be0142877ced5a9fb15629aeae9c0395b209657d4a5b9624e7523e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 69620,
+              "sha256": "19a3a0ef5673d54d9e3eff495b8de346358f699071aa1d57fb86315bd757b777"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-tutchone.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-tutchone-card.jpg",
+          "date": "2009-08-10"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:27;--profile-angle:-27deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-tutchone.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tutelo",
       "name": "Tutelo",
       "originalId": null,
@@ -62779,6 +63769,71 @@
       "substantiveInspectedSources": 1
     },
     {
+      "slug": "upper-tanana",
+      "name": "Upper Tanana",
+      "originalId": 418,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 185,
+      "angle": 33,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "yt-photo-upper-tanana",
+          "profileSlugs": [
+            "upper-tanana"
+          ],
+          "title": "Beaver Creek in western Yukon",
+          "alt": "A road and the buildings of Beaver Creek beside a meandering waterway and open country.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "mediaType": "photograph",
+          "scope": "The Yukon Native Language Centre documents the Beaver Creek area as a place where Nee’aaneek, or Upper Tanana, has been spoken. Sentinel-2 image cropped and resized for the Atlas.",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_7VEK_20260817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/7/V/EK/2026/8/S2C_7VEK_20260817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About the Nee’aaneek language, Yukon Native Language Centre",
+              "url": "https://ynlc.ca/about-the-upper-tanana-language/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 925,
+              "height": 720,
+              "bytes": 142723,
+              "sha256": "7ce1b0651d40104e81b90019d325246ead64eae1e47f2a65e37c4ffbd7c52325"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 498,
+              "bytes": 51015,
+              "sha256": "cf8b37cfd28876b2200c13831733817ef1b96724b82d9728be156b7281509441"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-upper-tanana.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-upper-tanana-card.jpg",
+          "date": "2026-08-17"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:185;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-upper-tanana.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "urban-native-center",
       "name": "Urban Native Center",
       "originalId": null,
@@ -63071,6 +64126,75 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:291;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-vernon-district-metis-association.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "vuntut-gwitchin",
+      "name": "Vuntut Gwitchin",
+      "originalId": 422,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 221,
+      "angle": -28,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "yt-photo-vuntut-gwitchin",
+          "profileSlugs": [
+            "vuntut-gwitchin"
+          ],
+          "title": "Old Crow, Yukon8",
+          "alt": "Houses beside the Porcupine River and a gravel shore at Old Crow.",
+          "creator": "Murray Dewing",
+          "credit": "Murray Dewing",
+          "cardCredit": "Murray Dewing",
+          "mediaType": "photograph",
+          "scope": "Vuntut Gwitchin First Nation identifies Old Crow as the community at the heart of its homeland. Its General Assembly records Teechik as the community’s earlier name. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Crow,_Yukon8.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Old_Crow%2C_Yukon8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Our Homeland, Vuntut Gwitchin First Nation",
+              "url": "https://vgfn.ca/about/our-homeland"
+            },
+            {
+              "title": "General Assembly resolutions, Vuntut Gwitchin First Nation",
+              "url": "https://www.vgfn.ca/assembly/general-assembly-resolutions/all-general-assembly-resolutions"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 600,
+              "bytes": 95293,
+              "sha256": "426e5a1873c91d7879e535e5ca9c8b8414697b9fd5a3fc0fe86629047beb486b"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 56645,
+              "sha256": "a02a14f3ba9890bf7f3870e8f8ec43059d09172cdfb12c636f319709f51a3387"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-vuntut-gwitchin.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-vuntut-gwitchin-card.jpg",
+          "date": "2008"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:221;--profile-angle:-28deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-vuntut-gwitchin.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -64845,6 +65969,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "white-river-first-nation",
+      "name": "White River First Nation",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 310,
+      "angle": -22,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "yt-photo-white-river-first-nation",
+          "profileSlugs": [
+            "white-river-first-nation"
+          ],
+          "title": "Cultural Centre White River FN",
+          "alt": "The wood-clad White River First Nation Cultural Centre seen from outdoors in Beaver Creek.",
+          "creator": "Hans-Jürgen Hübner",
+          "credit": "Hans-Jürgen Hübner",
+          "cardCredit": "Hans-Jürgen Hübner",
+          "mediaType": "photograph",
+          "scope": "The community’s own account identifies Beaver Creek as the main population centre of White River First Nation. Atlas copies resized for display.",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cultural_Centre_White_River_FN.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cultural_Centre_White_River_FN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "About Us, White River First Nation",
+              "url": "https://whiteriverfirstnation.com/background/"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 380587,
+              "sha256": "f8c6e780d1a1457cd48a75576245e0ed6c592bf78e57da435677ea2ddd67f661"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 62066,
+              "sha256": "03069105d25fe120c92e7a9cad1cd2b8007e4c08fbd0a3f1ce51f2d1f714e216"
+            }
+          },
+          "asset": "assets/profile-visuals/yt-photo-white-river-first-nation.jpg",
+          "cardAsset": "assets/profile-visuals/yt-photo-white-river-first-nation-card.jpg",
+          "date": "2009"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:310;--profile-angle:-22deg;--profile-photo:url(\"../../assets/profile-visuals/yt-photo-white-river-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "whitecap-dakota-nation",
