@@ -53667,7 +53667,8 @@
     {
       "id": "qc-photo-premiere-nation-wolastoqiyik-wahsipekuk",
       "profileSlugs": [
-        "premiere-nation-wolastoqiyik-wahsipekuk"
+        "premiere-nation-wolastoqiyik-wahsipekuk",
+        "wolastoqiyik"
       ],
       "mediaType": "photograph",
       "title": "Wolastoqiyik Wahsipekuk beluga observatory",
@@ -53921,7 +53922,8 @@
     {
       "id": "qc-photo-kawawachikamach",
       "profileSlugs": [
-        "kawawachikamach"
+        "kawawachikamach",
+        "naskapi"
       ],
       "mediaType": "satellite-image",
       "title": "Satellite view of Kawawachikamach",
@@ -54187,6 +54189,170 @@
           "sha256": "264910a1be2078829bee12e51f9f5e16e754bf63ef92b3d68973186e9befea3e"
         }
       }
+    },
+    {
+      "id": "qc-photo-wolf-lake-hunters-point",
+      "profileSlugs": [
+        "wolf-lake-hunters-point"
+      ],
+      "reviewedAt": "2026-11-23",
+      "mediaType": "satellite-image",
+      "derivatives": {
+        "asset": {
+          "width": 400,
+          "height": 288,
+          "bytes": 22043,
+          "sha256": "c0a148161815a59b4daac70473d7bf5014789e24ddc0b605cfe335b1e58ad20c"
+        },
+        "cardAsset": {
+          "width": 400,
+          "height": 288,
+          "bytes": 16055,
+          "sha256": "2c6c88f5f86830bc10b33759a1a37808d64c6ab6cdb76a0af50216c211fcf1b1"
+        }
+      },
+      "title": "Satellite view of the Hunter’s Point area",
+      "alt": "Forested shoreline and scattered clearings around the waters of the Hunter’s Point area.",
+      "scope": "The crop shows the setting around the geographic name Hunter’s Point in Témiscamingue. It uses Sentinel‑2 imagery at 10 m resolution and was cropped for display.",
+      "creator": "Copernicus Sentinel-2",
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_17TPN_20260729_0_L2A",
+      "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/17/T/PN/2026/7/S2B_17TPN_20260729_0_L2A/TCI.tif",
+      "rightsLabel": "Copernicus Sentinel data licence",
+      "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+      "contextSources": [
+        {
+          "title": "Canadian Geographical Names Database — Hunter’s Point",
+          "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=EPPBH"
+        }
+      ],
+      "date": "2026-07-29",
+      "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+      "asset": "assets/profile-visuals/qc-photo-wolf-lake-hunters-point.jpg",
+      "cardAsset": "assets/profile-visuals/qc-photo-wolf-lake-hunters-point-card.jpg"
+    },
+    {
+      "id": "qc-photo-gespeg",
+      "profileSlugs": [
+        "gespeg"
+      ],
+      "reviewedAt": "2026-11-23",
+      "mediaType": "satellite-image",
+      "derivatives": {
+        "asset": {
+          "width": 420,
+          "height": 291,
+          "bytes": 24319,
+          "sha256": "2ec684ece6151ed89f18a76516877637be2dd974617aafa11d3fa366573bc360"
+        },
+        "cardAsset": {
+          "width": 420,
+          "height": 291,
+          "bytes": 18514,
+          "sha256": "3cff8ca6645f1eb4874545fcb3fa87e815336e7d64657f397fff70120a274780"
+        }
+      },
+      "title": "Satellite view around the Gespeg interpretation site",
+      "alt": "A coastal road, wooded slopes and tidal flats around Pointe-Navarre in Gaspé.",
+      "scope": "The crop shows the Pointe-Navarre setting of the Mi’gmaq interpretation site. It uses Sentinel‑2 imagery at 10 m resolution and was cropped for display.",
+      "creator": "Copernicus Sentinel-2",
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_20ULV_20260629_0_L2A",
+      "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/20/U/LV/2026/6/S2C_20ULV_20260629_0_L2A/TCI.tif",
+      "rightsLabel": "Copernicus Sentinel data licence",
+      "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+      "contextSources": [
+        {
+          "title": "Site d’interprétation Micmac de Gespeg",
+          "url": "https://www.micmacgespeg.ca/"
+        }
+      ],
+      "date": "2026-06-29",
+      "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+      "asset": "assets/profile-visuals/qc-photo-gespeg.jpg",
+      "cardAsset": "assets/profile-visuals/qc-photo-gespeg-card.jpg"
+    },
+    {
+      "id": "qc-photo-centre-damitie-autochtone-de-lanaudiere",
+      "profileSlugs": [
+        "centre-damitie-autochtone-de-lanaudiere"
+      ],
+      "reviewedAt": "2026-11-23",
+      "mediaType": "photograph",
+      "derivatives": {
+        "asset": {
+          "width": 1050,
+          "height": 750,
+          "bytes": 157755,
+          "sha256": "f9a54fdc47b3dd95c1d99609c75bc2e7ee4348fca6098919d991d32e179efb77"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 457,
+          "bytes": 75584,
+          "sha256": "b55b53d9592c38593177fdf5d35c61313cdb53a137b0da8dee400714d95fb7d4"
+        }
+      },
+      "title": "Aerial photo of the Lanaudière friendship centre’s block",
+      "alt": "An overhead view of the block at boulevard Sainte-Anne in Joliette, centred on the friendship centre’s listed location.",
+      "scope": "This crop centres on the centre’s public address on boulevard Sainte-Anne in Joliette. The photo was acquired in 2024 and cropped for display.",
+      "creator": "Région de Lanaudière",
+      "credit": "Région de Lanaudière / Données Québec, CC BY 4.0",
+      "sourceUrl": "https://www.donneesquebec.ca/recherche/dataset/orthophotographies-region-de-lanaudiere/resource/2d7d2422-d871-47c0-b73a-247a824e3426",
+      "sourceImageUrl": "https://servicesmatriciels.mern.gouv.qc.ca/erdas-iws/ogc/wms/Imagerie?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=Orthomosaique_2024_2024_Partenariat_Lanaudiere_20cm_RVB&STYLES=default&CRS=EPSG%3A2950&BBOX=308756.976%2C5099059.916%2C308966.976%2C5099209.916&WIDTH=1050&HEIGHT=750&FORMAT=image%2Fjpeg",
+      "rightsLabel": "CC BY 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "contextSources": [
+        {
+          "title": "Québec Native Friendship Centre network — centre listing",
+          "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-lanaudiere/"
+        }
+      ],
+      "date": "2024-04-25",
+      "cardCredit": "Région de Lanaudière / Données Québec, CC BY 4.0",
+      "asset": "assets/profile-visuals/qc-photo-centre-damitie-autochtone-de-lanaudiere.jpg",
+      "cardAsset": "assets/profile-visuals/qc-photo-centre-damitie-autochtone-de-lanaudiere-card.jpg"
+    },
+    {
+      "id": "qc-photo-centre-damitie-autochtone-capetciwotakanik-la-tuque",
+      "profileSlugs": [
+        "centre-damitie-autochtone-capetciwotakanik-la-tuque"
+      ],
+      "reviewedAt": "2026-11-23",
+      "mediaType": "photograph",
+      "derivatives": {
+        "asset": {
+          "width": 1050,
+          "height": 750,
+          "bytes": 154231,
+          "sha256": "8eb03d3dca5ffa95867159f6cc1ca83104115a44bf66048921667b5816a71769"
+        },
+        "cardAsset": {
+          "width": 640,
+          "height": 457,
+          "bytes": 76696,
+          "sha256": "80c33edd315ed7a67ae1ee7158a5dc18b2b65308d743279755d15f5992168fef"
+        }
+      },
+      "title": "Aerial photo of the Capetciwotakanik friendship centre’s block",
+      "alt": "An overhead view of the buildings and streets near the friendship centre’s listed address in La Tuque.",
+      "scope": "This crop centres on the centre’s public address on rue Saint-Antoine in La Tuque. The photo was acquired in 2023 and cropped for display.",
+      "creator": "Région de la Mauricie",
+      "credit": "Région de la Mauricie / Données Québec, CC BY 4.0",
+      "sourceUrl": "https://www.donneesquebec.ca/recherche/dataset/orthophotographies-region-de-la-mauricie/resource/0d6f383e-578c-4f63-bbb5-2d08a8630a95",
+      "sourceImageUrl": "https://servicesmatriciels.mern.gouv.qc.ca/erdas-iws/ogc/wms/Imagerie?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=Orthomosaique_2023_2023_Partenariat_Mauricie_20cm_RVB&STYLES=default&CRS=EPSG%3A2950&BBOX=358720.836%2C5255799.921%2C358930.836%2C5255949.921&WIDTH=1050&HEIGHT=750&FORMAT=image%2Fjpeg",
+      "rightsLabel": "CC BY 4.0",
+      "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "contextSources": [
+        {
+          "title": "Québec Native Friendship Centre network — centre listing",
+          "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-capetciwotakanik-la-tuque/"
+        }
+      ],
+      "date": "2023-05-23",
+      "cardCredit": "Région de la Mauricie / Données Québec, CC BY 4.0",
+      "asset": "assets/profile-visuals/qc-photo-centre-damitie-autochtone-capetciwotakanik-la-tuque.jpg",
+      "cardAsset": "assets/profile-visuals/qc-photo-centre-damitie-autochtone-capetciwotakanik-la-tuque-card.jpg"
     }
   ],
   "deferred": [
