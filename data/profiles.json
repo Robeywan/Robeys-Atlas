@@ -123793,16 +123793,72 @@
     "originalId": null,
     "added": true,
     "compiledAt": "2026-11-06",
-    "kind": "Named tribal community / institution",
-    "region": "Prince Edward Island — displayed institutional contact setting only",
-    "overview": "An identity-only outline for Lennox Island First Nation, using the institutional name and Prince Edward Island contact setting displayed on its public contact page. Fuller relationships, historical context and annotated reading sources remain queued.",
-    "relationshipNote": "Relationships with the broader Mi’kmaq directory label, Abegweit First Nation, other named institutions and historical terms remain unassessed. No parent, affiliation, ancestry, split, succession, alias or equivalence is assigned from the contact page, shared province or name. Unassessed relationships do not establish unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "kind": "Mi’kmaq First Nation",
+    "region": "Prince Edward Island",
+    "overview": "Lennox Island First Nation is a Mi’kmaq community on L’nui Mnikuk, a small island overlooking Malpeque Bay in northwestern Epekwitk (Prince Edward Island).",
+    "relationshipNote": "Lennox Island First Nation identifies its participation in the Epekwitk Assembly of Councils.",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The First Nation describes the links between Malpeque Bay, fishing, community life and ceremonial gatherings. The Lennox Island Mi’kmaq Cultural Centre offers a starting point for learning about the community’s language and public interpretation.",
+        "sourceIds": [
+          "s-pei-lennox-island-first-nation-1-20261124",
+          "s-pei-lennox-island-first-nation-2-20261124",
+          "s-pei-lennox-island-first-nation-3-20261124"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-pei-lennox-island-first-nation-1-20261124",
+        "title": "About Us",
+        "url": "https://lennoxisland.com/band/about/",
+        "publisher": "Lennox Island First Nation",
+        "type": "First Nation community overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The About page identifies L’nui Mnikuk, the island’s causeway and Malpeque Bay setting, and describes community facilities and activities.",
+        "contentReviewScope": "The About page identifies L’nui Mnikuk, the island’s causeway and Malpeque Bay setting, and describes community facilities and activities.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-lennox-island-first-nation-2-20261124",
+        "title": "Lennox Island Mi’kmaq Cultural Centre",
+        "url": "https://www.fnccec.ca/cultural-centre-pages/lennox-island-mikmaq-cultural-centre/",
+        "publisher": "First Nations Confederacy of Cultural Education Centres",
+        "type": "Indigenous cultural centre profile",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The cultural-centre profile gives a community-grounded introduction to interpretation and language learning on Lennox Island.",
+        "contentReviewScope": "The cultural-centre profile gives a community-grounded introduction to interpretation and language learning on Lennox Island.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-lennox-island-first-nation-3-20261124",
+        "title": "Our History",
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The governance overview identifies Lennox Island First Nation’s participation in the Epekwitk Assembly of Councils.",
+        "contentReviewScope": "The governance overview identifies Lennox Island First Nation’s participation in the Epekwitk Assembly of Councils.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -123820,19 +123876,21 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop individually attributed community-directed historical context and annotated original-source reading; no fixed reading-source count or image prerequisite applies.",
-      "Review explicit institutional and historical-name relationships before assigning parent,related-community,alias or affiliation links.",
-      "The displayed province contact setting supports navigation only, not homeland, territory, title, jurisdiction, membership, current service availability or all-resident geography.",
-      "Community-specific images, audio and exact reuse terms remain uninspected; no media is approved."
+      "Additional community-authored histories and resources can extend this introductory guide."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only queued outline; no substantive reading-source collection or adequacy assessment.",
+      "rationale": "The selected sources support an introductory community guide.",
       "remainingLimits": [
-        "Historical context, fuller relationships, annotated reading and media remain unfinished."
+        "Additional community-authored historical sources await review."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-pei-lennox-island-first-nation-1-20261124",
+      "s-pei-lennox-island-first-nation-2-20261124",
+      "s-pei-lennox-island-first-nation-3-20261124"
+    ]
   },
   {
     "name": "Occaneechi Band of the Saponi Nation",
@@ -214511,6 +214569,1226 @@
       "status": "Not assessed",
       "reviewedAt": null,
       "rationale": "The selected sources document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Morell 2",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq reserve community",
+    "region": "Prince Edward Island",
+    "overview": "Morell 2 is one of the three reserves of Abegweit First Nation on Epekwitk (Prince Edward Island).",
+    "overviewSourceIds": [
+      "s-pei-morell-2-1-20261124",
+      "s-pei-morell-2-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-morell-2-1-20261124",
+        "title": "FAQ",
+        "url": "https://abegweit.ca/faq/",
+        "publisher": "Abegweit First Nation",
+        "type": "First Nation community reference",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Where is Abegweit? entry names Morell 2 as a reserve of Abegweit First Nation in Prince Edward Island.",
+        "contentReviewScope": "The Where is Abegweit? entry names Morell 2 as a reserve of Abegweit First Nation in Prince Edward Island.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-morell-2-2-20261124",
+        "title": "Abegweit – Reserves/Settlements/Villages",
+        "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng",
+        "publisher": "Indigenous Services Canada",
+        "type": "Federal reserve directory",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Abegweit table lists Morell 2 northeast of Charlottetown.",
+        "contentReviewScope": "The Abegweit table lists Morell 2 northeast of Charlottetown.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Abegweit names Morell 2 in its community FAQ. The federal reserve directory provides a location reference northeast of Charlottetown.",
+        "sourceIds": [
+          "s-pei-morell-2-1-20261124",
+          "s-pei-morell-2-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://abegweit.ca/faq/",
+        "title": "FAQ",
+        "publisher": "Abegweit First Nation",
+        "scope": "The Where is Abegweit? entry names Morell 2 as a reserve of Abegweit First Nation in Prince Edward Island.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng",
+        "title": "Abegweit – Reserves/Settlements/Villages",
+        "publisher": "Indigenous Services Canada",
+        "scope": "The Abegweit table lists Morell 2 northeast of Charlottetown.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "abegweit-first-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Rocky Point 3",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq reserve community",
+    "region": "Prince Edward Island",
+    "overview": "Rocky Point 3 is one of the three reserves of Abegweit First Nation on Epekwitk (Prince Edward Island).",
+    "overviewSourceIds": [
+      "s-pei-rocky-point-3-1-20261124",
+      "s-pei-rocky-point-3-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-rocky-point-3-1-20261124",
+        "title": "FAQ",
+        "url": "https://abegweit.ca/faq/",
+        "publisher": "Abegweit First Nation",
+        "type": "First Nation community reference",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Where is Abegweit? entry names Rocky Point 3 as a reserve of Abegweit First Nation in Prince Edward Island.",
+        "contentReviewScope": "The Where is Abegweit? entry names Rocky Point 3 as a reserve of Abegweit First Nation in Prince Edward Island.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-rocky-point-3-2-20261124",
+        "title": "Abegweit – Reserves/Settlements/Villages",
+        "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng",
+        "publisher": "Indigenous Services Canada",
+        "type": "Federal reserve directory",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Abegweit table names Rocky Point 3 on the southern shore of Charlottetown Harbour.",
+        "contentReviewScope": "The Abegweit table names Rocky Point 3 on the southern shore of Charlottetown Harbour.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Nation’s FAQ names Rocky Point 3. The federal reserve directory places it on the southern shore of Charlottetown Harbour.",
+        "sourceIds": [
+          "s-pei-rocky-point-3-1-20261124",
+          "s-pei-rocky-point-3-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://abegweit.ca/faq/",
+        "title": "FAQ",
+        "publisher": "Abegweit First Nation",
+        "scope": "The Where is Abegweit? entry names Rocky Point 3 as a reserve of Abegweit First Nation in Prince Edward Island.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng",
+        "title": "Abegweit – Reserves/Settlements/Villages",
+        "publisher": "Indigenous Services Canada",
+        "scope": "The Abegweit table names Rocky Point 3 on the southern shore of Charlottetown Harbour.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "abegweit-first-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Scotchfort 4",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq reserve community",
+    "region": "Prince Edward Island",
+    "overview": "Scotchfort 4 is an Abegweit First Nation reserve on Epekwitk (Prince Edward Island). Abegweit identifies Scotchfort as the location of its band government office.",
+    "overviewSourceIds": [
+      "s-pei-scotchfort-4-1-20261124",
+      "s-pei-scotchfort-4-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-scotchfort-4-1-20261124",
+        "title": "FAQ",
+        "url": "https://abegweit.ca/faq/",
+        "publisher": "Abegweit First Nation",
+        "type": "First Nation community reference",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Where is Abegweit? entry lists Scotchfort 4 and locates the band government office at Scotchfort.",
+        "contentReviewScope": "The Where is Abegweit? entry lists Scotchfort 4 and locates the band government office at Scotchfort.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-scotchfort-4-2-20261124",
+        "title": "Abegweit – Reserves/Settlements/Villages",
+        "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng",
+        "publisher": "Indigenous Services Canada",
+        "type": "Federal reserve directory",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Abegweit table lists Scotchfort 4 northeast of Charlottetown.",
+        "contentReviewScope": "The Abegweit table lists Scotchfort 4 northeast of Charlottetown.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Nation’s FAQ describes the role of Scotchfort within Abegweit. The federal reserve directory places Scotchfort 4 northeast of Charlottetown.",
+        "sourceIds": [
+          "s-pei-scotchfort-4-1-20261124",
+          "s-pei-scotchfort-4-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://abegweit.ca/faq/",
+        "title": "FAQ",
+        "publisher": "Abegweit First Nation",
+        "scope": "The Where is Abegweit? entry lists Scotchfort 4 and locates the band government office at Scotchfort.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng",
+        "title": "Abegweit – Reserves/Settlements/Villages",
+        "publisher": "Indigenous Services Canada",
+        "scope": "The Abegweit table lists Scotchfort 4 northeast of Charlottetown.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "abegweit-first-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Epekwitk Assembly of Councils",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Joint Mi’kmaq governing forum",
+    "region": "Prince Edward Island",
+    "overview": "The Epekwitk Assembly of Councils brings together the chiefs and councils of Abegweit First Nation and Lennox Island First Nation. It oversees L’nuey and the Mi’kmaq Confederacy of PEI.",
+    "overviewSourceIds": [
+      "s-pei-epekwitk-assembly-of-councils-1-20261124",
+      "s-pei-epekwitk-assembly-of-councils-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-epekwitk-assembly-of-councils-1-20261124",
+        "title": "Our History",
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The governance section identifies the two First Nations’ councils and distinguishes the Assembly’s corporate structure and its oversight role.",
+        "contentReviewScope": "The governance section identifies the two First Nations’ councils and distinguishes the Assembly’s corporate structure and its oversight role.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-epekwitk-assembly-of-councils-2-20261124",
+        "title": "FAQ",
+        "url": "https://abegweit.ca/faq/",
+        "publisher": "Abegweit First Nation",
+        "type": "First Nation community reference",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The FAQ identifies the joint forum, its two organizations and their shared building on the Charlottetown waterfront.",
+        "contentReviewScope": "The FAQ identifies the joint forum, its two organizations and their shared building on the Charlottetown waterfront.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "L’nuey describes how the Assembly fits into the Mi’kmaq Nation Government of PEI. Abegweit’s FAQ describes its role as a joint forum and identifies the organizations’ shared site in Charlottetown.",
+        "sourceIds": [
+          "s-pei-epekwitk-assembly-of-councils-1-20261124",
+          "s-pei-epekwitk-assembly-of-councils-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "title": "Our History",
+        "publisher": "L’nuey",
+        "scope": "The governance section identifies the two First Nations’ councils and distinguishes the Assembly’s corporate structure and its oversight role.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://abegweit.ca/faq/",
+        "title": "FAQ",
+        "publisher": "Abegweit First Nation",
+        "scope": "The FAQ identifies the joint forum, its two organizations and their shared building on the Charlottetown waterfront.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "abegweit-first-nation",
+      "lennox-island-first-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "L’nuey",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq rights initiative",
+    "region": "Prince Edward Island",
+    "overview": "L’nuey is a Mi’kmaq rights initiative on Epekwitk (Prince Edward Island). It works under the direction of the Epekwitk Assembly of Councils.",
+    "overviewSourceIds": [
+      "s-pei-lnuey-1-20261124",
+      "s-pei-lnuey-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-lnuey-1-20261124",
+        "title": "Our History",
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The history and governance sections describe the rights initiative, its oversight and its 2019 launch.",
+        "contentReviewScope": "The history and governance sections describe the rights initiative, its oversight and its 2019 launch.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-lnuey-2-20261124",
+        "title": "Negotiations",
+        "url": "https://lnuey.ca/our-work/negotiations/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The negotiations page describes L’nuey’s role in Island agreements and the Pituamkek work.",
+        "contentReviewScope": "The negotiations page describes L’nuey’s role in Island agreements and the Pituamkek work.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "L’nuey traces its launch to September 2019 and explains its work on negotiations, consultation and governance. Its negotiations page gives examples, including the Pituamkek agreement.",
+        "sourceIds": [
+          "s-pei-lnuey-1-20261124",
+          "s-pei-lnuey-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "title": "Our History",
+        "publisher": "L’nuey",
+        "scope": "The history and governance sections describe the rights initiative, its oversight and its 2019 launch.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://lnuey.ca/our-work/negotiations/",
+        "title": "Negotiations",
+        "publisher": "L’nuey",
+        "scope": "The negotiations page describes L’nuey’s role in Island agreements and the Pituamkek work.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Mi’kmaq Confederacy of PEI",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Joint Mi’kmaq service organization",
+    "region": "Prince Edward Island",
+    "overview": "The Mi’kmaq Confederacy of PEI delivers shared programs and provides technical and advisory support to Abegweit First Nation and Lennox Island First Nation.",
+    "overviewSourceIds": [
+      "s-pei-mikmaq-confederacy-of-pei-1-20261124",
+      "s-pei-mikmaq-confederacy-of-pei-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-mikmaq-confederacy-of-pei-1-20261124",
+        "title": "History & Governance",
+        "url": "https://mcpei.ca/history-governance/",
+        "publisher": "Mi’kmaq Confederacy of PEI",
+        "type": "Indigenous organization overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The governance and mandate sections describe the two member First Nations and the Confederacy’s shared service and advisory roles.",
+        "contentReviewScope": "The governance and mandate sections describe the two member First Nations and the Confederacy’s shared service and advisory roles.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-mikmaq-confederacy-of-pei-2-20261124",
+        "title": "Our History",
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "L’nuey’s governance overview identifies the Confederacy as a distinct organization under the Assembly.",
+        "contentReviewScope": "L’nuey’s governance overview identifies the Confederacy as a distinct organization under the Assembly.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Confederacy’s governance page explains how its support role fits within the Epekwitk Assembly of Councils. It describes its purpose in its own words.",
+        "sourceIds": [
+          "s-pei-mikmaq-confederacy-of-pei-1-20261124",
+          "s-pei-mikmaq-confederacy-of-pei-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://mcpei.ca/history-governance/",
+        "title": "History & Governance",
+        "publisher": "Mi’kmaq Confederacy of PEI",
+        "scope": "The governance and mandate sections describe the two member First Nations and the Confederacy’s shared service and advisory roles.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://lnuey.ca/about-lnuey/history/",
+        "title": "Our History",
+        "publisher": "L’nuey",
+        "scope": "L’nuey’s governance overview identifies the Confederacy as a distinct organization under the Assembly.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "abegweit-first-nation",
+      "lennox-island-first-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Native Council of Prince Edward Island",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Off-reserve Indigenous organization",
+    "region": "Prince Edward Island",
+    "overview": "The Native Council of Prince Edward Island describes itself as a community organization representing Indigenous people living off reserve across Epekwitk (Prince Edward Island).",
+    "overviewSourceIds": [
+      "s-pei-native-council-of-prince-edward-island-1-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-native-council-of-prince-edward-island-1-20261124",
+        "title": "About NCPEI",
+        "url": "https://ncpei.com/about/",
+        "publisher": "Native Council of Prince Edward Island",
+        "type": "Indigenous organization overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The Council’s mission, history and membership sections describe its off-reserve community and advocacy in Prince Edward Island.",
+        "contentReviewScope": "The Council’s mission, history and membership sections describe its off-reserve community and advocacy in Prince Edward Island.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Council’s own About page explains its membership, community governance and advocacy. Its description includes Mi’kmaq, Métis, Inuit and other Indigenous members living off reserve.",
+        "sourceIds": [
+          "s-pei-native-council-of-prince-edward-island-1-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://ncpei.com/about/",
+        "title": "About NCPEI",
+        "publisher": "Native Council of Prince Edward Island",
+        "scope": "The Council’s mission, history and membership sections describe its off-reserve community and advocacy in Prince Edward Island.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [
+      "Native Council of PEI",
+      "NCPEI"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Aboriginal Women’s Association of PEI",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Indigenous women’s organization",
+    "region": "Prince Edward Island",
+    "overview": "The Aboriginal Women’s Association of PEI supports Indigenous women and girls in Prince Edward Island. Its own history situates the organization’s head office on Lennox Island.",
+    "overviewSourceIds": [
+      "s-pei-aboriginal-womens-association-of-pei-1-20261124",
+      "s-pei-aboriginal-womens-association-of-pei-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-aboriginal-womens-association-of-pei-1-20261124",
+        "title": "About Us",
+        "url": "https://www.awapei.ca/about-us.html",
+        "publisher": "Aboriginal Women’s Association of PEI",
+        "type": "Indigenous organization overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The association’s About Us page describes its name, community role and Lennox Island setting.",
+        "contentReviewScope": "The association’s About Us page describes its name, community role and Lennox Island setting.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-aboriginal-womens-association-of-pei-2-20261124",
+        "title": "Women’s History Month Profile Series – Patsy Gavin",
+        "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/womens-history-month-profile-series",
+        "publisher": "Patsy Gavin, interview published by the Government of Prince Edward Island",
+        "type": "First-person community interview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "Patsy Gavin describes her own work in the Association and the relationships among three Island community organizations.",
+        "contentReviewScope": "Patsy Gavin describes her own work in the Association and the relationships among three Island community organizations.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The association explains its history, volunteer governance and approach to representation. Patsy Gavin discusses its role in community education and advocacy in a provincial interview.",
+        "sourceIds": [
+          "s-pei-aboriginal-womens-association-of-pei-1-20261124",
+          "s-pei-aboriginal-womens-association-of-pei-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.awapei.ca/about-us.html",
+        "title": "About Us",
+        "publisher": "Aboriginal Women’s Association of PEI",
+        "scope": "The association’s About Us page describes its name, community role and Lennox Island setting.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/womens-history-month-profile-series",
+        "title": "Women’s History Month Profile Series – Patsy Gavin",
+        "publisher": "Patsy Gavin, interview published by the Government of Prince Edward Island",
+        "scope": "Patsy Gavin describes her own work in the Association and the relationships among three Island community organizations.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [
+      "AWAPEI",
+      "Aboriginal Women’s Association of Prince Edward Island"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Lennox Island Mi’kmaq Cultural Centre",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq cultural centre",
+    "region": "Prince Edward Island",
+    "overview": "The Lennox Island Mi’kmaq Cultural Centre provides community language learning and interpretation of Mi’kmaq history and culture on Lennox Island.",
+    "overviewSourceIds": [
+      "s-pei-lennox-island-mikmaq-cultural-centre-1-20261124",
+      "s-pei-lennox-island-mikmaq-cultural-centre-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-lennox-island-mikmaq-cultural-centre-1-20261124",
+        "title": "Lennox Island Mi’kmaq Cultural Centre",
+        "url": "https://www.fnccec.ca/cultural-centre-pages/lennox-island-mikmaq-cultural-centre/",
+        "publisher": "First Nations Confederacy of Cultural Education Centres",
+        "type": "Indigenous cultural centre profile",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The centre’s About and location sections identify the facility on Lennox Island and its language and cultural education work.",
+        "contentReviewScope": "The centre’s About and location sections identify the facility on Lennox Island and its language and cultural education work.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-lennox-island-mikmaq-cultural-centre-2-20261124",
+        "title": "About Us",
+        "url": "https://lennoxisland.com/band/about/",
+        "publisher": "Lennox Island First Nation",
+        "type": "First Nation community overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The First Nation’s community overview includes the cultural centre among its community facilities.",
+        "contentReviewScope": "The First Nation’s community overview includes the cultural centre among its community facilities.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The First Nations Confederacy of Cultural Education Centres describes the centre’s displays, education and role in language learning. Lennox Island First Nation includes the cultural centre in its account of community life.",
+        "sourceIds": [
+          "s-pei-lennox-island-mikmaq-cultural-centre-1-20261124",
+          "s-pei-lennox-island-mikmaq-cultural-centre-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.fnccec.ca/cultural-centre-pages/lennox-island-mikmaq-cultural-centre/",
+        "title": "Lennox Island Mi’kmaq Cultural Centre",
+        "publisher": "First Nations Confederacy of Cultural Education Centres",
+        "scope": "The centre’s About and location sections identify the facility on Lennox Island and its language and cultural education work.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://lennoxisland.com/band/about/",
+        "title": "About Us",
+        "publisher": "Lennox Island First Nation",
+        "scope": "The First Nation’s community overview includes the cultural centre among its community facilities.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "lennox-island-first-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Mi’kmaq Family Resource Centre",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq family resource organization",
+    "region": "Prince Edward Island",
+    "overview": "The Mi’kmaq Family Resource Centre is a family resource organization in Charlottetown, Prince Edward Island.",
+    "overviewSourceIds": [
+      "s-pei-mikmaq-family-resource-centre-1-20261124",
+      "s-pei-mikmaq-family-resource-centre-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-mikmaq-family-resource-centre-1-20261124",
+        "title": "Family Resource Centres",
+        "url": "https://www.princeedwardisland.ca/en/information/education-and-early-years/family-resource-centres",
+        "publisher": "Government of Prince Edward Island",
+        "type": "Provincial resource directory",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The list includes the Mi’kmaq Family Resource Centre under Charlottetown.",
+        "contentReviewScope": "The list includes the Mi’kmaq Family Resource Centre under Charlottetown.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false,
+        "published": "2022-05-10"
+      },
+      {
+        "id": "s-pei-mikmaq-family-resource-centre-2-20261124",
+        "title": "Women’s History Month Profile Series – Patsy Gavin",
+        "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/womens-history-month-profile-series",
+        "publisher": "Patsy Gavin, interview published by the Government of Prince Edward Island",
+        "type": "First-person community interview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "Patsy Gavin discusses the role of the Charlottetown centre in her Women’s History Month interview.",
+        "contentReviewScope": "Patsy Gavin discusses the role of the Charlottetown centre in her Women’s History Month interview.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The province’s directory gives a starting point for locating the centre. Patsy Gavin discusses the centre’s work with families in a separate provincial interview.",
+        "sourceIds": [
+          "s-pei-mikmaq-family-resource-centre-1-20261124",
+          "s-pei-mikmaq-family-resource-centre-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.princeedwardisland.ca/en/information/education-and-early-years/family-resource-centres",
+        "title": "Family Resource Centres",
+        "publisher": "Government of Prince Edward Island",
+        "scope": "The list includes the Mi’kmaq Family Resource Centre under Charlottetown.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/womens-history-month-profile-series",
+        "title": "Women’s History Month Profile Series – Patsy Gavin",
+        "publisher": "Patsy Gavin, interview published by the Government of Prince Edward Island",
+        "scope": "Patsy Gavin discusses the role of the Charlottetown centre in her Women’s History Month interview.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Sukwisim Healing Lodge",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Indigenous cultural healing organization",
+    "region": "Prince Edward Island",
+    "overview": "Sukwisim Healing Lodge is an Indigenous cultural healing organization in Prince Edward Island. Patsy Gavin describes its focus as community support and aftercare.",
+    "overviewSourceIds": [
+      "s-pei-sukwisim-healing-lodge-1-20261124",
+      "s-pei-sukwisim-healing-lodge-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-sukwisim-healing-lodge-1-20261124",
+        "title": "Women’s History Month Profile Series – Patsy Gavin",
+        "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/womens-history-month-profile-series",
+        "publisher": "Patsy Gavin, interview published by the Government of Prince Edward Island",
+        "type": "First-person community interview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The interview names the Lodge and records Gavin’s first-person description of its community support role.",
+        "contentReviewScope": "The interview names the Lodge and records Gavin’s first-person description of its community support role.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-sukwisim-healing-lodge-2-20261124",
+        "title": "A Path Towards Reconciliation – 2024 Annual Status Report",
+        "url": "https://www.princeedwardisland.ca/sites/default/files/publications/moving_forward_together_2024_annual_status_report_final.pdf",
+        "publisher": "Government of Prince Edward Island",
+        "type": "Provincial report",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The 2024 status report records provincial support for the cultural healing space through the Aboriginal Women’s Association of PEI.",
+        "contentReviewScope": "The 2024 status report records provincial support for the cultural healing space through the Aboriginal Women’s Association of PEI.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "A provincial report records support for the cultural space through the Aboriginal Women’s Association of PEI. Gavin’s more recent interview describes how the Lodge’s work has developed.",
+        "sourceIds": [
+          "s-pei-sukwisim-healing-lodge-1-20261124",
+          "s-pei-sukwisim-healing-lodge-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/womens-history-month-profile-series",
+        "title": "Women’s History Month Profile Series – Patsy Gavin",
+        "publisher": "Patsy Gavin, interview published by the Government of Prince Edward Island",
+        "scope": "The interview names the Lodge and records Gavin’s first-person description of its community support role.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.princeedwardisland.ca/sites/default/files/publications/moving_forward_together_2024_annual_status_report_final.pdf",
+        "title": "A Path Towards Reconciliation – 2024 Annual Status Report",
+        "publisher": "Government of Prince Edward Island",
+        "scope": "The 2024 status report records provincial support for the cultural healing space through the Aboriginal Women’s Association of PEI.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Mawi’omi Indigenous Student Centre",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Indigenous student community centre",
+    "region": "Prince Edward Island",
+    "overview": "Mawi’omi is the University of Prince Edward Island’s Indigenous Student Centre in Charlottetown. It provides a campus gathering place and support for Indigenous students.",
+    "overviewSourceIds": [
+      "s-pei-mawiomi-indigenous-student-centre-1-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-mawiomi-indigenous-student-centre-1-20261124",
+        "title": "Mawi’omi Indigenous Student Centre",
+        "url": "https://www.upei.ca/mawiomi-centre",
+        "publisher": "University of Prince Edward Island",
+        "type": "University student centre overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The University’s centre page describes the name, Charlottetown setting and services for Indigenous students.",
+        "contentReviewScope": "The University’s centre page describes the name, Charlottetown setting and services for Indigenous students.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The centre’s own page describes its community gathering space, student support and opportunities for cultural connection.",
+        "sourceIds": [
+          "s-pei-mawiomi-indigenous-student-centre-1-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.upei.ca/mawiomi-centre",
+        "title": "Mawi’omi Indigenous Student Centre",
+        "publisher": "University of Prince Edward Island",
+        "scope": "The University’s centre page describes the name, Charlottetown setting and services for Indigenous students.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Pituamkek",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Mi’kmaq cultural landscape",
+    "region": "Prince Edward Island",
+    "overview": "Pituamkek is a chain of coastal islands and dunes in northwestern Epekwitk (Prince Edward Island). It remains significant to the Epekwitnewaq Mi’kmaq and is protected as a national park reserve.",
+    "overviewSourceIds": [
+      "s-pei-pituamkek-1-20261124",
+      "s-pei-pituamkek-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-pituamkek-1-20261124",
+        "title": "Pituamkek National Park Reserve",
+        "url": "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek?wbdisable=true",
+        "publisher": "Parks Canada",
+        "type": "Public heritage site overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The reserve overview names Pituamkek, places it in northwestern Prince Edward Island and describes its ongoing Mi’kmaq connections.",
+        "contentReviewScope": "The reserve overview names Pituamkek, places it in northwestern Prince Edward Island and describes its ongoing Mi’kmaq connections.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-pituamkek-2-20261124",
+        "title": "Negotiations",
+        "url": "https://lnuey.ca/our-work/negotiations/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution overview",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "L’nuey describes the Mi’kmaq relationship to Pituamkek and the agreement with Parks Canada.",
+        "contentReviewScope": "L’nuey describes the Mi’kmaq relationship to Pituamkek and the agreement with Parks Canada.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "L’nuey’s account describes the area’s cultural significance and the agreement to protect it. Parks Canada documents the coastal setting and the formal reserve designation.",
+        "sourceIds": [
+          "s-pei-pituamkek-1-20261124",
+          "s-pei-pituamkek-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek?wbdisable=true",
+        "title": "Pituamkek National Park Reserve",
+        "publisher": "Parks Canada",
+        "scope": "The reserve overview names Pituamkek, places it in northwestern Prince Edward Island and describes its ongoing Mi’kmaq connections.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://lnuey.ca/our-work/negotiations/",
+        "title": "Negotiations",
+        "publisher": "L’nuey",
+        "scope": "L’nuey describes the Mi’kmaq relationship to Pituamkek and the agreement with Parks Canada.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [
+      "Pituamkek National Park Reserve",
+      "Hog Island and the Sandhills"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
+    }
+  },
+  {
+    "name": "Skmaqn–Port-la-Joye–Fort Amherst",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-24",
+    "kind": "Historic Mi’kmaq meeting place",
+    "region": "Prince Edward Island",
+    "overview": "Skmaqn is a historic Mi’kmaq gathering place overlooking Charlottetown Harbour in Prince Edward Island. Parks Canada records gatherings there to renew the Mi’kmaq–French alliance in the eighteenth century.",
+    "overviewSourceIds": [
+      "s-pei-skmaqn-portlajoye-fort-amherst-1-20261124",
+      "s-pei-skmaqn-portlajoye-fort-amherst-2-20261124"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-pei-skmaqn-portlajoye-fort-amherst-1-20261124",
+        "title": "Skmaqn–Port-la-Joye–Fort Amherst National Historic Site",
+        "url": "https://parks.canada.ca/culture/designation/lieu-site/skmaqn",
+        "publisher": "Parks Canada",
+        "type": "National historic site designation",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "The site designation account describes historic seasonal alliance meetings, the name Skmaqn and the Charlottetown Harbour location.",
+        "contentReviewScope": "The site designation account describes historic seasonal alliance meetings, the name Skmaqn and the Charlottetown Harbour location.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-pei-skmaqn-portlajoye-fort-amherst-2-20261124",
+        "title": "The Mi’kmaq Epekwitnewaq Kapmntemuow and Parks Canada Sign Co-Management Agreement",
+        "url": "https://lnuey.ca/news-release/the-mikmaq-epekwitnewaq-kapmntemuow-and-parks-canada-sign-co-management-agreement/",
+        "publisher": "L’nuey",
+        "type": "Indigenous institution announcement",
+        "topics": [
+          "Prince Edward Island"
+        ],
+        "annotation": "L’nuey identifies Skmaqn by name and discusses Mi’kmaw participation in how Parks Canada sites are interpreted.",
+        "contentReviewScope": "L’nuey identifies Skmaqn by name and discusses Mi’kmaw participation in how Parks Canada sites are interpreted.",
+        "accessed": "2026-11-24",
+        "contentReviewedAt": "2026-11-24",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The national historic site account describes the gatherings and why the Mi’kmaq name was included in the designation. The later co-management announcement explains ongoing Mi’kmaw participation in interpretation at the site.",
+        "sourceIds": [
+          "s-pei-skmaqn-portlajoye-fort-amherst-1-20261124",
+          "s-pei-skmaqn-portlajoye-fort-amherst-2-20261124"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://parks.canada.ca/culture/designation/lieu-site/skmaqn",
+        "title": "Skmaqn–Port-la-Joye–Fort Amherst National Historic Site",
+        "publisher": "Parks Canada",
+        "scope": "The site designation account describes historic seasonal alliance meetings, the name Skmaqn and the Charlottetown Harbour location.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://lnuey.ca/news-release/the-mikmaq-epekwitnewaq-kapmntemuow-and-parks-canada-sign-co-management-agreement/",
+        "title": "The Mi’kmaq Epekwitnewaq Kapmntemuow and Parks Canada Sign Co-Management Agreement",
+        "publisher": "L’nuey",
+        "scope": "L’nuey identifies Skmaqn by name and discusses Mi’kmaw participation in how Parks Canada sites are interpreted.",
+        "reviewedAt": "2026-11-24",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-24",
+    "searchTerms": [
+      "Skmaqn"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The selected links document the name and regional setting for this starting guide."
     }
   }
 ]
