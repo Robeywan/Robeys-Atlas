@@ -109118,15 +109118,55 @@
     ],
     "added": true,
     "compiledAt": "2026-10-28",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-odanak-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Odanak in its W8banaki section.",
+        "contentReviewScope": "Québec’s directory lists Odanak in its W8banaki section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-odanak-w8banaki-20261123",
+        "title": "W8banaki",
+        "url": "https://gcnwa.com/",
+        "publisher": "W8banaki",
+        "type": "W8banaki council website",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The W8banaki council lists Odanak as one of its two member communities.",
+        "contentReviewScope": "The W8banaki council lists Odanak as one of its two member communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory gives the local listing. The W8banaki council introduces both of its member communities.",
+        "sourceIds": [
+          "s-qc-odanak-roster-20261123",
+          "s-qc-odanak-w8banaki-20261123"
+        ]
+      }
+    ],
     "kind": "First Nation community",
     "region": "Centre-du-Québec, Quebec — named community location only",
-    "overview": "Odanak is a separately findable W8banaki community route. Detailed history, annotated reading sources and individually cleared imagery remain queued.",
+    "overview": "Odanak is a W8banaki community in Centre-du-Québec.",
     "relationshipNote": "Keep this individually named community distinct from the broader Abenaki reading route. The source identifies a community relationship and Quebec location; it does not establish an exhaustive identity, legal jurisdiction or territorial boundary.",
     "relatedOriginalIds": [
       1
@@ -109147,18 +109187,17 @@
       }
     ],
     "researchGaps": [
-      "Develop community-directed history and inspect original publications.",
-      "Review individually relevant imagery and media reuse rights before substantive profile publication.",
-      "Distinguish historical names, institutions and current legal matters in later research."
+      "Find community-authored historical readings and review them with local context."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only outline with no substantive reading sources or completed history.",
-      "remainingLimits": [
-        "History, sources, community review and imagery remain queued."
-      ]
-    }
+      "rationale": "The starting sources support the local name and current directory setting."
+    },
+    "overviewSourceIds": [
+      "s-qc-odanak-roster-20261123",
+      "s-qc-odanak-w8banaki-20261123"
+    ]
   },
   {
     "originalId": null,
@@ -109170,15 +109209,55 @@
     ],
     "added": true,
     "compiledAt": "2026-10-28",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-wolinak-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Wôlinak in its W8banaki section.",
+        "contentReviewScope": "Québec’s directory lists Wôlinak in its W8banaki section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-wolinak-w8banaki-20261123",
+        "title": "W8banaki",
+        "url": "https://gcnwa.com/",
+        "publisher": "W8banaki",
+        "type": "W8banaki council website",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The W8banaki council lists Wôlinak as one of its two member communities.",
+        "contentReviewScope": "The W8banaki council lists Wôlinak as one of its two member communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory gives the local listing. The W8banaki council introduces both of its member communities.",
+        "sourceIds": [
+          "s-qc-wolinak-roster-20261123",
+          "s-qc-wolinak-w8banaki-20261123"
+        ]
+      }
+    ],
     "kind": "First Nation community",
     "region": "Centre-du-Québec, Quebec — named community location only",
-    "overview": "Wôlinak is a separately findable W8banaki community route. Detailed history, annotated reading sources and individually cleared imagery remain queued.",
+    "overview": "Wôlinak is a W8banaki community in Centre-du-Québec.",
     "relationshipNote": "Keep this individually named community distinct from the broader Abenaki reading route. The source identifies a community relationship and Quebec location; it does not establish an exhaustive identity, legal jurisdiction or territorial boundary.",
     "relatedOriginalIds": [
       1
@@ -109199,18 +109278,17 @@
       }
     ],
     "researchGaps": [
-      "Develop community-directed history and inspect original publications.",
-      "Review individually relevant imagery and media reuse rights before substantive profile publication.",
-      "Distinguish historical names, institutions and current legal matters in later research."
+      "Find community-authored historical readings and review them with local context."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only outline with no substantive reading sources or completed history.",
-      "remainingLimits": [
-        "History, sources, community review and imagery remain queued."
-      ]
-    }
+      "rationale": "The starting sources support the local name and current directory setting."
+    },
+    "overviewSourceIds": [
+      "s-qc-wolinak-roster-20261123",
+      "s-qc-wolinak-w8banaki-20261123"
+    ]
   },
   {
     "originalId": null,
@@ -195602,6 +195680,4729 @@
       "status": "Not assessed",
       "reviewedAt": null,
       "rationale": "The linked records support the name and geographic context."
+    }
+  },
+  {
+    "name": "Wolf Lake (Hunter’s Point)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory lists Wolf Lake First Nation under Hunter’s Point in Abitibi-Témiscamingue.",
+    "overviewSourceIds": [
+      "s-qc-wolf-lake-hunters-point-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-wolf-lake-hunters-point-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Hunter’s Point in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Hunter’s Point in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-wolf-lake-hunters-point-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Hunter’s Point in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kebaowek",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Kebaowek as a Algonquin community in the Abitibi-Témiscamingue region.",
+    "overviewSourceIds": [
+      "s-qc-kebaowek-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kebaowek-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kebaowek in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Kebaowek in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-kebaowek-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kebaowek in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kitcisakik",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Kitcisakik as a Algonquin community in the Abitibi-Témiscamingue region.",
+    "overviewSourceIds": [
+      "s-qc-kitcisakik-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kitcisakik-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kitcisakik in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Kitcisakik in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-kitcisakik-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kitcisakik in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kitigan Zibi",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Kitigan Zibi as a Algonquin community in the Outaouais region.",
+    "overviewSourceIds": [
+      "s-qc-kitigan-zibi-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kitigan-zibi-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kitigan Zibi in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Kitigan Zibi in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-kitigan-zibi-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kitigan Zibi in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Lac-Rapide",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Lac-Rapide as a Algonquin community in the Outaouais region.",
+    "overviewSourceIds": [
+      "s-qc-lacrapide-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-lacrapide-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Lac-Rapide in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Lac-Rapide in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-lacrapide-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Lac-Rapide in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Lac-Simon",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Lac-Simon as a Algonquin community in the Abitibi-Témiscamingue region.",
+    "overviewSourceIds": [
+      "s-qc-lacsimon-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-lacsimon-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Lac-Simon in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Lac-Simon in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-lacsimon-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Lac-Simon in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Pikogan",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Pikogan as a Algonquin community in the Abitibi-Témiscamingue region.",
+    "overviewSourceIds": [
+      "s-qc-pikogan-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-pikogan-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Pikogan in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Pikogan in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-pikogan-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Pikogan in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Timiskaming",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Timiskaming as a Algonquin community in the Abitibi-Témiscamingue region.",
+    "overviewSourceIds": [
+      "s-qc-timiskaming-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-timiskaming-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Timiskaming in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Timiskaming in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-timiskaming-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Timiskaming in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Winneway",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Winneway as a Algonquin community in the Abitibi-Témiscamingue region.",
+    "overviewSourceIds": [
+      "s-qc-winneway-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-winneway-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Winneway in its Algonquin section.",
+        "contentReviewScope": "Québec’s directory lists Winneway in its Algonquin section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-winneway-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Winneway in its Algonquin section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "algonquin"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Manawan",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Manawan as a Atikamekw community in the de Lanaudière region.",
+    "overviewSourceIds": [
+      "s-qc-manawan-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-manawan-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Manawan in its Atikamekw section.",
+        "contentReviewScope": "Québec’s directory lists Manawan in its Atikamekw section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-manawan-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Manawan in its Atikamekw section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "atikamekw"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Obedjiwan",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Obedjiwan as a Atikamekw community in the Mauricie region.",
+    "overviewSourceIds": [
+      "s-qc-obedjiwan-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-obedjiwan-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Obedjiwan in its Atikamekw section.",
+        "contentReviewScope": "Québec’s directory lists Obedjiwan in its Atikamekw section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-obedjiwan-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Obedjiwan in its Atikamekw section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "atikamekw"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Wemotaci",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Wemotaci as a Atikamekw community in Québec.",
+    "overviewSourceIds": [
+      "s-qc-wemotaci-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-wemotaci-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Wemotaci in its Atikamekw section.",
+        "contentReviewScope": "Québec’s directory lists Wemotaci in its Atikamekw section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-wemotaci-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Wemotaci in its Atikamekw section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "atikamekw"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Chisasibi",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Chisasibi as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-chisasibi-roster-20261123",
+      "s-qc-chisasibi-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-chisasibi-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Chisasibi in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Chisasibi in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-chisasibi-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Chisasibi among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Chisasibi among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-chisasibi-roster-20261123",
+          "s-qc-chisasibi-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Chisasibi in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Chisasibi among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Eastmain",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Eastmain as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-eastmain-roster-20261123",
+      "s-qc-eastmain-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-eastmain-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Eastmain in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Eastmain in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-eastmain-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Eastmain among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Eastmain among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-eastmain-roster-20261123",
+          "s-qc-eastmain-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Eastmain in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Eastmain among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Mistissini",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Mistissini as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-mistissini-roster-20261123",
+      "s-qc-mistissini-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-mistissini-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Mistissini in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Mistissini in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-mistissini-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Mistissini among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Mistissini among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-mistissini-roster-20261123",
+          "s-qc-mistissini-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Mistissini in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Mistissini among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Nemaska",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Nemaska as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-nemaska-roster-20261123",
+      "s-qc-nemaska-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-nemaska-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Nemaska in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Nemaska in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-nemaska-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Nemaska among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Nemaska among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-nemaska-roster-20261123",
+          "s-qc-nemaska-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Nemaska in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Nemaska among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Oujé-Bougoumou",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Oujé-Bougoumou as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-oujebougoumou-roster-20261123",
+      "s-qc-oujebougoumou-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-oujebougoumou-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Oujé-Bougoumou in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Oujé-Bougoumou in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-oujebougoumou-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Oujé-Bougoumou among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Oujé-Bougoumou among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-oujebougoumou-roster-20261123",
+          "s-qc-oujebougoumou-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Oujé-Bougoumou in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Oujé-Bougoumou among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Waskaganish",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Waskaganish as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-waskaganish-roster-20261123",
+      "s-qc-waskaganish-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-waskaganish-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Waskaganish in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Waskaganish in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-waskaganish-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Waskaganish among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Waskaganish among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-waskaganish-roster-20261123",
+          "s-qc-waskaganish-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Waskaganish in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Waskaganish among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Waswanipi",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Waswanipi as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-waswanipi-roster-20261123",
+      "s-qc-waswanipi-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-waswanipi-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Waswanipi in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Waswanipi in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-waswanipi-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Waswanipi among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Waswanipi among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-waswanipi-roster-20261123",
+          "s-qc-waswanipi-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Waswanipi in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Waswanipi among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Wemindji",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Wemindji as one of the Cree communities of Eeyou Istchee in Québec.",
+    "overviewSourceIds": [
+      "s-qc-wemindji-roster-20261123",
+      "s-qc-wemindji-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-wemindji-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Wemindji in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Wemindji in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-wemindji-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Wemindji among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Wemindji among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-wemindji-roster-20261123",
+          "s-qc-wemindji-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Wemindji in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Wemindji among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Whapmagoostui",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation community",
+    "region": "Québec",
+    "overview": "The Cree Nation Government lists Whapmagoostui as one of the Cree communities of Eeyou Istchee in Québec. The neighbouring Inuit village is Kuujjuarapik.",
+    "overviewSourceIds": [
+      "s-qc-whapmagoostui-roster-20261123",
+      "s-qc-whapmagoostui-cree-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-whapmagoostui-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Whapmagoostui in its Cree section.",
+        "contentReviewScope": "Québec’s directory lists Whapmagoostui in its Cree section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-whapmagoostui-cree-20261123",
+        "title": "The Eeyou of Eeyou Istchee",
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "publisher": "Cree Nation Government",
+        "type": "Cree Nation Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation Government lists Whapmagoostui among its Eeyou Istchee communities.",
+        "contentReviewScope": "The Cree Nation Government lists Whapmagoostui among its Eeyou Istchee communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cree Nation Government introduces the community and its Eeyou Istchee setting. The Québec directory lists the local government and public service links.",
+        "sourceIds": [
+          "s-qc-whapmagoostui-roster-20261123",
+          "s-qc-whapmagoostui-cree-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Whapmagoostui in its Cree section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cngov.ca/community-culture/communities/",
+        "title": "The Eeyou of Eeyou Istchee",
+        "publisher": "Cree Nation Government",
+        "scope": "The Cree Nation Government lists Whapmagoostui among its Eeyou Istchee communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Essipit",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Essipit as a Innu community in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-essipit-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-essipit-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Essipit in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Essipit in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-essipit-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Essipit in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Unamen Shipu (La Romaine)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec lists the Innu community of Unamen Shipu under La Romaine in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-unamen-shipu-la-romaine-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-unamen-shipu-la-romaine-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists La Romaine in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists La Romaine in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-unamen-shipu-la-romaine-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists La Romaine in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Mashteuiatsh",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Mashteuiatsh as a Innu community in the Saguenay–Lac-Saint-Jean region.",
+    "overviewSourceIds": [
+      "s-qc-mashteuiatsh-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-mashteuiatsh-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Mashteuiatsh in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Mashteuiatsh in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-mashteuiatsh-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Mashteuiatsh in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Matimekosh–Lac-John",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Matimekosh–Lac-John as a Innu community in Québec.",
+    "overviewSourceIds": [
+      "s-qc-matimekosh-lacjohn-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-matimekosh-lacjohn-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Matimekosh–Lac-John in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Matimekosh–Lac-John in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-matimekosh-lacjohn-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Matimekosh–Lac-John in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Ekuanitshit (Mingan)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec lists the Innu community of Ekuanitshit under Mingan in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-ekuanitshit-mingan-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-ekuanitshit-mingan-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Mingan in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Mingan in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-ekuanitshit-mingan-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Mingan in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Nutashkuan",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Nutashkuan as a Innu community in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-nutashkuan-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-nutashkuan-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Nutashkuan in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Nutashkuan in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-nutashkuan-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Nutashkuan in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Pakua Shipi (Pakuashipi)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec lists the Innu community of Pakua Shipi under Pakuashipi in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-pakua-shipi-pakuashipi-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-pakua-shipi-pakuashipi-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Pakuashipi in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Pakuashipi in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-pakua-shipi-pakuashipi-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Pakuashipi in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Pessamit",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Pessamit as a Innu community in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-pessamit-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-pessamit-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Pessamit in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Pessamit in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-pessamit-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Pessamit in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Uashat-Maliotenam",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Uashat-Maliotenam as a Innu community in Québec.",
+    "overviewSourceIds": [
+      "s-qc-uashatmaliotenam-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-uashatmaliotenam-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Uashat-Maliotenam in its Innu section.",
+        "contentReviewScope": "Québec’s directory lists Uashat-Maliotenam in its Innu section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-uashatmaliotenam-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Uashat-Maliotenam in its Innu section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "innu"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Akulivik",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Akulivik is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-akulivik-roster-20261123",
+      "s-qc-akulivik-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-akulivik-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Akulivik in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Akulivik in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-akulivik-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Akulivik in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Akulivik in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-akulivik-roster-20261123",
+          "s-qc-akulivik-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Akulivik in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Akulivik in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Aupaluk",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Aupaluk is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-aupaluk-roster-20261123",
+      "s-qc-aupaluk-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-aupaluk-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Aupaluk in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Aupaluk in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-aupaluk-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Aupaluk in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Aupaluk in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-aupaluk-roster-20261123",
+          "s-qc-aupaluk-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Aupaluk in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Aupaluk in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Inukjuak",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Inukjuak is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-inukjuak-roster-20261123",
+      "s-qc-inukjuak-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-inukjuak-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Inukjuak in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Inukjuak in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-inukjuak-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Inukjuak in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Inukjuak in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-inukjuak-roster-20261123",
+          "s-qc-inukjuak-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Inukjuak in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Inukjuak in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Ivujivik",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Ivujivik is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-ivujivik-roster-20261123",
+      "s-qc-ivujivik-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-ivujivik-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Ivujivik in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Ivujivik in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-ivujivik-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Ivujivik in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Ivujivik in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-ivujivik-roster-20261123",
+          "s-qc-ivujivik-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Ivujivik in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Ivujivik in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kangiqsualujjuaq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Kangiqsualujjuaq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-kangiqsualujjuaq-roster-20261123",
+      "s-qc-kangiqsualujjuaq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kangiqsualujjuaq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kangiqsualujjuaq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Kangiqsualujjuaq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-kangiqsualujjuaq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Kangiqsualujjuaq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Kangiqsualujjuaq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-kangiqsualujjuaq-roster-20261123",
+          "s-qc-kangiqsualujjuaq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kangiqsualujjuaq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Kangiqsualujjuaq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kangiqsujuaq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Kangiqsujuaq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-kangiqsujuaq-roster-20261123",
+      "s-qc-kangiqsujuaq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kangiqsujuaq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kangiqsujuaq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Kangiqsujuaq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-kangiqsujuaq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Kangiqsujuaq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Kangiqsujuaq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-kangiqsujuaq-roster-20261123",
+          "s-qc-kangiqsujuaq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kangiqsujuaq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Kangiqsujuaq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kangirsuk",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Kangirsuk is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-kangirsuk-roster-20261123",
+      "s-qc-kangirsuk-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kangirsuk-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kangirsuk in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Kangirsuk in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-kangirsuk-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Kangirsuk in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Kangirsuk in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-kangirsuk-roster-20261123",
+          "s-qc-kangirsuk-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kangirsuk in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Kangirsuk in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kuujjuaq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Kuujjuaq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-kuujjuaq-roster-20261123",
+      "s-qc-kuujjuaq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kuujjuaq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kuujjuaq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Kuujjuaq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-kuujjuaq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Kuujjuaq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Kuujjuaq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-kuujjuaq-roster-20261123",
+          "s-qc-kuujjuaq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kuujjuaq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Kuujjuaq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kuujjuarapik",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Kuujjuarapik is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village. The neighbouring Cree community is Whapmagoostui.",
+    "overviewSourceIds": [
+      "s-qc-kuujjuarapik-roster-20261123",
+      "s-qc-kuujjuarapik-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kuujjuarapik-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kuujjuarapik in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Kuujjuarapik in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-kuujjuarapik-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Kuujjuaraapik in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Kuujjuaraapik in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-kuujjuarapik-roster-20261123",
+          "s-qc-kuujjuarapik-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kuujjuarapik in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Kuujjuaraapik in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Puvirnituq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Puvirnituq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-puvirnituq-roster-20261123",
+      "s-qc-puvirnituq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-puvirnituq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Puvirnituq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Puvirnituq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-puvirnituq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Puvirnituq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Puvirnituq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-puvirnituq-roster-20261123",
+          "s-qc-puvirnituq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Puvirnituq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Puvirnituq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Quaqtaq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Quaqtaq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-quaqtaq-roster-20261123",
+      "s-qc-quaqtaq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-quaqtaq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Quaqtaq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Quaqtaq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-quaqtaq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Quaqtaq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Quaqtaq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-quaqtaq-roster-20261123",
+          "s-qc-quaqtaq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Quaqtaq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Quaqtaq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Salluit",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Salluit is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-salluit-roster-20261123",
+      "s-qc-salluit-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-salluit-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Salluit in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Salluit in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-salluit-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Salluit in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Salluit in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-salluit-roster-20261123",
+          "s-qc-salluit-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Salluit in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Salluit in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Tasiujaq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Tasiujaq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-tasiujaq-roster-20261123",
+      "s-qc-tasiujaq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-tasiujaq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Tasiujaq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Tasiujaq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-tasiujaq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Tasiujaq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Tasiujaq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-tasiujaq-roster-20261123",
+          "s-qc-tasiujaq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Tasiujaq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Tasiujaq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Umiujaq",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Inuit community",
+    "region": "Québec",
+    "overview": "Umiujaq is an Inuit community in Nunavik, northern Québec. The provincial profile identifies it as a northern village.",
+    "overviewSourceIds": [
+      "s-qc-umiujaq-roster-20261123",
+      "s-qc-umiujaq-makivvik-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-umiujaq-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Umiujaq in its Inuit section.",
+        "contentReviewScope": "Québec’s directory lists Umiujaq in its Inuit section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-umiujaq-makivvik-20261123",
+        "title": "Region",
+        "url": "https://las.makivvik.ca/region/",
+        "publisher": "Makivvik Land Administration System",
+        "type": "Inuit-led regional account",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Makivvik includes Umiujaq in its account of Nunavik’s coastal communities.",
+        "contentReviewScope": "Makivvik includes Umiujaq in its account of Nunavik’s coastal communities.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The provincial directory provides the village listing. Makivvik places it among the coastal communities of Nunavik.",
+        "sourceIds": [
+          "s-qc-umiujaq-roster-20261123",
+          "s-qc-umiujaq-makivvik-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Umiujaq in its Inuit section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://las.makivvik.ca/region/",
+        "title": "Region",
+        "publisher": "Makivvik Land Administration System",
+        "scope": "Makivvik includes Umiujaq in its account of Nunavik’s coastal communities.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "inuit"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Gesgapegiag",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Gesgapegiag as a Mi’gmaq community in the Gaspésie–Îles-de-la-Madeleine region.",
+    "overviewSourceIds": [
+      "s-qc-gesgapegiag-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-gesgapegiag-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Gesgapegiag in its Mi’gmaq section.",
+        "contentReviewScope": "Québec’s directory lists Gesgapegiag in its Mi’gmaq section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-gesgapegiag-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Gesgapegiag in its Mi’gmaq section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "mikmaq"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Gespeg",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Gespeg as a Mi’gmaq community in Québec.",
+    "overviewSourceIds": [
+      "s-qc-gespeg-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-gespeg-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Gespeg in its Mi’gmaq section.",
+        "contentReviewScope": "Québec’s directory lists Gespeg in its Mi’gmaq section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-gespeg-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Gespeg in its Mi’gmaq section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "mikmaq"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Listuguj",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Listuguj as a Mi’gmaq community in the Gaspésie–Îles-de-la-Madeleine region.",
+    "overviewSourceIds": [
+      "s-qc-listuguj-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-listuguj-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Listuguj in its Mi’gmaq section.",
+        "contentReviewScope": "Québec’s directory lists Listuguj in its Mi’gmaq section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-listuguj-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Listuguj in its Mi’gmaq section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "mikmaq"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kahnawake",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Kahnawake as a Kanien’kehá:ka (Mohawk) community in Québec.",
+    "overviewSourceIds": [
+      "s-qc-kahnawake-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kahnawake-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kahnawake in its Kanien’kehá:ka (Mohawk) section.",
+        "contentReviewScope": "Québec’s directory lists Kahnawake in its Kanien’kehá:ka (Mohawk) section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-kahnawake-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kahnawake in its Kanien’kehá:ka (Mohawk) section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "mohawk"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kanesatake",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Kanesatake as a Kanien’kehá:ka (Mohawk) community in Québec.",
+    "overviewSourceIds": [
+      "s-qc-kanesatake-roster-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kanesatake-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kanesatake in its Kanien’kehá:ka (Mohawk) section.",
+        "contentReviewScope": "Québec’s directory lists Kanesatake in its Kanien’kehá:ka (Mohawk) section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Find the community’s named section in the Québec directory for the local listing and the links it provides.",
+        "sourceIds": [
+          "s-qc-kanesatake-roster-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kanesatake in its Kanien’kehá:ka (Mohawk) section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "mohawk"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Kawawachikamach",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Québec’s directory identifies Kawawachikamach as a Naskapi community in the Côte-Nord region.",
+    "overviewSourceIds": [
+      "s-qc-kawawachikamach-roster-20261123",
+      "s-qc-kawawachikamach-naskapi-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-kawawachikamach-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Kawawachikamach in its Naskapi section.",
+        "contentReviewScope": "Québec’s directory lists Kawawachikamach in its Naskapi section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-kawawachikamach-naskapi-20261123",
+        "title": "Naskapi Nation of Kawawachikamach",
+        "url": "https://naskapi.ca/nsk/",
+        "publisher": "Naskapi Nation of Kawawachikamach",
+        "type": "First Nation website",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Nation introduces its community and gives Kawawachikamach as its Québec contact locality.",
+        "contentReviewScope": "The Nation introduces its community and gives Kawawachikamach as its Québec contact locality.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Nation’s introduction describes the community in its own words. The provincial directory gives the local Kawawachikamach listing.",
+        "sourceIds": [
+          "s-qc-kawawachikamach-roster-20261123",
+          "s-qc-kawawachikamach-naskapi-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Kawawachikamach in its Naskapi section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://naskapi.ca/nsk/",
+        "title": "Naskapi Nation of Kawawachikamach",
+        "publisher": "Naskapi Nation of Kawawachikamach",
+        "scope": "The Nation introduces its community and gives Kawawachikamach as its Québec contact locality.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "naskapi"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Première Nation Wolastoqiyik Wahsipekuk",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "First Nation community",
+    "region": "Québec",
+    "overview": "Wolastoqiyik Wahsipekuk describes its Québec community and its connection to Cacouna in the Bas-Saint-Laurent region.",
+    "overviewSourceIds": [
+      "s-qc-premiere-nation-wolastoqiyik-wahsipekuk-roster-20261123",
+      "s-qc-premiere-nation-wolastoqiyik-wahsipekuk-wahsipekuk-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-premiere-nation-wolastoqiyik-wahsipekuk-roster-20261123",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "publisher": "Gouvernement du Québec",
+        "type": "Government community directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "Québec’s directory lists Wolastoqiyik Wahsipekuk in its Wolastoqiyik section.",
+        "contentReviewScope": "Québec’s directory lists Wolastoqiyik Wahsipekuk in its Wolastoqiyik section.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-qc-premiere-nation-wolastoqiyik-wahsipekuk-wahsipekuk-20261123",
+        "title": "Première Nation Wolastoqiyik Wahsipekuk",
+        "url": "https://wolastoqiyikwahsipekuk.ca/",
+        "publisher": "Première Nation Wolastoqiyik Wahsipekuk",
+        "type": "First Nation website",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The First Nation describes its Québec community and its connection to Cacouna in the Bas-Saint-Laurent region.",
+        "contentReviewScope": "The First Nation describes its Québec community and its connection to Cacouna in the Bas-Saint-Laurent region.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The First Nation’s own site introduces the community. The provincial directory records the Cacouna and Kataskomiq locations.",
+        "sourceIds": [
+          "s-qc-premiere-nation-wolastoqiyik-wahsipekuk-roster-20261123",
+          "s-qc-premiere-nation-wolastoqiyik-wahsipekuk-wahsipekuk-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec",
+        "title": "Coordonnées des communautés autochtones au Québec",
+        "publisher": "Gouvernement du Québec",
+        "scope": "Québec’s directory lists Wolastoqiyik Wahsipekuk in its Wolastoqiyik section.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://wolastoqiyikwahsipekuk.ca/",
+        "title": "Première Nation Wolastoqiyik Wahsipekuk",
+        "publisher": "Première Nation Wolastoqiyik Wahsipekuk",
+        "scope": "The First Nation describes its Québec community and its connection to Cacouna in the Bas-Saint-Laurent region.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "wolastoqiyik"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Cree Nation of Washaw Sibi",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Cree First Nation",
+    "region": "Québec",
+    "overview": "The Cree Nation of Washaw Sibi lists its administrative office in Amos, Québec, and describes its work to establish a community in Eeyou Istchee.",
+    "overviewSourceIds": [
+      "s-qc-cree-nation-of-washaw-sibi-washaw-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-cree-nation-of-washaw-sibi-washaw-20261123",
+        "title": "Cree Nation of Washaw Sibi",
+        "url": "https://washawsibi.info/",
+        "publisher": "Cree Nation of Washaw Sibi",
+        "type": "First Nation website",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Cree Nation of Washaw Sibi lists its administrative office in Amos, Québec, and describes its work to establish a community in Eeyou Istchee.",
+        "contentReviewScope": "The Cree Nation of Washaw Sibi lists its administrative office in Amos, Québec, and describes its work to establish a community in Eeyou Istchee.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the Nation’s description of its community planning and the location of its administrative office.",
+        "sourceIds": [
+          "s-qc-cree-nation-of-washaw-sibi-washaw-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://washawsibi.info/",
+        "title": "Cree Nation of Washaw Sibi",
+        "publisher": "Cree Nation of Washaw Sibi",
+        "scope": "The Cree Nation of Washaw Sibi lists its administrative office in Amos, Québec, and describes its work to establish a community in Eeyou Istchee.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cree"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone de Manicouagan",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone de Manicouagan is an Indigenous friendship centre in Baie-Comeau, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-de-manicouagan-centre-1-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-de-manicouagan-centre-1-20261123",
+        "title": "Centre d'amitié autochtone de Manicouagan",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-manicouagan/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Manicouagan in Baie-Comeau.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Manicouagan in Baie-Comeau.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-de-manicouagan-centre-1-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-manicouagan/",
+        "title": "Centre d'amitié autochtone de Manicouagan",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Manicouagan in Baie-Comeau.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié Eenou de Chibougamau",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié Eenou de Chibougamau is an Indigenous friendship centre in Chibougamau, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-eenou-de-chibougamau-centre-2-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-eenou-de-chibougamau-centre-2-20261123",
+        "title": "Centre d'amitié Eenou de Chibougamau",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-eenou-de-chibougamau/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié Eenou de Chibougamau in Chibougamau.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié Eenou de Chibougamau in Chibougamau.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-eenou-de-chibougamau-centre-2-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-eenou-de-chibougamau/",
+        "title": "Centre d'amitié Eenou de Chibougamau",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié Eenou de Chibougamau in Chibougamau.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone de Lanaudière",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone de Lanaudière is an Indigenous friendship centre in Joliette, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-de-lanaudiere-centre-3-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-de-lanaudiere-centre-3-20261123",
+        "title": "Centre d'amitié autochtone de Lanaudière",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-lanaudiere/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Lanaudière in Joliette.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Lanaudière in Joliette.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-de-lanaudiere-centre-3-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-lanaudiere/",
+        "title": "Centre d'amitié autochtone de Lanaudière",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Lanaudière in Joliette.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone Capetciwotakanik – La Tuque",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone Capetciwotakanik – La Tuque is an Indigenous friendship centre in La Tuque, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-capetciwotakanik-la-tuque-centre-4-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-capetciwotakanik-la-tuque-centre-4-20261123",
+        "title": "Centre d'amitié autochtone Capetciwotakanik - La Tuque",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-capetciwotakanik-la-tuque/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone Capetciwotakanik – La Tuque in La Tuque.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone Capetciwotakanik – La Tuque in La Tuque.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-capetciwotakanik-la-tuque-centre-4-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-capetciwotakanik-la-tuque/",
+        "title": "Centre d'amitié autochtone Capetciwotakanik - La Tuque",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone Capetciwotakanik – La Tuque in La Tuque.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone de Maniwaki",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone de Maniwaki is an Indigenous friendship centre in Maniwaki, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-de-maniwaki-centre-5-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-de-maniwaki-centre-5-20261123",
+        "title": "Centre d'amitié autochtone de Maniwaki",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-maniwaki/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Maniwaki in Maniwaki.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Maniwaki in Maniwaki.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-de-maniwaki-centre-5-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-maniwaki/",
+        "title": "Centre d'amitié autochtone de Maniwaki",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Maniwaki in Maniwaki.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Montréal Autochtone",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Montréal Autochtone is an Indigenous friendship centre in Montréal, Québec.",
+    "overviewSourceIds": [
+      "s-qc-montreal-autochtone-centre-6-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-montreal-autochtone-centre-6-20261123",
+        "title": "Montréal Autochtone",
+        "url": "https://www.rcaaq.ca/centre-amitie/montreal-autochtone/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Montréal Autochtone in Montréal.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Montréal Autochtone in Montréal.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-montreal-autochtone-centre-6-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/montreal-autochtone/",
+        "title": "Montréal Autochtone",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Montréal Autochtone in Montréal.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre multiservices MAMUK",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre multiservices MAMUK is an Indigenous friendship centre in Québec City, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-multiservices-mamuk-centre-7-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-multiservices-mamuk-centre-7-20261123",
+        "title": "Centre MAMUK",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-multiservices-mamuk/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre multiservices MAMUK in Québec City.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre multiservices MAMUK in Québec City.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-multiservices-mamuk-centre-7-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-multiservices-mamuk/",
+        "title": "Centre MAMUK",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre multiservices MAMUK in Québec City.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’entraide et d’amitié autochtone de Senneterre",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’entraide et d’amitié autochtone de Senneterre is an Indigenous friendship centre in Senneterre, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-dentraide-et-damitie-autochtone-de-senneterre-centre-8-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-dentraide-et-damitie-autochtone-de-senneterre-centre-8-20261123",
+        "title": "Centre d'entraide et d'amitié autochtone de Senneterre",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-dentraide-et-damitie-autochtone-de-senneterre/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’entraide et d’amitié autochtone de Senneterre in Senneterre.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’entraide et d’amitié autochtone de Senneterre in Senneterre.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-dentraide-et-damitie-autochtone-de-senneterre-centre-8-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-dentraide-et-damitie-autochtone-de-senneterre/",
+        "title": "Centre d'entraide et d'amitié autochtone de Senneterre",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’entraide et d’amitié autochtone de Senneterre in Senneterre.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone de Sept-Îles",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone de Sept-Îles is an Indigenous friendship centre in Sept-Îles, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-de-septiles-centre-9-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-de-septiles-centre-9-20261123",
+        "title": "Centre d'amitié autochtone de Sept-Îles",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-sept-iles/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Sept-Îles in Sept-Îles.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Sept-Îles in Sept-Îles.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-de-septiles-centre-9-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-sept-iles/",
+        "title": "Centre d'amitié autochtone de Sept-Îles",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Sept-Îles in Sept-Îles.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone de Trois-Rivières",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone de Trois-Rivières is an Indigenous friendship centre in Trois-Rivières, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-de-troisrivieres-centre-10-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-de-troisrivieres-centre-10-20261123",
+        "title": "Centre d'amitié autochtone de Trois-Rivières",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-trois-rivieres/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Trois-Rivières in Trois-Rivières.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Trois-Rivières in Trois-Rivières.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-de-troisrivieres-centre-10-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-trois-rivieres/",
+        "title": "Centre d'amitié autochtone de Trois-Rivières",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Trois-Rivières in Trois-Rivières.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
+    }
+  },
+  {
+    "name": "Centre d’amitié autochtone de Val-d’Or",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-23",
+    "kind": "Indigenous friendship centre",
+    "region": "Québec",
+    "overview": "Centre d’amitié autochtone de Val-d’Or is an Indigenous friendship centre in Val-d’Or, Québec.",
+    "overviewSourceIds": [
+      "s-qc-centre-damitie-autochtone-de-valdor-centre-11-20261123"
+    ],
+    "relationshipNote": "",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "researchComplete": false,
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-qc-centre-damitie-autochtone-de-valdor-centre-11-20261123",
+        "title": "Centre d'amitié autochtone de Val-d'Or",
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-val-dor/",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "type": "Indigenous-led friendship centre directory",
+        "topics": [
+          "Québec"
+        ],
+        "annotation": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Val-d’Or in Val-d’Or.",
+        "contentReviewScope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Val-d’Or in Val-d’Or.",
+        "accessed": "2026-11-23",
+        "contentReviewedAt": "2026-11-23",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The network’s local profile gives the centre’s location and links to its services or contact information.",
+        "sourceIds": [
+          "s-qc-centre-damitie-autochtone-de-valdor-centre-11-20261123"
+        ]
+      }
+    ],
+    "identityVerifiedAt": "2026-11-23",
+    "identificationEvidence": [
+      {
+        "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-val-dor/",
+        "title": "Centre d'amitié autochtone de Val-d'Or",
+        "publisher": "Regroupement des centres d’amitié autochtones du Québec",
+        "scope": "The Québec Native Friendship Centre network lists Centre d’amitié autochtone de Val-d’Or in Val-d’Or.",
+        "reviewedAt": "2026-11-23",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The linked records provide starting evidence for the name and geographic context."
     }
   }
 ]

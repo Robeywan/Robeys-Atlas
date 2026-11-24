@@ -3,12 +3,78 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 1279,
+    "selectedProfiles": 1344,
     "existingApache": 1,
-    "newProfileTreatments": 1278,
-    "newTreatmentsWithPhotographs": 1197,
-    "decorativeTreatmentsAwaitingPhotographs": 81,
-    "autoEnrolledThisBuild": []
+    "newProfileTreatments": 1343,
+    "newTreatmentsWithPhotographs": 1249,
+    "decorativeTreatmentsAwaitingPhotographs": 94,
+    "autoEnrolledThisBuild": [
+      "akulivik",
+      "aupaluk",
+      "centre-damitie-autochtone-capetciwotakanik-la-tuque",
+      "centre-damitie-autochtone-de-lanaudiere",
+      "centre-damitie-autochtone-de-manicouagan",
+      "centre-damitie-autochtone-de-maniwaki",
+      "centre-damitie-autochtone-de-septiles",
+      "centre-damitie-autochtone-de-troisrivieres",
+      "centre-damitie-autochtone-de-valdor",
+      "centre-damitie-eenou-de-chibougamau",
+      "centre-dentraide-et-damitie-autochtone-de-senneterre",
+      "centre-multiservices-mamuk",
+      "chisasibi",
+      "cree-nation-of-washaw-sibi",
+      "eastmain",
+      "ekuanitshit-mingan",
+      "essipit",
+      "gesgapegiag",
+      "gespeg",
+      "inukjuak",
+      "ivujivik",
+      "kahnawake",
+      "kanesatake",
+      "kangiqsualujjuaq",
+      "kangiqsujuaq",
+      "kangirsuk",
+      "kawawachikamach",
+      "kebaowek",
+      "kitcisakik",
+      "kitigan-zibi",
+      "kuujjuaq",
+      "kuujjuarapik",
+      "lacrapide",
+      "lacsimon",
+      "listuguj",
+      "manawan",
+      "mashteuiatsh",
+      "matimekosh-lacjohn",
+      "mistissini",
+      "montreal-autochtone",
+      "nemaska",
+      "nutashkuan",
+      "obedjiwan",
+      "odanak",
+      "oujebougoumou",
+      "pakua-shipi-pakuashipi",
+      "pessamit",
+      "pikogan",
+      "premiere-nation-wolastoqiyik-wahsipekuk",
+      "puvirnituq",
+      "quaqtaq",
+      "salluit",
+      "tasiujaq",
+      "timiskaming",
+      "uashatmaliotenam",
+      "umiujaq",
+      "unamen-shipu-la-romaine",
+      "waskaganish",
+      "waswanipi",
+      "wemindji",
+      "wemotaci",
+      "whapmagoostui",
+      "winneway",
+      "wolf-lake-hunters-point",
+      "wolinak"
+    ]
   },
   "treatments": [
     {
@@ -1455,6 +1521,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:176;--profile-angle:-33deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-aklavik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "akulivik",
+      "name": "Akulivik",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 111,
+      "angle": -27,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-akulivik",
+          "profileSlugs": [
+            "akulivik"
+          ],
+          "mediaType": "photograph",
+          "title": "Akulivik in winter",
+          "alt": "Aerial view of buildings in Akulivik on a snow-covered stretch of coast.",
+          "scope": "The photograph shows the northern village of Akulivik in Nunavik. Resized for display.",
+          "creator": "Chouch",
+          "credit": "Chouch / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Chouch / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akulivik.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Akulivik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2008-04-08",
+          "asset": "assets/profile-visuals/qc-photo-akulivik.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-akulivik-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 638,
+              "bytes": 203598,
+              "sha256": "81d3a94b5321a10b31d3585bac03b49eb505c3898ec4edd28b93e5a57c5cc1ff"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 283,
+              "bytes": 42738,
+              "sha256": "463a30087b9dbbd96df244a2dcfac32c44645cf05c91f3fb0f0e727b3629258b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:111;--profile-angle:-27deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-akulivik.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -5129,6 +5260,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "aupaluk",
+      "name": "Aupaluk",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 128,
+      "angle": 41,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-aupaluk",
+          "profileSlugs": [
+            "aupaluk"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Aupaluk",
+          "alt": "Satellite view of Aupaluk’s coastal village, nearby road, and shoreline.",
+          "scope": "The view focuses on the northern village of Aupaluk and the adjoining shoreline. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_19VDF_20260623_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/19/V/DF/2026/6/S2B_19VDF_20260623_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Aupaluk",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=EJNEQ"
+            }
+          ],
+          "date": "2026-06-23",
+          "asset": "assets/profile-visuals/qc-photo-aupaluk.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-aupaluk-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 230,
+              "height": 165,
+              "bytes": 13980,
+              "sha256": "d0675ef9844080ef1b9c52e5dfce5dc6fc7bf315bb4be126d18b43c9c8b3fdb5"
+            },
+            "cardAsset": {
+              "width": 230,
+              "height": 165,
+              "bytes": 11720,
+              "sha256": "dd3f93f70728cb483a6596cb022f58976a78fbe18dc0d4cecf1c1b00ce550e90"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:128;--profile-angle:41deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-aupaluk.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "awakateko",
@@ -10534,6 +10734,278 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "centre-damitie-autochtone-capetciwotakanik-la-tuque",
+      "name": "Centre d’amitié autochtone Capetciwotakanik – La Tuque",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 75,
+      "angle": -46,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:75;--profile-angle:-46deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-autochtone-de-lanaudiere",
+      "name": "Centre d’amitié autochtone de Lanaudière",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 30,
+      "angle": -12,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:30;--profile-angle:-12deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-autochtone-de-manicouagan",
+      "name": "Centre d’amitié autochtone de Manicouagan",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 221,
+      "angle": 67,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:221;--profile-angle:67deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-autochtone-de-maniwaki",
+      "name": "Centre d’amitié autochtone de Maniwaki",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 205,
+      "angle": -70,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:205;--profile-angle:-70deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-autochtone-de-septiles",
+      "name": "Centre d’amitié autochtone de Sept-Îles",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 215,
+      "angle": 76,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:215;--profile-angle:76deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-autochtone-de-troisrivieres",
+      "name": "Centre d’amitié autochtone de Trois-Rivières",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 138,
+      "angle": 52,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:138;--profile-angle:52deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-autochtone-de-valdor",
+      "name": "Centre d’amitié autochtone de Val-d’Or",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 114,
+      "angle": -71,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-centre-damitie-autochtone-de-valdor",
+          "profileSlugs": [
+            "centre-damitie-autochtone-de-valdor"
+          ],
+          "mediaType": "photograph",
+          "title": "Val-d’Or Native Friendship Centre",
+          "alt": "The brick exterior and entrance area of the Val-d’Or Native Friendship Centre.",
+          "scope": "The photo record identifies the building as the friendship centre in Val-d’Or. Resized for display.",
+          "creator": "Vintotal",
+          "credit": "Vintotal / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Vintotal / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centre_d%27amiti%C3%A9_autochtone.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Centre_d%27amiti%C3%A9_autochtone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Centre d'amitié autochtone de Val-d'Or",
+              "url": "https://www.rcaaq.ca/centre-amitie/centre-damitie-autochtone-de-val-dor/"
+            }
+          ],
+          "date": "2009-08",
+          "asset": "assets/profile-visuals/qc-photo-centre-damitie-autochtone-de-valdor.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-centre-damitie-autochtone-de-valdor-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 600,
+              "bytes": 242962,
+              "sha256": "198d50e68dc561ab4dfe066a9fad23663ab451df3215539e6a18400e82615a5e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 123577,
+              "sha256": "4ed4f3ff285e1fa8e484d530adf551d87f2ad65586d5461a6740494be969f7c0"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:114;--profile-angle:-71deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-centre-damitie-autochtone-de-valdor.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-damitie-eenou-de-chibougamau",
+      "name": "Centre d’amitié Eenou de Chibougamau",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 125,
+      "angle": 10,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:125;--profile-angle:10deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-dentraide-et-damitie-autochtone-de-senneterre",
+      "name": "Centre d’entraide et d’amitié autochtone de Senneterre",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 122,
+      "angle": -70,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:122;--profile-angle:-70deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "centre-multiservices-mamuk",
+      "name": "Centre multiservices MAMUK",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 74,
+      "angle": -51,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:74;--profile-angle:-51deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "chacachas-treaty-nation",
       "name": "Chacachas Treaty Nation",
       "originalId": null,
@@ -12902,6 +13374,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "chisasibi",
+      "name": "Chisasibi",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 124,
+      "angle": -70,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-chisasibi",
+          "profileSlugs": [
+            "chisasibi"
+          ],
+          "mediaType": "photograph",
+          "title": "Chisasibi community centre",
+          "alt": "The Chisasibi community centre in winter, with a tall, open-sided central structure.",
+          "scope": "The Commons record identifies the building as Chisasibi’s community centre. Resized for display.",
+          "creator": "P199",
+          "credit": "P199 / Wikimedia Commons, CC BY-SA 2.5",
+          "cardCredit": "P199 / Wikimedia Commons, CC BY-SA 2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quebec_Chisasibi_Ctr.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Quebec_Chisasibi_Ctr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.5",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2005-12",
+          "asset": "assets/profile-visuals/qc-photo-chisasibi.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-chisasibi-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 944,
+              "bytes": 216313,
+              "sha256": "58f943ad7937bb27a5eff83991b9bf74fa93360e7024eb7a5d9da494de35fa20"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 419,
+              "bytes": 35545,
+              "sha256": "5dfcf7993f0b8fbab1803b4bfe817c45e8e1f2a57b7273d7ee95e82ef5ae4839"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:124;--profile-angle:-70deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-chisasibi.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "chiskiack",
@@ -15626,6 +16163,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "cree-nation-of-washaw-sibi",
+      "name": "Cree Nation of Washaw Sibi",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 178,
+      "angle": 27,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:178;--profile-angle:27deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "crescent-bay-hunt-club-site",
@@ -18488,6 +19048,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "eastmain",
+      "name": "Eastmain",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 145,
+      "angle": 13,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-eastmain",
+          "profileSlugs": [
+            "eastmain"
+          ],
+          "mediaType": "photograph",
+          "title": "Wabannutao Eeyou School at Eastmain",
+          "alt": "Wabannutao Eeyou School beyond an open area covered with snow.",
+          "scope": "The photograph shows Eastmain’s Wabannutao Eeyou School. Resized for display.",
+          "creator": "VirtualLight",
+          "credit": "VirtualLight / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "VirtualLight / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:WabEeyouschool.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/WabEeyouschool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2015-11-29",
+          "asset": "assets/profile-visuals/qc-photo-eastmain.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-eastmain-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 239560,
+              "sha256": "24a9407689c7d55186f016d529be8145267bb9bf96290497b79f5748f5ced5aa"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 52245,
+              "sha256": "5884662097a84902ccaa7ae87a90190f3371fb01e9f0d18f0c6e9873a75c5af5"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:145;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-eastmain.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ebb-and-flow-first-nation",
       "name": "Ebb and Flow First Nation",
       "originalId": null,
@@ -18782,6 +19407,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "ekuanitshit-mingan",
+      "name": "Ekuanitshit (Mingan)",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 197,
+      "angle": -36,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-ekuanitshit-mingan",
+          "profileSlugs": [
+            "ekuanitshit-mingan"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Ekuanitshit",
+          "alt": "Satellite view of the Mingan village setting, with buildings between a river bend and the coast.",
+          "scope": "The view focuses on Mingan, the village setting named for Ekuanitshit in the provincial directory. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_20UMA_20260724_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/20/U/MA/2026/7/S2B_20UMA_20260724_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Ekuanitshit",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=EHGST"
+            }
+          ],
+          "date": "2026-07-24",
+          "asset": "assets/profile-visuals/qc-photo-ekuanitshit-mingan.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-ekuanitshit-mingan-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 240,
+              "height": 167,
+              "bytes": 10851,
+              "sha256": "f319d9e8ea9cc638e46565c7a70d2208dcb20b19476f1a670807867e073b6519"
+            },
+            "cardAsset": {
+              "width": 240,
+              "height": 167,
+              "bytes": 8944,
+              "sha256": "264910a1be2078829bee12e51f9f5e16e754bf63ef92b3d68973186e9befea3e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:197;--profile-angle:-36deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-ekuanitshit-mingan.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "electa-quinney-institute-for-american-indian-education",
@@ -19336,6 +20030,75 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:68;--profile-angle:3deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-esquimalt-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "essipit",
+      "name": "Essipit",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 50,
+      "angle": 6,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-essipit",
+          "profileSlugs": [
+            "essipit"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Essipit",
+          "alt": "Satellite view of roads and buildings near the shoreline at Essipit.",
+          "scope": "The scene shows the Essipit area and adjoining shoreline. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_19UDP_20260707_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/19/U/DP/2026/7/S2B_19UDP_20260707_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Essipit",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=ESOEM"
+            }
+          ],
+          "date": "2026-07-07",
+          "asset": "assets/profile-visuals/qc-photo-essipit.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-essipit-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 250,
+              "height": 172,
+              "bytes": 11670,
+              "sha256": "438b13858bacc6bdb3ddaaa564a481393a9a7b6ecd176ebcaf40fe4253a2b8b4"
+            },
+            "cardAsset": {
+              "width": 250,
+              "height": 172,
+              "bytes": 9696,
+              "sha256": "2b2a45e77a975bb8a098152d62d698cb13164bfe78dd55cad4edf5772fcc56d4"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:50;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-essipit.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -22022,6 +22785,94 @@
         "used": 0
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:34;--profile-angle:39deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "gesgapegiag",
+      "name": "Gesgapegiag",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 193,
+      "angle": 4,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-gesgapegiag",
+          "profileSlugs": [
+            "gesgapegiag"
+          ],
+          "mediaType": "photograph",
+          "title": "Church in Gesgapegiag",
+          "alt": "Exterior view of a white church with a steep, tipi-shaped roof in Gesgapegiag.",
+          "scope": "The photograph shows a landmark in the Mi’gmaq community of Gesgapegiag. Resized for display.",
+          "creator": "Gachepi",
+          "credit": "Gachepi / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Gachepi / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gesgapegiag_%C3%A9glise.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gesgapegiag_%C3%A9glise.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2007-07-23",
+          "asset": "assets/profile-visuals/qc-photo-gesgapegiag.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-gesgapegiag-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1106,
+              "height": 1403,
+              "bytes": 200626,
+              "sha256": "5afd6f3976d4fdd02e68ae2abecb666b67e6ddbf233cf5f382746a4fe312b0f9"
+            },
+            "cardAsset": {
+              "width": 505,
+              "height": 640,
+              "bytes": 42651,
+              "sha256": "23d929594d213022e836a38a86f3d95261aeda54bd532f166220939f53d4008b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:193;--profile-angle:4deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-gesgapegiag.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "gespeg",
+      "name": "Gespeg",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 142,
+      "angle": -23,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:142;--profile-angle:-23deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -28192,6 +29043,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "inukjuak",
+      "name": "Inukjuak",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 151,
+      "angle": 3,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-inukjuak",
+          "profileSlugs": [
+            "inukjuak"
+          ],
+          "mediaType": "photograph",
+          "title": "Housing at Inukjuak",
+          "alt": "Colourful homes and other buildings on a rocky hillside in Inukjuak.",
+          "scope": "The original file identifies this housing view with Inukjuak. Resized for display.",
+          "creator": "Ian Schofield",
+          "credit": "Ian Schofield / Wikimedia Commons, CC BY 2.0",
+          "cardCredit": "Ian Schofield / Wikimedia Commons, CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inukjuak2014.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Inukjuak2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2014-10-12",
+          "asset": "assets/profile-visuals/qc-photo-inukjuak.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-inukjuak-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1039,
+              "bytes": 332726,
+              "sha256": "d17f4e3b504f18c3fdac1b8c52c1aec109f7c672c1668e34ef606b4620011053"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 462,
+              "bytes": 71578,
+              "sha256": "eee448f369ba5b4af9f7735bab0add8432e70b02d8f58271dd34ca0b9772a73c"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:151;--profile-angle:3deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-inukjuak.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "inupiat",
       "name": "Iñupiat",
       "originalId": 139,
@@ -29094,6 +30010,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "ivujivik",
+      "name": "Ivujivik",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 278,
+      "angle": -11,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-ivujivik",
+          "profileSlugs": [
+            "ivujivik"
+          ],
+          "mediaType": "photograph",
+          "title": "Ivujivik village panorama",
+          "alt": "Homes near the water in Ivujivik, with rocky hills behind them.",
+          "scope": "The panorama documents the Nunavik village of Ivujivik. Resized for display.",
+          "creator": "PascaleMontcalm",
+          "credit": "PascaleMontcalm / Wikimedia Commons, CC BY 3.0",
+          "cardCredit": "PascaleMontcalm / Wikimedia Commons, CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pano_Ivujivik.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pano_Ivujivik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2008-08-23",
+          "asset": "assets/profile-visuals/qc-photo-ivujivik.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-ivujivik-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 896,
+              "height": 436,
+              "bytes": 64672,
+              "sha256": "49bc4a9d2634f903781f8508579bc22e090f0728379b452f7a92286af8b5c81c"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 311,
+              "bytes": 40313,
+              "sha256": "d0f259b82ad38526a25405c6631dba83db46f3211f4a234a3ff596a621d5f67d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:278;--profile-angle:-11deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-ivujivik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ixcateco",
       "name": "Ixcateco",
       "originalId": 147,
@@ -29706,6 +30687,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "kahnawake",
+      "name": "Kahnawake",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 130,
+      "angle": -69,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-kahnawake",
+          "profileSlugs": [
+            "kahnawake"
+          ],
+          "mediaType": "photograph",
+          "title": "Kahnawake across the St. Lawrence",
+          "alt": "The Kahnawake shoreline seen across the St. Lawrence River, with buildings and a steeple on the far bank.",
+          "scope": "The photograph shows Kahnawake from Lachine, Montréal. Resized for display.",
+          "creator": "Red Castle",
+          "credit": "Red Castle / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Red Castle / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kahnawake_vue_de_Montr%C3%A9al_1.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kahnawake_vue_de_Montr%C3%A9al_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2016-08-02",
+          "asset": "assets/profile-visuals/qc-photo-kahnawake.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kahnawake-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 211056,
+              "sha256": "bf68b4d74ef970d87a0a4592d9a5cce33b312bdae10e5b5a4f3aba4e16fcb25a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 53698,
+              "sha256": "02b79768d1faade4f1da63a1a47594686143099074d07fabedfa8c9219474b9a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:130;--profile-angle:-69deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kahnawake.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "kalinago",
       "name": "Kalinago",
       "originalId": null,
@@ -29900,6 +30946,266 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:20;--profile-angle:2deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-kanaka-bar.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kanesatake",
+      "name": "Kanesatake",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 251,
+      "angle": -24,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-kanesatake",
+          "profileSlugs": [
+            "kanesatake"
+          ],
+          "mediaType": "photograph",
+          "title": "Mont Bleu near Kanesatake",
+          "alt": "An open field and the wooded slopes of Mont Bleu viewed from Rang Saint-Ambroise.",
+          "scope": "The photograph records Mont Bleu in the setting of Kanesatake. It depicts the landscape. Resized for display.",
+          "creator": "P. Davignon",
+          "credit": "P. Davignon / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "P. Davignon / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont_Bleu_(collines_d%27Oka_%C3%A0_Kanesatake)_2018-07-08.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mont_Bleu_%28collines_d%27Oka_%C3%A0_Kanesatake%29_2018-07-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2018-07-08",
+          "asset": "assets/profile-visuals/qc-photo-kanesatake.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kanesatake-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 434055,
+              "sha256": "ab543cd0b47b9a32ee4a1d7db4882f18ffbd46ac9b6c4b4ef6c3dc070c239dc9"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 72542,
+              "sha256": "8ddf35aafe6bb34fec8e28ccc307e8edffc6f37bdabc60f4262ab15416c2f628"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:251;--profile-angle:-24deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kanesatake.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kangiqsualujjuaq",
+      "name": "Kangiqsualujjuaq",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 189,
+      "angle": 33,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-kangiqsualujjuaq",
+          "profileSlugs": [
+            "kangiqsualujjuaq"
+          ],
+          "mediaType": "photograph",
+          "title": "Kangiqsualujjuaq at dawn",
+          "alt": "Snow-covered homes and hills at dawn in Kangiqsualujjuaq.",
+          "scope": "The photograph records the village on a winter morning. Resized for display.",
+          "creator": "Velatrix",
+          "credit": "Velatrix / Wikimedia Commons, CC0",
+          "cardCredit": "Velatrix / Wikimedia Commons, CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangiqsualujjuaq_at_Dawn_in_March.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kangiqsualujjuaq_at_Dawn_in_March.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2011-03-07",
+          "asset": "assets/profile-visuals/qc-photo-kangiqsualujjuaq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kangiqsualujjuaq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 209914,
+              "sha256": "065855a917bbb7f15728a0d81c0d60d38d93bb246b441bf24c56660ff621244e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 43011,
+              "sha256": "1e30c10881d6141df08d1cb90c2b7a6deaf8197325e050b62e93ae10c634ee55"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:189;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kangiqsualujjuaq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kangiqsujuaq",
+      "name": "Kangiqsujuaq",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 67,
+      "angle": -67,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-kangiqsujuaq",
+          "profileSlugs": [
+            "kangiqsujuaq"
+          ],
+          "mediaType": "photograph",
+          "title": "Kangiqsujuaq by the water",
+          "alt": "Buildings between high hills on an inlet at Kangiqsujuaq.",
+          "scope": "This view shows the northern village of Kangiqsujuaq and its coastal setting. Resized for display.",
+          "creator": "Lkovac",
+          "credit": "Lkovac / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Lkovac / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangiqsujuaq_(village).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Kangiqsujuaq_%28village%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2010-07-07",
+          "asset": "assets/profile-visuals/qc-photo-kangiqsujuaq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kangiqsujuaq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1030,
+              "bytes": 366409,
+              "sha256": "d0d103cb0f3dbda801a4b4b0af3b20794d5fd2b1a9567174035bef3ee6942961"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 458,
+              "bytes": 65814,
+              "sha256": "7a44359de30c4329b88961b5cf3a747cdf485049396657da4a1d47314a5f1c43"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:67;--profile-angle:-67deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kangiqsujuaq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kangirsuk",
+      "name": "Kangirsuk",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 122,
+      "angle": 35,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-kangirsuk",
+          "profileSlugs": [
+            "kangirsuk"
+          ],
+          "mediaType": "photograph",
+          "title": "Kangirsuk coastal panorama",
+          "alt": "Buildings along the rocky coast of Kangirsuk under a pink sky.",
+          "scope": "The photo record identifies this panorama as Kangirsuk. Resized for display.",
+          "creator": "Steven Roberge",
+          "credit": "Steven Roberge / Wikimedia Commons, CC BY 2.0",
+          "cardCredit": "Steven Roberge / Wikimedia Commons, CC BY 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pano_Kangirsuk.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pano_Kangirsuk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2009-06-22",
+          "asset": "assets/profile-visuals/qc-photo-kangirsuk.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kangirsuk-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1024,
+              "height": 366,
+              "bytes": 95867,
+              "sha256": "7e7b80d05e808f2751ce984b06ca51c5e5b584157d402a7cbf88b698516d501d"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 229,
+              "bytes": 33577,
+              "sha256": "04205c294f021ad6d2f722ac6954a861cec3ff794bc0dcd193ad9ac7d43b5de8"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:122;--profile-angle:35deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kangirsuk.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -30652,6 +31958,140 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:274;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/sk-sentinel-kawacatoose-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kawawachikamach",
+      "name": "Kawawachikamach",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 136,
+      "angle": 62,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-kawawachikamach",
+          "profileSlugs": [
+            "kawawachikamach"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Kawawachikamach",
+          "alt": "Satellite view of the road network and buildings at Kawawachikamach.",
+          "scope": "The view shows the village of Kawawachikamach and nearby water. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2A_19UFA_20260627_1_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/19/U/FA/2026/6/S2A_19UFA_20260627_1_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Kawawachikamach",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=ESODW"
+            }
+          ],
+          "date": "2026-06-27",
+          "asset": "assets/profile-visuals/qc-photo-kawawachikamach.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kawawachikamach-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 250,
+              "height": 180,
+              "bytes": 11830,
+              "sha256": "76d0c81451747cf0100ed794f5ab3e14351b9fcd2fb3fb14438f797cf89d7c3d"
+            },
+            "cardAsset": {
+              "width": 250,
+              "height": 180,
+              "bytes": 9473,
+              "sha256": "2a0f979d198483aceae7dc482ba69451ab92dedb485754fc398ff5169c0d3604"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:136;--profile-angle:62deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kawawachikamach.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kebaowek",
+      "name": "Kebaowek",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 154,
+      "angle": 59,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-kebaowek",
+          "profileSlugs": [
+            "kebaowek"
+          ],
+          "mediaType": "photograph",
+          "title": "Kebaowek waterfront and welcome sign",
+          "alt": "A Kebaowek welcome sign stands near docks and water.",
+          "scope": "The licence record identifies the photographed place as Kebaowek First Nation. Resized for display.",
+          "creator": "P199",
+          "credit": "P199 / Wikimedia Commons, Public domain",
+          "cardCredit": "P199 / Wikimedia Commons, Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kebaowek_QC.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kebaowek_QC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Public domain",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Kebaowek_QC.jpg#Licensing",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2008-09",
+          "asset": "assets/profile-visuals/qc-photo-kebaowek.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kebaowek-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1229,
+              "height": 729,
+              "bytes": 235753,
+              "sha256": "4ba06af6819c1ffd2b5fcaaccdce0a91378782e1a813f9ed8cbd5a5610ae8db6"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 380,
+              "bytes": 60461,
+              "sha256": "35f4635ea0d868e2d4515554e0ac5169d7b98707ab22f4bdf21faa21c4096108"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:154;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kebaowek.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -32776,6 +34216,136 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "kitcisakik",
+      "name": "Kitcisakik",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 220,
+      "angle": -53,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-kitcisakik",
+          "profileSlugs": [
+            "kitcisakik"
+          ],
+          "mediaType": "photograph",
+          "title": "Kitcisakik from the air",
+          "alt": "Aerial view of lakeside buildings and a dam at Kitcisakik.",
+          "scope": "The photograph documents the setting of the Anicinape community of Kitcisakik. Resized for display.",
+          "creator": "Quintin Soloviev",
+          "credit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "cardCredit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitcisakik,_Quebec.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kitcisakik%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2026-08-17",
+          "asset": "assets/profile-visuals/qc-photo-kitcisakik.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kitcisakik-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 467768,
+              "sha256": "9ccd4cea48e3f651c695b7a56040cf5f9dfa2d41d14a3dc71804843b9c2cc546"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 84632,
+              "sha256": "c303af78385365e73d8071d89b8bbda84ce23f7b4de5ff393f6998fb7951152e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:220;--profile-angle:-53deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kitcisakik.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kitigan-zibi",
+      "name": "Kitigan Zibi",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 295,
+      "angle": 66,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-kitigan-zibi",
+          "profileSlugs": [
+            "kitigan-zibi"
+          ],
+          "mediaType": "photograph",
+          "title": "Kitigan Zibi welcome sign",
+          "alt": "A roadside sign reading Kitigan Zibi Anishinabeg and displaying greetings.",
+          "scope": "The photograph shows a public community sign at Kitigan Zibi. Resized for display.",
+          "creator": "P199",
+          "credit": "P199 / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "P199 / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kitigan_Zibi_FN_1.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kitigan_Zibi_FN_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2010-04",
+          "asset": "assets/profile-visuals/qc-photo-kitigan-zibi.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kitigan-zibi-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 680,
+              "height": 950,
+              "bytes": 153718,
+              "sha256": "32f17132bdc6dce0ff119022a9fd44c8ae08fd8339ee729fa3a3f198e877467f"
+            },
+            "cardAsset": {
+              "width": 458,
+              "height": 640,
+              "bytes": 72226,
+              "sha256": "7a2b13bee7db2c36049155da099c96b9091ce07ea9bd50a82fe6f47834bd275e"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:295;--profile-angle:66deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kitigan-zibi.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "kitikmeot-inuit-association",
       "name": "Kitikmeot Inuit Association",
       "originalId": null,
@@ -33959,6 +35529,136 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:270;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/nu-photo-kugluktuk.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kuujjuaq",
+      "name": "Kuujjuaq",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 53,
+      "angle": 26,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-kuujjuaq",
+          "profileSlugs": [
+            "kuujjuaq"
+          ],
+          "mediaType": "photograph",
+          "title": "Kuujjuaq from above the shore",
+          "alt": "The buildings and shoreline of Kuujjuaq beyond low woodland.",
+          "scope": "The source identifies this as a general view of Kuujjuaq in 2022. Resized for display.",
+          "creator": "Belug",
+          "credit": "Belug / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Belug / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuujjuaq_vue_generale.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kuujjuaq_vue_generale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2022-09-13",
+          "asset": "assets/profile-visuals/qc-photo-kuujjuaq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kuujjuaq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 327750,
+              "sha256": "2fe301067a798ef7fd4f1aa13b39350ae849840cdff91316d5adda6b7c49ca78"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 57283,
+              "sha256": "7d8333be952367abeab848f53535b5577b72d6bed6ed4c7c004b30f47ba638a7"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:53;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kuujjuaq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kuujjuarapik",
+      "name": "Kuujjuarapik",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 85,
+      "angle": -15,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-kuujjuarapik",
+          "profileSlugs": [
+            "kuujjuarapik"
+          ],
+          "mediaType": "photograph",
+          "title": "Centre for Northern Studies at Kuujjuarapik–Whapmagoostui",
+          "alt": "A research building in winter near the two neighbouring communities.",
+          "scope": "The research station is listed at Kuujjuarapik–Whapmagoostui. The caption names both communities. Resized for display.",
+          "creator": "OhanaUnited",
+          "credit": "OhanaUnited / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "OhanaUnited / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centre_for_Northern_Studies_at_Whapmagoostui-Kuujjuarapik.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Centre_for_Northern_Studies_at_Whapmagoostui-Kuujjuarapik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2024-02-19",
+          "asset": "assets/profile-visuals/qc-photo-kuujjuarapik.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-kuujjuarapik-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 191364,
+              "sha256": "72a7004c57eef0b7345eadbe5209751a0a8cd088feff17cc4a30d80f6e4fd25b"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 33777,
+              "sha256": "5d54331cc11a32178a140bdf6285028826bd5285fc69a86037bbf56e43d8432c"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:85;--profile-angle:-15deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-kuujjuarapik.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -35171,6 +36871,136 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:297;--profile-angle:-13deg;--profile-photo:url(\"../../assets/profile-visuals/lacandon-lacanja-dugout-2001.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "lacrapide",
+      "name": "Lac-Rapide",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 122,
+      "angle": -40,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-lacrapide",
+          "profileSlugs": [
+            "lacrapide"
+          ],
+          "mediaType": "photograph",
+          "title": "Lac-Rapide, also called Rapid Lake",
+          "alt": "Aerial view of homes and docks on a wooded shore at Lac-Rapide.",
+          "scope": "The photograph shows Lac-Rapide, the community listed for the Algonquins of Barriere Lake. Resized for display.",
+          "creator": "Quintin Soloviev",
+          "credit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "cardCredit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rapid_Lake,_Quebec.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Rapid_Lake%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2026-08-17",
+          "asset": "assets/profile-visuals/qc-photo-lacrapide.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-lacrapide-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 337060,
+              "sha256": "48b46db0b6ebdf96d17be6815c50f965bdc528aa56410fe4c57bd146432b0f87"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 59902,
+              "sha256": "5da28e8cac2bc62a413b9afc971cfb693bfee1c398131aa9eb854cd46a4d1d68"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:122;--profile-angle:-40deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-lacrapide.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "lacsimon",
+      "name": "Lac-Simon",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 55,
+      "angle": 51,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-lacsimon",
+          "profileSlugs": [
+            "lacsimon"
+          ],
+          "mediaType": "photograph",
+          "title": "Lac-Simon from the air",
+          "alt": "Aerial view of the Lac-Simon community, with streets and houses bordered by forest and water.",
+          "scope": "This view documents the setting of the Nation Anishnabe du Lac Simon. Resized for display.",
+          "creator": "Quintin Soloviev",
+          "credit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "cardCredit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lac-Simon_Anishnabe_Nation.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lac-Simon_Anishnabe_Nation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2026-08-17",
+          "asset": "assets/profile-visuals/qc-photo-lacsimon.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-lacsimon-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 492880,
+              "sha256": "91b2c7c37bdabce5b653ee5b62827aa778207f7b7fc7e034a3e9e7aa8b795de5"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 90137,
+              "sha256": "282b052481fd9ea7d3ce3bcfc934314aae843652dc056ee5bcfa1fb2b1f1fcf4"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:55;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-lacsimon.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -36608,6 +38438,70 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 14
+    },
+    {
+      "slug": "listuguj",
+      "name": "Listuguj",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 178,
+      "angle": 12,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-listuguj",
+          "profileSlugs": [
+            "listuguj"
+          ],
+          "mediaType": "photograph",
+          "title": "Entering Listuguj",
+          "alt": "A public road sign marking the entrance to Listuguj.",
+          "scope": "The sign identifies the place shown as Listuguj. Resized for display.",
+          "creator": "Spiritrock4u",
+          "credit": "Spiritrock4u / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Spiritrock4u / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Listuguj.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Listuguj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "asset": "assets/profile-visuals/qc-photo-listuguj.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-listuguj-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1080,
+              "height": 1440,
+              "bytes": 374763,
+              "sha256": "c53fd576545e3f7dd8304020b67ead27818fd52f7f10963de879d5b5ce90c39b"
+            },
+            "cardAsset": {
+              "width": 480,
+              "height": 640,
+              "bytes": 78411,
+              "sha256": "c2662e9a8b7598576c4d9a8bf96c17357c0062a449bd977724aeda29aaf118bb"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:178;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-listuguj.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "little-black-bear-first-nation",
@@ -39308,6 +41202,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "manawan",
+      "name": "Manawan",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 316,
+      "angle": -66,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-manawan",
+          "profileSlugs": [
+            "manawan"
+          ],
+          "mediaType": "photograph",
+          "title": "Spring frost at Manawan",
+          "alt": "Frost-covered trees and snow in the Manawan area.",
+          "scope": "Thérèse Ottawa’s photograph records the local landscape at Manawan in April 2018. Resized for display.",
+          "creator": "Thérèse Ottawa",
+          "credit": "Thérèse Ottawa / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Thérèse Ottawa / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manawan_avril_2018_3.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Manawan_avril_2018_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2018-04-11",
+          "asset": "assets/profile-visuals/qc-photo-manawan.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-manawan-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 285629,
+              "sha256": "a327d9e47bc631a1618a17de61e2c4319dc66b1a82cd29c387025eda3c9edf24"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 51791,
+              "sha256": "7a6ae8224d0064eeac6079e3a06c8d2e3d9b9e8980ae06f6d7af48b48465aeb7"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:316;--profile-angle:-66deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-manawan.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "manitoba-keewatinowi-okimakanak",
       "name": "Manitoba Keewatinowi Okimakanak",
       "originalId": null,
@@ -39784,6 +41743,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "mashteuiatsh",
+      "name": "Mashteuiatsh",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 215,
+      "angle": -44,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-mashteuiatsh",
+          "profileSlugs": [
+            "mashteuiatsh"
+          ],
+          "mediaType": "photograph",
+          "title": "A street in Mashteuiatsh",
+          "alt": "Buildings beside the main street in Mashteuiatsh.",
+          "scope": "The photograph shows a streetscape within Mashteuiatsh, the community of the Pekuakamiulnuatsh First Nation. Resized for display.",
+          "creator": "Vintotal; derivative by P199",
+          "credit": "Vintotal; derivative by P199 / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Vintotal; derivative by P199 / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mashteuiatsh-c.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mashteuiatsh-c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2010-12-05",
+          "asset": "assets/profile-visuals/qc-photo-mashteuiatsh.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-mashteuiatsh-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1024,
+              "height": 512,
+              "bytes": 166405,
+              "sha256": "1d7567ee3483d9a19fa99653e4efadd5c80ac2a1f3f64a922c76d7c403dde7fb"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 320,
+              "bytes": 50442,
+              "sha256": "50d7d74a6c8aede8f5d08a8442caf6ec2cfe0cb8289aaae1719bc5b85574e3da"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:215;--profile-angle:-44deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-mashteuiatsh.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "massachusett",
       "name": "Massachusett",
       "originalId": 199,
@@ -40063,6 +42087,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:333;--profile-angle:41deg;--profile-photo:url(\"../../assets/profile-visuals/mb-sentinel-mathias-colomb-cree-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "matimekosh-lacjohn",
+      "name": "Matimekosh–Lac-John",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 59,
+      "angle": 22,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-matimekosh-lacjohn",
+          "profileSlugs": [
+            "matimekosh-lacjohn"
+          ],
+          "mediaType": "photograph",
+          "title": "Matimekosh at Schefferville",
+          "alt": "A view of buildings and streets at Matimekosh in the Schefferville area.",
+          "scope": "Pierre Bouchard’s 2007 photograph shows Matimekosh. The directory guide covers the Matimekosh–Lac-John community listing. Resized for display.",
+          "creator": "Pierre Bouchard",
+          "credit": "Copyright 2007 Pierre Bouchard Indico / Wikimedia Commons",
+          "cardCredit": "Copyright 2007 Pierre Bouchard Indico / Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matimekosh.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Matimekosh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "Open reuse with credit",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Matimekosh.JPG#Licensing",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2007",
+          "asset": "assets/profile-visuals/qc-photo-matimekosh-lacjohn.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-matimekosh-lacjohn-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 651,
+              "bytes": 190138,
+              "sha256": "dd0d4b03b164cc0eef9ab96bce06a124326f9dbc9183bbdd8571475859eb81a0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 289,
+              "bytes": 43725,
+              "sha256": "ef04c786375cb70989327374ccb522b87816d5cef70e80b4ceb06a7447aad1dd"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:59;--profile-angle:22deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-matimekosh-lacjohn.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -43770,6 +45859,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "mistissini",
+      "name": "Mistissini",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 197,
+      "angle": 24,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-mistissini",
+          "profileSlugs": [
+            "mistissini"
+          ],
+          "mediaType": "photograph",
+          "title": "Mistissini in winter",
+          "alt": "Buildings beyond a snowy open area in Mistissini.",
+          "scope": "The photo record identifies the view as Mistissini. Resized for display.",
+          "creator": "Simon Villeneuve",
+          "credit": "Simon Villeneuve / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Simon Villeneuve / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mistissini019.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mistissini019.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2012-03-09",
+          "asset": "assets/profile-visuals/qc-photo-mistissini.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-mistissini-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 964,
+              "bytes": 201688,
+              "sha256": "8a46d76bc53913c33aff1a37da6714992eaf2332f0c860bbb3c064b2f8114c09"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 428,
+              "bytes": 41288,
+              "sha256": "f41ecbb0b57e30a902954b3603804e3bf1fd259f3d56e0872f398ac977cc6405"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:197;--profile-angle:24deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-mistissini.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "mitaanjigamiing-first-nation",
       "name": "Mitaanjigamiing First Nation",
       "originalId": null,
@@ -44668,6 +46822,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:68;--profile-angle:-67deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-montana-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "montreal-autochtone",
+      "name": "Montréal Autochtone",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 30,
+      "angle": -67,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:30;--profile-angle:-67deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -48822,6 +50999,70 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "nemaska",
+      "name": "Nemaska",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 359,
+      "angle": -6,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-nemaska",
+          "profileSlugs": [
+            "nemaska"
+          ],
+          "mediaType": "photograph",
+          "title": "Nemaska village",
+          "alt": "Village buildings and trees in Nemaska, with a white steeple above them.",
+          "scope": "The photograph shows the village of Nemaska in Eeyou Istchee. Resized for display.",
+          "creator": "LHOON from Mechelen, Belgium",
+          "credit": "LHOON from Mechelen, Belgium / Wikimedia Commons, CC BY-SA 2.0",
+          "cardCredit": "LHOON from Mechelen, Belgium / Wikimedia Commons, CC BY-SA 2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nemaska,_Qu%C3%A9bec.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nemaska%2C_Qu%C3%A9bec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 2.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "asset": "assets/profile-visuals/qc-photo-nemaska.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-nemaska-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 205374,
+              "sha256": "18fddffacedee284fdd787bdad0b525f4160cbf08396f7a184b49ceb4029dd1f"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 43093,
+              "sha256": "7c07387fa2ee5525628449548e4cc6d7145171fc5f815b985f948cf5a0e56a6a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:359;--profile-angle:-6deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-nemaska.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "neskantaga-first-nation",
       "name": "Neskantaga First Nation",
       "originalId": null,
@@ -52097,6 +54338,75 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "nutashkuan",
+      "name": "Nutashkuan",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 3,
+      "angle": -5,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-nutashkuan",
+          "profileSlugs": [
+            "nutashkuan"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Nutashkuan",
+          "alt": "Satellite view of the Nutashkuan street grid on a point between two shorelines.",
+          "scope": "The view focuses on Nutashkuan and the surrounding coastal landscape. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_20UNA_20260726_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/20/U/NA/2026/7/S2C_20UNA_20260726_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Nutashkuan",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=ESOEG"
+            }
+          ],
+          "date": "2026-07-26",
+          "asset": "assets/profile-visuals/qc-photo-nutashkuan.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-nutashkuan-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 290,
+              "height": 192,
+              "bytes": 13957,
+              "sha256": "129cdf106ef7a5809e5042e7a2afecc28c3527ceeef634ef9ef53c09f756294a"
+            },
+            "cardAsset": {
+              "width": 290,
+              "height": 192,
+              "bytes": 11470,
+              "sha256": "cd8f67947059196c231e183ced3edae9e01e82bf3e84dcedb61d6ab5010c6cc5"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:3;--profile-angle:-5deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-nutashkuan.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "nuuchahnulth",
       "name": "Nuu-chah-nulth",
       "originalId": 258,
@@ -52242,6 +54552,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "obedjiwan",
+      "name": "Obedjiwan",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 50,
+      "angle": 71,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-obedjiwan",
+          "profileSlugs": [
+            "obedjiwan"
+          ],
+          "mediaType": "photograph",
+          "title": "Shoreline at Obedjiwan",
+          "alt": "Rocky shoreline and open water at Obedjiwan under a clouded sky.",
+          "scope": "The photo record identifies this 2022 shoreline scene as Obedjiwan. Resized for display.",
+          "creator": "Sinala 1999",
+          "credit": "Sinala 1999 / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Sinala 1999 / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Obedjiwan-2022.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Obedjiwan-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2022-10-09",
+          "asset": "assets/profile-visuals/qc-photo-obedjiwan.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-obedjiwan-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1080,
+              "height": 1440,
+              "bytes": 274214,
+              "sha256": "10264339de7d874bc5eb274556637829d37796ea5d19b69b91369d4f45f22852"
+            },
+            "cardAsset": {
+              "width": 480,
+              "height": 640,
+              "bytes": 61039,
+              "sha256": "218ae35a114c5e3d2c43fbf63f8169bc06caef6856a9c4d2624abece8601b4c7"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:50;--profile-angle:71deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-obedjiwan.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "occaneechi",
@@ -52643,6 +55018,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:80;--profile-angle:-20deg;--profile-photo:url(\"../../assets/profile-visuals/oconee-river-wallace-dam-2008.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "odanak",
+      "name": "Odanak",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 153,
+      "angle": 9,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-odanak",
+          "profileSlugs": [
+            "odanak"
+          ],
+          "mediaType": "photograph",
+          "title": "Odanak and the Saint-François River",
+          "alt": "Aerial view of Odanak, with village buildings along the riverbank.",
+          "scope": "The photograph shows the W8banaki community of Odanak and its riverfront. Resized for display.",
+          "creator": "Gabriel Picard",
+          "credit": "Gabriel Picard / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Gabriel Picard / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odanak_Vue_a%C3%A9rienne_2025.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Odanak_Vue_a%C3%A9rienne_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2025-06-28",
+          "asset": "assets/profile-visuals/qc-photo-odanak.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-odanak-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 959,
+              "bytes": 306422,
+              "sha256": "94e2a731b1dc31745f3cda9f9c4a59e75f924218742e51f84ea28967af165888"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 426,
+              "bytes": 58768,
+              "sha256": "120d824ea34801db54a11a0b779e09da40baed79d8082c5212103ab5426f9f61"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:153;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-odanak.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -54905,6 +57345,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "oujebougoumou",
+      "name": "Oujé-Bougoumou",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 350,
+      "angle": -2,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-oujebougoumou",
+          "profileSlugs": [
+            "oujebougoumou"
+          ],
+          "mediaType": "photograph",
+          "title": "Aanischaaukamikw Cree Cultural Institute",
+          "alt": "Exterior of the Cree Cultural Institute at Oujé-Bougoumou, with a curved timber entrance and lawns.",
+          "scope": "The photograph shows Aanischaaukamikw Cree Cultural Institute in Oujé-Bougoumou. Resized for display.",
+          "creator": "Fralambert",
+          "credit": "Fralambert / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Fralambert / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ouj%C3%A9-Bougoumou_en_ao%C3%BBt_2014_01.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ouj%C3%A9-Bougoumou_en_ao%C3%BBt_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2014-08-10",
+          "asset": "assets/profile-visuals/qc-photo-oujebougoumou.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-oujebougoumou-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 225603,
+              "sha256": "bee1b1a2b70dcc2140c636fdb92c158b34e5d64f93835188778dc1c51acd40db"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 45151,
+              "sha256": "2f5edbd311419ae81fd751ac56cfa438d2430c5254a37bf57e3c3c5c727e1611"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:350;--profile-angle:-2deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-oujebougoumou.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "owl-river-metis-community-association",
       "name": "Owl River Métis Community Association",
       "originalId": null,
@@ -55190,6 +57695,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "pakua-shipi-pakuashipi",
+      "name": "Pakua Shipi (Pakuashipi)",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 195,
+      "angle": -46,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-pakua-shipi-pakuashipi",
+          "profileSlugs": [
+            "pakua-shipi-pakuashipi"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Pakuashipi",
+          "alt": "Satellite view of the buildings at Pakuashipi along the west side of a river, with exposed sandbars.",
+          "scope": "The scene shows Pakuashipi beside the lower Saint-Augustin River. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_21UUS_20260822_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/21/U/US/2026/8/S2C_21UUS_20260822_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Pakuashipi",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=ELZXY"
+            }
+          ],
+          "date": "2026-08-22",
+          "asset": "assets/profile-visuals/qc-photo-pakua-shipi-pakuashipi.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-pakua-shipi-pakuashipi-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 210,
+              "height": 150,
+              "bytes": 10095,
+              "sha256": "69d13616a2dd1028e59ea020c8f9c92c22279680a59744b46a14c887bcceab30"
+            },
+            "cardAsset": {
+              "width": 210,
+              "height": 150,
+              "bytes": 8430,
+              "sha256": "2329a7d1941b212911c9699d538187a0bbee40b415eecee725c61496766cb149"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:195;--profile-angle:-46deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-pakua-shipi-pakuashipi.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "pamunkey",
@@ -56969,6 +59543,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "pessamit",
+      "name": "Pessamit",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 291,
+      "angle": 16,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-pessamit",
+          "profileSlugs": [
+            "pessamit"
+          ],
+          "mediaType": "photograph",
+          "title": "Pessamit from the air",
+          "alt": "Aerial view of the buildings, forest, and shoreline of Pessamit.",
+          "scope": "The photograph documents Pessamit beside the St. Lawrence River. Resized for display.",
+          "creator": "Quintin Soloviev",
+          "credit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "cardCredit": "Quintin Soloviev / Wikimedia Commons, CC BY 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pessamit,_Quebec.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pessamit%2C_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2026-06-13",
+          "asset": "assets/profile-visuals/qc-photo-pessamit.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-pessamit-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 375587,
+              "sha256": "7357828d0a87074e159ccc5f4f3d390fb152877c5ee251c0cd30c0d87f9fd947"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 68340,
+              "sha256": "12a3f2b457c23d25d782e8301df5f7507bf17d827b0bfba19829e8686e317afe"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:291;--profile-angle:16deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-pessamit.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "peter-ballantyne-cree-nation",
       "name": "Peter Ballantyne Cree Nation",
       "originalId": null,
@@ -57678,6 +60317,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:340;--profile-angle:-48deg;--profile-photo:url(\"../../assets/profile-visuals/on-photo-pikangikum-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "pikogan",
+      "name": "Pikogan",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 186,
+      "angle": -27,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-pikogan",
+          "profileSlugs": [
+            "pikogan"
+          ],
+          "mediaType": "photograph",
+          "title": "Pikogan streetscape",
+          "alt": "A Pikogan welcome sign alongside buildings and a village road.",
+          "scope": "The photograph shows a sign and street in Pikogan, home to the Abitibiwinni First Nation. Resized for display.",
+          "creator": "P199",
+          "credit": "P199 / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "P199 / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pikogan_QC.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pikogan_QC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2012-07",
+          "asset": "assets/profile-visuals/qc-photo-pikogan.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-pikogan-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 960,
+              "bytes": 307882,
+              "sha256": "b9cbb5c1920d7c1700569a61fdb9aa3618fa6dc392df5c93859ee5303414c3aa"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 427,
+              "bytes": 57834,
+              "sha256": "7ad99751f80ef4b87d68179fa216894d3240b247e87ecdadce182026a758d152"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:186;--profile-angle:-27deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-pikogan.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -59243,6 +61947,71 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "premiere-nation-wolastoqiyik-wahsipekuk",
+      "name": "Première Nation Wolastoqiyik Wahsipekuk",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 332,
+      "angle": 46,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "qc-photo-premiere-nation-wolastoqiyik-wahsipekuk",
+          "profileSlugs": [
+            "premiere-nation-wolastoqiyik-wahsipekuk"
+          ],
+          "mediaType": "photograph",
+          "title": "Wolastoqiyik Wahsipekuk beluga observatory",
+          "alt": "Aerial view of the beluga observatory on a snowy, wooded slope at Cacouna.",
+          "scope": "The source identifies the observatory as a project of Première Nation Wolastoqiyik Wahsipekuk in Cacouna. Resized for display.",
+          "creator": "IrksomeBuccaneer2635",
+          "credit": "IrksomeBuccaneer2635 / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "IrksomeBuccaneer2635 / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Observatoire_wahsipekuk.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Observatoire_wahsipekuk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2025-01-17",
+          "asset": "assets/profile-visuals/qc-photo-premiere-nation-wolastoqiyik-wahsipekuk.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-premiere-nation-wolastoqiyik-wahsipekuk-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 391955,
+              "sha256": "73937d96e8a0200371a2bbf8597f85cf8ed86bfb03dc1ff7431708bbcf7d26d3"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 77933,
+              "sha256": "6e7bf3695f860b42437877442602060ee5ced7689167c4ef284e812be3556f62"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:332;--profile-angle:46deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-premiere-nation-wolastoqiyik-wahsipekuk.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "prince-albert-grand-council",
       "name": "Prince Albert Grand Council",
       "originalId": null,
@@ -59725,6 +62494,71 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "puvirnituq",
+      "name": "Puvirnituq",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 28,
+      "angle": -72,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-puvirnituq",
+          "profileSlugs": [
+            "puvirnituq"
+          ],
+          "mediaType": "photograph",
+          "title": "Puvirnituq from the tundra",
+          "alt": "Puvirnituq’s buildings seen across open ground.",
+          "scope": "The source documents a view of Puvirnituq in May 2012. Resized for display.",
+          "creator": "Raphaël Joanisse-Clément",
+          "credit": "Raphaël Joanisse-Clément / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Raphaël Joanisse-Clément / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puvirnituq_-_Fin_Mai_2012.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Puvirnituq_-_Fin_Mai_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2012-05-30",
+          "asset": "assets/profile-visuals/qc-photo-puvirnituq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-puvirnituq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 811,
+              "bytes": 264102,
+              "sha256": "f90be99805906de1d7b6cfc53089a3cc60d84c94bbbbbc47502123407c0a6c49"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 361,
+              "bytes": 41893,
+              "sha256": "484aedbe7cd428d93ecc9a1485281798b0d768c164756ba5ffd8f615f7bc0283"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:-72deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-puvirnituq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "puyallup",
@@ -60372,6 +63206,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:186;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-quappelle-valley-road-allowance-communities.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "quaqtaq",
+      "name": "Quaqtaq",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 253,
+      "angle": 51,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "qc-photo-quaqtaq",
+          "profileSlugs": [
+            "quaqtaq"
+          ],
+          "mediaType": "photograph",
+          "title": "Road into Quaqtaq",
+          "alt": "A road leading past snowbanks toward the houses of Quaqtaq.",
+          "scope": "The source identifies this winter view as Quaqtaq. Resized for display.",
+          "creator": "Golgo12",
+          "credit": "Golgo12 / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Golgo12 / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quaqtaq001.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Quaqtaq001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2012-04-24",
+          "asset": "assets/profile-visuals/qc-photo-quaqtaq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-quaqtaq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 203354,
+              "sha256": "dd4160dc17dbe322dbdf573cd219cbd25ed2ec0d26700168e6c940ab6c50c522"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 34449,
+              "sha256": "cbf4babd3b4451123bbb649d083e36f8bdb23fabf71fe37f2cbccd7ea98ea4f4"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:253;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-quaqtaq.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -63090,6 +65989,71 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:290;--profile-angle:-79deg;--profile-photo:url(\"../../assets/profile-visuals/salem-mission-tuscarawas-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "salluit",
+      "name": "Salluit",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 281,
+      "angle": -65,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-salluit",
+          "profileSlugs": [
+            "salluit"
+          ],
+          "mediaType": "photograph",
+          "title": "Salluit between snow-covered hills",
+          "alt": "The village of Salluit seen from a hillside, with snow on surrounding slopes.",
+          "scope": "The photograph shows Salluit and the hills surrounding the village. Resized for display.",
+          "creator": "Raphaël Joanisse-Clément",
+          "credit": "Raphaël Joanisse-Clément / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Raphaël Joanisse-Clément / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salluit_-_Juin_2012.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Salluit_-_Juin_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2012-06-01",
+          "asset": "assets/profile-visuals/qc-photo-salluit.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-salluit-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 811,
+              "bytes": 336998,
+              "sha256": "4d3120b85ed2702efb5f3ae4c871e34ae48f6e357c186b82d50c2cb8fb205a4e"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 361,
+              "bytes": 66402,
+              "sha256": "c3156648f1f4c0141d8b6f0093b5d4346d1d4d78551480094870a5b033903748"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:281;--profile-angle:-65deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-salluit.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -72524,6 +75488,71 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "tasiujaq",
+      "name": "Tasiujaq",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 79,
+      "angle": 59,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-tasiujaq",
+          "profileSlugs": [
+            "tasiujaq"
+          ],
+          "mediaType": "photograph",
+          "title": "The main street in Tasiujaq",
+          "alt": "A wide street lined with homes and utility poles in Tasiujaq.",
+          "scope": "The Commons record identifies the setting as the village’s main street. Resized for display.",
+          "creator": "Lynette Chubb",
+          "credit": "Lynette Chubb / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Lynette Chubb / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rue_principale_de_Tasiujaq.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rue_principale_de_Tasiujaq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2007",
+          "asset": "assets/profile-visuals/qc-photo-tasiujaq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-tasiujaq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 600,
+              "bytes": 68564,
+              "sha256": "730374ffb889c6bd127c5a6508ac2e32ca2a6a5011583b5d0f90b086ce7d0705"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 52255,
+              "sha256": "7160a305f30c9b2a63158caddbade5c7488a563d1fc5b2238498389d2de14ade"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:79;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-tasiujaq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tataskweyak-cree-nation",
       "name": "Tataskweyak Cree Nation",
       "originalId": null,
@@ -73775,6 +76804,75 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 1
+    },
+    {
+      "slug": "timiskaming",
+      "name": "Timiskaming",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 0,
+      "angle": -10,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-timiskaming",
+          "profileSlugs": [
+            "timiskaming"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Timiskaming",
+          "alt": "Satellite view of the Timiskaming First Nation locality, with a grid of roads and surrounding forest.",
+          "scope": "The scene is centred on the Timiskaming First Nation administrative locality near Notre-Dame-du-Nord. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2B_17TPN_20260729_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/17/T/PN/2026/7/S2B_17TPN_20260729_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Timiskaming",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=ESOET"
+            }
+          ],
+          "date": "2026-07-29",
+          "asset": "assets/profile-visuals/qc-photo-timiskaming.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-timiskaming-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 260,
+              "height": 175,
+              "bytes": 12043,
+              "sha256": "0dff7ee3d702b66dfd8272a458b0d995834089db265658fbb2e6ee9b6922130a"
+            },
+            "cardAsset": {
+              "width": 260,
+              "height": 175,
+              "bytes": 9790,
+              "sha256": "1eeca5d0b2b70c0f366c046d79c145e75cfb1d2a606c8b9c65bcd11b95a3c9cc"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:0;--profile-angle:-10deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-timiskaming.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "timmins-metis-council",
@@ -77364,6 +80462,70 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "uashatmaliotenam",
+      "name": "Uashat-Maliotenam",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 194,
+      "angle": 14,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "qc-photo-uashatmaliotenam",
+          "profileSlugs": [
+            "uashatmaliotenam"
+          ],
+          "mediaType": "photograph",
+          "title": "Mani-Utenam church in winter",
+          "alt": "The snow-covered street in front of the church marked Mani Utenam.",
+          "scope": "This photograph documents Mani-Utenam, one of the locations associated with the Uashat-Maliotenam guide. Resized for display.",
+          "creator": "Mixwell21",
+          "credit": "Mixwell21 / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Mixwell21 / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maliotenam.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Maliotenam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "asset": "assets/profile-visuals/qc-photo-uashatmaliotenam.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-uashatmaliotenam-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 209153,
+              "sha256": "789337b0653c93d781d66d1a4345d516809d9ff34bbed2e703a7f9acfab57bfb"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 44076,
+              "sha256": "c13f319df466401948308fff0665b98db89edcaaf0c58a8e9b0a0eb4a4c087bc"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:194;--profile-angle:14deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-uashatmaliotenam.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "uchucklesaht",
       "name": "Uchucklesaht",
       "originalId": null,
@@ -77564,6 +80726,135 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:214;--profile-angle:11deg;--profile-photo:url(\"../../assets/profile-visuals/nt-photo-ulukhaktok.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "umiujaq",
+      "name": "Umiujaq",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 271,
+      "angle": 48,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-umiujaq",
+          "profileSlugs": [
+            "umiujaq"
+          ],
+          "mediaType": "photograph",
+          "title": "Umiujaq and Hudson Bay",
+          "alt": "Buildings and roads in Umiujaq overlooking Hudson Bay.",
+          "scope": "The source identifies the village and its Hudson Bay setting. Resized for display.",
+          "creator": "Michel Meunier",
+          "credit": "Michel Meunier / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Michel Meunier / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umiujaq_p.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Umiujaq_p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2008-10",
+          "asset": "assets/profile-visuals/qc-photo-umiujaq.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-umiujaq-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 924,
+              "height": 592,
+              "bytes": 166348,
+              "sha256": "e0ce02c0f8849a43d2aea0eb65d787db5cde2949b083439da4988c1ce422d094"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 410,
+              "bytes": 74010,
+              "sha256": "af691146157ca8db735eab98a685a5c3a5ff475c58471724a6296f4b0aefcc6f"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:271;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-umiujaq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "unamen-shipu-la-romaine",
+      "name": "Unamen Shipu (La Romaine)",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 201,
+      "angle": 70,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-unamen-shipu-la-romaine",
+          "profileSlugs": [
+            "unamen-shipu-la-romaine"
+          ],
+          "mediaType": "photograph",
+          "title": "La Romaine village in 1992",
+          "alt": "A view of houses at La Romaine beyond a wooded slope.",
+          "scope": "The archival photograph shows La Romaine, the community setting named for Unamen Shipu. Resized for display.",
+          "creator": "Pierre-Olivier Combelles",
+          "credit": "Pierre-Olivier Combelles / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Pierre-Olivier Combelles / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Romaine._Photo_Pierre-Olivier_Combelles_(1992).JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/La_Romaine._Photo_Pierre-Olivier_Combelles_%281992%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "asset": "assets/profile-visuals/qc-photo-unamen-shipu-la-romaine.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-unamen-shipu-la-romaine-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1169,
+              "height": 723,
+              "bytes": 298274,
+              "sha256": "f9f9242a05eb1b987167bf5930d92707c2eafc98855d99ebed66947efb5fabf4"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 396,
+              "bytes": 109862,
+              "sha256": "80a4d19dd52da7abea5be798200dcb522bd8cce56cb31e18a10f8ebd89b1d0b8"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:201;--profile-angle:70deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-unamen-shipu-la-romaine.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -79848,6 +83139,140 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "waskaganish",
+      "name": "Waskaganish",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 152,
+      "angle": 74,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "qc-photo-waskaganish",
+          "profileSlugs": [
+            "waskaganish"
+          ],
+          "mediaType": "photograph",
+          "title": "Waskaganish Airport",
+          "alt": "A building marked Waskaganish outside a snowy airport entrance.",
+          "scope": "The photograph shows the airport serving Waskaganish. Resized for display.",
+          "creator": "Velatrix",
+          "credit": "Velatrix / Wikimedia Commons, CC0",
+          "cardCredit": "Velatrix / Wikimedia Commons, CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waskaganish_Airport_January_2011.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Waskaganish_Airport_January_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2011-01-09",
+          "asset": "assets/profile-visuals/qc-photo-waskaganish.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-waskaganish-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 190918,
+              "sha256": "d4b9addcf14558c61ffb2fee7089d5f005e9ffe8077d07086569d01de2dde22d"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 37445,
+              "sha256": "76a010e3b6ced9f5517a5f64e40da9393b976eebd5686142386759c021b5ecdd"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:152;--profile-angle:74deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-waskaganish.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "waswanipi",
+      "name": "Waswanipi",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 196,
+      "angle": -51,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-waswanipi",
+          "profileSlugs": [
+            "waswanipi"
+          ],
+          "mediaType": "satellite-image",
+          "title": "Satellite view of Waswanipi",
+          "alt": "Satellite view of Waswanipi’s streets near an adjacent river bend.",
+          "scope": "The satellite scene shows the Cree community of Waswanipi near the river. It uses Sentinel-2 imagery at 10 m resolution. Resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2026",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2026",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_18UVA_20260704_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/18/U/VA/2026/7/S2C_18UVA_20260704_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            },
+            {
+              "title": "Canadian Geographical Names Database — Waswanipi",
+              "url": "https://geonames.nrcan.gc.ca/search-place-names/unique?id=EMBOO"
+            }
+          ],
+          "date": "2026-07-04",
+          "asset": "assets/profile-visuals/qc-photo-waswanipi.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-waswanipi-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 270,
+              "height": 180,
+              "bytes": 12991,
+              "sha256": "35ec36364fe2985926f2dfd86dbc8d0f198a1732ef28d2f0475fd2f011584c7d"
+            },
+            "cardAsset": {
+              "width": 270,
+              "height": 180,
+              "bytes": 10637,
+              "sha256": "e5b98ef6c62d021e2483b05c23360c7650ba0c0c58398f564df405e2596c9d72"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified images with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:196;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-waswanipi.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "waterhen-lake-first-nation",
       "name": "Waterhen Lake First Nation",
       "originalId": null,
@@ -80370,6 +83795,136 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "wemindji",
+      "name": "Wemindji",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 316,
+      "angle": -61,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-wemindji",
+          "profileSlugs": [
+            "wemindji"
+          ],
+          "mediaType": "photograph",
+          "title": "A residential street in Wemindji",
+          "alt": "Homes lining both sides of a residential street in Wemindji.",
+          "scope": "The photograph records an ordinary residential streetscape in Wemindji. Resized for display.",
+          "creator": "Ptaff",
+          "credit": "Ptaff / Wikimedia Commons, CC0",
+          "cardCredit": "Ptaff / Wikimedia Commons, CC0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wemindji,_residential_street_1.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Wemindji%2C_residential_street_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2024-08-22",
+          "asset": "assets/profile-visuals/qc-photo-wemindji.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-wemindji-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 811,
+              "bytes": 187643,
+              "sha256": "c7c4f3abd165093d20ad1061337e1979baa2ecbb3eadc818efbc32444b5a22de"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 32738,
+              "sha256": "82ef84a86599d7f7698c2509600c19cf0fb570f39d62260c9f5e5f6cf6bcbdf9"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:316;--profile-angle:-61deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-wemindji.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "wemotaci",
+      "name": "Wemotaci",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 54,
+      "angle": -59,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-wemotaci",
+          "profileSlugs": [
+            "wemotaci"
+          ],
+          "mediaType": "photograph",
+          "title": "The forest road toward Wemotaci",
+          "alt": "A vehicle on a gravel road bordered by forest on the way to Wemotaci.",
+          "scope": "Thérèse Ottawa photographed the forest road toward Wemotaci in 2019. Resized for display.",
+          "creator": "Thérèse Ottawa",
+          "credit": "Thérèse Ottawa / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Thérèse Ottawa / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chemin_vers_Wemotaci_1.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chemin_vers_Wemotaci_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2019-08-01",
+          "asset": "assets/profile-visuals/qc-photo-wemotaci.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-wemotaci-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 810,
+              "bytes": 121580,
+              "sha256": "34856592c7d3861848dada4d1848e100161e94ad9702c185ee1e7b96162ead3d"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 360,
+              "bytes": 17664,
+              "sha256": "e113acd31beb89f6c7391c4cfe3ad9dc72b953688819f948a3f3541d7286d077"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:54;--profile-angle:-59deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-wemotaci.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "west-kootenay-metis-society",
       "name": "West Kootenay Métis Society",
       "originalId": null,
@@ -80855,6 +84410,71 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:214;--profile-angle:56deg;--profile-photo:url(\"../../assets/profile-visuals/nu-photo-whale-cove.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "whapmagoostui",
+      "name": "Whapmagoostui",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 165,
+      "angle": -20,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-whapmagoostui",
+          "profileSlugs": [
+            "whapmagoostui"
+          ],
+          "mediaType": "photograph",
+          "title": "Whapmagoostui–Kuujjuarapik arena",
+          "alt": "Exterior of the arena at Whapmagoostui–Kuujjuarapik in winter.",
+          "scope": "The source identifies the arena with both neighbouring communities. Resized for display.",
+          "creator": "OhanaUnited",
+          "credit": "OhanaUnited / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "OhanaUnited / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whapmagoostui-Kuujjuarapik_arena_February_2024.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Whapmagoostui-Kuujjuarapik_arena_February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2024-02-19",
+          "asset": "assets/profile-visuals/qc-photo-whapmagoostui.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-whapmagoostui-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 253471,
+              "sha256": "73425d8f3c91b6c3a82ec460a681169410f7c5ec4482df0f6e31b9f636ed9872"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 45279,
+              "sha256": "de752952bde73491548633a6f147ed12c1399b0f44309651f69e7051bf472c67"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:165;--profile-angle:-20deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-whapmagoostui.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -81861,6 +85481,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "winneway",
+      "name": "Winneway",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 319,
+      "angle": -51,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "qc-photo-winneway",
+          "profileSlugs": [
+            "winneway"
+          ],
+          "mediaType": "photograph",
+          "title": "Steeve Mathias speaking in Val-d’Or",
+          "alt": "Steeve Mathias speaking into a microphone at an event in 2022.",
+          "scope": "The photo record identifies Mathias as Long Point First Nation’s chief at the time of the 2022 event. Resized for display.",
+          "creator": "Erbvdat",
+          "credit": "Erbvdat / Wikimedia Commons, CC BY-SA 4.0",
+          "cardCredit": "Erbvdat / Wikimedia Commons, CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steeve_Mathias.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Steeve_Mathias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 4.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2022-03-23",
+          "asset": "assets/profile-visuals/qc-photo-winneway.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-winneway-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 1080,
+              "bytes": 351613,
+              "sha256": "97206572ef484a8772473e5ee968e0d38cf6ed2081a87a257c2236be02cbc38a"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 59582,
+              "sha256": "c2835f7674c90a0d56e4651c2b01b53f1fd743a074fe81963f3fefcad98bdc41"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-winneway.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "wisconsin-indian-education-association",
       "name": "Wisconsin Indian Education Association",
       "originalId": null,
@@ -82038,6 +85723,94 @@
         "used": 0
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:301;--profile-angle:-43deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "wolf-lake-hunters-point",
+      "name": "Wolf Lake (Hunter’s Point)",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 22,
+      "angle": 57,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:22;--profile-angle:57deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "wolinak",
+      "name": "Wôlinak",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 170,
+      "angle": -24,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "qc-photo-wolinak",
+          "profileSlugs": [
+            "wolinak"
+          ],
+          "mediaType": "photograph",
+          "title": "Wôlinak village",
+          "alt": "A white church, other village buildings, and a lawn in Wôlinak.",
+          "scope": "The source records this view of the W8banaki village of Wôlinak. Resized for display.",
+          "creator": "Fralambert",
+          "credit": "Fralambert / Wikimedia Commons, CC BY-SA 3.0",
+          "cardCredit": "Fralambert / Wikimedia Commons, CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:W%C3%B4linak.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/W%C3%B4linak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "rightsLabel": "CC BY-SA 3.0",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "reviewedAt": "2026-11-23",
+          "contextSources": [
+            {
+              "title": "Coordonnées des communautés autochtones au Québec",
+              "url": "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/coordonnees/coordonnees-communautes-autochtones-quebec"
+            }
+          ],
+          "date": "2009-06-12",
+          "asset": "assets/profile-visuals/qc-photo-wolinak.jpg",
+          "cardAsset": "assets/profile-visuals/qc-photo-wolinak-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1440,
+              "height": 811,
+              "bytes": 228104,
+              "sha256": "4f8518572fd13744e66065c78e733ff320e29b55f218d12fe696305a1ef196c6"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 361,
+              "bytes": 46001,
+              "sha256": "d269c39309764b1129354e6fbba079253e95a8d4f8ceea77aac0563d7629c8e7"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:170;--profile-angle:-24deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-wolinak.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
