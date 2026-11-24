@@ -3,12 +3,31 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 1549,
+    "selectedProfiles": 1567,
     "existingApache": 1,
-    "newProfileTreatments": 1548,
-    "newTreatmentsWithPhotographs": 1388,
-    "decorativeTreatmentsAwaitingPhotographs": 160,
-    "autoEnrolledThisBuild": []
+    "newProfileTreatments": 1566,
+    "newTreatmentsWithPhotographs": 1403,
+    "decorativeTreatmentsAwaitingPhotographs": 163,
+    "autoEnrolledThisBuild": [
+      "buctouche-first-nation",
+      "elsipogtog-first-nation",
+      "esgenoopetitj-first-nation",
+      "fort-folly-first-nation",
+      "indian-island-first-nation",
+      "kingsclear-first-nation",
+      "madawaska-first-nation",
+      "metepenagiag-mikmaq-nation",
+      "natoaganeg-first-nation",
+      "new-brunswick-aboriginal-peoples-council",
+      "oromocto-first-nation",
+      "pabineau-first-nation",
+      "peskotomuhkati-nation-at-skutik",
+      "st-marys-first-nation",
+      "tobique-first-nation",
+      "ugpiganjig-first-nation",
+      "under-one-sky-friendship-centre",
+      "woodstock-first-nation"
+    ]
   },
   "treatments": [
     {
@@ -10348,6 +10367,78 @@
         "used": 0
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:83;--profile-angle:-25deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "buctouche-first-nation",
+      "name": "Buctouche First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 16,
+      "angle": 27,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Buctouche No. 16 and the river bend",
+          "alt": "Aerial view of homes, fields and a river bend around Buctouche No. 16",
+          "scope": "This aerial crop shows The Buctouche No. 16 community area and adjoining river. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2632847.053%2C7495419.596%2C2634747.053%2C7496725.846&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "buctouche-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "buctouche-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/buctouche-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/buctouche-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 236379,
+              "sha256": "33764ace3b81283f4ee7b46844e0cd706e728956034563532892865a9281ae73"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 56303,
+              "sha256": "114e88b5ed763a67266fcd3a941231627c49960db6a1aac5bd2ae6f30afe0c27"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:16;--profile-angle:27deg;--profile-photo:url(\"../../assets/profile-visuals/buctouche-first-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -21267,6 +21358,82 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "elsipogtog-first-nation",
+      "name": "Elsipogtog First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 321,
+      "angle": 70,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Elsipogtog and Richibucto No. 15",
+          "alt": "Aerial view of roads, houses and woodland around Elsipogtog",
+          "scope": "This aerial crop shows Richibucto No. 15 and its surroundings. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2614510.0%2C7510611.875%2C2617210.0%2C7512468.125&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "elsipogtog-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "elsipogtog-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            },
+            {
+              "title": "Atlantic Regional Roll-Up Report and documented place names",
+              "url": "https://www.sac-isc.gc.ca/eng/1314206899796/1533824778554"
+            }
+          ],
+          "asset": "assets/profile-visuals/elsipogtog-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/elsipogtog-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 241926,
+              "sha256": "490541b636c8ddb0272b4420267ad48e67f7c3a59a85dc0fd80f9e17499c028d"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 67030,
+              "sha256": "a68a47b88c3a7a7092a9b1d562adbedc1004efd0c64ea66aa6df9f0acbb45ce1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:321;--profile-angle:70deg;--profile-photo:url(\"../../assets/profile-visuals/elsipogtog-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "english-river-first-nation",
       "name": "English River First Nation",
       "originalId": null,
@@ -21728,6 +21895,78 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:144;--profile-angle:78deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-ermineskin-cree-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "esgenoopetitj-first-nation",
+      "name": "Esgenoôpetitj First Nation",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 122,
+      "angle": 45,
+      "composition": "sweep",
+      "images": [
+        {
+          "title": "Esgenoôpetitj and the Miramichi Bay shoreline",
+          "alt": "Aerial view of roads, homes and coastline at Esgenoôpetitj",
+          "scope": "This aerial crop shows Part of Esgenoôpetitj Indian Reserve No. 14 and the adjoining shore. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2602575.0%2C7580406.25%2C2606775.0%2C7583293.75&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "esgenoopetitj-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "esgenoopetitj-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/esgenoopetitj-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/esgenoopetitj-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 211687,
+              "sha256": "3292404f24ee1baaf3e8c8841b189eb3064158f563323a253518c47a88b82c66"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 50331,
+              "sha256": "6bb5dbed9bf02508d4ee75c3bd7c6375ff56ae334cfd64633af33c09593676dd"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:122;--profile-angle:45deg;--profile-photo:url(\"../../assets/profile-visuals/esgenoopetitj-first-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -23077,6 +23316,78 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:328;--profile-angle:-19deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-fort-chipewyan-metis-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fort-folly-first-nation",
+      "name": "Fort Folly First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 104,
+      "angle": -22,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Fort Folly No. 1 and its surroundings",
+          "alt": "Aerial view of local roads and clearings amid woodland around Fort Folly No. 1",
+          "scope": "This aerial crop shows The Fort Folly No. 1 area and nearby woodland. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2654413.102%2C7433559.306%2C2656413.102%2C7434934.306&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "fort-folly-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "fort-folly-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/fort-folly-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/fort-folly-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 236746,
+              "sha256": "71be91fe9efdf6ab7a26cac567ef35de3482e911d8e06078fc8993a1c7b4e345"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 56202,
+              "sha256": "0413b80c03f876bb0748276dda9b333260ff8c3b613bf64485410718b6483c21"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:104;--profile-angle:-22deg;--profile-photo:url(\"../../assets/profile-visuals/fort-folly-first-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -31489,6 +31800,78 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "indian-island-first-nation",
+      "name": "Indian Island First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 145,
+      "angle": -47,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Indian Island No. 28 and surrounding waterways",
+          "alt": "Aerial view of the Indian Island settlement between tidal channels",
+          "scope": "This aerial crop shows The mapped components of Indian Island No. 28 and the surrounding waterways. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2629788.366%2C7521879.749%2C2631488.366%2C7523048.499&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "indian-island-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "indian-island-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/indian-island-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/indian-island-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 194687,
+              "sha256": "eb508927613b8b1ddbbae421c35c24c4e2b00338e28feba7d3d373c56cb0ada2"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 51462,
+              "sha256": "7b3b3924992243e3544d77d06bc595ae3f099b0b6ae68ae33cb0933067f11784"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:145;--profile-angle:-47deg;--profile-photo:url(\"../../assets/profile-visuals/indian-island-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "indian-point-beothuk-lake",
       "name": "Indian Point (Beothuk Lake)",
       "originalId": null,
@@ -37583,6 +37966,78 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:334;--profile-angle:31deg;--profile-photo:url(\"../../assets/profile-visuals/on-photo-kingfisher-lake-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kingsclear-first-nation",
+      "name": "Kingsclear First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 353,
+      "angle": 59,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Bilijk and the Wolastoq",
+          "alt": "Aerial view of roads, houses and fields along the Wolastoq at Bilijk",
+          "scope": "This aerial crop shows Part of Bilijk and the nearby river. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2471474.027%2C7438098.828%2C2474724.027%2C7440333.203&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "kingsclear-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "kingsclear-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://wnnb.wolastoqey.ca/about-us/"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/kingsclear-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/kingsclear-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 207781,
+              "sha256": "8759c63cb04c450e8e91386c6dccdad97886a326084b6da5ae22c2501d048e9c"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 63511,
+              "sha256": "185ed597d12995404df0fd64d0ac6f81fbf4bbef8c71f5b37577d36f0ef8f250"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:353;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/kingsclear-first-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -45230,6 +45685,82 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "madawaska-first-nation",
+      "name": "Madawaska First Nation",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 214,
+      "angle": 1,
+      "composition": "wash",
+      "images": [
+        {
+          "title": "St. Basile No. 10 and its surroundings",
+          "alt": "Aerial view of developed land, roads and woodland around St. Basile No. 10",
+          "scope": "This aerial crop shows The St. Basile No. 10 area associated with Madawaska First Nation. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2362823.21%2C7597153.804%2C2365123.21%2C7598735.054&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "madawaska-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "madawaska-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://wnnb.wolastoqey.ca/about-us/"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            },
+            {
+              "title": "Atlantic Regional Roll-Up Report and documented place names",
+              "url": "https://www.sac-isc.gc.ca/eng/1314206899796/1533824778554"
+            }
+          ],
+          "asset": "assets/profile-visuals/madawaska-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/madawaska-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 376698,
+              "sha256": "27c8a206322152dbc08bd0eec814a3fb2f582eb52ef2e0a789164830e9323ce7"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 95255,
+              "sha256": "edcddc0f81e2b44f9f054cecfc2f680d560648121f97cc0441b874927aed0579"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:214;--profile-angle:1deg;--profile-photo:url(\"../../assets/profile-visuals/madawaska-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "madeline-island-ojibwe-village",
       "name": "Madeline Island Ojibwe Village",
       "originalId": null,
@@ -48819,6 +49350,82 @@
         "used": 0
       },
       "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:285;--profile-angle:50deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "metepenagiag-mikmaq-nation",
+      "name": "Metepenagiag Mi’kmaq Nation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 311,
+      "angle": 18,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Metepenagiag river landscape",
+          "alt": "Aerial view of river bends, roads and woodland around Metepenagiag",
+          "scope": "This aerial crop shows A portion of Red Bank No. 4 and the surrounding river landscape. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2547756.394%2C7549331.965%2C2551256.394%2C7551738.215&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "metepenagiag-mikmaq-nation-nb-orthophoto",
+          "profileSlugs": [
+            "metepenagiag-mikmaq-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            },
+            {
+              "title": "Atlantic Regional Roll-Up Report and documented place names",
+              "url": "https://www.sac-isc.gc.ca/eng/1314206899796/1533824778554"
+            }
+          ],
+          "asset": "assets/profile-visuals/metepenagiag-mikmaq-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/metepenagiag-mikmaq-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 366082,
+              "sha256": "c5f5ba0c8017dbebb9c9bf1111157b3a416814a3ac702b984499ada41113ceea"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 84940,
+              "sha256": "5cf634e95d0c34e32a2116fdf5a16fa26e80bd5976b189bcf7f757034ba3e999"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:311;--profile-angle:18deg;--profile-photo:url(\"../../assets/profile-visuals/metepenagiag-mikmaq-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -56438,6 +57045,78 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "natoaganeg-first-nation",
+      "name": "Natoaganeg First Nation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 223,
+      "angle": -8,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "The Eel Ground No. 2 area",
+          "alt": "Aerial view of wooded land and roads near Eel Ground No. 2",
+          "scope": "This aerial crop shows Part of the Eel Ground No. 2 area associated with Natoaganeg. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2565130.0%2C7552412.5%2C2568730.0%2C7554887.5&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "natoaganeg-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "natoaganeg-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/natoaganeg-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/natoaganeg-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 303435,
+              "sha256": "948d07b8d139ad43acd2553375784b76fe20dd03812316963a997cbfddaabd26"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 67179,
+              "sha256": "93e4eeaf0de79185ccb8980b50d134d7a7b52980bba61f732d6ef115fdb89385"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:223;--profile-angle:-8deg;--profile-photo:url(\"../../assets/profile-visuals/natoaganeg-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "naujaat",
       "name": "Naujaat",
       "originalId": null,
@@ -57319,6 +57998,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:152;--profile-angle:9deg;--profile-photo:url(\"../../assets/profile-visuals/neutral-nation-lawson-site-longhouse-2012.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "new-brunswick-aboriginal-peoples-council",
+      "name": "New Brunswick Aboriginal Peoples Council",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 238,
+      "angle": -56,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:238;--profile-angle:-56deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -63528,6 +64230,78 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "oromocto-first-nation",
+      "name": "Oromocto First Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 168,
+      "angle": 51,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Woodland and waterways near Oromocto No. 26",
+          "alt": "Aerial view of woodland, water and roads around Oromocto No. 26",
+          "scope": "This aerial crop shows Part of Oromocto No. 26 and surrounding woodland and wetlands. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2500450.261%2C7423467.707%2C2502400.261%2C7424808.332&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "oromocto-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "oromocto-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://wnnb.wolastoqey.ca/about-us/"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/oromocto-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/oromocto-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 256254,
+              "sha256": "428626f9d3111d9ef2088120f6baacb9aeaa6055f11ad324a0333e2b744b2d18"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 70597,
+              "sha256": "c25dd3d748e536dcadd7cb1001673e8f4013a382de73b1f383c6a28d6ae4aea2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:168;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/oromocto-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "osage",
       "name": "Osage",
       "originalId": 271,
@@ -64224,6 +64998,82 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:342;--profile-angle:-68deg;--profile-photo:url(\"../../assets/profile-visuals/gl-photo-paamiut.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "pabineau-first-nation",
+      "name": "Pabineau First Nation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 145,
+      "angle": 33,
+      "composition": "fold",
+      "images": [
+        {
+          "title": "Pabineau No. 11 and its surroundings",
+          "alt": "Aerial view of local roads, houses and nearby woodland around Pabineau",
+          "scope": "This aerial crop shows The mapped Pabineau No. 11 area and nearby woodland. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2560525.484%2C7614217.566%2C2562975.484%2C7615901.941&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "pabineau-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "pabineau-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            },
+            {
+              "title": "Atlantic Regional Roll-Up Report and documented place names",
+              "url": "https://www.sac-isc.gc.ca/eng/1314206899796/1533824778554"
+            }
+          ],
+          "asset": "assets/profile-visuals/pabineau-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/pabineau-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 299142,
+              "sha256": "ef6429b8209d5b3998721cbdf1673c9ff27d23312b06fd81c088dc8e04ee73b0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 71072,
+              "sha256": "d9379b97e056d8069013dc79b79865c554a2b388e97fc5b5b2e7d125ba6ff411"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:145;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/pabineau-first-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -66449,6 +67299,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "peskotomuhkati-nation-at-skutik",
+      "name": "Peskotomuhkati Nation at Skutik",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 357,
+      "angle": -1,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:357;--profile-angle:-1deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "pessamit",
@@ -82148,6 +83021,78 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "st-marys-first-nation",
+      "name": "St. Mary’s First Nation",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 60,
+      "angle": -33,
+      "composition": "orbit",
+      "images": [
+        {
+          "title": "The Wolastoq and north-bank Fredericton",
+          "alt": "Aerial view of the river and north-bank neighbourhood around St. Mary’s No. 24",
+          "scope": "This aerial crop shows St. Mary’s No. 24 and nearby Fredericton on the north bank of the Wolastoq. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2488650.0%2C7440563.75%2C2490850.0%2C7442076.25&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "st-marys-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "st-marys-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://wnnb.wolastoqey.ca/about-us/"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/st-marys-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/st-marys-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 274194,
+              "sha256": "28fb2b8ad43e386546dd4958d78c84d9479e0ba9dec7dead30ba6a5988609787"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 79141,
+              "sha256": "9a9d19506c616397e6ca2fc27b598fa830c91f6131dbc2bc2c6796b3b6aecea0"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:60;--profile-angle:-33deg;--profile-photo:url(\"../../assets/profile-visuals/st-marys-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "st-teresas",
       "name": "St. Teresa’s",
       "originalId": null,
@@ -87592,6 +88537,78 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "tobique-first-nation",
+      "name": "Tobique First Nation",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 219,
+      "angle": 47,
+      "composition": "ribbon",
+      "images": [
+        {
+          "title": "Tobique First Nation and the Tobique River",
+          "alt": "Aerial view of the Tobique waterway, homes and adjacent forest",
+          "scope": "This aerial crop shows Part of Tobique No. 20 and the nearby river channel. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2407387.864%2C7530911.062%2C2410807.864%2C7533262.312&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "tobique-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "tobique-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://wnnb.wolastoqey.ca/about-us/"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/tobique-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/tobique-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 421023,
+              "sha256": "142651c4203d3e35cb4b236b2f2aef3ac5995182b6496018148991dcc7cff2b2"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 91525,
+              "sha256": "25de1e894bc5df6bd01ce2cc47e907acf7a635802c54020b119c3615f7040bb2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:219;--profile-angle:47deg;--profile-photo:url(\"../../assets/profile-visuals/tobique-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tohono-oodham",
       "name": "Tohono O'odham",
       "originalId": 390,
@@ -90444,6 +91461,82 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "ugpiganjig-first-nation",
+      "name": "Ugpi’ganjig First Nation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 87,
+      "angle": 60,
+      "composition": "orbit",
+      "images": [
+        {
+          "title": "Ugpi’ganjig at Eel River Bar",
+          "alt": "Aerial view of the Eel River Bar settlement and tidal flats",
+          "scope": "This aerial crop shows Part of Eel River No. 3 and the nearby estuary. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2508062.153%2C7669502.388%2C2510012.153%2C7670843.013&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "ugpiganjig-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "ugpiganjig-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "Our Communities",
+              "url": "https://www.migmawel.org/our-communities"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            },
+            {
+              "title": "Atlantic Regional Roll-Up Report and documented place names",
+              "url": "https://www.sac-isc.gc.ca/eng/1314206899796/1533824778554"
+            }
+          ],
+          "asset": "assets/profile-visuals/ugpiganjig-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/ugpiganjig-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 294950,
+              "sha256": "9001c417f6b34115ce862ae681cd13211d5b9b075170a033550214a6a2898d77"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 71300,
+              "sha256": "b1069232da08a58ea8d56d5f538a083858a5c7dcaed6a943d28a080ea9919cab"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:87;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/ugpiganjig-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ukkusissat",
       "name": "Ukkusissat",
       "originalId": null,
@@ -90769,6 +91862,29 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:201;--profile-angle:70deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-unamen-shipu-la-romaine.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "under-one-sky-friendship-centre",
+      "name": "Under One Sky Friendship Centre",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 263,
+      "angle": 22,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:263;--profile-angle:22deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -96498,6 +97614,78 @@
         "used": 0
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:98;--profile-angle:-18deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "woodstock-first-nation",
+      "name": "Woodstock First Nation",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 27,
+      "angle": 48,
+      "composition": "arc",
+      "images": [
+        {
+          "title": "Woodstock No. 23 and its surroundings",
+          "alt": "Aerial view of houses, roads and fields around Woodstock No. 23",
+          "scope": "This aerial crop shows Part of Woodstock No. 23 and adjoining developed land. The Atlas resized the image for this guide.",
+          "creator": "Government of New Brunswick",
+          "credit": "Government of New Brunswick. Contains information licensed under the Open Government Licence – New Brunswick.",
+          "cardCredit": "Government of New Brunswick · Open Government Licence – New Brunswick",
+          "sourceUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer",
+          "sourceImageUrl": "https://gis-erd-der.gnb.ca/server/rest/services/OrthoImagery/NBORTHOS/ImageServer/exportImage?f=image&bbox=2415244.35%2C7456248.97%2C2416894.35%2C7457383.345&bboxSR=2953&imageSR=2953&size=1280%2C880&format=jpg",
+          "rightsLabel": "Open Government Licence – New Brunswick",
+          "rightsUrl": "https://www.gnb.ca/en/campaign/geonb/open-government-license.html",
+          "id": "woodstock-first-nation-nb-orthophoto",
+          "profileSlugs": [
+            "woodstock-first-nation"
+          ],
+          "reviewedAt": "2026-11-24",
+          "mediaType": "photograph",
+          "contextSources": [
+            {
+              "title": "About Us",
+              "url": "https://wnnb.wolastoqey.ca/about-us/"
+            },
+            {
+              "title": "New Brunswick GIS Open Data orthophotography",
+              "url": "https://www2.gnb.ca/content/gnb/en/departments/erd/open-data/raster-data.html"
+            },
+            {
+              "title": "Indigenous Services Canada First Nations Aboriginal Lands",
+              "url": "https://services.sac-isc.gc.ca/geomatics/rest/services/AGOL_FEATURE_SERVICES/First_Nations_Aboriginal_Lands_E/FeatureServer/3"
+            }
+          ],
+          "asset": "assets/profile-visuals/woodstock-first-nation-nb-orthophoto.jpg",
+          "cardAsset": "assets/profile-visuals/woodstock-first-nation-nb-orthophoto-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 880,
+              "bytes": 291388,
+              "sha256": "21e089edc7bb4ad03769bfc09e402507be6dde1dcf62d47a65fc69188ec9ccd3"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 440,
+              "bytes": 72724,
+              "sha256": "30d7eae83b4ed1aceb9266ccc8489d759bfcc19e5968e595746bfd30645976b9"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:27;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/woodstock-first-nation-nb-orthophoto.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
