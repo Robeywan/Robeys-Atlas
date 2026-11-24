@@ -6,8 +6,8 @@
     "selectedProfiles": 1534,
     "existingApache": 1,
     "newProfileTreatments": 1533,
-    "newTreatmentsWithPhotographs": 1374,
-    "decorativeTreatmentsAwaitingPhotographs": 159,
+    "newTreatmentsWithPhotographs": 1375,
+    "decorativeTreatmentsAwaitingPhotographs": 158,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -52176,14 +52176,60 @@
       "hue": 95,
       "angle": 76,
       "composition": "sweep",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "pei-photo-morell-2-copernicus",
+          "profileSlugs": [
+            "morell-2"
+          ],
+          "mediaType": "photograph",
+          "reviewedAt": "2026-11-24",
+          "date": "2025-08-17",
+          "title": "Morell 2 and the Morell River from above",
+          "alt": "True-colour satellite view of woodland, farm fields and the winding Morell River in eastern Prince Edward Island",
+          "scope": "Sentinel-2C captured this true-colour image on August 17, 2025. The crop includes Morell 2 and the surrounding woodland, fields and river. Cropped and resized for display.",
+          "creator": "Copernicus Sentinel-2",
+          "credit": "Contains modified Copernicus Sentinel data 2025",
+          "cardCredit": "Contains modified Copernicus Sentinel data 2025",
+          "sourceUrl": "https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2C_20TNS_20250817_0_L2A",
+          "sourceImageUrl": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/20/T/NS/2025/8/S2C_20TNS_20250817_0_L2A/TCI.tif",
+          "rightsLabel": "Copernicus Sentinel data licence",
+          "rightsUrl": "https://ewds.climate.copernicus.eu/licences/ec-sentinel",
+          "contextSources": [
+            {
+              "title": "Abegweit First Nation FAQ",
+              "url": "https://abegweit.ca/faq/"
+            },
+            {
+              "title": "Abegweit reserve directory",
+              "url": "https://fnp-ppn.aadnc-aandc.gc.ca/FNP/Main/Search/FNReserves.aspx?BAND_NUMBER=1&lang=eng"
+            }
+          ],
+          "asset": "assets/profile-visuals/pei-photo-morell-2-copernicus.jpg",
+          "cardAsset": "assets/profile-visuals/pei-photo-morell-2-copernicus-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 834,
+              "height": 540,
+              "bytes": 68804,
+              "sha256": "b683300df8b32714f83dfb5d555f1a0cca6861ad0379c4e436bee99e73ad2ce0"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 414,
+              "bytes": 36775,
+              "sha256": "3d3846767bc04a77f811c764cfe960c09760010ce6486e090676d99316fa7746"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:95;--profile-angle:76deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:95;--profile-angle:76deg;--profile-photo:url(\"../../assets/profile-visuals/pei-photo-morell-2-copernicus.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
