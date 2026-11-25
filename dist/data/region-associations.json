@@ -1229,7 +1229,8 @@
       "period": "Historical and continuing; inspected 2026-10-21",
       "sourceUrl": "https://catawba.com/about-the-nation",
       "evidenceNote": "Nation identifies Piedmont South Carolina in ancestral lands; regional, not whole-state, scope.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-NC",
@@ -1261,7 +1262,8 @@
       "period": "Present-day; undated page inspected 2026-10-21",
       "sourceUrl": "https://catawba.com/about-the-nation",
       "evidenceNote": "Nation identifies present lands in York County and government address in Rock Hill.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-TX",
@@ -4121,7 +4123,10 @@
       "sourceUrl": "https://www.nps.gov/cong/learn/historyculture/history-culture.htm",
       "evidenceNote": "Actual NPS opening links Congaree people to park/river region; Congaree Today paragraph explicitly locates it in Midlands of South Carolina. No absorption or disappearance claim imported.",
       "reviewDate": "2026-10-21",
-      "originalId": 85
+      "originalId": 85,
+      "showSourcesInGuide": true,
+      "sourceTitle": "People in the Floodplain - Congaree National Park (U.S. National Park Service)",
+      "sourcePublisher": "nps.gov"
     },
     {
       "regionId": "MX",
@@ -6806,7 +6811,10 @@
       "limits": "Historical settlement association; changing composite identity acknowledged, with no present recognition or boundary claim.",
       "sourceAuthor": "Chester B. DePratter",
       "sourceDate": "1992-12-14",
-      "supportingSourceUrls": []
+      "supportingSourceUrls": [
+        "https://www.nps.gov/orgs/1539/the-southeast-chronicles-ninety-six-national-historic-site.htm"
+      ],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-FL",
@@ -12880,7 +12888,12 @@
       "reviewedScope": "Catawba Nation heading33816–33839 and only the SC token in its mailing-contactfield. Physicalcontactlist context was read to avoid misassigning the NC gaming-enterprise setting; no address, phone, officials, recognition/legal/servicearea or media adopted.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration",
+      "supportingSourceUrls": [
+        "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes"
+      ]
     },
     {
       "name": "Cabazon Band of Cahuilla Indians",
@@ -34567,6 +34580,339 @@
       "navigationOnly": true,
       "countsTowardMinimum": false,
       "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-NC",
+      "name": "North Carolina Native American Youth Organization",
+      "associationType": "Statewide program and documented conference location",
+      "period": "Documented 2024 and 2026 conferences",
+      "sourceUrl": "https://ncnayo.weebly.com/annual-conference.html",
+      "sourceTitle": "Annual Conference",
+      "sourcePublisher": "North Carolina Native American Youth Organization",
+      "evidenceNote": "The organization describes a rotating North Carolina campus conference and identifies UNC Pembroke as its 2024 host. The state lists its June 2026 conference.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.doa.nc.gov/news/events/nc-native-american-youth-organization-ncnayo-conference-2026"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "UNC American Indian Center",
+      "associationType": "Documented university center",
+      "period": "University handbook and current center page",
+      "sourceUrl": "https://americanindiancenter.unc.edu/",
+      "sourceTitle": "American Indian Center — Home",
+      "sourcePublisher": "University of North Carolina at Chapel Hill, American Indian Center",
+      "evidenceNote": "The American Indian Center at UNC–Chapel Hill publishes its Wilson Street location in Chapel Hill. The university handbook describes public service and campus Native student partnerships.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://nsfp.unc.edu/wp-content/uploads/2024/05/2024_CarolinaFamilyHandbook-2.pdf"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Curt and Catherine Locklear American Indian Heritage Center",
+      "associationType": "Documented university center",
+      "period": "2022 opening and current campus directory",
+      "sourceUrl": "https://uncp.edu/community-and-culture/american-indian-heritage-center/index.html",
+      "sourceTitle": "Curt & Catherine Locklear American Indian Heritage Center",
+      "sourcePublisher": "University of North Carolina at Pembroke",
+      "evidenceNote": "UNC Pembroke locates the Center on the second floor of Old Main in Pembroke. The university documents the opening there in November 2022.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.uncp.edu/news/2022/uncp-celebrates-opening-curt-and-catherine-locklear-american-indian-heritage-center.html"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Beaver Creek Indians",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Beaver Creek Indians under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.beavercreekindians.org/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Eastern Cherokee, Southern Iroquois and United Tribes of South Carolina",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Eastern Cherokee, Southern Iroquois and United Tribes of South Carolina under State Recognized Tribes. The row records Duncan as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Edisto Natchez-Kusso Tribe of South Carolina",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Edisto Natchez-Kusso Tribe of South Carolina under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://dorchesterheritagecenter.com/edisto-natchez-kusso-tribe-48th-annual-pow-wow/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Pee Dee Indian Nation of Upper South Carolina",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Pee Dee Indian Nation of Upper South Carolina under State Recognized Tribes. The row records Little Rock as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Pee Dee Indian Tribe",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Pee Dee Indian Tribe under State Recognized Tribes. The row records McColl as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Piedmont American Indian Association Lower Eastern Cherokee Nation of South Carolina",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Piedmont American Indian Association Lower Eastern Cherokee Nation of South Carolina under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.lowereasterncherokeenation.org/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "The Santee Indian Organization",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists The Santee Indian Organization under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://calendar.powwows.com/events/annual-santee-indian-tribe-pow-wow/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Sumter Tribe of Cheraw Indians",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Sumter Tribe of Cheraw Indians under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://sumtercherawindians.org/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "The Waccamaw Indian People",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists The Waccamaw Indian People under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://waccamaw.org/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Wassamasaw Tribe of Varnertown Indians",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Wassamasaw Tribe of Varnertown Indians under State Recognized Tribes. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.wassamasawtribe.com/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Chaloklowa Chickasaw Indian People",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Chaloklowa Chickasaw Indian People under Indian Groups. The row records Hemingway as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Natchez Tribe of South Carolina",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Natchez Tribe of South Carolina under Indian Groups. The row records Columbia as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Pee Dee Indian Nation of Beaver Creek",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Pee Dee Indian Nation of Beaver Creek under Indian Groups. The row records Neeses as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Pine Hill Indian Community Development Initiative",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Pine Hill Indian Community Development Initiative under Special Interest Organizations. The linked sources document the selected South Carolina setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.phhn.org/"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "American Indian Chamber of Commerce of South Carolina",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists American Indian Chamber of Commerce of South Carolina under Special Interest Organizations. The row records Ladson as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Little Horse Creek American Indian Association and Cultural Center",
+      "associationType": "State-listed South Carolina community or organization",
+      "period": "Current state listing and any dated public program records",
+      "sourceUrl": "https://www.advance.sc.gov/community-resources/native-american-affairs/sc-recognized-tribes",
+      "sourceTitle": "SC Recognized Tribes",
+      "sourcePublisher": "South Carolina Commission for Community Advancement and Engagement",
+      "evidenceNote": "The South Carolina commission lists Little Horse Creek American Indian Association and Cultural Center under Special Interest Organizations. The row records Clearwater as its South Carolina contact locality.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Keowee",
+      "associationType": "Documented historic settlement",
+      "period": "Historical Cherokee Lower Town context",
+      "sourceUrl": "https://dnr.sc.gov/managed/wild/jocassee/management3.htm",
+      "sourceTitle": "Jocassee Gorges — Historical, Cultural and Archaeological Resources",
+      "sourcePublisher": "South Carolina Department of Natural Resources",
+      "evidenceNote": "The South Carolina Department of Natural Resources describes Keowee as a Cherokee Lower Town in the Keowee River area. The National Park Service discusses it among the Lower Town settlements.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.nps.gov/orgs/1539/the-southeast-chronicles-ninety-six-national-historic-site.htm"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Cherokee",
+      "associationType": "Historic Cherokee Lower Towns",
+      "period": "Historical settlement context",
+      "sourceUrl": "https://www.nps.gov/orgs/1539/the-southeast-chronicles-ninety-six-national-historic-site.htm",
+      "sourceTitle": "Southeast Chronicles: Ninety Six National Historic Site",
+      "sourcePublisher": "National Park Service, Southeast Archeological Center",
+      "evidenceNote": "The National Park Service describes historic Cherokee Lower Towns in northwestern South Carolina and northeastern Georgia, including Keowee. The state natural-resources account describes the Keowee River setting.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://dnr.sc.gov/managed/wild/jocassee/management3.htm"
+      ]
     }
   ]
 }
