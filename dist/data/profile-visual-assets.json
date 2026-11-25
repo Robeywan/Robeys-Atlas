@@ -73603,6 +73603,94 @@
           "sha256": "fd3453063428dfa7c2321a6c3689dc4c49162e121c393255dbf8c71a9045f4e8"
         }
       }
+    },
+    {
+      "id": "sc-wateree-aerial",
+      "title": "Lake Wateree State Park",
+      "alt": "Aerial view of the modern Lake Wateree shore and wooded state park",
+      "scope": "The modern reservoir and state park on the Wateree River in South Carolina. The Wateree River essay describes the historical Native communities that lived along the river. The image is resized for the web and retains the listed license.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "wateree"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9001831.31%2C4086601.80%2C-9000715.88%2C4087438.37&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Wateree River",
+          "url": "https://www.scencyclopedia.org/sce/entries/wateree-river/"
+        },
+        {
+          "title": "Lake Wateree Nature",
+          "url": "https://www.sctrails.net/trails/trail/lake-wateree-nature"
+        }
+      ],
+      "asset": "assets/profile-visuals/sc-wateree-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/sc-wateree-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 207610,
+          "sha256": "f7de23f84796d188bb2ba8b13885f48cc85fd8577dba70c9e9bbecd649944b20"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 69814,
+          "sha256": "fbe714e1acfcff515f4947580b4d962ffc96fecabc9d9f498f5332c7c2c17892"
+        }
+      }
+    },
+    {
+      "id": "sc-sewee-aerial",
+      "title": "Sewee Visitor and Environmental Education Center in Awendaw",
+      "alt": "Aerial view of the visitor center area and forest in Awendaw, South Carolina",
+      "scope": "The modern Sewee visitor center in Awendaw on the South Carolina coast. Charleston’s archaeological survey discusses the historical Sewee people in the broader coastal region. The image is resized for the web and retains the listed license.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "sewee"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8869040.84%2C3891776.09%2C-8868182.57%2C3892419.79&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Charleston Upper Peninsula Archaeological Survey",
+          "url": "https://www.charleston-sc.gov/DocumentCenter/View/32807/Upper-Peninsula-Final-Report"
+        },
+        {
+          "title": "Cape Romain National Wildlife Refuge",
+          "url": "https://www.fws.gov/refuge/cape-romain"
+        }
+      ],
+      "asset": "assets/profile-visuals/sc-sewee-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/sc-sewee-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 252438,
+          "sha256": "b70488fc9447b43450a7bb3790a7712d6b4f77cd7f4dc36b097b5d1707960f10"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 86662,
+          "sha256": "74fe6a891dd4098ab9c7fb3810443606438468e2fb5f174be35e3617859d46ea"
+        }
+      }
     }
   ],
   "deferred": [
