@@ -71350,7 +71350,8 @@
       "cardCredit": "Aerial photo: USGS, USDA and The National Map",
       "mediaType": "photograph",
       "profileSlugs": [
-        "buffalo-indian-village-site"
+        "buffalo-indian-village-site",
+        "fort-ancient-culture"
       ],
       "reviewedAt": "2026-11-25",
       "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
@@ -71507,6 +71508,306 @@
         "cardAsset": {
           "bytes": 100423,
           "sha256": "63c32f5da9846cb2bbe2565bf030b64efe369bf5ac7877b03614f83930ef775f",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "arrohateck-dutch-gap",
+      "title": "James River near Dutch Gap, Virginia",
+      "alt": "The James River, wooded banks, and the modern Dutch Gap area seen from above.",
+      "scope": "Henrico County places the historical Arrohateck community in the James River region. This photograph shows the modern river landscape near Dutch Gap and Henricus. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "arrohateck"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8613037.77%2C4490622.57%2C-8610269.32%2C4492698.91&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "Precolonial Era",
+          "url": "https://henrico.gov/history/precolonial-era/"
+        }
+      ],
+      "asset": "assets/profile-visuals/arrohateck-dutch-gap.jpg",
+      "cardAsset": "assets/profile-visuals/arrohateck-dutch-gap-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 352032,
+          "sha256": "9755b3585a83a2d679a9b96f0c7c8e03d8ca7612aa149f8e9769698dab9b0e51",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 103939,
+          "sha256": "87189647d95024f445917fa1986dfefaeb6c7cf388ad58754799d2a7443f55d8",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "weyanock-kimages",
+      "title": "Kimages Creek and the James River, Virginia",
+      "alt": "An aerial view of the James River shoreline, the Kimages Creek area, and surrounding woodland.",
+      "scope": "The Rice Rivers Center’s site history describes the importance of the James River and Kimages Creek to the Weyanock connection. This photograph shows that landscape today. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "weyanock"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8596144.06%2C4483821.74%2C-8592119.65%2C4486840.05&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "Site History: Pre 1607",
+          "url": "https://ricerivers.vcu.edu/site-history/pre-1607/"
+        },
+        {
+          "title": "Weyanoke",
+          "url": "https://www.dhr.virginia.gov/historic-registers/018-0029/"
+        }
+      ],
+      "asset": "assets/profile-visuals/weyanock-kimages.jpg",
+      "cardAsset": "assets/profile-visuals/weyanock-kimages-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 383638,
+          "sha256": "bbc389241ed1cbd29e174aa4584e1396eac496dfe802471b93d7e6616a6ff465",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 112423,
+          "sha256": "fc9e2c26289b81139d8202b7a8e2c71176af11e07cdb5d1047b4c5d302c0b719",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "werowocomoco-purtan-bay",
+      "title": "Purtan Bay and the York River, Virginia",
+      "alt": "Aerial photograph of wooded shorelines, wetlands, and the York River around Purtan Bay.",
+      "scope": "The Chesapeake Conservancy places Werowocomoco along Purtan Bay. This photograph shows the broader modern York River shoreline. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "werowocomoco"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8535798.03%2C4493352.57%2C-8530259.14%2C4497506.73&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "Werowocomoco",
+          "url": "https://home.nps.gov/cajo/planyourvisit/werowocomoco.htm"
+        },
+        {
+          "title": "Werowocomoco",
+          "url": "https://www.chesapeakeconservancy.org/projects/werowocomoco"
+        }
+      ],
+      "asset": "assets/profile-visuals/werowocomoco-purtan-bay.jpg",
+      "cardAsset": "assets/profile-visuals/werowocomoco-purtan-bay-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 314176,
+          "sha256": "960d4005d91dc6fcc81aea9323c37bdd6e51771ce3e122a59824347a615118d6",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 87200,
+          "sha256": "608e8d7dadebec300c4c45a46829473891aca8b33d3eb277ca94d09494e21a0f",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "machicomoco-park",
+      "title": "Machicomoco State Park on the York River",
+      "alt": "Aerial photograph of the Machicomoco State Park landscape with fields and York River waterways.",
+      "scope": "The National Park Service’s Chesapeake Gateways guide places Machicomoco State Park along the York River in Gloucester County. The photograph shows the present park setting. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "machicomoco-state-park"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8522724.89%2C4480221.24%2C-8518953.32%2C4483049.91&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "Machicomoco State Park",
+          "url": "https://www.nps.gov/places/machicomoco-state-park-nps-chesapeake-gateways.htm"
+        }
+      ],
+      "asset": "assets/profile-visuals/machicomoco-park.jpg",
+      "cardAsset": "assets/profile-visuals/machicomoco-park-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 351297,
+          "sha256": "5994340ab04819670c74266df0bdb94bef19c3334a9859ae0806c73060840ff2",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 108576,
+          "sha256": "b7751f31ae0a75c2937b786c06031ff77acb939ca32207d8f92f074e48e5d4a5",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "william-mary-washington-hall",
+      "title": "Washington Hall area, William & Mary",
+      "alt": "Aerial photograph of Washington Hall and the surrounding William & Mary campus in Williamsburg.",
+      "scope": "William & Mary’s campus guide lists the center in Washington Hall under its earlier name. The photograph shows the surrounding campus today. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "american-indian-research-center-at-william-mary"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8539651.12%2C4476645.63%2C-8539161.04%2C4477013.19&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "American Indian Research Center",
+          "url": "https://www.wm.edu/as/anthropology/research/centers/airc/"
+        },
+        {
+          "title": "Washington Hall",
+          "url": "https://www.wm.edu/about/visiting/campusmap/location/washington.php"
+        }
+      ],
+      "asset": "assets/profile-visuals/william-mary-washington-hall.jpg",
+      "cardAsset": "assets/profile-visuals/william-mary-washington-hall-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 288330,
+          "sha256": "56b22d8515f1231208b1573a409cd7481fc0280ef3c64158c266166557707bba",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 96224,
+          "sha256": "01452d8da34c069df38e44a0122f391bbc0816175e6ad4052a136b50f2202342",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "vtec-ashland",
+      "title": "Atlee Station Road area, Ashland, Virginia",
+      "alt": "Aerial photograph of the road and buildings around the consortium’s listed office in Virginia.",
+      "scope": "The consortium lists its office on Atlee Station Road in Ashland. The photograph shows the modern area around that address. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "virginia-tribal-education-consortium"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8620668.55%2C4535488.42%2C-8620137.8%2C4535886.48&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "About VTEC",
+          "url": "https://www.vtecinc.org/about-vtec"
+        },
+        {
+          "title": "2026 VTEC Annual Conference",
+          "url": "https://www.vtecinc.org/copy-of-2025-conference"
+        }
+      ],
+      "asset": "assets/profile-visuals/vtec-ashland.jpg",
+      "cardAsset": "assets/profile-visuals/vtec-ashland-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 291586,
+          "sha256": "eb232348040b41758910d1fc900dee6449bce7953349c4e828bc15e4ca8a59a8",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 97732,
+          "sha256": "2b6e6497ca9b069815091ea6fe863682203bb3469642e5cccb09672b8cfe1d64",
+          "width": 680,
+          "height": 510
+        }
+      }
+    },
+    {
+      "id": "chesepiooc-lynnhaven",
+      "title": "Lynnhaven waterways, Virginia Beach",
+      "alt": "Aerial photograph of the modern Lynnhaven shoreline and inlet in Virginia Beach.",
+      "scope": "A federal cultural resources report describes the Lynnhaven River as the probable setting for Chesepiooc. This photograph shows the broader modern waterways. The source frame is shown in natural color and resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USGS, USDA and The National Map",
+      "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "chesepiooc"
+      ],
+      "reviewedAt": "2026-11-25",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8471437.83%2C4423878.78%2C-8466935.89%2C4427255.23&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+      "rightsLabel": "Public domain · The National Map",
+      "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+      "contextSources": [
+        {
+          "title": "Cape Henry Memorial Cultural Landscapes Inventory",
+          "url": "https://irma.nps.gov/DataStore/FileSource/Get/2302281?filename=COLO_Cape+Henry+Memorial_CLI+Park+Report_2023.pdf"
+        },
+        {
+          "title": "Virginia Beach Outpatient Clinic Environmental Assessment Appendices",
+          "url": "https://department.va.gov/construction-and-facilities-management/wp-content/uploads/sites/57/2026/01/Virginia-Beach-OPC-Final-EA-Appendices.pdf"
+        }
+      ],
+      "asset": "assets/profile-visuals/chesepiooc-lynnhaven.jpg",
+      "cardAsset": "assets/profile-visuals/chesepiooc-lynnhaven-card.jpg",
+      "derivatives": {
+        "asset": {
+          "bytes": 393345,
+          "sha256": "7b6e6309d5c8e5a7c4a25d57c9b93b5104d1732de63bfc94e80ca3c3bb8af8a8",
+          "width": 1200,
+          "height": 900
+        },
+        "cardAsset": {
+          "bytes": 121099,
+          "sha256": "bb25e360019325449f01021ee191dd29aa46c99f4ae1688b84d23fee51809978",
           "width": 680,
           "height": 510
         }

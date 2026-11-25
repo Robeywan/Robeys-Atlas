@@ -122242,14 +122242,38 @@
     "compiledAt": "2026-11-03",
     "kind": "Historical named community / reading label",
     "region": "Historical James River/Henrico County context, Virginia",
-    "overview": "Arrohateck has an individually findable historical reading outline. Its name and broad Virginia setting have been checked; detailed history, annotated reading sources and specifically relevant imagery remain queued.",
+    "overview": "Arrohateck was a historical community along the James River in the area of present-day Henrico County. Henrico’s historical account uses the spelling Arrohattoc and describes the community receiving Christopher Newport’s party during a 1607 voyage upriver.",
     "relationshipNote": "A historical named-community reading scope. Henrico’s entry includes the historical town spelling Arrahattock; a modern reconstruction or county place-name is not itself an Indigenous government. Historical political association does not establish current ancestry or uniform identity.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-arrohateck-1-20261125",
+        "title": "Precolonial Era",
+        "url": "https://henrico.gov/history/precolonial-era/",
+        "publisher": "Henrico County, Virginia",
+        "type": "County history",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "Read the Henrico County account of the Arrohattoc along the James River and the 1607 encounter.",
+        "contentReviewScope": "Read the Henrico County account of the Arrohattoc along the James River and the 1607 encounter.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Henrico County’s account gives regional context for the encounter and the community’s historical connection to Powhatan. The identification references below provide additional historical spellings.",
+        "sourceIds": [
+          "s-va-arrohateck-1-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-03",
     "identificationEvidence": [
       {
@@ -122286,18 +122310,21 @@
     "relatedProfileSlugs": [],
     "communityReview": "Not recorded",
     "researchGaps": [
-      "Develop a dated, critically compared history with community-directed perspectives; identification references are not substantive bibliography works.",
-      "Select and inspect individually relevant authentic imagery and exact media reuse rights before substantive guide publication.",
-      "Compare historical spellings, changing political/community relationships and the limits of colonial or institutional accounts without inferring present membership, ancestry or disappearance."
+      "Compare accounts of the historical community and its relationships with nearby communities.",
+      "Develop a fuller bibliography that incorporates Indigenous perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only historical reading outline; no substantive-source collection, image clearance or adequacy assessment.",
+      "rationale": "A source-linked historical guide awaiting a fuller bibliography and community-directed review.",
       "remainingLimits": [
-        "Detailed history, annotated reading paths and specifically relevant cleared imagery remain queued."
+        "Compare accounts of the historical community and its relationships with nearby communities.",
+        "Develop a fuller bibliography that incorporates Indigenous perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-va-arrohateck-1-20261125"
+    ]
   },
   {
     "name": "Chiskiack",
@@ -123214,14 +123241,54 @@
     "compiledAt": "2026-11-03",
     "kind": "Historical named community / reading label",
     "region": "Historical lower James River context, Virginia",
-    "overview": "Weyanock is a historical name recorded in the National Park Service’s lower James River guide for the early 1600s. Detailed history, reading sources and individually relevant imagery remain queued.",
+    "overview": "Weyanock was a historical Indigenous community of the James River region. The Virginia Department of Historic Resources associates the community with the Weyanoke peninsula in present-day Charles City County. Virginia Commonwealth University’s Rice Rivers Center describes the river’s importance to Weyanoke farming, fishing, and travel.",
     "relationshipNote": "This source-specific historical community label does not establish a present government, membership or ancestry. Shared river context is not proof of a modern affiliation or a fixed territory. Variant spellings and relationships to other communities require separate review.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-weyanock-1-20261125",
+        "title": "Site History: Pre 1607",
+        "url": "https://ricerivers.vcu.edu/site-history/pre-1607/",
+        "publisher": "Virginia Commonwealth University Rice Rivers Center",
+        "type": "University site history",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "Read the center’s account of Weyanoke history and the importance of the James River and its tributaries.",
+        "contentReviewScope": "Read the center’s account of Weyanoke history and the importance of the James River and its tributaries.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-va-weyanock-2-20261125",
+        "title": "Weyanoke",
+        "url": "https://www.dhr.virginia.gov/historic-registers/018-0029/",
+        "publisher": "Virginia Department of Historic Resources",
+        "type": "State historic register entry",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "The opening historical account identifies the Weyanoke peninsula and establishes the community’s connection to present-day Charles City County.",
+        "contentReviewScope": "The opening historical account identifies the Weyanoke peninsula and establishes the community’s connection to present-day Charles City County.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the state register entry for the regional setting, then the Rice Rivers Center’s account of the relationship between the community and the James River.",
+        "sourceIds": [
+          "s-va-weyanock-1-20261125",
+          "s-va-weyanock-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-03",
     "identificationEvidence": [
       {
@@ -123242,18 +123309,22 @@
     "relatedProfileSlugs": [],
     "communityReview": "Not recorded",
     "researchGaps": [
-      "Develop a community-directed and critically attributed historical reading collection.",
-      "Review individually relevant imagery and exact reuse terms; no forced image or full-history requirement for this name-only outline.",
-      "Review spelling variants and historical/modern relationships separately; no current-government, ancestry, recognition or extinction conclusion."
+      "Develop a fuller historical bibliography with Indigenous perspectives.",
+      "Compare historical spellings and account for the limits of colonial-era sources."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only historical outline proposal with empty bibliography/sections. Identification checks are not substantive history-source review or image clearance.",
+      "rationale": "A source-linked historical guide awaiting a fuller bibliography and community-directed review.",
       "remainingLimits": [
-        "History, public cultural interpretation, reading sources and imagery remain queued."
+        "Develop a fuller historical bibliography with Indigenous perspectives.",
+        "Compare historical spellings and account for the limits of colonial-era sources."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-va-weyanock-1-20261125",
+      "s-va-weyanock-2-20261125"
+    ]
   },
   {
     "name": "Southern Ute Indian Tribe",
@@ -220750,5 +220821,550 @@
       "reviewedAt": null,
       "rationale": "The sources document the name and the West Virginia connection for this starting guide."
     }
+  },
+  {
+    "name": "Fort Ancient Culture",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Historical archaeological tradition",
+    "region": "West Virginia",
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.wvencyclopedia.org/entries/1978",
+        "title": "Fort Ancient Culture",
+        "publisher": "e-WV: The West Virginia Encyclopedia",
+        "scope": "Read the opening definition and Spencer’s discussion of village sites along the Ohio and Kanawha rivers.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://wvculture.org/agencies/state-historic-preservation-office-shpo/national-historic-landmarks/",
+        "title": "National Historic Landmarks — Clover Archaeological Site",
+        "publisher": "West Virginia State Historic Preservation Office",
+        "scope": "The statewide landmark overview identifies the Fort Ancient association of the Clover site in Cabell County.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Fort Ancient tradition",
+      "Kanawha River villages"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "buffalo-indian-village-site"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    },
+    "overview": "Archaeologists use Fort Ancient for a tradition found at villages in parts of the Ohio Valley. Darla S. Spencer describes villages in present-day West Virginia along the Ohio, Kanawha, and other rivers. Her overview treats the tradition as encompassing people who may have spoken different languages.",
+    "overviewSourceIds": [
+      "s-wv-fort-ancient-culture-1-20261125",
+      "s-wv-fort-ancient-culture-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-wv-fort-ancient-culture-1-20261125",
+        "title": "Fort Ancient Culture",
+        "url": "https://www.wvencyclopedia.org/entries/1978",
+        "publisher": "e-WV: The West Virginia Encyclopedia",
+        "type": "Specialist overview",
+        "topics": [
+          "West Virginia"
+        ],
+        "annotation": "Read the opening definition and Spencer’s discussion of village sites along the Ohio and Kanawha rivers.",
+        "contentReviewScope": "Read the opening definition and Spencer’s discussion of village sites along the Ohio and Kanawha rivers.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false,
+        "author": "Darla S. Spencer",
+        "publicationDate": "2024-02-08"
+      },
+      {
+        "id": "s-wv-fort-ancient-culture-2-20261125",
+        "title": "National Historic Landmarks — Clover Archaeological Site",
+        "url": "https://wvculture.org/agencies/state-historic-preservation-office-shpo/national-historic-landmarks/",
+        "publisher": "West Virginia State Historic Preservation Office",
+        "type": "State preservation reference",
+        "topics": [
+          "West Virginia"
+        ],
+        "annotation": "The statewide landmark overview identifies the Fort Ancient association of the Clover site in Cabell County.",
+        "contentReviewScope": "The statewide landmark overview identifies the Fort Ancient association of the Clover site in Cabell County.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Spencer’s overview of village life, pottery, and farming. The Buffalo Indian Village Site guide covers one of the Kanawha Valley places discussed in her account.",
+        "sourceIds": [
+          "s-wv-fort-ancient-culture-1-20261125",
+          "s-wv-fort-ancient-culture-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false
+  },
+  {
+    "name": "Werowocomoco",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Historical Indigenous town",
+    "region": "Virginia",
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://home.nps.gov/cajo/planyourvisit/werowocomoco.htm",
+        "title": "Werowocomoco",
+        "publisher": "National Park Service",
+        "scope": "Read the public interpretation, the town’s role in Powhatan leadership, and the visitor notice.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.chesapeakeconservancy.org/projects/werowocomoco",
+        "title": "Werowocomoco",
+        "publisher": "Chesapeake Conservancy",
+        "scope": "The conservation partner describes the location and protection of the site.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Powhatan town",
+      "Purtan Bay"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "powhatan",
+      "rappahannock",
+      "machicomoco-state-park"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    },
+    "overview": "Werowocomoco was an Indigenous town on what is now the York River in Gloucester County. The National Park Service describes it as a center of political and ceremonial life and a home of Powhatan during the early years of English settlement.",
+    "overviewSourceIds": [
+      "s-va-werowocomoco-1-20261125",
+      "s-va-werowocomoco-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-werowocomoco-1-20261125",
+        "title": "Werowocomoco",
+        "url": "https://home.nps.gov/cajo/planyourvisit/werowocomoco.htm",
+        "publisher": "National Park Service",
+        "type": "Site history and public interpretation",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "Read the public interpretation, the town’s role in Powhatan leadership, and the visitor notice.",
+        "contentReviewScope": "Read the public interpretation, the town’s role in Powhatan leadership, and the visitor notice.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-va-werowocomoco-2-20261125",
+        "title": "Werowocomoco",
+        "url": "https://www.chesapeakeconservancy.org/projects/werowocomoco",
+        "publisher": "Chesapeake Conservancy",
+        "type": "Partner’s project overview",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "The conservation partner describes the location and protection of the site.",
+        "contentReviewScope": "The conservation partner describes the location and protection of the site.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The National Park Service explains the town’s importance and the ongoing stewardship with Tribal Nations. The site is closed to the public. Nearby public interpretation is listed in the Park Service guide.",
+        "sourceIds": [
+          "s-va-werowocomoco-1-20261125",
+          "s-va-werowocomoco-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false
+  },
+  {
+    "name": "Machicomoco State Park",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Public park interpreting Virginia Indigenous history",
+    "region": "Virginia",
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nps.gov/places/machicomoco-state-park-nps-chesapeake-gateways.htm",
+        "title": "Machicomoco State Park",
+        "publisher": "National Park Service Chesapeake Gateways",
+        "scope": "Use the site guide for the park’s location and information about the public interpretive area.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Timberneck",
+      "York River"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "werowocomoco",
+      "powhatan"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    },
+    "overview": "Machicomoco State Park is on the York River in Gloucester County. The park’s outdoor exhibits and interpretive pavilion introduce visitors to the history and continuing presence of Indigenous communities in Virginia.",
+    "overviewSourceIds": [
+      "s-va-machicomoco-state-park-1-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-machicomoco-state-park-1-20261125",
+        "title": "Machicomoco State Park",
+        "url": "https://www.nps.gov/places/machicomoco-state-park-nps-chesapeake-gateways.htm",
+        "publisher": "National Park Service Chesapeake Gateways",
+        "type": "Public interpretive site guide",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "Use the site guide for the park’s location and information about the public interpretive area.",
+        "contentReviewScope": "Use the site guide for the park’s location and information about the public interpretive area.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Chesapeake Gateways site guide describes the park’s public exhibits, landscape, and relationship to the wider York River setting.",
+        "sourceIds": [
+          "s-va-machicomoco-state-park-1-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false
+  },
+  {
+    "name": "American Indian Research Center at William & Mary",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "University research center and public archive",
+    "region": "Virginia",
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.wm.edu/as/anthropology/research/centers/airc/",
+        "title": "American Indian Research Center",
+        "publisher": "William & Mary",
+        "scope": "Read the center’s institutional history, 2025 name change, and introduction to its projects.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.wm.edu/about/visiting/campusmap/location/washington.php",
+        "title": "Washington Hall",
+        "publisher": "William & Mary",
+        "scope": "William & Mary’s Washington Hall page locates the center, using the earlier Resource Center name.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "American Indian Resource Center",
+      "AIRC",
+      "Washington Hall Williamsburg"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "pamunkey",
+      "werowocomoco"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    },
+    "overview": "William & Mary’s American Indian Research Center is part of its Department of Anthropology in Williamsburg. The center’s public site describes its work in historical anthropology and provides access to past projects developed with Native communities.",
+    "overviewSourceIds": [
+      "s-va-american-indian-research-center-at-william-mary-1-20261125",
+      "s-va-american-indian-research-center-at-william-mary-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-american-indian-research-center-at-william-mary-1-20261125",
+        "title": "American Indian Research Center",
+        "url": "https://www.wm.edu/as/anthropology/research/centers/airc/",
+        "publisher": "William & Mary",
+        "type": "Official research center",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "Read the center’s institutional history, 2025 name change, and introduction to its projects.",
+        "contentReviewScope": "Read the center’s institutional history, 2025 name change, and introduction to its projects.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-va-american-indian-research-center-at-william-mary-2-20261125",
+        "title": "Washington Hall",
+        "url": "https://www.wm.edu/about/visiting/campusmap/location/washington.php",
+        "publisher": "William & Mary",
+        "type": "Official campus directory",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "William & Mary’s Washington Hall page locates the center, using the earlier Resource Center name.",
+        "contentReviewScope": "William & Mary’s Washington Hall page locates the center, using the earlier Resource Center name.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The center introduces its project archive and explains its 2025 name change. William & Mary’s campus guide lists the center in Washington Hall under its earlier name.",
+        "sourceIds": [
+          "s-va-american-indian-research-center-at-william-mary-1-20261125",
+          "s-va-american-indian-research-center-at-william-mary-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false
+  },
+  {
+    "name": "Virginia Tribal Education Consortium",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Intertribal education organization",
+    "region": "Virginia",
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.vtecinc.org/about-vtec",
+        "title": "About VTEC",
+        "publisher": "Virginia Tribal Education Consortium",
+        "scope": "Read the consortium’s description of its education, training, and youth support.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.vtecinc.org/copy-of-2025-conference",
+        "title": "2026 VTEC Annual Conference",
+        "publisher": "Virginia Tribal Education Consortium",
+        "scope": "The published conference page describes the program’s focus and provides the Virginia office location.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "VTEC",
+      "Tribal education Virginia"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "chickahominy-indian-tribe",
+      "pamunkey",
+      "upper-mattaponi-indian-tribe"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    },
+    "overview": "The Virginia Tribal Education Consortium describes education and career support for Native youth and tribal citizens in Virginia. Its programs include student resources and professional learning for educators.",
+    "overviewSourceIds": [
+      "s-va-virginia-tribal-education-consortium-1-20261125",
+      "s-va-virginia-tribal-education-consortium-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-virginia-tribal-education-consortium-1-20261125",
+        "title": "About VTEC",
+        "url": "https://www.vtecinc.org/about-vtec",
+        "publisher": "Virginia Tribal Education Consortium",
+        "type": "Organization’s own account",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "Read the consortium’s description of its education, training, and youth support.",
+        "contentReviewScope": "Read the consortium’s description of its education, training, and youth support.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-va-virginia-tribal-education-consortium-2-20261125",
+        "title": "2026 VTEC Annual Conference",
+        "url": "https://www.vtecinc.org/copy-of-2025-conference",
+        "publisher": "Virginia Tribal Education Consortium",
+        "type": "Organization’s public program",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "The published conference page describes the program’s focus and provides the Virginia office location.",
+        "contentReviewScope": "The published conference page describes the program’s focus and provides the Virginia office location.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the consortium’s explanation of its mission and whom it serves. Its 2026 conference page gives an example of its education and community programming.",
+        "sourceIds": [
+          "s-va-virginia-tribal-education-consortium-1-20261125",
+          "s-va-virginia-tribal-education-consortium-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false
+  },
+  {
+    "name": "Chesepiooc",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Historical named Indigenous village",
+    "region": "Virginia",
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://irma.nps.gov/DataStore/FileSource/Get/2302281?filename=COLO_Cape+Henry+Memorial_CLI+Park+Report_2023.pdf",
+        "title": "Cape Henry Memorial Cultural Landscapes Inventory",
+        "publisher": "National Park Service",
+        "scope": "See the historical context section’s discussion of Chesepiooc in early cartography around Cape Henry.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://department.va.gov/construction-and-facilities-management/wp-content/uploads/sites/57/2026/01/Virginia-Beach-OPC-Final-EA-Appendices.pdf",
+        "title": "Virginia Beach Outpatient Clinic Environmental Assessment Appendices",
+        "publisher": "U.S. Department of Veterans Affairs",
+        "scope": "The historical background describes the probable Lynnhaven River setting.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Virginia Beach historical village",
+      "Lynnhaven historical geography"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    },
+    "overview": "The National Park Service discusses Chesepiooc as an Indigenous village depicted on early maps in the area of present-day Virginia Beach. A federal cultural resources report describes the village as probably connected to the Lynnhaven River.",
+    "overviewSourceIds": [
+      "s-va-chesepiooc-1-20261125",
+      "s-va-chesepiooc-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-va-chesepiooc-1-20261125",
+        "title": "Cape Henry Memorial Cultural Landscapes Inventory",
+        "url": "https://irma.nps.gov/DataStore/FileSource/Get/2302281?filename=COLO_Cape+Henry+Memorial_CLI+Park+Report_2023.pdf",
+        "publisher": "National Park Service",
+        "type": "Cultural landscape research report",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "See the historical context section’s discussion of Chesepiooc in early cartography around Cape Henry.",
+        "contentReviewScope": "See the historical context section’s discussion of Chesepiooc in early cartography around Cape Henry.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-va-chesepiooc-2-20261125",
+        "title": "Virginia Beach Outpatient Clinic Environmental Assessment Appendices",
+        "url": "https://department.va.gov/construction-and-facilities-management/wp-content/uploads/sites/57/2026/01/Virginia-Beach-OPC-Final-EA-Appendices.pdf",
+        "publisher": "U.S. Department of Veterans Affairs",
+        "type": "Cultural resources assessment",
+        "topics": [
+          "Virginia"
+        ],
+        "annotation": "The historical background describes the probable Lynnhaven River setting.",
+        "contentReviewScope": "The historical background describes the probable Lynnhaven River setting.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The National Park Service inventory discusses the early map evidence. The federal assessment explains why the Lynnhaven connection remains an interpretation of historical geography.",
+        "sourceIds": [
+          "s-va-chesepiooc-1-20261125",
+          "s-va-chesepiooc-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false
   }
 ]
