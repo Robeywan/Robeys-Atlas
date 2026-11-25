@@ -10,8 +10,11 @@ export function buildMap({cwd,profiles,e,document,write}) {
   const regions=boundaries.features.map(f=>({...f.properties,id:f.id||f.properties.code,name:(f.id||f.properties.code)==='US-DC'?'District of Columbia':f.properties.name,key:norm(f.id||f.properties.code),feature:f})).sort((a,b)=>a.group.localeCompare(b.group)||a.name.localeCompare(b.name));
   const byId=new Map(regions.map(r=>[r.id,r]));
   const {associations,gapBySlug}=resolveMapConnections({profiles,regions,index,gaps});
+  const guideConnections=new Map();
   const profileProgress=profiles.map(p=>{
     const connections=associations.filter(a=>a.profile.slug===p.slug);
+    const forGuide=connections.filter(a=>a.showSourcesInGuide===true);
+    if(forGuide.length)guideConnections.set(p.slug,forGuide);
     p.mapRegions=[...new Set(connections.map(a=>a.regionId))].map(id=>({id,name:byId.get(id).name,key:byId.get(id).key})).sort((a,b)=>a.name.localeCompare(b.name));
     return {originalId:p.originalId||null,name:p.name,slug:p.slug,regions:p.mapRegions,status:p.mapRegions.length?'Has sourced regional connection':'Awaiting regional evidence',connectionRecords:connections.length,coverageNote:'A regional connection is not a complete homeland or population account. Directory names may overlap.',reviewedAt:latestConnectionReviewAt(connections),...(gapBySlug.has(p.slug)?{regionalConnectionGap:gapBySlug.get(p.slug).reason}:{})};
   });
@@ -25,6 +28,23 @@ export function buildMap({cwd,profiles,e,document,write}) {
   }
   const note='These are starting lists, not a complete census. Modern borders help you navigate; they are not Indigenous homeland boundaries. A connection may be historical or present-day and does not imply presence throughout a region.';
   const label=type=>({'present-community':'Present community connection','language-community':'Language community connection','historical-origin':'Historical origin','historical-homeland':'Historical homeland connection','historical-presence':'Historical connection','historical-name-use':'Historical name use'}[type]||type.replaceAll('-',' '));
+
+  const profileSources=p=>{
+    const connections=guideConnections.get(p.slug);
+    if(!connections?.length)return '';
+    const items=connections.map(a=>{
+      const region=byId.get(a.regionId);
+      const urls=[...new Set([a.sourceUrl,...(a.supportingSourceUrls||[])])];
+      const links=urls.map(url=>{
+        const title=url===a.sourceUrl&&a.sourceTitle
+          ||p.sources.find(source=>source.url===url)?.title
+          ||'Supporting source from '+new URL(url).hostname.replace(/^www\./,'');
+        return `<li><a href="${e(url)}" target="_blank" rel="noopener noreferrer">${e(title)}</a></li>`;
+      });
+      return `<li><h3><a href="../../index.html?place=${e(region.id)}#map">${e(region.name)}</a> · ${e(label(a.associationType))}</h3><p>${e(a.evidenceNote)}</p><ul>${links.join('')}</ul></li>`;
+    });
+    return `<section id="regional-sources"><h2>Sources for map connections</h2><ul>${items.join('')}</ul></section>`;
+  };
   const evidence=a=>`<div class="map-evidence-item"><strong>${e(label(a.associationType))}</strong><p>${e(a.evidenceNote)}</p><p>${e(a.period||'Period described in the linked source')}. Reviewed ${e(a.reviewDate||index.reviewedAt)}.</p><a href="${e(a.sourceUrl)}" target="_blank" rel="noopener noreferrer">Read the supporting source ↗</a>${(a.supportingSourceUrls||[]).map((url,i)=>` · <a href="${e(url)}" target="_blank" rel="noopener noreferrer">Supporting source ${i+1} ↗</a>`).join('')}</div>`;
   const results=(r,base='')=>`<div class="map-result-heading"><span class="eyebrow">Explore a place</span><h3>${e(r.name)}</h3><p>${r.items.length?`${r.items.length} directory ${r.items.length===1?'entry':'entries'} · Research in progress`:'Regional research is still being assembled.'}</p></div>${r.items.length?`<ul class="map-nations">${r.items.map(a=>`<li><a href="${base}nations/${a.profile.slug}/"><span>${e(a.profile.name)}</span><span aria-hidden="true">↗</span></a><span class="map-association">${[...new Set(a.connections.map(c=>label(c.associationType)))].map(e).join(' · ')}</span><details class="map-evidence"><summary>Connection &amp; source</summary>${a.connections.map(evidence).join('')}</details></li>`).join('')}</ul>`:'<p class="map-empty">No reviewed connections have been added here yet. This does not mean Indigenous peoples are absent. You can still explore the full directory while this regional index grows.</p>'}<p class="map-result-note">${e(note)} Directory names can overlap; the profiles explain their relationships.</p><a class="map-directory-link" href="${base}index.html#directory">Explore the full directory →</a>`;
   // Spherical Albers equal-area projection, standard parallels 20° and 60° N.
@@ -65,5 +85,5 @@ export function buildMap({cwd,profiles,e,document,write}) {
   write('data/map-profile-progress.json',JSON.stringify(profileProgress,null,2));
   const coverageRows=items=>`<ul class="map-coverage-list">${items.map(p=>`<li><a href="../../nations/${p.slug}/">${e(p.name)}</a><span>${p.regions.length?p.regions.map(r=>`<a href="../${r.key}/">${e(r.name)}</a>`).join(' · '):e(p.regionalConnectionGap||'Regional connection awaiting evidence')}</span></li>`).join('')}</ul>`;
   write('regions/coverage/index.html',document('Connecting every entry to the map','Track sourced regional connections for every directory entry.',`<main id="main" class="wrap"><section class="page-hero"><div class="eyebrow">The next map milestone</div><h1>Connecting every entry.</h1><p>${report.linkedProfiles} of ${profiles.length} directory entries have a sourced regional connection. ${report.entriesAwaitingMap} await supported regional connections. Every region shown on the map can be opened. The gaps below describe the evidence still needed for particular entries. This tracks access points, including related names and umbrella labels, rather than counting distinct nations.</p><p>Each region link reflects a place or period supported by the cited source. One directory entry can appear in several regions.</p><a href="../../index.html#map">← Interactive map</a> · <a href="#awaiting">Entries awaiting connections</a></section><section id="awaiting" class="map-coverage-section"><h2>Awaiting regional evidence (${report.entriesAwaitingMap})</h2><p>These entries remain in the directory. Missing map connections reflect unfinished research, not an absence of Indigenous history.</p>${coverageRows(profileProgress.filter(p=>!p.regions.length))}</section><section class="map-coverage-section"><h2>Connected to regions (${report.linkedProfiles})</h2><p>Open a region to see the period, community scope and supporting publication.</p>${coverageRows(profileProgress.filter(p=>p.regions.length))}</section></main>`,'../../'));
-  return {home,report};
+  return {home,report,profileSources};
 }
