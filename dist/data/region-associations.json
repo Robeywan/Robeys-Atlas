@@ -1070,7 +1070,10 @@
       "period": "Centuries before removal; source updated August 2026",
       "sourceUrl": "https://cherokee.gov/about-the-nation/frequently-asked-questions/history/",
       "evidenceNote": "Nation FAQ identifies western North Carolina as part of earlier homelands; partial-state connection.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true,
+      "sourceTitle": "Cherokee Nation History FAQ — navigation context",
+      "sourcePublisher": "cherokee.gov"
     },
     {
       "regionId": "US-KY",
@@ -1236,7 +1239,8 @@
       "period": "Historical and continuing; inspected 2026-10-21",
       "sourceUrl": "https://catawba.com/about-the-nation",
       "evidenceNote": "Nation identifies Piedmont North Carolina in ancestral lands; regional, not whole-state, scope.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-VA",
@@ -4024,7 +4028,10 @@
       "sourceUrl": "https://www.lumbeetribe.com/history-and-culture",
       "evidenceNote": "Actual tribal history opening explicitly identifies southeastern North Carolina and Lumbee River homeland; recognition and population claims are outside this map review.",
       "reviewDate": "2026-10-21",
-      "originalId": 188
+      "originalId": 188,
+      "showSourcesInGuide": true,
+      "sourceTitle": "History and Culture",
+      "sourcePublisher": "Lumbee Tribe of North Carolina"
     },
     {
       "regionId": "US-CA",
@@ -4365,7 +4372,9 @@
       "evidenceNote": "The Nation publishes its tribal grounds and mailing address in Ahoskie, North Carolina. This is a present community connection, not an assertion that the listed address marks all ancestral Meherrin territory.",
       "reviewedScope": "Connect: mailing address and Meherrin Tribal Grounds",
       "reviewDate": "2026-10-21",
-      "originalId": 207
+      "originalId": 207,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "Meherrin Indian Nation"
     },
     {
       "regionId": "US-OK",
@@ -5307,7 +5316,9 @@
       "limits": [
         "Historical state connection only. Related Siouan peoples and contemporary descendant governments are not interchangeable.",
         "No archaeological site coordinates or exclusive territorial outline are reproduced."
-      ]
+      ],
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Division of Parks and Recreation"
     },
     {
       "regionId": "US-PA",
@@ -5379,6 +5390,10 @@
         "Indexed text inspection, not a claimed successful direct fetch, is disclosed.",
         "The 2006 essay is not a current recognition-status or descendant-community assessment.",
         "Specific village, archaeological and burial locations are omitted."
+      ],
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://irma.nps.gov/DataStore/FileSource/Get/2296791?filename=CAHA_Cape+Hatteras+Light+Station_CLI+Update_final_12282022.pdf"
       ]
     },
     {
@@ -6167,7 +6182,8 @@
         "Archaeological site attribution, disappearance assertions and equivalence with Tuscarora, Machapunga or Neusiok are not adopted.",
         "No burial information or site coordinates are reproduced."
       ],
-      "supportingSourceUrls": []
+      "supportingSourceUrls": [],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-OK",
@@ -6849,7 +6865,9 @@
         "Statements about destruction, enslavement or absorption following war are not adopted as proof of disappearance or current identity."
       ],
       "accessNotes": "The state’s actual October 2026 meeting page linked this live PDF. An older municipal-hosted September 2025 path returned 404 and is not used.",
-      "supportingSourceUrls": []
+      "supportingSourceUrls": [],
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina State Historic Preservation Office"
     },
     {
       "regionId": "US-FL",
@@ -12413,7 +12431,9 @@
       "evidenceNote": "High Plains / Halifax County, Virginia and Person County, North Carolina. Only the named community’s explicit locality is used; not all-resident ethnicity, jurisdiction, land title or territorial boundaries.",
       "reviewedScope": "Selected Sappony heading98, High Plains cross-border geography100–102, Virginia locality108 and linked community site111. Current member totals, officeholders and other tribes’ relationship narratives excluded.",
       "reviewDate": "2026-11-02",
-      "identityOnly": true
+      "identityOnly": true,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration, Commission of Indian Affairs"
     },
     {
       "name": "Saponi",
@@ -12439,7 +12459,9 @@
       "evidenceNote": "Historical Virginia–North Carolina Piedmont contexts. A qualified historical reading label, not a current government, fixed territory, language affiliation, ancestry or disappearance finding.",
       "reviewedScope": "PDF pp.1,3,15–18,22–24 selected identity/geography/naming paragraphs; reader lines440–508,556–633,667–669,946–965,1022–1036. No claim of full-page/full-report reading.",
       "reviewDate": "2026-11-02",
-      "identityOnly": true
+      "identityOnly": true,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "College of William & Mary Department of Anthropology; Virginia Department of Historic Resources"
     },
     {
       "name": "Tutelo",
@@ -12465,7 +12487,9 @@
       "evidenceNote": "Historical Virginia upper Roanoke/Salem and wider Virginia–North Carolina contexts. A qualified historical reading label, not a current government, fixed territory, language affiliation, ancestry or disappearance finding.",
       "reviewedScope": "PDF pp.1,3,15–18,22–24 selected identity/geography/naming paragraphs; reader lines440–508,556–633,667–669,946–965,1022–1036. No claim of full-page/full-report reading.",
       "reviewDate": "2026-11-02",
-      "identityOnly": true
+      "identityOnly": true,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "College of William & Mary Department of Anthropology; Virginia Department of Historic Resources"
     },
     {
       "name": "Occaneechi",
@@ -12491,7 +12515,9 @@
       "evidenceNote": "Historical Roanoke River and Virginia–North Carolina Piedmont contexts. A qualified historical reading label, not a current government, fixed territory, language affiliation, ancestry or disappearance finding.",
       "reviewedScope": "PDF pp.1,3,15–18,22–24 selected identity/geography/naming paragraphs; reader lines440–508,556–633,667–669,946–965,1022–1036. No claim of full-page/full-report reading.",
       "reviewDate": "2026-11-02",
-      "identityOnly": true
+      "identityOnly": true,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "College of William & Mary Department of Anthropology; Virginia Department of Historic Resources"
     },
     {
       "name": "Manahoac",
@@ -12517,7 +12543,12 @@
       "evidenceNote": "Verified government office locality in Cherokee, North Carolina only. Not a jurisdiction, territory, boundary, membership or all-resident ethnicity claim.",
       "reviewedScope": "Actual exact-name heading and selected government/self-location clauses, web-reader lines 91–95: names the Eastern Band of Cherokee Indians, describes its own government and identifies Cherokee, North Carolina. Official contact town independently appears at lines 135–137. Only narrow name/kind/location used.",
       "reviewDate": "2026-11-02",
-      "identityOnly": true
+      "identityOnly": true,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "Eastern Band of Cherokee Indians",
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf"
+      ]
     },
     {
       "name": "Paspahegh",
@@ -12750,7 +12781,13 @@
       "reviewDate": "2026-11-06",
       "identityOnly": true,
       "inspectionNote": "First concrete empty-outline/navigation comparison from retained originals; no new access. Earlier source-proof recordedAt and root curation/owner-facing dates remain unchanged historical records.",
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "Coharie Tribe",
+      "supportingSourceUrls": [
+        "https://coharietribe.org/contact/",
+        "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes"
+      ]
     },
     {
       "name": "Haliwa-Saponi Indian Tribe",
@@ -12763,7 +12800,12 @@
       "reviewedScope": "Identity only: exact institutional self-name phrase in received37, footer name76 and town/state contact47. About heading34 supports named tribal-community/institution framing. All recognized/governance/officeholder/citizenship/quantity/distance/ancestry/history and media clauses are excluded.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "Haliwa-Saponi Indian Tribe (displayed institutional self-label)",
+      "supportingSourceUrls": [
+        "https://www.dncr.nc.gov/blog/2023/12/14/haliwa-saponi-indian-tribe-e-130"
+      ]
     },
     {
       "name": "Waccamaw Siouan Tribe",
@@ -12776,7 +12818,9 @@
       "reviewedScope": "Identity only: exact agency heading 47497–47527 and town/state token 48916–48926 in retained HTML SHA5610ac64…. The original was retained in the Nov2 research packet; this is a Nov6 identity-only comparison, not a new agency retrieval or body review. No recognition/legal/government/status, ancestry, affiliation, totals, current office, practical/ritual/history or image finding.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration, Commission of Indian Affairs"
     },
     {
       "regionId": "CA-PE",
@@ -12818,7 +12862,12 @@
       "reviewedScope": "Retained HTMLheading44064–44109 and NC mailing-state token in that same contactblock only. No ancestry/recognition/legal/closure/officeholder/service/address/phone/media content adopted.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration, Commission of Indian Affairs",
+      "supportingSourceUrls": [
+        "https://visithillsboroughnc.com/things-to-do/replicavillage/"
+      ]
     },
     {
       "name": "Catawba Nation",
@@ -12935,7 +12984,9 @@
       "reviewedScope": "Name19/21 and first county-setting clause21 only; NC state tokens25/26 only. Website29 is an unopened cue, not another original body or a repeated full-name statement. Legal/referral sentence21 and all remaining history, staff, services, teaching, precise contacts and media are excluded.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration (agency roster)"
     },
     {
       "regionId": "US-MD",
@@ -12966,7 +13017,8 @@
       "reviewedScope": "Only the broad North Carolina historical-setting phrase in the first sentence of the already selected reference. Extent, colonial dating, later narrative, ancestry, wordforms, language materials and media are outside this navigation decision.",
       "reviewDate": "2026-11-06",
       "countsTowardMinimum": false,
-      "inspectionNote": "Navigation-only comparison of retained text. The existing source-content review of October 28, 2026 remains unchanged; no fresh source access or body-review credit."
+      "inspectionNote": "Navigation-only comparison of retained text. The existing source-content review of October 28, 2026 remains unchanged; no fresh source access or body-review credit.",
+      "showSourcesInGuide": true
     },
     {
       "name": "Cumberland County Association for Indian People",
@@ -12979,7 +13031,13 @@
       "reviewedScope": "The repeated institutional name and NC state token only. All incorporation, recognition or governing claims, programs, staff, exact contacts, history, ancestry, language or teaching material and media are outside this selection.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration (agency roster)",
+      "supportingSourceUrls": [
+        "https://ofccp-apps.dol.gov/node/325770",
+        "https://www.doa.nc.gov/boards-commissions/commission-indian-affairs"
+      ]
     },
     {
       "name": "Triangle Native American Society",
@@ -12992,7 +13050,13 @@
       "reviewedScope": "The repeated institutional name and NC state token only. All incorporation, recognition or governing claims, programs, staff, exact contacts, history, ancestry, language or teaching material and media are outside this selection.",
       "reviewDate": "2026-11-06",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration (agency roster)",
+      "supportingSourceUrls": [
+        "https://dorotheadixpark.org/event/inter-tribal-pow-wow",
+        "https://www.doa.nc.gov/boards-commissions/commission-indian-affairs"
+      ]
     },
     {
       "name": "Choptank People",
@@ -13022,7 +13086,13 @@
       "reviewDate": "2026-11-06",
       "identityOnly": true,
       "countsTowardMinimum": false,
-      "inspectionNote": "New narrow identification/navigation comparison of the retained agency original; no request or linked-site follow and no reading-source/work credit. The source-specific held homepage result is unchanged."
+      "inspectionNote": "New narrow identification/navigation comparison of the retained agency original; no request or linked-site follow and no reading-source/work credit. The source-specific held homepage result is unchanged.",
+      "showSourcesInGuide": true,
+      "sourcePublisher": "North Carolina Department of Administration (agency roster)",
+      "supportingSourceUrls": [
+        "https://www.doa.nc.gov/boards-commissions/commission-indian-affairs",
+        "https://www.doa.nc.gov/cia/indian-affairs-annual-report-2024-2025-accessible/download?attachment="
+      ]
     },
     {
       "name": "NH Intertribal Native American Council",
@@ -13170,7 +13240,12 @@
       "reviewDate": "2026-11-07",
       "countsTowardMinimum": false,
       "associationType": "Displayed footer-state — identity-only navigation",
-      "identityOnly": true
+      "identityOnly": true,
+      "showSourcesInGuide": true,
+      "sourcePublisher": "Tuscarora Nation of North Carolina (page self-label)",
+      "supportingSourceUrls": [
+        "https://www.tuscaroranationnc.com/news-"
+      ]
     },
     {
       "originalId": null,
@@ -16374,7 +16449,14 @@
       "reviewDate": "2026-11-18",
       "underlyingReviewDate": "2026-11-08",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourceTitle": "Hawkeye Indian Cultural Center — UNCP Serve naming only",
+      "sourcePublisher": "UNCP Serve",
+      "supportingSourceUrls": [
+        "https://www.firstnations.org/grantee-profiles/hawkeye-indian-cultural-center-inc/",
+        "https://www.firstnations.org/wp-content/uploads/2018/12/2014-FNDI-IRS-Form-990.pdf"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -16386,7 +16468,13 @@
       "reviewDate": "2026-11-18",
       "underlyingReviewDate": "2026-11-08",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourceTitle": "United Tribes of North Carolina — North Carolina Department of Administration naming only",
+      "sourcePublisher": "North Carolina Department of Administration",
+      "supportingSourceUrls": [
+        "https://www.doa.nc.gov/news/events/nc-indian-unity-conference-2026"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -16398,7 +16486,13 @@
       "reviewDate": "2026-11-18",
       "underlyingReviewDate": "2026-11-09",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourceTitle": "Cape Fear Band of Skarure Woccon Indians — selected English naming only",
+      "sourcePublisher": "Cape Fear Band of Skarure Woccon Indians website self-presentation",
+      "supportingSourceUrls": [
+        "https://www.skarurewoccon.com/harvest-gathering"
+      ]
     },
     {
       "regionId": "US-OK",
@@ -16466,7 +16560,12 @@
       "evidenceNote": "NPS lists this community name in its western North Carolina description. This is a geographical navigation reference; population, political status, boundaries and cultural claims were not assessed.",
       "reviewDate": "2026-11-18",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "https://www.ebci.gov/election-board/"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -16477,7 +16576,12 @@
       "evidenceNote": "NPS lists this community name in its western North Carolina description. This is a geographical navigation reference; population, political status, boundaries and cultural claims were not assessed.",
       "reviewDate": "2026-11-18",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "https://www.ebci.gov/election-board/"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -16488,7 +16592,12 @@
       "evidenceNote": "NPS lists this community name in its western North Carolina description. This is a geographical navigation reference; population, political status, boundaries and cultural claims were not assessed.",
       "reviewDate": "2026-11-18",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "https://theonefeather.com/cherokee-community-clubs-2/"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -16499,7 +16608,12 @@
       "evidenceNote": "NPS lists this community name in its western North Carolina description. This is a geographical navigation reference; population, political status, boundaries and cultural claims were not assessed.",
       "reviewDate": "2026-11-18",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "https://phhs.ebci-nsn.gov/tsalagi-public-health/"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -16510,7 +16624,12 @@
       "evidenceNote": "NPS lists this community name in its western North Carolina description. This is a geographical navigation reference; population, political status, boundaries and cultural claims were not assessed.",
       "reviewDate": "2026-11-18",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "https://www.ebci.gov/election-board/"
+      ]
     },
     {
       "regionId": "US-CT",
@@ -16530,12 +16649,15 @@
       "period": "Geographical account in the displayed March 2025 first-printing educational source; navigation reviewed 2026-11-18",
       "sourceUrl": "https://www.usetinc.org/wp-content/uploads/2025/03/2025-USET-USET-SPF-educational-book.pdf",
       "supportingSourceUrls": [
-        "https://www.nps.gov/grsm/learn/historyculture/cherokee.htm"
+        "https://www.nps.gov/grsm/learn/historyculture/cherokee.htm",
+        "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "https://phhs.ebci-nsn.gov/tsalagi-public-health/"
       ],
       "evidenceNote": "USET's EBCI location paragraph includes Big Y within the Qualla Boundary; NPS places that area in western North Carolina. This supports state navigation. Boundaries, membership, political status and broader cultural claims were not assessed.",
       "reviewDate": "2026-11-18",
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-MD",
@@ -34297,6 +34419,150 @@
       "sourceTitle": "Winchester Historic District — National Register nomination",
       "sourcePublisher": "Virginia Department of Historic Resources",
       "evidenceNote": "Virginia’s Winchester Historic District nomination records a Shawnee village near Shawnee Springs in present-day Winchester.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Big Cove",
+      "associationType": "Named Eastern Band of Cherokee Indians community",
+      "period": "Tribal community and public facility listings",
+      "sourceUrl": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+      "sourceTitle": "2023 Tribal Health Assessment — Our Community",
+      "sourcePublisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+      "evidenceNote": "The Eastern Band names Big Cove as one of its communities and lists a Big Cove community center near Cherokee, North Carolina.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/tsalagi-public-health/"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Cherokee County Community",
+      "associationType": "Named Eastern Band of Cherokee Indians community",
+      "period": "Tribal community and public facility listings",
+      "sourceUrl": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+      "sourceTitle": "2023 Tribal Health Assessment — Our Community",
+      "sourcePublisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+      "evidenceNote": "The Eastern Band identifies Cherokee County Community and lists its named community club in Marble, North Carolina.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://phhs.ebci-nsn.gov/tsalagi-public-health/"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Towstring",
+      "associationType": "Named Eastern Band of Cherokee Indians community",
+      "period": "Tribal community and federal project-location listings",
+      "sourceUrl": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+      "sourceTitle": "2023 Tribal Health Assessment — Our Community",
+      "sourcePublisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+      "evidenceNote": "The Eastern Band’s community list and the federal transportation record support a North Carolina connection in the Cherokee area.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://highways.dot.gov/federal-lands/tribal/planning/eastern-region-ttptip.pdf"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Joara",
+      "associationType": "Historical Indigenous town",
+      "period": "Indigenous town documented in the sixteenth century",
+      "sourceUrl": "https://www.cambridge.org/core/journals/antiquity-project-gallery/article/joara-and-fort-san-juan-culture-contact-at-the-edge-of-the-world/F016D36C026316DFEBBCC46B48C67558",
+      "sourceTitle": "Joara and Fort San Juan: culture contact at the edge of the world",
+      "sourcePublisher": "Antiquity",
+      "evidenceNote": "The archaeological study identifies Joara at the Berry Site in the upper Catawba Valley of present-day North Carolina.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://exploringjoara.org/visit/"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Town Creek Indian Mound State Historic Site",
+      "associationType": "Public historic site interpreting Indigenous history",
+      "period": "Historical Indigenous site and present public interpretation",
+      "sourceUrl": "https://historicsites.nc.gov/all-sites/town-creek-indian-mound/plan-your-visit",
+      "sourceTitle": "Town Creek Indian Mound — Plan Your Visit",
+      "sourcePublisher": "North Carolina State Historic Sites",
+      "evidenceNote": "North Carolina State Historic Sites places this Indigenous historic site along the Little River near Mount Gilead.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Museum of the Cherokee People",
+      "associationType": "Tribal museum and public cultural resource",
+      "period": "Museum established in 1948 and its public programs",
+      "sourceUrl": "https://motcp.org/",
+      "sourceTitle": "Museum of the Cherokee People",
+      "sourcePublisher": "Museum of the Cherokee People",
+      "evidenceNote": "The museum places itself in Cherokee, North Carolina, on the Qualla Boundary and describes its public interpretation.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Museum of the Southeast American Indian",
+      "associationType": "University museum and public cultural resource",
+      "period": "Public museum and exhibits in historic Old Main",
+      "sourceUrl": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/",
+      "sourceTitle": "Museum of the Southeast American Indian",
+      "sourcePublisher": "University of North Carolina at Pembroke",
+      "evidenceNote": "UNC Pembroke identifies the museum in historic Old Main in Pembroke, North Carolina.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/visit.html"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Catawba Nation",
+      "associationType": "Present-day service area and institutional connection",
+      "period": "Contemporary state directory and tribal institutional account",
+      "sourceUrl": "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes",
+      "sourceTitle": "NC Tribal Communities",
+      "sourcePublisher": "North Carolina Department of Administration",
+      "evidenceNote": "The North Carolina state directory reports that the Catawba Nation’s service area includes North Carolina and identifies its Kings Mountain enterprise. Its headquarters are near Rock Hill, South Carolina.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://catawbanation.org/gaming-authority"
+      ]
+    },
+    {
+      "regionId": "US-NC",
+      "name": "Nottoway",
+      "associationType": "Historical migration connection",
+      "period": "Early nineteenth century",
+      "sourceUrl": "https://www.dhr.virginia.gov/wp-content/uploads/2020/09/087-5675_MPD_Nottoway_Tribe_in_VA_2021_MPD_FINAL_nomination.pdf",
+      "sourceTitle": "The Nottoway of Virginia, c. 1650–c. 1953",
+      "sourcePublisher": "Virginia Department of Historic Resources",
+      "evidenceNote": "The Virginia Department of Historic Resources study documents a Nottoway individual’s move from North Carolina to New York in 1802 and describes related migration discussions in Virginia and North Carolina.",
       "reviewDate": "2026-11-25",
       "navigationOnly": true,
       "countsTowardMinimum": false,

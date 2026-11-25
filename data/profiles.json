@@ -111811,15 +111811,55 @@
     "added": true,
     "compiledAt": "2026-10-28",
     "kind": "Named tribal government",
-    "region": "United States — current government outline; geographic scope awaiting separate review",
-    "overview": "Catawba Nation has an individually findable government outline. Detailed history, an annotated reading collection and specifically relevant cleared imagery are queued.",
+    "region": "Rock Hill area, South Carolina, and a documented Kings Mountain connection in North Carolina",
+    "overview": "The North Carolina tribal directory places the Catawba Nation’s headquarters near Rock Hill, South Carolina. It also identifies the Nation’s service-area connection and tribally operated enterprise in Kings Mountain, North Carolina.",
     "relationshipNote": "This named current government has its own route, related to the broader Catawba reading label. The broader people and this government are not treated as interchangeable, and the outline makes no membership, jurisdiction or representation claim for all Catawba people.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-catawba-nation-1-20261125",
+        "title": "NC Tribal Communities",
+        "url": "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes",
+        "publisher": "North Carolina Department of Administration",
+        "type": "State tribal directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "See the Catawba Nation entry for its South Carolina headquarters and its North Carolina service and enterprise connection.",
+        "contentReviewScope": "See the Catawba Nation entry for its South Carolina headquarters and its North Carolina service and enterprise connection.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-catawba-nation-2-20261125",
+        "title": "Gaming Authority",
+        "url": "https://catawbanation.org/gaming-authority",
+        "publisher": "Catawba Nation",
+        "type": "Tribal institutional account",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Nation describes its Gaming Authority and the Kings Mountain project.",
+        "contentReviewScope": "The Nation describes its Gaming Authority and the Kings Mountain project.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the state tribal directory for the Nation’s headquarters and service area. The Nation’s Gaming Authority page gives its own account of the Kings Mountain project.",
+        "sourceIds": [
+          "s-nc-catawba-nation-1-20261125",
+          "s-nc-catawba-nation-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-10-28",
     "identificationEvidence": [
       {
@@ -111859,19 +111899,20 @@
       }
     ],
     "researchGaps": [
-      "Develop a government-specific, community-led historical introduction and annotated reading path.",
-      "Identify and inspect specifically relevant imagery and exact media reuse terms.",
-      "Review detailed relationships with other communities and historical naming changes.",
-      "Review geographic navigation connections separately; no map association is inferred from a broad people label."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only outline; identification evidence is not a substantive reading-source collection or adequacy assessment.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "History, annotated sources, individually scoped imagery and geographic associations remain queued."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-catawba-nation-1-20261125",
+      "s-nc-catawba-nation-2-20261125"
+    ]
   },
   {
     "name": "Cherokee Nation",
@@ -121807,15 +121848,55 @@
     "added": true,
     "compiledAt": "2026-11-02",
     "kind": "Named tribal government / community",
-    "region": "North Carolina / Cherokee",
-    "overview": "Eastern Band of Cherokee Indians has an individually findable government outline. Detailed history, annotated reading sources and specifically relevant cleared imagery remain queued.",
+    "region": "Cherokee, western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Cherokee, North Carolina, as its government setting. Its official material provides starting points for reading about the government and its local communities.",
     "relationshipNote": "This specifically named government is distinct from Cherokee Nation and the United Keetoowah Band of Cherokee Indians in Oklahoma. The broader Cherokee route is a people-level reading context, not a substitute for the separate governments or a statement about every Cherokee person. Name and narrow office locality are verified here; present citizenship, jurisdiction, territorial boundaries and historical descent require separate evidence.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-eastern-band-of-cherokee-indians-1-20261125",
+        "title": "Government",
+        "url": "https://www.ebci.gov/government/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Official tribal government information",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Tribe’s overview describes the Cherokee government setting.",
+        "contentReviewScope": "The Tribe’s overview describes the Cherokee government setting.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-eastern-band-of-cherokee-indians-2-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The opening community overview names its local communities.",
+        "contentReviewScope": "The opening community overview names its local communities.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Begin with the Tribe’s government page for its public government information. The Tribal Health Assessment’s Our Community section introduces the local communities named by the Eastern Band.",
+        "sourceIds": [
+          "s-nc-eastern-band-of-cherokee-indians-1-20261125",
+          "s-nc-eastern-band-of-cherokee-indians-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-02",
     "identificationEvidence": [
       {
@@ -121856,20 +121937,20 @@
     ],
     "communityReview": "Not recorded",
     "researchGaps": [
-      "Develop a government-specific, community-directed history and annotated reading path; identification evidence is not a substantive bibliography.",
-      "Find and inspect specifically relevant imagery and exact item-specific reuse terms before any substantive guide publication.",
-      "Review detailed relationships and historical naming separately; no present ancestry, membership, territorial or legal-power determination is supplied."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only government outline. No substantive source/section review or image clearance represented.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Develop a government-specific, community-directed history and annotated reading path; identification evidence is not a substantive bibliography.",
-        "Find and inspect specifically relevant imagery and exact item-specific reuse terms before any substantive guide publication.",
-        "Review detailed relationships and historical naming separately; no present ancestry, membership, territorial or legal-power determination is supplied."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-eastern-band-of-cherokee-indians-1-20261125",
+      "s-nc-eastern-band-of-cherokee-indians-2-20261125"
+    ]
   },
   {
     "name": "Paspahegh",
@@ -123814,15 +123895,55 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named tribal community / institution",
-    "region": "North Carolina — self-described Harnett/Sampson community setting only",
-    "overview": "An identity-only outline for the Coharie Indian Tribe, using its displayed self-name and stated North Carolina community setting. Fuller relationships, historical context and annotated reading sources remain queued.",
+    "region": "Harnett and Sampson counties, North Carolina",
+    "overview": "The North Carolina tribal directory places the Coharie community in Harnett and Sampson counties. The Tribe identifies its public Tribal Center in Clinton.",
     "relationshipNote": "Relationships with Neusiok, Coree and other named communities or historical terms remain unresolved. No parent, ancestry, affiliation, succession, split, alias or equivalence is assigned from the name, geography, submitted studies or this narrow identification. Unresolved relationships do not establish unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Coharie Tribal Center’s contact page gives its Clinton location. The state overview provides the wider Harnett and Sampson County context.",
+        "sourceIds": [
+          "s-nc-coharie-indian-tribe-1-20261125",
+          "s-nc-coharie-indian-tribe-2-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-nc-coharie-indian-tribe-1-20261125",
+        "title": "Contact — Coharie Tribal Center",
+        "url": "https://coharietribe.org/contact/",
+        "publisher": "Coharie Indian Tribe",
+        "type": "Official tribal center directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Tribe lists its Tribal Center in Clinton.",
+        "contentReviewScope": "The Tribe lists its Tribal Center in Clinton.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-coharie-indian-tribe-2-20261125",
+        "title": "NC Tribal Communities",
+        "url": "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes",
+        "publisher": "North Carolina Department of Administration",
+        "type": "State tribal directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The state overview describes the Harnett and Sampson County setting.",
+        "contentReviewScope": "The state overview describes the Harnett and Sampson County setting.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -123840,19 +123961,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop community-directed historical context and an annotated reading collection from selected original sources.",
-      "Review institutional and historical naming relationships before assigning broader labels, parents, related-community links or aliases.",
-      "Neusiok ancestry/equivalence and Coree or other institutional relationships are not established by this identification.",
-      "No community-specific image, recording or reproduction right is approved; imagery remains uninspected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only candidate with no substantive reading-source collection or adequacy assessment.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Historical coverage, fuller relationships, annotated reading and media remain queued."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-coharie-indian-tribe-1-20261125",
+      "s-nc-coharie-indian-tribe-2-20261125"
+    ]
   },
   {
     "name": "Haliwa-Saponi Indian Tribe",
@@ -123860,15 +123982,39 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named tribal community / institution",
-    "region": "North Carolina — Hollister institutional contact setting only",
-    "overview": "An identity-only outline for Haliwa-Saponi Indian Tribe, using the displayed institutional self-label and North Carolina contact setting on its public site. Fuller relationships, selected community history and annotated reading remain queued.",
+    "region": "Hollister and the Meadows, North Carolina",
+    "overview": "North Carolina’s historic marker account identifies the Haliwa-Saponi headquarters in Hollister and describes the community’s work to establish a tribally supported school.",
     "relationshipNote": "Relationships with the separately named Saponi, Sappony, Tutelo, Occaneechi and other communities or historical reading labels remain unassessed. The shared spelling or earlier contextual mentions do not assign a parent, affiliation, ancestry, language, alias or equivalence. Unassessed relationships do not establish unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The state’s historical marker page gives background on the Haliwa-Saponi community’s organizing and educational work in addition to the short roadside inscription.",
+        "sourceIds": [
+          "s-nc-haliwasaponi-indian-tribe-1-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-nc-haliwasaponi-indian-tribe-1-20261125",
+        "title": "Haliwa-Saponi Indian Tribe (E-130)",
+        "url": "https://www.dncr.nc.gov/blog/2023/12/14/haliwa-saponi-indian-tribe-e-130",
+        "publisher": "North Carolina Department of Natural and Cultural Resources",
+        "type": "Historical marker and context",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "Read the public marker and the accompanying account of community organization and education.",
+        "contentReviewScope": "Read the public marker and the accompanying account of community organization and education.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -123896,19 +124042,19 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop individually attributed community-directed historical context and annotated original-source reading; no fixed source count or image prerequisite applies.",
-      "Review explicit institutional and historical-name relationships before assigning aliases, parentage, affiliation or related-community links.",
-      "The selected broad contact setting supports state navigation only; it is not jurisdiction, territory, title, membership, all-resident ethnicity or verified current service coverage.",
-      "Community-specific imagery, audio and exact reuse terms remain uninspected; no media is approved."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only queued outline; no substantive reading-source collection or adequacy assessment.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Historical context, fuller relationships, annotated reading and media remain unfinished."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-haliwasaponi-indian-tribe-1-20261125"
+    ]
   },
   {
     "name": "Waccamaw Siouan Tribe",
@@ -123916,15 +124062,39 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named tribal community / institution",
-    "region": "North Carolina — Bolton institutional contact setting only",
-    "overview": "An identity-only outline for Waccamaw Siouan Tribe, using the named tribal-community entry and North Carolina institutional contact setting in the NC Department of Administration directory. Fuller relationships, selected community history and annotated reading remain queued.",
+    "region": "Bolton and the Green Swamp area, North Carolina",
+    "overview": "The North Carolina tribal directory places the Waccamaw Siouan community near the Green Swamp in Columbus and Bladen counties and lists a tribal office address in Bolton.",
     "relationshipNote": "The agency-listed institutional name is retained as a separately findable route. Relationships with broader or historical Waccamaw labels and other communities remain unassessed. No parent, affiliation, ancestry, language-family relationship, historical-name alias or equivalence is assigned from spelling, geography or an umbrella list; uncertainty does not establish unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Waccamaw Siouan section of the state tribal directory describes the Green Swamp area, the Columbus and Bladen County connection, and the Bolton contact location.",
+        "sourceIds": [
+          "s-nc-waccamaw-siouan-tribe-1-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-nc-waccamaw-siouan-tribe-1-20261125",
+        "title": "NC Tribal Communities",
+        "url": "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes",
+        "publisher": "North Carolina Department of Administration",
+        "type": "State tribal directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Waccamaw Siouan entry identifies the community setting and Bolton location.",
+        "contentReviewScope": "The Waccamaw Siouan entry identifies the community setting and Bolton location.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -123942,20 +124112,19 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "The current candidate is agency-listed, not a verified community self-description; seek a suitable later original only within retained request/hold rules.",
-      "Develop individually attributed community-directed historical context and annotated original-source reading; no fixed source count or image prerequisite applies.",
-      "Review explicit institutional and historical-name relationships before assigning aliases, parentage, affiliation or related-community links.",
-      "The selected broad contact setting supports state navigation only; it is not jurisdiction, territory, title, membership, all-resident ethnicity or verified current service coverage.",
-      "Community-specific imagery, audio and exact reuse terms remain uninspected; no media is approved."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Identity-only queued outline; no substantive reading-source collection or adequacy assessment.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Historical context, fuller relationships, annotated reading and media remain unfinished."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-waccamaw-siouan-tribe-1-20261125"
+    ]
   },
   {
     "name": "Abegweit First Nation",
@@ -124213,15 +124382,55 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named community / institution",
-    "region": "North Carolina — agency-listed mailing-contact state only",
-    "overview": "An identity-only outline for the specifically named Occaneechi Band of the Saponi Nation institution, using the retained agency roster heading and broad North Carolina mailing-contact setting. Historical context, fuller relationships and annotated reading remain unassessed.",
+    "region": "Alamance and Orange County area, North Carolina",
+    "overview": "North Carolina lists the Occaneechi Band of the Saponi Nation in its tribal directory. The modern Occaneechi Village Replica Site in Hillsborough is a related public interpretation site along the Eno River.",
     "relationshipNote": "This institutional identity scope is kept separate from the existing historical Occaneechi reading label. Relationships with historical Occaneechi, Saponi, Tutelo, Sappony, Haliwa-Saponi and other communities or institutions remain unresolved. No parent, alias, affiliation, ancestry, succession, equivalence or unrelatedness is supplied by this name/contact check.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The state directory introduces the Nation. For the reconstructed village on the Eno River, use the separate Hillsborough visitor guide.",
+        "sourceIds": [
+          "s-nc-occaneechi-band-of-the-saponi-nation-1-20261125",
+          "s-nc-occaneechi-band-of-the-saponi-nation-2-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-nc-occaneechi-band-of-the-saponi-nation-1-20261125",
+        "title": "NC Tribal Communities",
+        "url": "https://www.doa.nc.gov/divisions/american-indian-affairs/tribes",
+        "publisher": "North Carolina Department of Administration",
+        "type": "State tribal directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The state directory supplies the modern community context.",
+        "contentReviewScope": "The state directory supplies the modern community context.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-occaneechi-band-of-the-saponi-nation-2-20261125",
+        "title": "Occaneechi Village Replica Site",
+        "url": "https://visithillsboroughnc.com/things-to-do/replicavillage/",
+        "publisher": "Visit Hillsborough",
+        "type": "Local public interpretation",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The local public guide describes the modern reconstructed village in Hillsborough.",
+        "contentReviewScope": "The local public guide describes the modern reconstructed village in Hillsborough.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -124239,20 +124448,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Fuller institutional naming and historical relationships remain unassessed; no automatic parent, alias or related-community assignment.",
-      "Selected reading may be added later; no source-count, history, picture or guide-stage prerequisite conditions identity inclusion.",
-      "No presentlegal/recognition/governmental powers, membership, ancestry, territory/title, officials, service/currentaccess or outcome findings are supplied.",
-      "Existing artist-page integrity and annual-report cache-access holds remain exact and source-specific; no newmedia or rights approval."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Agency-listedinstitutional identity and broadcontactstate only; empty readingcollection and no substantivework credit.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Historical coverage and fuller relationships remain unassessed.",
-        "The retained agency roster is not self-authored institutional history, a presentstatus finding or a currentaccess guarantee."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-occaneechi-band-of-the-saponi-nation-1-20261125",
+      "s-nc-occaneechi-band-of-the-saponi-nation-2-20261125"
+    ]
   },
   {
     "name": "Cabazon Band of Cahuilla Indians",
@@ -124669,15 +124878,55 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named association / institution",
-    "region": "North Carolina — state token in the agency-listed physical-address field only",
-    "overview": "An identity-only directory outline for Cumberland County Association for Indian People, as listed by the North Carolina Department of Administration. Only the listed name and a North Carolina state token are selected. Community self-position, relationships and historical reading remain unassessed; the listing does not verify a current institutional base.",
+    "region": "Fayetteville, North Carolina",
+    "overview": "The U.S. Department of Labor lists the Cumberland County Association for Indian People in Fayetteville. North Carolina’s Commission of Indian Affairs also lists the association among its participating Native organizations.",
     "relationshipNote": "Relationships with broader peoples, named governments, other institutions and historical labels remain unresolved. A shared state, roster or organizational wording does not establish an alias, parent, affiliation, ancestry, succession, equivalence, split or unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-cumberland-county-association-for-indian-people-1-20261125",
+        "title": "Cumberland County Association for Indian People",
+        "url": "https://ofccp-apps.dol.gov/node/325770",
+        "publisher": "U.S. Department of Labor",
+        "type": "Federal organization directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The federal directory identifies the association and its Fayetteville location.",
+        "contentReviewScope": "The federal directory identifies the association and its Fayetteville location.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-cumberland-county-association-for-indian-people-2-20261125",
+        "title": "Commission of Indian Affairs",
+        "url": "https://www.doa.nc.gov/boards-commissions/commission-indian-affairs",
+        "publisher": "North Carolina Department of Administration",
+        "type": "Commission directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The state commission lists the organization’s regional context.",
+        "contentReviewScope": "The state commission lists the organization’s regional context.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the Commission of Indian Affairs roster for the organization’s place among the state’s urban Native organizations and the Department of Labor directory for the Fayetteville listing.",
+        "sourceIds": [
+          "s-nc-cumberland-county-association-for-indian-people-1-20261125",
+          "s-nc-cumberland-county-association-for-indian-people-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -124695,20 +124944,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Community self-position and institutional or historical relationships remain unassessed; no abbreviation or related-community route is assigned.",
-      "Useful individually attributed reading remains to be selected. This empty outline is not an adequacy review or a completed history, and has no fixed source-count or image prerequisite.",
-      "Only the agency-listed name and state token are represented. Current contact accuracy, services, legal or government status, ancestry, affiliation, territory and universal representation are not established.",
-      "Images, audio, practical or teaching content and specific reuse rights remain uninspected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Narrow agency-listed institutional name and state token only; no reading-source collection or substantive adequacy review.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Community self-identification and fuller relationships remain unassessed.",
-        "The state token is an address-field listing, not verified current institutional contact or base, homeland or jurisdiction."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-cumberland-county-association-for-indian-people-1-20261125",
+      "s-nc-cumberland-county-association-for-indian-people-2-20261125"
+    ]
   },
   {
     "name": "Triangle Native American Society",
@@ -124716,15 +124965,55 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named society / institution",
-    "region": "North Carolina — state token in the agency-listed mailing-address field only",
-    "overview": "An identity-only directory outline for Triangle Native American Society, as listed by the North Carolina Department of Administration. Only the listed name and a North Carolina state token are selected. Community self-position, relationships and historical reading remain unassessed; the listing does not verify a current institutional base.",
+    "region": "Raleigh and the Triangle, North Carolina",
+    "overview": "Raleigh’s Dorothea Dix Park names the Triangle Native American Society as a partner in the park’s public Inter-Tribal Pow Wow. The state Commission of Indian Affairs identifies the Society with Wake and surrounding counties.",
     "relationshipNote": "Relationships with broader peoples, named governments, other institutions and historical labels remain unresolved. A shared state, roster or organizational wording does not establish an alias, parent, affiliation, ancestry, succession, equivalence, split or unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-triangle-native-american-society-1-20261125",
+        "title": "Inter-Tribal Pow Wow",
+        "url": "https://dorotheadixpark.org/event/inter-tribal-pow-wow",
+        "publisher": "Dorothea Dix Park",
+        "type": "Public event program",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The park’s event listing identifies its partner and the Harvey Hill venue.",
+        "contentReviewScope": "The park’s event listing identifies its partner and the Harvey Hill venue.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-triangle-native-american-society-2-20261125",
+        "title": "Commission of Indian Affairs",
+        "url": "https://www.doa.nc.gov/boards-commissions/commission-indian-affairs",
+        "publisher": "North Carolina Department of Administration",
+        "type": "Commission directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Commission lists the society’s regional connection.",
+        "contentReviewScope": "The Commission lists the society’s regional connection.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Dix Park event program describes the public Inter-Tribal Pow Wow at Harvey Hill. The Commission of Indian Affairs roster gives the Society’s wider regional context.",
+        "sourceIds": [
+          "s-nc-triangle-native-american-society-1-20261125",
+          "s-nc-triangle-native-american-society-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -124742,20 +125031,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Community self-position and institutional or historical relationships remain unassessed; no abbreviation or related-community route is assigned.",
-      "Useful individually attributed reading remains to be selected. This empty outline is not an adequacy review or a completed history, and has no fixed source-count or image prerequisite.",
-      "Only the agency-listed name and state token are represented. Current contact accuracy, services, legal or government status, ancestry, affiliation, territory and universal representation are not established.",
-      "Images, audio, practical or teaching content and specific reuse rights remain uninspected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Narrow agency-listed institutional name and state token only; no reading-source collection or substantive adequacy review.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Community self-identification and fuller relationships remain unassessed.",
-        "The state token is an address-field listing, not verified current institutional contact or base, homeland or jurisdiction."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-triangle-native-american-society-1-20261125",
+      "s-nc-triangle-native-american-society-2-20261125"
+    ]
   },
   {
     "name": "Choptank People",
@@ -124810,15 +125099,55 @@
     "added": true,
     "compiledAt": "2026-11-06",
     "kind": "Named association / institution",
-    "region": "North Carolina — state token in the agency-listed organization address only",
-    "overview": "An identity-only outline for the agency-listed Metrolina Native American Association. Only the repeated association name and a coarse North Carolina state setting are selected. Fuller institutional relationships, history and annotated reading remain unassessed; the listing does not verify a current institutional base or contact accuracy.",
+    "region": "Charlotte area, North Carolina",
+    "overview": "North Carolina’s Commission of Indian Affairs identifies the Metrolina Native American Association with Mecklenburg and surrounding counties. The commission’s 2024–2025 report gives a Charlotte address for the association.",
     "relationshipNote": "Relationships with broader peoples, governments, historical labels, other associations and websites remain unresolved. No parent, alias, abbreviation, ancestry, succession, affiliation, equivalence, split, unrelatedness or domain/site equivalence is assigned from an agency title, a shared state setting or a hyperlink.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Commission’s 2024–2025 membership directory records the Charlotte listing for that period. The Commission’s roster describes the larger Mecklenburg-area connection.",
+        "sourceIds": [
+          "s-nc-metrolina-native-american-association-1-20261125",
+          "s-nc-metrolina-native-american-association-2-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-nc-metrolina-native-american-association-1-20261125",
+        "title": "Commission of Indian Affairs",
+        "url": "https://www.doa.nc.gov/boards-commissions/commission-indian-affairs",
+        "publisher": "North Carolina Department of Administration",
+        "type": "Commission directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The current commission page identifies the association’s Mecklenburg-area connection.",
+        "contentReviewScope": "The current commission page identifies the association’s Mecklenburg-area connection.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-metrolina-native-american-association-2-20261125",
+        "title": "Commission of Indian Affairs 2024–2025 Annual Report",
+        "url": "https://www.doa.nc.gov/cia/indian-affairs-annual-report-2024-2025-accessible/download?attachment=",
+        "publisher": "North Carolina Department of Administration",
+        "type": "Annual report",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The 2024–2025 membership directory records a Charlotte address.",
+        "contentReviewScope": "The 2024–2025 membership directory records a Charlotte address.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-06",
     "identificationEvidence": [
       {
@@ -124836,20 +125165,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Clarify institutional naming and relationships before assigning aliases, parent, related-community or website-equivalence routes.",
-      "Review useful attributed institutional identification and reading when appropriate; no fixed source count, history or image prerequisite applies to this empty outline.",
-      "The agency-listed NC state token does not verify current contact accuracy/base, legal/government/recognition status, membership, ancestry, territory or programs/services/outcomes.",
-      "Media, recordings and exact reuse terms remain uninspected; precise contact fields are unadopted and their current accuracy is unverified."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Narrow agency-listed association title and coarse state setting only; no substantive reading-source collection or adequacy assessment.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "Institutional self-position and fuller relationships remain unassessed.",
-        "An agency roster is not a present office/service/contact-accuracy verification."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-metrolina-native-american-association-1-20261125",
+      "s-nc-metrolina-native-american-association-2-20261125"
+    ]
   },
   {
     "name": "NH Intertribal Native American Council",
@@ -125229,15 +125558,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named community / institution",
-    "region": "North Carolina — retained institutional footer contact-state cue only; current setting unassessed.",
-    "overview": "An empty identification outline under the self-name Tuscarora Nation of North Carolina, repeated in the retained page’s institutional footer. Only that name and a coarse North Carolina footer contact-state cue are represented; fuller relationships, current setting and annotated reading remain unassessed.",
+    "region": "Maxton, North Carolina",
+    "overview": "The Tuscarora Nation of North Carolina’s public news page announces a powwow at the Tuscarora Powwow Grounds in Maxton.",
     "relationshipNote": "Relationships with the broader Tuscarora people reading route, separately named institutions and historical/community labels remain unresolved. Shared wording, a chronology, state setting or a website does not establish a parent, alias, split, continuity, affiliation, ancestry, equivalence or unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the powwow announcement in the organization’s news archive for the Maxton venue and the activities it advertised.",
+        "sourceIds": [
+          "s-nc-tuscarora-nation-of-north-carolina-1-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-nc-tuscarora-nation-of-north-carolina-1-20261125",
+        "title": "News — Tuscarora Nation of North Carolina Powwow",
+        "url": "https://www.tuscaroranationnc.com/news-",
+        "publisher": "Tuscarora Nation of North Carolina",
+        "type": "Organization’s public announcement",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The organization’s announcement identifies Maxton and describes the public gathering.",
+        "contentReviewScope": "The organization’s announcement identifies Maxton and describes the public gathering.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-11-07",
     "identificationEvidence": [
       {
@@ -125255,20 +125608,19 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Review useful individually attributed public context without a fixed source-count, history or image gate.",
-      "Clarify institutional and broader people/historical-name relationships before assigning aliases, parents, related routes or continuity.",
-      "The retained chronology’s detailed historical, descent and legal claims remain unverified; this identification outline adopts none.",
-      "Images, recordings, wordforms, teachings, exact reuse rights and current contact accuracy remain unassessed."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Retained institutional self-name and coarse footer contact-state cue only; no substantive reading, historical adequacy or community review.",
+      "rationale": "A starting guide with a limited source selection.",
       "remainingLimits": [
-        "A specifically named outline does not resolve relationships with the broader Tuscarora people route or other named institutions.",
-        "The original page-review date remains October28; the November7 name comparison is not fresh access or verification of current status/contact accuracy."
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-nc-tuscarora-nation-of-north-carolina-1-20261125"
+    ]
   },
   {
     "name": "Tobique First Nation",
@@ -125619,15 +125971,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named cultural center as listed by UNCP Serve",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Hawkeye Indian Cultural Center as listed by UNCP Serve. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Hoke County, North Carolina",
+    "overview": "First Nations Development Institute records North Carolina cultural and youth projects of the Hawkeye Indian Cultural Center in 2013 and 2014. Its 2014 grant schedule records the center’s connection to Red Springs.",
     "relationshipNote": "Relationships with other labels, broader people routes and separately named institutions remain unresolved. The listing does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-hawkeye-indian-cultural-center-1-20261125",
+        "title": "Hawkeye Indian Cultural Center, Inc.",
+        "url": "https://www.firstnations.org/grantee-profiles/hawkeye-indian-cultural-center-inc/",
+        "publisher": "First Nations Development Institute",
+        "type": "Grantmaker’s project history",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The grantmaker profiles the center’s dated youth and culture projects.",
+        "contentReviewScope": "The grantmaker profiles the center’s dated youth and culture projects.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-hawkeye-indian-cultural-center-2-20261125",
+        "title": "2014 grants schedule — Hawkeye Indian Cultural Center",
+        "url": "https://www.firstnations.org/wp-content/uploads/2018/12/2014-FNDI-IRS-Form-990.pdf",
+        "publisher": "First Nations Development Institute",
+        "type": "Historical grant record",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The foundation’s grant schedule records the Red Springs mailing context at the time.",
+        "contentReviewScope": "The foundation’s grant schedule records the Red Springs mailing context at the time.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the grantmaker’s account of the center’s youth and cultural projects. Its archived 2014 grants schedule provides a dated North Carolina address reference.",
+        "sourceIds": [
+          "s-nc-hawkeye-indian-cultural-center-1-20261125",
+          "s-nc-hawkeye-indian-cultural-center-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-08",
     "identificationEvidence": [
       {
@@ -125645,14 +126037,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and verify current public program and location information."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Displayed name and neutral attributed kind only; no substantive reading, historical adequacy, community self-identification or community-review assessment."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and verify current public program and location information."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-hawkeye-indian-cultural-center-1-20261125",
+      "s-nc-hawkeye-indian-cultural-center-2-20261125"
+    ]
   },
   {
     "name": "United Tribes of North Carolina",
@@ -125660,15 +126058,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named organization as listed by NC DOA",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name United Tribes of North Carolina as listed by North Carolina Department of Administration. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Raleigh, North Carolina, public conference context",
+    "overview": "The North Carolina Department of Administration lists United Tribes of North Carolina as host of the 2026 Indian Unity Conference in Raleigh. Its event page describes the conference as a gathering for community and cultural exchange.",
     "relationshipNote": "Relationships with other labels, broader people routes and separately named institutions remain unresolved. The listing does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-united-tribes-of-north-carolina-1-20261125",
+        "title": "NC Indian Unity Conference 2026",
+        "url": "https://www.doa.nc.gov/news/events/nc-indian-unity-conference-2026",
+        "publisher": "North Carolina Department of Administration",
+        "type": "Public event program",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The state’s public conference page names the host and Raleigh venue.",
+        "contentReviewScope": "The state’s public conference page names the host and Raleigh venue.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The 2026 Indian Unity Conference page names the hosts and organizers and describes the purposes of the Raleigh gathering.",
+        "sourceIds": [
+          "s-nc-united-tribes-of-north-carolina-1-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-08",
     "identificationEvidence": [
       {
@@ -125686,14 +126108,19 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Displayed name and neutral attributed kind only; no substantive reading, historical adequacy, community self-identification or community-review assessment."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-united-tribes-of-north-carolina-1-20261125"
+    ]
   },
   {
     "name": "Cape Fear Band of Skarure Woccon Indians",
@@ -125701,15 +126128,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named community or institution as self-presented",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Cape Fear Band of Skarure Woccon Indians using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Belville, North Carolina",
+    "overview": "The Cape Fear Band of Skarure Woccon Indians announced a public Harvest Gathering for October 2025 at Riverwalk Park in Belville. The group describes the gathering as a way to share its cultural heritage with the broader community.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-cape-fear-band-of-skarure-woccon-indians-1-20261125",
+        "title": "Harvest Gathering",
+        "url": "https://www.skarurewoccon.com/harvest-gathering",
+        "publisher": "Cape Fear Band of Skarure Woccon Indians",
+        "type": "Organization’s public event notice",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The organizer’s announcement names the public gathering, venue, and purpose.",
+        "contentReviewScope": "The organizer’s announcement names the public gathering, venue, and purpose.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The organizer’s October 2025 Harvest Gathering notice describes the event at Belville Riverwalk Park and the cultural activities planned for visitors.",
+        "sourceIds": [
+          "s-nc-cape-fear-band-of-skarure-woccon-indians-1-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125727,14 +126178,19 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-cape-fear-band-of-skarure-woccon-indians-1-20261125"
+    ]
   },
   {
     "name": "Birdtown",
@@ -125742,15 +126198,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named local community as labeled on the cited page",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Birdtown using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Birdtown as a local community. Its Election Board names the Birdtown Community Building in its public list of polling places.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-birdtown-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal community overview names Birdtown.",
+        "contentReviewScope": "The tribal community overview names Birdtown.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-birdtown-2-20261125",
+        "title": "Election Board — Polling Locations",
+        "url": "https://www.ebci.gov/election-board/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Public community facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "See the Birdtown Community Building in the list of polling places.",
+        "contentReviewScope": "See the Birdtown Community Building in the list of polling places.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Look for Birdtown in the Tribal Health Assessment’s Our Community section and for the Birdtown Community Building in the Election Board’s polling locations.",
+        "sourceIds": [
+          "s-nc-birdtown-1-20261125",
+          "s-nc-birdtown-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125768,14 +126264,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-birdtown-1-20261125",
+      "s-nc-birdtown-2-20261125"
+    ]
   },
   {
     "name": "Wolftown",
@@ -125783,15 +126285,54 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named local community as labeled on the cited page",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Wolftown using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Wolftown as a local community. The Cherokee One Feather’s community club directory names the Wolftown Community Club Building.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-wolftown-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal community overview names Wolftown.",
+        "contentReviewScope": "The tribal community overview names Wolftown.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-wolftown-2-20261125",
+        "title": "Cherokee Community Clubs",
+        "url": "https://theonefeather.com/cherokee-community-clubs-2/",
+        "publisher": "The Cherokee One Feather",
+        "type": "Tribal community club listings",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Wolftown listing identifies its community club building.",
+        "contentReviewScope": "The Wolftown listing identifies its community club building.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Cherokee One Feather’s community club directory provides a local starting point for finding Wolftown’s club and community building.",
+        "sourceIds": [
+          "s-nc-wolftown-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125809,14 +126350,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-wolftown-1-20261125",
+      "s-nc-wolftown-2-20261125"
+    ]
   },
   {
     "name": "Painttown",
@@ -125824,15 +126371,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named local community as labeled on the cited page",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Painttown using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Painttown as a local community and lists the Painttown Community Club in its public facility information.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-painttown-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal community overview names Painttown.",
+        "contentReviewScope": "The tribal community overview names Painttown.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-painttown-2-20261125",
+        "title": "Election Board — Polling Locations",
+        "url": "https://www.ebci.gov/election-board/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Public community facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Election Board lists the Painttown Community Club.",
+        "contentReviewScope": "The Election Board lists the Painttown Community Club.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Use the Tribal Health Assessment for the community list and the Election Board’s polling directory for the name of the Painttown Community Club.",
+        "sourceIds": [
+          "s-nc-painttown-1-20261125",
+          "s-nc-painttown-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125850,14 +126437,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-painttown-1-20261125",
+      "s-nc-painttown-2-20261125"
+    ]
   },
   {
     "name": "Big Y Community",
@@ -125865,15 +126458,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named local community as labeled on the cited page",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Big Y Community using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Big Y as a local community and lists its community club and gym in the Cherokee area.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-big-y-community-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal community overview lists Big Y.",
+        "contentReviewScope": "The tribal community overview lists Big Y.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-big-y-community-2-20261125",
+        "title": "Tsalagi Public Health — Location List",
+        "url": "https://phhs.ebci-nsn.gov/tsalagi-public-health/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Tribal public facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal directory lists the Big Y Community Club and Gym.",
+        "contentReviewScope": "The tribal directory lists the Big Y Community Club and Gym.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Our Community in the Tribal Health Assessment for the list of communities. The Tsalagi Public Health facility directory lists the Big Y Community Club and Gym.",
+        "sourceIds": [
+          "s-nc-big-y-community-1-20261125",
+          "s-nc-big-y-community-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125891,14 +126524,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-big-y-community-1-20261125",
+      "s-nc-big-y-community-2-20261125"
+    ]
   },
   {
     "name": "Snowbird Community",
@@ -125906,15 +126545,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named local community as labeled on the cited page",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Snowbird Community using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Snowbird as a distinct local community. Its Election Board lists the Jacob Cornsilk Complex for Snowbird.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-snowbird-community-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal community overview names Snowbird.",
+        "contentReviewScope": "The tribal community overview names Snowbird.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-snowbird-community-2-20261125",
+        "title": "Election Board — Polling Locations",
+        "url": "https://www.ebci.gov/election-board/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Public community facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The Election Board pairs Snowbird with the Jacob Cornsilk Complex.",
+        "contentReviewScope": "The Election Board pairs Snowbird with the Jacob Cornsilk Complex.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Tribal Health Assessment names Snowbird in its community list. The Election Board’s public facility list uses the Jacob Cornsilk Complex name for the Snowbird polling place.",
+        "sourceIds": [
+          "s-nc-snowbird-community-1-20261125",
+          "s-nc-snowbird-community-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125932,14 +126611,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-snowbird-community-1-20261125",
+      "s-nc-snowbird-community-2-20261125"
+    ]
   },
   {
     "name": "Yellowhill Community",
@@ -125947,15 +126632,54 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named local community as labeled on the cited page",
-    "region": "Unassigned — community setting unassessed.",
-    "overview": "An empty identification outline under the name Yellowhill Community using only the cited page’s selected English label. Community setting, relationships and annotated reading remain unassessed.",
+    "region": "Western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Yellowhill as a local community and lists the Yellowhill Elawodihi Activity Center in the Cherokee area.",
     "relationshipNote": "The cited label does not establish an alias, parent, split, affiliation, membership, continuity, ancestry, equivalence or unrelatedness. Broader people routes and other labels remain unresolved.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-yellowhill-community-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal community overview names Yellowhill.",
+        "contentReviewScope": "The tribal community overview names Yellowhill.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-yellowhill-community-2-20261125",
+        "title": "Tsalagi Public Health — Location List",
+        "url": "https://phhs.ebci-nsn.gov/tsalagi-public-health/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Tribal public facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal directory lists the Yellowhill Elawodihi Activity Center.",
+        "contentReviewScope": "The tribal directory lists the Yellowhill Elawodihi Activity Center.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Look for the name Yellowhill Elawodihi Activity Center in the Eastern Band’s Tsalagi Public Health location list.",
+        "sourceIds": [
+          "s-nc-yellowhill-community-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-09",
     "identificationEvidence": [
       {
@@ -125973,14 +126697,20 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Later research may be selected without a fixed source-count, history or image prerequisite.",
-      "Community setting and relationships remain unassessed; no navigation association is selected."
+      "Develop a fuller bibliography and seek additional community-directed perspectives."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Selected English name and neutral attributed kind only; substantive reading, history, community-review adequacy and relationships remain unassessed."
-    }
+      "rationale": "A starting guide with a limited source selection.",
+      "remainingLimits": [
+        "Develop a fuller bibliography and seek additional community-directed perspectives."
+      ]
+    },
+    "overviewSourceIds": [
+      "s-nc-yellowhill-community-1-20261125",
+      "s-nc-yellowhill-community-2-20261125"
+    ]
   },
   {
     "name": "Cherokee Tribe of Northeast Alabama",
@@ -221366,5 +222096,589 @@
       }
     ],
     "researchComplete": false
+  },
+  {
+    "name": "Big Cove",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Named Eastern Band of Cherokee Indians community",
+    "region": "Cherokee area, western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Big Cove as one of its communities. Its public facility directory lists the Big Cove Kolanvyi Community Center in the Cherokee area of North Carolina.",
+    "overviewSourceIds": [
+      "s-nc-big-cove-1-20261125",
+      "s-nc-big-cove-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-big-cove-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal report’s community overview names Big Cove.",
+        "contentReviewScope": "The tribal report’s community overview names Big Cove.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-big-cove-2-20261125",
+        "title": "Tsalagi Public Health — Location List",
+        "url": "https://phhs.ebci-nsn.gov/tsalagi-public-health/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Tribal public facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal facility list places the Big Cove Kolanvyi Community Center in the Cherokee area.",
+        "contentReviewScope": "The tribal facility list places the Big Cove Kolanvyi Community Center in the Cherokee area.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the Tribal Health Assessment’s Our Community section for the Eastern Band’s community list. The Tsalagi Public Health directory gives the public facility name Kolanvyi Community Center.",
+        "sourceIds": [
+          "s-nc-big-cove-1-20261125",
+          "s-nc-big-cove-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "scope": "The tribal report’s community overview names Big Cove.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://phhs.ebci-nsn.gov/tsalagi-public-health/",
+        "title": "Tsalagi Public Health — Location List",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "scope": "The tribal facility list places the Big Cove Kolanvyi Community Center in the Cherokee area.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "eastern-band-of-cherokee-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
+  },
+  {
+    "name": "Cherokee County Community",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Named Eastern Band of Cherokee Indians community",
+    "region": "Marble area, western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Cherokee County Community as one of its communities. Its official facility listings place the Cherokee County Indian Community Club in Marble, North Carolina.",
+    "overviewSourceIds": [
+      "s-nc-cherokee-county-community-1-20261125",
+      "s-nc-cherokee-county-community-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-cherokee-county-community-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The community overview names Cherokee County Community in the Eastern Band.",
+        "contentReviewScope": "The community overview names Cherokee County Community in the Eastern Band.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-cherokee-county-community-2-20261125",
+        "title": "Tsalagi Public Health — Location List",
+        "url": "https://phhs.ebci-nsn.gov/tsalagi-public-health/",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "type": "Tribal public facility directory",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal facility list locates the Cherokee County Indian Community Club in Marble.",
+        "contentReviewScope": "The tribal facility list locates the Cherokee County Indian Community Club in Marble.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Tribal Health Assessment names the community, and the Tsalagi Public Health directory gives the Marble location of the Cherokee County Indian Community Club.",
+        "sourceIds": [
+          "s-nc-cherokee-county-community-1-20261125",
+          "s-nc-cherokee-county-community-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "scope": "The community overview names Cherokee County Community in the Eastern Band.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://phhs.ebci-nsn.gov/tsalagi-public-health/",
+        "title": "Tsalagi Public Health — Location List",
+        "publisher": "Eastern Band of Cherokee Indians",
+        "scope": "The tribal facility list locates the Cherokee County Indian Community Club in Marble.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "eastern-band-of-cherokee-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
+  },
+  {
+    "name": "Towstring",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Named Eastern Band of Cherokee Indians community",
+    "region": "Cherokee area, western North Carolina",
+    "overview": "The Eastern Band of Cherokee Indians identifies Towstring as one of its communities. A Federal Highway Administration tribal transportation listing locates Tow String Community near Cherokee, North Carolina.",
+    "overviewSourceIds": [
+      "s-nc-towstring-1-20261125",
+      "s-nc-towstring-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-towstring-1-20261125",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "type": "Tribal community overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The tribal report lists the community under the spelling Towstring.",
+        "contentReviewScope": "The tribal report lists the community under the spelling Towstring.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-towstring-2-20261125",
+        "title": "Eastern Region Tribal Transportation Program Improvement Program",
+        "url": "https://highways.dot.gov/federal-lands/tribal/planning/eastern-region-ttptip.pdf",
+        "publisher": "Federal Highway Administration",
+        "type": "Federal tribal project location list",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The transportation program records the Tow String Community location in North Carolina.",
+        "contentReviewScope": "The transportation program records the Tow String Community location in North Carolina.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Compare the spelling Towstring in the tribal community list with Tow String Community in the Federal Highway Administration’s transportation project list.",
+        "sourceIds": [
+          "s-nc-towstring-1-20261125",
+          "s-nc-towstring-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://phhs.ebci-nsn.gov/wp-content/uploads/2024/09/Final-2023-Tribal-Health-Assessment_Published-August-2024.pdf",
+        "title": "2023 Tribal Health Assessment — Our Community",
+        "publisher": "Eastern Band of Cherokee Indians Public Health and Human Services",
+        "scope": "The tribal report lists the community under the spelling Towstring.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://highways.dot.gov/federal-lands/tribal/planning/eastern-region-ttptip.pdf",
+        "title": "Eastern Region Tribal Transportation Program Improvement Program",
+        "publisher": "Federal Highway Administration",
+        "scope": "The transportation program records the Tow String Community location in North Carolina.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "eastern-band-of-cherokee-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
+  },
+  {
+    "name": "Joara",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Historical Indigenous town",
+    "region": "Upper Catawba Valley near Morganton, North Carolina",
+    "overview": "Joara was an Indigenous town in what is now the upper Catawba Valley near Morganton. Archaeologists working at the Berry Site identify it as the town visited by Spanish expeditions in the sixteenth century.",
+    "overviewSourceIds": [
+      "s-nc-joara-1-20261125",
+      "s-nc-joara-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-joara-1-20261125",
+        "title": "Joara and Fort San Juan: culture contact at the edge of the world",
+        "url": "https://www.cambridge.org/core/journals/antiquity-project-gallery/article/joara-and-fort-san-juan-culture-contact-at-the-edge-of-the-world/F016D36C026316DFEBBCC46B48C67558",
+        "publisher": "Antiquity",
+        "type": "Firsthand archaeological research",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The archaeological team describes the evidence identifying the historic town and its role in the upper Catawba Valley.",
+        "contentReviewScope": "The archaeological team describes the evidence identifying the historic town and its role in the upper Catawba Valley.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-joara-2-20261125",
+        "title": "Visit — Exploring Joara Foundation",
+        "url": "https://exploringjoara.org/visit/",
+        "publisher": "Exploring Joara Foundation",
+        "type": "Public interpretation and access information",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The foundation describes public interpretation and when visits to the privately owned Berry Site are available.",
+        "contentReviewScope": "The foundation describes public interpretation and when visits to the privately owned Berry Site are available.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Explore further",
+        "text": "The Berry Site is on private property. The Exploring Joara Foundation lists organized visits and public events.",
+        "sourceIds": [
+          "s-nc-joara-1-20261125",
+          "s-nc-joara-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.cambridge.org/core/journals/antiquity-project-gallery/article/joara-and-fort-san-juan-culture-contact-at-the-edge-of-the-world/F016D36C026316DFEBBCC46B48C67558",
+        "title": "Joara and Fort San Juan: culture contact at the edge of the world",
+        "publisher": "Antiquity",
+        "scope": "The archaeological team describes the evidence identifying the historic town and its role in the upper Catawba Valley.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://exploringjoara.org/visit/",
+        "title": "Visit — Exploring Joara Foundation",
+        "publisher": "Exploring Joara Foundation",
+        "scope": "The foundation describes public interpretation and when visits to the privately owned Berry Site are available.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "catawba"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
+  },
+  {
+    "name": "Town Creek Indian Mound State Historic Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Public historic site interpreting Indigenous history",
+    "region": "Mount Gilead, North Carolina",
+    "overview": "Town Creek is a state historic site along the Little River near Mount Gilead. North Carolina State Historic Sites describes the location’s role in archaeological research and in sharing the history of Indigenous communities of the Pee Dee River basin.",
+    "overviewSourceIds": [
+      "s-nc-town-creek-indian-mound-state-historic-site-1-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-town-creek-indian-mound-state-historic-site-1-20261125",
+        "title": "Town Creek Indian Mound — Plan Your Visit",
+        "url": "https://historicsites.nc.gov/all-sites/town-creek-indian-mound/plan-your-visit",
+        "publisher": "North Carolina State Historic Sites",
+        "type": "Public historic site interpretation",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The site operator describes the Little River setting, archaeology, and current visitor information.",
+        "contentReviewScope": "The site operator describes the Little River setting, archaeology, and current visitor information.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Explore further",
+        "text": "Check the site’s visitor notice for current hours and access to the visitor center.",
+        "sourceIds": [
+          "s-nc-town-creek-indian-mound-state-historic-site-1-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://historicsites.nc.gov/all-sites/town-creek-indian-mound/plan-your-visit",
+        "title": "Town Creek Indian Mound — Plan Your Visit",
+        "publisher": "North Carolina State Historic Sites",
+        "scope": "The site operator describes the Little River setting, archaeology, and current visitor information.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
+  },
+  {
+    "name": "Museum of the Cherokee People",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Tribal museum and public cultural resource",
+    "region": "Cherokee, North Carolina",
+    "overview": "The Museum of the Cherokee People in Cherokee, North Carolina, presents Cherokee history, culture, and stories through exhibitions, collections, and public programs. Its website describes its work on the Qualla Boundary.",
+    "overviewSourceIds": [
+      "s-nc-museum-of-the-cherokee-people-1-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-museum-of-the-cherokee-people-1-20261125",
+        "title": "Museum of the Cherokee People",
+        "url": "https://motcp.org/",
+        "publisher": "Museum of the Cherokee People",
+        "type": "Museum’s own public introduction",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The museum identifies its setting, history, exhibitions, and learning programs.",
+        "contentReviewScope": "The museum identifies its setting, history, exhibitions, and learning programs.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Explore further",
+        "text": "The museum’s public site includes a collection search and links to upcoming exhibitions.",
+        "sourceIds": [
+          "s-nc-museum-of-the-cherokee-people-1-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://motcp.org/",
+        "title": "Museum of the Cherokee People",
+        "publisher": "Museum of the Cherokee People",
+        "scope": "The museum identifies its setting, history, exhibitions, and learning programs.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "eastern-band-of-cherokee-indians",
+      "cherokee"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
+  },
+  {
+    "name": "Museum of the Southeast American Indian",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "University museum and public cultural resource",
+    "region": "Pembroke, North Carolina",
+    "overview": "The Museum of the Southeast American Indian at UNC Pembroke presents the histories, arts, and contemporary experiences of Indigenous communities of the Southeast. The university houses the museum in Old Main.",
+    "overviewSourceIds": [
+      "s-nc-museum-of-the-southeast-american-indian-1-20261125",
+      "s-nc-museum-of-the-southeast-american-indian-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-nc-museum-of-the-southeast-american-indian-1-20261125",
+        "title": "Museum of the Southeast American Indian",
+        "url": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/",
+        "publisher": "University of North Carolina at Pembroke",
+        "type": "Public museum overview",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The university describes the museum’s exhibitions and public programs.",
+        "contentReviewScope": "The university describes the museum’s exhibitions and public programs.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-nc-museum-of-the-southeast-american-indian-2-20261125",
+        "title": "Visit the Museum of the Southeast American Indian",
+        "url": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/visit.html",
+        "publisher": "University of North Carolina at Pembroke",
+        "type": "Museum and campus location",
+        "topics": [
+          "North Carolina"
+        ],
+        "annotation": "The visitor page places the museum in Old Main on the Pembroke campus.",
+        "contentReviewScope": "The visitor page places the museum in Old Main on the Pembroke campus.",
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Explore further",
+        "text": "UNC Pembroke traces the museum’s history to 1979 and describes programs for students and the wider public.",
+        "sourceIds": [
+          "s-nc-museum-of-the-southeast-american-indian-1-20261125",
+          "s-nc-museum-of-the-southeast-american-indian-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/",
+        "title": "Museum of the Southeast American Indian",
+        "publisher": "University of North Carolina at Pembroke",
+        "scope": "The university describes the museum’s exhibitions and public programs.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://gpac.uncp.edu/community-and-culture/museum-of-the-southeast-american-indian/visit.html",
+        "title": "Visit the Museum of the Southeast American Indian",
+        "publisher": "University of North Carolina at Pembroke",
+        "scope": "The visitor page places the museum in Old Main on the Pembroke campus.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "lumbee"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "The sources document the name and regional connection for this starting guide."
+    }
   }
 ]
