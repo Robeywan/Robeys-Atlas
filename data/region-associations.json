@@ -997,7 +997,10 @@
       "period": "Before nineteenth-century removal; broad history passage",
       "sourceUrl": "https://www.chickasaw.net/our-nation/history",
       "evidenceNote": "Nation history explicitly names Mississippi, Kentucky, Alabama and Tennessee; broad regional connection, not statewide boundaries.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true,
+      "sourceTitle": "History",
+      "sourcePublisher": "Chickasaw Nation"
     },
     {
       "regionId": "US-AL",
@@ -1077,7 +1080,10 @@
       "period": "Historical; FAQ inspected 2026-10-21",
       "sourceUrl": "https://cherokee.gov/about-the-nation/frequently-asked-questions/history/",
       "evidenceNote": "Nation FAQ explicitly identifies Kentucky and Virginia as hunting areas; distinct from settlement or present government.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true,
+      "sourceTitle": "Cherokee Nation: History",
+      "sourcePublisher": "Cherokee Nation"
     },
     {
       "regionId": "US-VA",
@@ -15973,7 +15979,13 @@
       "reviewDate": "2026-11-18",
       "underlyingReviewDate": "2026-11-16",
       "identityOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "sourceTitle": "Urban Native Collective",
+      "sourcePublisher": "Urban Native Collective",
+      "supportingSourceUrls": [
+        "https://urbannativecollective.org/nativesovereigntycenter"
+      ]
     },
     {
       "regionId": "US-IN",
@@ -33856,6 +33868,142 @@
       "supportingSourceUrls": [
         "https://www.omtribe.org/who-we-are/history/"
       ]
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Kentucky American Indian Resource and Community Center",
+      "associationType": "Native community organization",
+      "period": "Founded in Kentucky in 2005, with public programs documented in 2024–2025",
+      "sourceUrl": "https://www.kaircc.com/",
+      "sourceTitle": "Kentucky American Indian Resource and Community Center",
+      "sourcePublisher": "Kentucky American Indian Resource and Community Center",
+      "evidenceNote": "The center describes its formation in Kentucky, services to Native families, and public programs at Kentucky venues including Bernheim Forest.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://www.kaircc.com/2024-2025-past-events",
+        "https://bernheim.org/event/indigenous-peoples-day-pow-wow/"
+      ]
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Shannoah",
+      "associationType": "Historical Shawnee village",
+      "period": "Eighteenth century, with a visit documented in 1751",
+      "sourceUrl": "https://history.ky.gov/markers/shannoah",
+      "sourceTitle": "Shannoah",
+      "sourcePublisher": "Kentucky Historical Society",
+      "evidenceNote": "The Kentucky Historical Society identifies Shannoah as a historic Shawnee village near South Portsmouth, Kentucky.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Eskippakithiki",
+      "associationType": "Historical Shawnee village",
+      "period": "Circa 1715–1754 according to the Kentucky Historical Society",
+      "sourceUrl": "https://history.ky.gov/markers/indian-old-fields",
+      "sourceTitle": "Indian Old Fields",
+      "sourcePublisher": "Kentucky Historical Society",
+      "evidenceNote": "The Kentucky Historical Society identifies Eskippakithiki as a historical Shawnee village southeast of present-day Winchester, Kentucky.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Wickliffe Mounds State Historic Site",
+      "associationType": "Historical Mississippian village site",
+      "period": "Historical village circa 1100–1350",
+      "sourceUrl": "https://www.nps.gov/places/wickliffe-mounds-state-historic-site.htm",
+      "sourceTitle": "Wickliffe Mounds State Historic Site",
+      "sourcePublisher": "National Park Service",
+      "evidenceNote": "The National Park Service identifies the Mississippian village site at Wickliffe in far western Kentucky.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Trail of Tears Commemorative Park (Hopkinsville)",
+      "associationType": "Cherokee removal-route site and heritage center",
+      "period": "Northern Route of Cherokee removal, 1838, and present-day interpretation",
+      "sourceUrl": "https://www.nps.gov/places/trail-of-tears-commemorative-park-hopkinsville-ky.htm",
+      "sourceTitle": "Trail of Tears Commemorative Park, Hopkinsville, KY",
+      "sourcePublisher": "National Park Service",
+      "evidenceNote": "The National Park Service identifies Hopkinsville as a camp and supply stop on the Northern Route of the forced Cherokee removal.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://www.hoptownrec.com/trail-of-tears-park"
+      ]
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Shawnee",
+      "associationType": "Historical settlement",
+      "period": "Eighteenth century",
+      "sourceUrl": "https://history.ky.gov/markers/shannoah",
+      "sourceTitle": "Shannoah",
+      "sourcePublisher": "Kentucky Historical Society",
+      "evidenceNote": "The Kentucky Historical Society records the historic Shawnee villages of Shannoah near South Portsmouth and Eskippakithiki southeast of Winchester.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true,
+      "supportingSourceUrls": [
+        "https://history.ky.gov/markers/indian-old-fields"
+      ]
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Mingo",
+      "associationType": "Historical regional presence",
+      "period": "Before European settlement as described by the Kentucky Historical Society",
+      "sourceUrl": "https://history.ky.gov/kentucky-history-at-a-glance",
+      "sourceTitle": "Kentucky History at a Glance",
+      "sourcePublisher": "Kentucky Historical Society",
+      "evidenceNote": "The Kentucky Historical Society includes the Mingo among Indigenous groups that lived or hunted in the region that is now Kentucky.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Osage",
+      "associationType": "Historical regional presence",
+      "period": "Before European settlement as described by the Kentucky Historical Society",
+      "sourceUrl": "https://history.ky.gov/kentucky-history-at-a-glance",
+      "sourceTitle": "Kentucky History at a Glance",
+      "sourcePublisher": "Kentucky Historical Society",
+      "evidenceNote": "The Kentucky Historical Society includes the Osage among Indigenous groups that lived or hunted in the region that is now Kentucky.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
+    },
+    {
+      "regionId": "US-KY",
+      "name": "Cherokee",
+      "associationType": "Historical forced-removal route",
+      "period": "Northern Route of the Trail of Tears, 1838",
+      "sourceUrl": "https://www.nps.gov/places/trail-of-tears-commemorative-park-hopkinsville-ky.htm",
+      "sourceTitle": "Trail of Tears Commemorative Park, Hopkinsville, KY",
+      "sourcePublisher": "National Park Service",
+      "evidenceNote": "The National Park Service documents a Cherokee camp and supply stop at Hopkinsville on the Northern Route of the forced removal.",
+      "reviewDate": "2026-11-25",
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
     }
   ]
 }

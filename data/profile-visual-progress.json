@@ -1,18 +1,14 @@
 {
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 1948,
+    "selectedProfiles": 1954,
     "existingApache": 1,
-    "newProfileTreatments": 1947,
-    "newTreatmentsWithPhotographs": 1778,
+    "newProfileTreatments": 1953,
+    "newTreatmentsWithPhotographs": 1784,
     "decorativeTreatmentsAwaitingPhotographs": 169,
-    "autoEnrolledThisBuild": [
-      "indigenous-st-louis",
-      "little-osage",
-      "tamaroa"
-    ]
+    "autoEnrolledThisBuild": []
   },
   "treatments": [
     {
@@ -10343,7 +10339,8 @@
           "mediaType": "photograph",
           "profileSlugs": [
             "osage-village-state-historic-site",
-            "big-osage"
+            "big-osage",
+            "osage"
           ],
           "reviewedAt": "2026-11-24",
           "credit": "Photo: Ammodramus",
@@ -27785,6 +27782,70 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "eskippakithiki",
+      "name": "Eskippakithiki",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 355,
+      "angle": 54,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "eskippakithiki-indian-old-fields-area",
+          "title": "Landscape near the Indian Old Fields historical marker",
+          "alt": "Aerial photograph of farmland, wooded hills, and roads near Indian Old Fields in Clark County, Kentucky.",
+          "scope": "The Kentucky Historical Society’s Indian Old Fields marker describes Eskippakithiki. The photograph shows the modern landscape surrounding the public marker. The source frame is shown in natural color and resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "eskippakithiki"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9352242.7%2C4569629.72%2C-9348882.57%2C4572149.82&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+          "rightsLabel": "Public domain · The National Map",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "contextSources": [
+            {
+              "title": "Indian Old Fields",
+              "url": "https://history.ky.gov/markers/indian-old-fields"
+            }
+          ],
+          "asset": "assets/profile-visuals/eskippakithiki-indian-old-fields-area.jpg",
+          "cardAsset": "assets/profile-visuals/eskippakithiki-indian-old-fields-area-card.jpg",
+          "derivatives": {
+            "asset": {
+              "bytes": 327357,
+              "sha256": "38a81ced9a57470bfc24d02cf42bc37d63c35082939bf35e0e3d6548c855c933",
+              "width": 1200,
+              "height": 900
+            },
+            "cardAsset": {
+              "bytes": 98704,
+              "sha256": "3d5ecab75ac64231e6eadf9bcb454af279d250bf8ad5e818a5ee43fca327e5a9",
+              "width": 680,
+              "height": 510
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:355;--profile-angle:54deg;--profile-photo:url(\"../../assets/profile-visuals/eskippakithiki-indian-old-fields-area.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "esquimalt-nation",
       "name": "Esquimalt Nation",
       "originalId": null,
@@ -45202,6 +45263,74 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:150;--profile-angle:63deg;--profile-photo:url(\"../../assets/profile-visuals/on-gap-photo-kenora-metis-council.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kentucky-american-indian-resource-and-community-center",
+      "name": "Kentucky American Indian Resource and Community Center",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 235,
+      "angle": -36,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "kaircc-bernheim-event-venue",
+          "title": "Bernheim Forest and Arboretum, a public event venue",
+          "alt": "Aerial photograph of the open lawns and curving paths in the public grounds at Bernheim Forest, Kentucky.",
+          "scope": "The center’s event archive records that it hosted a public Indigenous Peoples’ Day Pow Wow at Bernheim Forest in 2025. This photograph shows the venue’s park grounds. The source frame is shown in natural color and resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "kentucky-american-indian-resource-and-community-center"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9536038.43%2C4567224.79%2C-9535214.51%2C4567842.73&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+          "rightsLabel": "Public domain · The National Map",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "contextSources": [
+            {
+              "title": "2024–2025 Events",
+              "url": "https://www.kaircc.com/2024-2025-past-events"
+            },
+            {
+              "title": "Indigenous Peoples’ Pow Wow",
+              "url": "https://bernheim.org/event/indigenous-peoples-day-pow-wow/"
+            }
+          ],
+          "asset": "assets/profile-visuals/kaircc-bernheim-event-venue.jpg",
+          "cardAsset": "assets/profile-visuals/kaircc-bernheim-event-venue-card.jpg",
+          "derivatives": {
+            "asset": {
+              "bytes": 340049,
+              "sha256": "aa64a1ae3684b5cd2a5d558b1e048868e6087991f53984a856cc0ca316371d7e",
+              "width": 1200,
+              "height": 900
+            },
+            "cardAsset": {
+              "bytes": 110365,
+              "sha256": "ec6b0dadc455fd7834a72857981d3faf39ac4643a6af98a3a7059c7e9b44e16f",
+              "width": 680,
+              "height": 510
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:235;--profile-angle:-36deg;--profile-photo:url(\"../../assets/profile-visuals/kaircc-bernheim-event-venue.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -83727,6 +83856,49 @@
       "composition": "ribbon",
       "images": [
         {
+          "title": "Hilltop at Osage Village State Historic Site",
+          "alt": "Grassy hilltop and interpretive trail at Osage Village State Historic Site.",
+          "scope": "Ammodramus photographed the landscape from the hilltop interpretive trail in November 2017. The Atlas resized the photograph.",
+          "creator": "Ammodramus",
+          "date": "2017-11-16",
+          "rightsLabel": "CC0 1.0",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "contextSources": [
+            {
+              "title": "Osage Village State Historic Site",
+              "url": "https://mostateparks.com/historic-site/osage-village-state-historic-site"
+            }
+          ],
+          "id": "missouri-osage-village-hilltop-ammodramus-2017",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "osage-village-state-historic-site",
+            "big-osage",
+            "osage"
+          ],
+          "reviewedAt": "2026-11-24",
+          "credit": "Photo: Ammodramus",
+          "cardCredit": "Photo: Ammodramus",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osage_Village_SHS,_hilltop_1.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Osage_Village_SHS%2C_hilltop_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 630,
+              "bytes": 298708,
+              "sha256": "c05814cd41b5dd13c116ee4ad73e9bc078118f199b43b3b49c69710d3f4433fa"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 335,
+              "bytes": 80738,
+              "sha256": "31c27a67409ad496b7c37c3db99e93f349b6e8672d1c68fc21b8aaa21c68229c"
+            }
+          },
+          "asset": "assets/profile-visuals/missouri-osage-village-hilltop-ammodramus-2017.jpg",
+          "cardAsset": "assets/profile-visuals/missouri-osage-village-hilltop-ammodramus-2017-card.jpg"
+        },
+        {
           "id": "c10-osage-catlin",
           "profileSlugs": [
             "osage"
@@ -83775,10 +83947,10 @@
       "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
       "imageCoverage": {
         "status": "Verified images with scoped credits",
-        "available": 1,
-        "used": 1
+        "available": 2,
+        "used": 2
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:86;--profile-angle:-75deg;--profile-photo:url(\"../../assets/profile-visuals/c10-osage-catlin.jpg\")",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:86;--profile-angle:-75deg;--profile-photo:url(\"../../assets/profile-visuals/missouri-osage-village-hilltop-ammodramus-2017.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -83836,7 +84008,8 @@
           "mediaType": "photograph",
           "profileSlugs": [
             "osage-village-state-historic-site",
-            "big-osage"
+            "big-osage",
+            "osage"
           ],
           "reviewedAt": "2026-11-24",
           "credit": "Photo: Ammodramus",
@@ -100178,6 +100351,70 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "shannoah",
+      "name": "Shannoah",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 23,
+      "angle": 77,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "shannoah-south-portsmouth-area",
+          "title": "Landscape near the Shannoah historical marker",
+          "alt": "Aerial photograph of fields, woodland, and a waterway near the public Shannoah marker in South Portsmouth, Kentucky.",
+          "scope": "The Kentucky Historical Society locates the marker and describes the eighteenth-century village. The photograph shows the surrounding modern landscape. The source frame is shown in natural color and resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "shannoah"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9243210.03%2C4680525.89%2C-9242133.47%2C4681333.31&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+          "rightsLabel": "Public domain · The National Map",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "contextSources": [
+            {
+              "title": "Shannoah",
+              "url": "https://history.ky.gov/markers/shannoah"
+            }
+          ],
+          "asset": "assets/profile-visuals/shannoah-south-portsmouth-area.jpg",
+          "cardAsset": "assets/profile-visuals/shannoah-south-portsmouth-area-card.jpg",
+          "derivatives": {
+            "asset": {
+              "bytes": 339161,
+              "sha256": "5bc1e17075688b84ea79c17d6079e66bb1994cf57ee5f1d645f50e096857d89b",
+              "width": 1200,
+              "height": 900
+            },
+            "cardAsset": {
+              "bytes": 101702,
+              "sha256": "e3090e59f01662a054aae30be10d1fec759ff4a17194c07ea1e2edb49e50d2c4",
+              "width": 680,
+              "height": 510
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:23;--profile-angle:77deg;--profile-photo:url(\"../../assets/profile-visuals/shannoah-south-portsmouth-area.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "shasta",
       "name": "Shasta",
       "originalId": 344,
@@ -112699,6 +112936,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "trail-of-tears-commemorative-park-hopkinsville",
+      "name": "Trail of Tears Commemorative Park (Hopkinsville)",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 220,
+      "angle": -53,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "hopkinsville-trail-of-tears-visitor-area",
+          "title": "Trail of Tears Commemorative Park visitor area, Hopkinsville",
+          "alt": "Aerial photograph of the public park’s entrance road, visitor buildings, and surrounding green space.",
+          "scope": "The National Park Service and Hopkinsville Parks and Recreation describe the public park and heritage center in Kentucky. The view is centered on the visitor area. The source frame is shown in natural color and resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "trail-of-tears-commemorative-park-hopkinsville"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9737305.55%2C4418435.47%2C-9736855.66%2C4418772.9&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+          "rightsLabel": "Public domain · The National Map",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "contextSources": [
+            {
+              "title": "Trail of Tears Commemorative Park, Hopkinsville, KY",
+              "url": "https://www.nps.gov/places/trail-of-tears-commemorative-park-hopkinsville-ky.htm"
+            },
+            {
+              "title": "Trail of Tears Park",
+              "url": "https://www.hoptownrec.com/trail-of-tears-park"
+            }
+          ],
+          "asset": "assets/profile-visuals/hopkinsville-trail-of-tears-visitor-area.jpg",
+          "cardAsset": "assets/profile-visuals/hopkinsville-trail-of-tears-visitor-area-card.jpg",
+          "derivatives": {
+            "asset": {
+              "bytes": 267870,
+              "sha256": "0f827c3b11205941e3bd066613c32849c37b09ccb5c688d8f17fea7801024769",
+              "width": 1200,
+              "height": 900
+            },
+            "cardAsset": {
+              "bytes": 88490,
+              "sha256": "d2ce997f31ab934d5088f321c5a6eedb9a9a1dbfaa311537c95ba4dd3d8abc1d",
+              "width": 680,
+              "height": 510
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:220;--profile-angle:-53deg;--profile-photo:url(\"../../assets/profile-visuals/hopkinsville-trail-of-tears-visitor-area.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "treaty-one-nations",
       "name": "Treaty One Nations",
       "originalId": null,
@@ -116661,6 +116966,70 @@
         "used": 0
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:1;--profile-angle:-25deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "urban-native-collective",
+      "name": "Urban Native Collective",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 136,
+      "angle": -28,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "urban-native-sovereignty-center-area",
+          "title": "Blue Rock Street near the Native Sovereignty Center",
+          "alt": "Aerial photograph of the block of Blue Rock Street where the Native Sovereignty Center is located.",
+          "scope": "The Urban Native Collective identifies its public community center on this Cincinnati block and describes its programs for Native people across Ohio, Kentucky, and Indiana. The source frame is shown in natural color and resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "urban-native-collective"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9411570.3%2C4744686.53%2C-9411400.06%2C4744814.21&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+          "rightsLabel": "Public domain · The National Map",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "contextSources": [
+            {
+              "title": "Native Sovereignty Center",
+              "url": "https://urbannativecollective.org/nativesovereigntycenter"
+            }
+          ],
+          "asset": "assets/profile-visuals/urban-native-sovereignty-center-area.jpg",
+          "cardAsset": "assets/profile-visuals/urban-native-sovereignty-center-area-card.jpg",
+          "derivatives": {
+            "asset": {
+              "bytes": 212583,
+              "sha256": "d60bf76f39359dba7cac60d68570693cd0843ea7e82a34317c027467d990d195",
+              "width": 1200,
+              "height": 900
+            },
+            "cardAsset": {
+              "bytes": 70852,
+              "sha256": "0e9ec803b36a4e9dbe6e55d0a17c8b6e20129d09b4ce36f5fb4319b6276cbdda",
+              "width": 680,
+              "height": 510
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:136;--profile-angle:-28deg;--profile-photo:url(\"../../assets/profile-visuals/urban-native-sovereignty-center-area.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -122269,6 +122638,70 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "wickliffe-mounds-state-historic-site",
+      "name": "Wickliffe Mounds State Historic Site",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 286,
+      "angle": -45,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "wickliffe-mounds-public-site",
+          "title": "Public visitor area at Wickliffe Mounds State Historic Site",
+          "alt": "Aerial photograph of the visitor building and open grounds at Wickliffe Mounds State Historic Site.",
+          "scope": "The National Park Service describes the public historic site in western Kentucky. This photograph shows its modern visitor facilities and grounds. The source frame is shown in natural color and resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "wickliffe-mounds-state-historic-site"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9918010.23%2C4434833.23%2C-9917453.24%2C4435250.97&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=92&f=image",
+          "rightsLabel": "Public domain · The National Map",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "contextSources": [
+            {
+              "title": "Wickliffe Mounds State Historic Site",
+              "url": "https://www.nps.gov/places/wickliffe-mounds-state-historic-site.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/wickliffe-mounds-public-site.jpg",
+          "cardAsset": "assets/profile-visuals/wickliffe-mounds-public-site-card.jpg",
+          "derivatives": {
+            "asset": {
+              "bytes": 334988,
+              "sha256": "36e4a1267f2954b62f02e1aef7c10c7080b0a69fbff24a38f8b0f6c69405c2d3",
+              "width": 1200,
+              "height": 900
+            },
+            "cardAsset": {
+              "bytes": 108765,
+              "sha256": "ad782c636f38a2686cd1592cf5eefcc9a280eb3bcc66e6941ebf91468a7dd863",
+              "width": 680,
+              "height": 510
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:286;--profile-angle:-45deg;--profile-photo:url(\"../../assets/profile-visuals/wickliffe-mounds-public-site.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "wiikwemkoong-unceded-territory",
