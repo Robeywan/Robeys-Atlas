@@ -1020,7 +1020,10 @@
       "period": "Before nineteenth-century removal; broad history passage",
       "sourceUrl": "https://www.chickasaw.net/our-nation/history",
       "evidenceNote": "Nation history explicitly names Mississippi, Kentucky, Alabama and Tennessee; broad regional connection, not statewide boundaries.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true,
+      "sourceTitle": "History — Chickasaw Nation",
+      "sourcePublisher": "Chickasaw Nation"
     },
     {
       "regionId": "US-OK",
@@ -1060,7 +1063,13 @@
       "period": "Centuries before removal; source updated August 2026",
       "sourceUrl": "https://cherokee.gov/about-the-nation/frequently-asked-questions/history/",
       "evidenceNote": "Nation FAQ identifies southern Tennessee as part of earlier homelands; partial-state connection.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true,
+      "sourceTitle": "Cherokee Nation History FAQ — navigation context",
+      "sourcePublisher": "cherokee.gov",
+      "supportingSourceUrls": [
+        "https://tennesseeencyclopedia.net/entries/overhill-cherokees/"
+      ]
     },
     {
       "regionId": "US-NC",
@@ -5235,7 +5244,8 @@
         "Chiaha is treated here as a historical town/access point, not as a newly verified present-day tribal government.",
         "The source presents one scholarly location interpretation. Other location proposals and later migrations are not resolved by this record.",
         "No archaeological coordinates or site geometry are supplied."
-      ]
+      ],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "CA-AB",
@@ -34661,7 +34671,10 @@
       "reviewDate": "2026-11-25",
       "showSourcesInGuide": true,
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://visithagoodmill.com/event/native-american-celebration-2/"
+      ]
     },
     {
       "regionId": "US-SC",
@@ -34706,7 +34719,10 @@
       "reviewDate": "2026-11-25",
       "showSourcesInGuide": true,
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://dogwoodalliance.org/2026/04/an-historic-philanthropic-initiative-to-keep-forests-standing/"
+      ]
     },
     {
       "regionId": "US-SC",
@@ -34722,7 +34738,9 @@
       "navigationOnly": true,
       "countsTowardMinimum": false,
       "supportingSourceUrls": [
-        "https://www.lowereasterncherokeenation.org/"
+        "https://www.lowereasterncherokeenation.org/",
+        "https://www.lowereasterncherokeenation.org/museum",
+        "https://dogwoodalliance.org/2026/04/an-historic-philanthropic-initiative-to-keep-forests-standing/"
       ]
     },
     {
@@ -34790,7 +34808,9 @@
       "navigationOnly": true,
       "countsTowardMinimum": false,
       "supportingSourceUrls": [
-        "https://www.wassamasawtribe.com/"
+        "https://www.wassamasawtribe.com/",
+        "https://www.wassamasawtribe.com/annual-powwow-education-day/",
+        "https://www.wassamasawtribe.com/annual-powwow-education-day/previous-powwows/"
       ]
     },
     {
@@ -34913,6 +34933,331 @@
       "supportingSourceUrls": [
         "https://dnr.sc.gov/managed/wild/jocassee/management3.htm"
       ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Wateree",
+      "associationType": "Documented historical people",
+      "period": "Historical river communities",
+      "sourceUrl": "https://www.scencyclopedia.org/sce/entries/wateree-river/",
+      "sourceTitle": "Wateree River",
+      "sourcePublisher": "University of South Carolina Press",
+      "evidenceNote": "The South Carolina Encyclopedia identifies the Wateree people as former inhabitants along the river that bears their name.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Winyaw",
+      "associationType": "Documented historical people",
+      "period": "Early colonial accounts and local history",
+      "sourceUrl": "https://cms7files.revize.com/georgetownsc/Planning%20%26%20Community%20Development/City%20of%20Georgetown%20Comprehensive%20Plan.pdf",
+      "sourceTitle": "City of Georgetown Comprehensive Plan",
+      "sourcePublisher": "City of Georgetown",
+      "evidenceNote": "The City of Georgetown’s comprehensive plan identifies the Winyaw among the Indigenous peoples of the area and links them to the name Winyah Bay.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.nps.gov/orgs/1539/the-southeast-chronicles-ninety-six-national-historic-site.htm"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Westo",
+      "associationType": "Documented historical people",
+      "period": "Seventeenth-century settlement and trade",
+      "sourceUrl": "https://www.nps.gov/orgs/1539/the-southeast-chronicles-ninety-six-national-historic-site.htm",
+      "sourceTitle": "Southeast Chronicles: Ninety Six National Historic Site",
+      "sourcePublisher": "National Park Service, Southeast Archeological Center",
+      "evidenceNote": "The National Park Service documents a Westo town in the middle Savannah River region of present-day South Carolina and Georgia. The map indexes the South Carolina connection to that border region.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.charlestonmuseum.org/assets/pdf/ArchaeologyReports/Dill%20Sanctuary%20Summary%202012%20-%20AC%2046.pdf",
+        "https://archaeology.uga.edu/sites/default/files/2021-12/uga_lab_series_34.pdf"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Sewee",
+      "associationType": "Documented historical people",
+      "period": "Seventeenth-century coastal communities",
+      "sourceUrl": "https://www.charleston-sc.gov/DocumentCenter/View/32807/Upper-Peninsula-Final-Report",
+      "sourceTitle": "Charleston Upper Peninsula Archaeological Survey",
+      "sourcePublisher": "City of Charleston",
+      "evidenceNote": "Charleston’s archaeological survey identifies the Seewee as a coastal people and describes a range extending toward the Santee River.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.ccpl.org/charleston-time-machine/first-people-south-carolina-lowcountry?language=en"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Kiawah",
+      "associationType": "Documented historical people",
+      "period": "Late seventeenth-century Lowcountry settlements",
+      "sourceUrl": "https://www.charleston-sc.gov/DocumentCenter/View/32807/Upper-Peninsula-Final-Report",
+      "sourceTitle": "Charleston Upper Peninsula Archaeological Survey",
+      "sourcePublisher": "City of Charleston",
+      "evidenceNote": "The City of Charleston’s archaeological survey connects the Kiawah with the lower Ashley River and later with Kiawah Island.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.ccpl.org/charleston-time-machine/first-people-south-carolina-lowcountry?language=en"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Etiwan",
+      "associationType": "Documented historical people",
+      "period": "Seventeenth-century Lowcountry settlements",
+      "sourceUrl": "https://www.charleston-sc.gov/DocumentCenter/View/32807/Upper-Peninsula-Final-Report",
+      "sourceTitle": "Charleston Upper Peninsula Archaeological Survey",
+      "sourcePublisher": "City of Charleston",
+      "evidenceNote": "The Charleston archaeological survey describes settlements on or near Daniel Island and a range along the Cooper River.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.ccpl.org/charleston-time-machine/first-people-south-carolina-lowcountry?language=en"
+      ]
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Stono",
+      "associationType": "Documented historical people",
+      "period": "Seventeenth-century Lowcountry communities",
+      "sourceUrl": "https://www.ccpl.org/charleston-time-machine/first-people-south-carolina-lowcountry?language=en",
+      "sourceTitle": "First People of the South Carolina Lowcountry",
+      "sourcePublisher": "Charleston County Public Library",
+      "evidenceNote": "Charleston County Public Library connects the historical Stono people with the Charleston Harbor and Stono River area.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-SC",
+      "name": "Museum of the Cherokee in South Carolina",
+      "associationType": "Documented museum",
+      "period": "Museum’s published location and program information",
+      "sourceUrl": "https://cherokeemuseumsc.org/location",
+      "sourceTitle": "Location — Museum of the Cherokee in South Carolina",
+      "sourcePublisher": "Museum of the Cherokee in South Carolina",
+      "evidenceNote": "The museum publishes a Walhalla location and describes Cherokee educational programs, exhibitions and collection work.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://cherokeemuseumsc.org/"
+      ]
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Chota",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/chota/",
+      "sourceTitle": "Chota",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Tennessee Historical Society identifies Chota as an Overhill town on the Little Tennessee River and discusses its setting in what became the Tellico Reservoir.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://tennesseeencyclopedia.net/entries/overhill-cherokees/"
+      ]
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Tanasi",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/chota/",
+      "sourceTitle": "Chota",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "Gerald F. Schroedl identifies Tanasi as a named Overhill Cherokee town near Chota in the Little Tennessee River valley.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://tennesseeencyclopedia.net/entries/overhill-cherokees/"
+      ]
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Great Tellico",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/overhill-cherokees/",
+      "sourceTitle": "Overhill Cherokees",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Tennessee Historical Society’s Overhill essay lists Great Tellico among the Cherokee towns of the Tellico River.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Toqua",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/overhill-cherokees/",
+      "sourceTitle": "Overhill Cherokees",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Tennessee Historical Society identifies Toqua among the named Overhill settlements along the Little Tennessee River.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Tomotley",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/overhill-cherokees/",
+      "sourceTitle": "Overhill Cherokees",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Overhill essay names Tomotley as a Cherokee town near the eighteenth-century construction of Fort Loudoun.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Tuskeegee",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/overhill-cherokees/",
+      "sourceTitle": "Overhill Cherokees",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Tennessee Historical Society names Tuskeegee in the Little Tennessee River valley and near Fort Loudoun.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Hiwassee Old Town",
+      "associationType": "Documented historical Cherokee town",
+      "period": "Eighteenth-century Overhill settlement",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/overhill-cherokees/",
+      "sourceTitle": "Overhill Cherokees",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Tennessee Historical Society identifies Hiwassee Old Town as a named Overhill Cherokee settlement along the Hiwassee River.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Native American Indian Association of Tennessee",
+      "associationType": "Documented intertribal organization",
+      "period": "NEA 2024 profile and publicly announced 2026 event",
+      "sourceUrl": "https://www.arts.gov/stories/blog/2024/artshere-grant-spotlight-native-american-indian-association-tennessee",
+      "sourceTitle": "ArtsHERE Grant Spotlight: Native American Indian Association of Tennessee",
+      "sourcePublisher": "National Endowment for the Arts",
+      "evidenceNote": "The National Endowment for the Arts documents the organization’s statewide Native services and Nashville cultural work. The organization lists a public Tennessee Indian Education Pow Wow in Nashville.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://naiatn.org/powwow/"
+      ]
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Sequoyah Birthplace Museum",
+      "associationType": "Documented museum",
+      "period": "Museum program and National Historic Trail site record",
+      "sourceUrl": "https://sequoyahmuseum.org/",
+      "sourceTitle": "Sequoyah Birthplace Museum",
+      "sourcePublisher": "Sequoyah Birthplace Museum",
+      "evidenceNote": "The museum’s own website and the National Park Service both place it in Vonore and document its public interpretation of Sequoyah and Cherokee history.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false,
+      "supportingSourceUrls": [
+        "https://www.nps.gov/places/sequoyah-birthplace-museum.htm"
+      ]
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Red Clay State Historic Park",
+      "associationType": "Documented historical site and public park",
+      "period": "Nineteenth-century Cherokee councils and present-day park interpretation",
+      "sourceUrl": "https://home.nps.gov/places/red-clay-state-historic-park.htm",
+      "sourceTitle": "Red Clay State Historic Park",
+      "sourcePublisher": "National Park Service",
+      "evidenceNote": "The National Park Service identifies Red Clay as Cherokee council grounds before removal and locates the public park near Cleveland, Tennessee.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Pinson Mounds State Archaeological Park",
+      "associationType": "Documented archaeological site and public park",
+      "period": "Public archaeological park",
+      "sourceUrl": "https://www.tn.gov/environment/program-areas/archaeology/arch-parks.html",
+      "sourceTitle": "Tennessee State Archaeological Parks & Areas",
+      "sourcePublisher": "Tennessee Division of Archaeology",
+      "evidenceNote": "The Tennessee Division of Archaeology names Pinson Mounds State Archaeological Park and locates it near Jackson in western Tennessee.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Shawnee",
+      "associationType": "Historical Cumberland River settlements",
+      "period": "Seventeenth- and eighteenth-century records",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/shawnees/",
+      "sourceTitle": "Shawnees",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "Jerry E. Clark’s Tennessee Historical Society essay documents historical Shawnee villages along the Cumberland River, including near present-day Nashville.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-TN",
+      "name": "Yuchi",
+      "associationType": "Historical Tennessee River connections",
+      "period": "Late seventeenth- and early eighteenth-century records",
+      "sourceUrl": "https://tennesseeencyclopedia.net/entries/yuchi-indians/",
+      "sourceTitle": "Yuchi Indians",
+      "sourcePublisher": "Tennessee Historical Society",
+      "evidenceNote": "The Tennessee Historical Society reviews reports of Yuchi communities associated with the Tennessee River and discusses uncertainty about individual sites in present-day eastern Tennessee.",
+      "reviewDate": "2026-11-25",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
     }
   ]
 }

@@ -3,25 +3,12 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2019,
+    "selectedProfiles": 2038,
     "existingApache": 1,
-    "newProfileTreatments": 2018,
-    "newTreatmentsWithPhotographs": 1837,
-    "decorativeTreatmentsAwaitingPhotographs": 181,
-    "autoEnrolledThisBuild": [
-      "american-indian-chamber-of-commerce-of-south-carolina",
-      "beaver-creek-indians",
-      "chaloklowa-chickasaw-indian-people",
-      "eastern-cherokee-southern-iroquois-and-united-tribes-of-south-carolina",
-      "little-horse-creek-american-indian-association-and-cultural-center",
-      "natchez-tribe-of-south-carolina",
-      "pee-dee-indian-nation-of-beaver-creek",
-      "pee-dee-indian-nation-of-upper-south-carolina",
-      "pee-dee-indian-tribe",
-      "piedmont-american-indian-association-lower-eastern-cherokee-nation-of-south-carolina",
-      "pine-hill-indian-community-development-initiative",
-      "wassamasaw-tribe-of-varnertown-indians"
-    ]
+    "newProfileTreatments": 2037,
+    "newTreatmentsWithPhotographs": 1844,
+    "decorativeTreatmentsAwaitingPhotographs": 193,
+    "autoEnrolledThisBuild": []
   },
   "treatments": [
     {
@@ -19496,6 +19483,29 @@
       "substantiveInspectedSources": 4
     },
     {
+      "slug": "chota",
+      "name": "Chota",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 140,
+      "angle": 77,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:140;--profile-angle:77deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "chugachmiut",
       "name": "Chugachmiut",
       "originalId": null,
@@ -26942,14 +26952,55 @@
       "hue": 265,
       "angle": 48,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sc-eastern-cherokee-southern-iroquois-and-united-tribes-of-south-carolina-aerial",
+          "title": "Hagood Mill Historic Site",
+          "alt": "Aerial view of the public Hagood Mill Historic Site and its surrounding trees",
+          "scope": "Hagood Mill Historic Site in Pickens. The venue’s Native American Celebration program lists a representative of Eastern Cherokee, Southern Iroquois and United Tribes of South Carolina. The image is resized for the web and retains the listed license.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "eastern-cherokee-southern-iroquois-and-united-tribes-of-south-carolina"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9209095.04%2C4153510.65%2C-9208363.24%2C4154059.50&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Native American Celebration at Hagood Mill",
+              "url": "https://visithagoodmill.com/event/native-american-celebration-2/"
+            }
+          ],
+          "asset": "assets/profile-visuals/sc-eastern-cherokee-southern-iroquois-and-united-tribes-of-south-carolina-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/sc-eastern-cherokee-southern-iroquois-and-united-tribes-of-south-carolina-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 277043,
+              "sha256": "19fff4026022bdcb19495fa9f9348668f792035d0ad17157dd2e3975b82ba58a"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 96652,
+              "sha256": "13f924355a5acb3737918113f853e554149bc83f051319b5c8264f4016094637"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:265;--profile-angle:48deg;--profile-photo:none",
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:265;--profile-angle:48deg;--profile-photo:url(\"../../assets/profile-visuals/sc-eastern-cherokee-southern-iroquois-and-united-tribes-of-south-carolina-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -29267,6 +29318,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:50;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-essipit.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "etiwan",
+      "name": "Etiwan",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 319,
+      "angle": -61,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:-61deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -34993,6 +35067,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "great-tellico",
+      "name": "Great Tellico",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 79,
+      "angle": 49,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:79;--profile-angle:49deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "green-lake-metis-community",
       "name": "Green Lake Métis community",
       "originalId": null,
@@ -37929,6 +38026,29 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:182;--profile-angle:-28deg;--profile-photo:url(\"../../assets/profile-visuals/on-gap-photo-historical-sault-ste-marie-metis-council.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "hiwassee-old-town",
+      "name": "Hiwassee Old Town",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 317,
+      "angle": -6,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:317;--profile-angle:-6deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -47433,6 +47553,29 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:249;--profile-angle:-59deg;--profile-photo:url(\"../../assets/profile-visuals/on-supplement-photo-kiashke-zaaging-anishinaabek-gull-bay-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kiawah",
+      "name": "Kiawah",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 164,
+      "angle": 60,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:164;--profile-angle:60deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -67163,6 +67306,70 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "museum-of-the-cherokee-in-south-carolina",
+      "name": "Museum of the Cherokee in South Carolina",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 20,
+      "angle": -58,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "sc-museum-of-the-cherokee-in-south-carolina-licensed-photo",
+          "title": "Museum of the Cherokee in South Carolina",
+          "alt": "Exterior of the Museum of the Cherokee in South Carolina in Walhalla",
+          "scope": "The museum building in Walhalla, South Carolina. The image is resized for the web and retains the listed license.",
+          "creator": "Brian Stansberry",
+          "credit": "Brian Stansberry",
+          "cardCredit": "Brian Stansberry",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "museum-of-the-cherokee-in-south-carolina"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walhalla-Museum-of-the-Cherokee-in-sc.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Walhalla-Museum-of-the-Cherokee-in-sc.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0",
+          "contextSources": [
+            {
+              "title": "Museum of the Cherokee in South Carolina",
+              "url": "https://cherokeemuseumsc.org/"
+            }
+          ],
+          "asset": "assets/profile-visuals/sc-museum-of-the-cherokee-in-south-carolina-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/sc-museum-of-the-cherokee-in-south-carolina-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 800,
+              "bytes": 143178,
+              "sha256": "e3aa39be71e4f4dc39c44f65a94cdf3163c0c1c4464a42f7c7d743e724ce25f4"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 453,
+              "bytes": 53511,
+              "sha256": "84e57c71eaccc51e7e40a1c0d2a30d20b61fec22450142abf414852aa5471143"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:20;--profile-angle:-58deg;--profile-photo:url(\"../../assets/profile-visuals/sc-museum-of-the-cherokee-in-south-carolina-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "museum-of-the-cherokee-people",
       "name": "Museum of the Cherokee People",
       "originalId": null,
@@ -69926,6 +70133,70 @@
         "used": 0
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:97;--profile-angle:-13deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-indian-association-of-tennessee",
+      "name": "Native American Indian Association of Tennessee",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 248,
+      "angle": -24,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "tn-native-american-indian-association-of-tennessee-aerial",
+          "title": "Long Hunter State Park",
+          "alt": "Aerial view of the public Long Hunter State Park landscape",
+          "scope": "Long Hunter State Park, the public venue listed by the Native American Indian Association of Tennessee for its 2026 Tennessee Indian Education Pow Wow. The image is resized for the web and retains the listed license.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "native-american-indian-association-of-tennessee"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9635978.69%2C4313333.57%2C-9634555.47%2C4314400.99&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Tennessee Indian Education Pow Wow",
+              "url": "https://naiatn.org/powwow/"
+            }
+          ],
+          "asset": "assets/profile-visuals/tn-native-american-indian-association-of-tennessee-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/tn-native-american-indian-association-of-tennessee-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 246875,
+              "sha256": "e2daa5049cfc04451f7ccf384e4f341e511e0b3749696646cb2c5120cb82cc61"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 81558,
+              "sha256": "2c76f473d4105344346c36808aa3a9bdcab43460d3b34170e33654d0ff99af69"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:248;--profile-angle:-24deg;--profile-photo:url(\"../../assets/profile-visuals/tn-native-american-indian-association-of-tennessee-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -91194,6 +91465,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "pinson-mounds-state-archaeological-park",
+      "name": "Pinson Mounds State Archaeological Park",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 41,
+      "angle": -40,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:41;--profile-angle:-40deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "piscataway",
       "name": "Piscataway",
       "originalId": 295,
@@ -96192,6 +96486,70 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 5
+    },
+    {
+      "slug": "red-clay-state-historic-park",
+      "name": "Red Clay State Historic Park",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 211,
+      "angle": 51,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "tn-red-clay-state-historic-park-aerial",
+          "title": "Red Clay State Historic Park",
+          "alt": "Aerial view of the public park grounds near Cleveland, Tennessee",
+          "scope": "The modern public Red Clay State Historic Park, where visitors can learn about nineteenth-century Cherokee council meetings. The image is resized for the web and retains the listed license.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "red-clay-state-historic-park"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9456461.91%2C4162758.69%2C-9455827.16%2C4163234.75&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Red Clay State Historic Park",
+              "url": "https://home.nps.gov/places/red-clay-state-historic-park.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/tn-red-clay-state-historic-park-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/tn-red-clay-state-historic-park-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 214453,
+              "sha256": "0f8bc0a89dde6dc4bfe79f10ce8b6e9b290241ba410952ad63cfcdb3b81f14b1"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 76053,
+              "sha256": "fd3453063428dfa7c2321a6c3689dc4c49162e121c393255dbf8c71a9045f4e8"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:211;--profile-angle:51deg;--profile-photo:url(\"../../assets/profile-visuals/tn-red-clay-state-historic-park-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "red-cliff-band-of-lake-superior-chippewa",
@@ -102269,6 +102627,74 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "sequoyah-birthplace-museum",
+      "name": "Sequoyah Birthplace Museum",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 308,
+      "angle": 43,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "tn-sequoyah-birthplace-museum-aerial",
+          "title": "Sequoyah Birthplace Museum on Tellico Lake",
+          "alt": "Aerial view of the museum grounds along the shore of Tellico Lake",
+          "scope": "The public Sequoyah Birthplace Museum grounds in Vonore on Tellico Lake. The image is resized for the web and retains the listed license.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "sequoyah-birthplace-museum"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9375149.37%2C4242716.19%2C-9374473.12%2C4243223.38&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Sequoyah Birthplace Museum",
+              "url": "https://sequoyahmuseum.org/"
+            },
+            {
+              "title": "Sequoyah Birthplace Museum",
+              "url": "https://www.nps.gov/places/sequoyah-birthplace-museum.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/tn-sequoyah-birthplace-museum-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/tn-sequoyah-birthplace-museum-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 182996,
+              "sha256": "18b5a372058940948a95c2977b17e25998905cd4198abeb31d96ad3302f162a3"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 64465,
+              "sha256": "630951dbc00e0783f080235d4e9f3db3f769e68ca6c6a56239de87fe558a152b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:308;--profile-angle:43deg;--profile-photo:url(\"../../assets/profile-visuals/tn-sequoyah-birthplace-museum-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "sermiligaaq",
       "name": "Sermiligaaq",
       "originalId": null,
@@ -102463,6 +102889,29 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:49;--profile-angle:-64deg;--profile-photo:url(\"../../assets/profile-visuals/alaska-seward-satellite-2025.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "sewee",
+      "name": "Sewee",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 316,
+      "angle": 64,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:316;--profile-angle:64deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -109333,6 +109782,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "stono",
+      "name": "Stono",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 348,
+      "angle": 23,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:348;--profile-angle:23deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "stsailes-nation",
       "name": "Sts’ailes Nation",
       "originalId": null,
@@ -111517,6 +111989,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:170;--profile-angle:-59deg;--profile-photo:url(\"../../assets/profile-visuals/alaska-tetlin-satellite-2026.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tanasi",
+      "name": "Tanasi",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 291,
+      "angle": 76,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:291;--profile-angle:76deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -115270,6 +115765,29 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "tomotley",
+      "name": "Tomotley",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 166,
+      "angle": -10,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:166;--profile-angle:-10deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tonkawa",
       "name": "Tonkawa",
       "originalId": 394,
@@ -115378,6 +115896,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:252;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/mb-sentinel-tootinaowaziibeeng-treaty-reserve.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "toqua",
+      "name": "Toqua",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 133,
+      "angle": 31,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:133;--profile-angle:31deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -118153,6 +118694,29 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:353;--profile-angle:-6deg;--profile-photo:url(\"../../assets/profile-visuals/nc-tuscarora-nation-of-north-carolina-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tuskeegee",
+      "name": "Tuskeegee",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 133,
+      "angle": 76,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:133;--profile-angle:76deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -123793,14 +124357,59 @@
       "hue": 2,
       "angle": 0,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "sc-wassamasaw-tribe-of-varnertown-indians-aerial",
+          "title": "Old Santee Canal Park",
+          "alt": "Aerial view of Old Santee Canal Park in Moncks Corner",
+          "scope": "The public park in Moncks Corner named in the Wassamasaw Tribe’s powwow and education-day materials. The image is resized for the web and retains the listed license.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "wassamasaw-tribe-of-varnertown-indians"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8902724.87%2C3921428.23%2C-8901828.57%2C3922100.46&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "2026 Wassamasaw Tribe Annual Powwow and Education Day",
+              "url": "https://www.wassamasawtribe.com/annual-powwow-education-day/"
+            },
+            {
+              "title": "Previous Powwows and Native American Education Days",
+              "url": "https://www.wassamasawtribe.com/annual-powwow-education-day/previous-powwows/"
+            }
+          ],
+          "asset": "assets/profile-visuals/sc-wassamasaw-tribe-of-varnertown-indians-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/sc-wassamasaw-tribe-of-varnertown-indians-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 263440,
+              "sha256": "0f6cbd0a02ae4bf74fadd6bd633a26770a1c51f670c122e0985793e1769ddd9b"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 87649,
+              "sha256": "353cac1b8c5b1aa5280cff73af1fa29e0371cf3dbfaf6ccf753129d69ed996bb"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:2;--profile-angle:0deg;--profile-photo:none",
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:2;--profile-angle:0deg;--profile-photo:url(\"../../assets/profile-visuals/sc-wassamasaw-tribe-of-varnertown-indians-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -123870,6 +124479,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:196;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-waswanipi.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "wateree",
+      "name": "Wateree",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 206,
+      "angle": -65,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:206;--profile-angle:-65deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -125099,6 +125731,29 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:121;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-westbank-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "westo",
+      "name": "Westo",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 187,
+      "angle": -22,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:187;--profile-angle:-22deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -126568,6 +127223,70 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:-51deg;--profile-photo:url(\"../../assets/profile-visuals/qc-photo-winneway.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "winyaw",
+      "name": "Winyaw",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 308,
+      "angle": 13,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "sc-winyaw-licensed-photo",
+          "title": "Winyah Bay from Landsat",
+          "alt": "Satellite view of Winyah Bay and its surrounding estuaries",
+          "scope": "A modern satellite view of Winyah Bay, the South Carolina estuary the city of Georgetown associates with the Winyaw. The image is resized for the web and retains the listed license.",
+          "creator": "Norman Kuring, NASA Ocean Color Web, using USGS Landsat data",
+          "credit": "Norman Kuring, NASA Ocean Color Web, using USGS Landsat data",
+          "cardCredit": "Norman Kuring, NASA Ocean Color Web, using USGS Landsat data",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "winyaw"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winyah_Bay.jpeg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Winyah_Bay.jpeg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Winyah_Bay.jpeg#Licensing",
+          "rightsLabel": "U.S. public domain",
+          "contextSources": [
+            {
+              "title": "City of Georgetown Comprehensive Plan",
+              "url": "https://cms7files.revize.com/georgetownsc/Planning%20%26%20Community%20Development/City%20of%20Georgetown%20Comprehensive%20Plan.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/sc-winyaw-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/sc-winyaw-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 1159,
+              "bytes": 196560,
+              "sha256": "94bd09cb8a0a846299c260f58e05296af0206ece30b159f258f473c1aeff1c59"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 657,
+              "bytes": 71853,
+              "sha256": "64094da861d1fea02d476b9a34d8e9c2ca409b69f3ff78871ae1ed54fe23c3c1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:308;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/sc-winyaw-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
