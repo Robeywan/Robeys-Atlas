@@ -3,12 +3,18 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2116,
+    "selectedProfiles": 2131,
     "existingApache": 1,
-    "newProfileTreatments": 2115,
-    "newTreatmentsWithPhotographs": 1951,
-    "decorativeTreatmentsAwaitingPhotographs": 164,
-    "autoEnrolledThisBuild": []
+    "newProfileTreatments": 2130,
+    "newTreatmentsWithPhotographs": 1961,
+    "decorativeTreatmentsAwaitingPhotographs": 169,
+    "autoEnrolledThisBuild": [
+      "brighton-reservation",
+      "cherokees-of-central-florida",
+      "fort-pierce-reservation",
+      "immokalee-reservation",
+      "lakeland-reservation"
+    ]
   },
   "treatments": [
     {
@@ -1519,6 +1525,74 @@
       "researchComplete": false,
       "initialAdequacy": "Not assessed",
       "substantiveInspectedSources": 20
+    },
+    {
+      "slug": "ais",
+      "name": "Ais",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 244,
+      "angle": 0,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "fl-ais-licensed-photo",
+          "title": "Indian River Lagoon at Pelican Island National Wildlife Refuge",
+          "alt": "View across the Indian River Lagoon near Pelican Island in Florida",
+          "scope": "The modern Indian River Lagoon illustrates the regional landscape where the National Park Service documents the historical Ais. The image is resized for the web.",
+          "creator": "U.S. Fish and Wildlife Service",
+          "credit": "Photo by U.S. Fish and Wildlife Service, via Wikimedia Commons",
+          "cardCredit": "Photo by U.S. Fish and Wildlife Service, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "ais"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pelican_Island_Indian_River_Lagoon.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pelican_Island_Indian_River_Lagoon.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Pelican_Island_Indian_River_Lagoon.jpg#Licensing",
+          "rightsLabel": "Public domain · U.S. federal government work",
+          "contextSources": [
+            {
+              "title": "Pre-Columbian · Canaveral National Seashore",
+              "url": "https://www.nps.gov/articles/000/pre-columbian.htm"
+            },
+            {
+              "title": "Indian River Lagoon historical setting",
+              "url": "https://repository.library.noaa.gov/view/noaa/35458/noaa_35458_DS1.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-ais-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/fl-ais-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 512,
+              "height": 386,
+              "bytes": 40499,
+              "sha256": "e5b2d1d096f13a8b3b0572e00ff1aedee8a208c164be2c24558bde6ffd563e63"
+            },
+            "cardAsset": {
+              "width": 512,
+              "height": 386,
+              "bytes": 43289,
+              "sha256": "9b3355a38976f0edab92d42d8b1a430b1dafac120555fa2084dcf16b00f9df51"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:244;--profile-angle:0deg;--profile-photo:url(\"../../assets/profile-visuals/fl-ais-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "aitchelitz-first-nation",
@@ -10861,6 +10935,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "big-cypress-reservation",
+      "name": "Big Cypress Reservation",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 340,
+      "angle": -73,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "fl-big-cypress-reservation-licensed-photo",
+          "title": "Ah-Tah-Thi-Ki Museum at Big Cypress",
+          "alt": "View of the Ah-Tah-Thi-Ki Museum on the Big Cypress Reservation",
+          "scope": "The Seminole Tribe of Florida’s museum is on the Big Cypress Reservation. The image is resized for the web.",
+          "creator": "Leonard J. DeFrancisci",
+          "credit": "Photo by Leonard J. DeFrancisci, via Wikimedia Commons",
+          "cardCredit": "Photo by Leonard J. DeFrancisci, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "big-cypress-reservation"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ah-Tah-Thi-Ki_Museum_(Seminole)_P002.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ah-Tah-Thi-Ki_Museum_%28Seminole%29_P002.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0 International",
+          "contextSources": [
+            {
+              "title": "Big Cypress Reservation",
+              "url": "https://www.semtribe.com/enterprises/big-cypress-reservation"
+            },
+            {
+              "title": "Ah-Tah-Thi-Ki Museum",
+              "url": "https://www.ahtahthiki.com/"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-big-cypress-reservation-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/fl-big-cypress-reservation-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 211531,
+              "sha256": "0b9d9c2aba975784072755bcbfd676e60194e0e00f8ad912f1cf341eac35af87"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 75455,
+              "sha256": "72db437012b296689fdbc47e423ea0e3254a21aac8c29825dbc63141ff540bf8"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:340;--profile-angle:-73deg;--profile-photo:url(\"../../assets/profile-visuals/fl-big-cypress-reservation-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "big-island-lake-cree-nation",
       "name": "Big Island Lake Cree Nation",
       "originalId": null,
@@ -13150,6 +13292,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "brighton-reservation",
+      "name": "Brighton Reservation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 31,
+      "angle": 63,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:31;--profile-angle:63deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "brokenhead-ojibway-nation",
       "name": "Brokenhead Ojibway Nation",
       "originalId": null,
@@ -14449,6 +14614,70 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:38;--profile-angle:-66deg;--profile-photo:url(\"../../assets/profile-visuals/on-supplement-photo-caldwell-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "calusa",
+      "name": "Calusa",
+      "originalId": 40,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 90,
+      "angle": 36,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "fl-calusa-aerial",
+          "title": "Mound Key in Estero Bay",
+          "alt": "Aerial photograph of the wooded island of Mound Key amid the waters and mangroves of Estero Bay",
+          "scope": "University of Florida researchers document Mound Key as an important Calusa site in present-day Lee County. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "calusa"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9113635.07%2C3051127.02%2C-9112786.42%2C3051763.50&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Investigating the Calusa",
+              "url": "https://www.floridamuseum.ufl.edu/science/investigating-the-calusa/"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-calusa-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/fl-calusa-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 308634,
+              "sha256": "b3e7b1c04d59c3081339e339167e5237f158ae978d1ba869983e2bc3ab365ae6"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 97000,
+              "sha256": "46fd517d0366c1fa06f4703cb13b2e541ef946e7961b659cd667db56d26510bc"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:90;--profile-angle:36deg;--profile-photo:url(\"../../assets/profile-visuals/fl-calusa-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -17641,6 +17870,29 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:105;--profile-angle:-17deg;--profile-photo:url(\"../../assets/profile-visuals/ga-cherokee-of-georgia-tribal-council-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "cherokees-of-central-florida",
+      "name": "Cherokees of Central Florida",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 60,
+      "angle": -3,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:60;--profile-angle:-3deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -32159,6 +32411,78 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "florida-indian-heritage-association",
+      "name": "Florida Indian Heritage Association",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 250,
+      "angle": 71,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "fl-florida-indian-heritage-association-aerial",
+          "title": "St. Lucie County Fairgrounds",
+          "alt": "Aerial view of the western part of St. Lucie County Fairgrounds and nearby fields",
+          "scope": "The Florida Indian Heritage Association lists the St. Lucie County Fairgrounds as the venue for its March powwow. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "florida-indian-heritage-association"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8960447.25%2C3169192.78%2C-8959546.42%2C3169868.40&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Florida Indian Heritage Association · Public programs",
+              "url": "https://fiha.us/"
+            },
+            {
+              "title": "St. Lucie County Fair public venue",
+              "url": "https://www.stluciecountyfair.org/contact-us"
+            },
+            {
+              "title": "St. Lucie County Fairgrounds venue guide",
+              "url": "https://rallycross.cfrscca.org/st-lucie-fairgrounds/"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-florida-indian-heritage-association-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/fl-florida-indian-heritage-association-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 250415,
+              "sha256": "1feb9e0a386a57b067b67579a36de4fa58725c7c99e890964e50a2c2e5c5f398"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 83457,
+              "sha256": "a24ea4ee27b7225d67b25a4353fd747dec56aff2db71c3a693f59b9927e3f085"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:250;--profile-angle:71deg;--profile-photo:url(\"../../assets/profile-visuals/fl-florida-indian-heritage-association-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "flying-dust-first-nation",
       "name": "Flying Dust First Nation",
       "originalId": null,
@@ -33153,6 +33477,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:359;--profile-angle:34deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-fort-nelson-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fort-pierce-reservation",
+      "name": "Fort Pierce Reservation",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 4,
+      "angle": 0,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:4;--profile-angle:0deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -40751,6 +41098,79 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "hollywood-reservation",
+      "name": "Hollywood Reservation",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 161,
+      "angle": 45,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "fl-hollywood-reservation-aerial",
+          "title": "Seminole Tribal Headquarters on the Hollywood Reservation",
+          "alt": "Aerial photograph of the Seminole Tribe of Florida’s headquarters campus along Stirling Road",
+          "scope": "The Seminole Tribe of Florida identifies this public-facing administrative campus as its headquarters on the Hollywood Reservation. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "hollywood-reservation",
+            "seminole-tribe-of-florida"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8929742.29%2C3004590.81%2C-8929408.38%2C3004841.25&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Hollywood Reservation",
+              "url": "https://www.semtribe.com/enterprises/hollywood-reservation"
+            },
+            {
+              "title": "Seminole Tribe of Florida Headquarters",
+              "url": "https://www.semtribe.com/contact-us"
+            },
+            {
+              "title": "Hollywood Tribal Headquarters, public facility location table",
+              "url": "https://seminoletribune.org/wp-content/uploads/2020/09/Seminole-Tribune-August-31-2020-1.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-hollywood-reservation-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/fl-hollywood-reservation-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 234750,
+              "sha256": "7cc64ed5810d26b4ba6e09cd4b4086411ebe283fd79269441b1b58d4e9c246fb"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 84631,
+              "sha256": "2dafd37c64e2d74d641a48462703a93d2d1614e2bf184988bb79a47d7aaca6ff"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:161;--profile-angle:45deg;--profile-photo:url(\"../../assets/profile-visuals/fl-hollywood-reservation-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "holy-cross-tribe",
       "name": "Holy Cross Tribe",
       "originalId": null,
@@ -43118,6 +43538,29 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:107;--profile-angle:8deg;--profile-photo:url(\"../../assets/profile-visuals/gl-photo-ilulissat.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "immokalee-reservation",
+      "name": "Immokalee Reservation",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 228,
+      "angle": -27,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:228;--profile-angle:-27deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -56962,6 +57405,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:256;--profile-angle:-38deg;--profile-photo:url(\"../../assets/profile-visuals/ab-photo-lakeland-metis-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "lakeland-reservation",
+      "name": "Lakeland Reservation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 168,
+      "angle": 76,
+      "composition": "ribbon",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:168;--profile-angle:76deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -107696,6 +108162,79 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "seminole-tribe-of-florida",
+      "name": "Seminole Tribe of Florida",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 24,
+      "angle": -67,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "fl-hollywood-reservation-aerial",
+          "title": "Seminole Tribal Headquarters on the Hollywood Reservation",
+          "alt": "Aerial photograph of the Seminole Tribe of Florida’s headquarters campus along Stirling Road",
+          "scope": "The Seminole Tribe of Florida identifies this public-facing administrative campus as its headquarters on the Hollywood Reservation. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "hollywood-reservation",
+            "seminole-tribe-of-florida"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-8929742.29%2C3004590.81%2C-8929408.38%2C3004841.25&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Hollywood Reservation",
+              "url": "https://www.semtribe.com/enterprises/hollywood-reservation"
+            },
+            {
+              "title": "Seminole Tribe of Florida Headquarters",
+              "url": "https://www.semtribe.com/contact-us"
+            },
+            {
+              "title": "Hollywood Tribal Headquarters, public facility location table",
+              "url": "https://seminoletribune.org/wp-content/uploads/2020/09/Seminole-Tribune-August-31-2020-1.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-hollywood-reservation-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/fl-hollywood-reservation-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 234750,
+              "sha256": "7cc64ed5810d26b4ba6e09cd4b4086411ebe283fd79269441b1b58d4e9c246fb"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 84631,
+              "sha256": "2dafd37c64e2d74d641a48462703a93d2d1614e2bf184988bb79a47d7aaca6ff"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:24;--profile-angle:-67deg;--profile-photo:url(\"../../assets/profile-visuals/fl-hollywood-reservation-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "seneca",
       "name": "Seneca",
       "originalId": 341,
@@ -117567,6 +118106,142 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "tamiami-trail-reservation",
+      "name": "Tamiami Trail Reservation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 127,
+      "angle": 60,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "fl-tamiami-trail-reservation-licensed-photo",
+          "title": "Chickee shelters at Miccosukee Indian Village",
+          "alt": "Thatched chickee shelters and a walkway at the Miccosukee Indian Village",
+          "scope": "Public visitor structures at the tribal village museum along Florida’s Tamiami Trail. The image is resized for the web.",
+          "creator": "Oskar Aanmoen",
+          "credit": "Photo by Oskar Aanmoen, via Wikimedia Commons",
+          "cardCredit": "Photo by Oskar Aanmoen, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "tamiami-trail-reservation"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miccusokee_Indian_Village_-_Florida_C.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Miccusokee_Indian_Village_-_Florida_C.JPG",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0 Unported",
+          "contextSources": [
+            {
+              "title": "A Brief History of the Miccosukee Tribe of Indians of Florida",
+              "url": "https://miccosukee.com/miccosukee-tribe-history/"
+            },
+            {
+              "title": "Village Museum",
+              "url": "https://miccosukee.com/resort/experiences/village-museum/"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-tamiami-trail-reservation-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/fl-tamiami-trail-reservation-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 60690,
+              "sha256": "ffbcc6a28677a550456baf7faab2b64185950b2c52a8691a0d038f0bc2649fa8"
+            },
+            "cardAsset": {
+              "width": 640,
+              "height": 480,
+              "bytes": 64162,
+              "sha256": "cc7782ac8c1262917066e33fba6a10988c2a14257345460073807a246b64cc57"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:127;--profile-angle:60deg;--profile-photo:url(\"../../assets/profile-visuals/fl-tamiami-trail-reservation-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tampa-reservation",
+      "name": "Tampa Reservation",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 109,
+      "angle": -57,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "fl-tampa-reservation-licensed-photo",
+          "title": "Seminole Hard Rock Hotel in Tampa",
+          "alt": "Exterior of the Seminole Hard Rock Hotel in Tampa",
+          "scope": "The hotel is a public venue operated by the Seminole Tribe of Florida on the Tampa Reservation. The image is resized for the web.",
+          "creator": "Kev Cook",
+          "credit": "Photo by Kev Cook, via Wikimedia Commons",
+          "cardCredit": "Photo by Kev Cook, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "tampa-reservation"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hard_Rock_Hotel,_Tampa.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Hard_Rock_Hotel%2C_Tampa.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0 International",
+          "contextSources": [
+            {
+              "title": "Tampa Reservation",
+              "url": "https://www.semtribe.com/enterprises/tampa-reservation"
+            },
+            {
+              "title": "Spotlight on the Tampa Seminole Reservation",
+              "url": "https://www.floridaseminoletourism.com/spotlight-on-the-tampa-seminole-reservation/"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-tampa-reservation-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/fl-tampa-reservation-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 654,
+              "bytes": 144293,
+              "sha256": "72e3de886b5b78cec47234b6062ad109fefbc1a57cb8932584744e3f145bcd6c"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 371,
+              "bytes": 60244,
+              "sha256": "f0bb154e3e4148922b16631d96fe3619feda7d7fc3627a3aaa777164adc6de1d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:109;--profile-angle:-57deg;--profile-photo:url(\"../../assets/profile-visuals/fl-tampa-reservation-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tanacross",
       "name": "Tanacross",
       "originalId": 371,
@@ -118954,6 +119629,74 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:153;--profile-angle:-46deg;--profile-photo:url(\"../../assets/profile-visuals/on-gap-photo-temiskaming-metis-community-council.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tequesta",
+      "name": "Tequesta",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 23,
+      "angle": 12,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "fl-tequesta-licensed-photo",
+          "title": "Miami Circle at Brickell Point",
+          "alt": "Brickell Point and the Miami Circle site as seen from Brickell Avenue Bridge",
+          "scope": "Brickell Point is a documented Tequesta village site at the mouth of the Miami River. The image is resized for the web.",
+          "creator": "Ebyabe",
+          "credit": "Photo by Ebyabe, via Wikimedia Commons",
+          "cardCredit": "Photo by Ebyabe, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "tequesta"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami_FL_Miami_Circle_from_Brickell_Ave_Bridge01.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Miami_FL_Miami_Circle_from_Brickell_Ave_Bridge01.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0 Unported",
+          "contextSources": [
+            {
+              "title": "Native Peoples · Biscayne National Park",
+              "url": "https://www.nps.gov/bisc/learn/historyculture/native-peoples.htm"
+            },
+            {
+              "title": "Miami Circle at Brickell Point · National Historic Landmarks",
+              "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/compile.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-tequesta-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/fl-tequesta-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 259837,
+              "sha256": "5ffe066ed4826df88b3622df6dea6e985b5ba2d314656262f6a0a7d643d2e47b"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 97019,
+              "sha256": "b14c8e2a7847a10659c6fe4573ad2714a06e44046c34606bb5204971b9540cbf"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:23;--profile-angle:12deg;--profile-photo:url(\"../../assets/profile-visuals/fl-tequesta-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -121446,6 +122189,74 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:219;--profile-angle:47deg;--profile-photo:url(\"../../assets/profile-visuals/tobique-first-nation-nb-orthophoto.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "tocobaga",
+      "name": "Tocobaga",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 99,
+      "angle": -53,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "fl-tocobaga-licensed-photo",
+          "title": "Philippe Park in Safety Harbor",
+          "alt": "Terraced park grounds and live oaks at the Tocobaga mound in Philippe Park",
+          "scope": "The terraced park landscape at the documented Tocobaga town site in Safety Harbor. The image is resized for the web.",
+          "creator": "Dlohcierekim's sock",
+          "credit": "Photo by Dlohcierekim's sock, via Wikimedia Commons",
+          "cardCredit": "Photo by Dlohcierekim's sock, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "tocobaga"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tocobago_mound_pmr_01a.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tocobago_mound_pmr_01a.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+          "rightsLabel": "CC BY-SA 2.5 Generic",
+          "contextSources": [
+            {
+              "title": "Tocobaga Temple Mound",
+              "url": "https://pinellas.gov/tocobaga-temple-mound"
+            },
+            {
+              "title": "Philippe Park",
+              "url": "https://pinellas.gov/parks/philippe-park/"
+            }
+          ],
+          "asset": "assets/profile-visuals/fl-tocobaga-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/fl-tocobaga-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 315571,
+              "sha256": "0dc8b9a815356c082c1caeb59343f8bba299eb9250892867f8225ae36b96c2f4"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 118868,
+              "sha256": "488c865e7eea4202b69d143ebf68072384f4ab4da79946f5eda98bac470a59ea"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:99;--profile-angle:-53deg;--profile-photo:url(\"../../assets/profile-visuals/fl-tocobaga-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,

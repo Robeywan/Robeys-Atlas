@@ -112246,14 +112246,54 @@
     "compiledAt": "2026-10-28",
     "kind": "Named tribal government",
     "region": "United States — current government outline; geographic scope awaiting separate review",
-    "overview": "Seminole Tribe of Florida has an individually findable government outline. Detailed history, an annotated reading collection and specifically relevant cleared imagery are queued.",
+    "overview": "The Seminole Tribe of Florida is a tribal government with headquarters in Hollywood, Florida. The tribe’s public introduction describes a Tribal Council and a Board of Directors, with elected representation tied to reservation communities.",
     "relationshipNote": "This named current government has its own route, related to the broader Seminole reading label. The broader people and this government are not treated as interchangeable, and the outline makes no membership, jurisdiction or representation claim for all Seminole people.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-followup-seminole-tribe-of-florida-1-20261126",
+        "title": "Introduction to Seminole Tribal Government",
+        "url": "https://www.semtribe.com/government/introduction",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal government overview",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Tribe-published description of its Tribal Council, Board of Directors and reservation community representation.",
+        "contentReviewScope": "Tribe-published description of its Tribal Council, Board of Directors and reservation community representation.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-followup-seminole-tribe-of-florida-2-20261126",
+        "title": "Seminole Tribe of Florida Headquarters",
+        "url": "https://www.semtribe.com/contact-us",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal institutional information",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Tribe-published Hollywood, Florida, headquarters location.",
+        "contentReviewScope": "Tribe-published Hollywood, Florida, headquarters location.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Tribal government and headquarters",
+        "text": "The tribe’s government overview explains the origins of its two-part governing structure and reservation representation. Its headquarters information identifies the administrative location in Hollywood.",
+        "sourceIds": [
+          "s-fl-followup-seminole-tribe-of-florida-1-20261126",
+          "s-fl-followup-seminole-tribe-of-florida-2-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-10-28",
     "identificationEvidence": [
       {
@@ -112312,7 +112352,11 @@
       "remainingLimits": [
         "History, annotated sources, individually scoped imagery and geographic associations remain queued."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-fl-followup-seminole-tribe-of-florida-1-20261126",
+      "s-fl-followup-seminole-tribe-of-florida-2-20261126"
+    ]
   },
   {
     "name": "Big Pine Paiute Tribe of the Owens Valley",
@@ -231855,6 +231899,1205 @@
     "relatedProfileSlugs": [
       "standing-peachtree"
     ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Big Cypress Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "South Florida Everglades, Florida",
+    "overview": "Big Cypress is a reservation community of the Seminole Tribe of Florida in the western Everglades. It is home to the tribe’s Ah-Tah-Thi-Ki Museum.",
+    "overviewSourceIds": [
+      "s-fl-big-cypress-reservation-1-20261126",
+      "s-fl-big-cypress-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-big-cypress-reservation-1-20261126",
+        "title": "Big Cypress Reservation",
+        "url": "https://www.semtribe.com/enterprises/big-cypress-reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal community profile",
+        "topics": [
+          "South Florida Everglades, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Names the reservation and identifies the tribal museum there.",
+        "contentReviewScope": "Names the reservation and identifies the tribal museum there.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-big-cypress-reservation-2-20261126",
+        "title": "Ah-Tah-Thi-Ki Museum",
+        "url": "https://www.ahtahthiki.com/",
+        "publisher": "Ah-Tah-Thi-Ki Museum, Seminole Tribe of Florida",
+        "type": "Tribal museum",
+        "topics": [
+          "South Florida Everglades, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribal museum describes its setting and public interpretation of Seminole history and culture.",
+        "contentReviewScope": "The tribal museum describes its setting and public interpretation of Seminole history and culture.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the tribe’s community profile and the museum’s introduction to its Seminole collections and exhibits.",
+        "sourceIds": [
+          "s-fl-big-cypress-reservation-1-20261126",
+          "s-fl-big-cypress-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/enterprises/big-cypress-reservation",
+        "title": "Big Cypress Reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "Names the reservation and identifies the tribal museum there.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.ahtahthiki.com/",
+        "title": "Ah-Tah-Thi-Ki Museum",
+        "publisher": "Ah-Tah-Thi-Ki Museum, Seminole Tribe of Florida",
+        "scope": "The tribal museum describes its setting and public interpretation of Seminole history and culture.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Brighton Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "Glades County, Florida",
+    "overview": "Brighton is a Seminole Tribe of Florida reservation community west of Lake Okeechobee. The community’s education history includes Pemayetv Emahakv Charter School, which teaches Seminole language and culture.",
+    "overviewSourceIds": [
+      "s-fl-brighton-reservation-1-20261126",
+      "s-fl-brighton-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-brighton-reservation-1-20261126",
+        "title": "Brighton Reservation",
+        "url": "https://www.semtribe.com/enterprises/brighton-reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal community profile",
+        "topics": [
+          "Glades County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribal overview names and places Brighton as a reservation community.",
+        "contentReviewScope": "The tribal overview names and places Brighton as a reservation community.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-brighton-reservation-2-20261126",
+        "title": "Spotlight on the Brighton Seminole Reservation",
+        "url": "https://floridaseminoletourism.com/spotlight-on-the-brighton-seminole-reservation/",
+        "publisher": "Florida Seminole Tourism",
+        "type": "Tribe-published community history",
+        "topics": [
+          "Glades County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Tribe-published account describes Brighton’s school history and community-led language education.",
+        "contentReviewScope": "Tribe-published account describes Brighton’s school history and community-led language education.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the tribe’s reservation overview, then its account of how the Brighton community developed local education and language programs.",
+        "sourceIds": [
+          "s-fl-brighton-reservation-1-20261126",
+          "s-fl-brighton-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/enterprises/brighton-reservation",
+        "title": "Brighton Reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "The tribal overview names and places Brighton as a reservation community.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://floridaseminoletourism.com/spotlight-on-the-brighton-seminole-reservation/",
+        "title": "Spotlight on the Brighton Seminole Reservation",
+        "publisher": "Florida Seminole Tourism",
+        "scope": "Tribe-published account describes Brighton’s school history and community-led language education.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Hollywood Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "Hollywood, Broward County, Florida",
+    "overview": "The Hollywood Reservation is a Seminole Tribe of Florida community in Broward County. The tribe identifies Hollywood as the location of its headquarters.",
+    "overviewSourceIds": [
+      "s-fl-hollywood-reservation-1-20261126",
+      "s-fl-hollywood-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-hollywood-reservation-1-20261126",
+        "title": "Hollywood Reservation",
+        "url": "https://www.semtribe.com/enterprises/hollywood-reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal community profile",
+        "topics": [
+          "Hollywood, Broward County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe’s community overview identifies the Hollywood Reservation in Broward County.",
+        "contentReviewScope": "The tribe’s community overview identifies the Hollywood Reservation in Broward County.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-hollywood-reservation-2-20261126",
+        "title": "Seminole Tribe of Florida Headquarters",
+        "url": "https://www.semtribe.com/contact-us",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal institutional information",
+        "topics": [
+          "Hollywood, Broward County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe publishes its headquarters location in Hollywood, Florida.",
+        "contentReviewScope": "The tribe publishes its headquarters location in Hollywood, Florida.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The tribe’s reservation overview gives local history. Its headquarters page identifies the present administrative setting.",
+        "sourceIds": [
+          "s-fl-hollywood-reservation-1-20261126",
+          "s-fl-hollywood-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/enterprises/hollywood-reservation",
+        "title": "Hollywood Reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "The tribe’s community overview identifies the Hollywood Reservation in Broward County.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.semtribe.com/contact-us",
+        "title": "Seminole Tribe of Florida Headquarters",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "The tribe publishes its headquarters location in Hollywood, Florida.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Hollywood Seminole Reservation",
+      "Dania Reservation"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Immokalee Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "Immokalee, Collier County, Florida",
+    "overview": "Immokalee is a Seminole Tribe of Florida reservation community in eastern Collier County. The tribe’s community account describes local livelihoods and the development of public businesses, including the Immokalee Trading Post.",
+    "overviewSourceIds": [
+      "s-fl-immokalee-reservation-1-20261126",
+      "s-fl-immokalee-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-immokalee-reservation-1-20261126",
+        "title": "Immokalee Reservation",
+        "url": "https://www.semtribe.com/enterprises/immokalee-reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal community profile",
+        "topics": [
+          "Immokalee, Collier County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe’s reservation profile names Immokalee in Collier County.",
+        "contentReviewScope": "The tribe’s reservation profile names Immokalee in Collier County.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-immokalee-reservation-2-20261126",
+        "title": "Spotlight on the Immokalee Reservation",
+        "url": "https://www.floridaseminoletourism.com/spotlight-on-the-immokalee-reservation/",
+        "publisher": "Florida Seminole Tourism",
+        "type": "Tribe-published community history",
+        "topics": [
+          "Immokalee, Collier County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Public tribal account describes the community and its recent Trading Post.",
+        "contentReviewScope": "Public tribal account describes the community and its recent Trading Post.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the tribal overview and the tribe’s Immokalee community feature for a longer account of the reservation and its businesses.",
+        "sourceIds": [
+          "s-fl-immokalee-reservation-1-20261126",
+          "s-fl-immokalee-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/enterprises/immokalee-reservation",
+        "title": "Immokalee Reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "The tribe’s reservation profile names Immokalee in Collier County.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.floridaseminoletourism.com/spotlight-on-the-immokalee-reservation/",
+        "title": "Spotlight on the Immokalee Reservation",
+        "publisher": "Florida Seminole Tourism",
+        "scope": "Public tribal account describes the community and its recent Trading Post.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Tampa Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "Tampa, Hillsborough County, Florida",
+    "overview": "The Tampa Reservation is a Seminole Tribe of Florida community in Hillsborough County. The tribe’s account traces Tampa-area community life and identifies the reservation as the site of its public Hard Rock Hotel and Casino.",
+    "overviewSourceIds": [
+      "s-fl-tampa-reservation-1-20261126",
+      "s-fl-tampa-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-tampa-reservation-1-20261126",
+        "title": "Tampa Reservation",
+        "url": "https://www.semtribe.com/enterprises/tampa-reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal community profile",
+        "topics": [
+          "Tampa, Hillsborough County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the reservation’s Florida setting and tribal public venue.",
+        "contentReviewScope": "Identifies the reservation’s Florida setting and tribal public venue.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-tampa-reservation-2-20261126",
+        "title": "Spotlight on the Tampa Seminole Reservation",
+        "url": "https://www.floridaseminoletourism.com/spotlight-on-the-tampa-seminole-reservation/",
+        "publisher": "Florida Seminole Tourism",
+        "type": "Tribe-published community history",
+        "topics": [
+          "Tampa, Hillsborough County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Describes earlier Tampa-area Seminole community life and the current reservation site.",
+        "contentReviewScope": "Describes earlier Tampa-area Seminole community life and the current reservation site.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the tribal community feature alongside the reservation profile for the distinction between earlier Tampa-area settlement and the present reservation site.",
+        "sourceIds": [
+          "s-fl-tampa-reservation-1-20261126",
+          "s-fl-tampa-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/enterprises/tampa-reservation",
+        "title": "Tampa Reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "Identifies the reservation’s Florida setting and tribal public venue.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.floridaseminoletourism.com/spotlight-on-the-tampa-seminole-reservation/",
+        "title": "Spotlight on the Tampa Seminole Reservation",
+        "publisher": "Florida Seminole Tourism",
+        "scope": "Describes earlier Tampa-area Seminole community life and the current reservation site.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Fort Pierce Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "St. Lucie County, Florida",
+    "overview": "Fort Pierce is a Seminole Tribe of Florida reservation community in St. Lucie County. The tribe’s public service directory identifies its residential community as Chupco’s Landing.",
+    "overviewSourceIds": [
+      "s-fl-fort-pierce-reservation-1-20261126",
+      "s-fl-fort-pierce-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-fort-pierce-reservation-1-20261126",
+        "title": "Fort Pierce Reservation",
+        "url": "https://www.semtribe.com/enterprises/fort-pierce-reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "type": "Tribal community profile",
+        "topics": [
+          "St. Lucie County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe’s reservation profile identifies Fort Pierce and its Atlantic coast setting.",
+        "contentReviewScope": "The tribe’s reservation profile identifies Fort Pierce and its Atlantic coast setting.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-fort-pierce-reservation-2-20261126",
+        "title": "North Command · Fort Pierce Reservation",
+        "url": "https://www.seminolepd.com/operation-bureau/north-command",
+        "publisher": "Seminole Police Department",
+        "type": "Tribal public service directory",
+        "topics": [
+          "St. Lucie County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribal public service directory names Chupco’s Landing and locates the Fort Pierce Reservation in St. Lucie County.",
+        "contentReviewScope": "The tribal public service directory names Chupco’s Landing and locates the Fort Pierce Reservation in St. Lucie County.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The tribe’s reservation profile offers background on Seminole communities on Florida’s Atlantic coast. The Seminole Police Department directory identifies Fort Pierce and its present county setting.",
+        "sourceIds": [
+          "s-fl-fort-pierce-reservation-1-20261126",
+          "s-fl-fort-pierce-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/enterprises/fort-pierce-reservation",
+        "title": "Fort Pierce Reservation",
+        "publisher": "Seminole Tribe of Florida",
+        "scope": "The tribe’s reservation profile identifies Fort Pierce and its Atlantic coast setting.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.seminolepd.com/operation-bureau/north-command",
+        "title": "North Command · Fort Pierce Reservation",
+        "publisher": "Seminole Police Department",
+        "scope": "The tribal public service directory names Chupco’s Landing and locates the Fort Pierce Reservation in St. Lucie County.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Ft. Pierce Reservation",
+      "Chupco’s Landing"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Lakeland Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "Lakeland, Polk County, Florida",
+    "overview": "Lakeland is a Seminole Tribe of Florida reservation community. The tribe’s newspaper reports that the Ruby Tiger Community Center opened there in August 2025 with services for residents.",
+    "overviewSourceIds": [
+      "s-fl-lakeland-reservation-1-20261126",
+      "s-fl-lakeland-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-lakeland-reservation-1-20261126",
+        "title": "Ruby Tiger Community Center opens on Lakeland Reservation",
+        "url": "https://www.semtribe.com/docs/default-source/tribune-archive/2025/september-2025-seminoletribune.pdf",
+        "publisher": "The Seminole Tribune",
+        "type": "Tribal newspaper",
+        "topics": [
+          "Lakeland, Polk County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Firsthand account names the reservation and reports the community center’s opening in August 2025.",
+        "contentReviewScope": "Firsthand account names the reservation and reports the community center’s opening in August 2025.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-lakeland-reservation-2-20261126",
+        "title": "Council in Lakeland · May 2026",
+        "url": "https://www.semtribe.com/docs/default-source/tribune-archive/2026/seminoletribune_may_2026.pdf",
+        "publisher": "The Seminole Tribune",
+        "type": "Tribal newspaper",
+        "topics": [
+          "Lakeland, Polk County, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Reports the April 2026 Tribal Council meeting at the Ruby Tiger Community Center.",
+        "contentReviewScope": "Reports the April 2026 Tribal Council meeting at the Ruby Tiger Community Center.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the opening report for the community’s account of establishing the center. The May 2026 issue documents the Tribal Council meeting held there in April.",
+        "sourceIds": [
+          "s-fl-lakeland-reservation-1-20261126",
+          "s-fl-lakeland-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.semtribe.com/docs/default-source/tribune-archive/2025/september-2025-seminoletribune.pdf",
+        "title": "Ruby Tiger Community Center opens on Lakeland Reservation",
+        "publisher": "The Seminole Tribune",
+        "scope": "Firsthand account names the reservation and reports the community center’s opening in August 2025.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.semtribe.com/docs/default-source/tribune-archive/2026/seminoletribune_may_2026.pdf",
+        "title": "Council in Lakeland · May 2026",
+        "publisher": "The Seminole Tribune",
+        "scope": "Reports the April 2026 Tribal Council meeting at the Ruby Tiger Community Center.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "seminole-tribe-of-florida",
+      "seminole"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Tamiami Trail Reservation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Reservation community",
+    "region": "Florida Everglades",
+    "overview": "The Miccosukee Tribe of Indians of Florida identifies the Tamiami Trail Reservation as the home of a Miccosukee community in the Everglades. Its history describes education and other community programs there.",
+    "overviewSourceIds": [
+      "s-fl-tamiami-trail-reservation-1-20261126",
+      "s-fl-tamiami-trail-reservation-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-tamiami-trail-reservation-1-20261126",
+        "title": "A Brief History of the Miccosukee Tribe of Indians of Florida",
+        "url": "https://miccosukee.com/miccosukee-tribe-history/",
+        "publisher": "Miccosukee Tribe of Indians of Florida",
+        "type": "Tribe-published community history",
+        "topics": [
+          "Florida Everglades"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe’s public history identifies the Tamiami Trail Reservation as a place where the Miccosukee community resides.",
+        "contentReviewScope": "The tribe’s public history identifies the Tamiami Trail Reservation as a place where the Miccosukee community resides.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-tamiami-trail-reservation-2-20261126",
+        "title": "Village Museum",
+        "url": "https://miccosukee.com/resort/experiences/village-museum/",
+        "publisher": "Miccosukee Casino & Resort",
+        "type": "Tribal cultural institution",
+        "topics": [
+          "Florida Everglades"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe’s visitor information identifies its public cultural village and museum along the Tamiami Trail.",
+        "contentReviewScope": "The tribe’s visitor information identifies its public cultural village and museum along the Tamiami Trail.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Begin with the tribe’s history for the residential community and its programs. The tribe’s Village Museum is a public introduction to Miccosukee culture along the Tamiami Trail.",
+        "sourceIds": [
+          "s-fl-tamiami-trail-reservation-1-20261126",
+          "s-fl-tamiami-trail-reservation-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://miccosukee.com/miccosukee-tribe-history/",
+        "title": "A Brief History of the Miccosukee Tribe of Indians of Florida",
+        "publisher": "Miccosukee Tribe of Indians of Florida",
+        "scope": "The tribe’s public history identifies the Tamiami Trail Reservation as a place where the Miccosukee community resides.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://miccosukee.com/resort/experiences/village-museum/",
+        "title": "Village Museum",
+        "publisher": "Miccosukee Casino & Resort",
+        "scope": "The tribe’s visitor information identifies its public cultural village and museum along the Tamiami Trail.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Miccosukee Tamiami Trail Reservation"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "miccosukee"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Tequesta",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical people / community",
+    "region": "Miami River and Biscayne Bay, Florida",
+    "overview": "The Tequesta lived in southeastern Florida. National Park Service records identify a principal Tequesta village at the mouth of the Miami River, where the Miami Circle at Brickell Point preserves part of the archaeological record.",
+    "overviewSourceIds": [
+      "s-fl-tequesta-1-20261126",
+      "s-fl-tequesta-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-tequesta-1-20261126",
+        "title": "Native Peoples · Biscayne National Park",
+        "url": "https://www.nps.gov/bisc/learn/historyculture/native-peoples.htm",
+        "publisher": "National Park Service",
+        "type": "Public history",
+        "topics": [
+          "Miami River and Biscayne Bay, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the Tequesta and locates their historical village at the Miami River mouth.",
+        "contentReviewScope": "Identifies the Tequesta and locates their historical village at the Miami River mouth.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-tequesta-2-20261126",
+        "title": "Miami Circle at Brickell Point · National Historic Landmarks",
+        "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/compile.htm",
+        "publisher": "National Park Service",
+        "type": "Landmark research summary",
+        "topics": [
+          "Miami River and Biscayne Bay, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Links the Brickell Point site to the principal Tequesta village through archaeological evidence.",
+        "contentReviewScope": "Links the Brickell Point site to the principal Tequesta village through archaeological evidence.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Biscayne National Park’s introduction places the Tequesta in the wider coastal landscape. The Miami Circle landmark summary explains the evidence at the Brickell Point village site.",
+        "sourceIds": [
+          "s-fl-tequesta-1-20261126",
+          "s-fl-tequesta-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nps.gov/bisc/learn/historyculture/native-peoples.htm",
+        "title": "Native Peoples · Biscayne National Park",
+        "publisher": "National Park Service",
+        "scope": "Identifies the Tequesta and locates their historical village at the Miami River mouth.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/compile.htm",
+        "title": "Miami Circle at Brickell Point · National Historic Landmarks",
+        "publisher": "National Park Service",
+        "scope": "Links the Brickell Point site to the principal Tequesta village through archaeological evidence.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Tequesta people",
+      "Miami Circle"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Tocobaga",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical people / community",
+    "region": "Safety Harbor and Tampa Bay, Florida",
+    "overview": "The Tocobaga were a historical Indigenous people of the Tampa Bay area. Pinellas County identifies Philippe Park in Safety Harbor as the site of a documented Tocobaga town and mound.",
+    "overviewSourceIds": [
+      "s-fl-tocobaga-1-20261126",
+      "s-fl-tocobaga-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-tocobaga-1-20261126",
+        "title": "Tocobaga Temple Mound",
+        "url": "https://pinellas.gov/tocobaga-temple-mound",
+        "publisher": "Pinellas County",
+        "type": "Public archaeology interpretation",
+        "topics": [
+          "Safety Harbor and Tampa Bay, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "County interpretation attributes the public mound and town site to the historical Tocobaga.",
+        "contentReviewScope": "County interpretation attributes the public mound and town site to the historical Tocobaga.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-tocobaga-2-20261126",
+        "title": "Philippe Park",
+        "url": "https://pinellas.gov/parks/philippe-park/",
+        "publisher": "Pinellas County",
+        "type": "County park interpretation",
+        "topics": [
+          "Safety Harbor and Tampa Bay, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "County park information places the surviving historical site at Philippe Park in Safety Harbor.",
+        "contentReviewScope": "County park information places the surviving historical site at Philippe Park in Safety Harbor.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the county’s interpretation of the town site and its overview of Philippe Park for the preserved public landscape.",
+        "sourceIds": [
+          "s-fl-tocobaga-1-20261126",
+          "s-fl-tocobaga-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://pinellas.gov/tocobaga-temple-mound",
+        "title": "Tocobaga Temple Mound",
+        "publisher": "Pinellas County",
+        "scope": "County interpretation attributes the public mound and town site to the historical Tocobaga.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://pinellas.gov/parks/philippe-park/",
+        "title": "Philippe Park",
+        "publisher": "Pinellas County",
+        "scope": "County park information places the surviving historical site at Philippe Park in Safety Harbor.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Tocobaga town"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Ais",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical people / community",
+    "region": "Indian River and southern Mosquito Lagoon, Florida",
+    "overview": "The Ais were a historical people of Florida’s Atlantic coast. The National Park Service associates the Ais with the Indian River and the southern part of Mosquito Lagoon. The extent of their historical territory remains uncertain.",
+    "overviewSourceIds": [
+      "s-fl-ais-1-20261126",
+      "s-fl-ais-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-ais-1-20261126",
+        "title": "Pre-Columbian · Canaveral National Seashore",
+        "url": "https://www.nps.gov/articles/000/pre-columbian.htm",
+        "publisher": "National Park Service",
+        "type": "Public history",
+        "topics": [
+          "Indian River and southern Mosquito Lagoon, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Selected geographical discussion associates the historical Ais with the Indian River and southern Mosquito Lagoon and notes uncertainty about boundaries.",
+        "contentReviewScope": "Selected geographical discussion associates the historical Ais with the Indian River and southern Mosquito Lagoon and notes uncertainty about boundaries.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-ais-2-20261126",
+        "title": "Indian River Lagoon historical setting",
+        "url": "https://repository.library.noaa.gov/view/noaa/35458/noaa_35458_DS1.pdf",
+        "publisher": "Florida Sea Grant College Program, NOAA Repository",
+        "type": "Research publication",
+        "topics": [
+          "Indian River and southern Mosquito Lagoon, Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The historical overview identifies the Ais with the Indian River Lagoon along Florida’s Atlantic coast.",
+        "contentReviewScope": "The historical overview identifies the Ais with the Indian River Lagoon along Florida’s Atlantic coast.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Canaveral National Seashore account explains the regional setting and the limits of evidence for boundaries. A Florida Sea Grant overview describes the Indian River Lagoon setting.",
+        "sourceIds": [
+          "s-fl-ais-1-20261126",
+          "s-fl-ais-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nps.gov/articles/000/pre-columbian.htm",
+        "title": "Pre-Columbian · Canaveral National Seashore",
+        "publisher": "National Park Service",
+        "scope": "Selected geographical discussion associates the historical Ais with the Indian River and southern Mosquito Lagoon and notes uncertainty about boundaries.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://repository.library.noaa.gov/view/noaa/35458/noaa_35458_DS1.pdf",
+        "title": "Indian River Lagoon historical setting",
+        "publisher": "Florida Sea Grant College Program, NOAA Repository",
+        "scope": "The historical overview identifies the Ais with the Indian River Lagoon along Florida’s Atlantic coast.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Ais people",
+      "Ais Indians",
+      "Ai’s"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Cherokees of Central Florida",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Contemporary Indigenous community organization",
+    "region": "Central Florida",
+    "overview": "Cherokees of Central Florida is a Cherokee Nation at-large community organization. Cherokee Nation’s reporting documents the group’s participation in a 2023 gathering in Lakeland.",
+    "overviewSourceIds": [
+      "s-fl-cherokees-of-central-florida-1-20261126",
+      "s-fl-cherokees-of-central-florida-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-cherokees-of-central-florida-1-20261126",
+        "title": "Cherokee Nation’s at-large gathering in Lakeland",
+        "url": "https://anadisgoi.com/index.php/government-stories/cherokee-nation-hold-first-at-large-gathering-of-the-year-in-florida?highlight=WyJsYWtlbGFuZCJd",
+        "publisher": "Anadisgoi, Cherokee Nation",
+        "type": "Tribal publication",
+        "topics": [
+          "Central Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Cherokee Nation’s report names the organization and documents its participation at the February 2023 Lakeland gathering.",
+        "contentReviewScope": "Cherokee Nation’s report names the organization and documents its participation at the February 2023 Lakeland gathering.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-cherokees-of-central-florida-2-20261126",
+        "title": "Cherokee At-Large Communities",
+        "url": "https://www.cherokee.gov/media/wkbphxzt/cherokee-nation-assets-and-service-locations.pdf",
+        "publisher": "Cherokee Nation",
+        "type": "Tribal directory",
+        "topics": [
+          "Central Florida"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The Nation includes the organization under Cherokee at-large communities.",
+        "contentReviewScope": "The Nation includes the organization under Cherokee at-large communities.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the Cherokee Nation’s account of the Lakeland gathering for the group’s role in connecting Cherokee citizens in Florida. The Nation’s at-large directory lists the organization by name.",
+        "sourceIds": [
+          "s-fl-cherokees-of-central-florida-1-20261126",
+          "s-fl-cherokees-of-central-florida-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://anadisgoi.com/index.php/government-stories/cherokee-nation-hold-first-at-large-gathering-of-the-year-in-florida?highlight=WyJsYWtlbGFuZCJd",
+        "title": "Cherokee Nation’s at-large gathering in Lakeland",
+        "publisher": "Anadisgoi, Cherokee Nation",
+        "scope": "Cherokee Nation’s report names the organization and documents its participation at the February 2023 Lakeland gathering.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.cherokee.gov/media/wkbphxzt/cherokee-nation-assets-and-service-locations.pdf",
+        "title": "Cherokee At-Large Communities",
+        "publisher": "Cherokee Nation",
+        "scope": "The Nation includes the organization under Cherokee at-large communities.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "cherokee"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Florida Indian Heritage Association",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Contemporary Indigenous community organization",
+    "region": "Florida’s Treasure Coast",
+    "overview": "The Florida Indian Heritage Association is a community organization that organizes public Native American cultural events. Its own program records document powwows in Vero Beach and at the St. Lucie County Fairgrounds near Fort Pierce.",
+    "overviewSourceIds": [
+      "s-fl-florida-indian-heritage-association-1-20261126",
+      "s-fl-florida-indian-heritage-association-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-fl-florida-indian-heritage-association-1-20261126",
+        "title": "About the Florida Indian Heritage Association",
+        "url": "https://fiha.us/about/",
+        "publisher": "Florida Indian Heritage Association",
+        "type": "Community organization history",
+        "topics": [
+          "Florida’s Treasure Coast"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The organization’s history names the association and describes its Vero Beach powwow.",
+        "contentReviewScope": "The organization’s history names the association and describes its Vero Beach powwow.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-fl-florida-indian-heritage-association-2-20261126",
+        "title": "Florida Indian Heritage Association · Public programs",
+        "url": "https://fiha.us/",
+        "publisher": "Florida Indian Heritage Association",
+        "type": "Community organization program guide",
+        "topics": [
+          "Florida’s Treasure Coast"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The organization names the St. Lucie County Fairgrounds as the venue for its March powwow.",
+        "contentReviewScope": "The organization names the St. Lucie County Fairgrounds as the venue for its March powwow.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The association’s history describes how its Vero Beach powwow began. Its program page lists events and venues.",
+        "sourceIds": [
+          "s-fl-florida-indian-heritage-association-1-20261126",
+          "s-fl-florida-indian-heritage-association-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://fiha.us/about/",
+        "title": "About the Florida Indian Heritage Association",
+        "publisher": "Florida Indian Heritage Association",
+        "scope": "The organization’s history names the association and describes its Vero Beach powwow.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://fiha.us/",
+        "title": "Florida Indian Heritage Association · Public programs",
+        "publisher": "Florida Indian Heritage Association",
+        "scope": "The organization names the St. Lucie County Fairgrounds as the venue for its March powwow.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,

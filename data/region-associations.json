@@ -1324,7 +1324,8 @@
       "period": "Historical and continuing; inspected 2026-10-21",
       "sourceUrl": "https://www.semtribe.com/history/introduction",
       "evidenceNote": "Seminole Tribe of Florida narrative identifies Florida as homeland; not interchangeable with separate Miccosukee or Oklahoma governments.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-MA",
@@ -2543,7 +2544,8 @@
       "period": "Historical southwest Florida community-region connection",
       "sourceUrl": "https://home.nps.gov/people/calusa.htm",
       "evidenceNote": "Actual NPS first geography paragraph locates Calusa along southwest Florida coast. Other stereotypes, population estimates and material-culture claims not adopted.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-ME",
@@ -4229,7 +4231,8 @@
       "sourceTitle": "A Brief History of the Miccosukee Tribe of Indians of Florida",
       "evidenceNote": "The tribal enterprise's history explicitly describes Miccosukee ancestral towns in northern Florida and later camps in southern Florida's Everglades. Only the Florida connection is indexed; other historical identity arguments are not generalized.",
       "reviewedScope": "Ancestral Homelands and Language and Conflict, Migration, and the Seminole Wars",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-VA",
@@ -4609,7 +4612,8 @@
       "sourceTitle": "The Timucua: North Florida's Early People — National Park Service",
       "evidenceNote": "NPS explicitly identifies northern Florida among the historical Timucua-speaking areas and notes that the communities were politically distinct. The umbrella directory name does not imply one Timucua government.",
       "reviewedScope": "Opening geographic and political-distinction paragraph; updated July 6, 2023",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-CA",
@@ -6848,7 +6852,8 @@
       "reviewDate": "2026-10-21",
       "inspectionNote": "Actual selected text read.",
       "limits": "Historical Florida connection; not exclusive homeland or present government location.",
-      "supportingSourceUrls": []
+      "supportingSourceUrls": [],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "MX",
@@ -6912,7 +6917,8 @@
       ],
       "inspectedDownloadUrl": "https://ircommons.uwf.edu/view/pdfCoverPage?download=true&filePid=13357482980006600&instCode=01FALSC_UWF",
       "accessNotes": "Web reader encountered an obsolete signed redirect. A normal request to the university’s own public Download endpoint returned the full original PDF. No authentication, TLS bypass or published signed-storage URL was used.",
-      "supportingSourceUrls": []
+      "supportingSourceUrls": [],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-VA",
@@ -13211,7 +13217,8 @@
       "reviewDate": "2026-11-06",
       "identityOnly": true,
       "countsTowardMinimum": false,
-      "inspectionNote": "New navigation comparison of previously retained text; original October28 body and identity dates and all old fields remain unchanged. No fresh request, new identity, substantive reading credit or media approval."
+      "inspectionNote": "New navigation comparison of previously retained text; original October28 body and identity dates and all old fields remain unchanged. No fresh request, new identity, substantive reading credit or media approval.",
+      "showSourcesInGuide": true
     },
     {
       "name": "Piscataway Indian Nation",
@@ -17146,7 +17153,8 @@
       ],
       "originalId": 16,
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
     },
     {
       "name": "Apache",
@@ -17200,7 +17208,8 @@
       ],
       "originalId": 17,
       "navigationOnly": true,
-      "countsTowardMinimum": false
+      "countsTowardMinimum": false,
+      "showSourcesInGuide": true
     },
     {
       "name": "Arapaho",
@@ -36538,6 +36547,227 @@
         "https://visiteastpoint.org/experiences/"
       ],
       "evidenceNote": "The City of East Point and its visitor site identify the organization’s public festival work at East Point City Hall, Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Big Cypress Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/enterprises/big-cypress-reservation",
+      "sourceTitle": "Big Cypress Reservation",
+      "sourcePublisher": "Seminole Tribe of Florida",
+      "supportingSourceUrls": [
+        "https://www.ahtahthiki.com/"
+      ],
+      "evidenceNote": "The Seminole Tribe of Florida locates its Big Cypress Reservation and its museum in the South Florida Everglades.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Brighton Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/enterprises/brighton-reservation",
+      "sourceTitle": "Brighton Reservation",
+      "sourcePublisher": "Seminole Tribe of Florida",
+      "supportingSourceUrls": [
+        "https://floridaseminoletourism.com/spotlight-on-the-brighton-seminole-reservation/"
+      ],
+      "evidenceNote": "The tribe names Brighton as a Florida reservation and documents its community education programs.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Hollywood Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/enterprises/hollywood-reservation",
+      "sourceTitle": "Hollywood Reservation",
+      "sourcePublisher": "Seminole Tribe of Florida",
+      "supportingSourceUrls": [
+        "https://www.semtribe.com/contact-us"
+      ],
+      "evidenceNote": "Tribal reservation and headquarters pages document the Hollywood Reservation’s Florida connection.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Immokalee Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/enterprises/immokalee-reservation",
+      "sourceTitle": "Immokalee Reservation",
+      "sourcePublisher": "Seminole Tribe of Florida",
+      "supportingSourceUrls": [
+        "https://www.floridaseminoletourism.com/spotlight-on-the-immokalee-reservation/"
+      ],
+      "evidenceNote": "Seminole Tribe of Florida publications locate the Immokalee Reservation in Collier County and describe community activity there.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Tampa Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/enterprises/tampa-reservation",
+      "sourceTitle": "Tampa Reservation",
+      "sourcePublisher": "Seminole Tribe of Florida",
+      "supportingSourceUrls": [
+        "https://www.floridaseminoletourism.com/spotlight-on-the-tampa-seminole-reservation/"
+      ],
+      "evidenceNote": "The tribal community profile and published history connect the Tampa Reservation with Tampa and Hillsborough County.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Fort Pierce Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/enterprises/fort-pierce-reservation",
+      "sourceTitle": "Fort Pierce Reservation",
+      "sourcePublisher": "Seminole Tribe of Florida",
+      "supportingSourceUrls": [
+        "https://www.seminolepd.com/operation-bureau/north-command"
+      ],
+      "evidenceNote": "Tribe-published records identify the Fort Pierce Reservation and the Chupco’s Landing community in St. Lucie County.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Lakeland Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://www.semtribe.com/docs/default-source/tribune-archive/2025/september-2025-seminoletribune.pdf",
+      "sourceTitle": "Ruby Tiger Community Center opens on Lakeland Reservation",
+      "sourcePublisher": "The Seminole Tribune",
+      "supportingSourceUrls": [
+        "https://www.semtribe.com/docs/default-source/tribune-archive/2026/seminoletribune_may_2026.pdf"
+      ],
+      "evidenceNote": "The Seminole Tribune documents community facilities and a Tribal Council meeting on the Lakeland Reservation in Florida.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Tamiami Trail Reservation",
+      "associationType": "Present-day reservation-community connection",
+      "period": "Present-day reservation community",
+      "sourceUrl": "https://miccosukee.com/miccosukee-tribe-history/",
+      "sourceTitle": "A Brief History of the Miccosukee Tribe of Indians of Florida",
+      "sourcePublisher": "Miccosukee Tribe of Indians of Florida",
+      "supportingSourceUrls": [
+        "https://miccosukee.com/resort/experiences/village-museum/"
+      ],
+      "evidenceNote": "The tribe’s public history explicitly identifies the named reservation as a Florida residential community and the setting for community programs.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Tequesta",
+      "associationType": "Historical regional community connection",
+      "period": "Historical Florida community or homeland",
+      "sourceUrl": "https://www.nps.gov/bisc/learn/historyculture/native-peoples.htm",
+      "sourceTitle": "Native Peoples · Biscayne National Park",
+      "sourcePublisher": "National Park Service",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/subjects/nationalhistoriclandmarks/compile.htm"
+      ],
+      "evidenceNote": "National Park Service sources document a historical Tequesta village at the mouth of the Miami River.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Tocobaga",
+      "associationType": "Historical regional community connection",
+      "period": "Historical Florida community or homeland",
+      "sourceUrl": "https://pinellas.gov/tocobaga-temple-mound",
+      "sourceTitle": "Tocobaga Temple Mound",
+      "sourcePublisher": "Pinellas County",
+      "supportingSourceUrls": [
+        "https://pinellas.gov/parks/philippe-park/"
+      ],
+      "evidenceNote": "Pinellas County identifies the Tocobaga town and mound at present-day Philippe Park on Tampa Bay.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Ais",
+      "associationType": "Historical regional community connection",
+      "period": "Historical Florida community or homeland",
+      "sourceUrl": "https://www.nps.gov/articles/000/pre-columbian.htm",
+      "sourceTitle": "Pre-Columbian · Canaveral National Seashore",
+      "sourcePublisher": "National Park Service",
+      "supportingSourceUrls": [
+        "https://repository.library.noaa.gov/view/noaa/35458/noaa_35458_DS1.pdf"
+      ],
+      "evidenceNote": "National Park Service and Florida Sea Grant accounts document the Ais in the Indian River coastal lagoon region.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Cherokees of Central Florida",
+      "associationType": "Present-day community organization connection",
+      "period": "Contemporary community organization",
+      "sourceUrl": "https://anadisgoi.com/index.php/government-stories/cherokee-nation-hold-first-at-large-gathering-of-the-year-in-florida?highlight=WyJsYWtlbGFuZCJd",
+      "sourceTitle": "Cherokee Nation’s at-large gathering in Lakeland",
+      "sourcePublisher": "Anadisgoi, Cherokee Nation",
+      "supportingSourceUrls": [
+        "https://www.cherokee.gov/media/wkbphxzt/cherokee-nation-assets-and-service-locations.pdf"
+      ],
+      "evidenceNote": "Cherokee Nation directly lists the organization and documents its members’ participation in a Lakeland, Florida, gathering.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-FL",
+      "name": "Florida Indian Heritage Association",
+      "associationType": "Present-day community organization connection",
+      "period": "Contemporary community organization",
+      "sourceUrl": "https://fiha.us/about/",
+      "sourceTitle": "About the Florida Indian Heritage Association",
+      "sourcePublisher": "Florida Indian Heritage Association",
+      "supportingSourceUrls": [
+        "https://fiha.us/"
+      ],
+      "evidenceNote": "The association identifies itself and documents Native American cultural programming in Vero Beach and St. Lucie County, Florida.",
       "reviewDate": "2026-11-26",
       "showSourcesInGuide": true,
       "navigationOnly": true,
