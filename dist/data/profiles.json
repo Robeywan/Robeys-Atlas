@@ -13395,6 +13395,107 @@
     ]
   },
   {
+    "name": "American Indian Center of St. Louis",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Urban Native organization listed by a national coalition",
+    "region": "St. Louis, Missouri",
+    "overview": "The National Urban Indian Family Coalition lists the American Indian Center of St. Louis in Missouri. The center also appears in the coalition’s 2021 annual report.",
+    "overviewSourceIds": [
+      "s-mo-american-indian-center-of-st-louis-1-20261125",
+      "s-mo-american-indian-center-of-st-louis-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-mo-american-indian-center-of-st-louis-1-20261125",
+        "title": "Our Members",
+        "url": "https://www.nuifc.org/members",
+        "publisher": "National Urban Indian Family Coalition",
+        "type": "Coalition directory",
+        "topics": [
+          "St. Louis, Missouri"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Lists the exact organization name and St. Louis, Missouri.",
+        "contentReviewScope": "Lists the exact organization name and St. Louis, Missouri.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-mo-american-indian-center-of-st-louis-2-20261125",
+        "title": "National Urban Indian Family Coalition annual report, 2021",
+        "url": "https://static1.squarespace.com/static/5b985402e17ba31b72a52f90/t/61e7214f23cda11a8990f4a2/1642537304829/2021%2BNUIFC%2BANNUAL%2BREPORT%2B2021%2BFINAL.pdf",
+        "publisher": "National Urban Indian Family Coalition",
+        "type": "Annual report",
+        "topics": [
+          "St. Louis, Missouri"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Includes the organization by name in the coalition membership list for 2021.",
+        "contentReviewScope": "Includes the organization by name in the coalition membership list for 2021.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Use the coalition’s member directory and 2021 report as starting points for the center’s name and city.",
+        "sourceIds": [
+          "s-mo-american-indian-center-of-st-louis-1-20261125",
+          "s-mo-american-indian-center-of-st-louis-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nuifc.org/members",
+        "title": "Our Members",
+        "publisher": "National Urban Indian Family Coalition",
+        "scope": "Lists the exact organization name and St. Louis, Missouri.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5b985402e17ba31b72a52f90/t/61e7214f23cda11a8990f4a2/1642537304829/2021%2BNUIFC%2BANNUAL%2BREPORT%2B2021%2BFINAL.pdf",
+        "title": "National Urban Indian Family Coalition annual report, 2021",
+        "publisher": "National Urban Indian Family Coalition",
+        "scope": "Includes the organization by name in the coalition membership list for 2021.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "St. Louis urban Native organizations",
+      "National Urban Indian Family Coalition Missouri"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "american-indian-center-of-st-louis",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
+      }
+    ]
+  },
+  {
     "name": "American Indian Chamber of Commerce of South Carolina",
     "originalId": null,
     "added": true,
@@ -46589,6 +46690,13 @@
         "sourceIds": [
           "p10-chickasaw-capitol"
         ]
+      },
+      {
+        "title": "Homeland in Kentucky",
+        "text": "The Chickasaw Nation’s homeland account identifies southwestern Kentucky as one part of its ancestral homeland.",
+        "sourceIds": [
+          "s-regionreview-chickasaw-1-20261125"
+        ]
       }
     ],
     "sources": [
@@ -46688,6 +46796,21 @@
         "countsTowardMinimum": true,
         "contentReviewScope": "Complete historical body beginning Construction of the granite Romanesque style through the Notes on restoration/exhibits, before Chickasaw.net. Source photographs and exhibits not inspected.",
         "accessNotes": "Normal public HTTP 200 prose read. Historical construction and reclamation dates are attributed to the Nation; original architectural plans, deeds and museum objects uninspected. Current visitor arrangements and ownership/legal conclusions are not independently verified. The earlier 1858 brick-capitol page is not mistaken for this 1898 granite building."
+      },
+      {
+        "id": "s-regionreview-chickasaw-1-20261125",
+        "title": "Homeland",
+        "url": "https://chickasaw.net/Our-Nation/History/Homeland.aspx",
+        "publisher": "Chickasaw Nation",
+        "type": "Nation-published homeland account",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Chickasaw Nation account that specifically names southwestern Kentucky within the ancestral homeland.",
+        "contentReviewScope": "Chickasaw Nation account that specifically names southwestern Kentucky within the ancestral homeland.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -72641,6 +72764,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-KY",
+        "name": "Kentucky",
+        "key": "us-ky"
+      },
+      {
         "id": "US-WV",
         "name": "West Virginia",
         "key": "us-wv"
@@ -90223,6 +90351,110 @@
         "id": "GL",
         "name": "Greenland",
         "key": "gl"
+      }
+    ]
+  },
+  {
+    "name": "Iliniwek Village State Historic Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Historical Illinois Indian village and public historic site",
+    "region": "Clark County, Missouri",
+    "overview": "Missouri State Parks interprets a seventeenth-century Illinois Indian village at Iliniwek Village State Historic Site in Clark County. The public trail and interpretive signs introduce the place and its history.",
+    "overviewSourceIds": [
+      "s-mo-iliniwek-village-state-historic-site-1-20261125",
+      "s-mo-iliniwek-village-state-historic-site-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-mo-iliniwek-village-state-historic-site-1-20261125",
+        "title": "Iliniwek Village State Historic Site",
+        "url": "https://mostateparks.com/historic-site/iliniwek-village-state-historic-site",
+        "publisher": "Missouri State Parks",
+        "type": "State historic site guide",
+        "topics": [
+          "Clark County, Missouri"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Introduces the historical Illinois Indian settlement and its public interpretation.",
+        "contentReviewScope": "Introduces the historical Illinois Indian settlement and its public interpretation.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-mo-iliniwek-village-state-historic-site-2-20261125",
+        "title": "Iliniwek Village State Historic Site: Oxbow Trail",
+        "url": "https://mostateparks.com/sites/mostateparks/files/trail_maps/iliniwek_oxbow.pdf",
+        "publisher": "Missouri State Parks",
+        "type": "Official trail guide",
+        "topics": [
+          "Clark County, Missouri"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Identifies the public trail and trailhead at the historic site.",
+        "contentReviewScope": "Identifies the public trail and trailhead at the historic site.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Missouri State Parks’ site history for the historical village. Use the Oxbow Trail guide for the public walking route.",
+        "sourceIds": [
+          "s-mo-iliniwek-village-state-historic-site-1-20261125",
+          "s-mo-iliniwek-village-state-historic-site-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://mostateparks.com/historic-site/iliniwek-village-state-historic-site",
+        "title": "Iliniwek Village State Historic Site",
+        "publisher": "Missouri State Parks",
+        "scope": "Introduces the historical Illinois Indian settlement and its public interpretation.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://mostateparks.com/sites/mostateparks/files/trail_maps/iliniwek_oxbow.pdf",
+        "title": "Iliniwek Village State Historic Site: Oxbow Trail",
+        "publisher": "Missouri State Parks",
+        "scope": "Identifies the public trail and trailhead at the historic site.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Illinois Indian village in Clark County",
+      "Oxbow Trail",
+      "Wayland Missouri"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "illinois-illiniwek"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "iliniwek-village-state-historic-site",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
       }
     ]
   },
@@ -147310,6 +147542,107 @@
     ]
   },
   {
+    "name": "Native American Student Association (Northern Kentucky University)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "University student organization documented in 2019–20",
+    "region": "Highland Heights, Kentucky",
+    "overview": "Northern Kentucky University’s 2019–20 student awards program names the Native American Student Association and lists its officers for that period.",
+    "overviewSourceIds": [
+      "s-ky-native-american-student-association-northern-kentucky-university-1-20261125",
+      "s-ky-native-american-student-association-northern-kentucky-university-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ky-native-american-student-association-northern-kentucky-university-1-20261125",
+        "title": "Department of Sociology, Anthropology, and Philosophy student awards program, 2019–20",
+        "url": "https://inside.nku.edu/content/dam/Sociology-Anthropology-Philosophy/docs/2019-20-sap-student-awards-program.pdf",
+        "publisher": "Northern Kentucky University",
+        "type": "University archival program",
+        "topics": [
+          "Highland Heights, Kentucky"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Lists the Native American Student Association and its officers in the 2019–20 department program.",
+        "contentReviewScope": "Lists the Native American Student Association and its officers in the 2019–20 department program.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ky-native-american-student-association-northern-kentucky-university-2-20261125",
+        "title": "Campus Information",
+        "url": "https://www.nku.edu/campus-planning/campus/",
+        "publisher": "Northern Kentucky University",
+        "type": "University campus guide",
+        "topics": [
+          "Highland Heights, Kentucky"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Identifies the university’s Highland Heights campus.",
+        "contentReviewScope": "Identifies the university’s Highland Heights campus.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Use the department’s awards program for the dated record of the association and the university’s campus page for the Highland Heights setting.",
+        "sourceIds": [
+          "s-ky-native-american-student-association-northern-kentucky-university-1-20261125",
+          "s-ky-native-american-student-association-northern-kentucky-university-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://inside.nku.edu/content/dam/Sociology-Anthropology-Philosophy/docs/2019-20-sap-student-awards-program.pdf",
+        "title": "Department of Sociology, Anthropology, and Philosophy student awards program, 2019–20",
+        "publisher": "Northern Kentucky University",
+        "scope": "Lists the Native American Student Association and its officers in the 2019–20 department program.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.nku.edu/campus-planning/campus/",
+        "title": "Campus Information",
+        "publisher": "Northern Kentucky University",
+        "scope": "Identifies the university’s Highland Heights campus.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Northern Kentucky University Native American Student Association",
+      "Native American Student Association Highland Heights"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "native-american-student-association-northern-kentucky-university",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-KY",
+        "name": "Kentucky",
+        "key": "us-ky"
+      }
+    ]
+  },
+  {
     "name": "Native American Student Association (University of Iowa)",
     "originalId": null,
     "added": true,
@@ -170993,14 +171326,54 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Oklahoma",
-    "overview": "Otoe-Missouria Tribe of Indians, Oklahoma has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Otoe-Missouria Tribe’s published history traces the distinct histories of the Otoe and Missouria peoples and their later life together. Its public library guide provides a starting point for the Tribe’s cultural resources in Red Rock, Oklahoma.",
     "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Read the Tribe’s history",
+        "text": "The Tribe’s history is a first source for the Missouria connection to Missouri. Its library page introduces the Ernest Vetter, Jr. Library in Red Rock.",
+        "sourceIds": [
+          "s-regionreview-otoemissouria-tribe-of-indians-oklahoma-1-20261125",
+          "s-regionreview-otoemissouria-tribe-of-indians-oklahoma-2-20261125"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-regionreview-otoemissouria-tribe-of-indians-oklahoma-1-20261125",
+        "title": "Otoe & Missouria: Five Hundred Years of History",
+        "url": "https://www.omtribe.org/who-we-are/history/",
+        "publisher": "The Otoe-Missouria Tribe",
+        "type": "Tribe-published history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Tribe-published history of the Otoe and Missouria peoples and their regional histories.",
+        "contentReviewScope": "Tribe-published history of the Otoe and Missouria peoples and their regional histories.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regionreview-otoemissouria-tribe-of-indians-oklahoma-2-20261125",
+        "title": "Ernest Vetter, Jr. Library",
+        "url": "https://www.omtribe.org/who-we-are/culture/library/",
+        "publisher": "The Otoe-Missouria Tribe",
+        "type": "Tribal library guide",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Tribe-published introduction to the Ernest Vetter, Jr. Library in Red Rock.",
+        "contentReviewScope": "Tribe-published introduction to the Ernest Vetter, Jr. Library in Red Rock.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -171028,6 +171401,10 @@
         "History, reading sources and imagery remain queued."
       ]
     },
+    "overviewSourceIds": [
+      "s-regionreview-otoemissouria-tribe-of-indians-oklahoma-1-20261125",
+      "s-regionreview-otoemissouria-tribe-of-indians-oklahoma-2-20261125"
+    ],
     "slug": "otoemissouria-tribe-of-indians-oklahoma",
     "regionGroups": [
       "Great Plains"
@@ -223560,6 +223937,110 @@
     ]
   },
   {
+    "name": "Thidaware Indigenous Americans Association",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-25",
+    "kind": "Community heritage and garden organization",
+    "region": "Kansas City, Missouri",
+    "overview": "Thidaware Indigenous Americans Association describes its work in the Line Creek Valley as cultural education, preservation and stewardship. Its volunteer garden in Kansas City grows produce for community distribution.",
+    "overviewSourceIds": [
+      "s-mo-thidaware-indigenous-americans-association-1-20261125",
+      "s-mo-thidaware-indigenous-americans-association-2-20261125"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-mo-thidaware-indigenous-americans-association-1-20261125",
+        "title": "About the Thidaware Native American Garden",
+        "url": "https://www.thidawarenativegarden.com/about",
+        "publisher": "Thidaware Indigenous Americans Association",
+        "type": "Organization-published program history",
+        "topics": [
+          "Kansas City, Missouri"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Describes the garden’s location, volunteers, produce sharing and partnership with Kansas City Parks and Recreation.",
+        "contentReviewScope": "Describes the garden’s location, volunteers, produce sharing and partnership with Kansas City Parks and Recreation.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-mo-thidaware-indigenous-americans-association-2-20261125",
+        "title": "Thidaware Indigenous Americans Association",
+        "url": "https://www.thidawareindigenousamericansassociation.com/",
+        "publisher": "Thidaware Indigenous Americans Association",
+        "type": "Organization website",
+        "topics": [
+          "Kansas City, Missouri"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "States the association’s name and its heritage and stewardship mission.",
+        "contentReviewScope": "States the association’s name and its heritage and stewardship mission.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the association’s mission and the garden’s account of its volunteer work and partnerships in Kansas City.",
+        "sourceIds": [
+          "s-mo-thidaware-indigenous-americans-association-1-20261125",
+          "s-mo-thidaware-indigenous-americans-association-2-20261125"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.thidawarenativegarden.com/about",
+        "title": "About the Thidaware Native American Garden",
+        "publisher": "Thidaware Indigenous Americans Association",
+        "scope": "Describes the garden’s location, volunteers, produce sharing and partnership with Kansas City Parks and Recreation.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.thidawareindigenousamericansassociation.com/",
+        "title": "Thidaware Indigenous Americans Association",
+        "publisher": "Thidaware Indigenous Americans Association",
+        "scope": "States the association’s name and its heritage and stewardship mission.",
+        "reviewedAt": "2026-11-25",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-25",
+    "searchTerms": [
+      "Thidaware Native American Garden",
+      "Frank Vaydik Park",
+      "Line Creek Valley"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "thidaware-indigenous-americans-association",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MO",
+        "name": "Missouri",
+        "key": "us-mo"
+      }
+    ]
+  },
+  {
     "originalId": 383,
     "name": "Thompson (Nlaka'pamux)",
     "region": "British Columbia",
@@ -237747,15 +238228,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Named complete institution-name phrase as displayed within the H1 on Urban Native Collective homepage",
-    "region": "Unassigned - directory naming only; present setting and base unassessed.",
-    "overview": "The selected source page displays the name Urban Native Collective. This name-only outline is queued for research.",
+    "region": "Cincinnati, Ohio; service area includes Kentucky and Indiana",
+    "overview": "The Urban Native Collective describes its work with Indigenous people in Ohio, Kentucky and Indiana. Its Native Sovereignty Center is in Cincinnati.",
     "relationshipNote": "The selected proper-name phrase is kept as one name. The longer H1, UNC and other names, acronyms, spellings, aliases, translations, affiliations and entity relationships remain unassessed.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-regionreview-urban-native-collective-1-20261125",
+        "title": "Urban Native Collective",
+        "url": "https://urbannativecollective.org/home",
+        "publisher": "Urban Native Collective",
+        "type": "Organization website",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "Identifies the Ohio, Kentucky and Indiana service area and the Native Sovereignty Center in Cincinnati.",
+        "contentReviewScope": "Identifies the Ohio, Kentucky and Indiana service area and the Native Sovereignty Center in Cincinnati.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regionreview-urban-native-collective-2-20261125",
+        "title": "Origin Story",
+        "url": "https://urbannativecollective.org/origin",
+        "publisher": "Urban Native Collective",
+        "type": "Organization-published history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-25",
+        "contentReviewedAt": "2026-11-25",
+        "annotation": "The Collective’s own account of its origins, names and community work.",
+        "contentReviewScope": "The Collective’s own account of its origins, names and community work.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Community programs and history",
+        "text": "The Collective’s home page explains its service area. Its history describes how the Greater Cincinnati Native American Coalition became the Urban Native Collective and traces its community programs.",
+        "sourceIds": [
+          "s-regionreview-urban-native-collective-1-20261125",
+          "s-regionreview-urban-native-collective-2-20261125"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-16",
     "identificationEvidence": [
       {
@@ -237781,8 +238302,14 @@
       "reviewedAt": null,
       "rationale": "Naming provenance only; substantive adequacy and relationships remain unassessed."
     },
+    "overviewSourceIds": [
+      "s-regionreview-urban-native-collective-1-20261125",
+      "s-regionreview-urban-native-collective-2-20261125"
+    ],
     "slug": "urban-native-collective",
-    "regionGroups": [],
+    "regionGroups": [
+      "Great Lakes"
+    ],
     "mapRegions": [
       {
         "id": "US-IN",

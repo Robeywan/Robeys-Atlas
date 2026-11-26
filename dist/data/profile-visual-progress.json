@@ -3,12 +3,15 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2077,
+    "selectedProfiles": 2083,
     "existingApache": 1,
-    "newProfileTreatments": 2076,
-    "newTreatmentsWithPhotographs": 1903,
-    "decorativeTreatmentsAwaitingPhotographs": 173,
-    "autoEnrolledThisBuild": []
+    "newProfileTreatments": 2082,
+    "newTreatmentsWithPhotographs": 1912,
+    "decorativeTreatmentsAwaitingPhotographs": 170,
+    "autoEnrolledThisBuild": [
+      "american-indian-center-of-st-louis",
+      "otoemissouria-tribe-of-indians-oklahoma"
+    ]
   },
   "treatments": [
     {
@@ -3942,6 +3945,70 @@
       "hue": 255,
       "angle": -79,
       "composition": "arc",
+      "images": [
+        {
+          "id": "mo-american-indian-center-of-springfield-licensed-photo",
+          "title": "Plaster Student Union, Missouri State University",
+          "alt": "Exterior of the Plaster Student Union at Missouri State University in Springfield, Missouri",
+          "scope": "The American Indian Center of Springfield listed a November 2026 ChaTea discussion about Native history and culture in the Student Resource Center at this Missouri State University building. The photograph shows the event venue. The image is resized for the web.",
+          "creator": "Keith8404",
+          "credit": "Photo: Keith8404, Wikimedia Commons",
+          "cardCredit": "Photo: Keith8404, Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "american-indian-center-of-springfield"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MoStatePlasterStudentUnion.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/MoStatePlasterStudentUnion.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Events",
+              "url": "https://www.aicspringfield.org/events"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-american-indian-center-of-springfield-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/mo-american-indian-center-of-springfield-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 826,
+              "bytes": 160709,
+              "sha256": "65f9a44d311624ce7fabb3f8aba34a2b4914655fd86e87ba310299619d3075aa"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 468,
+              "bytes": 63840,
+              "sha256": "a133b0e664b050019ffa2b565e63a27a2242c47ddecb09cb40950a10ba53fc5a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:255;--profile-angle:-79deg;--profile-photo:url(\"../../assets/profile-visuals/mo-american-indian-center-of-springfield-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "american-indian-center-of-st-louis",
+      "name": "American Indian Center of St. Louis",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 254,
+      "angle": 1,
+      "composition": "arc",
       "images": [],
       "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
       "imageCoverage": {
@@ -3949,7 +4016,7 @@
         "available": 0,
         "used": 0
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:255;--profile-angle:-79deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:254;--profile-angle:1deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -26286,14 +26353,63 @@
       "hue": 183,
       "angle": 67,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-delaware-town-aerial",
+          "title": "James River at Delaware Town Access",
+          "alt": "Aerial photograph of the James River and the public Delaware Town Access near Nixa, Missouri",
+          "scope": "Missouri State University documents Delaware (Lenape) settlements in the James River valley. This 2022 view shows today’s public Delaware Town Access, whose name remembers that history. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "delaware-town"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10396690.31%2C4445926.45%2C-10395875.87%2C4446537.28&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Delaware Town",
+              "url": "https://delawaretown.missouristate.edu/delaware.html"
+            },
+            {
+              "title": "Delaware Town Access",
+              "url": "https://mdc.mo.gov/discover-nature/places/delaware-town-access"
+            },
+            {
+              "title": "Beyond Manhattan: A Gazetteer of Delaware Indian History Reflected in Modern-Day Place Names",
+              "url": "https://nysm.nysed.gov/sites/default/files/nysmrecord-vol5-1.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-delaware-town-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-delaware-town-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 171985,
+              "sha256": "364edbfffabb5567acfbe137700311fe5834d04b8fb896e8b72b43a8e10d810c"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 70078,
+              "sha256": "4b57cf50f9762b3587d019dcc10176c5199196e0571ebf2eeb95bdd584108ab5"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:183;--profile-angle:67deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:183;--profile-angle:67deg;--profile-photo:url(\"../../assets/profile-visuals/mo-delaware-town-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -41792,6 +41908,144 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "iliniwek-village-state-historic-site",
+      "name": "Iliniwek Village State Historic Site",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 276,
+      "angle": 44,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "mo-iliniwek-village-state-historic-site-aerial",
+          "title": "Public trail area at Iliniwek Village State Historic Site",
+          "alt": "Aerial view of the open grassland and public trail area at Iliniwek Village State Historic Site in Clark County, Missouri",
+          "scope": "Missouri State Parks interprets a seventeenth-century Illinois Indian village at this public historic site. The 2022 aerial photograph shows the landscape around the park’s public Oxbow Trail. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "iliniwek-village-state-historic-site",
+            "illinois-illiniwek"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10192548.66%2C4928169.99%2C-10191721.03%2C4928790.71&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Iliniwek Village State Historic Site",
+              "url": "https://mostateparks.com/historic-site/iliniwek-village-state-historic-site"
+            },
+            {
+              "title": "Iliniwek Village State Historic Site: Oxbow Trail",
+              "url": "https://mostateparks.com/sites/mostateparks/files/trail_maps/iliniwek_oxbow.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-iliniwek-village-state-historic-site-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-iliniwek-village-state-historic-site-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 167702,
+              "sha256": "7c914477696968b46ea92230863762fe8e21e97a425b15f71b67bd9e03538691"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 65770,
+              "sha256": "9637408190795370237d12aadefbdd269cc6a5ffa69fa0f4ad688b9d7eca4421"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:276;--profile-angle:44deg;--profile-photo:url(\"../../assets/profile-visuals/mo-iliniwek-village-state-historic-site-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "illinois-illiniwek",
+      "name": "Illinois (Illiniwek)",
+      "originalId": 140,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 321,
+      "angle": -75,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "mo-iliniwek-village-state-historic-site-aerial",
+          "title": "Public trail area at Iliniwek Village State Historic Site",
+          "alt": "Aerial view of the open grassland and public trail area at Iliniwek Village State Historic Site in Clark County, Missouri",
+          "scope": "Missouri State Parks interprets a seventeenth-century Illinois Indian village at this public historic site. The 2022 aerial photograph shows the landscape around the park’s public Oxbow Trail. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "iliniwek-village-state-historic-site",
+            "illinois-illiniwek"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10192548.66%2C4928169.99%2C-10191721.03%2C4928790.71&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Iliniwek Village State Historic Site",
+              "url": "https://mostateparks.com/historic-site/iliniwek-village-state-historic-site"
+            },
+            {
+              "title": "Iliniwek Village State Historic Site: Oxbow Trail",
+              "url": "https://mostateparks.com/sites/mostateparks/files/trail_maps/iliniwek_oxbow.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-iliniwek-village-state-historic-site-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-iliniwek-village-state-historic-site-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 167702,
+              "sha256": "7c914477696968b46ea92230863762fe8e21e97a425b15f71b67bd9e03538691"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 65770,
+              "sha256": "9637408190795370237d12aadefbdd269cc6a5ffa69fa0f4ad688b9d7eca4421"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:321;--profile-angle:-75deg;--profile-photo:url(\"../../assets/profile-visuals/mo-iliniwek-village-state-historic-site-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ilulissat",
       "name": "Ilulissat",
       "originalId": null,
@@ -46582,14 +46836,59 @@
       "hue": 276,
       "angle": 64,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-kansas-city-indian-center-aerial",
+          "title": "Kansas City Indian Center on West 39th Street",
+          "alt": "Aerial photograph of the Kansas City Indian Center’s block along West 39th Street in Kansas City, Missouri",
+          "scope": "The Kansas City Indian Center lists its West 39th Street address in its public information. This 2022 aerial photograph shows the block around the listed location. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "kansas-city-indian-center"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10530159.84%2C4729747.79%2C-10529960.23%2C4729897.50&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Kansas City Indian Center",
+              "url": "https://kcindiancenter.org/"
+            },
+            {
+              "title": "Kansas City",
+              "url": "https://www.uihi.org/uihp-profiles/kansas-city/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-kansas-city-indian-center-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-kansas-city-indian-center-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 68012,
+              "sha256": "4ffdd5605bebbe2509ce80c920e447b929b555525cc8e7ea7490c50a498c54a4"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 29524,
+              "sha256": "e1af572fa21a25e7057f99d25ce47f86652f2ff66500d0bb203a52564eff518d"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:276;--profile-angle:64deg;--profile-photo:none",
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:276;--profile-angle:64deg;--profile-photo:url(\"../../assets/profile-visuals/mo-kansas-city-indian-center-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -66557,14 +66856,56 @@
       "hue": 143,
       "angle": -53,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "missouri-american-indian-cultural-center-nps",
+          "title": "Missouri’s American Indian Cultural Center entrance",
+          "alt": "The cultural center’s tan building behind a blue sign reading Missouri’s American Indian Cultural Center.",
+          "scope": "The National Park Service photograph shows the exterior of the cultural center at Van Meter State Park. The Atlas resized the published frame.",
+          "creator": "National Park Service",
+          "credit": "Photo: National Park Service",
+          "cardCredit": "Photo: National Park Service",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "missouris-american-indian-cultural-center",
+            "missouria"
+          ],
+          "reviewedAt": "2026-11-24",
+          "sourceUrl": "https://home.nps.gov/places/van-meter-state-park.htm",
+          "sourceImageUrl": "https://home.nps.gov/common/uploads/cropped_image/primary/6313591A-E662-45D4-A0EE77118FDE3579.jpg?mode=crop&quality=90&width=1600",
+          "rightsLabel": "Public domain in the United States · National Park Service",
+          "rightsUrl": "https://www.nps.gov/aboutus/disclaimer.htm",
+          "contextSources": [
+            {
+              "title": "Missouri’s American Indian Cultural Center",
+              "url": "https://mostateparks.com/key-location/missouris-american-indian-cultural-center"
+            }
+          ],
+          "derivatives": {
+            "asset": {
+              "width": 1280,
+              "height": 720,
+              "bytes": 264485,
+              "sha256": "5a4bf87be1ade40ea4be39ae2f0afe3e6f69ecc0be89fb00d3dba731ac2da3c5"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 382,
+              "bytes": 86803,
+              "sha256": "310647b45644246ec7fa7ee226223969d1dcd352a0a70f2ce1059b616401da36"
+            }
+          },
+          "asset": "assets/profile-visuals/missouri-american-indian-cultural-center-nps.jpg",
+          "cardAsset": "assets/profile-visuals/missouri-american-indian-cultural-center-nps-card.jpg"
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:143;--profile-angle:-53deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:143;--profile-angle:-53deg;--profile-photo:url(\"../../assets/profile-visuals/missouri-american-indian-cultural-center-nps.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -66591,7 +66932,8 @@
           "cardCredit": "Photo: National Park Service",
           "mediaType": "photograph",
           "profileSlugs": [
-            "missouris-american-indian-cultural-center"
+            "missouris-american-indian-cultural-center",
+            "missouria"
           ],
           "reviewedAt": "2026-11-24",
           "sourceUrl": "https://home.nps.gov/places/van-meter-state-park.htm",
@@ -72009,6 +72351,74 @@
         "used": 0
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:228;--profile-angle:-32deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-american-student-association-northern-kentucky-university",
+      "name": "Native American Student Association (Northern Kentucky University)",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 320,
+      "angle": 15,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ky-native-american-student-association-northern-kentucky-university-licensed-photo",
+          "title": "W. Frank Steely Library, Northern Kentucky University",
+          "alt": "W. Frank Steely Library on the Northern Kentucky University campus in Highland Heights",
+          "scope": "This campus photograph accompanies the university’s 2019–20 record of the Native American Student Association. The library illustrates the Highland Heights campus. The image is resized for the web.",
+          "creator": "Samvscat",
+          "credit": "Photo: Samvscat, Wikimedia Commons",
+          "cardCredit": "Photo: Samvscat, Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "native-american-student-association-northern-kentucky-university"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:NKU-library-1.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/NKU-library-1.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Department of Sociology, Anthropology, and Philosophy student awards program, 2019–20",
+              "url": "https://inside.nku.edu/content/dam/Sociology-Anthropology-Philosophy/docs/2019-20-sap-student-awards-program.pdf"
+            },
+            {
+              "title": "Campus Information",
+              "url": "https://www.nku.edu/campus-planning/campus/"
+            }
+          ],
+          "asset": "assets/profile-visuals/ky-native-american-student-association-northern-kentucky-university-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ky-native-american-student-association-northern-kentucky-university-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1000,
+              "height": 638,
+              "bytes": 105418,
+              "sha256": "f82f78993e22d26470469ccfcf26552daf43ac69571e0bdbc80b2ee97f8ea31a"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 434,
+              "bytes": 58322,
+              "sha256": "d39f8f2e433e941941a5ae56eb9e686f85fde839d58fc4acede9cf047d322275"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:320;--profile-angle:15deg;--profile-photo:url(\"../../assets/profile-visuals/ky-native-american-student-association-northern-kentucky-university-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -88798,6 +89208,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "otoemissouria-tribe-of-indians-oklahoma",
+      "name": "Otoe-Missouria Tribe of Indians, Oklahoma",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 319,
+      "angle": 64,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:64deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "ottawa-odawa",
@@ -114761,14 +115194,59 @@
       "hue": 230,
       "angle": 43,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-tamaroa-licensed-photo",
+          "title": "Holy Family Log Church, Cahokia Heights, Illinois",
+          "alt": "Exterior of the wooden Holy Family Log Church in Cahokia Heights, Illinois",
+          "scope": "The Cahokia mission founded in 1699 served the Tamaroa and Cahokia people. The photograph shows the surviving 1799 log church at the mission site in present-day Illinois. The image is resized for the web.",
+          "creator": "M gastn",
+          "credit": "Photo: M gastn, Wikimedia Commons",
+          "cardCredit": "Photo: M gastn, Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "tamaroa"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1799_Holy_Family_Log_Church_still_ibn_use.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/1799_Holy_Family_Log_Church_still_ibn_use.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Log Church",
+              "url": "https://www.holyfamily1699.org/log-church.html"
+            },
+            {
+              "title": "Cahokia (town not mounds)",
+              "url": "https://mythicmississippi.illinois.edu/french-illinois/cahokia-town-not-mounds/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-tamaroa-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/mo-tamaroa-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 758,
+              "bytes": 160935,
+              "sha256": "3e19456fd2ec75fc11867c207cf600fb50768fa110008dbe68516a221741f112"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 429,
+              "bytes": 66605,
+              "sha256": "3055fdf89341a4c7f94c123dce2eca1de3fa9210ce296160d0a485643224ec61"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:230;--profile-angle:43deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:230;--profile-angle:43deg;--profile-photo:url(\"../../assets/profile-visuals/mo-tamaroa-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -116921,6 +117399,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "thidaware-indigenous-americans-association",
+      "name": "Thidaware Indigenous Americans Association",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 218,
+      "angle": 72,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "mo-thidaware-indigenous-americans-association-aerial",
+          "title": "The Thidaware Native American Garden in Kansas City",
+          "alt": "Aerial view of the Thidaware Native American Garden and the surrounding public parkland in Kansas City, Missouri",
+          "scope": "Thidaware Indigenous Americans Association documents its volunteer garden at Frank Vaydik Park and its collaboration with Kansas City Parks and Recreation. This 2022 aerial photograph shows the garden’s public park setting. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "thidaware-indigenous-americans-association"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10532360.80%2C4750549.48%2C-10531960.76%2C4750849.51&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "About the Thidaware Native American Garden",
+              "url": "https://www.thidawarenativegarden.com/about"
+            },
+            {
+              "title": "Thidaware Indigenous Americans Association",
+              "url": "https://www.thidawareindigenousamericansassociation.com/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-thidaware-indigenous-americans-association-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-thidaware-indigenous-americans-association-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 110025,
+              "sha256": "b9d6a6ed573a3177953712030ed815269469c97025cd6ff6d5cdf212adef7d4f"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 48387,
+              "sha256": "3e17a928aee1afae9c3db994afc062ebc9303370debb7570aeb413dcacb65e56"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:218;--profile-angle:72deg;--profile-photo:url(\"../../assets/profile-visuals/mo-thidaware-indigenous-americans-association-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "thompson-nlakapamux",
