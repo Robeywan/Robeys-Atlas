@@ -139719,6 +139719,111 @@
     ]
   },
   {
+    "name": "Monongahela Culture",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical archaeological tradition",
+    "region": "Northern West Virginia and the upper Ohio and Monongahela river valleys",
+    "overview": "Archaeologists use the name Monongahela Culture for a tradition documented at late precontact Indigenous village sites. The West Virginia State Historic Preservation Office places Monongahela sites along the upper Ohio and Monongahela rivers.",
+    "overviewSourceIds": [
+      "s-wv-monongahela-culture-1-20261126",
+      "s-wv-monongahela-culture-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-wv-monongahela-culture-1-20261126",
+        "title": "Mountain State Legacy – WV Historic Preservation Plan 2020–2024",
+        "url": "https://wvculture.org/wp-content/uploads/2021/10/2020-2024-WV-Statewide-Historic-Preservation-Plan.pdf",
+        "publisher": "West Virginia State Historic Preservation Office",
+        "type": "State archaeological overview",
+        "topics": [
+          "Northern West Virginia and the upper Ohio and Monongahela river valleys"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Pages discussing late precontact West Virginia place Monongahela sites along the upper Ohio and Monongahela rivers and describe differences from Fort Ancient sites.",
+        "contentReviewScope": "Pages discussing late precontact West Virginia place Monongahela sites along the upper Ohio and Monongahela rivers and describe differences from Fort Ancient sites.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-wv-monongahela-culture-2-20261126",
+        "title": "Defining the Monongahela Tradition",
+        "url": "https://d-scholarship.pitt.edu/33029/1/WakefieldMurphyRK_ETDPitt2017_2.pdf",
+        "publisher": "University of Pittsburgh",
+        "type": "Archaeological dissertation, section 3.4.2.1",
+        "topics": [
+          "Northern West Virginia and the upper Ohio and Monongahela river valleys"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Section 3.4.2.1 traces the archaeological definition of the tradition and documents the inclusion of West Virginia sites in later regional research.",
+        "contentReviewScope": "Section 3.4.2.1 traces the archaeological definition of the tradition and documents the inclusion of West Virginia sites in later regional research.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "West Virginia’s preservation plan compares Monongahela and Fort Ancient village sites. The University of Pittsburgh dissertation’s section on the Monongahela tradition explains how researchers have described and revised its geographic and archaeological scope.",
+        "sourceIds": [
+          "s-wv-monongahela-culture-1-20261126",
+          "s-wv-monongahela-culture-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://wvculture.org/wp-content/uploads/2021/10/2020-2024-WV-Statewide-Historic-Preservation-Plan.pdf",
+        "title": "Mountain State Legacy – WV Historic Preservation Plan 2020–2024",
+        "publisher": "West Virginia State Historic Preservation Office",
+        "scope": "Pages discussing late precontact West Virginia place Monongahela sites along the upper Ohio and Monongahela rivers and describe differences from Fort Ancient sites.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://d-scholarship.pitt.edu/33029/1/WakefieldMurphyRK_ETDPitt2017_2.pdf",
+        "title": "Defining the Monongahela Tradition",
+        "publisher": "University of Pittsburgh",
+        "scope": "Section 3.4.2.1 traces the archaeological definition of the tradition and documents the inclusion of West Virginia sites in later regional research.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Monongahela tradition",
+      "Monongahela archaeological culture",
+      "Monongahela villages",
+      "Upper Ohio River"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "monongahela-culture",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-WV",
+        "name": "West Virginia",
+        "key": "us-wv"
+      }
+    ]
+  },
+  {
     "name": "Montana First Nation",
     "originalId": null,
     "added": true,
