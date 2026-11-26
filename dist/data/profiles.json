@@ -76684,6 +76684,21 @@
         "annotation": "Records a report on history education and planned work with institutions in Dahlonega.",
         "contentReviewScope": "Records a report on history education and planned work with institutions in Dahlonega.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regionreview-georgia-tribe-of-eastern-cherokee-1-20261126",
+        "title": "Georgia Council on American Indian Concerns meeting minutes, January 30, 2026",
+        "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/minutes/2026/01-30-26%20Minutes.pdf",
+        "publisher": "Georgia Council on American Indian Concerns",
+        "type": "Official meeting record",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The Georgia Council’s January 2026 minutes record a report on heritage center planning and site plans in Lumpkin County.",
+        "contentReviewScope": "The Georgia Council’s January 2026 minutes record a report on heritage center planning and site plans in Lumpkin County.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -76693,6 +76708,13 @@
         "sourceIds": [
           "s-ga-georgia-tribe-of-eastern-cherokee-1-20261126",
           "s-ga-georgia-tribe-of-eastern-cherokee-2-20261126"
+        ]
+      },
+      {
+        "title": "Heritage Center and Museum planning",
+        "text": "A January 2026 report to the Georgia Council on American Indian Concerns describes the tribe’s plans for a museum and heritage center in Lumpkin County. The report says the site plans had been completed.",
+        "sourceIds": [
+          "s-regionreview-georgia-tribe-of-eastern-cherokee-1-20261126"
         ]
       }
     ],
@@ -166645,6 +166667,113 @@
     ]
   },
   {
+    "name": "Ocmulgee National Park and Preserve Initiative",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Community organization focused on Ocmulgee cultural programming and conservation",
+    "region": "Macon and Middle Georgia",
+    "overview": "The Ocmulgee National Park and Preserve Initiative brings together Middle Georgia and Muscogee (Creek) citizens around the Ocmulgee River Corridor. The initiative’s Macon cultural programs include an exhibition of work by contemporary Muscogee artists.",
+    "overviewSourceIds": [
+      "s-ga-ocmulgee-national-park-and-preserve-initiative-1-20261126",
+      "s-ga-ocmulgee-national-park-and-preserve-initiative-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-ocmulgee-national-park-and-preserve-initiative-1-20261126",
+        "title": "Ocmulgee National Park & Preserve Initiative",
+        "url": "https://www.ocmulgeepark.org/",
+        "publisher": "Ocmulgee National Park & Preserve Initiative",
+        "type": "Organization’s official overview",
+        "topics": [
+          "Macon and Middle Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The initiative gives its name and describes its work with Middle Georgia and Muscogee citizens around Ocmulgee.",
+        "contentReviewScope": "The initiative gives its name and describes its work with Middle Georgia and Muscogee citizens around Ocmulgee.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-ocmulgee-national-park-and-preserve-initiative-2-20261126",
+        "title": "Events, Ocmulgee National Park & Preserve Initiative",
+        "url": "https://www.ocmulgeepark.org/events",
+        "publisher": "Ocmulgee National Park & Preserve Initiative",
+        "type": "First-party public program record",
+        "topics": [
+          "Macon and Middle Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Documents the 2025 Ocmulgee to Okmulgee exhibition in Macon.",
+        "contentReviewScope": "Documents the 2025 Ocmulgee to Okmulgee exhibition in Macon.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the initiative’s own overview for its community partnership and conservation work. Its events page documents the 2025 Ocmulgee to Okmulgee exhibition at the McEachern Art Center in downtown Macon.",
+        "sourceIds": [
+          "s-ga-ocmulgee-national-park-and-preserve-initiative-1-20261126",
+          "s-ga-ocmulgee-national-park-and-preserve-initiative-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.ocmulgeepark.org/",
+        "title": "Ocmulgee National Park & Preserve Initiative",
+        "publisher": "Ocmulgee National Park & Preserve Initiative",
+        "scope": "The initiative gives its name and describes its work with Middle Georgia and Muscogee citizens around Ocmulgee.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.ocmulgeepark.org/events",
+        "title": "Events, Ocmulgee National Park & Preserve Initiative",
+        "publisher": "Ocmulgee National Park & Preserve Initiative",
+        "scope": "Documents the 2025 Ocmulgee to Okmulgee exhibition in Macon.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "ONPPI",
+      "Ocmulgee to Okmulgee",
+      "Ocmulgee River Corridor"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "ocmulgee-mounds-national-historical-park",
+      "muscogee-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "ocmulgee-national-park-and-preserve-initiative",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
+  },
+  {
     "originalId": 261,
     "name": "Oconee",
     "region": "Southeast",
@@ -248539,6 +248668,11 @@
       "Southeast"
     ],
     "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
       {
         "id": "US-SC",
         "name": "South Carolina",
