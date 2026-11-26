@@ -3,13 +3,13 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2088,
+    "selectedProfiles": 2090,
     "existingApache": 1,
-    "newProfileTreatments": 2087,
-    "newTreatmentsWithPhotographs": 1923,
-    "decorativeTreatmentsAwaitingPhotographs": 164,
+    "newProfileTreatments": 2089,
+    "newTreatmentsWithPhotographs": 1924,
+    "decorativeTreatmentsAwaitingPhotographs": 165,
     "autoEnrolledThisBuild": [
-      "st-louis-chickasaw-citizen-connection"
+      "southeastern-kentucky-association-of-native-people"
     ]
   },
   "treatments": [
@@ -87206,6 +87206,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "ohio-valley-native-american-veteran-warrior-society",
+      "name": "Ohio Valley Native American Veteran Warrior Society",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 349,
+      "angle": -62,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ky-ohio-valley-native-american-veteran-warrior-society-aerial",
+          "title": "Veterans Memorial Park in Jeffersontown, Kentucky",
+          "alt": "Aerial photograph of the circular memorial and surrounding paths at Veterans Memorial Park",
+          "scope": "This public park was the venue named for the 2022 InterTribal Water Gathering. The aerial photograph shows the park grounds. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "ohio-valley-native-american-veteran-warrior-society"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-9524102.97%2C4606134.13%2C-9523772.16%2C4606382.23&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Kentucky’s First Ever InterTribal Water Gathering to Take Place This Week in J-town",
+              "url": "https://www.fraziermuseum.org/weekly/10-3-2022"
+            },
+            {
+              "title": "Veterans Memorial Park",
+              "url": "https://www.jeffersontownky.com/Facilities/Facility/Details/21"
+            }
+          ],
+          "asset": "assets/profile-visuals/ky-ohio-valley-native-american-veteran-warrior-society-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/ky-ohio-valley-native-american-veteran-warrior-society-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 145874,
+              "sha256": "3a360d7e8ff09169bc314e948790105417b7690fae312b13a576199366d65502"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 64404,
+              "sha256": "c88e53f69d8a02df6266960564a1250efb63568379fde5b5ce223e675e4518d5"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:349;--profile-angle:-62deg;--profile-photo:url(\"../../assets/profile-visuals/ky-ohio-valley-native-american-veteran-warrior-society-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "ohkay-owingeh",
       "name": "Ohkay Owingeh",
       "originalId": 264,
@@ -111327,6 +111395,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:108;--profile-angle:-17deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-south-okanagan-similkameen-metis-association.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "southeastern-kentucky-association-of-native-people",
+      "name": "Southeastern Kentucky Association of Native People",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 345,
+      "angle": -47,
+      "composition": "arc",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:345;--profile-angle:-47deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
