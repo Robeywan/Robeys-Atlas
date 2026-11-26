@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2112,
+    "selectedProfiles": 2116,
     "existingApache": 1,
-    "newProfileTreatments": 2111,
-    "newTreatmentsWithPhotographs": 1947,
+    "newProfileTreatments": 2115,
+    "newTreatmentsWithPhotographs": 1951,
     "decorativeTreatmentsAwaitingPhotographs": 164,
     "autoEnrolledThisBuild": []
   },
@@ -23146,6 +23146,150 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "coosa",
+      "name": "Coosa",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 224,
+      "angle": -22,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ga-coosa-licensed-photo",
+          "title": "Carters Lake and Dam on the Coosawattee River",
+          "alt": "Aerial photograph of Carters Dam and the wooded Coosawattee River valley in Murray County, Georgia",
+          "scope": "Carters Lake and Dam in the Coosawattee River valley. The valley was a center of the historic Coosa chiefdom. The image is resized for the web.",
+          "creator": "Adrien Lamarre, U.S. Army Corps of Engineers",
+          "credit": "Photo by Adrien Lamarre, U.S. Army Corps of Engineers, via Wikimedia Commons",
+          "cardCredit": "Photo by Adrien Lamarre, U.S. Army Corps of Engineers, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "coosa"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:USACE_Carters_Lake_and_Dam.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/USACE_Carters_Lake_and_Dam.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:USACE_Carters_Lake_and_Dam.jpg#Licensing",
+          "rightsLabel": "Public domain · U.S. federal government work",
+          "contextSources": [
+            {
+              "title": "Coosa Chiefdom — 1400–1600 CE",
+              "url": "https://www.nps.gov/liri/learn/historyculture/coosa-chiefdom-1400-1600-ce.htm"
+            },
+            {
+              "title": "Archaeological Investigation of the Little Egypt Site (9Mu102), Murray County, Georgia, 1969 Season",
+              "url": "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_18.pdf"
+            },
+            {
+              "title": "Carter’s Lake WMA",
+              "url": "https://georgiawildlife.com/carters-lake-wma"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-coosa-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-coosa-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 901,
+              "bytes": 231767,
+              "sha256": "bd10629f526b4e077414859c29422575d97146ed417c6c3abe34f5884fd01ea2"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 89884,
+              "sha256": "1c39afb1e4f2df6c584f2e49e73c5d3aefdb711fdb4f6a88c0cde971b7ae8fc1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:224;--profile-angle:-22deg;--profile-photo:url(\"../../assets/profile-visuals/ga-coosa-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "coosawattee-town",
+      "name": "Coosawattee Town",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 45,
+      "angle": 45,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ga-coosawattee-town-licensed-photo",
+          "title": "Carters Lake in the Coosawattee River valley",
+          "alt": "Still water and wooded hills around Carters Lake in northwest Georgia",
+          "scope": "The modern Carters Lake reservoir lies in the Coosawattee River valley, the region where sources locate the historic Cherokee town. The image is resized for the web.",
+          "creator": "Tamparitus",
+          "credit": "Photo by Tamparitus, via Wikimedia Commons",
+          "cardCredit": "Photo by Tamparitus, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "coosawattee-town"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calm_Carters.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Calm_Carters.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0 International",
+          "contextSources": [
+            {
+              "title": "Fort Gilmer, the Trail of Tears",
+              "url": "https://home.nps.gov/places/fort-gilmer-trail-of-tears.htm"
+            },
+            {
+              "title": "Archaeological Investigation of the Little Egypt Site (9Mu102), Murray County, Georgia, 1969 Season",
+              "url": "https://archaeology.uga.edu/sites/default/files/2025-03/uga_lab_series_18.pdf"
+            },
+            {
+              "title": "Carter’s Lake WMA",
+              "url": "https://georgiawildlife.com/carters-lake-wma"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-coosawattee-town-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-coosawattee-town-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 150083,
+              "sha256": "f8715577ab72b97de6aafe2517f38d16f05a78369362d158975e5c71aed8d763"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 59542,
+              "sha256": "919a67526841212fdb11ebc1cd1dc5d4d19f779945acf74818b864976b4f45b9"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:45;--profile-angle:45deg;--profile-photo:url(\"../../assets/profile-visuals/ga-coosawattee-town-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "copper-river-native-association",
       "name": "Copper River Native Association",
       "originalId": null,
@@ -23921,6 +24065,74 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:51;--profile-angle:11deg;--profile-photo:url(\"../../assets/profile-visuals/sk-sentinel-cowessess-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "coweta",
+      "name": "Coweta",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 184,
+      "angle": 68,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "ga-coweta-licensed-photo",
+          "title": "Ocmulgee River from Porter Pavilion, Amerson River Park",
+          "alt": "The Ocmulgee River and wooded banks seen beyond the overlook rail at Amerson River Park in Macon",
+          "scope": "The Ocmulgee River at Amerson River Park in Macon. The photograph illustrates the modern river landscape of Coweta’s documented central Georgia connection. The image is resized for the web.",
+          "creator": "Michael Rivera",
+          "credit": "Photo by Michael Rivera, via Wikimedia Commons",
+          "cardCredit": "Photo by Michael Rivera, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "coweta"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocmulgee_River_from_Porter_Pavilion,_Amerson_River_Park.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ocmulgee_River_from_Porter_Pavilion%2C_Amerson_River_Park.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0 International",
+          "contextSources": [
+            {
+              "title": "Ocmulgee River Corridor Special Resource Study — Cultural and Historic Context Report",
+              "url": "https://parkplanning.nps.gov/showFile.cfm?projectID=91276&sfid=456310"
+            },
+            {
+              "title": "New Ocmulgee Heritage Trail extension opens at Amerson River Park",
+              "url": "https://www.maconbibb.us/new-ocmulgee-heritage-trail-extension-opens-at-amerson-river-park/"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-coweta-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-coweta-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 800,
+              "bytes": 189805,
+              "sha256": "431c980826edf265911f1b03b4218d6d406d901cbb6e9e7dfeb77606a374b498"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 453,
+              "bytes": 67480,
+              "sha256": "18a964b4b4a65dc2b4d6a09ef9585d7e4ea7966d8ddb749666f82c3c2d583871"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:184;--profile-angle:68deg;--profile-photo:url(\"../../assets/profile-visuals/ga-coweta-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -34486,6 +34698,78 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:179;--profile-angle:-48deg;--profile-photo:url(\"../../assets/profile-visuals/sk-sentinel-george-gordon-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "georgia-indigenous-diversity-consulting-llc",
+      "name": "Georgia Indigenous Diversity Consulting, LLC",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 90,
+      "angle": -69,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ga-georgia-indigenous-diversity-consulting-llc-licensed-photo",
+          "title": "East Point City Hall",
+          "alt": "East Point City Hall and its lawn in East Point, Georgia",
+          "scope": "East Point City Hall is the documented venue for the Standing Peachtree Native American Festival. The City of East Point identifies Georgia Indigenous Diversity Consulting as a festival partner. The image is resized for the web.",
+          "creator": "John Phelan",
+          "credit": "Photo by John Phelan, via Wikimedia Commons",
+          "cardCredit": "Photo by John Phelan, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "georgia-indigenous-diversity-consulting-llc"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_Hall,_East_Point_GA.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/City_Hall%2C_East_Point_GA.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0 International",
+          "contextSources": [
+            {
+              "title": "East Point to Host Inaugural Standing Peachtree Native American Festival & Powwow",
+              "url": "https://eastpointga.gov/wp-content/uploads/2022/08/Native-American-Festival-PR-Final.pdf"
+            },
+            {
+              "title": "Standing Peach Tree Native American Festival & Powwow",
+              "url": "https://visiteastpoint.org/experiences/"
+            },
+            {
+              "title": "City of East Point City Hall",
+              "url": "https://sizemoregroup.com/project/city-of-east-point-city-hall/"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-georgia-indigenous-diversity-consulting-llc-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-georgia-indigenous-diversity-consulting-llc-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 176438,
+              "sha256": "0a93a949ef372f664839d17d515e484d7257d9fde44e103d5720febbd4ea2988"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 69484,
+              "sha256": "a24ca91c48138fe70963c39108d7bba9e6f641eaff2e439c2ccbb725e5e13de4"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:90;--profile-angle:-69deg;--profile-photo:url(\"../../assets/profile-visuals/ga-georgia-indigenous-diversity-consulting-llc-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
