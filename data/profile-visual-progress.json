@@ -6,12 +6,9 @@
     "selectedProfiles": 2083,
     "existingApache": 1,
     "newProfileTreatments": 2082,
-    "newTreatmentsWithPhotographs": 1912,
-    "decorativeTreatmentsAwaitingPhotographs": 170,
-    "autoEnrolledThisBuild": [
-      "american-indian-center-of-st-louis",
-      "otoemissouria-tribe-of-indians-oklahoma"
-    ]
+    "newTreatmentsWithPhotographs": 1919,
+    "decorativeTreatmentsAwaitingPhotographs": 163,
+    "autoEnrolledThisBuild": []
   },
   "treatments": [
     {
@@ -3438,14 +3435,55 @@
       "hue": 294,
       "angle": 26,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-alliance-for-native-programs-and-initiatives-licensed-photo",
+          "title": "Saint Louis Art Museum, St. Louis",
+          "alt": "The stone façade and columned entrance of the Saint Louis Art Museum",
+          "scope": "The Saint Louis Art Museum was listed as a venue for the Alliance’s 2023 Hunt. Fish. Gather. program. The image is resized for the web.",
+          "creator": "Perpigfr",
+          "credit": "Photo: Perpigfr / Wikimedia Commons",
+          "cardCredit": "Photo: Perpigfr / Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "alliance-for-native-programs-and-initiatives"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Louis_Art_Museum_(SLAM).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Saint_Louis_Art_Museum_%28SLAM%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "contextSources": [
+            {
+              "title": "Alliance for Native Programs and Initiatives · 2023 Hunt. Fish. Gather. programme",
+              "url": "https://bpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/a/1072/files/2023/10/2023-Hunt-Fish-Gather-Sponsorship-Letter.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-alliance-for-native-programs-and-initiatives-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/mo-alliance-for-native-programs-and-initiatives-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 158126,
+              "sha256": "13ec85878b14fdb696a97a28a17a54f2d9ee861c4d391aa74504784c8ff7bc42"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 60415,
+              "sha256": "9e161f7b953e0456fb0d983a3ff136e6408af05ba8b8970eb36ef2525d037a1b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:294;--profile-angle:26deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:294;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/mo-alliance-for-native-programs-and-initiatives-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -4009,14 +4047,59 @@
       "hue": 254,
       "angle": 1,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-american-indian-center-of-st-louis-aerial",
+          "title": "J.C. Penney Building, University of Missouri–St. Louis",
+          "alt": "Aerial view of the J.C. Penney Building and its immediate campus surroundings",
+          "scope": "The university’s student newspaper listed a 2000 lecture here by Mary Grace Barron, then director of the American Indian Center of St. Louis. The aerial photograph shows the venue in 2022. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "american-indian-center-of-st-louis"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10053395.49%2C4680028.51%2C-10053187.88%2C4680184.22&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "UMSL University Archives · The Current, April 17, 2000",
+              "url": "https://www.umsl.edu/library/university-archives/Student%20Newspaper/Current%2C%201999-2001/2000/April%2017%2C%202000.pdf"
+            },
+            {
+              "title": "University of Missouri–St. Louis · North Campus map",
+              "url": "https://www.umsl.edu/files/pdfs/north-campus.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-american-indian-center-of-st-louis-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-american-indian-center-of-st-louis-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 90989,
+              "sha256": "0a0d61df3720e438c5f7c9e8034640d040cda614b4808b66201b45674f131b8c"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 39760,
+              "sha256": "e56d0cf3a7293fb197e119e74d0563316ca3a65185b57a3e7b45c93d6012b458"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:254;--profile-angle:1deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:254;--profile-angle:1deg;--profile-photo:url(\"../../assets/profile-visuals/mo-american-indian-center-of-st-louis-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -4078,14 +4161,55 @@
       "hue": 331,
       "angle": 16,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-american-indian-council-aerial",
+          "title": "American Indian Council office building, North Kansas City",
+          "alt": "Aerial view of Armour Road and the commercial building housing the American Indian Council office",
+          "scope": "The American Indian Council lists its Missouri administrative office in a shared building on Armour Road in North Kansas City. The aerial photograph shows the building and nearby streets in 2022. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "american-indian-council"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10528340.85%2C4741991.80%2C-10528137.13%2C4742144.59&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "American Indian Council · Contact and office locations",
+              "url": "https://indiancouncil.net/contacts.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-american-indian-council-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-american-indian-council-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 63258,
+              "sha256": "474acca81337dab99ec793726f967a17029c4050db1736a52d0ceecc915f256b"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 28134,
+              "sha256": "3e2d45a6e0956bdf0666b02f4dd9e088b2d3db58955fadc8813bac3f84c70405"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:331;--profile-angle:16deg;--profile-photo:none",
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:331;--profile-angle:16deg;--profile-photo:url(\"../../assets/profile-visuals/mo-american-indian-council-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -42142,14 +42266,59 @@
       "hue": 339,
       "angle": 72,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-indian-council-of-many-nations-aerial",
+          "title": "Site listed for the 2019 winter powwow, Kansas City",
+          "alt": "Aerial view of the building and grounds of the Missouri National Guard Armory on Ozark Road",
+          "scope": "The 2019 Indian Council of Many Nations winter powwow listing names the Missouri National Guard Armory on Ozark Road as the venue. The aerial photograph shows the venue in 2022. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "indian-council-of-many-nations"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10519554.67%2C4727259.89%2C-10519225.08%2C4727507.09&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "2019 Indian Council of Many Nations Winter Pow Wow · event listing",
+              "url": "https://www.crazycrow.com/site/event/indian-council-of-many-nations-winter-pow-wow/"
+            },
+            {
+              "title": "Missouri Facilities Management · National Guard Armory project record",
+              "url": "https://docservices.mo.gov/Documents/Contracts/General/Awarded/General/FMDC-S17-070.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-indian-council-of-many-nations-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-indian-council-of-many-nations-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 89443,
+              "sha256": "3ba0980c421540200b4f1abfb096dbaf940468f1c36ed9bea261793627b9fa96"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 40228,
+              "sha256": "9bb3b9a03fde4ddba27b406d35c63c2f21cf6369ebbaa39181da635e1a9321dc"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:339;--profile-angle:72deg;--profile-photo:none",
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:339;--profile-angle:72deg;--profile-photo:url(\"../../assets/profile-visuals/mo-indian-council-of-many-nations-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -42561,14 +42730,55 @@
       "hue": 147,
       "angle": 13,
       "composition": "sweep",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-indigenous-st-louis-licensed-photo",
+          "title": "At the Pulitzer Arts Foundation, St. Louis",
+          "alt": "Nighttime view looking from the Pulitzer Arts Foundation toward the adjacent courtyard",
+          "scope": "The Pulitzer Arts Foundation listed a 2023 screening of Inhabitants: An Indigenous Perspective sponsored by Indigenous St. Louis. The image is resized for the web.",
+          "creator": "Coalfather",
+          "credit": "Photo: Coalfather / Wikimedia Commons",
+          "cardCredit": "Photo: Coalfather / Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "indigenous-st-louis"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulitzer_Arts_Foundation_courtyard.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pulitzer_Arts_Foundation_courtyard.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "rightsLabel": "CC BY-SA 4.0",
+          "contextSources": [
+            {
+              "title": "Pulitzer Arts Foundation · Inhabitants film screening",
+              "url": "https://pulitzerarts.org/events/film-screening-of-inhabitants-an-indigenous-perspective/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-indigenous-st-louis-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/mo-indigenous-st-louis-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 115456,
+              "sha256": "5dbbb160e5bf9f3b0c61fa70d40d5d81c20ca8454ef7eb2bc25147024a8f94ab"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 46437,
+              "sha256": "fc7a62639d32afcd5934cd4b369d00facfb8a5fc4ecc9a4e0c0912ccd463bdaa"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:147;--profile-angle:13deg;--profile-photo:none",
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:147;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/mo-indigenous-st-louis-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -57750,14 +57960,59 @@
       "hue": 41,
       "angle": -5,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "mo-little-osage-licensed-photo",
+          "title": "Osage Village State Historic Site, Missouri",
+          "alt": "Grassy hills and trees seen from the parking area of Osage Village State Historic Site",
+          "scope": "This view is from the park’s public parking area. Missouri State Parks interprets the history of the Little Osage at a stop on the park’s walking tour. The image is resized for the web.",
+          "creator": "Ammodramus",
+          "credit": "Photo: Ammodramus / Wikimedia Commons",
+          "cardCredit": "Photo: Ammodramus / Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "little-osage"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osage_Village_SHS_from_parking_lot_1.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Osage_Village_SHS_from_parking_lot_1.jpg",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "rightsLabel": "CC0 1.0",
+          "contextSources": [
+            {
+              "title": "Missouri State Parks · Osage Village walking tour",
+              "url": "https://mostateparks.com/page/osage-village-state-historic-site/walking-tour"
+            },
+            {
+              "title": "Osage News · 2018 Osage heritage site visit",
+              "url": "https://osagenews.org/osage-village-state-historic-site-and-blue-mound-are-fourth-day-stops-of-2018-osage-heritage-sites-visits/"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-little-osage-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/mo-little-osage-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 567,
+              "bytes": 119576,
+              "sha256": "36ad09ef8242a5c1b6356bed84c53693a74d91590357551599ccff926b72e182"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 321,
+              "bytes": 41215,
+              "sha256": "63ce32f0c8791c0ae2a2c04caeab3b7ffd5f6514dee7765598887cb23aab6cfc"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:41;--profile-angle:-5deg;--profile-photo:none",
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:41;--profile-angle:-5deg;--profile-photo:url(\"../../assets/profile-visuals/mo-little-osage-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -89218,14 +89473,63 @@
       "hue": 319,
       "angle": 64,
       "composition": "arc",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ok-otoemissouria-tribe-of-indians-oklahoma-aerial",
+          "title": "Otoe-Missouria Tribal Complex, Red Rock, Oklahoma",
+          "alt": "Aerial view of the Otoe-Missouria Tribal Complex near Highway 177",
+          "scope": "The Otoe-Missouria Tribe locates its Ernest Vetter, Jr. Library at the Tribal Complex in Red Rock. This aerial view shows the public-facing complex in 2021. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2021), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2021), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "otoemissouria-tribe-of-indians-oklahoma"
+          ],
+          "reviewedAt": "2026-11-25",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2021_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2021_CONUS/ImageServer/exportImage?bbox=-10806496.30%2C4368394.40%2C-10806182.84%2C4368629.49&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Otoe-Missouria Tribe · Ernest Vetter, Jr. Library",
+              "url": "https://www.omtribe.org/who-we-are/culture/library/"
+            },
+            {
+              "title": "Otoe-Missouria Tribe · Tribal offices in Red Rock",
+              "url": "https://www.omtribe.org/contact-us/"
+            },
+            {
+              "title": "Historical Marker Database · Otoe-Missouria Tribal Reservation marker",
+              "url": "https://www.hmdb.org/m.asp?m=200073"
+            }
+          ],
+          "asset": "assets/profile-visuals/ok-otoemissouria-tribe-of-indians-oklahoma-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/ok-otoemissouria-tribe-of-indians-oklahoma-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 84746,
+              "sha256": "6eb01c20d979a7a8dd894e2834c8e046c16444f66316c5902609aacba4832675"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 37622,
+              "sha256": "727ff4810953566c1be1141fafcd551f7f0425e71ea30834eefec18f634deecf"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:64deg;--profile-photo:none",
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:319;--profile-angle:64deg;--profile-photo:url(\"../../assets/profile-visuals/ok-otoemissouria-tribe-of-indians-oklahoma-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
