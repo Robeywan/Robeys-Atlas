@@ -44587,9 +44587,117 @@
     "regionGroups": [],
     "mapRegions": [
       {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
+      {
         "id": "US-OK",
         "name": "Oklahoma",
         "key": "us-ok"
+      }
+    ]
+  },
+  {
+    "name": "Cherokee of Georgia Tribal Council",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Georgia tribal organization",
+    "region": "St. George, Georgia",
+    "overview": "The Georgia General Assembly lists the Cherokee of Georgia Tribal Council in St. George. Its tribal grounds are the site of a fall powwow documented by Visit Kingsland.",
+    "overviewSourceIds": [
+      "s-ga-cherokee-of-georgia-tribal-council-1-20261126",
+      "s-ga-cherokee-of-georgia-tribal-council-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-cherokee-of-georgia-tribal-council-1-20261126",
+        "title": "Georgia Code § 44-12-300, named Georgia tribal organizations",
+        "url": "https://www.legis.ga.gov/api/document/docs/default-source/joint-features-document-library/t44-ch8-17-%28v32%29-pdf.pdf",
+        "publisher": "Georgia General Assembly",
+        "type": "State legislative reference",
+        "topics": [
+          "St. George, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Lists the Cherokee of Georgia Tribal Council at St. George.",
+        "contentReviewScope": "Lists the Cherokee of Georgia Tribal Council at St. George.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-cherokee-of-georgia-tribal-council-2-20261126",
+        "title": "46th Annual Fall PowWow at Cherokee of Georgia Tribal Grounds in St. George",
+        "url": "https://visitkingsland.com/event/46th-annual-fall-powwow-at-cherokee-of-georgia-tribal-grounds-in-st-george/",
+        "publisher": "Visit Kingsland, Georgia",
+        "type": "Local public event listing",
+        "topics": [
+          "St. George, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Names the council as organizer and identifies the Cherokee of Georgia Tribal Grounds in St. George.",
+        "contentReviewScope": "Names the council as organizer and identifies the Cherokee of Georgia Tribal Grounds in St. George.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The state roster gives the organization’s name and location. The 2026 event notice names the council as organizer and describes the public program.",
+        "sourceIds": [
+          "s-ga-cherokee-of-georgia-tribal-council-1-20261126",
+          "s-ga-cherokee-of-georgia-tribal-council-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.legis.ga.gov/api/document/docs/default-source/joint-features-document-library/t44-ch8-17-%28v32%29-pdf.pdf",
+        "title": "Georgia Code § 44-12-300, named Georgia tribal organizations",
+        "publisher": "Georgia General Assembly",
+        "scope": "Lists the Cherokee of Georgia Tribal Council at St. George.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://visitkingsland.com/event/46th-annual-fall-powwow-at-cherokee-of-georgia-tribal-grounds-in-st-george/",
+        "title": "46th Annual Fall PowWow at Cherokee of Georgia Tribal Grounds in St. George",
+        "publisher": "Visit Kingsland, Georgia",
+        "scope": "Names the council as organizer and identifies the Cherokee of Georgia Tribal Grounds in St. George.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "St. George powwow",
+      "Cherokee of Georgia Tribal Grounds"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "cherokee-of-georgia-tribal-council",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -46962,6 +47070,109 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Chief Vann House State Historic Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historic Cherokee property and public interpretive site",
+    "region": "Chatsworth area, Georgia",
+    "overview": "The Chief Vann House near Chatsworth was built for Cherokee leader James Vann and completed in 1804. Georgia State Parks and the National Park Service connect the property to Cherokee history and forced removal.",
+    "overviewSourceIds": [
+      "s-ga-chief-vann-house-state-historic-site-1-20261126",
+      "s-ga-chief-vann-house-state-historic-site-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-chief-vann-house-state-historic-site-1-20261126",
+        "title": "Chief Vann House State Historic Site",
+        "url": "https://gastateparks.org/ChiefVannHouse",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "type": "State historic site guide",
+        "topics": [
+          "Chatsworth area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the Chatsworth-area site, James Vann, and the house completed in 1804.",
+        "contentReviewScope": "Identifies the Chatsworth-area site, James Vann, and the house completed in 1804.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-chief-vann-house-state-historic-site-2-20261126",
+        "title": "Chief Vann House",
+        "url": "https://www.nps.gov/places/chief-vann-house.htm",
+        "publisher": "National Park Service",
+        "type": "Trail of Tears historic place record",
+        "topics": [
+          "Chatsworth area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Provides the Trail of Tears public interpretive context for the same historic site.",
+        "contentReviewScope": "Provides the Trail of Tears public interpretive context for the same historic site.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the state’s guide for the house and grounds, then see the National Park Service record for its Trail of Tears context.",
+        "sourceIds": [
+          "s-ga-chief-vann-house-state-historic-site-1-20261126",
+          "s-ga-chief-vann-house-state-historic-site-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://gastateparks.org/ChiefVannHouse",
+        "title": "Chief Vann House State Historic Site",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "scope": "Identifies the Chatsworth-area site, James Vann, and the house completed in 1804.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.nps.gov/places/chief-vann-house.htm",
+        "title": "Chief Vann House",
+        "publisher": "National Park Service",
+        "scope": "Provides the Trail of Tears public interpretive context for the same historic site.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Vann House",
+      "Chatsworth Cherokee history"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "chief-vann-house-state-historic-site",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -70393,6 +70604,109 @@
     ]
   },
   {
+    "name": "Etowah Indian Mounds State Historic Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historic Indigenous town and public interpretive site",
+    "region": "Cartersville area, Georgia",
+    "overview": "Etowah Indian Mounds State Historic Site protects part of an Indigenous town along the Etowah River. Georgia’s site guide describes its mounds, plaza, and other surviving landscape features.",
+    "overviewSourceIds": [
+      "s-ga-etowah-indian-mounds-state-historic-site-1-20261126",
+      "s-ga-etowah-indian-mounds-state-historic-site-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-etowah-indian-mounds-state-historic-site-1-20261126",
+        "title": "Etowah Indian Mounds State Historic Site",
+        "url": "https://gastateparks.org/EtowahIndianMounds",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "type": "State historic site guide",
+        "topics": [
+          "Cartersville area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the Cartersville-area site and describes the surviving mounds and plaza.",
+        "contentReviewScope": "Identifies the Cartersville-area site and describes the surviving mounds and plaza.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-etowah-indian-mounds-state-historic-site-2-20261126",
+        "title": "Etowah Mounds",
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/etowah-mounds",
+        "publisher": "Lewis Larson, New Georgia Encyclopedia",
+        "type": "Archaeological interpretation",
+        "topics": [
+          "Cartersville area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Provides archaeological context for the Indigenous town in Bartow County.",
+        "contentReviewScope": "Provides archaeological context for the Indigenous town in Bartow County.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the state’s public site guide and archaeologist Lewis Larson’s account of the town, its river setting, and the archaeological work there.",
+        "sourceIds": [
+          "s-ga-etowah-indian-mounds-state-historic-site-1-20261126",
+          "s-ga-etowah-indian-mounds-state-historic-site-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://gastateparks.org/EtowahIndianMounds",
+        "title": "Etowah Indian Mounds State Historic Site",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "scope": "Identifies the Cartersville-area site and describes the surviving mounds and plaza.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/etowah-mounds",
+        "title": "Etowah Mounds",
+        "publisher": "Lewis Larson, New Georgia Encyclopedia",
+        "scope": "Provides archaeological context for the Indigenous town in Bartow County.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Etowah Mounds",
+      "Etowah River village"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "etowah-indian-mounds-state-historic-site",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
+  },
+  {
     "originalId": 106,
     "name": "Eufaula",
     "region": "Southeast / Oklahoma",
@@ -76322,6 +76636,108 @@
         "id": "BZ",
         "name": "Belize",
         "key": "bz"
+      }
+    ]
+  },
+  {
+    "name": "Georgia Tribe of Eastern Cherokee",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Georgia tribal organization",
+    "region": "Dahlonega, Georgia",
+    "overview": "The Georgia General Assembly lists the Georgia Tribe of Eastern Cherokee with a Dahlonega address. The Georgia Council on American Indian Concerns recorded its report on education and cultural-history projects in 2024.",
+    "overviewSourceIds": [
+      "s-ga-georgia-tribe-of-eastern-cherokee-1-20261126",
+      "s-ga-georgia-tribe-of-eastern-cherokee-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-georgia-tribe-of-eastern-cherokee-1-20261126",
+        "title": "Georgia Code § 44-12-300, named Georgia tribal organizations",
+        "url": "https://www.legis.ga.gov/api/document/docs/default-source/joint-features-document-library/t44-ch8-17-%28v32%29-pdf.pdf",
+        "publisher": "Georgia General Assembly",
+        "type": "State legislative reference",
+        "topics": [
+          "Dahlonega, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Lists the Georgia Tribe of Eastern Cherokee with a Dahlonega mailing location.",
+        "contentReviewScope": "Lists the Georgia Tribe of Eastern Cherokee with a Dahlonega mailing location.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-georgia-tribe-of-eastern-cherokee-2-20261126",
+        "title": "Georgia Council on American Indian Concerns meeting minutes, September 23, 2024",
+        "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/minutes/2024/9-23-24%20Minutes.pdf",
+        "publisher": "Georgia Council on American Indian Concerns",
+        "type": "Official meeting record",
+        "topics": [
+          "Dahlonega, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Records a report on history education and planned work with institutions in Dahlonega.",
+        "contentReviewScope": "Records a report on history education and planned work with institutions in Dahlonega.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the Georgia roster for the exact name. The council minutes document reported work with the University of North Georgia and the City of Dahlonega.",
+        "sourceIds": [
+          "s-ga-georgia-tribe-of-eastern-cherokee-1-20261126",
+          "s-ga-georgia-tribe-of-eastern-cherokee-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.legis.ga.gov/api/document/docs/default-source/joint-features-document-library/t44-ch8-17-%28v32%29-pdf.pdf",
+        "title": "Georgia Code § 44-12-300, named Georgia tribal organizations",
+        "publisher": "Georgia General Assembly",
+        "scope": "Lists the Georgia Tribe of Eastern Cherokee with a Dahlonega mailing location.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/minutes/2024/9-23-24%20Minutes.pdf",
+        "title": "Georgia Council on American Indian Concerns meeting minutes, September 23, 2024",
+        "publisher": "Georgia Council on American Indian Concerns",
+        "scope": "Records a report on history education and planned work with institutions in Dahlonega.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Dahlonega Cherokee cultural education"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "georgia-tribe-of-eastern-cherokee",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -92621,6 +93037,110 @@
         "id": "CA-NL",
         "name": "Newfoundland and Labrador",
         "key": "ca-nl"
+      }
+    ]
+  },
+  {
+    "name": "Institute of Native American Studies (University of Georgia)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "University Native studies institute",
+    "region": "University of Georgia in Athens, Georgia",
+    "overview": "The University of Georgia’s Institute of Native American Studies teaches, organizes public programs, and supports research that benefits Native communities. Its published campus location is the Yellow House in Athens.",
+    "overviewSourceIds": [
+      "s-ga-institute-of-native-american-studies-university-of-georgia-1-20261126",
+      "s-ga-institute-of-native-american-studies-university-of-georgia-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-institute-of-native-american-studies-university-of-georgia-1-20261126",
+        "title": "Welcome to Native American Studies at the University of Georgia",
+        "url": "https://inas.uga.edu/",
+        "publisher": "University of Georgia Institute of Native American Studies",
+        "type": "Program overview and campus location",
+        "topics": [
+          "University of Georgia in Athens, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Names the institute and describes its teaching, programming, and research.",
+        "contentReviewScope": "Names the institute and describes its teaching, programming, and research.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-institute-of-native-american-studies-university-of-georgia-2-20261126",
+        "title": "Casa Amarilla / Yellow House campus contact information",
+        "url": "https://lacsi.uga.edu/contact-us-0",
+        "publisher": "University of Georgia",
+        "type": "Campus location",
+        "topics": [
+          "University of Georgia in Athens, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the Yellow House on the Athens campus.",
+        "contentReviewScope": "Identifies the Yellow House on the Athens campus.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The institute’s site explains its teaching, research, and public programs. The university’s Yellow House listing identifies the shared campus building.",
+        "sourceIds": [
+          "s-ga-institute-of-native-american-studies-university-of-georgia-1-20261126",
+          "s-ga-institute-of-native-american-studies-university-of-georgia-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://inas.uga.edu/",
+        "title": "Welcome to Native American Studies at the University of Georgia",
+        "publisher": "University of Georgia Institute of Native American Studies",
+        "scope": "Names the institute and describes its teaching, programming, and research.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://lacsi.uga.edu/contact-us-0",
+        "title": "Casa Amarilla / Yellow House campus contact information",
+        "publisher": "University of Georgia",
+        "scope": "Identifies the Yellow House on the Athens campus.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "INAS UGA",
+      "Native American Studies Athens",
+      "Yellow House"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "institute-of-native-american-studies-university-of-georgia",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -110348,6 +110868,109 @@
     ]
   },
   {
+    "name": "Kolomoki Mounds State Park",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historic Indigenous landscape and public interpretive site",
+    "region": "Blakely area, Georgia",
+    "overview": "Kolomoki Mounds State Park near Blakely protects part of an Indigenous Woodland-period settlement. The state guide and archaeologist Thomas Pluckhahn describe the mound complex and what is known about its development.",
+    "overviewSourceIds": [
+      "s-ga-kolomoki-mounds-state-park-1-20261126",
+      "s-ga-kolomoki-mounds-state-park-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-kolomoki-mounds-state-park-1-20261126",
+        "title": "Kolomoki Mounds State Park",
+        "url": "https://gastateparks.org/KolomokiMounds",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "type": "State park guide",
+        "topics": [
+          "Blakely area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the Woodland-period site and the park’s location near Blakely.",
+        "contentReviewScope": "Identifies the Woodland-period site and the park’s location near Blakely.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-kolomoki-mounds-state-park-2-20261126",
+        "title": "Kolomoki Mounds",
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/kolomoki-mounds/",
+        "publisher": "Thomas Pluckhahn, New Georgia Encyclopedia",
+        "type": "Archaeological interpretation",
+        "topics": [
+          "Blakely area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Places the site in Early County and explains the archaeological history of the mound complex.",
+        "contentReviewScope": "Places the site in Early County and explains the archaeological history of the mound complex.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Georgia State Parks introduces the landscape and its public interpretation. Pluckhahn’s article explains the archaeological research and its interpretation of the Woodland period.",
+        "sourceIds": [
+          "s-ga-kolomoki-mounds-state-park-1-20261126",
+          "s-ga-kolomoki-mounds-state-park-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://gastateparks.org/KolomokiMounds",
+        "title": "Kolomoki Mounds State Park",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "scope": "Identifies the Woodland-period site and the park’s location near Blakely.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/kolomoki-mounds/",
+        "title": "Kolomoki Mounds",
+        "publisher": "Thomas Pluckhahn, New Georgia Encyclopedia",
+        "scope": "Places the site in Early County and explains the archaeological history of the mound complex.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Kolomoki Mounds",
+      "Woodland-period settlement"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "kolomoki-mounds-state-park",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
+  },
+  {
     "name": "K'ómoks First Nation",
     "originalId": null,
     "added": true,
@@ -122086,6 +122709,110 @@
         "id": "US-IN",
         "name": "Indiana",
         "key": "us-in"
+      }
+    ]
+  },
+  {
+    "name": "Lower Muskogee Creek Tribe",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Georgia tribal organization",
+    "region": "Tama Tribal Town near Whigham, Georgia",
+    "overview": "The Lower Muskogee Creek Tribe hosts Cultural Days and a powwow at Tama Tribal Town near Whigham. Georgia council materials list the organization, and WFSU’s October 2026 report includes an interview about the event.",
+    "overviewSourceIds": [
+      "s-ga-lower-muskogee-creek-tribe-1-20261126",
+      "s-ga-lower-muskogee-creek-tribe-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-lower-muskogee-creek-tribe-1-20261126",
+        "title": "Georgia Council on American Indian Concerns agenda, January 30, 2026",
+        "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/agenda/1-30-26.Agenda.pdf",
+        "publisher": "Georgia Council on American Indian Concerns",
+        "type": "Official meeting agenda",
+        "topics": [
+          "Tama Tribal Town near Whigham, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Uses the Lower Muskogee Creek Tribe name and lists Tama Tribal Town as a council meeting venue.",
+        "contentReviewScope": "Uses the Lower Muskogee Creek Tribe name and lists Tama Tribal Town as a council meeting venue.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-lower-muskogee-creek-tribe-2-20261126",
+        "title": "The region’s ancient and amazing Native American history is showcased in South Georgia this weekend",
+        "url": "https://news.wfsu.org/wfsu-local-news/2026-10-15/the-regions-ancient-and-amazing-native-american-history-is-showcased-in-south-georgia-this-weekend",
+        "publisher": "WFSU Public Media",
+        "type": "Local reporting and organizer interview",
+        "topics": [
+          "Tama Tribal Town near Whigham, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the group as host and places the public powwow near Whigham.",
+        "contentReviewScope": "Identifies the group as host and places the public powwow near Whigham.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The council agenda gives the organization’s name. WFSU’s interview describes the Tama event and its public cultural programs.",
+        "sourceIds": [
+          "s-ga-lower-muskogee-creek-tribe-1-20261126",
+          "s-ga-lower-muskogee-creek-tribe-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/agenda/1-30-26.Agenda.pdf",
+        "title": "Georgia Council on American Indian Concerns agenda, January 30, 2026",
+        "publisher": "Georgia Council on American Indian Concerns",
+        "scope": "Uses the Lower Muskogee Creek Tribe name and lists Tama Tribal Town as a council meeting venue.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://news.wfsu.org/wfsu-local-news/2026-10-15/the-regions-ancient-and-amazing-native-american-history-is-showcased-in-south-georgia-this-weekend",
+        "title": "The region’s ancient and amazing Native American history is showcased in South Georgia this weekend",
+        "publisher": "WFSU Public Media",
+        "scope": "Identifies the group as host and places the public powwow near Whigham.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Tama Tribal Town",
+      "Tama Cultural Days",
+      "Whigham powwow"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "lower-muskogee-creek-tribe",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -142425,6 +143152,11 @@
     "regionGroups": [],
     "mapRegions": [
       {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
+      {
         "id": "US-OK",
         "name": "Oklahoma",
         "key": "us-ok"
@@ -147295,6 +148027,109 @@
         "id": "US-IL",
         "name": "Illinois",
         "key": "us-il"
+      }
+    ]
+  },
+  {
+    "name": "Native American and Indigenous Studies Initiative (Emory University)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "University Indigenous studies initiative",
+    "region": "Emory University in the Atlanta area, Georgia",
+    "overview": "Emory University’s Native American and Indigenous Studies Initiative brings together students, alumni, staff, and faculty. It describes teaching, campus programming, and relationships with Native communities among its work.",
+    "overviewSourceIds": [
+      "s-ga-native-american-and-indigenous-studies-initiative-emory-university-1-20261126",
+      "s-ga-native-american-and-indigenous-studies-initiative-emory-university-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-native-american-and-indigenous-studies-initiative-emory-university-1-20261126",
+        "title": "The Native American and Indigenous Studies Initiative",
+        "url": "https://native.emory.edu/",
+        "publisher": "Emory University",
+        "type": "Group’s official overview",
+        "topics": [
+          "Emory University in the Atlanta area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Names the initiative and describes who participates in it.",
+        "contentReviewScope": "Names the initiative and describes who participates in it.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-native-american-and-indigenous-studies-initiative-emory-university-2-20261126",
+        "title": "Current Projects",
+        "url": "https://native.emory.edu/about/current-projects.html",
+        "publisher": "Emory University",
+        "type": "Group’s own program description",
+        "topics": [
+          "Emory University in the Atlanta area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Documents the initiative’s campus programs and public collaborations.",
+        "contentReviewScope": "Documents the initiative’s campus programs and public collaborations.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the initiative’s own overview and project list for its public programs, faculty work, and community partnerships.",
+        "sourceIds": [
+          "s-ga-native-american-and-indigenous-studies-initiative-emory-university-1-20261126",
+          "s-ga-native-american-and-indigenous-studies-initiative-emory-university-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://native.emory.edu/",
+        "title": "The Native American and Indigenous Studies Initiative",
+        "publisher": "Emory University",
+        "scope": "Names the initiative and describes who participates in it.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://native.emory.edu/about/current-projects.html",
+        "title": "Current Projects",
+        "publisher": "Emory University",
+        "scope": "Documents the initiative’s campus programs and public collaborations.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "NAISI Emory",
+      "Emory Indigenous studies"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "native-american-and-indigenous-studies-initiative-emory-university",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -156212,6 +157047,109 @@
         "id": "CA-NB",
         "name": "New Brunswick",
         "key": "ca-nb"
+      }
+    ]
+  },
+  {
+    "name": "New Echota State Historic Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historic Cherokee capital and public interpretive site",
+    "region": "Calhoun area, Georgia",
+    "overview": "New Echota became the Cherokee Nation’s capital in 1825. Georgia’s historic site near Calhoun interprets Cherokee government, publishing, and the history of forced removal.",
+    "overviewSourceIds": [
+      "s-ga-new-echota-state-historic-site-1-20261126",
+      "s-ga-new-echota-state-historic-site-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-new-echota-state-historic-site-1-20261126",
+        "title": "New Echota State Historic Site",
+        "url": "https://gastateparks.org/NewEchota",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "type": "State historic site guide",
+        "topics": [
+          "Calhoun area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Documents the capital, its government and printing history, and its surviving and reconstructed buildings.",
+        "contentReviewScope": "Documents the capital, its government and printing history, and its surviving and reconstructed buildings.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-new-echota-state-historic-site-2-20261126",
+        "title": "Cherokee Removal From Georgia",
+        "url": "https://www.nps.gov/trte/learn/historyculture/upload/Cherokee-Removal-from-Georgia-508.pdf",
+        "publisher": "National Park Service",
+        "type": "Trail of Tears historical interpretation",
+        "topics": [
+          "Calhoun area, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Places New Echota in the Georgia history of Cherokee forced removal.",
+        "contentReviewScope": "Places New Echota in the Georgia history of Cherokee forced removal.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Georgia State Parks describes the capital and identifies original and reconstructed buildings. The National Park Service offers additional context for Cherokee removal from Georgia.",
+        "sourceIds": [
+          "s-ga-new-echota-state-historic-site-1-20261126",
+          "s-ga-new-echota-state-historic-site-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://gastateparks.org/NewEchota",
+        "title": "New Echota State Historic Site",
+        "publisher": "Georgia State Parks & Historic Sites",
+        "scope": "Documents the capital, its government and printing history, and its surviving and reconstructed buildings.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.nps.gov/trte/learn/historyculture/upload/Cherokee-Removal-from-Georgia-508.pdf",
+        "title": "Cherokee Removal From Georgia",
+        "publisher": "National Park Service",
+        "scope": "Places New Echota in the Georgia history of Cherokee forced removal.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Cherokee capital",
+      "New Echota Council House"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "new-echota-state-historic-site",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -165600,6 +166538,109 @@
         "id": "CA-AB",
         "name": "Alberta",
         "key": "ca-ab"
+      }
+    ]
+  },
+  {
+    "name": "Ocmulgee Mounds National Historical Park",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historic Indigenous landscape and public interpretive site",
+    "region": "Macon, Georgia",
+    "overview": "Ocmulgee Mounds National Historical Park preserves and interprets Indigenous history on the Macon Plateau. The park presents evidence from several periods and identifies the area as an ancestral homeland of the Muscogee people.",
+    "overviewSourceIds": [
+      "s-ga-ocmulgee-mounds-national-historical-park-1-20261126",
+      "s-ga-ocmulgee-mounds-national-historical-park-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-ocmulgee-mounds-national-historical-park-1-20261126",
+        "title": "History & Culture, Ocmulgee Mounds National Historical Park",
+        "url": "https://www.nps.gov/ocmu/learn/historyculture/index.htm",
+        "publisher": "National Park Service",
+        "type": "Park’s history and interpretation",
+        "topics": [
+          "Macon, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Introduces the park’s interpretation of its Indigenous heritage and archaeology.",
+        "contentReviewScope": "Introduces the park’s interpretation of its Indigenous heritage and archaeology.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-ocmulgee-mounds-national-historical-park-2-20261126",
+        "title": "People, Ocmulgee Mounds National Historical Park",
+        "url": "https://www.nps.gov/ocmu/learn/historyculture/people.htm",
+        "publisher": "National Park Service",
+        "type": "Park history and ancestral homeland context",
+        "topics": [
+          "Macon, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Describes the periods represented at the Macon Plateau and the Muscogee Nation’s ancestral connection.",
+        "contentReviewScope": "Describes the periods represented at the Macon Plateau and the Muscogee Nation’s ancestral connection.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the park’s history and interpretation pages. Its People guide explains the different periods covered and the Muscogee Nation’s homeland connection.",
+        "sourceIds": [
+          "s-ga-ocmulgee-mounds-national-historical-park-1-20261126",
+          "s-ga-ocmulgee-mounds-national-historical-park-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nps.gov/ocmu/learn/historyculture/index.htm",
+        "title": "History & Culture, Ocmulgee Mounds National Historical Park",
+        "publisher": "National Park Service",
+        "scope": "Introduces the park’s interpretation of its Indigenous heritage and archaeology.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.nps.gov/ocmu/learn/historyculture/people.htm",
+        "title": "People, Ocmulgee Mounds National Historical Park",
+        "publisher": "National Park Service",
+        "scope": "Describes the periods represented at the Macon Plateau and the Muscogee Nation’s ancestral connection.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Macon Plateau",
+      "Ocmulgee Mounds"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "ocmulgee-mounds-national-historical-park",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -225973,6 +227014,11 @@
         "id": "US-FL",
         "name": "Florida",
         "key": "us-fl"
+      },
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -253844,6 +254890,110 @@
     ]
   },
   {
+    "name": "Yamacraw",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical Indigenous community",
+    "region": "Yamacraw Bluff and Savannah River, Georgia",
+    "overview": "The Yamacraw were an Indigenous community documented at Yamacraw Bluff on the Savannah River. National Park Service sources describe the Yamacraw leader Tomochichi and Mary Musgrove’s role in the community’s early meetings with Georgia colonists.",
+    "overviewSourceIds": [
+      "s-ga-yamacraw-1-20261126",
+      "s-ga-yamacraw-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-yamacraw-1-20261126",
+        "title": "Mary Musgrove",
+        "url": "https://www.nps.gov/fofr/learn/historyculture/mary-musgrove.htm",
+        "publisher": "National Park Service",
+        "type": "Public history of Yamacraw Bluff and Mary Musgrove",
+        "topics": [
+          "Yamacraw Bluff and Savannah River, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the Yamacraw leader Tomochichi and Mary Musgrove at Yamacraw Bluff in 1733.",
+        "contentReviewScope": "Identifies the Yamacraw leader Tomochichi and Mary Musgrove at Yamacraw Bluff in 1733.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-yamacraw-2-20261126",
+        "title": "Savannah, Georgia: The Lasting Legacy of Colonial City Planning",
+        "url": "https://home.nps.gov/articles/savannah-georgia-the-lasting-legacy-of-colonial-city-planning-teaching-with-historic-places.htm",
+        "publisher": "National Park Service",
+        "type": "Historic places teaching guide",
+        "topics": [
+          "Yamacraw Bluff and Savannah River, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Connects the Yamacraw community to the high bluff along the Savannah River.",
+        "contentReviewScope": "Connects the Yamacraw community to the high bluff along the Savannah River.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Begin with the National Park Service account of Mary Musgrove’s work as an interpreter and the historic places guide for the bluff’s setting on the Savannah River.",
+        "sourceIds": [
+          "s-ga-yamacraw-1-20261126",
+          "s-ga-yamacraw-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nps.gov/fofr/learn/historyculture/mary-musgrove.htm",
+        "title": "Mary Musgrove",
+        "publisher": "National Park Service",
+        "scope": "Identifies the Yamacraw leader Tomochichi and Mary Musgrove at Yamacraw Bluff in 1733.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://home.nps.gov/articles/savannah-georgia-the-lasting-legacy-of-colonial-city-planning-teaching-with-historic-places.htm",
+        "title": "Savannah, Georgia: The Lasting Legacy of Colonial City Planning",
+        "publisher": "National Park Service",
+        "scope": "Connects the Yamacraw community to the high bluff along the Savannah River.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Yamacraw Bluff",
+      "Tomochichi",
+      "Savannah River"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "yamacraw",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
+  },
+  {
     "originalId": 439,
     "name": "Yamasee",
     "region": "Southeast / Carolinas / Florida",
@@ -253893,6 +255043,11 @@
         "id": "US-FL",
         "name": "Florida",
         "key": "us-fl"
+      },
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       },
       {
         "id": "US-SC",
@@ -256801,6 +257956,11 @@
       "Southeast"
     ],
     "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
       {
         "id": "US-OK",
         "name": "Oklahoma",

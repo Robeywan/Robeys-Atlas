@@ -1043,7 +1043,8 @@
       "period": "Centuries before removal; source updated August 2026",
       "sourceUrl": "https://cherokee.gov/about-the-nation/frequently-asked-questions/history/",
       "evidenceNote": "Nation FAQ identifies northern Georgia as part of earlier homelands; partial-state connection.",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-AL",
@@ -4716,7 +4717,8 @@
       "sourceTitle": "The Muscogee Nation — Ocmulgee Mounds National Historical Park, NPS",
       "evidenceNote": "NPS describes Muscogee towns and the encroachment of settlers in Georgia before removal. Only a historical Georgia connection is indexed, not the location of the present Muscogee Nation government.",
       "reviewedScope": "Early Interactions and Removal sections",
-      "reviewDate": "2026-10-21"
+      "reviewDate": "2026-10-21",
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-OK",
@@ -5388,7 +5390,8 @@
       "limits": [
         "No public-access invitation is implied: the source identifies the island as private and not open to the public.",
         "No mission site coordinates, territorial polygon or contemporary community identity claim is reproduced."
-      ]
+      ],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-NC",
@@ -5427,7 +5430,8 @@
       "limits": [
         "Hitchiti can designate a town and a broader language/people context; the limited regional source does not resolve every use.",
         "No contemporary government, complete territorial range or settlement coordinates are asserted."
-      ]
+      ],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-TX",
@@ -6511,7 +6515,8 @@
         "No precise archaeological coordinates, present-government identification, or exclusive territory is asserted.",
         "The archaeological society's historical compilation was also read but is replaced here by the more clearly attributed dissertation; the large Swanton PDF was not accessible and is not claimed as inspected."
       ],
-      "supportingSourceUrls": []
+      "supportingSourceUrls": [],
+      "showSourcesInGuide": true
     },
     {
       "regionId": "US-LA",
@@ -36076,6 +36081,276 @@
         "https://d-scholarship.pitt.edu/33029/1/WakefieldMurphyRK_ETDPitt2017_2.pdf"
       ],
       "evidenceNote": "West Virginia’s State Historic Preservation Office documents Monongahela sites in the upper Ohio and Monongahela river valleys. This map entry records the historical West Virginia connection described by the sources.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Georgia Tribe of Eastern Cherokee",
+      "associationType": "Tribal organization listed in Georgia records",
+      "period": "Documented organization and education work",
+      "sourceUrl": "https://www.legis.ga.gov/api/document/docs/default-source/joint-features-document-library/t44-ch8-17-%28v32%29-pdf.pdf",
+      "sourceTitle": "Georgia Code § 44-12-300, named Georgia tribal organizations",
+      "sourcePublisher": "Georgia General Assembly",
+      "supportingSourceUrls": [
+        "https://georgiaindiancouncil.com/sites/default/files/pdfs/minutes/2024/9-23-24%20Minutes.pdf"
+      ],
+      "evidenceNote": "The General Assembly lists this name with Dahlonega, and the council's minutes report a local education collaboration. The links document the Georgia setting and the named organization.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Lower Muskogee Creek Tribe",
+      "associationType": "Tribal organization and documented public gathering",
+      "period": "Documented 2026 council and cultural programs",
+      "sourceUrl": "https://georgiaindiancouncil.com/sites/default/files/pdfs/agenda/1-30-26.Agenda.pdf",
+      "sourceTitle": "Georgia Council on American Indian Concerns agenda, January 30, 2026",
+      "sourcePublisher": "Georgia Council on American Indian Concerns",
+      "supportingSourceUrls": [
+        "https://news.wfsu.org/wfsu-local-news/2026-10-15/the-regions-ancient-and-amazing-native-american-history-is-showcased-in-south-georgia-this-weekend"
+      ],
+      "evidenceNote": "The Georgia Council lists the Lower Muskogee Creek Tribe. WFSU documents the group as the host of the event at Tama Tribal Town near Whigham, Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Cherokee of Georgia Tribal Council",
+      "associationType": "Tribal organization and documented public gathering",
+      "period": "Documented organization and 2026 powwow",
+      "sourceUrl": "https://www.legis.ga.gov/api/document/docs/default-source/joint-features-document-library/t44-ch8-17-%28v32%29-pdf.pdf",
+      "sourceTitle": "Georgia Code § 44-12-300, named Georgia tribal organizations",
+      "sourcePublisher": "Georgia General Assembly",
+      "supportingSourceUrls": [
+        "https://visitkingsland.com/event/46th-annual-fall-powwow-at-cherokee-of-georgia-tribal-grounds-in-st-george/"
+      ],
+      "evidenceNote": "State records and Visit Kingsland identify the council and its St. George tribal grounds.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Native American and Indigenous Studies Initiative (Emory University)",
+      "associationType": "University Indigenous education and community program",
+      "period": "Documented university program",
+      "sourceUrl": "https://native.emory.edu/",
+      "sourceTitle": "The Native American and Indigenous Studies Initiative",
+      "sourcePublisher": "Emory University",
+      "supportingSourceUrls": [
+        "https://native.emory.edu/about/current-projects.html"
+      ],
+      "evidenceNote": "Emory identifies the initiative by name and documents its campus and public programs in Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Institute of Native American Studies (University of Georgia)",
+      "associationType": "University Native studies program in Georgia",
+      "period": "Documented university program",
+      "sourceUrl": "https://inas.uga.edu/",
+      "sourceTitle": "Welcome to Native American Studies at the University of Georgia",
+      "sourcePublisher": "University of Georgia Institute of Native American Studies",
+      "supportingSourceUrls": [
+        "https://lacsi.uga.edu/contact-us-0"
+      ],
+      "evidenceNote": "The institute’s own page identifies its mission, programs, and Athens campus location.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Ocmulgee Mounds National Historical Park",
+      "associationType": "Protected historical Indigenous landscape",
+      "period": "Indigenous history at the Macon Plateau",
+      "sourceUrl": "https://www.nps.gov/ocmu/learn/historyculture/index.htm",
+      "sourceTitle": "History & Culture, Ocmulgee Mounds National Historical Park",
+      "sourcePublisher": "National Park Service",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/ocmu/learn/historyculture/people.htm"
+      ],
+      "evidenceNote": "The National Park Service documents Indigenous use of the Macon Plateau and the Muscogee homeland connection in Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Etowah Indian Mounds State Historic Site",
+      "associationType": "Public historic site and archaeological town",
+      "period": "Mississippian-period town",
+      "sourceUrl": "https://gastateparks.org/EtowahIndianMounds",
+      "sourceTitle": "Etowah Indian Mounds State Historic Site",
+      "sourcePublisher": "Georgia State Parks & Historic Sites",
+      "supportingSourceUrls": [
+        "https://www.georgiaencyclopedia.org/articles/history-archaeology/etowah-mounds"
+      ],
+      "evidenceNote": "Georgia State Parks and Larson document the Indigenous town site near Cartersville on the Etowah River.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "New Echota State Historic Site",
+      "associationType": "Historic Cherokee government and Trail of Tears site",
+      "period": "Cherokee national capital from 1825",
+      "sourceUrl": "https://gastateparks.org/NewEchota",
+      "sourceTitle": "New Echota State Historic Site",
+      "sourcePublisher": "Georgia State Parks & Historic Sites",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/trte/learn/historyculture/upload/Cherokee-Removal-from-Georgia-508.pdf"
+      ],
+      "evidenceNote": "Georgia State Parks documents the Cherokee capital at New Echota at the headwaters of the Oostanaula River.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Chief Vann House State Historic Site",
+      "associationType": "Historic Cherokee house and Trail of Tears site",
+      "period": "Early nineteenth-century Cherokee history",
+      "sourceUrl": "https://gastateparks.org/ChiefVannHouse",
+      "sourceTitle": "Chief Vann House State Historic Site",
+      "sourcePublisher": "Georgia State Parks & Historic Sites",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/places/chief-vann-house.htm"
+      ],
+      "evidenceNote": "The state and federal site records connect the house near Chatsworth to James Vann and the history of the Cherokee Nation in Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Kolomoki Mounds State Park",
+      "associationType": "Protected historical Indigenous landscape",
+      "period": "Woodland-period settlement",
+      "sourceUrl": "https://gastateparks.org/KolomokiMounds",
+      "sourceTitle": "Kolomoki Mounds State Park",
+      "sourcePublisher": "Georgia State Parks & Historic Sites",
+      "supportingSourceUrls": [
+        "https://www.georgiaencyclopedia.org/articles/history-archaeology/kolomoki-mounds/"
+      ],
+      "evidenceNote": "The state park and the archaeological account identify the settlement and mound complex in Early County near Blakely, Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Yamacraw",
+      "associationType": "Historical Indigenous community at Yamacraw Bluff",
+      "period": "Documented early eighteenth-century community",
+      "sourceUrl": "https://www.nps.gov/fofr/learn/historyculture/mary-musgrove.htm",
+      "sourceTitle": "Mary Musgrove",
+      "sourcePublisher": "National Park Service",
+      "supportingSourceUrls": [
+        "https://home.nps.gov/articles/savannah-georgia-the-lasting-legacy-of-colonial-city-planning-teaching-with-historic-places.htm"
+      ],
+      "evidenceNote": "National Park Service accounts explicitly name the Yamacraw and locate the documented encounter at Yamacraw Bluff in present-day Savannah.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Cherokee Nation",
+      "associationType": "Historical Cherokee Nation government connection",
+      "period": "Historic capital established in 1825",
+      "sourceUrl": "https://gastateparks.org/NewEchota",
+      "sourceTitle": "New Echota State Historic Site",
+      "sourcePublisher": "Georgia State Parks & Historic Sites",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/trte/learn/historyculture/upload/Cherokee-Removal-from-Georgia-508.pdf"
+      ],
+      "evidenceNote": "Georgia State Parks identifies New Echota as the Cherokee Nation’s historical capital. The National Park Service discusses forced removal from Georgia.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Muscogee Nation",
+      "associationType": "Historical homeland and documented Muscogee Nation work in Georgia",
+      "period": "Ancestral homeland and documented modern engagement",
+      "sourceUrl": "https://www.nps.gov/ocmu/learn/historyculture/people.htm",
+      "sourceTitle": "People, Ocmulgee Mounds National Historical Park",
+      "sourcePublisher": "National Park Service",
+      "supportingSourceUrls": [
+        "https://www.mvskokemedia.com/muscogee-creek-nation-seeks-a-place-to-call-home-on-ancestral-land/"
+      ],
+      "evidenceNote": "The National Park Service identifies the Macon Plateau as a Muscogee Nation ancestral homeland. Mvskoke Media documents the Nation’s engagement in Macon.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Timucua",
+      "associationType": "Historical Indigenous community connection",
+      "period": "Historical Georgia coast",
+      "sourceUrl": "https://www.nps.gov/fofr/learn/historyculture/the-people-before-frederica.htm",
+      "sourceTitle": "The People Before Frederica",
+      "sourcePublisher": "National Park Service",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/timu/learn/historyculture/how-do-we-know.htm"
+      ],
+      "evidenceNote": "National Park Service interpretation identifies historical Timucuan presence on the Georgia coast and describes archaeological evidence from Cumberland Island.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Yuchi",
+      "associationType": "Historical Yuchi town connection",
+      "period": "Documented eighteenth-century town",
+      "sourceUrl": "https://archaeology.uga.edu/gasf/report/5096",
+      "sourceTitle": "Mount Pleasant, An Eighteenth-Century Yuchi Indian Town, British Trader Outpost, and Military Garrison in Georgia",
+      "sourcePublisher": "University of Georgia Archaeology",
+      "supportingSourceUrls": [],
+      "evidenceNote": "The University of Georgia archaeology report identifies Mount Pleasant in Georgia as an eighteenth-century Yuchi town on the Savannah River.",
+      "reviewDate": "2026-11-26",
+      "showSourcesInGuide": true,
+      "navigationOnly": true,
+      "countsTowardMinimum": false
+    },
+    {
+      "regionId": "US-GA",
+      "name": "Yamasee",
+      "associationType": "Historical coastal community connection",
+      "period": "Documented late seventeenth-century coastal history",
+      "sourceUrl": "https://www.georgiaencyclopedia.org/articles/arts-culture/spanish-missions",
+      "sourceTitle": "Spanish Missions",
+      "sourcePublisher": "John E. Worth, New Georgia Encyclopedia",
+      "supportingSourceUrls": [
+        "https://www.nps.gov/fofr/learn/historyculture/the-people-before-frederica.htm"
+      ],
+      "evidenceNote": "John E. Worth describes Yamasee groups settling briefly among the Mocama and Guale during the Georgia mission era. National Park Service interpretation describes the group in historical regional context.",
       "reviewDate": "2026-11-26",
       "showSourcesInGuide": true,
       "navigationOnly": true,
