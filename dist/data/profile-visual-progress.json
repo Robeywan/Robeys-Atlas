@@ -1,14 +1,16 @@
 {
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2083,
+    "selectedProfiles": 2088,
     "existingApache": 1,
-    "newProfileTreatments": 2082,
-    "newTreatmentsWithPhotographs": 1919,
-    "decorativeTreatmentsAwaitingPhotographs": 163,
-    "autoEnrolledThisBuild": []
+    "newProfileTreatments": 2087,
+    "newTreatmentsWithPhotographs": 1923,
+    "decorativeTreatmentsAwaitingPhotographs": 164,
+    "autoEnrolledThisBuild": [
+      "st-louis-chickasaw-citizen-connection"
+    ]
   },
   "treatments": [
     {
@@ -27046,6 +27048,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "descendant-freedmen-alliance-of-kansas-city",
+      "name": "Descendant Freedmen Alliance of Kansas City",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 295,
+      "angle": -39,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "mo-descendant-freedmen-alliance-of-kansas-city-aerial",
+          "title": "Cave Spring Park and Nature Center, Kansas City",
+          "alt": "Aerial view of the wooded Cave Spring Park entrance and nature center area",
+          "scope": "The Community Voice listed Cave Spring Nature Center as the venue for a 2019 gathering of the Descendant Freedmen Alliance of Kansas City. This aerial photo shows the park in 2022. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "descendant-freedmen-alliance-of-kansas-city"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10518015.94%2C4720748.83%2C-10517694.28%2C4720990.08&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Black Indian Freedmen to Celebrate 1866 Treaty; What is It?",
+              "url": "https://www.communityvoiceks.com/wp-content/uploads/2022/08/edition-2019-08-08.pdf"
+            },
+            {
+              "title": "Kansas City Parks Master Plan · Cave Spring Park",
+              "url": "https://kcparks.org/wp-content/uploads/flipbook/3/files/basic-html/page319.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-descendant-freedmen-alliance-of-kansas-city-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-descendant-freedmen-alliance-of-kansas-city-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 99367,
+              "sha256": "b57f9ce9be8b690604b0cafa829d0d1c48c0db9812a2b770a76789e68e5398dc"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 43696,
+              "sha256": "931468c8ac2eb32f0d5a4d22bb3d38ab6ba80471e2419d29a62827bbb9877879"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:295;--profile-angle:-39deg;--profile-photo:url(\"../../assets/profile-visuals/mo-descendant-freedmen-alliance-of-kansas-city-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "diomede",
       "name": "Diomede",
       "originalId": null,
@@ -33155,6 +33225,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "four-directions-indigenous-peoples-and-allies",
+      "name": "Four Directions: Indigenous Peoples and Allies",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 104,
+      "angle": 68,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "mo-four-directions-indigenous-peoples-and-allies-aerial",
+          "title": "Ellis Library and Lowry Mall, Columbia",
+          "alt": "Aerial view of Ellis Library and the lawn on Lowry Mall at the University of Missouri",
+          "scope": "The University of Missouri Museum of Anthropology and Four Directions listed a Heritage Month program on the lawn at the museum’s Lowry Mall entrance. The aerial photo shows the venue in 2022. The image is resized for the web.",
+          "creator": "USDA Farm Production and Conservation",
+          "credit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "cardCredit": "Aerial photo: USDA National Agriculture Imagery Program (2022), via USFS and GeoPlatform",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "four-directions-indigenous-peoples-and-allies"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer",
+          "sourceImageUrl": "https://imagery.geoplatform.gov/iipp/rest/services/NAIP/NAIP2022_CONUS/ImageServer/exportImage?bbox=-10277883.67%2C4713601.57%2C-10277600.81%2C4713813.72&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.fpacbc.usda.gov/geospatial-services/customer-services",
+          "rightsLabel": "Public domain · USDA aerial photography",
+          "contextSources": [
+            {
+              "title": "Events: Native American Heritage Month",
+              "url": "https://anthromuseum.missouri.edu/events-native-american-heritage-month"
+            },
+            {
+              "title": "Plan Your Visit · Museum of Anthropology",
+              "url": "https://anthromuseum.missouri.edu/plan-your-visit"
+            }
+          ],
+          "asset": "assets/profile-visuals/mo-four-directions-indigenous-peoples-and-allies-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/mo-four-directions-indigenous-peoples-and-allies-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 103786,
+              "sha256": "8d2899bffee3fa1e49dfa8ac679f8010c5e58ecf0c0c52e903ce5cdfa5fc2098"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 45997,
+              "sha256": "2d8f1e1beb07043649ff13e9543947a452976cbfa2408b83f840e6f32fab2747"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:104;--profile-angle:68deg;--profile-photo:url(\"../../assets/profile-visuals/mo-four-directions-indigenous-peoples-and-allies-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "fox-island-river",
@@ -73056,6 +73194,74 @@
       "substantiveInspectedSources": 4
     },
     {
+      "slug": "native-history-association",
+      "name": "Native History Association",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 121,
+      "angle": 20,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "tn-native-history-association-licensed-photo",
+          "title": "Trail of Tears roadbed at Port Royal State Historic Park",
+          "alt": "A leaf-covered path under trees along the historic Trail of Tears roadbed at Port Royal",
+          "scope": "The Native History Association published this photograph of the public historic trail at Port Royal State Historic Park in its November 2026 issue. The image is resized for the web.",
+          "creator": "Native History Association",
+          "credit": "Photo: Native History Association",
+          "cardCredit": "Photo: Native History Association",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "native-history-association"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://nativehistoryassociation.org/newsletter/native-history-review-2026-11.pdf#page=15",
+          "sourceImageUrl": "https://nativehistoryassociation.org/newsletter/native-history-review-2026-11.pdf#page=15",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0",
+          "contextSources": [
+            {
+              "title": "Native History Review · November 2026",
+              "url": "https://nativehistoryassociation.org/newsletter/native-history-review-2026-11.pdf"
+            },
+            {
+              "title": "Port Royal State Historic Park · Trail of Tears National Historic Trail",
+              "url": "https://nativehistoryassociation.org/portroyal.php"
+            }
+          ],
+          "asset": "assets/profile-visuals/tn-native-history-association-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/tn-native-history-association-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1108,
+              "height": 831,
+              "bytes": 336213,
+              "sha256": "34342b084ac3460cfa0c0920a1c8fa4105788f5d5237dc5b6a1da6e68307fdb5"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 127999,
+              "sha256": "18c216d792f32f48c63cd5c447fbcd61ee71ffc3c3737aa6078827d45ef02fcc"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:121;--profile-angle:20deg;--profile-photo:url(\"../../assets/profile-visuals/tn-native-history-association-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "native-justice-coalition",
       "name": "Native Justice Coalition",
       "originalId": null,
@@ -73187,6 +73393,70 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:209;--profile-angle:6deg;--profile-photo:url(\"../../assets/profile-visuals/baker-university-center-athens.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "native-rites",
+      "name": "Native RITES",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 340,
+      "angle": -8,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "tn-native-rites-licensed-photo",
+          "title": "Shelby Farms Park, Memphis",
+          "alt": "A tree-framed lake at Shelby Farms Park in Memphis",
+          "scope": "Native RITES documents a public Red Dress program at Shelby Farms Park. This photograph shows the park, a venue for that program. The image is resized for the web.",
+          "creator": "Thomas R Machnitzki",
+          "credit": "Photo: Thomas R Machnitzki / Wikimedia Commons",
+          "cardCredit": "Photo: Thomas R Machnitzki / Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "native-rites"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shelby_Farms_Park_2012-09-22_Memphis_TN_008.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Shelby_Farms_Park_2012-09-22_Memphis_TN_008.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "rightsLabel": "CC BY 3.0",
+          "contextSources": [
+            {
+              "title": "Native RITES · Education and community programs",
+              "url": "https://ntvrites.org/"
+            }
+          ],
+          "asset": "assets/profile-visuals/tn-native-rites-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/tn-native-rites-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1024,
+              "height": 768,
+              "bytes": 306108,
+              "sha256": "50db7c87c1f019e8ab89e0a8a5ccea55154dbebc5ef00113d295a30ef3b79d48"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 140910,
+              "sha256": "2b07760ae3e9a4060a01e3126acedb58b7a84f10bef178e6f67ac1eec0af69fb"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:340;--profile-angle:-8deg;--profile-photo:url(\"../../assets/profile-visuals/tn-native-rites-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -112007,6 +112277,29 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:219;--profile-angle:-33deg;--profile-photo:url(\"../../assets/profile-visuals/sk-photo-st-laurent-metis-settlement.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "st-louis-chickasaw-citizen-connection",
+      "name": "St. Louis Chickasaw Citizen Connection",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 242,
+      "angle": 10,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:242;--profile-angle:10deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
