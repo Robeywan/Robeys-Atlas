@@ -66748,6 +66748,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
+      {
         "id": "US-NC",
         "name": "North Carolina",
         "key": "us-nc"
@@ -76699,6 +76704,36 @@
         "annotation": "The Georgia Council’s January 2026 minutes record a report on heritage center planning and site plans in Lumpkin County.",
         "contentReviewScope": "The Georgia Council’s January 2026 minutes record a report on heritage center planning and site plans in Lumpkin County.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-followup-georgia-tribe-of-eastern-cherokee-1-20261126",
+        "title": "Georgia Council on American Indian Concerns meeting minutes, November 2, 2024",
+        "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/minutes/2024/11-2-24%20Minutes.pdf",
+        "publisher": "Georgia Council on American Indian Concerns",
+        "type": "Official meeting record",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The tribe’s report in the November 2024 council minutes describes a proposal for part of Yahoola Creek Park.",
+        "contentReviewScope": "The tribe’s report in the November 2024 council minutes describes a proposal for part of Yahoola Creek Park.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-followup-georgia-tribe-of-eastern-cherokee-2-20261126",
+        "title": "Facility Rentals: Yahoola Creek Park",
+        "url": "https://www.lumpkincounty.gov/156/Facility-Rentals",
+        "publisher": "Lumpkin County Parks and Recreation",
+        "type": "Official identification of the public park",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The county locates its public Yahoola Creek Park facilities in Dahlonega.",
+        "contentReviewScope": "The county locates its public Yahoola Creek Park facilities in Dahlonega.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -76715,6 +76750,14 @@
         "text": "A January 2026 report to the Georgia Council on American Indian Concerns describes the tribe’s plans for a museum and heritage center in Lumpkin County. The report says the site plans had been completed.",
         "sourceIds": [
           "s-regionreview-georgia-tribe-of-eastern-cherokee-1-20261126"
+        ]
+      },
+      {
+        "title": "Yahoola Creek Park heritage proposal",
+        "text": "In November 2024, the tribe’s representative reported work with Lumpkin County’s Native American advisory committee on a Cherokee heritage proposal for part of Yahoola Creek Park in Dahlonega. The county identifies Yahoola Creek Park as a public recreation site.",
+        "sourceIds": [
+          "s-ga-followup-georgia-tribe-of-eastern-cherokee-1-20261126",
+          "s-ga-followup-georgia-tribe-of-eastern-cherokee-2-20261126"
         ]
       }
     ],
@@ -102567,6 +102610,114 @@
         "id": "US-AK",
         "name": "Alaska",
         "key": "us-ak"
+      }
+    ]
+  },
+  {
+    "name": "Kasihta",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical Lower Creek (Muscogee) town",
+    "region": "Chattahoochee River, Georgia",
+    "overview": "Kasihta, also called Cusseta in historical sources, was a Lower Creek town. A University of Georgia archaeological report identifies remains of the eighteenth-century town in present-day Chattahoochee County.",
+    "overviewSourceIds": [
+      "s-ga-kasihta-1-20261126",
+      "s-ga-kasihta-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-kasihta-1-20261126",
+        "title": "Excavations at the Muskogee Town of Cussetuh (9CE1) Draft Report",
+        "url": "https://archaeology.uga.edu/gasf/report/10105",
+        "publisher": "University of Georgia Laboratory of Archaeology",
+        "type": "Archaeological fieldwork report abstract",
+        "topics": [
+          "Chattahoochee River, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The report abstract identifies archaeological remains of the eighteenth-century Muscogee town in Chattahoochee County and records its historical name forms.",
+        "contentReviewScope": "The report abstract identifies archaeological remains of the eighteenth-century Muscogee town in Chattahoochee County and records its historical name forms.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-kasihta-2-20261126",
+        "title": "Kasihta (Cusseta)",
+        "url": "https://www.georgiahistory.com/ghmi_marker_updated/kasihta-cusseta/",
+        "publisher": "Georgia Historical Society",
+        "type": "Historical marker text and location",
+        "topics": [
+          "Chattahoochee River, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The marker identifies Kasihta as a Lower Creek town and gives the location of the public marker at the county courthouse.",
+        "contentReviewScope": "The marker identifies Kasihta as a Lower Creek town and gives the location of the public marker at the county courthouse.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The archaeological report describes fieldwork at the eighteenth-century town site. The Georgia historical marker in present-day Cusseta records earlier settlements along the Chattahoochee and Ocmulgee rivers.",
+        "sourceIds": [
+          "s-ga-kasihta-1-20261126",
+          "s-ga-kasihta-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://archaeology.uga.edu/gasf/report/10105",
+        "title": "Excavations at the Muskogee Town of Cussetuh (9CE1) Draft Report",
+        "publisher": "University of Georgia Laboratory of Archaeology",
+        "scope": "The report abstract identifies archaeological remains of the eighteenth-century Muscogee town in Chattahoochee County and records its historical name forms.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.georgiahistory.com/ghmi_marker_updated/kasihta-cusseta/",
+        "title": "Kasihta (Cusseta)",
+        "publisher": "Georgia Historical Society",
+        "scope": "The marker identifies Kasihta as a Lower Creek town and gives the location of the public marker at the county courthouse.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Cusseta (Lower Creek town)",
+      "Cussetuh",
+      "Kasita",
+      "Kashita"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "muscogee-creek",
+      "muscogee-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "kasihta",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -148812,6 +148963,112 @@
         "id": "US-KY",
         "name": "Kentucky",
         "key": "us-ky"
+      }
+    ]
+  },
+  {
+    "name": "Native American Student Association (University of Georgia)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Native student organization",
+    "region": "Athens, Georgia",
+    "overview": "The University of Georgia’s Native American Student Association organizes campus gatherings and cultural events in Athens. The university documents its 2022 powwow and a spring gathering co-hosted with the Institute of Native American Studies in 2026.",
+    "overviewSourceIds": [
+      "s-ga-native-american-student-association-university-of-georgia-1-20261126",
+      "s-ga-native-american-student-association-university-of-georgia-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-native-american-student-association-university-of-georgia-1-20261126",
+        "title": "UGA PowWow 2022",
+        "url": "https://www.franklin.uga.edu/news/stories/2022/uga-powwow-2022",
+        "publisher": "University of Georgia Franklin College of Arts and Sciences",
+        "type": "First-party event report",
+        "topics": [
+          "Athens, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The university describes the student association’s role in the 2022 campus powwow and records Tate Theater as its location.",
+        "contentReviewScope": "The university describes the student association’s role in the 2022 campus powwow and records Tate Theater as its location.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-native-american-student-association-university-of-georgia-2-20261126",
+        "title": "INAS & NASA Spring Gathering",
+        "url": "https://inas.uga.edu/events/content/2026/inas-nasa-spring-gathering",
+        "publisher": "University of Georgia Institute of Native American Studies",
+        "type": "First-party event listing",
+        "topics": [
+          "Athens, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The university’s event listing names the association as a co-host of the April 2026 gathering in Athens.",
+        "contentReviewScope": "The university’s event listing names the association as a co-host of the April 2026 gathering in Athens.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Franklin College report describes the student association’s 2022 powwow at Tate Theater. The institute’s calendar lists a 2026 spring gathering organized with the association.",
+        "sourceIds": [
+          "s-ga-native-american-student-association-university-of-georgia-1-20261126",
+          "s-ga-native-american-student-association-university-of-georgia-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.franklin.uga.edu/news/stories/2022/uga-powwow-2022",
+        "title": "UGA PowWow 2022",
+        "publisher": "University of Georgia Franklin College of Arts and Sciences",
+        "scope": "The university describes the student association’s role in the 2022 campus powwow and records Tate Theater as its location.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://inas.uga.edu/events/content/2026/inas-nasa-spring-gathering",
+        "title": "INAS & NASA Spring Gathering",
+        "publisher": "University of Georgia Institute of Native American Studies",
+        "scope": "The university’s event listing names the association as a co-host of the April 2026 gathering in Athens.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "UGA Native American Student Association",
+      "UGA NASA",
+      "Indigenous Culture Day"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "institute-of-native-american-studies-university-of-georgia"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "native-american-student-association-university-of-georgia",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
       }
     ]
   },
@@ -216750,6 +217007,113 @@
     ]
   },
   {
+    "name": "Standing Peachtree",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical Muscogee village and trading place",
+    "region": "Atlanta, Georgia",
+    "overview": "Standing Peachtree was a Creek (Muscogee) village and trading place where Peachtree Creek enters the Chattahoochee River in present-day Atlanta.",
+    "overviewSourceIds": [
+      "s-ga-standing-peachtree-1-20261126",
+      "s-ga-standing-peachtree-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ga-standing-peachtree-1-20261126",
+        "title": "Southeast Chronicles: Kennesaw Mountain National Battlefield Park",
+        "url": "https://www.nps.gov/orgs/1539/the-southeast-chronicles-kennesaw-mountain-national-battlefield-park.htm",
+        "publisher": "National Park Service Southeast Archeological Center",
+        "type": "Regional archaeological report",
+        "topics": [
+          "Atlanta, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The regional archaeological report discusses the recorded village site, early maps and earlier fieldwork at the confluence.",
+        "contentReviewScope": "The regional archaeological report discusses the recorded village site, early maps and earlier fieldwork at the confluence.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-standing-peachtree-2-20261126",
+        "title": "Standing Peach Tree",
+        "url": "https://www.georgiahistory.com/ghmi_marker_updated/standing-peach-tree/",
+        "publisher": "Georgia Historical Society",
+        "type": "Historical marker text and location",
+        "topics": [
+          "Atlanta, Georgia"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The marker names a Creek village at the mouth of Peachtree Creek and locates the public interpretation in Atlanta.",
+        "contentReviewScope": "The marker names a Creek village at the mouth of Peachtree Creek and locates the public interpretation in Atlanta.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The National Park Service traces the village through early maps and archaeological reports. The Georgia Historical Society marker records its position at the mouth of Peachtree Creek.",
+        "sourceIds": [
+          "s-ga-standing-peachtree-1-20261126",
+          "s-ga-standing-peachtree-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.nps.gov/orgs/1539/the-southeast-chronicles-kennesaw-mountain-national-battlefield-park.htm",
+        "title": "Southeast Chronicles: Kennesaw Mountain National Battlefield Park",
+        "publisher": "National Park Service Southeast Archeological Center",
+        "scope": "The regional archaeological report discusses the recorded village site, early maps and earlier fieldwork at the confluence.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.georgiahistory.com/ghmi_marker_updated/standing-peach-tree/",
+        "title": "Standing Peach Tree",
+        "publisher": "Georgia Historical Society",
+        "scope": "The marker names a Creek village at the mouth of Peachtree Creek and locates the public interpretation in Atlanta.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Standing Peach Tree",
+      "Peachtree Creek",
+      "Chattahoochee River"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "muscogee-creek",
+      "muscogee-nation"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "standing-peachtree",
+    "regionGroups": [
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      }
+    ]
+  },
+  {
     "name": "Standing Rock Sioux Tribe",
     "added": true,
     "kind": "Named Tribal government",
@@ -238972,14 +239336,54 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Oklahoma",
-    "overview": "United Keetoowah Band of Cherokee Indians in Oklahoma has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The United Keetoowah Band identifies Tahlequah, Oklahoma, as its home today and describes Georgia as part of its ancestral homeland. Its representatives took part in a study of the cultural significance of New Echota near Calhoun, Georgia.",
     "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Georgia and New Echota",
+        "text": "The Band’s own account distinguishes its southeastern homelands from its current home in Tahlequah. A Georgia Department of Transportation study, cataloged by the University of Georgia, documents consultation with the Band and the two other federally recognized Cherokee tribes about New Echota.",
+        "sourceIds": [
+          "s-ga-followup-united-keetoowah-band-of-cherokee-indians-in-oklahoma-1-20261126",
+          "s-ga-followup-united-keetoowah-band-of-cherokee-indians-in-oklahoma-2-20261126"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-ga-followup-united-keetoowah-band-of-cherokee-indians-in-oklahoma-1-20261126",
+        "title": "About Us — United Keetoowah Band",
+        "url": "https://www.ukb-nsn.gov/about-us",
+        "publisher": "United Keetoowah Band of Cherokee Indians in Oklahoma",
+        "type": "Tribal account of homelands and community setting",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The Band identifies Georgia among the states that encompass its ancestral homelands and says its present home is Tahlequah, Oklahoma.",
+        "contentReviewScope": "The Band identifies Georgia among the states that encompass its ancestral homelands and says its present home is Tahlequah, Oklahoma.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ga-followup-united-keetoowah-band-of-cherokee-indians-in-oklahoma-2-20261126",
+        "title": "A Traditional Cultural Property Study of New Echota the First Cherokee National Capitol from 1825–1838",
+        "url": "https://archaeology.uga.edu/gasf/report/13600",
+        "publisher": "University of Georgia Laboratory of Archaeology",
+        "type": "Original study abstract and consultation scope",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The abstract names United Keetoowah Band representatives among the people consulted about New Echota in Gordon County, Georgia.",
+        "contentReviewScope": "The abstract names United Keetoowah Band representatives among the people consulted about New Echota in Gordon County, Georgia.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -239007,11 +239411,20 @@
         "History, reading sources and imagery remain queued."
       ]
     },
+    "overviewSourceIds": [
+      "s-ga-followup-united-keetoowah-band-of-cherokee-indians-in-oklahoma-1-20261126",
+      "s-ga-followup-united-keetoowah-band-of-cherokee-indians-in-oklahoma-2-20261126"
+    ],
     "slug": "united-keetoowah-band-of-cherokee-indians-in-oklahoma",
     "regionGroups": [
       "Great Plains"
     ],
     "mapRegions": [
+      {
+        "id": "US-GA",
+        "name": "Georgia",
+        "key": "us-ga"
+      },
       {
         "id": "US-OK",
         "name": "Oklahoma",

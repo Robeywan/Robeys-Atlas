@@ -3,11 +3,11 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2108,
+    "selectedProfiles": 2112,
     "existingApache": 1,
-    "newProfileTreatments": 2107,
-    "newTreatmentsWithPhotographs": 1942,
-    "decorativeTreatmentsAwaitingPhotographs": 165,
+    "newProfileTreatments": 2111,
+    "newTreatmentsWithPhotographs": 1947,
+    "decorativeTreatmentsAwaitingPhotographs": 164,
     "autoEnrolledThisBuild": []
   },
   "treatments": [
@@ -17530,7 +17530,8 @@
           "mediaType": "photograph",
           "profileSlugs": [
             "new-echota-state-historic-site",
-            "cherokee-nation"
+            "cherokee-nation",
+            "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
           ],
           "reviewedAt": "2026-11-26",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Council_House,_New_Echota,_GA_July_2017.jpg",
@@ -34500,14 +34501,59 @@
       "hue": 112,
       "angle": 24,
       "composition": "fold",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "ga-georgia-tribe-of-eastern-cherokee-licensed-photo",
+          "title": "Yahoola Creek Park",
+          "alt": "Yahoola Creek winding through a wooded area of Yahoola Creek Park in Dahlonega",
+          "scope": "Yahoola Creek Park in Dahlonega, photographed in 2009. In 2024 the tribe’s council representative reported working with a county advisory committee on a Cherokee heritage proposal for part of the public park. The image is resized for the web.",
+          "creator": "Pete Seabolt",
+          "credit": "Photo by Pete Seabolt, via Wikimedia Commons",
+          "cardCredit": "Photo by Pete Seabolt, via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "georgia-tribe-of-eastern-cherokee"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yahoola_Creek_Park_-_panoramio_-_Pete_Seabolt_(3).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Yahoola_Creek_Park_-_panoramio_-_Pete_Seabolt_%283%29.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "rightsLabel": "CC BY 3.0 Unported",
+          "contextSources": [
+            {
+              "title": "Georgia Council on American Indian Concerns meeting minutes, November 2, 2024",
+              "url": "https://georgiaindiancouncil.com/sites/default/files/pdfs/minutes/2024/11-2-24%20Minutes.pdf"
+            },
+            {
+              "title": "Facility Rentals: Yahoola Creek Park",
+              "url": "https://www.lumpkincounty.gov/156/Facility-Rentals"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-georgia-tribe-of-eastern-cherokee-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-georgia-tribe-of-eastern-cherokee-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 293924,
+              "sha256": "af2d8d749cae51605ed9d8d06c4b3a0a0dfaf563a2f7c788f72432b0c90754b9"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 99848,
+              "sha256": "ac7bb50a623267e31e5833a9c577c770d2d92d9d7559938b6f421f172dece5d6"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:112;--profile-angle:24deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:112;--profile-angle:24deg;--profile-photo:url(\"../../assets/profile-visuals/ga-georgia-tribe-of-eastern-cherokee-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -48415,6 +48461,74 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:90;--profile-angle:61deg;--profile-photo:url(\"../../assets/profile-visuals/alaska-kasigluk-satellite-2026.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kasihta",
+      "name": "Kasihta",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 56,
+      "angle": 32,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "ga-kasihta-licensed-photo",
+          "title": "Chattahoochee County Courthouse in Cusseta, Georgia",
+          "alt": "Front of the Chattahoochee County Courthouse in present-day Cusseta, Georgia",
+          "scope": "The courthouse in present-day Cusseta is the public location of a historical marker about Kasihta. The marker describes earlier town sites along the Chattahoochee and Ocmulgee rivers. The image is resized for the web.",
+          "creator": "Rivers Langley",
+          "credit": "Photo by Rivers Langley (SaveRivers), via Wikimedia Commons",
+          "cardCredit": "Photo by Rivers Langley (SaveRivers), via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "kasihta"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chattahoochee_County,_Georgia_Courthouse.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Chattahoochee_County%2C_Georgia_Courthouse.JPG",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0 Unported",
+          "contextSources": [
+            {
+              "title": "Kasihta (Cusseta)",
+              "url": "https://www.georgiahistory.com/ghmi_marker_updated/kasihta-cusseta/"
+            },
+            {
+              "title": "Excavations at the Muskogee Town of Cussetuh (9CE1) Draft Report",
+              "url": "https://archaeology.uga.edu/gasf/report/10105"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-kasihta-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-kasihta-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 880,
+              "bytes": 259387,
+              "sha256": "0e73cb8f22ede42d683c52c5fc8ade3fcbf5a6b19d775dd7c980937b9dedd5e3"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 499,
+              "bytes": 97976,
+              "sha256": "384a784d1817803ef6152de111e809847a5d98d008e222817e2e9aed3dc6074f"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:56;--profile-angle:32deg;--profile-photo:url(\"../../assets/profile-visuals/ga-kasihta-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -73651,6 +73765,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "native-american-student-association-university-of-georgia",
+      "name": "Native American Student Association (University of Georgia)",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 185,
+      "angle": -57,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "ga-native-american-student-association-university-of-georgia-aerial",
+          "title": "Tate Student Center at the University of Georgia",
+          "alt": "Aerial view of Tate Student Center at the University of Georgia in Athens",
+          "scope": "The Native American Student Association held its November 2022 powwow in Tate Theater, inside this Athens campus student center. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "native-american-student-association-university-of-georgia"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9281434.25%2C4022055.11%2C-9281150.95%2C4022267.58&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "UGA PowWow 2022",
+              "url": "https://www.franklin.uga.edu/news/stories/2022/uga-powwow-2022"
+            },
+            {
+              "title": "Tate Student Center floor plans",
+              "url": "https://tate.uga.edu/wp-content/uploads/sites/4/2020/09/BEAP-Floorplans-1.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-native-american-student-association-university-of-georgia-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/ga-native-american-student-association-university-of-georgia-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 158511,
+              "sha256": "8ef1ef31bb532580ac75de54adaf455a494cb9f2ca3d6a8c377e7735b6f692c7"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 56140,
+              "sha256": "74656e5bbe61d3c05f2205cfbaafef9275c65b1e8f2844ea30d5805bb095f496"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:185;--profile-angle:-57deg;--profile-photo:url(\"../../assets/profile-visuals/ga-native-american-student-association-university-of-georgia-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "native-american-student-association-university-of-iowa",
       "name": "Native American Student Association (University of Iowa)",
       "originalId": null,
@@ -81822,7 +82004,8 @@
           "mediaType": "photograph",
           "profileSlugs": [
             "new-echota-state-historic-site",
-            "cherokee-nation"
+            "cherokee-nation",
+            "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
           ],
           "reviewedAt": "2026-11-26",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Council_House,_New_Echota,_GA_July_2017.jpg",
@@ -113930,6 +114113,78 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "standing-peachtree",
+      "name": "Standing Peachtree",
+      "originalId": null,
+      "paper": "#edf2e8",
+      "accent": "#355b43",
+      "hue": 217,
+      "angle": 27,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "ga-standing-peachtree-aerial",
+          "title": "Chattahoochee River and Peachtree Creek at Standing Peachtree",
+          "alt": "Aerial photo of the Chattahoochee River and Peachtree Creek meeting near Atlanta’s Standing Peachtree Greenspace",
+          "scope": "This aerial photograph shows the modern river setting of Standing Peachtree, where Peachtree Creek meets the Chattahoochee River in Atlanta. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USGS, USDA and The National Map",
+          "cardCredit": "Aerial photo: USGS, USDA and The National Map",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "standing-peachtree"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9401737.86%2C4005404.10%2C-9401184.12%2C4005819.40&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/faqs/what-are-terms-uselicensing-map-services-and-data-national-map",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Standing Peach Tree",
+              "url": "https://www.georgiahistory.com/ghmi_marker_updated/standing-peach-tree/"
+            },
+            {
+              "title": "Standing Peachtree Greenspace",
+              "url": "https://www.chattahoocheeriverlands.com/stories/parks-and-recreation/camp-paddle-trail-launch/"
+            },
+            {
+              "title": "Southeast Chronicles: Kennesaw Mountain National Battlefield Park",
+              "url": "https://www.nps.gov/orgs/1539/the-southeast-chronicles-kennesaw-mountain-national-battlefield-park.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-standing-peachtree-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/ga-standing-peachtree-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 222725,
+              "sha256": "3d47c38e703ea4bc29de43f48e202bba61aeac1fd46a3b0728357b46d121e8eb"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 78971,
+              "sha256": "84de032eb600d085527360171e007473fce3fadf4d25864ebde352b507e816e5"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:217;--profile-angle:27deg;--profile-photo:url(\"../../assets/profile-visuals/ga-standing-peachtree-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "standing-rock-sioux-tribe",
       "name": "Standing Rock Sioux Tribe",
       "originalId": null,
@@ -125772,6 +126027,76 @@
         "used": 1
       },
       "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:52;--profile-angle:31deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-union-bar-indian-band.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "united-keetoowah-band-of-cherokee-indians-in-oklahoma",
+      "name": "United Keetoowah Band of Cherokee Indians in Oklahoma",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 163,
+      "angle": -35,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ga-new-echota-state-historic-site-licensed-photo",
+          "title": "Reconstructed Council House at New Echota",
+          "alt": "Wooden Council House on the grounds of New Echota State Historic Site",
+          "scope": "The photograph shows the reconstructed Council House at the Cherokee Nation’s historic capital near Calhoun, Georgia. The image is resized for the web.",
+          "creator": "Thomson200",
+          "credit": "Photo: Thomson200 via Wikimedia Commons",
+          "cardCredit": "Photo: Thomson200 via Wikimedia Commons",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "new-echota-state-historic-site",
+            "cherokee-nation",
+            "united-keetoowah-band-of-cherokee-indians-in-oklahoma"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Council_House,_New_Echota,_GA_July_2017.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Council_House%2C_New_Echota%2C_GA_July_2017.jpg",
+          "rightsUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "rightsLabel": "CC0 1.0",
+          "contextSources": [
+            {
+              "title": "New Echota State Historic Site",
+              "url": "https://gastateparks.org/NewEchota"
+            },
+            {
+              "title": "Cherokee Removal From Georgia",
+              "url": "https://www.nps.gov/trte/learn/historyculture/upload/Cherokee-Removal-from-Georgia-508.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/ga-new-echota-state-historic-site-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ga-new-echota-state-historic-site-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 800,
+              "bytes": 261749,
+              "sha256": "76f1f4c700331e033c61a41997cb82e7fafb1575b6d2613f1b04adf0b18e80d3"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 453,
+              "bytes": 96769,
+              "sha256": "c48df5bf40d68e7f37fef65bb1a92669a4aa7c9d5f78ee665dbd6cda6c8cd703"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:163;--profile-angle:-35deg;--profile-photo:url(\"../../assets/profile-visuals/ga-new-echota-state-historic-site-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
