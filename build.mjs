@@ -8,7 +8,7 @@ import {buildDirectoryDesigns} from './directory-designs.mjs';
 import {buildProfileVisuals} from './profile-visuals.mjs';
 import {buildMap} from './map-build.mjs';
 import {buildHistoricalMaps} from './historical-maps-build.mjs';
-import {renderStudyGuidesPage,studyGuidesPageHead} from './study-guides-page.mjs';
+import {renderStudyGuidesPage,studyGuidesPageHead,researchStudyListing,renderResearchStudy} from './study-guides-page.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 const cwd=path.dirname(fileURLToPath(import.meta.url));
@@ -238,7 +238,9 @@ const studyGuideReferenceItems=[...studyGuideEntries.values()].map(g=>{
  if(href&&!html.includes('href="'+href+'"'))html+='<p class="study-actions"><a href="'+href+'" download>Download Word (.docx)</a></p>';
  return {key:g.key,title:g.title,html};
 });
-const leadPage=document('Study guides','Owner-supplied study guides, Word downloads and reference lists for further research.',renderStudyGuidesPage(studyGuideReferenceItems),'../','study-guides').replace('</head>',studyGuidesPageHead('../')+'</head>');
+const thanksgivingStudy=JSON.parse(fs.readFileSync(path.join(cwd,'data/thanksgiving-study.json'),'utf8'));
+studyGuideReferenceItems.push(researchStudyListing(thanksgivingStudy));
+const leadPage=document('Study guides','Study guides, Word downloads and reference lists for further research.',renderStudyGuidesPage(studyGuideReferenceItems),'../','study-guides').replace('</head>',studyGuidesPageHead('../')+'</head>');
 
 function identificationReferences(p){
  const refs=(p.identificationEvidence||[]).filter(ref=>{
@@ -281,6 +283,7 @@ write('contact/thanks/index.html',document('Thanks for writing','Confirmation fo
 write('index.html',document('Indigenous nations & peoples','Explore Indigenous nations and peoples of North America through cited profiles, naming notes, and annotated sources.',home));
 write('study-guides/index.html',leadPage);write('reading-leads/index.html',leadPage);write('data/owner-reading-leads.json',JSON.stringify(leadCatalog,null,2));
 write('sources/index.html',sourcePage);
+write('studies/'+thanksgivingStudy.key+'/index.html',document(thanksgivingStudy.title,thanksgivingStudy.summary,renderResearchStudy(thanksgivingStudy),'../../','study-guides'));
 for(const d of ownerStudies){const blocks=d.blocks.map(b=>b.type==='table'?'<div style="overflow:auto"><table>'+b.rows.map(row=>'<tr>'+row.map(c=>'<td>'+studyText(c,d.key)+'</td>').join('')+'</tr>').join('')+'</table></div>':(/^Heading[1-6]$/i.test(b.style)?'<h2>'+studyText(b.text,d.key)+'</h2>':'<p>'+studyText(b.text,d.key)+'</p>')).join('');write('studies/'+slug(d.key)+'/index.html',document(d.title,'Read the owner-supplied study and follow its original source links.','<main id="main" class="wrap"><article class="prose"><p><a href="../../study-guides/">← Study guides</a></p><h1>'+e(d.title)+'</h1><p>Owner-supplied research study. The study’s assertions and citations have not all been independently checked by the Atlas. This is supplementary reading, separate from the profile’s inspected-source collection.</p><p>'+((typeof d.download==='string'&&d.download.length>0)?'<a href="../../'+e(d.download)+'" download>Download Word (.docx)</a> · ':'')+'<a href="../../study-guides/#'+e(d.key)+'">Study source collection</a></p><details><summary>About this reading copy</summary><p>'+e(d.wordDownloadNote)+'</p></details>'+blocks+'</article></main>','../../','study-guides'));}
 write('about/index.html',about);write('language-map/index.html',document('North American language map','A zoomable Smithsonian PDF map of Native North American languages and language families, with a clear explanation of its approximate and non-synchronous first-contact scope.',languageMapPage,'../','directory'));
 for(const p of profiles)write('nations/'+p.slug+'/index.html',profilePage(p));
