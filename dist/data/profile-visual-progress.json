@@ -3,27 +3,12 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2162,
+    "selectedProfiles": 2172,
     "existingApache": 1,
-    "newProfileTreatments": 2161,
-    "newTreatmentsWithPhotographs": 1980,
-    "decorativeTreatmentsAwaitingPhotographs": 181,
-    "autoEnrolledThisBuild": [
-      "bama-indigenous-students-organization-network",
-      "bell-creek",
-      "charity-chapel",
-      "cherocreek-intra-tribal-indians",
-      "cherokee-tribe-of-northeast-alabama",
-      "cherokees-of-southeast-alabama",
-      "echota-cherokee-tribe-of-alabama",
-      "headapadea",
-      "hog-fork",
-      "machis-lower-creek-indian-tribe-of-alabama",
-      "piqua-shawnee-tribe-of-alabama",
-      "poarch-switch",
-      "southeastern-mvskoke-nation",
-      "united-cherokee-aniyunwiya-nation"
-    ]
+    "newProfileTreatments": 2171,
+    "newTreatmentsWithPhotographs": 1988,
+    "decorativeTreatmentsAwaitingPhotographs": 183,
+    "autoEnrolledThisBuild": []
   },
   "treatments": [
     {
@@ -8946,14 +8931,55 @@
       "hue": 320,
       "angle": -50,
       "composition": "sweep",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "al-bama-indigenous-students-organization-network-licensed-photo",
+          "title": "The University of Alabama Student Center",
+          "alt": "East entrance to the University of Alabama Student Center in Tuscaloosa",
+          "scope": "The Student Center is a documented venue for BISON campus events, including the group’s spring 2026 introductory meeting. The image is resized for the web.",
+          "creator": "Kai NeSmith",
+          "credit": "Photograph: Kai NeSmith",
+          "cardCredit": "Photograph: Kai NeSmith",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "bama-indigenous-students-organization-network"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024-10-22_-_Tuscaloosa,_AL,_USA_-_UA_Student_Center_East_Entrance.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2024-10-22_-_Tuscaloosa%2C_AL%2C_USA_-_UA_Student_Center_East_Entrance.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "rightsLabel": "CC BY 4.0",
+          "contextSources": [
+            {
+              "title": "BISON Intro Meeting",
+              "url": "https://calendar.ua.edu/event/bison-intro-meeting"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-bama-indigenous-students-organization-network-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/al-bama-indigenous-students-organization-network-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 800,
+              "bytes": 151011,
+              "sha256": "0aede6c5ff11ca91a14ccbd24ae0d1f8564d0ef6204d47104a716051306e5612"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 453,
+              "bytes": 58530,
+              "sha256": "c5e28e9a559696faf1647015c94a81f100fbdba5f2a20c3fbeaebad20a13d2ea"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:320;--profile-angle:-50deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:320;--profile-angle:-50deg;--profile-photo:url(\"../../assets/profile-visuals/al-bama-indigenous-students-organization-network-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -13250,6 +13276,74 @@
         "used": 0
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:63;--profile-angle:-23deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "bottle-creek",
+      "name": "Bottle Creek",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 164,
+      "angle": -50,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "al-bottle-creek-aerial",
+          "title": "The Mobile–Tensaw Delta around Mound Island",
+          "alt": "Wooded land and side channels around Mound Island in the Mobile–Tensaw Delta",
+          "scope": "The Alabama Historical Commission places Bottle Creek on Mound Island. This modern aerial photograph shows the site’s forested delta surroundings and river channels. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "bottle-creek"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9790063.58%2C3631515.77%2C-9788313.71%2C3632828.17&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Bottle Creek Indian Mounds",
+              "url": "https://ahc.alabama.gov/properties/bottlecreek/bottlecreek.aspx"
+            },
+            {
+              "title": "Past Projects",
+              "url": "https://www.southalabama.edu/org/archaeology/past-projects.html"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-bottle-creek-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/al-bottle-creek-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 395141,
+              "sha256": "18fe4274451e16b86ed4d00164105407a0d800f58cf2f391464e26296285f56f"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 121301,
+              "sha256": "5aa06c71804b1374dd48aae1ab7efd9c9f4fa7571b3726c365074f21db8ba19f"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:164;--profile-angle:-50deg;--profile-photo:url(\"../../assets/profile-visuals/al-bottle-creek-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -29509,14 +29603,59 @@
       "hue": 193,
       "angle": -46,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "al-echota-cherokee-tribe-of-alabama-aerial",
+          "title": "Landscape around the Echota Cherokee gathering grounds",
+          "alt": "Fields, a rural road and woods around the documented Echota Cherokee gathering site near Falkville",
+          "scope": "An aerial view of the surroundings of the Echota Cherokee Tribe of Alabama’s documented Falkville gathering site. The community’s newsletter identifies this site for its 2026 festival. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "echota-cherokee-tribe-of-alabama"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9674524.60%2C4068923.80%2C-9674052.50%2C4069277.87&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "April 2026 Echota Newsletter",
+              "url": "https://echotacherokee.org/uploads/1/3/3/2/133299955/april2026_echota_newsletter__1_.pdf"
+            },
+            {
+              "title": "August 2025 Echota Newsletter",
+              "url": "https://echotacherokee.org/uploads/1/3/3/2/133299955/august_2025_echota_newsletter.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-echota-cherokee-tribe-of-alabama-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/al-echota-cherokee-tribe-of-alabama-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 212123,
+              "sha256": "2ef03a957ca47cdb54e958796c5477d59d0060ba52082e3607dbce43810af867"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 73234,
+              "sha256": "ecd832f9b0de89b9693de8a0cf227f9b1dede4c5351b0d3ac680a5945abc2409"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:193;--profile-angle:-46deg;--profile-photo:none",
+      "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:193;--profile-angle:-46deg;--profile-photo:url(\"../../assets/profile-visuals/al-echota-cherokee-tribe-of-alabama-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -31916,6 +32055,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "eufaula",
+      "name": "Eufaula",
+      "originalId": 106,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 122,
+      "angle": -10,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "al-eufaula-aerial",
+          "title": "Lake Eufaula and the Chattahoochee shore",
+          "alt": "Aerial view of the Chattahoochee reservoir shore near Old Creek Town Park at modern Eufaula",
+          "scope": "This modern view shows the Chattahoochee reservoir near Eufaula, Alabama. The area’s history documents three Creek towns along the river before the city developed. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "eufaula"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9477411.47%2C3751588.54%2C-9474843.16%2C3753514.78&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Old Creek Town Park",
+              "url": "https://www.eufaularecreation.com/OldCreekTownPark.aspx"
+            },
+            {
+              "title": "Eufaula",
+              "url": "https://encyclopediaofalabama.org/article/eufaula/"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-eufaula-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/al-eufaula-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 333646,
+              "sha256": "e3290a29fe3effb40a36df664d60c3547c594949bd34e7542f1053d299e81347"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 98821,
+              "sha256": "4b497b2ee801c8b9581277414c96c85f52c6ee4af5beb82ad15e43f5f0bd7b76"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:122;--profile-angle:-10deg;--profile-photo:url(\"../../assets/profile-visuals/al-eufaula-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "evansville",
       "name": "Evansville",
       "originalId": null,
@@ -32080,6 +32287,29 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:295;--profile-angle:71deg;--profile-photo:url(\"../../assets/profile-visuals/alaska-cordova-satellite-2026.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "fairford",
+      "name": "Fairford",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 206,
+      "angle": -10,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:206;--profile-angle:-10deg;--profile-photo:none",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -40994,6 +41224,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "hill-springs",
+      "name": "Hill Springs",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 77,
+      "angle": 9,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:77;--profile-angle:9deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "historic-cahokia-village",
       "name": "Historic Cahokia Village",
       "originalId": null,
@@ -46036,6 +46289,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "isaactown",
+      "name": "Isaactown",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 16,
+      "angle": 77,
+      "composition": "orbit",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:16;--profile-angle:77deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "isertoq",
       "name": "Isertoq",
       "originalId": null,
@@ -46365,6 +46641,74 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:265;--profile-angle:38deg;--profile-photo:url(\"../../assets/profile-visuals/gl-photo-itilleq.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "itombi-ikbi",
+      "name": "Itombi Ikbi",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 253,
+      "angle": 41,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "al-itombi-ikbi-licensed-photo",
+          "title": "The Tombigbee River near Epes",
+          "alt": "The Tennessee–Tombigbee Waterway at Epes, Alabama",
+          "scope": "This view shows the modern Tombigbee River landscape near Epes, in the vicinity of the former Itombi Ikbi settlement and Fort Tombecbe. The image is resized for the web.",
+          "creator": "DwayneP",
+          "credit": "Photograph: DwayneP",
+          "cardCredit": "Photograph: DwayneP",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "itombi-ikbi"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:TennTomWaterwayEpesAlabama.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TennTomWaterwayEpesAlabama.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Fort Tombecbe and Early Choctaw Treaties",
+              "url": "https://www.choctawnation.com/news/iti-fabvssa/fort-tombecbe-and-early-choctaw-treaties/"
+            },
+            {
+              "title": "Fort Tombecbe",
+              "url": "https://encyclopediaofalabama.org/article/fort-tombecbe/"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-itombi-ikbi-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/al-itombi-ikbi-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 800,
+              "height": 600,
+              "bytes": 67380,
+              "sha256": "2b57665e008b4fe0745952021420a470018421d9c76165774df25ec50cd3cb4d"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 54514,
+              "sha256": "96a868da3c6bb60ccdab12fe075cc59c595c662ddafce2927db90d5dbe3bf563"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:253;--profile-angle:41deg;--profile-photo:url(\"../../assets/profile-visuals/al-itombi-ikbi-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -62316,14 +62660,55 @@
       "hue": 94,
       "angle": -49,
       "composition": "sweep",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "al-machis-lower-creek-indian-tribe-of-alabama-licensed-photo",
+          "title": "Reconstructed stockade at Fort Mitchell",
+          "alt": "Blockhouse and wooden stockade at the Fort Mitchell historic site in Russell County",
+          "scope": "Fort Mitchell is the venue where Ma-Chis’s own account records its delegation taking part in the 2001 Creek homecoming. The image is resized for the web.",
+          "creator": "Jeffrey Reed (Altairisfar)",
+          "credit": "Photograph: Jeffrey Reed (Altairisfar)",
+          "cardCredit": "Photograph: Jeffrey Reed (Altairisfar)",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "machis-lower-creek-indian-tribe-of-alabama"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Mitchell.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fort_Mitchell.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Fort_Mitchell.jpg#Licensing",
+          "rightsLabel": "Public domain · creator’s release",
+          "contextSources": [
+            {
+              "title": "Ma-Chis Lower Creek Indian Tribe of Alabama",
+              "url": "https://machistribe.com/"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-machis-lower-creek-indian-tribe-of-alabama-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/al-machis-lower-creek-indian-tribe-of-alabama-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 573,
+              "height": 382,
+              "bytes": 57049,
+              "sha256": "90934cd11f994b6e24e7ea0fc63f8074e408a7c8e0c7576e5589e83563ee4447"
+            },
+            "cardAsset": {
+              "width": 573,
+              "height": 382,
+              "bytes": 60270,
+              "sha256": "41800e9dfa34cd39b45c640538387d98c8e9295cb6410a970e6df717dcb3f7b2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:94;--profile-angle:-49deg;--profile-photo:none",
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:94;--profile-angle:-49deg;--profile-photo:url(\"../../assets/profile-visuals/al-machis-lower-creek-indian-tribe-of-alabama-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -62679,6 +63064,29 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "magnolia",
+      "name": "Magnolia",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 231,
+      "angle": 58,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:231;--profile-angle:58deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "mahkato-mdewakanton-association",
@@ -106339,6 +106747,29 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "sanctown",
+      "name": "Sanctown",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 66,
+      "angle": -7,
+      "composition": "wash",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:66;--profile-angle:-7deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "sand-point",
       "name": "Sand Point",
       "originalId": null,
@@ -113695,6 +114126,29 @@
       "substantiveInspectedSources": 3
     },
     {
+      "slug": "snow-corner",
+      "name": "Snow Corner",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 208,
+      "angle": -69,
+      "composition": "fold",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:208;--profile-angle:-69deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "snowbird-community",
       "name": "Snowbird Community",
       "originalId": null,
@@ -114726,14 +115180,55 @@
       "hue": 51,
       "angle": 26,
       "composition": "wash",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "al-southeastern-mvskoke-nation-aerial",
+          "title": "Landscape around the Creek Friends Festival venue",
+          "alt": "Fields, woodland and a county road around the Creek Friends Festival venue near Troy",
+          "scope": "An aerial view along County Road 2254 around the venue identified in the coverage of the Southeastern Mvskoke Nation’s 2025 Creek Friends Festival. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "southeastern-mvskoke-nation"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9571026.74%2C3716619.19%2C-9570650.85%2C3716901.11&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Southeastern Mvskoke Nation Holds Annual Creek Friends Festival",
+              "url": "https://dalechronicle.com/southeastern-mvskoke-nation-holds-annual-creek-friends-festival/"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-southeastern-mvskoke-nation-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/al-southeastern-mvskoke-nation-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 211045,
+              "sha256": "68c5700686f1539036510f3778fd0c883888e6b77cab56f101f7c69301fbfa1a"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 72345,
+              "sha256": "4873bbfc79fed5840423718543094ffe486e3dd47e1b3fd152df2aec8d5c72d2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:51;--profile-angle:26deg;--profile-photo:none",
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:51;--profile-angle:26deg;--profile-photo:url(\"../../assets/profile-visuals/al-southeastern-mvskoke-nation-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -122146,6 +122641,29 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "tibbie",
+      "name": "Tibbie",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 164,
+      "angle": -25,
+      "composition": "sweep",
+      "images": [],
+      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "imageCoverage": {
+        "status": "Decorative treatment; authentic imagery pending",
+        "available": 0,
+        "used": 0
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:164;--profile-angle:-25deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tiilerilaaq",
       "name": "Tiilerilaaq",
       "originalId": null,
@@ -128625,14 +129143,59 @@
       "hue": 312,
       "angle": -36,
       "composition": "ribbon",
-      "images": [],
-      "eligibilityBasis": "Evidence-backed research update since the recorded baseline",
+      "images": [
+        {
+          "id": "al-united-cherokee-aniyunwiya-nation-aerial",
+          "title": "Landscape around the United Cherokee AniYunWiYa Nation powwow site",
+          "alt": "Aerial view of the field and buildings around the documented powwow site near Guntersville",
+          "scope": "The Lake Guntersville Chamber identifies this location for the United Cherokee AniYunWiYa Nation’s annual powwow. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "united-cherokee-aniyunwiya-nation"
+          ],
+          "reviewedAt": "2026-11-26",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9606044.28%2C4068200.91%2C-9605747.73%2C4068423.33&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "27th Annual Pow Wow — United Cherokee AniYunWiya Nation",
+              "url": "https://www.lakeguntersville.org/event/27th-annual-pow-wow-united-cherokee-aniyunwiya-nation/"
+            },
+            {
+              "title": "United Cherokee AniYunWiYa Nation are landowners",
+              "url": "https://ucantribe.com/united-cherokee-aniyunwiya-nation-are-landowners/"
+            }
+          ],
+          "asset": "assets/profile-visuals/al-united-cherokee-aniyunwiya-nation-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/al-united-cherokee-aniyunwiya-nation-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 166360,
+              "sha256": "fe6c89344b22e22346c335228f99b7c59137f096d5053cb55710f3f623aabeb8"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 58550,
+              "sha256": "36fca509b43bb5af27322611528958f0ca626f86ebee00d6199fcf6bc7727782"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
       "imageCoverage": {
-        "status": "Decorative treatment; authentic imagery pending",
-        "available": 0,
-        "used": 0
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
       },
-      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:312;--profile-angle:-36deg;--profile-photo:none",
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:312;--profile-angle:-36deg;--profile-photo:url(\"../../assets/profile-visuals/al-united-cherokee-aniyunwiya-nation-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,

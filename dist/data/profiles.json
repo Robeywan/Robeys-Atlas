@@ -18196,6 +18196,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      },
+      {
         "id": "US-FL",
         "name": "Florida",
         "key": "us-fl"
@@ -26528,6 +26533,36 @@
         "annotation": "The University of Alabama publication names the Bama Indigenous Students Organization Network in its Tuscaloosa resource list.",
         "contentReviewScope": "The University of Alabama publication names the Bama Indigenous Students Organization Network in its Tuscaloosa resource list.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-bama-indigenous-students-organization-network-1-20261126",
+        "title": "BISON Intro Meeting",
+        "url": "https://calendar.ua.edu/event/bison-intro-meeting",
+        "publisher": "The University of Alabama",
+        "type": "University event listing",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Lists BISON’s spring 2026 introductory meeting at the Student Center.",
+        "contentReviewScope": "Lists BISON’s spring 2026 introductory meeting at the Student Center.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-bama-indigenous-students-organization-network-2-20261126",
+        "title": "A&S in the News, October 13–19, 2024",
+        "url": "https://barefield.ua.edu/2024/10/21/as-in-the-news-october-13-19-2024/",
+        "publisher": "The University of Alabama, Barefield College of Arts & Sciences",
+        "type": "University event coverage",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Documents the student network’s exhibition and its campus venue.",
+        "contentReviewScope": "Documents the student network’s exhibition and its campus venue.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -26536,6 +26571,14 @@
         "text": "The publication’s land acknowledgment links readers to the student network as part of its list of local Indigenous resources.",
         "sourceIds": [
           "s-al-followup-bama-indigenous-students-organization-network-1-20261126"
+        ]
+      },
+      {
+        "title": "Campus events and exhibitions",
+        "text": "The University of Alabama calendar lists a BISON meeting at the Student Center in spring 2026. College coverage also records a 2024 Indigenous Peoples’ Day cultural exhibition hosted by the network on the Student Center lawn.",
+        "sourceIds": [
+          "s-al-continued-bama-indigenous-students-organization-network-1-20261126",
+          "s-al-continued-bama-indigenous-students-organization-network-2-20261126"
         ]
       }
     ],
@@ -29387,6 +29430,21 @@
         "annotation": "Names Bell Creek alongside three other historical Poarch Creek communities.",
         "contentReviewScope": "Names Bell Creek alongside three other historical Poarch Creek communities.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-bell-creek-1-20261126",
+        "title": "The Forgotten Creeks: A Historical Narrative",
+        "url": "https://pci-nsn.gov/the-forgotten-creeks-a-historical-narrative/",
+        "publisher": "Poarch Creek Indians",
+        "type": "Community historical narrative",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Discusses the use of the historical local name Bell Creek in Poarch Creek history.",
+        "contentReviewScope": "Discusses the use of the historical local name Bell Creek in Poarch Creek history.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -29395,6 +29453,13 @@
         "text": "The museum’s “Poarch Creeks Emerge” section places Bell Creek in the history of rural Poarch Creek community life in Alabama.",
         "sourceIds": [
           "s-al-followup-bell-creek-1-20261126"
+        ]
+      },
+      {
+        "title": "A second Poarch Creek account",
+        "text": "In its historical narrative, the Poarch Creek Indians discuss anthropologist Frank Speck’s 1941 visit and the use of community names such as Bell Creek. The account distinguishes his observations from the community’s own understanding.",
+        "sourceIds": [
+          "s-al-continued-bell-creek-1-20261126"
         ]
       }
     ],
@@ -34498,6 +34563,111 @@
         "id": "CA-NL",
         "name": "Newfoundland and Labrador",
         "key": "ca-nl"
+      }
+    ]
+  },
+  {
+    "name": "Bottle Creek",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical Mississippian town",
+    "region": "Mobile–Tensaw Delta, Alabama",
+    "overview": "Bottle Creek was a Mississippian town on Mound Island in the Mobile–Tensaw Delta. The Alabama Historical Commission describes it as a probable center of the archaeological tradition known as Pensacola culture.",
+    "overviewSourceIds": [
+      "s-al-bottle-creek-1-20261126",
+      "s-al-bottle-creek-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-bottle-creek-1-20261126",
+        "title": "Bottle Creek Indian Mounds",
+        "url": "https://ahc.alabama.gov/properties/bottlecreek/bottlecreek.aspx",
+        "publisher": "Alabama Historical Commission",
+        "type": "Public history",
+        "topics": [
+          "Mobile–Tensaw Delta, Alabama"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Documents the Bottle Creek town on Mound Island and interprets its place in Pensacola culture.",
+        "contentReviewScope": "Documents the Bottle Creek town on Mound Island and interprets its place in Pensacola culture.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-bottle-creek-2-20261126",
+        "title": "Past Projects",
+        "url": "https://www.southalabama.edu/org/archaeology/past-projects.html",
+        "publisher": "University of South Alabama, Center for Archaeological Studies",
+        "type": "Archaeological project summary",
+        "topics": [
+          "Mobile–Tensaw Delta, Alabama"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Summarizes the university’s excavations and description of the Mississippian town site.",
+        "contentReviewScope": "Summarizes the university’s excavations and description of the Mississippian town site.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The commission’s site account explains the town’s setting and regional importance. The University of South Alabama’s project summary describes its earthen platforms and the research that documents the settlement.",
+        "sourceIds": [
+          "s-al-bottle-creek-1-20261126",
+          "s-al-bottle-creek-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://ahc.alabama.gov/properties/bottlecreek/bottlecreek.aspx",
+        "title": "Bottle Creek Indian Mounds",
+        "publisher": "Alabama Historical Commission",
+        "scope": "Documents the Bottle Creek town on Mound Island and interprets its place in Pensacola culture.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.southalabama.edu/org/archaeology/past-projects.html",
+        "title": "Past Projects",
+        "publisher": "University of South Alabama, Center for Archaeological Studies",
+        "scope": "Summarizes the university’s excavations and description of the Mississippian town site.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Bottle Creek Indian Mounds",
+      "Mound Island",
+      "Mobile–Tensaw Delta"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "moundville",
+      "mobile"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "bottle-creek",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
       }
     ]
   },
@@ -51548,6 +51718,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      },
+      {
         "id": "US-LA",
         "name": "Louisiana",
         "key": "us-la"
@@ -60275,6 +60450,11 @@
     ],
     "mapRegions": [
       {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      },
+      {
         "id": "US-GA",
         "name": "Georgia",
         "key": "us-ga"
@@ -68314,6 +68494,36 @@
         "annotation": "Lists the Echota Cherokee Tribe of Alabama under Alabama.",
         "contentReviewScope": "Lists the Echota Cherokee Tribe of Alabama under Alabama.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-echota-cherokee-tribe-of-alabama-1-20261126",
+        "title": "April 2026 Echota Newsletter",
+        "url": "https://echotacherokee.org/uploads/1/3/3/2/133299955/april2026_echota_newsletter__1_.pdf",
+        "publisher": "Echota Cherokee Tribe of Alabama",
+        "type": "Community newsletter",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies the public festival venue in Falkville.",
+        "contentReviewScope": "Identifies the public festival venue in Falkville.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-echota-cherokee-tribe-of-alabama-2-20261126",
+        "title": "August 2025 Echota Newsletter",
+        "url": "https://echotacherokee.org/uploads/1/3/3/2/133299955/august_2025_echota_newsletter.pdf",
+        "publisher": "Echota Cherokee Tribe of Alabama",
+        "type": "Community newsletter",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Describes the role of the Falkville gathering grounds in community activities.",
+        "contentReviewScope": "Describes the role of the Falkville gathering grounds in community activities.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -68323,6 +68533,14 @@
         "sourceIds": [
           "s-al-followup-echota-cherokee-tribe-of-alabama-1-20261126",
           "s-al-followup-echota-cherokee-tribe-of-alabama-2-20261126"
+        ]
+      },
+      {
+        "title": "The Falkville gathering grounds",
+        "text": "The group’s newsletters describe the Falkville gathering grounds and list the location for its 2026 festival. These are first-party accounts of how the group uses the site.",
+        "sourceIds": [
+          "s-al-continued-echota-cherokee-tribe-of-alabama-1-20261126",
+          "s-al-continued-echota-cherokee-tribe-of-alabama-2-20261126"
         ]
       }
     ],
@@ -71791,6 +72009,13 @@
         "sourceIds": [
           "p106-s1"
         ]
+      },
+      {
+        "title": "Creek villages near Alabama’s Eufaula",
+        "text": "The Encyclopedia of Alabama places three late eighteenth-century Creek towns on both sides of the Chattahoochee near present-day Eufaula. It notes that the later town adopted a Creek village name. The linked Oklahoma history describes how that name was also chosen for the Oklahoma town.",
+        "sourceIds": [
+          "s-al-continued-eufaula-1-20261126"
+        ]
       }
     ],
     "sources": [
@@ -71806,6 +72031,21 @@
         ],
         "annotation": "Historical context for this entry. Read “Eufaula | Encyclopedia” with attention to the author, period covered, and communities named; compare with community-published accounts where available.",
         "accessed": "2026-10-19"
+      },
+      {
+        "id": "s-al-continued-eufaula-1-20261126",
+        "title": "Eufaula",
+        "url": "https://encyclopediaofalabama.org/article/eufaula/",
+        "publisher": "Encyclopedia of Alabama",
+        "type": "Local history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Documents Creek village settlement in the vicinity of modern Eufaula, Alabama, and the adoption of a Creek village name.",
+        "contentReviewScope": "Documents Creek village settlement in the vicinity of modern Eufaula, Alabama, and the adoption of a Creek village name.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -72112,15 +72352,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Fairford, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "Poll Bayou Creek area, Alabama",
+    "overview": "The MOWA Band describes Fairford as a nineteenth-century settlement near Poll Bayou Creek. Its account recalls a brush-arbor church associated with the village.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-fairford-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Fairford in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Fairford in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "The Fairford section places the village near Poll Bayou Creek and gives its founding period and church history.",
+        "sourceIds": [
+          "s-al-continued-fairford-1-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -72138,18 +72402,25 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-fairford-1-20261126"
+    ],
     "slug": "fairford",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "False Pass",
@@ -86024,6 +86295,21 @@
         "annotation": "Names Headapadea alongside three other historical Poarch Creek communities.",
         "contentReviewScope": "Names Headapadea alongside three other historical Poarch Creek communities.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-headapadea-1-20261126",
+        "title": "The Forgotten Creeks: A Historical Narrative",
+        "url": "https://pci-nsn.gov/the-forgotten-creeks-a-historical-narrative/",
+        "publisher": "Poarch Creek Indians",
+        "type": "Community historical narrative",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Discusses the use of the historical local name Headapadea in Poarch Creek history.",
+        "contentReviewScope": "Discusses the use of the historical local name Headapadea in Poarch Creek history.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -86032,6 +86318,13 @@
         "text": "The museum’s “Poarch Creeks Emerge” section places Headapadea in the history of rural Poarch Creek community life in Alabama.",
         "sourceIds": [
           "s-al-followup-headapadea-1-20261126"
+        ]
+      },
+      {
+        "title": "A second Poarch Creek account",
+        "text": "In its historical narrative, the Poarch Creek Indians discuss anthropologist Frank Speck’s 1941 visit and the use of community names such as Headapadea. The account distinguishes his observations from the community’s own understanding.",
+        "sourceIds": [
+          "s-al-continued-headapadea-1-20261126"
         ]
       }
     ],
@@ -87223,15 +87516,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Hill Springs, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "McIntosh area, Alabama",
+    "overview": "The MOWA Band describes Hill Springs as a settlement founded in the 1880s just west of Snow Corner.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-hill-springs-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Hill Springs in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Hill Springs in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "The Band’s account places Hill Springs relative to Snow Corner, which it identifies as west of McIntosh.",
+        "sourceIds": [
+          "s-al-continued-hill-springs-1-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -87249,18 +87566,25 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-hill-springs-1-20261126"
+    ],
     "slug": "hill-springs",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "Historic Cahokia Village",
@@ -87961,6 +88285,21 @@
         "annotation": "Names Hog Fork alongside three other historical Poarch Creek communities.",
         "contentReviewScope": "Names Hog Fork alongside three other historical Poarch Creek communities.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-hog-fork-1-20261126",
+        "title": "The Forgotten Creeks: A Historical Narrative",
+        "url": "https://pci-nsn.gov/the-forgotten-creeks-a-historical-narrative/",
+        "publisher": "Poarch Creek Indians",
+        "type": "Community historical narrative",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Discusses the use of the historical local name Hog Fork in Poarch Creek history.",
+        "contentReviewScope": "Discusses the use of the historical local name Hog Fork in Poarch Creek history.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -87969,6 +88308,13 @@
         "text": "The museum’s “Poarch Creeks Emerge” section places Hog Fork in the history of rural Poarch Creek community life in Alabama.",
         "sourceIds": [
           "s-al-followup-hog-fork-1-20261126"
+        ]
+      },
+      {
+        "title": "A second Poarch Creek account",
+        "text": "In its historical narrative, the Poarch Creek Indians discuss anthropologist Frank Speck’s 1941 visit and the use of community names such as Hog Fork. The account distinguishes his observations from the community’s own understanding.",
+        "sourceIds": [
+          "s-al-continued-hog-fork-1-20261126"
         ]
       }
     ],
@@ -97251,15 +97597,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Isaactown, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "Lower Tombigbee area, Alabama",
+    "overview": "The MOWA Band’s settlement history identifies Isaactown as a family-based village founded in the 1870s. The account connects its community life with a church and school.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-isaactown-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Isaactown in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Isaactown in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "The Isaactown section describes the founder’s family and records the creation of a church and school.",
+        "sourceIds": [
+          "s-al-continued-isaactown-1-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -97277,18 +97647,25 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-isaactown-1-20261126"
+    ],
     "slug": "isaactown",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "Isertoq",
@@ -97852,6 +98229,110 @@
         "id": "GL",
         "name": "Greenland",
         "key": "gl"
+      }
+    ]
+  },
+  {
+    "name": "Itombi Ikbi",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-26",
+    "kind": "Historical Choctaw village",
+    "region": "Tombigbee River near Epes, Alabama",
+    "overview": "Itombi Ikbi was a Choctaw village on the Tombigbee River near Fort Tombecbe. The Choctaw Nation’s history describes the village moving upriver to a bluff near the fort in the eighteenth century.",
+    "overviewSourceIds": [
+      "s-al-itombi-ikbi-1-20261126",
+      "s-al-itombi-ikbi-2-20261126"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-itombi-ikbi-1-20261126",
+        "title": "Fort Tombecbe and Early Choctaw Treaties",
+        "url": "https://www.choctawnation.com/news/iti-fabvssa/fort-tombecbe-and-early-choctaw-treaties/",
+        "publisher": "Choctaw Nation of Oklahoma",
+        "type": "Tribal historical research",
+        "topics": [
+          "Tombigbee River near Epes, Alabama"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Names the Choctaw village of Itombi Ikbi and describes its location and movement near Fort Tombecbe.",
+        "contentReviewScope": "Names the Choctaw village of Itombi Ikbi and describes its location and movement near Fort Tombecbe.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-itombi-ikbi-2-20261126",
+        "title": "Fort Tombecbe",
+        "url": "https://encyclopediaofalabama.org/article/fort-tombecbe/",
+        "publisher": "Encyclopedia of Alabama",
+        "type": "Historical site account",
+        "topics": [
+          "Tombigbee River near Epes, Alabama"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Places the documented fort locality near Epes in Sumter County, Alabama.",
+        "contentReviewScope": "Places the documented fort locality near Epes in Sumter County, Alabama.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the Choctaw Nation’s account for the village and its relationship to French, British, and Spanish posts. The Alabama historical reference places the fort near present-day Epes.",
+        "sourceIds": [
+          "s-al-itombi-ikbi-1-20261126",
+          "s-al-itombi-ikbi-2-20261126"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.choctawnation.com/news/iti-fabvssa/fort-tombecbe-and-early-choctaw-treaties/",
+        "title": "Fort Tombecbe and Early Choctaw Treaties",
+        "publisher": "Choctaw Nation of Oklahoma",
+        "scope": "Names the Choctaw village of Itombi Ikbi and describes its location and movement near Fort Tombecbe.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://encyclopediaofalabama.org/article/fort-tombecbe/",
+        "title": "Fort Tombecbe",
+        "publisher": "Encyclopedia of Alabama",
+        "scope": "Places the documented fort locality near Epes in Sumter County, Alabama.",
+        "reviewedAt": "2026-11-26",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-26",
+    "searchTerms": [
+      "Fort Tombecbe",
+      "Tombigbee River",
+      "Epes"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "choctaw"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "itombi-ikbi",
+    "regionGroups": [],
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
       }
     ]
   },
@@ -127328,15 +127809,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Magnolia, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "McIntosh area, Alabama",
+    "overview": "In its settlement history, the MOWA Band identifies Magnolia as a village founded in the 1890s between Hill Springs and Snow Corner.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-magnolia-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Magnolia in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Magnolia in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "Read the Magnolia entry alongside the Band’s separate Hill Springs and Snow Corner entries for its description of the local setting.",
+        "sourceIds": [
+          "s-al-continued-magnolia-1-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -127354,18 +127859,25 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-magnolia-1-20261126"
+    ],
     "slug": "magnolia",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "Mahkato Mdewakanton Association",
@@ -185296,6 +185808,21 @@
         "annotation": "Lists Piqua Shawnee in a 2023 Alabama legislative record.",
         "contentReviewScope": "Lists Piqua Shawnee in a 2023 Alabama legislative record.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-piqua-shawnee-tribe-of-alabama-1-20261126",
+        "title": "Gallery",
+        "url": "https://piquashawnee.gov/gallery",
+        "publisher": "Piqua Shawnee Tribe of Alabama",
+        "type": "Community gallery",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The group presents community photographs and historical material in a public gallery. Its credits identify the photographs as rights reserved.",
+        "contentReviewScope": "The group presents community photographs and historical material in a public gallery. Its credits identify the photographs as rights reserved.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -185305,6 +185832,13 @@
         "sourceIds": [
           "s-al-followup-piqua-shawnee-tribe-of-alabama-1-20261126",
           "s-al-followup-piqua-shawnee-tribe-of-alabama-2-20261126"
+        ]
+      },
+      {
+        "title": "The group’s public gallery",
+        "text": "The Piqua Shawnee Tribe of Alabama’s gallery brings together community photographs, historical images, and documents with descriptions from the group.",
+        "sourceIds": [
+          "s-al-continued-piqua-shawnee-tribe-of-alabama-1-20261126"
         ]
       }
     ],
@@ -187014,6 +187548,21 @@
         "annotation": "Names Poarch Switch alongside three other historical Poarch Creek communities.",
         "contentReviewScope": "Names Poarch Switch alongside three other historical Poarch Creek communities.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-poarch-switch-1-20261126",
+        "title": "The Forgotten Creeks: A Historical Narrative",
+        "url": "https://pci-nsn.gov/the-forgotten-creeks-a-historical-narrative/",
+        "publisher": "Poarch Creek Indians",
+        "type": "Community historical narrative",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Discusses the use of the historical local name Poarch Switch in Poarch Creek history.",
+        "contentReviewScope": "Discusses the use of the historical local name Poarch Switch in Poarch Creek history.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -187022,6 +187571,13 @@
         "text": "The museum’s “Poarch Creeks Emerge” section places Poarch Switch in the history of rural Poarch Creek community life in Alabama.",
         "sourceIds": [
           "s-al-followup-poarch-switch-1-20261126"
+        ]
+      },
+      {
+        "title": "A second Poarch Creek account",
+        "text": "In its historical narrative, the Poarch Creek Indians discuss anthropologist Frank Speck’s 1941 visit and the use of community names such as Poarch Switch. The account distinguishes his observations from the community’s own understanding.",
+        "sourceIds": [
+          "s-al-continued-poarch-switch-1-20261126"
         ]
       }
     ],
@@ -202772,15 +203328,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Sanctown, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "Calvert area, Alabama",
+    "overview": "The MOWA Band identifies Sanctown as a village west of Calvert in its Early Settlements account.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-sanctown-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Sanctown in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Sanctown in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "Read the Sanctown section for the Band’s placement of the community west of Calvert.",
+        "sourceIds": [
+          "s-al-continued-sanctown-1-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -202798,18 +203378,25 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-sanctown-1-20261126"
+    ],
     "slug": "sanctown",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "Sand Point",
@@ -215932,15 +216519,39 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Snow Corner, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "McIntosh area, Alabama",
+    "overview": "The MOWA Band describes Snow Corner as a historical settlement west of McIntosh. Its account records a founding in the 1880s after a founding family member’s return to Alabama.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-snow-corner-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Snow Corner in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Snow Corner in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "Read the Band’s Snow Corner section for its account of the founding and the location west of McIntosh.",
+        "sourceIds": [
+          "s-al-continued-snow-corner-1-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -215958,18 +216569,25 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-snow-corner-1-20261126"
+    ],
     "slug": "snow-corner",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "Snowbird Community",
@@ -217307,6 +217925,21 @@
         "annotation": "Lists Southeastern Mvskoke Nation in the 2023 legislative record.",
         "contentReviewScope": "Lists Southeastern Mvskoke Nation in the 2023 legislative record.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-southeastern-mvskoke-nation-1-20261126",
+        "title": "Southeastern Mvskoke Nation Holds Annual Creek Friends Festival",
+        "url": "https://dalechronicle.com/southeastern-mvskoke-nation-holds-annual-creek-friends-festival/",
+        "publisher": "Dale County Chronicle · Jeffrey Devine",
+        "type": "Local event reporting",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Reports the 2025 public event organized by the Southeastern Mvskoke Nation near Troy.",
+        "contentReviewScope": "Reports the 2025 public event organized by the Southeastern Mvskoke Nation near Troy.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -217316,6 +217949,13 @@
         "sourceIds": [
           "s-al-followup-southeastern-mvskoke-nation-1-20261126",
           "s-al-followup-southeastern-mvskoke-nation-2-20261126"
+        ]
+      },
+      {
+        "title": "The Creek Friends Festival",
+        "text": "Local coverage describes the group’s October 2025 Creek Friends Festival on the grounds near Troy, Alabama. It offers a dated record of the public gathering and its venue.",
+        "sourceIds": [
+          "s-al-continued-southeastern-mvskoke-nation-1-20261126"
         ]
       }
     ],
@@ -230145,15 +230785,55 @@
     "added": true,
     "compiledAt": null,
     "kind": "Website-ascribed historical settlement label",
-    "region": "Unassigned - website-ascribed historical label only; geographic setting and present base unassessed.",
-    "overview": "An empty identification outline for Tibbie, listed under Early Settlements on the MOWA Band of Choctaw Indians website. This is an attributed historical label; present continuity, independent community status, setting and relationships remain unassessed.",
+    "region": "Tibbie area, Alabama",
+    "overview": "The MOWA Band’s account describes a historical homestead at Tibbie on the western side of the Band’s settlement area. It places the homestead near the meeting of the Choctaw Trading Path and an extension of the Federal Road.",
     "relationshipNote": "Website publisher attribution establishes no affiliation, parent relationship or endorsement. Relationships with MOWA, broader peoples, other labels and current entities remain unresolved; no alias, equivalence, continuity, distinctness or unrelatedness finding is established.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-al-continued-tibbie-1-20261126",
+        "title": "Early Settlements",
+        "url": "https://www.mowachoctawindians.com/early-settlements",
+        "publisher": "MOWA Band of Choctaw Indians",
+        "type": "Community history",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "The MOWA Band names Tibbie in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "contentReviewScope": "The MOWA Band names Tibbie in its Early Settlements account and describes its place in the Band’s historical settlement area.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-tibbie-2-20261126",
+        "title": "2020 Census designated places, Alabama",
+        "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/acs26/tigerweb_acs26_cdp_2020_tab20_al.html",
+        "publisher": "U.S. Census Bureau",
+        "type": "Geographic reference",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Identifies and locates the present-day Alabama census-designated place of Tibbie.",
+        "contentReviewScope": "Identifies and locates the present-day Alabama census-designated place of Tibbie.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Read the MOWA settlement history",
+        "text": "Read the Band’s historical account for the homestead and routes. The Census Bureau lists modern Tibbie among Alabama’s designated places.",
+        "sourceIds": [
+          "s-al-continued-tibbie-1-20261126",
+          "s-al-continued-tibbie-2-20261126"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-11-10",
     "identificationEvidence": [
       {
@@ -230171,18 +230851,26 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Current existence, continuity, independent community status, geographic setting and base remain unassessed.",
-      "Historical label interpretation and institutional/people/place relationships require separate assessment; no geographic navigation or aliases are approved.",
-      "Substantive adequacy remains unassessed; no fixed source, history or image count is a prerequisite."
+      "Further local sources could clarify the settlement’s precise historical setting and later changes."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Exact website-ascribed historical label and neutral page-kind framing only; substantive adequacy and current continuity remain unassessed."
+      "rationale": "This guide introduces the linked sources. A fuller assessment is pending."
     },
+    "overviewSourceIds": [
+      "s-al-continued-tibbie-1-20261126",
+      "s-al-continued-tibbie-2-20261126"
+    ],
     "slug": "tibbie",
     "regionGroups": [],
-    "mapRegions": []
+    "mapRegions": [
+      {
+        "id": "US-AL",
+        "name": "Alabama",
+        "key": "us-al"
+      }
+    ]
   },
   {
     "name": "Tiilerilaaq",
@@ -242890,6 +243578,36 @@
         "annotation": "Lists the United Cherokee Ani-Yun-Wiya Nation under Alabama.",
         "contentReviewScope": "Lists the United Cherokee Ani-Yun-Wiya Nation under Alabama.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-united-cherokee-aniyunwiya-nation-1-20261126",
+        "title": "27th Annual Pow Wow — United Cherokee AniYunWiya Nation",
+        "url": "https://www.lakeguntersville.org/event/27th-annual-pow-wow-united-cherokee-aniyunwiya-nation/",
+        "publisher": "Lake Guntersville Chamber of Commerce",
+        "type": "Community event listing",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Names the organizer and documented public powwow location near Guntersville.",
+        "contentReviewScope": "Names the organizer and documented public powwow location near Guntersville.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-al-continued-united-cherokee-aniyunwiya-nation-2-20261126",
+        "title": "United Cherokee AniYunWiYa Nation are landowners",
+        "url": "https://ucantribe.com/united-cherokee-aniyunwiya-nation-are-landowners/",
+        "publisher": "United Cherokee AniYunWiYa Nation",
+        "type": "Community announcement",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-26",
+        "contentReviewedAt": "2026-11-26",
+        "annotation": "Describes the group’s plans to use that public venue.",
+        "contentReviewScope": "Describes the group’s plans to use that public venue.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -242899,6 +243617,14 @@
         "sourceIds": [
           "s-al-followup-united-cherokee-aniyunwiya-nation-1-20261126",
           "s-al-followup-united-cherokee-aniyunwiya-nation-2-20261126"
+        ]
+      },
+      {
+        "title": "A public powwow in the Guntersville area",
+        "text": "The Lake Guntersville Chamber lists the community’s annual powwow and venue. The group’s own announcement describes plans to hold its powwow at that site.",
+        "sourceIds": [
+          "s-al-continued-united-cherokee-aniyunwiya-nation-1-20261126",
+          "s-al-continued-united-cherokee-aniyunwiya-nation-2-20261126"
         ]
       }
     ],
