@@ -78577,7 +78577,13 @@
       "mediaType": "photograph",
       "profileSlugs": [
         "mowa-band-of-choctaw-indians",
-        "the-level"
+        "the-level",
+        "charity-chapel",
+        "hill-springs",
+        "isaactown",
+        "magnolia",
+        "sanctown",
+        "snow-corner"
       ],
       "reviewedAt": "2026-11-26",
       "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
@@ -78948,6 +78954,317 @@
           "height": 510,
           "bytes": 98821,
           "sha256": "4b497b2ee801c8b9581277414c96c85f52c6ee4af5beb82ad15e43f5f0bd7b76"
+        }
+      }
+    },
+    {
+      "id": "al-little-mountain-marina-aerial",
+      "title": "Little Mountain Marina on Lake Guntersville",
+      "alt": "Aerial view of Little Mountain Marina’s shoreline, docks, and campground on Lake Guntersville",
+      "scope": "The Arab Chamber of Commerce listed Little Mountain Marina as the venue for the Cherokee Tribe of Northeast Alabama’s 2025 Indigenous Culture and River Cane Preservation Celebration. The image is resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "cherokee-tribe-of-northeast-alabama"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9594749.25%2C4090292.55%2C-9593803.26%2C4091002.05&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+      "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Indigenous Culture & River Cane Preservation Celebration",
+          "url": "https://arab-chamber.org/event/indigenous-culture-river-cane-preservation-celebration/2025-08-30/"
+        },
+        {
+          "title": "Little Mountain Marina Resort",
+          "url": "https://www.northalabama.org/listing/little-mountain-marina-resort/3052/"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-little-mountain-marina-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/al-little-mountain-marina-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 299512,
+          "sha256": "9b153f53bd41a55c7acca7b2d88872d88a41d0ec9257144f6c3f71a1ca237adf"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 104751,
+          "sha256": "7fafac5cf8779abe9c08dbc44039ad393507902ba13cb05cc6eab021f259aa99"
+        }
+      }
+    },
+    {
+      "id": "al-cher-o-creek-census-landscape-aerial",
+      "title": "Landscape in the Cher-O-Creek statistical area",
+      "alt": "Aerial view of roads, fields, and woodland in the area mapped as the Cher-O-Creek SDTSA in Alabama",
+      "scope": "This landscape is centered within the Cher-O-Creek State Designated Tribal Statistical Area shown in the U.S. Census Bureau’s published geography. The image is resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "cherocreek-intra-tribal-indians"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9492523.70%2C3652217.08%2C-9490946.18%2C3653400.22&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+      "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "2010 Census Block Map, Cher-O-Creek statistical area",
+          "url": "https://www2.census.gov/geo/maps/dc10map/GUBlock/st99_aiannh/sdtsa/sdtsa9550_cher-o-creek/DC10BLK_SDTSA9550_004.pdf"
+        },
+        {
+          "title": "State Designated Tribal Statistical Areas, BAS25",
+          "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/bas25/tigerweb_bas25_sdtsa_us.html"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-cher-o-creek-census-landscape-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/al-cher-o-creek-census-landscape-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 293557,
+          "sha256": "3305ead933045403af9f8e5e8f5cc1f3fdab76f61ffafb310986a6d8aa69a15e"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 96093,
+          "sha256": "aa65ed0d0fcc73c43adcb568cb030f46fe078d5a23e95f7b96e87f18011d1c87"
+        }
+      }
+    },
+    {
+      "id": "al-fairford-landscape-aerial",
+      "title": "Present-day Fairford, Alabama",
+      "alt": "Aerial view of the rural road network and wooded surroundings at Fairford, Alabama",
+      "scope": "This aerial photograph shows the modern Fairford area in Washington County. The MOWA Band’s settlement history describes a historical Fairford village near Poll Bayou Creek. The image is resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "fairford"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9804807.72%2C3655445.09%2C-9803627.21%2C3656330.47&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+      "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Early Settlements",
+          "url": "https://www.mowachoctawindians.com/early-settlements"
+        },
+        {
+          "title": "Alabama census-designated places, BAS25",
+          "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/acs25/tigerweb_acs25_cdp_2025_bas25_al.html"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-fairford-landscape-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/al-fairford-landscape-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 353273,
+          "sha256": "c12993a91335727366a6a79a8e620d126c36456faecd44cd0fce8e10fd7f55cb"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 111290,
+          "sha256": "13f48ca07261c11249a10d40f84d9a3a1da0852a8ee501cee332e1e8a2b0b608"
+        }
+      }
+    },
+    {
+      "id": "al-tibbie-crossroads-aerial",
+      "title": "Present-day crossroads at Tibbie, Alabama",
+      "alt": "Aerial view of the roads and buildings around the modern Tibbie crossroads",
+      "scope": "This aerial view shows present-day Tibbie in Washington County. The MOWA Band’s settlement history describes a historical Tibbie homestead near the meeting of two routes. The image is resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "tibbie"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9824126.33%2C3679570.24%2C-9823107.46%2C3680334.39&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+      "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Early Settlements",
+          "url": "https://www.mowachoctawindians.com/early-settlements"
+        },
+        {
+          "title": "Alabama census-designated places, BAS25",
+          "url": "https://tigerweb.geo.census.gov/tigerwebmain/Files/acs25/tigerweb_acs25_cdp_2025_bas25_al.html"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-tibbie-crossroads-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/al-tibbie-crossroads-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 344777,
+          "sha256": "998c3c2b66b2eaf6795f2fa69387d5eab505fc746ad291755e3a154580506734"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 118716,
+          "sha256": "7e6e12a1a66770046c9f00c940b7d1e91971287183148225e4ba332a4ac96c7f"
+        }
+      }
+    },
+    {
+      "id": "al-old-washington-heritage-site-licensed-photo",
+      "title": "Mefford’s Fort in Old Washington, Kentucky",
+      "alt": "Timber building at Mefford’s Fort in the Old Washington historic district, Kentucky",
+      "scope": "Mefford’s Fort is a public landmark in Old Washington, Kentucky. The Piqua Shawnee’s 2017 public account records participation in the Pioneer Days educational program in Old Washington. The image is resized for the web.",
+      "creator": "Greg Hume",
+      "credit": "Photograph: Greg Hume",
+      "cardCredit": "Photograph: Greg Hume",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "piqua-shawnee-tribe-of-alabama"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MeffordsFort.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/MeffordsFort.jpg",
+      "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rightsLabel": "CC BY-SA 3.0",
+      "contextSources": [
+        {
+          "title": "Pioneer Days, Simon Kenton Festival, Piqua Shawnee",
+          "url": "https://nativeamericanpiquashawnee.wordpress.com/2017/09/25/pioneer-days-simon-kenton-festival-piqua-shawnee/"
+        },
+        {
+          "title": "Mefford Fort",
+          "url": "https://www.kentuckytourism.com/explore/mefford-fort-2947"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-old-washington-heritage-site-licensed-photo.jpg",
+      "cardAsset": "assets/profile-visuals/al-old-washington-heritage-site-licensed-photo-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 800,
+          "bytes": 247141,
+          "sha256": "0e3ced4a19445aec7d9e6eba07d33f7be3108d7d9ff59e22ee3a5a3ae5fee761"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 453,
+          "bytes": 94707,
+          "sha256": "3578d94945fc5469785bbc6b504dd5c812c3142a06dcbee65322ca32a2d4a79a"
+        }
+      }
+    },
+    {
+      "id": "al-alabama-indian-affairs-meeting-area-aerial",
+      "title": "Montgomery setting of an Alabama Indian Affairs Commission meeting",
+      "alt": "Street blocks around the Alabama Indian Affairs Commission’s documented meeting venue in Montgomery",
+      "scope": "An aerial view of the Montgomery district around the Alabama Indian Affairs Commission’s documented public meeting venue. Rachel Naftel’s commission history identifies the agency as the one that created the Alabama Indian Small Business Association. The image is resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "alabama-indian-small-business-association"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9607662.38%2C3811434.28%2C-9607354.55%2C3811665.15&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+      "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Alabama Indian Affairs Commission",
+          "url": "https://encyclopediaofalabama.org/article/alabama-indian-affairs-commission/"
+        },
+        {
+          "title": "Alabama Indian Affairs Commission, public meeting notice",
+          "url": "https://www.openmeetings.alabama.gov/generalpublic/display_notice_details.aspx?agencyname=Alabama+Indian+Affairs+Commission&submissiondatetime=6/3/2025+11:14:07+AM"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-alabama-indian-affairs-meeting-area-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/al-alabama-indian-affairs-meeting-area-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 162517,
+          "sha256": "26baa257a2b0440ddb362d0b04ed948fb97430e60f9e70fab50d4db20bac05e1"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 57668,
+          "sha256": "594c17e9cb7764015cceff071493e658c5768b9172fb1d75c49769eb585520be"
+        }
+      }
+    },
+    {
+      "id": "al-poarch-creek-museum-aerial",
+      "title": "Poarch Creek Indians Museum & Welcome Center",
+      "alt": "Aerial view of the museum building and curved driveway near Jack Springs Road in Atmore",
+      "scope": "The Poarch Creek Indians Museum publishes the history that documents Bell Creek, Headapadea, Hog Fork, and Poarch Switch. The photograph shows the modern museum. The image is resized for the web.",
+      "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+      "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+      "mediaType": "photograph",
+      "profileSlugs": [
+        "bell-creek",
+        "headapadea",
+        "hog-fork",
+        "poarch-switch"
+      ],
+      "reviewedAt": "2026-11-27",
+      "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+      "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-9746117.87%2C3644631.82%2C-9745615.73%2C3645008.43&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+      "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+      "rightsLabel": "Public domain · The National Map",
+      "contextSources": [
+        {
+          "title": "Poarch Creek Indians Museum & Welcome Center",
+          "url": "https://pcimuseum.org/"
+        },
+        {
+          "title": "History",
+          "url": "https://pcimuseum.org/history/"
+        }
+      ],
+      "asset": "assets/profile-visuals/al-poarch-creek-museum-aerial.jpg",
+      "cardAsset": "assets/profile-visuals/al-poarch-creek-museum-aerial-card.jpg",
+      "derivatives": {
+        "asset": {
+          "width": 1200,
+          "height": 900,
+          "bytes": 170206,
+          "sha256": "96f0be317d508a7e999e714478c47488519316531359f25053994006ac091888"
+        },
+        "cardAsset": {
+          "width": 680,
+          "height": 510,
+          "bytes": 54929,
+          "sha256": "87c64fed16cdf15b094590bcc167f972b007e43f8d924196dd4fdac78fcbe4df"
         }
       }
     }
