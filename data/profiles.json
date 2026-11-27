@@ -92412,14 +92412,70 @@
     "compiledAt": "2026-10-26",
     "kind": "Named Tribal government",
     "region": "Louisiana",
-    "overview": "Coushatta Tribe of Louisiana has an individually findable directory outline. Detailed history, reading sources and community-specific imagery are queued.",
+    "overview": "The Coushatta Tribe of Louisiana describes its community in Allen Parish, north of Elton in southwest Louisiana. Its history recounts settlement at Bayou Blue.",
     "relationshipNote": "This outline keeps the individually listed government name findable. Similar words in another entry do not establish that its people, institutions or membership are identical. Detailed relationships and historical coverage are queued.",
-    "researchStatus": "queued",
-    "entryStage": "name-only-outline",
+    "researchStatus": "source-guide",
+    "entryStage": "source-context",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sections": [],
-    "sources": [],
+    "coverageLevel": "limited-source-context",
+    "sections": [
+      {
+        "title": "Coushatta history and government in Louisiana",
+        "text": "Begin with the Tribe’s own history for the Bayou Blue settlement and its community in Allen Parish. Its official website links to public cultural and government resources.",
+        "sourceIds": [
+          "s-regional-followup-coushatta-tribe-of-louisiana-1-20261127",
+          "s-regional-followup-coushatta-tribe-of-louisiana-2-20261127",
+          "s-regional-followup-coushatta-tribe-of-louisiana-3-20261127"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "s-regional-followup-coushatta-tribe-of-louisiana-1-20261127",
+        "title": "Our Story",
+        "url": "https://www.coushatta.org/our-story/",
+        "publisher": "Coushatta Tribe of Louisiana",
+        "type": "Community",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe describes its Louisiana community and recounts settlement at Bayou Blue in the late nineteenth century.",
+        "contentReviewScope": "The Tribe describes its Louisiana community and recounts settlement at Bayou Blue in the late nineteenth century.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-coushatta-tribe-of-louisiana-2-20261127",
+        "title": "Coushatta Tribe of Louisiana",
+        "url": "https://www.coushatta.org/",
+        "publisher": "Coushatta Tribe of Louisiana",
+        "type": "Community",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe publishes introductory material about culture, language and community events.",
+        "contentReviewScope": "The Tribe publishes introductory material about culture, language and community events.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-coushatta-tribe-of-louisiana-3-20261127",
+        "title": "Tribal Government",
+        "url": "https://www.coushatta.org/government",
+        "publisher": "Coushatta Tribe of Louisiana",
+        "type": "Community",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe introduces its government and related programs.",
+        "contentReviewScope": "The Tribe introduces its government and related programs.",
+        "countsTowardMinimum": false
+      }
+    ],
     "identityVerifiedAt": "2026-10-26",
     "identificationEvidence": [
       {
@@ -92435,18 +92491,21 @@
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
     "researchGaps": [
-      "Develop a community-directed history and annotated reading collection.",
-      "Review community-specific imagery and reuse terms before substantive profile publication.",
-      "Review detailed relationships, naming changes and historical regional connections."
+      "The guide introduces the Tribe’s published history and government resources. The historical sources remain open for further review."
     ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only outline; no substantive source collection or adequacy assessment.",
+      "rationale": "This guide introduces the linked sources. A fuller research assessment is pending.",
       "remainingLimits": [
         "History, reading sources and imagery remain queued."
       ]
-    }
+    },
+    "overviewSourceIds": [
+      "s-regional-followup-coushatta-tribe-of-louisiana-1-20261127",
+      "s-regional-followup-coushatta-tribe-of-louisiana-2-20261127",
+      "s-regional-followup-coushatta-tribe-of-louisiana-3-20261127"
+    ]
   },
   {
     "name": "Agdaagux Tribe of King Cove",
@@ -238768,6 +238827,784 @@
     ],
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Jena Band of Choctaw Indians",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal government and community",
+    "region": "Trout and LaSalle Parish, Louisiana",
+    "overview": "The Jena Band of Choctaw Indians recounts a history of Choctaw communities in central Louisiana, including settlements along Trout Creek and Bear Creek. The band holds its public Powwow in the Pines near Trout.",
+    "overviewSourceIds": [
+      "s-la-jena-band-of-choctaw-indians-1-20261127",
+      "s-la-jena-band-of-choctaw-indians-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-jena-band-of-choctaw-indians-1-20261127",
+        "title": "History",
+        "url": "https://www.jenachoctaw.org/culture-history/history",
+        "publisher": "Jena Band of Choctaw Indians",
+        "type": "Community",
+        "topics": [
+          "Trout and LaSalle Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Band recounts the history of its communities in central Louisiana, including the Trout Creek and Bear Creek settlements.",
+        "contentReviewScope": "The Band recounts the history of its communities in central Louisiana, including the Trout Creek and Bear Creek settlements.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-jena-band-of-choctaw-indians-2-20261127",
+        "title": "Powwow in the Pines",
+        "url": "https://www.jenachoctaw.org/powwowinthepines",
+        "publisher": "Jena Band of Choctaw Indians",
+        "type": "Community",
+        "topics": [
+          "Trout and LaSalle Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Identifies the Band’s public powwow grounds in Trout, Louisiana.",
+        "contentReviewScope": "Identifies the Band’s public powwow grounds in Trout, Louisiana.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the band’s own history for its Louisiana settlements. Its powwow page describes the public gathering in Trout.",
+        "sourceIds": [
+          "s-la-jena-band-of-choctaw-indians-1-20261127",
+          "s-la-jena-band-of-choctaw-indians-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.jenachoctaw.org/culture-history/history",
+        "title": "History",
+        "publisher": "Jena Band of Choctaw Indians",
+        "scope": "The Band recounts the history of its communities in central Louisiana, including the Trout Creek and Bear Creek settlements.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.jenachoctaw.org/powwowinthepines",
+        "title": "Powwow in the Pines",
+        "publisher": "Jena Band of Choctaw Indians",
+        "scope": "Identifies the Band’s public powwow grounds in Trout, Louisiana.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Jena Band of Choctaw Indians",
+      "Trout Creek",
+      "Powwow in the Pines"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "choctaw"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "United Houma Nation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal nation and government",
+    "region": "Southeastern Louisiana",
+    "overview": "The United Houma Nation describes a community connected to Louisiana’s coastal lands and waters. Its government page describes a six-parish service area and the districts represented on its council.",
+    "overviewSourceIds": [
+      "s-la-united-houma-nation-1-20261127",
+      "s-la-united-houma-nation-2-20261127",
+      "s-la-united-houma-nation-3-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-united-houma-nation-1-20261127",
+        "title": "United Houma Nation",
+        "url": "https://unitedhoumanation.org/",
+        "publisher": "United Houma Nation",
+        "type": "Community",
+        "topics": [
+          "Southeastern Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Nation describes its cultural work and names the six parishes in its Louisiana service area.",
+        "contentReviewScope": "The Nation describes its cultural work and names the six parishes in its Louisiana service area.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-united-houma-nation-2-20261127",
+        "title": "Government",
+        "url": "https://unitedhoumanation.org/about/government/",
+        "publisher": "United Houma Nation",
+        "type": "Community",
+        "topics": [
+          "Southeastern Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Describes the Nation’s government and the Louisiana parishes and localities represented by its districts.",
+        "contentReviewScope": "Describes the Nation’s government and the Louisiana parishes and localities represented by its districts.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-united-houma-nation-3-20261127",
+        "title": "UHN Administration Building Reconstruction",
+        "url": "https://unitedhoumanation.org/now-accepting-bids-uhn-administration-building-reconstruction-houma-la/",
+        "publisher": "United Houma Nation",
+        "type": "Community",
+        "topics": [
+          "Southeastern Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Identifies the Nation’s Monarch Drive campus in Houma and describes the reconstruction project.",
+        "contentReviewScope": "Identifies the Nation’s Monarch Drive campus in Houma and describes the reconstruction project.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the Nation’s history and lifeways links. Its government page explains the council and regional districts. The Nation’s Monarch Drive project describes work on a community resilience hub in Houma.",
+        "sourceIds": [
+          "s-la-united-houma-nation-1-20261127",
+          "s-la-united-houma-nation-2-20261127",
+          "s-la-united-houma-nation-3-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://unitedhoumanation.org/",
+        "title": "United Houma Nation",
+        "publisher": "United Houma Nation",
+        "scope": "The Nation describes its cultural work and names the six parishes in its Louisiana service area.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://unitedhoumanation.org/about/government/",
+        "title": "Government",
+        "publisher": "United Houma Nation",
+        "scope": "Describes the Nation’s government and the Louisiana parishes and localities represented by its districts.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://unitedhoumanation.org/now-accepting-bids-uhn-administration-building-reconstruction-houma-la/",
+        "title": "UHN Administration Building Reconstruction",
+        "publisher": "United Houma Nation",
+        "scope": "Identifies the Nation’s Monarch Drive campus in Houma and describes the reconstruction project.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "United Houma Nation",
+      "Houma",
+      "Terrebonne Parish"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Pointe-au-Chien Indian Tribe",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal community",
+    "region": "Terrebonne Basin, coastal Louisiana",
+    "overview": "The Pointe-au-Chien Indian Tribe describes its community’s ties to the Terrebonne Basin. Its website introduces the tribe’s work on culture, language, education, and community services.",
+    "overviewSourceIds": [
+      "s-la-pointe-au-chien-indian-tribe-1-20261127",
+      "s-la-pointe-au-chien-indian-tribe-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-pointe-au-chien-indian-tribe-1-20261127",
+        "title": "Pointe-au-Chien Indian Tribe",
+        "url": "https://www.pactribe.com/",
+        "publisher": "Pointe-au-Chien Indian Tribe",
+        "type": "Community",
+        "topics": [
+          "Terrebonne Basin, coastal Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe identifies itself and describes its Terrebonne Basin setting and cultural work.",
+        "contentReviewScope": "The Tribe identifies itself and describes its Terrebonne Basin setting and cultural work.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-pointe-au-chien-indian-tribe-2-20261127",
+        "title": "Contact Us and How to Help",
+        "url": "https://www.pactribe.com/blank",
+        "publisher": "Pointe-au-Chien Indian Tribe",
+        "type": "Community",
+        "topics": [
+          "Terrebonne Basin, coastal Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe lists its Louisiana office and public contact information.",
+        "contentReviewScope": "The Tribe lists its Louisiana office and public contact information.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Begin with the tribe’s welcome and mission. Use its contact page for the office it lists near Montegut.",
+        "sourceIds": [
+          "s-la-pointe-au-chien-indian-tribe-1-20261127",
+          "s-la-pointe-au-chien-indian-tribe-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.pactribe.com/",
+        "title": "Pointe-au-Chien Indian Tribe",
+        "publisher": "Pointe-au-Chien Indian Tribe",
+        "scope": "The Tribe identifies itself and describes its Terrebonne Basin setting and cultural work.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.pactribe.com/blank",
+        "title": "Contact Us and How to Help",
+        "publisher": "Pointe-au-Chien Indian Tribe",
+        "scope": "The Tribe lists its Louisiana office and public contact information.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Pointe-au-Chien Indian Tribe",
+      "Pointe au Chien",
+      "Terrebonne Basin",
+      "Montegut"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Choctaw-Apache Tribe of Ebarb",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal community",
+    "region": "Western Sabine Parish, Louisiana",
+    "overview": "The Choctaw-Apache Tribe of Ebarb places its community in western Sabine Parish. Its website shares a community history, calendar, and office information near Zwolle.",
+    "overviewSourceIds": [
+      "s-la-choctaw-apache-tribe-of-ebarb-1-20261127",
+      "s-la-choctaw-apache-tribe-of-ebarb-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-choctaw-apache-tribe-of-ebarb-1-20261127",
+        "title": "Choctaw-Apache Tribe of Ebarb",
+        "url": "https://choctawapachetribeebarb.org/",
+        "publisher": "Choctaw-Apache Tribe of Ebarb",
+        "type": "Community",
+        "topics": [
+          "Western Sabine Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe describes its western Sabine Parish community and lists a public office near Zwolle.",
+        "contentReviewScope": "The Tribe describes its western Sabine Parish community and lists a public office near Zwolle.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-choctaw-apache-tribe-of-ebarb-2-20261127",
+        "title": "Louisiana tribal directory",
+        "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+        "publisher": "Louisiana Governor’s Office of Indian Affairs",
+        "type": "Government",
+        "topics": [
+          "Western Sabine Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Louisiana tribal directory lists the Choctaw-Apache Tribe of Ebarb with a Zwolle contact.",
+        "contentReviewScope": "The Louisiana tribal directory lists the Choctaw-Apache Tribe of Ebarb with a Zwolle contact.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the tribe’s history and calendar. Louisiana’s Office of Indian Affairs directory lists the tribe in Sabine Parish.",
+        "sourceIds": [
+          "s-la-choctaw-apache-tribe-of-ebarb-1-20261127",
+          "s-la-choctaw-apache-tribe-of-ebarb-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://choctawapachetribeebarb.org/",
+        "title": "Choctaw-Apache Tribe of Ebarb",
+        "publisher": "Choctaw-Apache Tribe of Ebarb",
+        "scope": "The Tribe describes its western Sabine Parish community and lists a public office near Zwolle.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+        "title": "Louisiana tribal directory",
+        "publisher": "Louisiana Governor’s Office of Indian Affairs",
+        "scope": "The Louisiana tribal directory lists the Choctaw-Apache Tribe of Ebarb with a Zwolle contact.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Choctaw-Apache Tribe of Ebarb",
+      "Ebarb",
+      "Zwolle",
+      "Sabine Parish"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Jean Charles Choctaw Nation",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal nation and community",
+    "region": "Southern Terrebonne Parish, Louisiana",
+    "overview": "In a statement published by the First People’s Conservation Council, the Jean Charles Choctaw Nation describes ties to its historical lands in southern Terrebonne Parish and the effects of coastal erosion on its community.",
+    "overviewSourceIds": [
+      "s-la-jean-charles-choctaw-nation-1-20261127",
+      "s-la-jean-charles-choctaw-nation-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-jean-charles-choctaw-nation-1-20261127",
+        "title": "Jean Charles Choctaw Nation",
+        "url": "https://fpcclouisiana.org/our-communities/our-communities-isle-de-jean-charles/",
+        "publisher": "First People’s Conservation Council",
+        "type": "Community",
+        "topics": [
+          "Southern Terrebonne Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The community statement names Jean Charles Choctaw Nation and describes its ties to southern Terrebonne Parish.",
+        "contentReviewScope": "The community statement names Jean Charles Choctaw Nation and describes its ties to southern Terrebonne Parish.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-jean-charles-choctaw-nation-2-20261127",
+        "title": "Louisiana tribal directory",
+        "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+        "publisher": "Louisiana Governor’s Office of Indian Affairs",
+        "type": "Government",
+        "topics": [
+          "Southern Terrebonne Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Louisiana tribal directory lists the Jean Charles Choctaw Nation.",
+        "contentReviewScope": "The Louisiana tribal directory lists the Jean Charles Choctaw Nation.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the community statement alongside the Louisiana tribal directory for the Nation’s coastal setting.",
+        "sourceIds": [
+          "s-la-jean-charles-choctaw-nation-1-20261127",
+          "s-la-jean-charles-choctaw-nation-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://fpcclouisiana.org/our-communities/our-communities-isle-de-jean-charles/",
+        "title": "Jean Charles Choctaw Nation",
+        "publisher": "First People’s Conservation Council",
+        "scope": "The community statement names Jean Charles Choctaw Nation and describes its ties to southern Terrebonne Parish.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+        "title": "Louisiana tribal directory",
+        "publisher": "Louisiana Governor’s Office of Indian Affairs",
+        "scope": "The Louisiana tribal directory lists the Jean Charles Choctaw Nation.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Jean Charles Choctaw Nation",
+      "Isle de Jean Charles",
+      "Terrebonne Parish"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Grand Caillou/Dulac Band of Biloxi-Chitimacha-Choctaw",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal community",
+    "region": "Dulac and lower Terrebonne Parish, Louisiana",
+    "overview": "The Grand Caillou/Dulac Band describes its community’s ties to lower Terrebonne Parish. Its site describes cultural programs, coastal conservation, and recovery work in Grand Caillou, Dulac, Petit Caillou, and Chauvin.",
+    "overviewSourceIds": [
+      "s-la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-1-20261127",
+      "s-la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-1-20261127",
+        "title": "Grand Caillou/Dulac Tribe",
+        "url": "https://www.gcdbcc.org/",
+        "publisher": "Grand Caillou/Dulac Band",
+        "type": "Community",
+        "topics": [
+          "Dulac and lower Terrebonne Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Band describes its programming and community connections in Terrebonne Parish.",
+        "contentReviewScope": "The Band describes its programming and community connections in Terrebonne Parish.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-2-20261127",
+        "title": "Grand Caillou/Dulac Band of Biloxi-Chitimacha-Choctaw",
+        "url": "https://fpcclouisiana.org/our-communities/our-tribal-communities/",
+        "publisher": "First People’s Conservation Council",
+        "type": "Community",
+        "topics": [
+          "Dulac and lower Terrebonne Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Shows the Band’s full displayed name and its account of a historical community on the Louisiana Gulf Coast.",
+        "contentReviewScope": "Shows the Band’s full displayed name and its account of a historical community on the Louisiana Gulf Coast.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the band’s site for its programs and the First People’s Conservation Council community statement for the historical and geographic ties it describes.",
+        "sourceIds": [
+          "s-la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-1-20261127",
+          "s-la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.gcdbcc.org/",
+        "title": "Grand Caillou/Dulac Tribe",
+        "publisher": "Grand Caillou/Dulac Band",
+        "scope": "The Band describes its programming and community connections in Terrebonne Parish.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://fpcclouisiana.org/our-communities/our-tribal-communities/",
+        "title": "Grand Caillou/Dulac Band of Biloxi-Chitimacha-Choctaw",
+        "publisher": "First People’s Conservation Council",
+        "scope": "Shows the Band’s full displayed name and its account of a historical community on the Louisiana Gulf Coast.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Grand Caillou/Dulac Band",
+      "Biloxi-Chitimacha-Choctaw",
+      "Dulac",
+      "Grand Caillou"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Bayou Lafourche Band of Biloxi Chitimacha",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Tribal community",
+    "region": "Larose and Bayou Lafourche, Louisiana",
+    "overview": "The First People’s Conservation Council presents a community profile for the Bayou Lafourche Band of Biloxi Chitimacha. Louisiana’s tribal directory lists the band’s contact locality as Larose.",
+    "overviewSourceIds": [
+      "s-la-bayou-lafourche-band-of-biloxi-chitimacha-1-20261127",
+      "s-la-bayou-lafourche-band-of-biloxi-chitimacha-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-bayou-lafourche-band-of-biloxi-chitimacha-1-20261127",
+        "title": "Bayou Lafourche Band of Biloxi Chitimacha",
+        "url": "https://fpcclouisiana.org/our-communities/bayou-lafourche-band-of-biloxi-chitimacha/",
+        "publisher": "First People’s Conservation Council",
+        "type": "Community",
+        "topics": [
+          "Larose and Bayou Lafourche, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Council presents a separate community profile under the band’s name.",
+        "contentReviewScope": "The Council presents a separate community profile under the band’s name.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-bayou-lafourche-band-of-biloxi-chitimacha-2-20261127",
+        "title": "Louisiana tribal directory",
+        "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+        "publisher": "Louisiana Governor’s Office of Indian Affairs",
+        "type": "Government",
+        "topics": [
+          "Larose and Bayou Lafourche, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Louisiana directory identifies the band and lists a Larose locality.",
+        "contentReviewScope": "The Louisiana directory identifies the band and lists a Larose locality.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the conservation council’s community profile. The photograph shows Bayou Lafourche and the Gulf Intracoastal Waterway at Larose.",
+        "sourceIds": [
+          "s-la-bayou-lafourche-band-of-biloxi-chitimacha-1-20261127",
+          "s-la-bayou-lafourche-band-of-biloxi-chitimacha-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://fpcclouisiana.org/our-communities/bayou-lafourche-band-of-biloxi-chitimacha/",
+        "title": "Bayou Lafourche Band of Biloxi Chitimacha",
+        "publisher": "First People’s Conservation Council",
+        "scope": "The Council presents a separate community profile under the band’s name.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes",
+        "title": "Louisiana tribal directory",
+        "publisher": "Louisiana Governor’s Office of Indian Affairs",
+        "scope": "The Louisiana directory identifies the band and lists a Larose locality.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Bayou Lafourche Band of Biloxi Chitimacha",
+      "Larose",
+      "Bayou Lafourche"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Tunica-Biloxi Tribe of Louisiana",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Joint tribal government and community",
+    "region": "Marksville, Louisiana",
+    "overview": "The Tunica-Biloxi Tribe of Louisiana is based in Marksville. Its Cultural and Educational Resources Center provides public information about the tribe’s cultural and educational work.",
+    "overviewSourceIds": [
+      "s-la-tunica-biloxi-tribe-of-louisiana-1-20261127",
+      "s-la-tunica-biloxi-tribe-of-louisiana-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-tunica-biloxi-tribe-of-louisiana-1-20261127",
+        "title": "Tunica-Biloxi Tribe of Louisiana",
+        "url": "https://www.tunicabiloxi.org/",
+        "publisher": "Tunica-Biloxi Tribe of Louisiana",
+        "type": "Community",
+        "topics": [
+          "Marksville, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe identifies its government and publishes information about its history, programs and location.",
+        "contentReviewScope": "The Tribe identifies its government and publishes information about its history, programs and location.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-tunica-biloxi-tribe-of-louisiana-2-20261127",
+        "title": "Cultural & Educational Resources Center",
+        "url": "https://www.tunicabiloxi.org/cerc/",
+        "publisher": "Tunica-Biloxi Tribe of Louisiana",
+        "type": "Community",
+        "topics": [
+          "Marksville, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Tribe identifies its Cultural and Educational Resources Center and Marksville locality.",
+        "contentReviewScope": "The Tribe identifies its Cultural and Educational Resources Center and Marksville locality.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the tribal website and the Cultural and Educational Resources Center page in Marksville. The directory also includes separate entries for the broader Tunica and Biloxi peoples.",
+        "sourceIds": [
+          "s-la-tunica-biloxi-tribe-of-louisiana-1-20261127",
+          "s-la-tunica-biloxi-tribe-of-louisiana-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.tunicabiloxi.org/",
+        "title": "Tunica-Biloxi Tribe of Louisiana",
+        "publisher": "Tunica-Biloxi Tribe of Louisiana",
+        "scope": "The Tribe identifies its government and publishes information about its history, programs and location.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.tunicabiloxi.org/cerc/",
+        "title": "Cultural & Educational Resources Center",
+        "publisher": "Tunica-Biloxi Tribe of Louisiana",
+        "scope": "The Tribe identifies its Cultural and Educational Resources Center and Marksville locality.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Tunica-Biloxi Tribe of Louisiana",
+      "Marksville",
+      "Cultural and Educational Resources Center"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "tunica",
+      "biloxi"
+    ],
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,

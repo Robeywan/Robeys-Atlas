@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2206,
+    "selectedProfiles": 2215,
     "existingApache": 1,
-    "newProfileTreatments": 2205,
-    "newTreatmentsWithPhotographs": 2035,
+    "newProfileTreatments": 2214,
+    "newTreatmentsWithPhotographs": 2044,
     "decorativeTreatmentsAwaitingPhotographs": 170,
     "autoEnrolledThisBuild": []
   },
@@ -9813,6 +9813,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "bayou-lafourche-band-of-biloxi-chitimacha",
+      "name": "Bayou Lafourche Band of Biloxi Chitimacha",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 87,
+      "angle": -55,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "la-bayou-lafourche-band-of-biloxi-chitimacha-licensed-photo",
+          "title": "Bayou Lafourche and the Gulf Intracoastal Waterway at Larose",
+          "alt": "Aerial photograph of Bayou Lafourche and the Gulf Intracoastal Waterway at Larose, Louisiana",
+          "scope": "The photograph shows the waterway at Larose, the locality the state directory lists for the band. The image is resized for the web.",
+          "creator": "U.S. Army Corps of Engineers",
+          "credit": "Aerial photo: U.S. Army Corps of Engineers",
+          "cardCredit": "Aerial photo: U.S. Army Corps of Engineers",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "bayou-lafourche-band-of-biloxi-chitimacha"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Larose_Louisiana_aerial_view.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Larose_Louisiana_aerial_view.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Larose_Louisiana_aerial_view.jpg#Licensing",
+          "rightsLabel": "Public domain · U.S. Army Corps of Engineers",
+          "contextSources": [
+            {
+              "title": "Bayou Lafourche Band of Biloxi Chitimacha",
+              "url": "https://fpcclouisiana.org/our-communities/bayou-lafourche-band-of-biloxi-chitimacha/"
+            },
+            {
+              "title": "Louisiana tribal directory",
+              "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-bayou-lafourche-band-of-biloxi-chitimacha-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/la-bayou-lafourche-band-of-biloxi-chitimacha-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 800,
+              "bytes": 185040,
+              "sha256": "22b28199aaf4c2c72f2c533a01abf893956370c5e70045a421716ba16999a0ee"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 453,
+              "bytes": 72670,
+              "sha256": "e48da6814277101de8b75a1b2dc2357a07970eae112c422a5498c6bdccb30fca"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:87;--profile-angle:-55deg;--profile-photo:url(\"../../assets/profile-visuals/la-bayou-lafourche-band-of-biloxi-chitimacha-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "bear-river-first-nation",
@@ -21812,6 +21880,74 @@
       "substantiveInspectedSources": 4
     },
     {
+      "slug": "choctawapache-tribe-of-ebarb",
+      "name": "Choctaw-Apache Tribe of Ebarb",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 8,
+      "angle": -9,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "la-choctaw-apache-tribe-of-ebarb-aerial",
+          "title": "Choctaw-Apache Tribe of Ebarb office area near Zwolle",
+          "alt": "Aerial view of the area around the publicly listed tribal office near Zwolle",
+          "scope": "This photograph shows the area of the office identified on the Choctaw-Apache Tribe of Ebarb’s website. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "choctawapache-tribe-of-ebarb"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10428862.20%2C3715489.29%2C-10428644.91%2C3715652.25&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Choctaw-Apache Tribe of Ebarb",
+              "url": "https://choctawapachetribeebarb.org/"
+            },
+            {
+              "title": "Louisiana tribal directory",
+              "url": "https://gov.louisiana.gov/federal-and-state-recognized-tribes"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-choctaw-apache-tribe-of-ebarb-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-choctaw-apache-tribe-of-ebarb-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 215793,
+              "sha256": "3b55464a8c3adb1df1b1837ddb2282fcbbb41ebf67a360aa5e68367b0a58a342"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 70358,
+              "sha256": "9fbedf0faaa12250bcc9ccfd4386cfdfb3c52d35fd8597cd5f3b2da3e4ff013a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:8;--profile-angle:-9deg;--profile-photo:url(\"../../assets/profile-visuals/la-choctaw-apache-tribe-of-ebarb-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "chota",
       "name": "Chota",
       "originalId": null,
@@ -25354,6 +25490,74 @@
       "researchComplete": false,
       "initialAdequacy": "Adequate initial introduction",
       "substantiveInspectedSources": 14
+    },
+    {
+      "slug": "coushatta-tribe-of-louisiana",
+      "name": "Coushatta Tribe of Louisiana",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 146,
+      "angle": 13,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "la-coushatta-tribe-of-louisiana-aerial",
+          "title": "Coushatta Tribe administration campus near Elton",
+          "alt": "Aerial photograph of the public Coushatta Tribe administration campus area near Elton, Louisiana",
+          "scope": "This view shows the administration campus area described in the Coushatta Tribe’s public project documents. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "coushatta-tribe-of-louisiana"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10321302.02%2C3570867.17%2C-10321011.80%2C3571084.84&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Coushatta Tribe Educational Building project documents",
+              "url": "https://www.coushatta.org/uploads/2026/01/coushatta_addenda-1_2026_0109.pdf"
+            },
+            {
+              "title": "Our Story",
+              "url": "https://www.coushatta.org/our-story/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-coushatta-tribe-of-louisiana-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-coushatta-tribe-of-louisiana-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 248167,
+              "sha256": "305f09df70f0ac0c02e6872e5d01aab3f589049b38a11e0bec4f8d9b35f1c7d2"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 82661,
+              "sha256": "ad138b51662cc8a2ba72b19d0d9a706f1af1aa5cdfa931839eeff78e2bc09ad2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:146;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/la-coushatta-tribe-of-louisiana-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "cowessess-first-nation",
@@ -38597,6 +38801,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "grand-caillou-dulac-band-of-biloxichitimachachoctaw",
+      "name": "Grand Caillou/Dulac Band of Biloxi-Chitimacha-Choctaw",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 159,
+      "angle": -71,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-aerial",
+          "title": "Bayou Grand Caillou near Dulac",
+          "alt": "Aerial view of Bayou Grand Caillou near the Dulac public fishing area in Terrebonne Parish",
+          "scope": "This view shows part of the bayou landscape near Dulac, one of the communities described in the Band’s own sources. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "grand-caillou-dulac-band-of-biloxichitimachachoctaw"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10100737.91%2C3419087.08%2C-10100095.49%2C3419568.89&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Terrebonne Parish infrastructure application for the Dulac fishing pier and Montegut boat launch",
+              "url": "https://d3n9y02raazwpg.cloudfront.net/tpcg/2d9accee-b70d-11ef-ab4b-005056a89546-b3d95b34-65a2-4f53-ba44-a1804f849cbb-1748011089.pdf"
+            },
+            {
+              "title": "Grand Caillou/Dulac Tribe",
+              "url": "https://www.gcdbcc.org/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 386884,
+              "sha256": "9e6be10d4226dfaa46a54f097846eb19f6cecccd942f2eccdc0d0bfdcf579838"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 96427,
+              "sha256": "bfe56e88cd2a7db6adeaaad819361f73b572319356c6c06285b8928a3e1e45cb"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:159;--profile-angle:-71deg;--profile-photo:url(\"../../assets/profile-visuals/la-grand-caillou-dulac-band-of-biloxi-chitimacha-choctaw-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "grand-fallswindsor",
       "name": "Grand Falls-Windsor",
       "originalId": null,
@@ -48847,6 +49119,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "jean-charles-choctaw-nation",
+      "name": "Jean Charles Choctaw Nation",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 32,
+      "angle": 59,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "la-jean-charles-choctaw-nation-aerial",
+          "title": "Wetlands around Isle de Jean Charles",
+          "alt": "Aerial photograph of the narrow island and surrounding Louisiana wetlands at Isle de Jean Charles",
+          "scope": "This view shows the Isle de Jean Charles coastal landscape discussed in the Nation’s community account. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "jean-charles-choctaw-nation"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10074057.11%2C3424867.43%2C-10071876.41%2C3426502.96&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Jean Charles Choctaw Nation",
+              "url": "https://fpcclouisiana.org/our-communities/our-communities-isle-de-jean-charles/"
+            },
+            {
+              "title": "Earthshots · Isle de Jean Charles",
+              "url": "https://eros.usgs.gov/earthshots"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-jean-charles-choctaw-nation-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-jean-charles-choctaw-nation-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 257059,
+              "sha256": "46c7dd5b1d0cbabea5b6acc91e824847ec73864df55f4f4f230c922fbb6df763"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 62733,
+              "sha256": "903e5eec4c8c7e7d27e5eaa3d6bfe4b28d557636d7af05bbef8b1f1d33e4fecb"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:32;--profile-angle:59deg;--profile-photo:url(\"../../assets/profile-visuals/la-jean-charles-choctaw-nation-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "jemez-pueblo",
       "name": "Jemez Pueblo",
       "originalId": 150,
@@ -48924,6 +49264,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "jena-band-of-choctaw-indians",
+      "name": "Jena Band of Choctaw Indians",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 184,
+      "angle": 13,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "la-jena-band-of-choctaw-indians-aerial",
+          "title": "Trout Creek landscape in LaSalle Parish",
+          "alt": "Wooded landscape photographed around Trout Creek in LaSalle Parish",
+          "scope": "The photo shows a modern Trout Creek landscape. The Jena Band’s history describes past settlements along this waterway. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "jena-band-of-choctaw-indians"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10273485.86%2C3711646.59%2C-10272523.02%2C3712368.72&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Trout Creek water quality station near White Sulfur Springs",
+              "url": "https://www.waterqualitydata.us/beta/provider/STORET/LADEQWPD/LADEQWPD-814/"
+            },
+            {
+              "title": "History",
+              "url": "https://www.jenachoctaw.org/culture-history/history"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-jena-band-of-choctaw-indians-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-jena-band-of-choctaw-indians-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 367556,
+              "sha256": "dca57679bd4f3bedf9ee3757842fb00eaf84c9cd430c33094b305fb7c55612fe"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 116497,
+              "sha256": "00559af335fa5b01601efdb1d63785bd6ebb00eb12f80e237297671553209c39"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:184;--profile-angle:13deg;--profile-photo:url(\"../../assets/profile-visuals/la-jena-band-of-choctaw-indians-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "jenzenaque",
@@ -101211,6 +101619,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "pointeauchien-indian-tribe",
+      "name": "Pointe-au-Chien Indian Tribe",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 36,
+      "angle": -46,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "la-pointe-au-chien-indian-tribe-aerial",
+          "title": "Pointe-au-Chien tribal office area",
+          "alt": "Aerial photograph of the Bayou Pointe-au-Chien area where the tribe lists its office",
+          "scope": "This photograph shows the bayou-side area of the office listed by the Pointe-au-Chien Indian Tribe. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "pointeauchien-indian-tribe"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10069802.25%2C3430364.18%2C-10069595.58%2C3430519.19&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Pointe-au-Chien Indian Tribe",
+              "url": "https://www.pactribe.com/"
+            },
+            {
+              "title": "Contact Us and How to Help",
+              "url": "https://www.pactribe.com/blank"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-pointe-au-chien-indian-tribe-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-pointe-au-chien-indian-tribe-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 223149,
+              "sha256": "4bcacd3656779fdc71e7c14d599a51f69bda35559f89691f8097c7e3d2c75096"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 73933,
+              "sha256": "aab1a12d41d0b8eb8759ee67b5e3fe0711a6d71f388c68429a7bf4285292be42"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:36;--profile-angle:-46deg;--profile-photo:url(\"../../assets/profile-visuals/la-pointe-au-chien-indian-tribe-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "pojoaque-pueblo",
       "name": "Pojoaque Pueblo",
       "originalId": 299,
@@ -130200,6 +130676,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "tunicabiloxi-tribe-of-louisiana",
+      "name": "Tunica-Biloxi Tribe of Louisiana",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 11,
+      "angle": 11,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "la-tunica-biloxi-tribe-of-louisiana-aerial",
+          "title": "Tunica-Biloxi tribal campus area in Marksville",
+          "alt": "Aerial photograph of the Marksville campus area cited by the Tunica-Biloxi Tribe of Louisiana",
+          "scope": "The photograph shows the campus area around the tribe’s public Marksville address. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "tunicabiloxi-tribe-of-louisiana"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10248560.88%2C3647044.62%2C-10248233.85%2C3647289.90&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Tunica-Biloxi Tribe of Louisiana",
+              "url": "https://www.tunicabiloxi.org/"
+            },
+            {
+              "title": "Cultural & Educational Resources Center",
+              "url": "https://www.tunicabiloxi.org/cerc/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-tunica-biloxi-tribe-of-louisiana-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-tunica-biloxi-tribe-of-louisiana-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 249798,
+              "sha256": "324098661b086721bf4bad43d57b74a1ed90be0a8349e4ce3f22e9de9071da81"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 83464,
+              "sha256": "1215b792b78f94c0d52e9bf2d134d252ff064d0ab0af8db1ce4ced9e838215d2"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:11;--profile-angle:11deg;--profile-photo:url(\"../../assets/profile-visuals/la-tunica-biloxi-tribe-of-louisiana-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "tunngasugit-inuit-resource-centre",
       "name": "Tunngasugit Inuit Resource Centre",
       "originalId": null,
@@ -132102,6 +132646,74 @@
         "used": 1
       },
       "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:312;--profile-angle:-36deg;--profile-photo:url(\"../../assets/profile-visuals/al-united-cherokee-aniyunwiya-nation-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "united-houma-nation",
+      "name": "United Houma Nation",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 207,
+      "angle": 10,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "la-united-houma-nation-aerial",
+          "title": "Bayou Lafourche at Golden Meadow",
+          "alt": "Aerial photograph of Bayou Lafourche near the Houma Nation’s Golden Meadow radio location",
+          "scope": "This photograph shows the Golden Meadow bayou setting near the radio location published by the United Houma Nation. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "united-houma-nation"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10046556.52%2C3420050.94%2C-10046246.77%2C3420283.25&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Radio Station",
+              "url": "https://unitedhoumanation.org/radio-station/"
+            },
+            {
+              "title": "United Houma Nation",
+              "url": "https://unitedhoumanation.org/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-united-houma-nation-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-united-houma-nation-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 258885,
+              "sha256": "6e4be0315152dfab8798e0b6493d066562f8a3de35d94589471751cb1b7e874a"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 86047,
+              "sha256": "f6a535916be93a1870d5d9327135b3e1202ce3a5f26cd93c6bd8ba38afd7a010"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:207;--profile-angle:10deg;--profile-photo:url(\"../../assets/profile-visuals/la-united-houma-nation-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
