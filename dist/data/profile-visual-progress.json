@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2194,
+    "selectedProfiles": 2206,
     "existingApache": 1,
-    "newProfileTreatments": 2193,
-    "newTreatmentsWithPhotographs": 2023,
+    "newProfileTreatments": 2205,
+    "newTreatmentsWithPhotographs": 2035,
     "decorativeTreatmentsAwaitingPhotographs": 170,
     "autoEnrolledThisBuild": []
   },
@@ -4058,6 +4058,74 @@
         "used": 0
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:111;--profile-angle:-22deg;--profile-photo:none",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "american-indian-center-of-arkansas",
+      "name": "American Indian Center of Arkansas",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 252,
+      "angle": 66,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ar-american-indian-center-office-area-aerial",
+          "title": "North Little Rock office area",
+          "alt": "Aerial view of the North Little Rock block where the American Indian Center of Arkansas lists its office",
+          "scope": "Aerial view of the office area listed by the American Indian Center of Arkansas. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "american-indian-center-of-arkansas"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10269753.21%2C4137181.21%2C-10269473.10%2C4137391.29&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "American Indian Center of Arkansas",
+              "url": "https://www.aicago.org/"
+            },
+            {
+              "title": "Recipient Information for the American Indian Center of Arkansas",
+              "url": "https://taggs.hhs.gov/Detail/RecipDetail?arg_EntityId=PhvKIzz6wuGOGbpARP3jqA%3D%3D"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-american-indian-center-office-area-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/ar-american-indian-center-office-area-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 265487,
+              "sha256": "778fee1163dda56d7c7dda46b1d225964dea8646f8756c125aaf97f3c6fc3993"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 91471,
+              "sha256": "1c4ebc2c9f139ccb87d60dee4f488b5c1ff6d9dfea29bc28dffa08e1e62ae045"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:252;--profile-angle:66deg;--profile-photo:url(\"../../assets/profile-visuals/ar-american-indian-center-office-area-aerial.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -19312,6 +19380,71 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "chickafalaya",
+      "name": "Chickafalaya",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 202,
+      "angle": 55,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ms-chickasaw-village-site-licensed-photo",
+          "title": "Prairie at the Chickasaw Village Site",
+          "alt": "Black-eyed Susans blooming in the prairie at the Chickasaw Village Site in Tupelo",
+          "scope": "National Park Service photograph of the prairie at the public Chickasaw Village Site in Tupelo, Mississippi. The image is resized for the web.",
+          "creator": "K. Maxfield, National Park Service",
+          "credit": "Photo: K. Maxfield / National Park Service",
+          "cardCredit": "Photo: K. Maxfield / National Park Service",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "chickasaw-village-site",
+            "chickafalaya"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://www.nps.gov/places/chickasaw-village-site.htm",
+          "sourceImageUrl": "https://www.nps.gov/common/uploads/cropped_image/primary/D458166B-AC3D-D6E9-24FA5F9F41DC7BDE.jpg?mode=crop&quality=90&width=1600",
+          "rightsUrl": "https://www.nps.gov/aboutus/publications.htm",
+          "rightsLabel": "Public domain · NPS photograph",
+          "contextSources": [
+            {
+              "title": "Chickasaw Village Site, Milepost 261.8",
+              "url": "https://www.nps.gov/places/chickasaw-village-site.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/ms-chickasaw-village-site-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ms-chickasaw-village-site-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 675,
+              "bytes": 143911,
+              "sha256": "84e7d05ee4713bb8585ae0edb8930aa77b19f96e9ea4823c778a758d81326570"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 382,
+              "bytes": 54296,
+              "sha256": "89f615bd38c91a8533940d2c0e0ebf15c0addde89e8927e2f50446b4434f107a"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:202;--profile-angle:55deg;--profile-photo:url(\"../../assets/profile-visuals/ms-chickasaw-village-site-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "chickahominy-indian-tribe",
       "name": "Chickahominy Indian Tribe",
       "originalId": null,
@@ -19743,7 +19876,8 @@
           "cardCredit": "Photo: K. Maxfield / National Park Service",
           "mediaType": "photograph",
           "profileSlugs": [
-            "chickasaw-village-site"
+            "chickasaw-village-site",
+            "chickafalaya"
           ],
           "reviewedAt": "2026-11-27",
           "sourceUrl": "https://www.nps.gov/places/chickasaw-village-site.htm",
@@ -33745,6 +33879,78 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "flour-natchez-settlement-district",
+      "name": "Flour (Natchez settlement district)",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 108,
+      "angle": -37,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "ms-grand-village-of-the-natchez-indians-licensed-photo",
+          "title": "Reconstructed Natchez dwelling at the Grand Village",
+          "alt": "Modern thatched Natchez dwelling reconstruction at the Grand Village in Natchez, Mississippi",
+          "scope": "Marduk’s photograph shows a modern reconstruction at the Grand Village of the Natchez Indians in Adams County, Mississippi. The image is resized for the web.",
+          "creator": "Marduk",
+          "credit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "cardCredit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "grand-village-of-the-natchez-indians",
+            "white-apple",
+            "jenzenaque",
+            "grigra",
+            "flour-natchez-settlement-district"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Natchez_hut_reproduction.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg#Licensing",
+          "rightsLabel": "Public domain · released by the photographer",
+          "contextSources": [
+            {
+              "title": "Grand Village of the Natchez Indians",
+              "url": "https://www.mdah.ms.gov/explore-mississippi/grand-village-natchez-indians"
+            },
+            {
+              "title": "Grand Village (Natchez Tribal History Center)",
+              "url": "https://trails.mdah.ms.gov/grandvillage"
+            }
+          ],
+          "asset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 737,
+              "height": 800,
+              "bytes": 216939,
+              "sha256": "6bfde7a07622bafe51121b5c6271ecdc66d39775cd5dc46d161a30184e5e9bfd"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 738,
+              "bytes": 193870,
+              "sha256": "f6e5eba152b1f5c43c74962ba7de0f4abc92c0117e5a938a54ddb6a439f689a1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:108;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "flying-dust-first-nation",
       "name": "Flying Dust First Nation",
       "originalId": null,
@@ -38843,7 +39049,11 @@
           "cardCredit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
           "mediaType": "photograph",
           "profileSlugs": [
-            "grand-village-of-the-natchez-indians"
+            "grand-village-of-the-natchez-indians",
+            "white-apple",
+            "jenzenaque",
+            "grigra",
+            "flour-natchez-settlement-district"
           ],
           "reviewedAt": "2026-11-27",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg",
@@ -39283,6 +39493,78 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:239;--profile-angle:74deg;--profile-photo:url(\"../../assets/profile-visuals/greentown-black-fork-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "grigra",
+      "name": "Grigra",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 157,
+      "angle": 29,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "ms-grand-village-of-the-natchez-indians-licensed-photo",
+          "title": "Reconstructed Natchez dwelling at the Grand Village",
+          "alt": "Modern thatched Natchez dwelling reconstruction at the Grand Village in Natchez, Mississippi",
+          "scope": "Marduk’s photograph shows a modern reconstruction at the Grand Village of the Natchez Indians in Adams County, Mississippi. The image is resized for the web.",
+          "creator": "Marduk",
+          "credit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "cardCredit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "grand-village-of-the-natchez-indians",
+            "white-apple",
+            "jenzenaque",
+            "grigra",
+            "flour-natchez-settlement-district"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Natchez_hut_reproduction.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg#Licensing",
+          "rightsLabel": "Public domain · released by the photographer",
+          "contextSources": [
+            {
+              "title": "Grand Village of the Natchez Indians",
+              "url": "https://www.mdah.ms.gov/explore-mississippi/grand-village-natchez-indians"
+            },
+            {
+              "title": "Grand Village (Natchez Tribal History Center)",
+              "url": "https://trails.mdah.ms.gov/grandvillage"
+            }
+          ],
+          "asset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 737,
+              "height": 800,
+              "bytes": 216939,
+              "sha256": "6bfde7a07622bafe51121b5c6271ecdc66d39775cd5dc46d161a30184e5e9bfd"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 738,
+              "bytes": 193870,
+              "sha256": "f6e5eba152b1f5c43c74962ba7de0f4abc92c0117e5a938a54ddb6a439f689a1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:157;--profile-angle:29deg;--profile-photo:url(\"../../assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -48644,6 +48926,78 @@
       "substantiveInspectedSources": 2
     },
     {
+      "slug": "jenzenaque",
+      "name": "Jenzenaque",
+      "originalId": null,
+      "paper": "#f5ece7",
+      "accent": "#744d3b",
+      "hue": 95,
+      "angle": -44,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "ms-grand-village-of-the-natchez-indians-licensed-photo",
+          "title": "Reconstructed Natchez dwelling at the Grand Village",
+          "alt": "Modern thatched Natchez dwelling reconstruction at the Grand Village in Natchez, Mississippi",
+          "scope": "Marduk’s photograph shows a modern reconstruction at the Grand Village of the Natchez Indians in Adams County, Mississippi. The image is resized for the web.",
+          "creator": "Marduk",
+          "credit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "cardCredit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "grand-village-of-the-natchez-indians",
+            "white-apple",
+            "jenzenaque",
+            "grigra",
+            "flour-natchez-settlement-district"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Natchez_hut_reproduction.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg#Licensing",
+          "rightsLabel": "Public domain · released by the photographer",
+          "contextSources": [
+            {
+              "title": "Grand Village of the Natchez Indians",
+              "url": "https://www.mdah.ms.gov/explore-mississippi/grand-village-natchez-indians"
+            },
+            {
+              "title": "Grand Village (Natchez Tribal History Center)",
+              "url": "https://trails.mdah.ms.gov/grandvillage"
+            }
+          ],
+          "asset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 737,
+              "height": 800,
+              "bytes": 216939,
+              "sha256": "6bfde7a07622bafe51121b5c6271ecdc66d39775cd5dc46d161a30184e5e9bfd"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 738,
+              "bytes": 193870,
+              "sha256": "f6e5eba152b1f5c43c74962ba7de0f4abc92c0117e5a938a54ddb6a439f689a1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:95;--profile-angle:-44deg;--profile-photo:url(\"../../assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "joara",
       "name": "Joara",
       "originalId": null,
@@ -50636,6 +50990,80 @@
         "used": 1
       },
       "style": "--profile-paper:#f5ece7;--profile-accent:#744d3b;--profile-hue:279;--profile-angle:19deg;--profile-photo:url(\"../../assets/profile-visuals/mississippi-saint-paul-michael-barera-2025.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "kappa-historical-quapaw-village",
+      "name": "Kappa (historical Quapaw village)",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 180,
+      "angle": 7,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ar-arkansas-post-river-context-licensed-photo",
+          "title": "River landscape at Arkansas Post National Memorial",
+          "alt": "Modern river landscape at Arkansas Post National Memorial in southeastern Arkansas",
+          "scope": "A modern view from Arkansas Post National Memorial shows the lower Arkansas River landscape discussed in the linked histories of Quapaw villages. The image is resized for the web.",
+          "creator": "National Park Service",
+          "credit": "Photo: National Park Service",
+          "cardCredit": "Photo: National Park Service",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "osotouy-historical-quapaw-village",
+            "kappa-historical-quapaw-village",
+            "tourima-historical-quapaw-village"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://www.nps.gov/arpo/index.htm",
+          "sourceImageUrl": "https://www.nps.gov/common/uploads/structured_data/3C847F86-1DD8-B71B-0B476A9BC4ABFDBB.jpg?maxHeight=800&maxWidth=1200&quality=90",
+          "rightsUrl": "https://www.nps.gov/aboutus/disclaimer.htm",
+          "rightsLabel": "Public domain · U.S. National Park Service",
+          "contextSources": [
+            {
+              "title": "Arkansas Post National Memorial",
+              "url": "https://www.nps.gov/arpo/index.htm"
+            },
+            {
+              "title": "Quapaw",
+              "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/"
+            },
+            {
+              "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+              "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 960,
+              "height": 720,
+              "bytes": 136216,
+              "sha256": "f82f217359ebb1b370325660b45874355d56649b4cd927a16914ce660d3f415b"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 85123,
+              "sha256": "bfbd1acc6081d249b6b557623981c8eb8ebd911f15ecd3e6fc9fef83df3be988"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:180;--profile-angle:7deg;--profile-photo:url(\"../../assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -87532,6 +87960,74 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "nodena-site",
+      "name": "Nodena Site",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 28,
+      "angle": 38,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "ar-nodena-site-licensed-photo",
+          "title": "Hampson Museum in Wilson, Arkansas, in 2010",
+          "alt": "Hampson Museum sign and exterior in Wilson, Arkansas",
+          "scope": "This photograph shows the museum as it appeared in 2010. The museum interprets the Nodena Site. The image is resized for the web.",
+          "creator": "Thomas R Machnitzki",
+          "credit": "Photo: Thomas R Machnitzki, with edits by Brandonrush",
+          "cardCredit": "Photo: Thomas R Machnitzki, with edits by Brandonrush",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "nodena-site"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wilson_AR_Hampson_Museum_State_Park_58_sign_and_museum.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Wilson_AR_Hampson_Museum_State_Park_58_sign_and_museum.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "rightsLabel": "CC BY 3.0",
+          "contextSources": [
+            {
+              "title": "Nodena Site",
+              "url": "https://encyclopediaofarkansas.net/entries/nodena-site-7925/"
+            },
+            {
+              "title": "Hampson Archeological Museum State Park",
+              "url": "https://www.arkansas.com/state-parks/explore/parks/hampson-archeological-museum-state-park"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-nodena-site-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ar-nodena-site-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 956,
+              "height": 717,
+              "bytes": 223246,
+              "sha256": "4ca94ea341d62e5918b6f1fea6bfeb0a414bf447ea28356a3dcf615bb31a7bbb"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 120539,
+              "sha256": "bed76fa29c863e8c55ef7901a52c968598fd827c7e7b0b63fcbc1e0e991e7c7b"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:28;--profile-angle:38deg;--profile-photo:url(\"../../assets/profile-visuals/ar-nodena-site-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "nokmaq-village-flat-bay-band",
       "name": "No’kmaq Village (Flat Bay Band)",
       "originalId": null,
@@ -94208,6 +94704,80 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "osotouy-historical-quapaw-village",
+      "name": "Osotouy (historical Quapaw village)",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 107,
+      "angle": 33,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "ar-arkansas-post-river-context-licensed-photo",
+          "title": "River landscape at Arkansas Post National Memorial",
+          "alt": "Modern river landscape at Arkansas Post National Memorial in southeastern Arkansas",
+          "scope": "A modern view from Arkansas Post National Memorial shows the lower Arkansas River landscape discussed in the linked histories of Quapaw villages. The image is resized for the web.",
+          "creator": "National Park Service",
+          "credit": "Photo: National Park Service",
+          "cardCredit": "Photo: National Park Service",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "osotouy-historical-quapaw-village",
+            "kappa-historical-quapaw-village",
+            "tourima-historical-quapaw-village"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://www.nps.gov/arpo/index.htm",
+          "sourceImageUrl": "https://www.nps.gov/common/uploads/structured_data/3C847F86-1DD8-B71B-0B476A9BC4ABFDBB.jpg?maxHeight=800&maxWidth=1200&quality=90",
+          "rightsUrl": "https://www.nps.gov/aboutus/disclaimer.htm",
+          "rightsLabel": "Public domain · U.S. National Park Service",
+          "contextSources": [
+            {
+              "title": "Arkansas Post National Memorial",
+              "url": "https://www.nps.gov/arpo/index.htm"
+            },
+            {
+              "title": "Quapaw",
+              "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/"
+            },
+            {
+              "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+              "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 960,
+              "height": 720,
+              "bytes": 136216,
+              "sha256": "f82f217359ebb1b370325660b45874355d56649b4cd927a16914ce660d3f415b"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 85123,
+              "sha256": "bfbd1acc6081d249b6b557623981c8eb8ebd911f15ecd3e6fc9fef83df3be988"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:107;--profile-angle:33deg;--profile-photo:url(\"../../assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "osoyoos-indian-band",
       "name": "Osoyoos Indian Band",
       "originalId": null,
@@ -95587,6 +96157,74 @@
         "used": 1
       },
       "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:147;--profile-angle:-77deg;--profile-photo:url(\"../../assets/profile-visuals/ns-photo-paqtnkek-from-above.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "parkin-historic-site",
+      "name": "Parkin Historic Site",
+      "originalId": null,
+      "paper": "#f7f0e3",
+      "accent": "#684c2f",
+      "hue": 136,
+      "angle": -18,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "ar-parkin-historic-site-licensed-photo",
+          "title": "Parkin Archeological State Park",
+          "alt": "A grass-covered mound on the park grounds at Parkin, Arkansas",
+          "scope": "The photograph shows the grounds of the publicly interpreted Parkin Historic Site in 2010. The image is resized for the web.",
+          "creator": "Thomas R Machnitzki",
+          "credit": "Photo: Thomas R Machnitzki",
+          "cardCredit": "Photo: Thomas R Machnitzki",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "parkin-historic-site"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parkin_Archeological_State_Park_Parkin_AR_47.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Parkin_Archeological_State_Park_Parkin_AR_47.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "rightsLabel": "CC BY 3.0",
+          "contextSources": [
+            {
+              "title": "Parkin Research Station",
+              "url": "https://archeology.uark.edu/who-we-are/research-stations/parkin/"
+            },
+            {
+              "title": "Parkin Historic Site",
+              "url": "https://encyclopediaofarkansas.net/entries/parkin-historic-site-570/"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-parkin-historic-site-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ar-parkin-historic-site-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1024,
+              "height": 768,
+              "bytes": 216549,
+              "sha256": "39b03e1486ca2b3cf07b413f1e4588bc7ea5cd54600a17a9d9431b359cdadb39"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 88892,
+              "sha256": "363a6310bd10d17329ef63a624d795bafbbc7883110d6039f18cbfb0ed1cda33"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f7f0e3;--profile-accent:#684c2f;--profile-hue:136;--profile-angle:-18deg;--profile-photo:url(\"../../assets/profile-visuals/ar-parkin-historic-site-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -100208,6 +100846,70 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:321;--profile-angle:-35deg;--profile-photo:url(\"../../assets/profile-visuals/pluggy-town-mingo-park-landscape.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "plum-bayou-mounds",
+      "name": "Plum Bayou Mounds",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 227,
+      "angle": 58,
+      "composition": "fold",
+      "images": [
+        {
+          "id": "ar-plum-bayou-mounds-licensed-photo",
+          "title": "Plum Bayou Mounds Archeological State Park",
+          "alt": "Grassy mounds and trees on the park grounds near Scott, Arkansas",
+          "scope": "The photograph shows the grounds of the publicly interpreted Plum Bayou Mounds site. The image is resized for the web.",
+          "creator": "Herb Roe",
+          "credit": "Photo: Herb Roe",
+          "cardCredit": "Photo: Herb Roe",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "plum-bayou-mounds"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chromesun_toltec_mounds_photo01.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Chromesun_toltec_mounds_photo01.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Plum Bayou Research Station",
+              "url": "https://archeology.uark.edu/who-we-are/research-stations/toltec/"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-plum-bayou-mounds-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ar-plum-bayou-mounds-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 575,
+              "height": 430,
+              "bytes": 74608,
+              "sha256": "65c787bf452ca1a12591bf87761f207f8936a235cf3bd302ef6f040074a8a6fb"
+            },
+            "cardAsset": {
+              "width": 575,
+              "height": 430,
+              "bytes": 77927,
+              "sha256": "4e013952e20c934ef9d44d4bc6f7df588150ca2be9ff5bd987ce1a68a21122ea"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:227;--profile-angle:58deg;--profile-photo:url(\"../../assets/profile-visuals/ar-plum-bayou-mounds-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -126922,6 +127624,80 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "tourima-historical-quapaw-village",
+      "name": "Tourima (historical Quapaw village)",
+      "originalId": null,
+      "paper": "#f2eaf1",
+      "accent": "#654561",
+      "hue": 12,
+      "angle": 41,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "ar-arkansas-post-river-context-licensed-photo",
+          "title": "River landscape at Arkansas Post National Memorial",
+          "alt": "Modern river landscape at Arkansas Post National Memorial in southeastern Arkansas",
+          "scope": "A modern view from Arkansas Post National Memorial shows the lower Arkansas River landscape discussed in the linked histories of Quapaw villages. The image is resized for the web.",
+          "creator": "National Park Service",
+          "credit": "Photo: National Park Service",
+          "cardCredit": "Photo: National Park Service",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "osotouy-historical-quapaw-village",
+            "kappa-historical-quapaw-village",
+            "tourima-historical-quapaw-village"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://www.nps.gov/arpo/index.htm",
+          "sourceImageUrl": "https://www.nps.gov/common/uploads/structured_data/3C847F86-1DD8-B71B-0B476A9BC4ABFDBB.jpg?maxHeight=800&maxWidth=1200&quality=90",
+          "rightsUrl": "https://www.nps.gov/aboutus/disclaimer.htm",
+          "rightsLabel": "Public domain · U.S. National Park Service",
+          "contextSources": [
+            {
+              "title": "Arkansas Post National Memorial",
+              "url": "https://www.nps.gov/arpo/index.htm"
+            },
+            {
+              "title": "Quapaw",
+              "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/"
+            },
+            {
+              "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+              "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf"
+            }
+          ],
+          "asset": "assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 960,
+              "height": 720,
+              "bytes": 136216,
+              "sha256": "f82f217359ebb1b370325660b45874355d56649b4cd927a16914ce660d3f415b"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 85123,
+              "sha256": "bfbd1acc6081d249b6b557623981c8eb8ebd911f15ecd3e6fc9fef83df3be988"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f2eaf1;--profile-accent:#654561;--profile-hue:12;--profile-angle:41deg;--profile-photo:url(\"../../assets/profile-visuals/ar-arkansas-post-river-context-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "town-creek-indian-mound-state-historic-site",
       "name": "Town Creek Indian Mound State Historic Site",
       "originalId": null,
@@ -137565,6 +138341,78 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:225;--profile-angle:58deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-whispering-pines-clinton-indian-band.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "white-apple",
+      "name": "White Apple",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 171,
+      "angle": 36,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "ms-grand-village-of-the-natchez-indians-licensed-photo",
+          "title": "Reconstructed Natchez dwelling at the Grand Village",
+          "alt": "Modern thatched Natchez dwelling reconstruction at the Grand Village in Natchez, Mississippi",
+          "scope": "Marduk’s photograph shows a modern reconstruction at the Grand Village of the Natchez Indians in Adams County, Mississippi. The image is resized for the web.",
+          "creator": "Marduk",
+          "credit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "cardCredit": "Photo: Marduk / Wikimedia Commons · public domain dedication",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "grand-village-of-the-natchez-indians",
+            "white-apple",
+            "jenzenaque",
+            "grigra",
+            "flour-natchez-settlement-district"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Natchez_hut_reproduction.jpg",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Natchez_hut_reproduction.jpg#Licensing",
+          "rightsLabel": "Public domain · released by the photographer",
+          "contextSources": [
+            {
+              "title": "Grand Village of the Natchez Indians",
+              "url": "https://www.mdah.ms.gov/explore-mississippi/grand-village-natchez-indians"
+            },
+            {
+              "title": "Grand Village (Natchez Tribal History Center)",
+              "url": "https://trails.mdah.ms.gov/grandvillage"
+            }
+          ],
+          "asset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 737,
+              "height": 800,
+              "bytes": 216939,
+              "sha256": "6bfde7a07622bafe51121b5c6271ecdc66d39775cd5dc46d161a30184e5e9bfd"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 738,
+              "bytes": 193870,
+              "sha256": "f6e5eba152b1f5c43c74962ba7de0f4abc92c0117e5a938a54ddb6a439f689a1"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:171;--profile-angle:36deg;--profile-photo:url(\"../../assets/profile-visuals/ms-grand-village-of-the-natchez-indians-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,

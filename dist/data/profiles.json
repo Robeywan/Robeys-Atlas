@@ -13267,6 +13267,110 @@
     ]
   },
   {
+    "name": "American Indian Center of Arkansas",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Urban Native community organization",
+    "region": "North Little Rock, Arkansas",
+    "overview": "The American Indian Center of Arkansas describes itself as a Native-led urban nonprofit serving Native communities in Arkansas. It lists an office in North Little Rock.",
+    "overviewSourceIds": [
+      "s-ar-american-indian-center-of-arkansas-1-20261127",
+      "s-ar-american-indian-center-of-arkansas-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ar-american-indian-center-of-arkansas-1-20261127",
+        "title": "American Indian Center of Arkansas",
+        "url": "https://www.aicago.org/",
+        "publisher": "American Indian Center of Arkansas",
+        "type": "Community",
+        "topics": [
+          "North Little Rock, Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Self-identifies the community organization, service area and North Little Rock contact setting.",
+        "contentReviewScope": "Self-identifies the community organization, service area and North Little Rock contact setting.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ar-american-indian-center-of-arkansas-2-20261127",
+        "title": "About Us",
+        "url": "https://www.aicago.org/about-us/",
+        "publisher": "American Indian Center of Arkansas",
+        "type": "Community",
+        "topics": [
+          "North Little Rock, Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Describes the center’s leadership and community programs.",
+        "contentReviewScope": "Describes the center’s leadership and community programs.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Use the center’s own site to find its programs and contact information. Its About page describes work in employment, training and community services.",
+        "sourceIds": [
+          "s-ar-american-indian-center-of-arkansas-1-20261127",
+          "s-ar-american-indian-center-of-arkansas-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.aicago.org/",
+        "title": "American Indian Center of Arkansas",
+        "publisher": "American Indian Center of Arkansas",
+        "scope": "Self-identifies the community organization, service area and North Little Rock contact setting.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.aicago.org/about-us/",
+        "title": "About Us",
+        "publisher": "American Indian Center of Arkansas",
+        "scope": "Describes the center’s leadership and community programs.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "American Indian Center of Arkansas",
+      "AICA",
+      "North Little Rock"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "american-indian-center-of-arkansas",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      }
+    ]
+  },
+  {
     "name": "American Indian Center of Chicago",
     "originalId": null,
     "added": true,
@@ -44361,6 +44465,15 @@
         "sourceIds": [
           "c186-ethridge-captive-trade-context"
         ]
+      },
+      {
+        "title": "Cherokee settlements in Arkansas",
+        "text": "Hester A. Davis and the Encyclopedia of Arkansas describe historical Cherokee settlements along the St. Francis and Arkansas rivers, including communities near Illinois Bayou. The Dwight Mission history describes an institution among the Cherokee settlements of the early nineteenth century.",
+        "sourceIds": [
+          "s-regional-followup-cherokee-1-20261127",
+          "s-regional-followup-cherokee-2-20261127",
+          "s-regional-followup-cherokee-3-20261127"
+        ]
       }
     ],
     "sources": [
@@ -44575,6 +44688,51 @@
         "accessNotes": "Normal exact-page web-reader selected body read; direct retrieval outcome recorded privately. Supporting-only to avoid padding from a wider regional essay. Exclude all-people/generalized participation, extinction assertions, inferred migration/language/political identity, figures and source art. No universal motive or moral role assigned to individual Cherokee people. This colonial Native-captive context does not substitute for later African-Cherokee enslavement/Freedpeople scholarship or current legal/citizenship analysis.",
         "countsTowardMinimum": false,
         "countReason": "Supporting regional comparison; not a dedicated Cherokee work or a new underlying-book inspection."
+      },
+      {
+        "id": "s-regional-followup-cherokee-1-20261127",
+        "title": "Indians in Arkansas: The Cherokee — Hester A. Davis",
+        "url": "https://archeology.uark.edu/wp-content/uploads/2021/07/Indians-in-Arkansas-Cherokee.pdf",
+        "publisher": "Arkansas Archeological Survey",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Describes early nineteenth-century Cherokee settlement in Arkansas along the St. Francis and Arkansas rivers.",
+        "contentReviewScope": "Describes early nineteenth-century Cherokee settlement in Arkansas along the St. Francis and Arkansas rivers.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-cherokee-2-20261127",
+        "title": "Cherokee",
+        "url": "https://encyclopediaofarkansas.net/entries/Cherokee-553/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Discusses Cherokee farmsteads and town communities in Arkansas.",
+        "contentReviewScope": "Discusses Cherokee farmsteads and town communities in Arkansas.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-cherokee-3-20261127",
+        "title": "Dwight Mission",
+        "url": "https://encyclopediaofarkansas.net/entries/dwight-mission-2473/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Documents the Arkansas years of Dwight Mission and its role among nearby Cherokee settlements.",
+        "contentReviewScope": "Documents the Arkansas years of Dwight Mission and its role among nearby Cherokee settlements.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -45369,6 +45527,11 @@
         "id": "US-AL",
         "name": "Alabama",
         "key": "us-al"
+      },
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
       },
       {
         "id": "US-GA",
@@ -47129,6 +47292,114 @@
     ]
   },
   {
+    "name": "Chickafalaya",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Chickasaw town",
+    "region": "Northeastern Mississippi, near present-day Tupelo",
+    "overview": "In the Mississippi Encyclopedia, David S. Newhall identifies Chickafalaya as a major historical Chickasaw town. His account describes Chickasaw settlements in the area west of present-day Tupelo.",
+    "overviewSourceIds": [
+      "s-ms-chickafalaya-1-20261127",
+      "s-ms-chickafalaya-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ms-chickafalaya-1-20261127",
+        "title": "Chickasaw — David S. Newhall",
+        "url": "https://mississippiencyclopedia.org/entries/chickasaw/",
+        "publisher": "Mississippi Encyclopedia / Center for the Study of Southern Culture",
+        "type": "Scholarly",
+        "topics": [
+          "Northeastern Mississippi, near present-day Tupelo"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Names Chickafalaya in a historical discussion of Chickasaw settlement in northeast Mississippi.",
+        "contentReviewScope": "Names Chickafalaya in a historical discussion of Chickasaw settlement in northeast Mississippi.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ms-chickafalaya-2-20261127",
+        "title": "Chickasaw Village Site, Milepost 261.8",
+        "url": "https://www.nps.gov/places/chickasaw-village-site.htm",
+        "publisher": "National Park Service, with Chickasaw Nation anthropologist LaDonna Brown",
+        "type": "Government",
+        "topics": [
+          "Northeastern Mississippi, near present-day Tupelo"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Offers community-authored interpretation of a public Chickasaw village site in the Tupelo area.",
+        "contentReviewScope": "Offers community-authored interpretation of a public Chickasaw village site in the Tupelo area.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read Newhall’s discussion of Chickasaw towns. The National Park Service’s Chickasaw Village Site guide includes Chickasaw Nation anthropologist LaDonna Brown’s account of village life. The photograph shows the prairie at that public site in Tupelo.",
+        "sourceIds": [
+          "s-ms-chickafalaya-1-20261127",
+          "s-ms-chickafalaya-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://mississippiencyclopedia.org/entries/chickasaw/",
+        "title": "Chickasaw — David S. Newhall",
+        "publisher": "Mississippi Encyclopedia / Center for the Study of Southern Culture",
+        "scope": "Names Chickafalaya in a historical discussion of Chickasaw settlement in northeast Mississippi.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.nps.gov/places/chickasaw-village-site.htm",
+        "title": "Chickasaw Village Site, Milepost 261.8",
+        "publisher": "National Park Service, with Chickasaw Nation anthropologist LaDonna Brown",
+        "scope": "Offers community-authored interpretation of a public Chickasaw village site in the Tupelo area.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Chickafalaya",
+      "Chickasaw towns",
+      "Tupelo"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "chickasaw",
+      "chickasaw-village-site"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "chickafalaya",
+    "regionGroups": [
+      "Northeast",
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      }
+    ]
+  },
+  {
     "name": "Chickahominy Indian Tribe",
     "originalId": null,
     "added": true,
@@ -48070,6 +48341,13 @@
         "sourceIds": [
           "s-ms-followup-chickasaw-1-20261127"
         ]
+      },
+      {
+        "title": "Forced removal through Arkansas",
+        "text": "The National Park Service documents a Chickasaw stop at Arkansas Post in January 1838 during forced removal.",
+        "sourceIds": [
+          "s-regional-followup-chickasaw-1-20261127"
+        ]
       }
     ],
     "sources": [
@@ -48199,6 +48477,21 @@
         "annotation": "Interpretation of the historical Chickasaw village at Tupelo, including commentary by a Chickasaw Nation anthropologist.",
         "contentReviewScope": "Interpretation of the historical Chickasaw village at Tupelo, including commentary by a Chickasaw Nation anthropologist.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-chickasaw-1-20261127",
+        "title": "Arkansas Post National Memorial, the Trail of Tears",
+        "url": "https://home.nps.gov/places/arkansas-post-national-memorial-the-trail-of-tears.htm",
+        "publisher": "National Park Service",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The National Park Service documents a Chickasaw stop at Arkansas Post in January 1838 during forced removal.",
+        "contentReviewScope": "The National Park Service documents a Chickasaw stop at Arkansas Post in January 1838 during forced removal.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -48271,6 +48564,11 @@
         "id": "US-AL",
         "name": "Alabama",
         "key": "us-al"
+      },
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
       },
       {
         "id": "US-KY",
@@ -52072,6 +52370,13 @@
           "s-ms-followup-choctaw-1-20261127",
           "s-ms-followup-choctaw-2-20261127"
         ]
+      },
+      {
+        "title": "Forced removal through Arkansas",
+        "text": "The National Park Service documents Choctaw people stopping or camping at Arkansas Post during forced removal in 1831 and 1832.",
+        "sourceIds": [
+          "s-regional-followup-choctaw-1-20261127"
+        ]
       }
     ],
     "sources": [
@@ -52191,6 +52496,21 @@
         "annotation": "The community list in the Band’s report.",
         "contentReviewScope": "The community list in the Band’s report.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-choctaw-1-20261127",
+        "title": "Arkansas Post National Memorial, the Trail of Tears",
+        "url": "https://home.nps.gov/places/arkansas-post-national-memorial-the-trail-of-tears.htm",
+        "publisher": "National Park Service",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The National Park Service documents Choctaw people stopping or camping at Arkansas Post during forced removal in 1831 and 1832.",
+        "contentReviewScope": "The National Park Service documents Choctaw people stopping or camping at Arkansas Post during forced removal in 1831 and 1832.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -52263,6 +52583,11 @@
         "id": "US-AL",
         "name": "Alabama",
         "key": "us-al"
+      },
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
       },
       {
         "id": "US-LA",
@@ -74587,6 +74912,114 @@
     ]
   },
   {
+    "name": "Flour (Natchez settlement district)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Natchez settlement district",
+    "region": "Natchez Bluffs, southwest Mississippi",
+    "overview": "Ian W. Brown describes Flour as a village area in the historical Natchez settlement landscape of southwest Mississippi. His study treats village areas as districts that could include several hamlets.",
+    "overviewSourceIds": [
+      "s-ms-flour-natchez-settlement-district-1-20261127",
+      "s-ms-flour-natchez-settlement-district-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ms-flour-natchez-settlement-district-1-20261127",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Scholarly",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Brown’s text and Figure 3 identify Flour in the historical settlement landscape of the Natchez Bluffs.",
+        "contentReviewScope": "Brown’s text and Figure 3 identify Flour in the historical settlement landscape of the Natchez Bluffs.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ms-flour-natchez-settlement-district-2-20261127",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Government",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "contentReviewScope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Brown’s discussion of the village areas around Figure 3. The Grand Village guide offers additional context for the Natchez. The accompanying photograph shows a dwelling reconstructed at the Grand Village.",
+        "sourceIds": [
+          "s-ms-flour-natchez-settlement-district-1-20261127",
+          "s-ms-flour-natchez-settlement-district-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Brown’s text and Figure 3 identify Flour in the historical settlement landscape of the Natchez Bluffs.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Flour",
+      "Natchez settlement district",
+      "Natchez Bluffs"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "natchez",
+      "grand-village-of-the-natchez-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "flour-natchez-settlement-district",
+    "regionGroups": [
+      "Southwest",
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      }
+    ]
+  },
+  {
     "name": "Flying Dust First Nation",
     "originalId": null,
     "added": true,
@@ -83567,6 +84000,114 @@
         "id": "US-CA",
         "name": "California",
         "key": "us-ca"
+      }
+    ]
+  },
+  {
+    "name": "Grigra",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Natchez settlement district",
+    "region": "Natchez Bluffs, southwest Mississippi",
+    "overview": "Ian W. Brown describes Grigra as a village area in the historical Natchez settlement landscape of southwest Mississippi. His study treats village areas as districts that could include several hamlets.",
+    "overviewSourceIds": [
+      "s-ms-grigra-1-20261127",
+      "s-ms-grigra-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ms-grigra-1-20261127",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Scholarly",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Brown’s text and Figure 3 identify Grigra in the historical settlement landscape of the Natchez Bluffs.",
+        "contentReviewScope": "Brown’s text and Figure 3 identify Grigra in the historical settlement landscape of the Natchez Bluffs.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ms-grigra-2-20261127",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Government",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "contentReviewScope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Brown’s discussion of the village areas around Figure 3. The Grand Village guide offers additional context for the Natchez. The accompanying photograph shows a dwelling reconstructed at the Grand Village.",
+        "sourceIds": [
+          "s-ms-grigra-1-20261127",
+          "s-ms-grigra-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Brown’s text and Figure 3 identify Grigra in the historical settlement landscape of the Natchez Bluffs.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Grigra",
+      "Natchez settlement district",
+      "Natchez Bluffs"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "natchez",
+      "grand-village-of-the-natchez-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "grigra",
+    "regionGroups": [
+      "Southwest",
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
       }
     ]
   },
@@ -100667,6 +101208,114 @@
     ]
   },
   {
+    "name": "Jenzenaque",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Natchez settlement district",
+    "region": "Natchez Bluffs, southwest Mississippi",
+    "overview": "Ian W. Brown describes Jenzenaque as a village area in the historical Natchez settlement landscape of southwest Mississippi. His study treats village areas as districts that could include several hamlets.",
+    "overviewSourceIds": [
+      "s-ms-jenzenaque-1-20261127",
+      "s-ms-jenzenaque-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ms-jenzenaque-1-20261127",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Scholarly",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Brown’s text and Figure 3 identify Jenzenaque in the historical settlement landscape of the Natchez Bluffs.",
+        "contentReviewScope": "Brown’s text and Figure 3 identify Jenzenaque in the historical settlement landscape of the Natchez Bluffs.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ms-jenzenaque-2-20261127",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Government",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "contentReviewScope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Brown’s discussion of the village areas around Figure 3. The Grand Village guide offers additional context for the Natchez. The accompanying photograph shows a dwelling reconstructed at the Grand Village.",
+        "sourceIds": [
+          "s-ms-jenzenaque-1-20261127",
+          "s-ms-jenzenaque-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Brown’s text and Figure 3 identify Jenzenaque in the historical settlement landscape of the Natchez Bluffs.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Jenzenaque",
+      "Natchez settlement district",
+      "Natchez Bluffs"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "natchez",
+      "grand-village-of-the-natchez-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "jenzenaque",
+    "regionGroups": [
+      "Southwest",
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
+      }
+    ]
+  },
+  {
     "name": "Jicarilla Apache Nation, New Mexico",
     "originalId": null,
     "added": true,
@@ -104414,6 +105063,114 @@
         "id": "US-MN",
         "name": "Minnesota",
         "key": "us-mn"
+      }
+    ]
+  },
+  {
+    "name": "Kappa (historical Quapaw village)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous village",
+    "region": "Lower Arkansas River, Arkansas",
+    "overview": "The Encyclopedia of Arkansas identifies Kappa as a historical Quapaw village. Its account places the village on the south bank of the Arkansas River around the time of the Louisiana Purchase.",
+    "overviewSourceIds": [
+      "s-ar-kappa-historical-quapaw-village-1-20261127",
+      "s-ar-kappa-historical-quapaw-village-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ar-kappa-historical-quapaw-village-1-20261127",
+        "title": "Quapaw",
+        "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "Lower Arkansas River, Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Names Kappa and documents its later Arkansas River setting around the time of the Louisiana Purchase.",
+        "contentReviewScope": "Names Kappa and documents its later Arkansas River setting around the time of the Louisiana Purchase.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ar-kappa-historical-quapaw-village-2-20261127",
+        "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf",
+        "publisher": "National Park Service, via GovInfo",
+        "type": "Government",
+        "topics": [
+          "Lower Arkansas River, Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Discusses historical Quapaw village names and offers an account of Kappa’s earlier setting.",
+        "contentReviewScope": "Discusses historical Quapaw village names and offers an account of Kappa’s earlier setting.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the Encyclopedia of Arkansas for Kappa’s later Arkansas River setting. Compare the National Park Service study for earlier accounts of the Quapaw villages. The two sources place the earlier Kappa on different banks of the Mississippi. The photograph shows the modern river landscape at Arkansas Post National Memorial.",
+        "sourceIds": [
+          "s-ar-kappa-historical-quapaw-village-1-20261127",
+          "s-ar-kappa-historical-quapaw-village-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/",
+        "title": "Quapaw",
+        "publisher": "Encyclopedia of Arkansas",
+        "scope": "Names Kappa and documents its later Arkansas River setting around the time of the Louisiana Purchase.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf",
+        "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+        "publisher": "National Park Service, via GovInfo",
+        "scope": "Discusses historical Quapaw village names and offers an account of Kappa’s earlier setting.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Kappa (historical Quapaw village)",
+      "Quapaw villages",
+      "lower Arkansas River"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "quapaw",
+      "tourima-historical-quapaw-village",
+      "osotouy-historical-quapaw-village"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "kappa-historical-quapaw-village",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
       }
     ]
   },
@@ -146754,6 +147511,13 @@
         "sourceIds": [
           "p10-muscogee-language"
         ]
+      },
+      {
+        "title": "Forced removal through Arkansas",
+        "text": "The National Park Service records Muscogee people passing Arkansas Post in August 1836 during forced removal.",
+        "sourceIds": [
+          "s-regional-followup-muscogee-creek-1-20261127"
+        ]
       }
     ],
     "sources": [
@@ -146842,6 +147606,21 @@
         "countsTowardMinimum": false,
         "contentReviewScope": "Actual programme introduction and Mvskoke Language Website/Mvskoke Dictionary Online explanations, before Other Mvskoke Language Resources. Linked recordings, dictionary entries, lessons and citizen-only content not accessed.",
         "accessNotes": "Normal public HTTP 200 body read. No account, private lesson, recording, purchase, classes or outcomes evaluated. Brief resource-gateway body is supporting context, not a full language work. Citizen-only material remains outside this review."
+      },
+      {
+        "id": "s-regional-followup-muscogee-creek-1-20261127",
+        "title": "Arkansas Post National Memorial, the Trail of Tears",
+        "url": "https://home.nps.gov/places/arkansas-post-national-memorial-the-trail-of-tears.htm",
+        "publisher": "National Park Service",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The National Park Service records Muscogee people passing Arkansas Post in August 1836 during forced removal.",
+        "contentReviewScope": "The National Park Service records Muscogee people passing Arkansas Post in August 1836 during forced removal.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -147021,6 +147800,11 @@
         "id": "US-AL",
         "name": "Alabama",
         "key": "us-al"
+      },
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
       },
       {
         "id": "US-GA",
@@ -164515,6 +165299,112 @@
     ]
   },
   {
+    "name": "Nodena Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous village site",
+    "region": "Mississippi County, northeastern Arkansas",
+    "overview": "The Encyclopedia of Arkansas and Arkansas State Parks document an Indigenous village at the Nodena Site in northeastern Arkansas. The Hampson Archeological Museum in Wilson interprets the site.",
+    "overviewSourceIds": [
+      "s-ar-nodena-site-1-20261127",
+      "s-ar-nodena-site-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ar-nodena-site-1-20261127",
+        "title": "Nodena Site",
+        "url": "https://encyclopediaofarkansas.net/entries/nodena-site-7925/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "Mississippi County, northeastern Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Describes the historical Nodena village site in Mississippi County, Arkansas.",
+        "contentReviewScope": "Describes the historical Nodena village site in Mississippi County, Arkansas.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ar-nodena-site-2-20261127",
+        "title": "Hampson Archeological Museum State Park",
+        "url": "https://www.arkansas.com/state-parks/explore/parks/hampson-archeological-museum-state-park",
+        "publisher": "Arkansas Department of Parks, Heritage and Tourism",
+        "type": "Government",
+        "topics": [
+          "Mississippi County, northeastern Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Describes the museum’s interpretation of the Nodena village and its location in Wilson.",
+        "contentReviewScope": "Describes the museum’s interpretation of the Nodena village and its location in Wilson.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Use the Encyclopedia of Arkansas for the village’s historical context, then the Arkansas State Parks guide for the museum. The photograph shows the museum exterior in Wilson in 2010.",
+        "sourceIds": [
+          "s-ar-nodena-site-1-20261127",
+          "s-ar-nodena-site-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://encyclopediaofarkansas.net/entries/nodena-site-7925/",
+        "title": "Nodena Site",
+        "publisher": "Encyclopedia of Arkansas",
+        "scope": "Describes the historical Nodena village site in Mississippi County, Arkansas.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://www.arkansas.com/state-parks/explore/parks/hampson-archeological-museum-state-park",
+        "title": "Hampson Archeological Museum State Park",
+        "publisher": "Arkansas Department of Parks, Heritage and Tourism",
+        "scope": "Describes the museum’s interpretation of the Nodena village and its location in Wilson.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Nodena Site",
+      "Nodena village",
+      "Hampson Archeological Museum"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "nodena-site",
+    "regionGroups": [
+      "Great Plains",
+      "Northeast",
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      }
+    ]
+  },
+  {
     "name": "No’kmaq Village (Flat Bay Band)",
     "originalId": null,
     "added": true,
@@ -176570,6 +177460,13 @@
           "c10-osage-farming",
           "c10-osage-fortscott"
         ]
+      },
+      {
+        "title": "Historical hunting in northern Arkansas",
+        "text": "Hester A. Davis describes Osage hunting in northern Arkansas in an account of early nineteenth-century contacts with Cherokee communities.",
+        "sourceIds": [
+          "s-regional-followup-osage-1-20261127"
+        ]
       }
     ],
     "sources": [
@@ -176693,6 +177590,21 @@
         "countsTowardMinimum": true,
         "contentReviewScope": "Actual selected body lines24–31 and displayed update date.",
         "accessNotes": "Creation narratives, physical stereotypes, gender generalizations and numerical totals are not adopted. Broad relocation chronology is not independently resolved here; maps and suggested books were not inspected."
+      },
+      {
+        "id": "s-regional-followup-osage-1-20261127",
+        "title": "Indians in Arkansas: The Cherokee — Hester A. Davis",
+        "url": "https://archeology.uark.edu/wp-content/uploads/2021/07/Indians-in-Arkansas-Cherokee.pdf",
+        "publisher": "Arkansas Archeological Survey",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Describes historical Osage hunting in northern Arkansas as part of the context for Cherokee settlement.",
+        "contentReviewScope": "Describes historical Osage hunting in northern Arkansas as part of the context for Cherokee settlement.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [],
@@ -177117,7 +178029,7 @@
     "compiledAt": "2026-10-28",
     "kind": "Historical community / village",
     "region": "Arkansas — historical village context, 1686",
-    "overview": "Osotouy is a named historical Quapaw village in the National Park Service’s account of the first Arkansas Post in 1686. This outline makes the community name findable; a detailed village history remains queued.",
+    "overview": "Osotouy was a historical Quapaw village in what is now eastern Arkansas. The Arkansas Archeological Survey and National Park Service describe it in connection with the founding of the first French Arkansas Post in 1686.",
     "relationshipNote": "The NPS explicitly identifies Osotouy as a Quapaw village and places the first Arkansas Post there in 1686. The post later relocated. This does not identify a separate current government, a present boundary or the exact camera location of a modern landscape photograph.",
     "searchTerms": [
       "Osotouy"
@@ -177128,12 +178040,52 @@
     "relatedProfileSlugs": [
       "quapaw"
     ],
-    "entryStage": "name-only-outline",
-    "researchStatus": "queued",
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
     "researchComplete": false,
-    "coverageLevel": "identity-only-queued",
-    "sources": [],
-    "sections": [],
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-regional-followup-osotouy-historical-quapaw-village-1-20261127",
+        "title": "The Osotouy Project",
+        "url": "https://archeology.uark.edu/who-we-are/50moments/osotouy/",
+        "publisher": "Arkansas Archeological Survey",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Survey describes Osotouy’s Eastern Arkansas setting and the development of the first Arkansas Post nearby.",
+        "contentReviewScope": "The Survey describes Osotouy’s Eastern Arkansas setting and the development of the first Arkansas Post nearby.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-osotouy-historical-quapaw-village-2-20261127",
+        "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf",
+        "publisher": "National Park Service, via GovInfo",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Provides the historical context for the Quapaw village and the first French post.",
+        "contentReviewScope": "Provides the historical context for the Quapaw village and the first French post.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Osotouy and early Arkansas Post",
+        "text": "The Arkansas Archeological Survey describes Osotouy as a historical village in eastern Arkansas near the lower Arkansas River. The National Park Service study explains that the first French Arkansas Post was established beside this Quapaw settlement in 1686. The photograph shows the river landscape at the modern memorial.",
+        "sourceIds": [
+          "s-regional-followup-osotouy-historical-quapaw-village-1-20261127",
+          "s-regional-followup-osotouy-historical-quapaw-village-2-20261127"
+        ]
+      }
+    ],
     "identityVerifiedAt": "2026-10-28",
     "identificationEvidence": [
       {
@@ -177149,16 +178101,18 @@
     "initialAdequacy": {
       "status": "Not assessed",
       "reviewedAt": null,
-      "rationale": "Name-only historical-community outline; no substantive village bibliography or adequacy review.",
+      "rationale": "This guide introduces the linked sources. A fuller research assessment is pending.",
       "remainingLimits": [
         "Develop a Quapaw-informed history of the named village.",
         "Review source variants, village chronology and imagery without inferring disappearance or a separate modern government."
       ]
     },
     "researchGaps": [
-      "Detailed village history and naming variants remain queued.",
-      "Individually relevant cleared imagery remains a gap.",
-      "This historical name does not establish whether a present community uses the same name."
+      "The linked sources introduce the village and its Arkansas River setting. A fuller chronology and additional Quapaw-authored accounts remain to be reviewed."
+    ],
+    "overviewSourceIds": [
+      "s-regional-followup-osotouy-historical-quapaw-village-1-20261127",
+      "s-regional-followup-osotouy-historical-quapaw-village-2-20261127"
     ],
     "slug": "osotouy-historical-quapaw-village",
     "regionGroups": [
@@ -180210,6 +181164,111 @@
         "id": "CA-NS",
         "name": "Nova Scotia",
         "key": "ca-ns"
+      }
+    ]
+  },
+  {
+    "name": "Parkin Historic Site",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous village site",
+    "region": "St. Francis River, northeastern Arkansas",
+    "overview": "The Arkansas Archeological Survey identifies Parkin as a Mississippian-period Indigenous village in what is now Cross County. Both the Survey and the Encyclopedia of Arkansas describe a possible connection to the town of Casqui.",
+    "overviewSourceIds": [
+      "s-ar-parkin-historic-site-1-20261127",
+      "s-ar-parkin-historic-site-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ar-parkin-historic-site-1-20261127",
+        "title": "Parkin Research Station",
+        "url": "https://archeology.uark.edu/who-we-are/research-stations/parkin/",
+        "publisher": "Arkansas Archeological Survey",
+        "type": "Scholarly",
+        "topics": [
+          "St. Francis River, northeastern Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Documents a village along the St. Francis River inside the present state park.",
+        "contentReviewScope": "Documents a village along the St. Francis River inside the present state park.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ar-parkin-historic-site-2-20261127",
+        "title": "Parkin Historic Site",
+        "url": "https://encyclopediaofarkansas.net/entries/parkin-historic-site-570/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "St. Francis River, northeastern Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Explains the evidence for the proposed connection between Parkin and Casqui.",
+        "contentReviewScope": "Explains the evidence for the proposed connection between Parkin and Casqui.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the Survey’s Parkin Research Station page for the village and the state park. The Encyclopedia of Arkansas explains the evidence behind the proposed identification with Casqui.",
+        "sourceIds": [
+          "s-ar-parkin-historic-site-1-20261127",
+          "s-ar-parkin-historic-site-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://archeology.uark.edu/who-we-are/research-stations/parkin/",
+        "title": "Parkin Research Station",
+        "publisher": "Arkansas Archeological Survey",
+        "scope": "Documents a village along the St. Francis River inside the present state park.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://encyclopediaofarkansas.net/entries/parkin-historic-site-570/",
+        "title": "Parkin Historic Site",
+        "publisher": "Encyclopedia of Arkansas",
+        "scope": "Explains the evidence for the proposed connection between Parkin and Casqui.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Parkin Historic Site",
+      "Parkin Archeological State Park",
+      "Casqui"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "parkin-historic-site",
+    "regionGroups": [
+      "Great Plains",
+      "Northeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
       }
     ]
   },
@@ -188913,6 +189972,83 @@
     ]
   },
   {
+    "name": "Plum Bayou Mounds",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous ceremonial center",
+    "region": "Scott, central Arkansas",
+    "overview": "The Arkansas Archeological Survey describes Plum Bayou Mounds as a ceremonial and gathering center in central Arkansas. The site is now part of a state park in Scott.",
+    "overviewSourceIds": [
+      "s-ar-plum-bayou-mounds-1-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ar-plum-bayou-mounds-1-20261127",
+        "title": "Plum Bayou Research Station",
+        "url": "https://archeology.uark.edu/who-we-are/research-stations/toltec/",
+        "publisher": "Arkansas Archeological Survey",
+        "type": "Scholarly",
+        "topics": [
+          "Scott, central Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Identifies the historical ceremonial center and its state park setting in Scott, Arkansas.",
+        "contentReviewScope": "Identifies the historical ceremonial center and its state park setting in Scott, Arkansas.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Survey’s research station describes the center’s role in a network of surrounding villages and hamlets, and explains how the park interprets the site. The credited photograph shows the park grounds.",
+        "sourceIds": [
+          "s-ar-plum-bayou-mounds-1-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://archeology.uark.edu/who-we-are/research-stations/toltec/",
+        "title": "Plum Bayou Research Station",
+        "publisher": "Arkansas Archeological Survey",
+        "scope": "Identifies the historical ceremonial center and its state park setting in Scott, Arkansas.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Plum Bayou Mounds",
+      "Plum Bayou Mounds Archeological State Park"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "plum-bayou-mounds",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      }
+    ]
+  },
+  {
     "name": "Poarch Creek Indians",
     "originalId": null,
     "added": true,
@@ -196856,6 +197992,14 @@
           "c10-quapaw-voices",
           "c10-quapaw-post"
         ]
+      },
+      {
+        "title": "Historical communities along the Arkansas River",
+        "text": "The Quapaw Nation recounts the movement of its people down the Mississippi River into Arkansas. The Encyclopedia of Arkansas and the National Park Service study discuss villages including Osotouy, Kappa and Tourima, and changes in their locations over time.",
+        "sourceIds": [
+          "s-regional-followup-quapaw-1-20261127",
+          "s-regional-followup-quapaw-2-20261127"
+        ]
       }
     ],
     "sources": [
@@ -197017,6 +198161,36 @@
         "contentReviewScope": "Actual history body lines22–24 and displayed date25.",
         "accessNotes": "The modern photograph is not a picture of the seventeenth-century village or the first post’s exact site. Underlying colonial records and linked battle article uninspected.",
         "countReason": "Direct place/identity support; only one founding sentence concerns Quapaw, so excluded from substantive history-source counts after independent review."
+      },
+      {
+        "id": "s-regional-followup-quapaw-1-20261127",
+        "title": "Quapaw",
+        "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Documents historical Quapaw villages and their Arkansas River setting.",
+        "contentReviewScope": "Documents historical Quapaw villages and their Arkansas River setting.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-quapaw-2-20261127",
+        "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf",
+        "publisher": "National Park Service, via GovInfo",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Provides historical accounts of the villages and their connection to Arkansas Post.",
+        "contentReviewScope": "Provides historical accounts of the villages and their connection to Arkansas Post.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -197089,6 +198263,11 @@
       "Great Plains"
     ],
     "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
       {
         "id": "US-MO",
         "name": "Missouri",
@@ -209983,6 +211162,13 @@
           "p10-seminole-bands",
           "p10-seminole-context"
         ]
+      },
+      {
+        "title": "Forced removal through Arkansas",
+        "text": "The National Park Service records several groups of Seminole people passing Arkansas Post during forced removal, beginning in 1836.",
+        "sourceIds": [
+          "s-regional-followup-seminole-1-20261127"
+        ]
       }
     ],
     "sources": [
@@ -210096,6 +211282,21 @@
         "countsTowardMinimum": false,
         "contentReviewScope": "Selected actual paragraphs under Where did the Seminole Tribe come from? and the removal answer naming separate governments, especially web lines 18 and 38. Other returned answers, family/ceremonial material and definitions not adopted.",
         "accessNotes": "Normal public HTTP 200 body read. Broad ancestry/linguistic generalizations, current totals, genealogy and legal/membership statements not independently resolved. No ceremonial instructions or burial locations reproduced. The limited identity selection is excluded from the substantive-work count."
+      },
+      {
+        "id": "s-regional-followup-seminole-1-20261127",
+        "title": "Arkansas Post National Memorial, the Trail of Tears",
+        "url": "https://home.nps.gov/places/arkansas-post-national-memorial-the-trail-of-tears.htm",
+        "publisher": "National Park Service",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The National Park Service records several groups of Seminole people passing Arkansas Post during forced removal, beginning in 1836.",
+        "contentReviewScope": "The National Park Service records several groups of Seminole people passing Arkansas Post during forced removal, beginning in 1836.",
+        "countsTowardMinimum": false
       }
     ],
     "relatedOriginalIds": [
@@ -210162,6 +211363,11 @@
       "Southeast"
     ],
     "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      },
       {
         "id": "US-FL",
         "name": "Florida",
@@ -238171,6 +239377,114 @@
     ]
   },
   {
+    "name": "Tourima (historical Quapaw village)",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous village",
+    "region": "Lower Arkansas River, Arkansas",
+    "overview": "A National Park Service study describes Tourima as one of the historical Quapaw villages and documents its later move to the lower Arkansas River.",
+    "overviewSourceIds": [
+      "s-ar-tourima-historical-quapaw-village-1-20261127",
+      "s-ar-tourima-historical-quapaw-village-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ar-tourima-historical-quapaw-village-1-20261127",
+        "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf",
+        "publisher": "National Park Service, via GovInfo",
+        "type": "Government",
+        "topics": [
+          "Lower Arkansas River, Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Names Tourima and reports its later move to the lower Arkansas River.",
+        "contentReviewScope": "Names Tourima and reports its later move to the lower Arkansas River.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ar-tourima-historical-quapaw-village-2-20261127",
+        "title": "Quapaw",
+        "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/",
+        "publisher": "Encyclopedia of Arkansas",
+        "type": "Scholarly",
+        "topics": [
+          "Lower Arkansas River, Arkansas"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Places Tourima among the Quapaw villages on the Arkansas River around the time of the Louisiana Purchase.",
+        "contentReviewScope": "Places Tourima among the Quapaw villages on the Arkansas River around the time of the Louisiana Purchase.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Read the National Park Service study and the Encyclopedia of Arkansas together for the village’s changing location. The encyclopedia includes Tourima among the Arkansas River villages around the time of the Louisiana Purchase. The photograph shows the modern river landscape at Arkansas Post National Memorial.",
+        "sourceIds": [
+          "s-ar-tourima-historical-quapaw-village-1-20261127",
+          "s-ar-tourima-historical-quapaw-village-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-I29-PURL-gpo235590/pdf/GOVPUB-I29-PURL-gpo235590.pdf",
+        "title": "A Many-Storied Place: Historic Resource Study, Arkansas Post National Memorial",
+        "publisher": "National Park Service, via GovInfo",
+        "scope": "Names Tourima and reports its later move to the lower Arkansas River.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://encyclopediaofarkansas.net/entries/quapaw-550/",
+        "title": "Quapaw",
+        "publisher": "Encyclopedia of Arkansas",
+        "scope": "Places Tourima among the Quapaw villages on the Arkansas River around the time of the Louisiana Purchase.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Tourima (historical Quapaw village)",
+      "Quapaw villages",
+      "lower Arkansas River"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "quapaw",
+      "kappa-historical-quapaw-village",
+      "osotouy-historical-quapaw-village"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "tourima-historical-quapaw-village",
+    "regionGroups": [
+      "Great Plains"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-AR",
+        "name": "Arkansas",
+        "key": "us-ar"
+      }
+    ]
+  },
+  {
     "originalId": 396,
     "name": "Towa",
     "region": "Southwest / New Mexico",
@@ -255986,6 +257300,114 @@
         "id": "CA-BC",
         "name": "British Columbia",
         "key": "ca-bc"
+      }
+    ]
+  },
+  {
+    "name": "White Apple",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Natchez settlement district",
+    "region": "Natchez Bluffs, southwest Mississippi",
+    "overview": "Ian W. Brown describes White Apple as a village area in the historical Natchez settlement landscape of southwest Mississippi. His study treats village areas as districts that could include several hamlets.",
+    "overviewSourceIds": [
+      "s-ms-white-apple-1-20261127",
+      "s-ms-white-apple-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-ms-white-apple-1-20261127",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Scholarly",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Brown’s text and Figure 3 identify White Apple in the historical settlement landscape of the Natchez Bluffs.",
+        "contentReviewScope": "Brown’s text and Figure 3 identify White Apple in the historical settlement landscape of the Natchez Bluffs.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-ms-white-apple-2-20261127",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "publisher": "Mississippi Department of Archives and History",
+        "type": "Government",
+        "topics": [
+          "Natchez Bluffs, southwest Mississippi"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "contentReviewScope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with Brown’s discussion of the village areas around Figure 3. The Grand Village guide offers additional context for the Natchez. The accompanying photograph shows a dwelling reconstructed at the Grand Village.",
+        "sourceIds": [
+          "s-ms-white-apple-1-20261127",
+          "s-ms-white-apple-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.mdah.ms.gov/sites/default/files/2020-04/AR-15.pdf",
+        "title": "Natchez Indian Archaeology — Ian W. Brown (1985)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Brown’s text and Figure 3 identify White Apple in the historical settlement landscape of the Natchez Bluffs.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://trails.mdah.ms.gov/grandvillage",
+        "title": "Grand Village (Natchez Tribal History Center)",
+        "publisher": "Mississippi Department of Archives and History",
+        "scope": "Provides historical and interpretive context for the Natchez at the Grand Village in Mississippi.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "White Apple",
+      "Natchez settlement district",
+      "Natchez Bluffs"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [
+      "natchez",
+      "grand-village-of-the-natchez-indians"
+    ],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    },
+    "slug": "white-apple",
+    "regionGroups": [
+      "Southwest",
+      "Southeast"
+    ],
+    "mapRegions": [
+      {
+        "id": "US-MS",
+        "name": "Mississippi",
+        "key": "us-ms"
       }
     ]
   },
