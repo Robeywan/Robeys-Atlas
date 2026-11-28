@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2228,
+    "selectedProfiles": 2230,
     "existingApache": 1,
-    "newProfileTreatments": 2227,
-    "newTreatmentsWithPhotographs": 2057,
+    "newProfileTreatments": 2229,
+    "newTreatmentsWithPhotographs": 2059,
     "decorativeTreatmentsAwaitingPhotographs": 170,
     "autoEnrolledThisBuild": []
   },
@@ -94716,6 +94716,70 @@
       "substantiveInspectedSources": 0
     },
     {
+      "slug": "opelousa",
+      "name": "Opelousa",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 99,
+      "angle": -28,
+      "composition": "ribbon",
+      "images": [
+        {
+          "id": "la-opelousa-licensed-photo",
+          "title": "Bayou Teche in St. Landry Parish",
+          "alt": "Tree-lined Bayou Teche in St. Landry Parish, Louisiana",
+          "scope": "Shane K. Bernard photographed this stretch of Bayou Teche in St. Landry Parish in October 2011. The waterway is the setting discussed in the linked history. The web copies are recompressed.",
+          "creator": "Shane K. Bernard",
+          "credit": "Photo: Shane K. Bernard",
+          "cardCredit": "Photo: Shane K. Bernard",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "opelousa"
+          ],
+          "reviewedAt": "2026-11-28",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayou_Teche.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bayou_Teche.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Bayou Teche",
+              "url": "https://64parishes.org/entry/bayou-teche"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-opelousa-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/la-opelousa-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 620,
+              "height": 415,
+              "bytes": 62534,
+              "sha256": "c91bc2048040255b9edd901131ea2043f97dc773373d169ae0bb52fa06cfe4af"
+            },
+            "cardAsset": {
+              "width": 620,
+              "height": 415,
+              "bytes": 65167,
+              "sha256": "263a03566c13a7e08d610ade8b04b7df20b06d606828a15b76d8c288d2019446"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:99;--profile-angle:-28deg;--profile-photo:url(\"../../assets/profile-visuals/la-opelousa-licensed-photo.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
       "slug": "opiponnapiwin-cree-nation",
       "name": "O-Pipon-Na-Piwin Cree Nation",
       "originalId": null,
@@ -123027,6 +123091,70 @@
         "used": 1
       },
       "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:246;--profile-angle:-15deg;--profile-photo:url(\"../../assets/profile-visuals/bc-photo-taku-river-tlingit-first-nation.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "talimali-band-of-the-apalachee-indians-of-louisiana",
+      "name": "Talimali Band of the Apalachee Indians of Louisiana",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 350,
+      "angle": -37,
+      "composition": "wash",
+      "images": [
+        {
+          "id": "la-talimali-pineville-red-river-licensed-photo",
+          "title": "Jackson Street Bridge over the Red River",
+          "alt": "Jackson Street Bridge over the Red River in central Louisiana",
+          "scope": "A photograph of the Red River crossing between Alexandria and Pineville, where the Talimali Band is based. The web copies are resized and recompressed.",
+          "creator": "Billy Hathorn",
+          "credit": "Photo: Billy Hathorn",
+          "cardCredit": "Photo: Billy Hathorn",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "talimali-band-of-the-apalachee-indians-of-louisiana"
+          ],
+          "reviewedAt": "2026-11-28",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jackson_Street_Bridge_atop_Red_River_in_Alexandria,_LA_IMG_1135.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Jackson_Street_Bridge_atop_Red_River_in_Alexandria%2C_LA_IMG_1135.JPG",
+          "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "rightsLabel": "CC BY-SA 3.0",
+          "contextSources": [
+            {
+              "title": "Talimali Band of the Apalachee Indians of Louisiana",
+              "url": "https://talimaliband.com/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-talimali-pineville-red-river-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/la-talimali-pineville-red-river-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 96647,
+              "sha256": "b5e50f61dda7a9940e1dde8d1df3ec70fe70b97af64174693c2163b34e5f8a1a"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 34109,
+              "sha256": "9b857b11f27680980b558d70947d99f645af92c890aed12ff8debebcae8a6809"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:350;--profile-angle:-37deg;--profile-photo:url(\"../../assets/profile-visuals/la-talimali-pineville-red-river-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
