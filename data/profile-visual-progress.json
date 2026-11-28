@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2230,
+    "selectedProfiles": 2232,
     "existingApache": 1,
-    "newProfileTreatments": 2229,
-    "newTreatmentsWithPhotographs": 2059,
+    "newProfileTreatments": 2231,
+    "newTreatmentsWithPhotographs": 2061,
     "decorativeTreatmentsAwaitingPhotographs": 170,
     "autoEnrolledThisBuild": []
   },
@@ -9966,7 +9966,8 @@
           "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
           "mediaType": "photograph",
           "profileSlugs": [
-            "bayogoula"
+            "bayogoula",
+            "mugulasha"
           ],
           "reviewedAt": "2026-11-27",
           "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
@@ -10008,6 +10009,74 @@
         "used": 1
       },
       "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:210;--profile-angle:-14deg;--profile-photo:url(\"../../assets/profile-visuals/la-bayogoula-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "bayou-lacombe-band-of-choctaw",
+      "name": "Bayou Lacombe Band of Choctaw",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 235,
+      "angle": 74,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "la-bayou-lacombe-stereograph-licensed-photo",
+          "title": "Historic stereograph of Bayou Lacombe",
+          "alt": "Two historic stereoscopic photographs of Bayou Lacombe, Louisiana",
+          "scope": "George F. Mugnier’s historic view of Bayou Lacombe comes from the New York Public Library’s Robert N. Dennis collection of stereoscopic views. The web copies are resized and recompressed.",
+          "creator": "George F. Mugnier",
+          "credit": "Photo: George F. Mugnier, New York Public Library",
+          "cardCredit": "Photo: George F. Mugnier, New York Public Library",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "bayou-lacombe-band-of-choctaw"
+          ],
+          "reviewedAt": "2026-11-28",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayou_Lacombe,_by_George_F._Mugnier.png",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bayou_Lacombe%2C_by_George_F._Mugnier.png",
+          "rightsUrl": "https://commons.wikimedia.org/wiki/File:Bayou_Lacombe,_by_George_F._Mugnier.png#Licensing",
+          "rightsLabel": "Public domain in the United States",
+          "contextSources": [
+            {
+              "title": "Scierra LeGarde of the Bayou Lacombe Band of Choctaw",
+              "url": "https://www.bvlbanchapublicaccess.com/meet-the-stream/scierra-legarde-bayou-lacombe-choctaw"
+            },
+            {
+              "title": "History At A Glance: Lacombe, Gateway to the Big Branch Marsh National Wildlife Refuge",
+              "url": "https://www.sttammanylibrary.org/blogs/post/history-at-a-glance-lacombe-gateway-to-the-big-branch-marsh-and-wildlife-refuge/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-bayou-lacombe-stereograph-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/la-bayou-lacombe-stereograph-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 686,
+              "bytes": 185342,
+              "sha256": "477b40c40a9607f1f379a4dc12ea55a21fe6f4fef688b377571adebfc9c2f17c"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 389,
+              "bytes": 71168,
+              "sha256": "2e1dbfdf2bb25ce0a8ac1ce664f87c763bcda5e370d82a97c6cd6932a9840915"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:235;--profile-angle:74deg;--profile-photo:url(\"../../assets/profile-visuals/la-bayou-lacombe-stereograph-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -74900,6 +74969,75 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "mugulasha",
+      "name": "Mugulasha",
+      "originalId": null,
+      "paper": "#e8f0ec",
+      "accent": "#2d5b53",
+      "hue": 286,
+      "angle": 45,
+      "composition": "orbit",
+      "images": [
+        {
+          "id": "la-bayogoula-aerial",
+          "title": "The Mississippi River near Bayou Goula",
+          "alt": "Aerial photograph of the Mississippi River and the Bayou Goula area in Iberville Parish",
+          "scope": "A present-day view of the Mississippi River and Bayou Goula area described in the historical sources. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "bayogoula",
+            "mugulasha"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10150968.87%2C3528999.45%2C-10146803.11%2C3532123.77&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "New Map of the River Mississipi [sic] from the Sea to Bayagoulas",
+              "url": "https://louisianastatemuseum.org/map-collection/new-map-river-mississipi-sic-sea-bayagoulas"
+            },
+            {
+              "title": "Bayou Goula geographic location",
+              "url": "https://roadsidethoughts.com/la/bayou-goula-xx-iberville-misc.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-bayogoula-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-bayogoula-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 194591,
+              "sha256": "1d5d6f82e30a3d245231931ba3a5891104312c1bf1a7baa4522e6fe83b84daa5"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 59513,
+              "sha256": "0c9be0228ee6bc9b687d6c51b91049a0ec7233c3bedbcdac00c24bd853d87aab"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#e8f0ec;--profile-accent:#2d5b53;--profile-hue:286;--profile-angle:45deg;--profile-photo:url(\"../../assets/profile-visuals/la-bayogoula-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "munsee",
