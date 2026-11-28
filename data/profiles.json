@@ -237642,6 +237642,36 @@
         "annotation": "Names Pascagoula in the discussion of French colonial records.",
         "contentReviewScope": "Names Pascagoula in the discussion of French colonial records.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-pascagoula-1-20261127",
+        "title": "Pascagoula Indians",
+        "url": "https://www.tshaonline.org/handbook/entries/pascagoula-indians",
+        "publisher": "Thomas N. Campbell, Texas State Historical Association",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Campbell documents an eighteenth-century Pascagoula settlement near the mouth of the Red River in Louisiana.",
+        "contentReviewScope": "Campbell documents an eighteenth-century Pascagoula settlement near the mouth of the Red River in Louisiana.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-pascagoula-2-20261127",
+        "title": "Indian Tribes of the Lower Mississippi Valley and Adjacent Coast of the Gulf of Mexico, page 305",
+        "url": "https://texashistory.unt.edu/ark:/67531/metapth29404/m1/327/",
+        "publisher": "John R. Swanton, via University of North Texas Libraries",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The page presents historical accounts of Pascagoula communities on the Red River and at Bayou Boeuf in Louisiana.",
+        "contentReviewScope": "The page presents historical accounts of Pascagoula communities on the Red River and at Bayou Boeuf in Louisiana.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -237651,6 +237681,14 @@
         "sourceIds": [
           "s-ms-pascagoula-1-20261127",
           "s-ms-pascagoula-2-20261127"
+        ]
+      },
+      {
+        "title": "Pascagoula settlements in Louisiana",
+        "text": "Thomas N. Campbell’s account describes Pascagoula movement west from the Gulf Coast and settlement near the mouth of the Red River in Louisiana during the eighteenth century. John R. Swanton’s study discusses later movement toward Bayou Boeuf and reproduces John Sibley’s early nineteenth-century account of a community on the Red River.",
+        "sourceIds": [
+          "s-regional-followup-pascagoula-1-20261127",
+          "s-regional-followup-pascagoula-2-20261127"
         ]
       }
     ],
@@ -240755,6 +240793,73 @@
     "searchTerms": [
       "Washa",
       "Bayou Lafourche"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Tangipahoa",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous people",
+    "region": "Present-day Tangipahoa Parish, Louisiana",
+    "overview": "Louisiana’s parish profile identifies the historical Tangipahoa as the people for whom Tangipahoa Parish was named. It places the community in that part of present-day Louisiana during the early French colonial period.",
+    "overviewSourceIds": [
+      "s-la-tangipahoa-1-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-tangipahoa-1-20261127",
+        "title": "Tangipahoa Parish Health Profile",
+        "url": "https://ldh.la.gov/assets/docs/SurveillanceReports/php/PHP2005/PDF/Tangipahoa/ParishTangipahoa.pdf",
+        "publisher": "Louisiana Department of Health",
+        "type": "Government",
+        "topics": [
+          "Present-day Tangipahoa Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The opening parish history identifies the Tangipahoa people and their historical connection to the area now known as Tangipahoa Parish.",
+        "contentReviewScope": "The opening parish history identifies the Tangipahoa people and their historical connection to the area now known as Tangipahoa Parish.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The opening history section of the parish profile introduces the Tangipahoa name and its Louisiana setting. The parish lies north of Lake Pontchartrain.",
+        "sourceIds": [
+          "s-la-tangipahoa-1-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://ldh.la.gov/assets/docs/SurveillanceReports/php/PHP2005/PDF/Tangipahoa/ParishTangipahoa.pdf",
+        "title": "Tangipahoa Parish Health Profile",
+        "publisher": "Louisiana Department of Health",
+        "scope": "The opening parish history identifies the Tangipahoa people and their historical connection to the area now known as Tangipahoa Parish.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Tangipahoa",
+      "Tangipahoa Parish",
+      "Lake Pontchartrain"
     ],
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],
