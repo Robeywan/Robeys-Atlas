@@ -237262,6 +237262,36 @@
         "annotation": "Identifies Koroa in the region of the lower Yazoo Basin around 1700.",
         "contentReviewScope": "Identifies Koroa in the region of the lower Yazoo Basin around 1700.",
         "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-koroa-1-20261127",
+        "title": "Koroa",
+        "url": "https://encyclopediaofarkansas.net/entries/Koroa-2600/",
+        "publisher": "Encyclopedia of Arkansas, Central Arkansas Library System",
+        "type": "Scholarly",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "Reviews historical accounts of Koroa settlements west of the Mississippi River and trade in northeastern Louisiana, with explicit limits on site identification.",
+        "contentReviewScope": "Reviews historical accounts of Koroa settlements west of the Mississippi River and trade in northeastern Louisiana, with explicit limits on site identification.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-regional-followup-koroa-2-20261127",
+        "title": "Louisiana’s Comprehensive Archaeological Plan",
+        "url": "https://www.crt.la.gov/Assets/OCD/archaeology/CRM-Resources/Section106/Comprehensive%20Plan%202022.pdf",
+        "publisher": "Louisiana Division of Archaeology",
+        "type": "Government",
+        "topics": [
+          "Regional research"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The post-contact section describes probable Koroa settlement in northeastern Louisiana during the late seventeenth and early eighteenth centuries.",
+        "contentReviewScope": "The post-contact section describes probable Koroa settlement in northeastern Louisiana during the late seventeenth and early eighteenth centuries.",
+        "countsTowardMinimum": false
       }
     ],
     "sections": [
@@ -237271,6 +237301,14 @@
         "sourceIds": [
           "s-ms-koroa-1-20261127",
           "s-ms-koroa-2-20261127"
+        ]
+      },
+      {
+        "title": "Koroa in northeastern Louisiana",
+        "text": "The Encyclopedia of Arkansas reviews early reports of Koroa settlements and trade in northeastern Louisiana. Louisiana’s archaeological plan places Koroa people in that same broad area around the turn of the eighteenth century. The exact locations of individual settlements remain uncertain.",
+        "sourceIds": [
+          "s-regional-followup-koroa-1-20261127",
+          "s-regional-followup-koroa-2-20261127"
         ]
       }
     ],
@@ -240464,6 +240502,259 @@
       "Ouachita people",
       "Ouachita River",
       "Monroe Louisiana"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Bayogoula",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous people",
+    "region": "Bayou Goula area, Iberville Parish, Louisiana",
+    "overview": "Historical sources place the Bayogoula along the Mississippi River near present-day Bayou Goula in Iberville Parish. An LSU anthropology thesis reexamines evidence about settlements in the area.",
+    "overviewSourceIds": [
+      "s-la-bayogoula-1-20261127",
+      "s-la-bayogoula-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-bayogoula-1-20261127",
+        "title": "New Map of the River Mississipi [sic] from the Sea to Bayagoulas",
+        "url": "https://louisianastatemuseum.org/map-collection/new-map-river-mississipi-sic-sea-bayagoulas",
+        "publisher": "Louisiana State Museums",
+        "type": "Government",
+        "topics": [
+          "Bayou Goula area, Iberville Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The museum catalogue explains the historical label and connects it to the Bayou Goula area in Iberville Parish.",
+        "contentReviewScope": "The museum catalogue explains the historical label and connects it to the Bayou Goula area in Iberville Parish.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-bayogoula-2-20261127",
+        "title": "Where Did the Bayogoula Dance; Why Do They Sing No More",
+        "url": "https://repository.lsu.edu/gradschool_disstheses/8424/",
+        "publisher": "Glen G. Fredlund, Louisiana State University",
+        "type": "Scholarly",
+        "topics": [
+          "Bayou Goula area, Iberville Parish, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The thesis abstract describes an investigation of historical Bayogoula settlement evidence near Bayou Goula and notes that site identifications remain hypotheses.",
+        "contentReviewScope": "The thesis abstract describes an investigation of historical Bayogoula settlement evidence near Bayou Goula and notes that site identifications remain hypotheses.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "The Louisiana State Museums catalogue describes the Bayagoulas label on a historical map and explains its connection to modern Bayou Goula. Glen G. Fredlund’s thesis abstract outlines questions about the interpretation of archaeological sites in the area.",
+        "sourceIds": [
+          "s-la-bayogoula-1-20261127",
+          "s-la-bayogoula-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://louisianastatemuseum.org/map-collection/new-map-river-mississipi-sic-sea-bayagoulas",
+        "title": "New Map of the River Mississipi [sic] from the Sea to Bayagoulas",
+        "publisher": "Louisiana State Museums",
+        "scope": "The museum catalogue explains the historical label and connects it to the Bayou Goula area in Iberville Parish.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://repository.lsu.edu/gradschool_disstheses/8424/",
+        "title": "Where Did the Bayogoula Dance; Why Do They Sing No More",
+        "publisher": "Glen G. Fredlund, Louisiana State University",
+        "scope": "The thesis abstract describes an investigation of historical Bayogoula settlement evidence near Bayou Goula and notes that site identifications remain hypotheses.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Bayogoula",
+      "Bayou Goula",
+      "Iberville Parish"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Acolapissa",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous people",
+    "region": "Pearl River and Lake Pontchartrain’s north shore, Louisiana",
+    "overview": "St. Tammany Parish Library describes Acolapissa villages near the Pearl River at the end of the seventeenth century and a later move to Bayou Castine on Lake Pontchartrain’s north shore.",
+    "overviewSourceIds": [
+      "s-la-acolapissa-1-20261127",
+      "s-la-acolapissa-2-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-acolapissa-1-20261127",
+        "title": "The Acolapissa",
+        "url": "https://www.sttammanylibrary.org/blogs/post/the-acolapissa/",
+        "publisher": "St. Tammany Parish Library",
+        "type": "Government",
+        "topics": [
+          "Pearl River and Lake Pontchartrain’s north shore, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The library discusses Acolapissa communities near the Pearl River and Bayou Castine and identifies the historical accounts behind its discussion.",
+        "contentReviewScope": "The library discusses Acolapissa communities near the Pearl River and Bayou Castine and identifies the historical accounts behind its discussion.",
+        "countsTowardMinimum": false
+      },
+      {
+        "id": "s-la-acolapissa-2-20261127",
+        "title": "Indians of Louisiana",
+        "url": "https://louisiana-anthology.org/303_download/texts/inter-tribal_council--indians_of_la/inter-tribal_council--indians_of_louisiana.html",
+        "publisher": "Inter-Tribal Council of Louisiana, via Louisiana Anthology",
+        "type": "Community",
+        "topics": [
+          "Pearl River and Lake Pontchartrain’s north shore, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Natchitoches section describes the Acolapissa in a historical Lake Pontchartrain north shore context.",
+        "contentReviewScope": "The Natchitoches section describes the Acolapissa in a historical Lake Pontchartrain north shore context.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "Start with the library’s historical account for the Pearl River and Bayou Castine settings. The Inter-Tribal Council of Louisiana’s history also places the Acolapissa near the north shore of Lake Pontchartrain in its discussion of the Natchitoches.",
+        "sourceIds": [
+          "s-la-acolapissa-1-20261127",
+          "s-la-acolapissa-2-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://www.sttammanylibrary.org/blogs/post/the-acolapissa/",
+        "title": "The Acolapissa",
+        "publisher": "St. Tammany Parish Library",
+        "scope": "The library discusses Acolapissa communities near the Pearl River and Bayou Castine and identifies the historical accounts behind its discussion.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      },
+      {
+        "url": "https://louisiana-anthology.org/303_download/texts/inter-tribal_council--indians_of_la/inter-tribal_council--indians_of_louisiana.html",
+        "title": "Indians of Louisiana",
+        "publisher": "Inter-Tribal Council of Louisiana, via Louisiana Anthology",
+        "scope": "The Natchitoches section describes the Acolapissa in a historical Lake Pontchartrain north shore context.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Acolapissa",
+      "St. Tammany Parish",
+      "Lake Pontchartrain",
+      "Bayou Castine"
+    ],
+    "relatedOriginalIds": [],
+    "relatedProfileSlugs": [],
+    "initialAdequacy": {
+      "status": "Not assessed",
+      "reviewedAt": null,
+      "rationale": "These sources support the starting guide’s name and documented regional setting."
+    }
+  },
+  {
+    "name": "Washa",
+    "originalId": null,
+    "added": true,
+    "compiledAt": "2026-11-27",
+    "kind": "Historical Indigenous community",
+    "region": "Bayou Lafourche, Louisiana",
+    "overview": "The Inter-Tribal Council of Louisiana’s history records a Washa community on Bayou Lafourche in 1699. The bayou is the historical Louisiana connection for this entry.",
+    "overviewSourceIds": [
+      "s-la-washa-1-20261127"
+    ],
+    "entryStage": "source-context",
+    "researchStatus": "source-guide",
+    "coverageLevel": "limited-source-context",
+    "sources": [
+      {
+        "id": "s-la-washa-1-20261127",
+        "title": "Indians of Louisiana",
+        "url": "https://louisiana-anthology.org/303_download/texts/inter-tribal_council--indians_of_la/inter-tribal_council--indians_of_louisiana.html",
+        "publisher": "Inter-Tribal Council of Louisiana, via Louisiana Anthology",
+        "type": "Community",
+        "topics": [
+          "Bayou Lafourche, Louisiana"
+        ],
+        "accessed": "2026-11-27",
+        "contentReviewedAt": "2026-11-27",
+        "annotation": "The Washa section records a community on Bayou Lafourche in 1699.",
+        "contentReviewScope": "The Washa section records a community on Bayou Lafourche in 1699.",
+        "countsTowardMinimum": false
+      }
+    ],
+    "sections": [
+      {
+        "title": "Where to start",
+        "text": "See the Washa heading in Indians of Louisiana for the council’s short account of the historical community and its Bayou Lafourche setting.",
+        "sourceIds": [
+          "s-la-washa-1-20261127"
+        ]
+      }
+    ],
+    "researchComplete": false,
+    "relationshipNote": "",
+    "identificationEvidence": [
+      {
+        "url": "https://louisiana-anthology.org/303_download/texts/inter-tribal_council--indians_of_la/inter-tribal_council--indians_of_louisiana.html",
+        "title": "Indians of Louisiana",
+        "publisher": "Inter-Tribal Council of Louisiana, via Louisiana Anthology",
+        "scope": "The Washa section records a community on Bayou Lafourche in 1699.",
+        "reviewedAt": "2026-11-27",
+        "identityOnly": true,
+        "countsTowardMinimum": false
+      }
+    ],
+    "identityVerifiedAt": "2026-11-27",
+    "searchTerms": [
+      "Washa",
+      "Bayou Lafourche"
     ],
     "relatedOriginalIds": [],
     "relatedProfileSlugs": [],

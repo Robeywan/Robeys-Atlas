@@ -3,10 +3,10 @@
   "scope": "Visual treatments for published developed profiles, explicitly adequate initial introductions, and later evidence-backed updates. Visual completion does not establish research completion or community endorsement. Apache retains its existing independent collage.",
   "decoration": "Neutral abstract interface forms are not attributed Indigenous artwork, traditional motifs, territorial maps, or historical reconstructions. Authentic photographs require reviewed identity, relevance, scope, and reuse records.",
   "summary": {
-    "selectedProfiles": 2224,
+    "selectedProfiles": 2227,
     "existingApache": 1,
-    "newProfileTreatments": 2223,
-    "newTreatmentsWithPhotographs": 2053,
+    "newProfileTreatments": 2226,
+    "newTreatmentsWithPhotographs": 2056,
     "decorativeTreatmentsAwaitingPhotographs": 170,
     "autoEnrolledThisBuild": []
   },
@@ -882,6 +882,70 @@
         "used": 1
       },
       "style": "--profile-paper:#edf2e8;--profile-accent:#355b43;--profile-hue:233;--profile-angle:-36deg;--profile-photo:url(\"../../assets/profile-visuals/aciipihkahkionki-wabash-vincennes.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
+    },
+    {
+      "slug": "acolapissa",
+      "name": "Acolapissa",
+      "originalId": null,
+      "paper": "#eaf0f2",
+      "accent": "#365568",
+      "hue": 3,
+      "angle": 45,
+      "composition": "sweep",
+      "images": [
+        {
+          "id": "la-acolapissa-licensed-photo",
+          "title": "Fontainebleau State Park on Lake Pontchartrain",
+          "alt": "Modern park cabins on the shore of Lake Pontchartrain in Fontainebleau State Park",
+          "scope": "Modern park cabins on Lake Pontchartrain’s north shore provide a view of the shoreline discussed in the historical sources. The image is resized for the web.",
+          "creator": "Mark Holloway",
+          "credit": "Photo: Mark Holloway",
+          "cardCredit": "Photo: Mark Holloway",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "acolapissa"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fontainebleau_State_Park,_Louisiana_2019_10.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Fontainebleau_State_Park%2C_Louisiana_2019_10.jpg",
+          "rightsUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "rightsLabel": "CC BY 2.0",
+          "contextSources": [
+            {
+              "title": "The Acolapissa",
+              "url": "https://www.sttammanylibrary.org/blogs/post/the-acolapissa/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-acolapissa-licensed-photo.jpg",
+          "cardAsset": "assets/profile-visuals/la-acolapissa-licensed-photo-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 762,
+              "bytes": 141517,
+              "sha256": "724b2a10057117fb0aaef2f0dafd39aed3583d4040747ea8a75bfd6968bc61ee"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 432,
+              "bytes": 49416,
+              "sha256": "27323c4e7904bd20b815cdd6dc876a3acb9e60f42a1c25c8d3b2fc22498c230f"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#eaf0f2;--profile-accent:#365568;--profile-hue:3;--profile-angle:45deg;--profile-photo:url(\"../../assets/profile-visuals/la-acolapissa-licensed-photo.jpg\")",
       "preserveExistingApache": false,
       "treatmentStatus": "Card-coordinated profile backdrop prepared",
       "researchComplete": false,
@@ -9881,6 +9945,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 2
+    },
+    {
+      "slug": "bayogoula",
+      "name": "Bayogoula",
+      "originalId": null,
+      "paper": "#f3eae4",
+      "accent": "#754439",
+      "hue": 210,
+      "angle": -14,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "la-bayogoula-aerial",
+          "title": "The Mississippi River near Bayou Goula",
+          "alt": "Aerial photograph of the Mississippi River and the Bayou Goula area in Iberville Parish",
+          "scope": "A present-day view of the Mississippi River and Bayou Goula area described in the historical sources. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "bayogoula"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10150968.87%2C3528999.45%2C-10146803.11%2C3532123.77&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "New Map of the River Mississipi [sic] from the Sea to Bayagoulas",
+              "url": "https://louisianastatemuseum.org/map-collection/new-map-river-mississipi-sic-sea-bayagoulas"
+            },
+            {
+              "title": "Bayou Goula geographic location",
+              "url": "https://roadsidethoughts.com/la/bayou-goula-xx-iberville-misc.htm"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-bayogoula-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-bayogoula-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 194591,
+              "sha256": "1d5d6f82e30a3d245231931ba3a5891104312c1bf1a7baa4522e6fe83b84daa5"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 59513,
+              "sha256": "0c9be0228ee6bc9b687d6c51b91049a0ec7233c3bedbcdac00c24bd853d87aab"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3eae4;--profile-accent:#754439;--profile-hue:210;--profile-angle:-14deg;--profile-photo:url(\"../../assets/profile-visuals/la-bayogoula-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "bayou-lafourche-band-of-biloxi-chitimacha",
@@ -137369,6 +137501,74 @@
       "researchComplete": false,
       "initialAdequacy": "Still unfinished",
       "substantiveInspectedSources": 3
+    },
+    {
+      "slug": "washa",
+      "name": "Washa",
+      "originalId": null,
+      "paper": "#f3efd9",
+      "accent": "#68602f",
+      "hue": 221,
+      "angle": 67,
+      "composition": "arc",
+      "images": [
+        {
+          "id": "la-washa-aerial",
+          "title": "Bayou Lafourche at Thibodaux",
+          "alt": "Aerial photograph of Bayou Lafourche as it passes through Thibodaux, Louisiana",
+          "scope": "This modern stretch of Bayou Lafourche shows the Louisiana waterway named in the Inter-Tribal Council’s historical account. The image is resized for the web.",
+          "creator": "U.S. Geological Survey, U.S. Department of Agriculture and The National Map",
+          "credit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "cardCredit": "Aerial photo: USDA NAIP, available from U.S. Geological Survey, National Geospatial Program",
+          "mediaType": "photograph",
+          "profileSlugs": [
+            "washa"
+          ],
+          "reviewedAt": "2026-11-27",
+          "sourceUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+          "sourceImageUrl": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer/exportImage?bbox=-10110987.44%2C3477112.13%2C-10109662.22%2C3478106.05&bboxSR=3857&imageSR=3857&size=1200%2C900&format=jpg&compressionQuality=88&bandIds=0%2C1%2C2&f=image",
+          "rightsUrl": "https://www.usgs.gov/national-map-supporting-themes",
+          "rightsLabel": "Public domain · The National Map",
+          "contextSources": [
+            {
+              "title": "Indians of Louisiana",
+              "url": "https://louisiana-anthology.org/303_download/texts/inter-tribal_council--indians_of_la/inter-tribal_council--indians_of_louisiana.html"
+            },
+            {
+              "title": "Bayou Lafourche at Thibodaux, LA",
+              "url": "https://waterqualitydata.epa.gov/provider/NWIS/USGS-LA/USGS-07381000/"
+            }
+          ],
+          "asset": "assets/profile-visuals/la-washa-aerial.jpg",
+          "cardAsset": "assets/profile-visuals/la-washa-aerial-card.jpg",
+          "derivatives": {
+            "asset": {
+              "width": 1200,
+              "height": 900,
+              "bytes": 397827,
+              "sha256": "03dc5fa5f4417670b9019e2e0ceaad396853939312ef41db5e46a72b96af0437"
+            },
+            "cardAsset": {
+              "width": 680,
+              "height": 510,
+              "bytes": 127988,
+              "sha256": "b9e36f116b0e77ede26b7f97ca2c53103d6ffab3294676db966178e1c55907f7"
+            }
+          }
+        }
+      ],
+      "eligibilityBasis": "Reviewed image-only treatment; substantive research assessment remains pending",
+      "imageCoverage": {
+        "status": "Verified photographs with scoped credits",
+        "available": 1,
+        "used": 1
+      },
+      "style": "--profile-paper:#f3efd9;--profile-accent:#68602f;--profile-hue:221;--profile-angle:67deg;--profile-photo:url(\"../../assets/profile-visuals/la-washa-aerial.jpg\")",
+      "preserveExistingApache": false,
+      "treatmentStatus": "Card-coordinated profile backdrop prepared",
+      "researchComplete": false,
+      "initialAdequacy": "Not assessed",
+      "substantiveInspectedSources": 0
     },
     {
       "slug": "washagamis-bay-first-nation",
